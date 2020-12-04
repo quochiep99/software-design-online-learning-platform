@@ -1,34 +1,77 @@
 const mongoose = require("mongoose");
 
+const reqString = {
+    type: String,
+    required: true
+}
+const reqNum = {
+    type: Number,
+    default: 0
+}
+
 const CourseSchema = new mongoose.Schema({
-    title: {
-        type: String,
-        required: true        
-    },
-    field: {
-        type: String,
-        required: true        
-    },
+    // course's title
+    title: reqString,
+
+    // the subtitle of the course
+    subtitle: reqString,
+
+    // the field that the course belongs to
+    field: reqString,
+
+    // instructor's name
     instructor: {
-        type: String,
-        required: true
+        id: {
+            type: mongoose.Schema.Types.ObjectId,
+            ref: "User"
+        },
+        username: reqString
     },
-    rating: {
-        type: Number,
-        default: 0
-    },
+
+    // reviews of the course
+    reviews: [
+        {
+            id: {
+                type: mongoose.Schema.Types.ObjectId,
+                ref: "Reviews"
+            },
+            author: {
+                id: {
+                    type: mongoose.Schema.Types.ObjectId,
+                    ref: "User"
+                },
+                username: reqString
+            }
+        }
+
+    ],
+
+    // course's average ratings
+    rating: reqNum,
+
+    // number of students rating the course
+    numRatingStudents: reqNum,
+
+    // number of students enrolling in the course
+    numEnrollments: reqNum,
+
+    // course image
     courseImage: {
         type: String
     },
-    cost: {
-        type: Number,
-        default: 0
 
-    },
+    // cost of the course
+    cost: reqNum,
 
-    //number of views of this course
-    numViews: {
-        type: Number,
-        default: 0
-    }
+    // number of views of this course
+    numViews: reqNum,
+
+    // detailed descriptions of the course
+    descriptions: [
+        reqString
+    ]
+}, {
+    timestamps: true
 })
+
+module.exports = mongoose.model("Course", CourseSchema);
