@@ -24,6 +24,9 @@
     <link href="css/style.css" rel="stylesheet">
 	<link href="css/vendors.css" rel="stylesheet">
 	<link href="css/icon_fonts/css/all_icons.min.css" rel="stylesheet">
+	
+	<!-- SPECIFIC CSS -->
+    <link href="layerslider/css/layerslider.css" rel="stylesheet">
 
     <!-- YOUR CUSTOM CSS -->
     <link href="css/custom.css" rel="stylesheet">
@@ -37,7 +40,7 @@
 	<header class="header menu_2">
 		<div id="preloader"><div data-loader="circle-side"></div></div><!-- /Preload -->
 		<div id="logo">
-			<a href="index.html"><img src="img/logo.png" width="149" height="42" data-retina="true" alt=""></a>
+			<a href="index.html"><img src="img/logo.png"  data-retina="true" alt=""></a>
 		</div>
 		<ul id="top_menu">
 			<li><a href="login.html" class="login">Login</a></li>
@@ -54,14 +57,13 @@
 		</a>
 		<nav id="menu" class="main-menu">
 			<ul>
-				<li><span><a href="#0">Home</a></span>
+				<li><span><a href="#0">Categories</a></span>
 					<ul>
-						<li><a href="index.html">Home version 1</a></li>
-						<li><a href="index-2.html">Home version 2</a></li>
-						<li><a href="index-6.html">Home version 3</a></li>
-						<li><a href="index-3.html">Home version 4</a></li>
-						<li><a href="index-4.html">Home version 5</a></li>
-						<li><a href="index-5.html">With Cookie bar (EU law)</a></li>
+                        <li><a href="#">Web development</a></li>
+                        <li><a href="#">Mobile development</a></li>
+                        <li><a href="#">Data Science</a></li>
+                        <li><a href="#">Game development</a></li>
+						
 					</ul>
 				</li>
 				<li><span><a href="#0">Courses</a></span>
@@ -117,19 +119,42 @@
 			</form>
 		</div><!-- End Search Menu -->
 	</header>
-	<!-- /header -->	
-	
+	<!-- /header -->
+		
 	<main>
-		<section class="hero_single">
-			<div class="wrapper">
-				<div class="container">
-					<h3><strong>Top courses</strong><br>on Udema Accademy</h3>
-					<p>Eam fastidii erroribus corrumpit cu, in quo epicuri recusabo, <strong>est vocent eleifend</strong> inimicus at.</p>
+		<!-- Slider -->
+		<div id="full-slider-wrapper">
+			<div id="layerslider" style="width:100%;height:750px;">
+				<!-- first slide -->
+				<div class="ls-slide" data-ls="slidedelay: 5000; transition2d:85;">
+					<img src="https://source.unsplash.com/VwsuhJ9uee4/1700x750" class="ls-bg" alt="Slide background">
+					<h3 class="ls-l slide_typo" style="top: 47%; left: 50%;" data-ls="offsetxin:0;durationin:2000;delayin:1000;easingin:easeOutElastic;rotatexin:90;transformoriginin:50% bottom 0;offsetxout:0;rotatexout:90;transformoriginout:50% bottom 0;">Education – Your <strong>Door</strong> To The Future</h3>
+					<p class="ls-l slide_typo_2" style="top:55%; left:50%;" data-ls="durationin:2000;delayin:1000;easingin:easeOutElastic;">
+						Learners Today, Leaders Tomorrow
+					</p>
+					<a class="ls-l btn_1 rounded" style="top:65%; left:50%;white-space: nowrap;" data-ls="durationin:2000;delayin:1400;easingin:easeOutElastic;" href='courses-grid.html'>Read more</a>
 				</div>
-				<a href="#first_section" class="btn_explore hidden_tablet"><i class="ti-arrow-down"></i></a>
+				<!-- second slide -->
+				<div class="ls-slide" data-ls="slidedelay:5000; transition2d:103;">
+					<img src="https://source.unsplash.com/tLZhFRLj6nY/1700x750" class="ls-bg" alt="Slide background">
+					<h3 class="ls-l slide_typo" style="top: 47%; left: 50%;" data-ls="offsetxin:0;durationin:2000;delayin:1000;easingin:easeOutElastic;rotatexin:90;transformoriginin:50% bottom 0;offsetxout:0;rotatexout:90;transformoriginout:50% bottom 0;">The <strong>Future</strong> Begins Here!</h3>
+					<p class="ls-l slide_typo_2" style="top:55%; left:50%;" data-ls="durationin:2000;delayin:1000;easingin:easeOutElastic;">
+						Preparing Children For Success In Life
+					</p>
+					<a class="ls-l btn_1 rounded" style="top:65%; left:50%;white-space: nowrap;" data-ls="durationin:2000;delayin:1400;easingin:easeOutElastic;" href='courses-grid.html'>Read more</a>
+				</div>
+				<!-- third slide -->
+				<div class="ls-slide" data-ls="slidedelay: 5000; transition2d:5;">
+					<img src="https://source.unsplash.com/OMXPrCAhxrE/1700x750" class="ls-bg" alt="Slide background">
+					<h3 class="ls-l slide_typo" style="top:47%; left: 50%;" data-ls="offsetxin:0;durationin:2000;delayin:1000;easingin:easeOutElastic;rotatexin:90;transformoriginin:50% bottom 0;offsetxout:0;rotatexout:90;transformoriginout:50% bottom 0;">Better Education <strong>Develops</strong> The Nation</h3>
+					<p class="ls-l slide_typo_2" style="top:55%; left:50%;" data-ls="durationin:2000;delayin:1000;easingin:easeOutElastic;">
+						Attitude Is A Little Thing That Makes A Big Difference.
+					</p>
+					<a class="ls-l btn_1 rounded" style="top:65%; left:50%;" data-ls="durationin:2000;delayin:1400;easingin:easeOutElastic;" href='courses-grid.html'>Explore</a>
+				</div>
 			</div>
-		</section>
-		<!-- /hero_single -->
+		</div>
+		<!-- End layerslider -->
 
 		<div class="features clearfix">
 			<div class="container">
@@ -148,7 +173,7 @@
 		</div>
 		<!-- /features -->
 
-		<div class="container-fluid margin_120_0" id="first_section">
+		<div class="container-fluid margin_120_0">
 			<div class="main_title_2">
 				<span><em></em></span>
 				<h2>Udema Popular Courses</h2>
@@ -482,7 +507,7 @@
 		<div class="container margin_120_95">
 			<div class="row">
 				<div class="col-lg-5 col-md-12 p-r-5">
-					<p><img src="img/logo.png" width="149" height="42" data-retina="true" alt=""></p>
+					<p><img src="img/logo.png" data-retina="true" alt=""></p>
 					<p>Mea nibh meis philosophia eu. Duis legimus efficiantur ea sea. Id placerat tacimates definitionem sea, prima quidam vim no. Duo nobis persecuti cu. Nihil facilisi indoctum an vix, ut delectus expetendis vis.</p>
 					<div class="follow_us">
 						<ul>
@@ -548,6 +573,26 @@
     <script src="js/common_scripts.js"></script>
     <script src="js/main.js"></script>
 	<script src="assets/validate.js"></script>
-
+	
+	<!-- SPECIFIC SCRIPTS -->
+    <script src="layerslider/js/greensock.js"></script>
+    <script src="layerslider/js/layerslider.transitions.js"></script>
+    <script src="layerslider/js/layerslider.kreaturamedia.jquery.js"></script>
+    <script type="text/javascript">
+        'use strict';
+        $('#layerslider').layerSlider({
+            autoStart: true,
+            navButtons: false,
+            navStartStop: false,
+            showCircleTimer: false,
+            responsive: true,
+            responsiveUnder: 1280,
+            layersContainer: 1200,
+            skinsPath: 'layerslider/skins/'
+                // Please make sure that you didn't forget to add a comma to the line endings
+                // except the last line!
+        });
+    </script>
+	
 </body>
 </html>
