@@ -790,7 +790,7 @@ ul#top_menu li a.btn_1:hover {
   background-color: rgba(57, 39, 121, 0.8);
 }
 #hero_in.courses:before {
-  background: url(http://via.placeholder.com/1600x1067/ccc/fff/bg_courses.jpg) center center no-repeat;
+  background: url(https://source.unsplash.com/n1LIveUPls4/1600x1067) center center no-repeat;
   -webkit-background-size: cover;
   -moz-background-size: cover;
   -o-background-size: cover;
