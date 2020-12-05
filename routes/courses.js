@@ -5,8 +5,12 @@ router.get("/:field", (req, res) => {
     res.render("courses/index");
 })
 
-router.get("/:field/:id", (req, res) => {
-    res.render("courses/show")
+router.get("/:field/new", (req, res) => {
+    res.render("courses/new");
 })
+
+// router.get("/:field/:id", (req, res) => {
+//     res.render("courses/show")
+// })
 
 module.exports = router;
