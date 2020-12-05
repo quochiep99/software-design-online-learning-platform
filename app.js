@@ -21,6 +21,7 @@ app.set('view engine', '.hbs');
 // serve static files
 app.use(express.static("public"));
 
+
 app.use("/", indexRoutes);
 app.use("/courses", courseRoutes);
 

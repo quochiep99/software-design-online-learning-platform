@@ -1,7 +1,11 @@
 const express = require("express");
 const router = express.Router({ mergeParams: true });
 
-router.get("/:id", (req, res) => {
+router.get("/:field", (req, res) => {
+    res.render("courses/index");
+})
+
+router.get("/:field/:id", (req, res) => {
     res.render("courses/show")
 })
 

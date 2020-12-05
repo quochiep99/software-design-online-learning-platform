@@ -6390,3 +6390,7 @@ h6.lead {
     color: white;
     font-size: 1rem;
 }
+
+.jumbotron {
+    margin-top: 4rem;
+}
