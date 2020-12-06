@@ -17,7 +17,9 @@ const CourseSchema = new Schema({
     subtitle: reqString,
 
     // detailed descriptions of the course
-    descriptions: reqString,
+    descriptions: [
+        reqString
+    ],
 
     // the field that the course belongs to
     field: {

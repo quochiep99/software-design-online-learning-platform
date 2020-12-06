@@ -6,12 +6,8 @@ const reqString = {
 }
 
 const UserSchema = new Schema({
-    firstName: reqString,
-    lastName: reqString,
-    email: {
-        type: String,
-        unique: true
-    },
+    name: reqString,
+    email: reqString,
     password: reqString,
 
     // student, instructor, admin

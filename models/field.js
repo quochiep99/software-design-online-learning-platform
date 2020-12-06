@@ -7,14 +7,14 @@ const reqString = {
 
 const FieldSchema = new Schema({
 
-    fieldName: reqString,
+    name: reqString,
 
     //courses belonging to this field
     courses: [
         {
             type: Schema.Types.ObjectId,
             ref: "Course"
-        }       
+        }
     ]
 
 })
