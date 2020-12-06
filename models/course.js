@@ -1,5 +1,5 @@
 const mongoose = require("mongoose");
-
+const Schema = mongoose.Schema;
 const reqString = {
     type: String,
     required: true
@@ -9,72 +9,48 @@ const reqNum = {
     default: 0
 }
 
-const CourseSchema = new mongoose.Schema({
+const CourseSchema = new Schema({
     // course's title
     title: reqString,
 
-    // the subtitle of the course
+    // the subtitle or short description of the course
     subtitle: reqString,
+
+    // detailed descriptions of the course
+    descriptions: reqString,
 
     // the field that the course belongs to
     field: {
-        id: {
-            type: mongoose.Schema.Types.ObjectId,
-            ref: "Field"
-        },
-        fieldName: String
+        type: Schema.Types.ObjectId,
+        ref: "Field"
     },
 
-    // instructor's name
+    // instructor of the course
     instructor: {
-        id: {
-            type: mongoose.Schema.Types.ObjectId,
-            ref: "User"
-        },
-        username: reqString
+        type: Schema.Types.ObjectId,
+        ref: "Instructor"
     },
 
     // reviews of the course
     reviews: [
         {
-            id: {
-                type: mongoose.Schema.Types.ObjectId,
-                ref: "Review"
-            },
-            author: {
-                id: {
-                    type: mongoose.Schema.Types.ObjectId,
-                    ref: "User"
-                },
-                username: reqString
-            }
+            type: Schema.Types.ObjectId,
+            ref: "Review"
         }
-
     ],
 
     // course's average ratings
     rating: reqNum,
 
-    // number of students rating the course
-    // will check later in relation to reviews above
-    numRatingStudents: reqNum,
-
-
     students: [
         {
-            type: mongoose.Schema.Types.ObjectId,
+            type: Schema.Types.ObjectId,
             ref: " User"
         }
     ],
 
-    // number of students enrolling in the course
-    // will check later in relation to students above
-    numEnrollments: reqNum,
-
     // course's image
-    courseImage: {
-        type: String
-    },
+    courseImage: String,
 
     // cost of the course
     cost: reqNum,
@@ -82,10 +58,6 @@ const CourseSchema = new mongoose.Schema({
     // number of views of this course
     numViews: reqNum,
 
-    // detailed descriptions of the course
-    descriptions: [
-        reqString
-    ],
     curriculum: [
         {
             type: String

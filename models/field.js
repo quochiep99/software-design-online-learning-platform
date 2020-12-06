@@ -5,17 +5,16 @@ const reqString = {
     required: true
 }
 
-const FieldSchema = new mongoose.Schema({
+const FieldSchema = new Schema({
 
     fieldName: reqString,
 
     //courses belonging to this field
     courses: [
         {
-            type: mongoose.Schema.Types.ObjectId,
+            type: Schema.Types.ObjectId,
             ref: "Course"
         }       
-
     ]
 
 })
