@@ -5,7 +5,7 @@ const reqString = {
     required: true
 }
 
-const UserSchema = new mongoose.Schema({    
+const UserSchema = new mongoose.Schema({
     firstName: reqString,
     lastName: reqString,
     email: {
@@ -18,7 +18,28 @@ const UserSchema = new mongoose.Schema({
     // type = s for student, i for instructor and a for admin
     role: {
         type: String
-    }
+    },
+    wishList: [
+        {
+            type: mongoose.Schema.Types.ObjectId,
+            ref: "Course"
+        }
+    ],
+
+    // for students
+    enrolledCourses: [
+        {
+            type: mongoose.Schema.Types.ObjectId,
+            ref: "Course"
+        }
+    ],
+    // for instructors
+    uploadedCourses: [
+        {
+            type: mongoose.Schema.Types.ObjectId,
+            ref: "Course"
+        }
+    ]
 
 
 })

@@ -17,7 +17,13 @@ const CourseSchema = new mongoose.Schema({
     subtitle: reqString,
 
     // the field that the course belongs to
-    field: reqString,
+    field: {
+        id: {
+            type: mongoose.Schema.Types.ObjectId,
+            ref: "Field"
+        },
+        fieldName: String
+    },
 
     // instructor's name
     instructor: {
@@ -33,7 +39,7 @@ const CourseSchema = new mongoose.Schema({
         {
             id: {
                 type: mongoose.Schema.Types.ObjectId,
-                ref: "Reviews"
+                ref: "Review"
             },
             author: {
                 id: {
@@ -50,12 +56,22 @@ const CourseSchema = new mongoose.Schema({
     rating: reqNum,
 
     // number of students rating the course
+    // will check later in relation to reviews above
     numRatingStudents: reqNum,
 
+
+    students: [
+        {
+            type: mongoose.Schema.Types.ObjectId,
+            ref: " User"
+        }
+    ],
+
     // number of students enrolling in the course
+    // will check later in relation to students above
     numEnrollments: reqNum,
 
-    // course image
+    // course's image
     courseImage: {
         type: String
     },
@@ -69,6 +85,11 @@ const CourseSchema = new mongoose.Schema({
     // detailed descriptions of the course
     descriptions: [
         reqString
+    ],
+    curriculum: [
+        {
+            type: String
+        }
     ]
 }, {
     timestamps: true

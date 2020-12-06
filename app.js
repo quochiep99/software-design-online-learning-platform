@@ -1,5 +1,6 @@
 const express = require("express");
 const exphbs = require('express-handlebars');
+const mongoose = require('mongoose');
 
 
 //requiring routes
@@ -10,7 +11,13 @@ const app = express();
 
 // load environment variables from .env file into process.env
 require('dotenv').config();
-const PORT = process.env.PORT;
+
+//PORT
+const PORT = process.env.PORT || 3000;
+
+// mongodb url
+const url = process.env.DATABASEURL || 'mongodb://localhost:27017/web-online-academy';
+mongoose.connect(url, { useNewUrlParser: true, useUnifiedTopology: true });
 
 // express handlebars
 app.engine('.hbs', exphbs({
