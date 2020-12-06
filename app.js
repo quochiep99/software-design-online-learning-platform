@@ -1,7 +1,10 @@
 const express = require("express");
 const exphbs = require('express-handlebars');
 const mongoose = require('mongoose');
+const seedDB = require("./seedDB");
 
+//seed database
+// seedDB();
 
 //requiring routes
 const courseRoutes = require("./routes/courses");
