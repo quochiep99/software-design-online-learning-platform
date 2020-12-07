@@ -4,7 +4,7 @@ const mongoose = require('mongoose');
 const seedDB = require("./seedDB");
 
 //seed database
-seedDB();
+// seedDB();
 
 //requiring routes
 const courseRoutes = require("./routes/courses");
@@ -36,7 +36,11 @@ app.use("/", indexRoutes);
 app.use("/courses", courseRoutes);
 
 
-
+// Handle 404 - Keep this as a last route
+app.use(function(req, res, next) {
+    res.status(404);
+    res.send('404: File Not Found');
+});
 
 
 
