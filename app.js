@@ -4,7 +4,7 @@ const mongoose = require('mongoose');
 const seedDB = require("./seedDB");
 
 //seed database
-seedDB();
+// seedDB();
 
 //requiring routes
 const courseRoutes = require("./routes/courses");

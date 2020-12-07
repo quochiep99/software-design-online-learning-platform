@@ -20,8 +20,8 @@ router.get("/:field", async (req, res) => {
 
 })
 
-router.get("/:field/new", (req, res) => {
-    res.render("courses/new");
+router.get("/:field/:id", (req, res) => {
+    res.render("courses/show");
 })
 
 // router.get("/:field/:id", (req, res) => {
