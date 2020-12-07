@@ -272,7 +272,232 @@ var courses = [
         "originalPrice": 129.99,
         "numViews": 0,
         "curriculum": []
+    },
+    {
+        "title": "iOS 13 & Swift 5 - The Complete iOS App Development Bootcamp",
+        "subtitle": "From Beginner to iOS App Developer with Just One Course! Fully Updated with a Comprehensive Module Dedicated to SwiftUI!",
+        "descriptions": [],
+        "reviews": [],
+        "rating": "4.8",
+        "students": [],
+        "image1xURL": "https://img-a.udemycdn.com/course/240x135/1778502_f4b9_11.jpg?iu2VOziVe34ADdZukMmaT8mM12EBFVvh8Nl3zab13NzOq2d05roCEaWsxLZLR_FbbduMjwaPCOd5JYs2KcsItSXn9Rya1BrCkbbV_ioc_C7HTbvh5r_AlGA7yfUlDau4NA",
+        "image2xURL": "https://img-a.udemycdn.com/course/480x270/1778502_f4b9_11.jpg?hYkcuqcb0ZLP3pZh6qMeNunDkjqZqZbekHWkc4ihE7lUjNPgfVXQajkud81VNyOoI1xz4xo0VwvVCN8o7_9Se8U3j8e_26CbuKKmTLfM5pp28M4VfsnvnmVMKBs0fMmQbw",
+        "discountPrice": 11.99,
+        "originalPrice": 129.99,
+        "numViews": 0,
+        "curriculum": []
+    },
+    {
+        "title": "The Complete React Native + Hooks Course [2020 Edition]",
+        "subtitle": "Understand React Native v0.62.2 with Hooks, Context, and React Navigation.",
+        "descriptions": [],
+        "reviews": [],
+        "rating": "4.6",
+        "students": [],
+        "image1xURL": "https://img-a.udemycdn.com/course/240x135/959700_8bd2_11.jpg?7zSeWac5jmweYhHNPKrcJ6lwBl-zswlh5-79Qk0D4mBz4z7NGB6vFHM_en0sj6Ok_75tq6Qnr0eBjzAcZ29YQUHSKW9SvdU0tX8PgR2xJUQqctGsy8SuTiDVeH",
+        "image2xURL": "I 1x, https://img-a.udemycdn.com/course/480x270/959700_8bd2_11.jpg?p9qXcjR24Fewc_xSeEgnyvPyh0d7uOL3I9YPE3xSbLVDw-n3hm2zYXGgztirWhYwp-ZmgTqhRznjXhPTfjgoC1RTvaIRNAZNQLZRQ8t1BNAvqPAMbN_s8FGIcOVkC9WR",
+        "discountPrice": 18.99,
+        "originalPrice": 94.99,
+        "numViews": 0,
+        "curriculum": []
+    },
+    {
+        "title": "iOS 11 & Swift 4 - The Complete iOS App Development Bootcamp",
+        "subtitle": "Learn iOS 11 App Development From Beginning to End. Using Xcode 9 and Swift 4. Includes Full ARKit and CoreML Modules!",
+        "descriptions": [],
+        "reviews": [],
+        "rating": "4.6",
+        "students": [],
+        "image1xURL": "https://img-b.udemycdn.com/course/240x135/1289478_5831_9.jpg?secure=IhsWL0FJwhWvg8ycZxbnTw%3D%3D%2C1607375886",
+        "image2xURL": "https://img-a.udemycdn.com/course/480x270/1289478_5831_9.jpg?TnMBGCeHDvCnQADUn-bp6yFNG0IRaspIwKm3ZUIYELBrQRgQMDX1IyttCdNN30Cx-8i3ltT1r-UK-b2V5WexC6pyd06Jr-AfztRojyTscZPZ1TAT66vu2qf4nzJHH3bD",
+        "discountPrice": 11.99,
+        "originalPrice": 129.99,
+        "numViews": 0,
+        "curriculum": []
+    },
+    {
+        "title": "Flutter & Dart - The Complete Guide [2020 Edition]",
+        "subtitle": "A Complete Guide to the Flutter SDK & Flutter Framework for building native iOS and Android apps",
+        "descriptions": [],
+        "reviews": [],
+        "rating": "4.6",
+        "students": [],
+        "image1xURL": "https://img-b.udemycdn.com/course/240x135/1708340_7108_4.jpg?secure=pklg_CWfC3w1CGV2ju2tCQ%3D%3D%2C1607414507",
+        "image2xURL": "https://img-a.udemycdn.com/course/480x270/1708340_7108_4.jpg?9yNiriikMcWMTwsgz4hPjjZoAvhLd00ru671RYFxl7IotyzC2PJ6IQGF7YlOaiEBCZ0Z65iyJhWCa4Wn7pfsPIrW6ZEYjI5RHuxsfOa6MfB8Q2PK_CN6KBb3NLFXoi73",
+        "discountPrice": 11.99,
+        "originalPrice": 129.99,
+        "numViews": 0,
+        "curriculum": []
+    },
+    {
+        "title": "The Complete Android N Developer Course",
+        "subtitle": "Learn Android App Development with Android 7 Nougat by building real apps including Uber, Whatsapp and Instagram!",
+        "descriptions": [],
+        "reviews": [],
+        "rating": "4.4",
+        "students": [],
+        "image1xURL": "https://img-a.udemycdn.com/course/240x135/951618_0839_2.jpg?Q0Asz5WCbPac5X7aFLVMtAR-loq7vwHQvXxyk33RZFM3dS3eQJu23JgLhwvg8-U6bcooydpVArlzJ2nwSTCJi9ojTV8XT3sixMHyKblJ3i4M_eIZ9BoYJt9_j-Ng5WM",
+        "image2xURL": "https://img-a.udemycdn.com/course/480x270/951618_0839_2.jpg?0ArfneF8iwdz9c-VFjd0zsq6hdDkFahuhXxVAIeMSChSGDisWk-RblxE-J0uPoEaYn-N1DAYErEDlEt4wo3kdOSq1yigorcFPF77JTNWyvWg-6ojVPRjlWjyBLI06mE",
+        "discountPrice": 11.99,
+        "originalPrice": 129.99,
+        "numViews": 0,
+        "curriculum": []
+    },
+    {
+        "title": "The Complete 2020 Flutter Development Bootcamp with Dart",
+        "subtitle": "Officially created in collaboration with the Google Flutter team.",
+        "descriptions": [],
+        "reviews": [],
+        "rating": "4.7",
+        "students": [],
+        "image1xURL": "https://img-a.udemycdn.com/course/240x135/2259120_305f_6.jpg?a5pnr9EoE3og2CKeyoEvMFVCwLrILVPBKbzprwgY_iLZZgw3WWxWU3GAEZPgMU6T2pokKU0wfnf7etWji0wtOXJWRl-WV7my9F4Uv3JlTctYLJxNlPiftMdZLMSjN5bO",
+        "image2xURL": "https://img-a.udemycdn.com/course/480x270/2259120_305f_6.jpg?k0uTHHhnL7wuGa-OUt7lWX38XAO_MJcH8mFbZSjbAzfVg6yeyilSStVutehuSn8uepShbhSt54aG2Wi5D_StPam7mrSppRkTzMHgQ8DCczbTHSHOGH1P44UWyo6oIka8",
+        "discountPrice": 11.99,
+        "originalPrice": 129.99,
+        "numViews": 0,
+        "curriculum": []
+    },
+    {
+        "title": "React Native - The Practical Guide [2020 Edition]",
+        "subtitle": "Use React Native and your React knowledge to build native iOS and Android Apps - incl. Push Notifications, Hooks, Redux",
+        "descriptions": [],
+        "reviews": [],
+        "rating": "4.6",
+        "students": [],
+        "image1xURL": "",
+        "image2xURL": "",
+        "discountPrice": 11.99,
+        "originalPrice": 129.99,
+        "numViews": 0,
+        "curriculum": []
+    },
+    {
+        "title": "The Complete Android Oreo Developer Course - Build 23 Apps!",
+        "subtitle": "Learn Android O App Development using Java & Kotlin - build real apps including Super Mario Run, Whatsapp and Instagram!",
+        "descriptions": [],
+        "reviews": [],
+        "rating": "4.4",
+        "students": [],
+        "image1xURL": "",
+        "image2xURL": "",
+        "discountPrice": 11.99,
+        "originalPrice": 129.99,
+        "numViews": 0,
+        "curriculum": []
+    },
+    {
+        "title": "iOS 10 & Swift 3: From Beginner to Paid Professional™",
+        "subtitle": "The most comprehensive course on iOS development - become a master of app development",
+        "descriptions": [],
+        "reviews": [],
+        "rating": "4.3",
+        "students": [],
+        "image1xURL": "",
+        "image2xURL": "",
+        "discountPrice": 16.99,
+        "originalPrice": 179.99,
+        "numViews": 0,
+        "curriculum": []
+    },
+    {
+        "title": "Ionic - Build iOS, Android & Web Apps with Ionic & Angular",
+        "subtitle": "Build Native iOS & Android as well as Progressive Web Apps with Angular, Capacitor and the Ionic Framework (Ionic 4+).",
+        "descriptions": [],
+        "reviews": [],
+        "rating": "4.7",
+        "students": [],
+        "image1xURL": "",
+        "image2xURL": "",
+        "discountPrice": 11.99,
+        "originalPrice": 129.99,
+        "numViews": 0,
+        "curriculum": []
+    },
+    {
+        "title": "The Complete iOS 10 & Swift 3 Developer Course",
+        "subtitle": "Learn iOS App Development by building 21 iOS apps using Swift 3 & Xcode 8. Includes free web hosting, assets & ebook.",
+        "descriptions": [],
+        "reviews": [],
+        "rating": "4.5",
+        "students": [],
+        "image1xURL": "",
+        "image2xURL": "",
+        "discountPrice": 12.99,
+        "originalPrice": 139.99,
+        "numViews": 0,
+        "curriculum": []
+    },
+    {
+        "title": "Xamarin Forms: Build Native Cross-platform Apps with C#",
+        "subtitle": "Learn to build native mobile apps for Android, iOS and Windows using your existing C# skills",
+        "descriptions": [],
+        "reviews": [],
+        "rating": "4.3",
+        "students": [],
+        "image1xURL": "",
+        "image2xURL": "",
+        "discountPrice": 11.99,
+        "originalPrice": 129.99,
+        "numViews": 0,
+        "curriculum": []
+    },
+    {
+        "title": "Android Java Masterclass - Become an App Developer",
+        "subtitle": "Improve your career options by learning Android app Development. Master Android Studio and build your first app today",
+        "descriptions": [],
+        "reviews": [],
+        "rating": "4.5",
+        "students": [],
+        "image1xURL": "",
+        "image2xURL": "",
+        "discountPrice": 11.99,
+        "originalPrice": 99.99,
+        "numViews": 0,
+        "curriculum": []
+    },
+    {
+        "title": "Android O & Java - The Complete Android Development Bootcamp",
+        "subtitle": "Learn Android O app development from beginning to end. Learn to code in Java while building fun Android O projects.",
+        "descriptions": [],
+        "reviews": [],
+        "rating": "4.6",
+        "students": [],
+        "image1xURL": "",
+        "image2xURL": "",
+        "discountPrice": 11.99,
+        "originalPrice": 129.99,
+        "numViews": 0,
+        "curriculum": []
+    },
+    {
+        "title": "The Complete Android Kotlin Developer Course",
+        "subtitle": "Learn how to build 17 online games, and apps for Android Q, like Pokémon , twitter,Tic Tac Toe, and notepad using Kotlin",
+        "descriptions": [],
+        "reviews": [],
+        "rating": "4.2",
+        "students": [],
+        "image1xURL": "",
+        "image2xURL": "",
+        "discountPrice": 11.99,
+        "originalPrice": 129.99,
+        "numViews": 0,
+        "curriculum": []
+    },
+    {
+        "title": "The Complete Android & Java Developer Course - Build 21 Apps",
+        "subtitle": "Learn Android Development, Java & Android Studio from Scratch in 5 Weeks. Build a Diary App & more",
+        "descriptions": [],
+        "reviews": [],
+        "rating": "4.4",
+        "students": [],
+        "image1xURL": "",
+        "image2xURL": "",
+        "discountPrice": 11.99,
+        "originalPrice": 129.99,
+        "numViews": 0,
+        "curriculum": []
     }
+
 ]
 
 var reviews = [
@@ -342,8 +567,6 @@ async function seedDB() {
     await Review.deleteMany({});
     await Field.deleteMany({});
     console.log("cleared all database collection documents")
-    console.log("seeding database");
-
 
     for (var i = 0; i < reviews.length; i++) {
         await Review.create(reviews[i]);
@@ -360,24 +583,29 @@ async function seedDB() {
     for (var i = 0; i < courses.length; i++) {
         await Course.create(courses[i]);
     }
+    console.log("seeded database");
 
     reviews = await Review.find({});
     fields = await Field.find({});
     users = await User.find({});
     courses = await Course.find({});
 
-
-    // all web courses belong to web-development field
-    for (var i = 0; i < courses.length; i++) {
+    for (var i = 0; i < 16; i++) {
         courses[i].field = fields[0];
         await courses[i].save();
+        courses[i + 16].field = fields[1];
+        await courses[i + 16].save();
     }
 
-    // web-development field contains all web courses
-    fields[0].courses = courses;
-
+    for (var i = 0; i < 16; i++) {
+        fields[0].courses.push(courses[i]);
+    }
+    for (var i = 16; i < 32; i++) {
+        fields[1].courses.push(courses[i]);
+    }
 
     await fields[0].save();
+    await fields[1].save();
 
 
 }
