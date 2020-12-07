@@ -7,7 +7,7 @@ router.get("/:field", async (req, res) => {
     const field = await Field.findOne({ name: fieldName });
     if (field) {
         const courses = await Course.find({ field: field._id }).populate({ path: "field" }).lean();
-        return res.render("courses/index", {
+        return res.render("courses/index", {            
             courses: courses,
             helpers: {
                 getFieldName: (fieldName) => {
