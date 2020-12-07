@@ -2,10 +2,9 @@ const Course = require("./models/course")
 const User = require("./models/user")
 const Review = require("./models/review")
 const Field = require("./models/field")
-const course = require("./models/course")
-const field = require("./models/field")
 
-const users = [
+
+var users = [
     // user 0
     {
         name: "Colt Steele",
@@ -49,101 +48,234 @@ const users = [
 ]
 
 
-const courses = [
-    // course 0
+var courses = [
     {
-        title: "The Web Developer Bootcamp 2020",
-        subtitle: "JUST COMPLETELY REDONE - The only course you need to learn web development - HTML, CSS, JS, Node, and More!",
-        descriptions: [
-            "COMPLETELY REDONE ON OCTOBER 12th 2020, WITH OVER 500 BRAND NEW VIDEOS!",
-            "Hi! Welcome to the brand new version of The Web Developer Bootcamp, Udemy's most popular web development course.  This course was just completely overhauled to prepare students for the 2021 job market, with over 60 hours of brand new content. This is the only course you need to learn web development. There are a lot of options for online developer training, but this course is without a doubt the most comprehensive and effective on the market.  Here's why:"
-        ],
-
-        // field: "",
-        // instructor: "",
-        reviews: [],
-        rating: 4.7,
-        students: [],
-        courseImage: "",
-        cost: 129.99,
-        numViews: 0,
-        curriculum: [
-            "1. Course Orientation",
-            "2. An Introduction to Web Development"
-        ]
+        "title": "The Web Developer Bootcamp 2020",
+        "subtitle": "JUST COMPLETELY REDONE - The only course you need to learn web development - HTML, CSS, JS, Node, and More!",
+        "descriptions": [],
+        "reviews": [],
+        "rating": "4.7",
+        "students": [],
+        "image1xURL": "https://img-a.udemycdn.com/course/240x135/625204_436a_3.jpg?zhcgsIgkb7OMdNbTDhI6bTf60ivueqt5PBjj1JOkwlqa8xMDfvIIYVN8pW6kwa2VujGSP-wdAI2F2V3bFpHn-nMzy-ocdsdRWrYKDXYcxGGpmX49iivzEdhOJdR3O_A",
+        "image2xURL": "https://img-a.udemycdn.com/course/480x270/625204_436a_3.jpg?BJLHxaX8lJzvpsM3arZisgLBHo9vueJTbzfBvY6Fqe8gnCtz9iWZfdW_FVINxDKajOcCYhxG8CfWbn9uNaOD_0c_SRp_lhdbEGe4tiX759naGp6PLgimtop73ps_SNg",
+        "discountPrice": 11.99,
+        "originalPrice": 129.99,
+        "numViews": 0,
+        "curriculum": []
     },
-    // course 1
     {
-        title: "The Complete JavaScript Course 2020: From Zero to Expert!",
-        subtitle: "The modern JavaScript course for everyone! Master JavaScript with projects, challenges and theory. Many courses in one!",
-        descriptions: [
-            "*** The #1 bestselling JavaScript course on Udemy! ***",
-            "*** Completely re-built from scratch in October 2020 (65 hours video) ***"
-        ],
-
-        // field: "",
-        // instructor: "",
-        reviews: [],
-        rating: 4.7,
-        students: [],
-        courseImage: "",
-        cost: 129.99,
-        numViews: 0,
-        curriculum: [
-            "1. Welcome, Welcome, Welcome!",
-            "2. JavaScript Fundamentals – Part 1"
-        ]
-
+        "title": "Angular - The Complete Guide (2020 Edition)",
+        "subtitle": "Master Angular 10 (formerly \"Angular 2\") and build awesome, reactive web apps with the successor of Angular.js",
+        "descriptions": [],
+        "reviews": [],
+        "rating": "4.6",
+        "students": [],
+        "image1xURL": "https://img-a.udemycdn.com/course/240x135/756150_c033_2.jpg?K2nOrlvYGseTKO8XmgXy_MBwpWni6AkolN-IzgRSPc-SBgQP7IjH2rwA2K33cMnJorKpj5S8YvYV0vbv_uN1kimdVM8Ki5Jqe3gvFuj9uwT6o4kXZezh5-pGdFEHSKE",
+        "image2xURL": "https://img-a.udemycdn.com/course/480x270/756150_c033_2.jpg?BCMZBUfoJGWfyfrNYxy3ze2idKy1-nrOLgeYQC3XPA4OF4DEEiiDQLB2dpKE_8hrD0wVbPV_ZCkjidyGkkFc9kccPi5kzAHpAKtX3bg5ZhncQ37-hlkXU477jab-Zb4",
+        "discountPrice": 11.99,
+        "originalPrice": 129.99,
+        "numViews": 0,
+        "curriculum": []
     },
-    // course 2
     {
-        title: "iOS 13 & Swift 5 - The Complete iOS App Development Bootcamp",
-        subtitle: "From Beginner to iOS App Developer with Just One Course! Fully Updated with a Comprehensive Module Dedicated to SwiftUI!",
-        descriptions: [
-            "Welcome to the Complete iOS App Development Bootcamp. With over 39,000 5 star ratings and a 4.8 average my iOS course is the HIGHEST RATED iOS Course in the history of Udemy!",
-            "At 55+ hours, this iOS 13 course is the most comprehensive iOS development course online!"
-        ],
-
-        // field: "",
-        // instructor: "",
-        reviews: [],
-        rating: 4.8,
-        students: [],
-        courseImage: "",
-        cost: 129.99,
-        numViews: 0,
-        curriculum: [
-            "1. Getting Started with iOS 13 and Swift 5.1",
-            "2. Xcode Storyboards and Interface Builder"
-        ]
-
+        "title": "The Complete 2020 Web Development Bootcamp",
+        "subtitle": "Become a full-stack web developer with just one course. HTML, CSS, Javascript, Node, React, MongoDB and more!",
+        "descriptions": [],
+        "reviews": [],
+        "rating": "4.7",
+        "students": [],
+        "image1xURL": "https://img-a.udemycdn.com/course/240x135/1565838_e54e_11.jpg?wiK6IdeLPv4RsV59b_nEO-nJ6UuFvGkKuvZCkgfBoDrdU_UJ5U4e_PIaqJxqVAFghKopDaEQc7gJfHDMT1PeePlJmHbdc-efU3dk-WEU2ygh-jaWp5cF4vgd3YNvSTXX3w",
+        "image2xURL": "https://img-b.udemycdn.com/course/480x270/1565838_e54e_11.jpg?secure=wRYfqfqep1KbkrH_KRsKnA%3D%3D%2C1607362638",
+        "discountPrice": 11.99,
+        "originalPrice": 129.99,
+        "numViews": 0,
+        "curriculum": []
     },
-    // course 3
     {
-        title: "The Complete Android N Developer Course",
-        subtitle: "Learn Android App Development with Android 7 Nougat by building real apps including Uber, Whatsapp and Instagram!",
-        descriptions: [
-            "Please note support for this course has now stopped, and that there is a newer version of the course (The Complete Android Oreo Developer Course) available.",
-            "In this Android N version of the course I use Android Studio versions 2.0 and 2.1.2, and recommend students do the same."
-        ],
-
-        // field: "",
-        // instructor: "",
-        reviews: [],
-        rating: 4.4,
-        students: [],
-        courseImage: "",
-        cost: 129.99,
-        numViews: 0,
-        curriculum: [
-            "1. What Does The Course Cover?",
-            "2. Introduction To Android Studio"
-        ]
-
+        "title": "The Complete JavaScript Course 2020: From Zero to Expert!",
+        "subtitle": "The modern JavaScript course for everyone! Master JavaScript with projects, challenges and theory. Many courses in one!",
+        "descriptions": [],
+        "reviews": [],
+        "rating": "4.7",
+        "students": [],
+        "image1xURL": "https://img-b.udemycdn.com/course/240x135/851712_fc61_6.jpg?secure=vXAcfCXMeN_42AP81GsPYg%3D%3D%2C1607366490",
+        "image2xURL": "https://img-a.udemycdn.com/course/480x270/851712_fc61_6.jpg?vSqEANnSR_9iFcERwbTHkwL2Xuvb766k7FsnA3uPKXyHeXTfpDebs4NC_D7x-6qiI3Z0SROig_jBNQUjxCFhb5QWLiIwoyV63bxxPCzGgsgMyVMscEs-o696e-_oWIw",
+        "discountPrice": 11.99,
+        "originalPrice": 129.99,
+        "numViews": 0,
+        "curriculum": []
+    },
+    {
+        "title": "The Complete Web Developer Course 2.0",
+        "subtitle": "Learn Web Development by building 25 websites and mobile apps using HTML, CSS, Javascript, PHP, Python, MySQL & more!",
+        "descriptions": [],
+        "reviews": [],
+        "rating": "4.5",
+        "students": [],
+        "image1xURL": "https://img-a.udemycdn.com/course/240x135/764164_de03_2.jpg?ADFNR30o90WUQ0_eAZEVD1n-8OMy5Fgh9pmPPZDwaNxex88AhlEtqSxlLJIJNhpSc8qM61g3lpDeqd-XzJH57iuq3pyl7GvuyUVGjnLkAqX0W3fct5MwYv8Jo6bbdA0",
+        "image2xURL": "https://img-a.udemycdn.com/course/480x270/764164_de03_2.jpg?YGR0eLos61KLpGrwZGWfT1U41tMY2LqA5vMCi67EZc5Wngm1f0uY1kpwppjroXNUXid7NiLSM05_fswU76uXXsvCQtooEghNe-h86-e3cyzxn0JxUVHUpRPUR92kxqc",
+        "discountPrice": 11.99,
+        "originalPrice": 129.99,
+        "numViews": 0,
+        "curriculum": []
+    },
+    {
+        "title": "Modern React with Redux [2020 Update]",
+        "subtitle": "Master React v16.6.3 and Redux with React Router, Webpack, and Create-React-App. Includes Hooks!",
+        "descriptions": [],
+        "reviews": [],
+        "rating": "4.7",
+        "students": [],
+        "image1xURL": "https://img-a.udemycdn.com/course/240x135/705264_caa9_11.jpg?pDpGR71qfgyW_5CUQDcMJhiPWGL-XI-mS5XcQ7AUAvu6fmczbZh3RxPhuAN9WhyLgESEZ4n76eNExq8B25JZMxo37a_hu_SrDw_IM9U9p_0-hTM0wB9OjpQdKCw9m42O",
+        "image2xURL": "https://img-a.udemycdn.com/course/480x270/705264_caa9_11.jpg?UT9mZN4LXtg5si08ChyS_2j7diNfTCrstiaKoR2St-trzdTnXmyvI5mNW5Ol1zBzqDzcgQgF327Rpt1Drt-nRKRL_luGQS5F8grOcCD0XgW5BnhiPtunGX7dBjJnqChf",
+        "discountPrice": 11.99,
+        "originalPrice": 129.99,
+        "numViews": 0,
+        "curriculum": []
+    },
+    {
+        "title": "Build Responsive Real World Websites with HTML5 and CSS3",
+        "subtitle": "The easiest way to learn modern web design, HTML5 and CSS3 step-by-step from scratch. Design AND code a huge project.",
+        "descriptions": [],
+        "reviews": [],
+        "rating": "4.6",
+        "students": [],
+        "image1xURL": "https://img-a.udemycdn.com/course/240x135/437398_46c3_9.jpg?6ZZtFKzUzEy284r5WZzbS9BG3c9pCeCjTT1lAIzKeLjgogGpWA-ygzMPuiNASZhjK4mBUvV5mfS6lOmuQ1-KnhnH3ynZpJ_pf94YFmD1QqGc4BxKp0mCjw5IuSR9D5Y",
+        "image2xURL": "https://img-b.udemycdn.com/course/480x270/437398_46c3_9.jpg?secure=k6NhrHNp9K0Xth3NrjxeJg%3D%3D%2C1607364938",
+        "discountPrice": 12.99,
+        "originalPrice": 139.99,
+        "numViews": 0,
+        "curriculum": []
+    },
+    {
+        "title": "Vue - The Complete Guide (w/ Router, Vuex, Composition API)",
+        "subtitle": "Vue.js is an awesome JavaScript Framework for building Frontend Applications! VueJS mixes the Best of Angular + React!",
+        "descriptions": [],
+        "reviews": [],
+        "rating": "4.7",
+        "students": [],
+        "image1xURL": "https://img-a.udemycdn.com/course/240x135/995016_ebf4_2.jpg?I2NW9OxEtxcQtREF9h_w4tfxER4-sZ2SeYE1DRLd49CuU16SpHEkLRFY57Ie2M8MDGw6nw662OK-KawLFIB1dAerz-sEgQx5yIVNQNPis8Daf",
+        "image2xURL": "Gbq01r64hmK3k 1x, https://img-a.udemycdn.com/course/480x270/995016_ebf4_2.jpg?mg1YoeTZjuhW7TFTScbOIr66wR4M6sxvF6-FVPUsjeguttmeqqoKm0rmpzYoW8qThbrvhR4_z130u3dElWHQZnwerK8uWpyHQmAK3QxV1Ex0hMQpq1eJCn7LjHuDxZs",
+        "discountPrice": 11.99,
+        "originalPrice": 129.99,
+        "numViews": 0,
+        "curriculum": []
+    },
+    {
+        "title": "The Complete Web Developer in 2021: Zero to Mastery",
+        "subtitle": "Learn to code and become a Web Developer in 2021 with HTML, CSS, Javascript, React, Node.js, Machine Learning & more!",
+        "descriptions": [],
+        "reviews": [],
+        "rating": "4.7",
+        "students": [],
+        "image1xURL": "https://img-a.udemycdn.com/course/240x135/1430746_2f43_10.jpg?-AAvkLVeZ5NawgzVkjSp78wLem4izIn1FWQRhLe4CxpbtwQ8505vA2oPF0M-Fmlk5EOIC-Z8MhP0ORGmxFVt2t8i8oPnogsxGZXjHRhr8rzo3GdnRWpjFEO8KhrbPIfzvg",
+        "image2xURL": "https://img-a.udemycdn.com/course/480x270/1430746_2f43_10.jpg?i36kuaRAEH1zm7HIhQ2C9Hr7nzdd_iRKwB5Ypa-2tjyhb4-Z1IHVQbjU7bkfjmOSGnFZVAit4tQWbL117j8h_77AJjDS1S9bDtoEtLu-pgmZMKtVsMtg2QMQmSL0QJmZEQ",
+        "discountPrice": 11.99,
+        "originalPrice": 129.99,
+        "numViews": 0,
+        "curriculum": []
+    },
+    {
+        "title": "JavaScript: Understanding the Weird Parts",
+        "subtitle": "An advanced JavaScript course for everyone! Scope, closures, prototypes, 'this', build your own framework, and more.",
+        "descriptions": [],
+        "reviews": [],
+        "rating": "4.7",
+        "students": [],
+        "image1xURL": "https://img-a.udemycdn.com/course/240x135/364426_2991_5.jpg?r3V3e4N_rjdgVYSn52fzwIgC_-mp4_xTUDYhhd1i9pBiIb-82P9FEfj_Pwihmfwd9JoB58fA329BCRlA1hhZVrzN7gMei-BECj8ws7aUvmq9sJ8nln6k4bd20iSh94s",
+        "image2xURL": "https://img-a.udemycdn.com/course/480x270/364426_2991_5.jpg?brOEhMTiiN_MblpqpO-ac5xR_NGaRPPj6XrSV-tip_Os3TALsecWMbju0QL6LN8aFbGhElx5pBsIle6sNOb0zHIfr1R5jSYIyM3HPR95QOtkvCpdbHROctuT6XGDf4c",
+        "discountPrice": 11.99,
+        "originalPrice": 129.99,
+        "numViews": 0,
+        "curriculum": []
+    },
+    {
+        "title": "Python and Django Full Stack Web Developer Bootcamp",
+        "subtitle": "Learn to build websites with HTML , CSS , Bootstrap , Javascript , jQuery , Python 3 , and Django!",
+        "descriptions": [],
+        "reviews": [],
+        "rating": "4.5",
+        "students": [],
+        "image1xURL": "https://img-a.udemycdn.com/course/240x135/822444_a6db.jpg?da6bsq6OqdMIFZ8OcJkdAShZAmynYH45On2VfP2kqSXwoSQPWdGHVY5pf_6QlWJHrnyBbz3MDPz-83wG0zUkZNAVRvC4H-4kVpyKv1Q-6yWmXaq8G0gqw2SVnCyg",
+        "image2xURL": "https://img-a.udemycdn.com/course/480x270/822444_a6db.jpg?sZ2ttmDsTGkxYe1JrUKfG5RjNvk9NNV853p7b7AEnSjtj5C-mumWEMrZVPRPtJXcIN15qZTEiHy1I7F7PZVervfhPtvjtfQWv01bt8memL_ZriPhYo3uPBRvKIDC",
+        "discountPrice": 11.99,
+        "originalPrice": 129.99,
+        "numViews": 0,
+        "curriculum": []
+    },
+    {
+        "title": "Advanced CSS and Sass: Flexbox, Grid, Animations and More!",
+        "subtitle": "The most advanced and modern CSS course on the internet: master flexbox, CSS Grid, responsive design, and so much more.",
+        "descriptions": [],
+        "reviews": [],
+        "rating": "4.8",
+        "students": [],
+        "image1xURL": "https://img-a.udemycdn.com/course/240x135/1026604_790b_2.jpg?C4ks0qD1iEdgml8OEIkk-qWFXDz6masvYRdDQhksH34zGUvBdvULaWvwF43JLkZHyXMZDHQrfJTTIByh63ozQ1ZwL8MtMzw71jX8lk2Iqx6il0pjzDw9l79uIycRs3L2",
+        "image2xURL": "https://img-a.udemycdn.com/course/480x270/1026604_790b_2.jpg?E9Dxl4QNlSEmGpV7nmgHdldkgxjCHBjdknQ0l5UC9H2IJLKSNGkRn1fUBtDIoVdyq1YuMe0DTT1jOH5HyOMYMzWqAtVR7tvSZg6_gRIGpdKrH5q5YtzMACdJGr1Lhths",
+        "discountPrice": 11.99,
+        "originalPrice": 129.99,
+        "numViews": 0,
+        "curriculum": []
+    },
+    {
+        "title": "The Complete ASP.NET MVC 5 Course",
+        "subtitle": "Learn to build fast and secure web applications with ASP.NET MVC 5 - The most popular course with 40,000+ students!",
+        "descriptions": [],
+        "reviews": [],
+        "rating": "4.4",
+        "students": [],
+        "image1xURL": "https://img-a.udemycdn.com/course/240x135/806922_6310_3.jpg?k7ATVZ_x4oRaDpym3RGxB9Lv5A18wXCnicJFABp4wiM_6W2pf-Z5VMx58ICxEZBu7bk_5dVYhQS3I_baOwpsqOiSppni9_sIuQrwDb-xweC4CEbv82migtCHmPRw8es",
+        "image2xURL": "https://img-b.udemycdn.com/course/480x270/806922_6310_3.jpg?secure=ns4RjHwoEgjxv4cJzpKpnw%3D%3D%2C1607390276",
+        "discountPrice": 11.99,
+        "originalPrice": 129.99,
+        "numViews": 0,
+        "curriculum": []
+    },
+    {
+        "title": "Learn and Understand NodeJS",
+        "subtitle": "Dive deep under the hood of NodeJS. Learn V8, Express, the MEAN stack, core Javascript concepts, and more.",
+        "descriptions": [],
+        "reviews": [],
+        "rating": "4.6",
+        "students": [],
+        "image1xURL": "https://img-a.udemycdn.com/course/240x135/461160_8d87_6.jpg?P-6asvgxYNnS3wFalgf4W3caiNN_PPt3X3xI2GgXlj1uGBANvVgB2jXp_UoazCWdXSczRvhyHcYREcc4i6fD4akaFyZhFzWxMD5WjB-pccUfGUbXyqT5Gffi8Q7OGfY",
+        "image2xURL": "https://img-a.udemycdn.com/course/480x270/461160_8d87_6.jpg?jbWD3HJNac0O76B5ndsVAWBy88IdM623Bri5qpqDXrZThUdk8jkmagGfs5C47UcrsdqS5GwfPAnxIMQMhrTwSFLljIcjQWoKq9zZoDvGzECfEqOU4e_iGZ5n0mv-OjY",
+        "discountPrice": 11.99,
+        "originalPrice": 129.99,
+        "numViews": 0,
+        "curriculum": []
+    },
+    {
+        "title": "Master Microservices with Spring Boot and Spring Cloud",
+        "subtitle": "An awesome journey from Restful Web Services ( REST API ) to Microservices with Java, Spring Boot and Spring Cloud",
+        "descriptions": [],
+        "reviews": [],
+        "rating": "4.4",
+        "students": [],
+        "image1xURL": "https://img-a.udemycdn.com/course/240x135/1352468_3d97_7.jpg?HlBZRurKwtejCGwmfbpeIPkwF0Xuzllayab1sKGEa6Pt8Z-3kCHwTVVMaG3xauxtg2jNwq5LkWV1GKldxp-VEv8_o6QlzkoUdCO56dtJ02f9rD9wl4ti51lmzFbJLIdV",
+        "image2xURL": "https://img-a.udemycdn.com/course/480x270/1352468_3d97_7.jpg?XQ_yfAx8DZeX6nBLs-OFpk5eGfwn2nCmw0aIrIQq9ppUCfYof2ARKGhmtzcA1Hq43Vo2b9q11NAt6Pbqdin0LAL660auzO8pBtYxzvyW4tf-eAMandOtCNc3MenhAixW",
+        "discountPrice": 18.99,
+        "originalPrice": 199.99,
+        "numViews": 0,
+        "curriculum": []
+    },
+    {
+        "title": "Modern JavaScript From The Beginning",
+        "subtitle": "Learn and build projects with pure JavaScript (No frameworks or libraries)",
+        "descriptions": [],
+        "reviews": [],
+        "rating": "4.7",
+        "students": [],
+        "image1xURL": "https://img-a.udemycdn.com/course/240x135/1463348_52a4_2.jpg?K0Wbtq44hu2CiMSgDC1kvaCcV5LZyeuViuEFn2Ng1NGd_rAPzGygoZnJpL5FDUkcWH5yopAKpEzGVt4AOXOweCFVyTa6mSaFHklo_Q1kI7-mmt67r-SPnazY8y6n1LsA",
+        "image2xURL": "https://img-a.udemycdn.com/course/480x270/1463348_52a4_2.jpg?e8zWi3Caj4gRYxZ7mIX2gmKn6HKkdsalOkE1Ze-F6Sg9ypPgworyZsVUReIt8DejuUCILFYBmsr-k3wUsVqGI3WNjK7GRJ73xDezQoVg4IXGdD-McpIE9seAUY1_dp1x",
+        "discountPrice": 11.99,
+        "originalPrice": 129.99,
+        "numViews": 0,
+        "curriculum": []
     }
 ]
 
-const reviews = [
+var reviews = [
     // review 0
     {
         body: "Being a fresher as a web developer this course helped me not only to understand web coding in such a easy way but also made each section of the course interesting and enjoyable due to the awesome teaching method by 'Colt Steele'.",
@@ -193,7 +325,7 @@ const reviews = [
         // author: ""
     },
 ]
-const fields = [
+var fields = [
     {
         name: "web-development",
         courses: []
@@ -205,23 +337,48 @@ const fields = [
 ]
 async function seedDB() {
     // clear all database collection documents
-    await Course.remove({});
-    await User.remove({});
-    await Review.remove({});
-    await Field.remove({});
+    await Course.deleteMany({});
+    await User.deleteMany({});
+    await Review.deleteMany({});
+    await Field.deleteMany({});
+    console.log("cleared all database collection documents")
+    console.log("seeding database");
 
 
-    courses.forEach(async (course) => {
-        await Course.create(course);
-    })
-    users.forEach(async (user) => {
-        await User.create(user);
-    })
-    reviews.forEach(async (review) => {
-        await Review.create(review);
-    })
-    fields.forEach(async (field) => {
-        await Field.create(field);
-    })
+    for (var i = 0; i < reviews.length; i++) {
+        await Review.create(reviews[i]);
+    }
+
+    for (var i = 0; i < fields.length; i++) {
+        await Field.create(fields[i]);
+    }
+
+    for (var i = 0; i < users.length; i++) {
+        await User.create(users[i]);
+    }
+
+    for (var i = 0; i < courses.length; i++) {
+        await Course.create(courses[i]);
+    }
+
+    reviews = await Review.find({});
+    fields = await Field.find({});
+    users = await User.find({});
+    courses = await Course.find({});
+
+
+    // all web courses belong to web-development field
+    for (var i = 0; i < courses.length; i++) {
+        courses[i].field = fields[0];
+        await courses[i].save();
+    }
+
+    // web-development field contains all web courses
+    fields[0].courses = courses;
+
+
+    await fields[0].save();
+
+
 }
 module.exports = seedDB;

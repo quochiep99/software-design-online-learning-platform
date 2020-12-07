@@ -51,11 +51,13 @@ const CourseSchema = new Schema({
         }
     ],
 
-    // course's image
-    courseImage: String,
+    // course's image    
+    image1xURL: String,
+    image2xURL: String,
 
     // cost of the course
-    cost: reqNum,
+    discountPrice: reqNum,
+    originalPrice: reqNum,
 
     // number of views of this course
     numViews: reqNum,

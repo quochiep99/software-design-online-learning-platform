@@ -1,10 +1,12 @@
 const express = require("express");
 const router = express.Router({ mergeParams: true });
-const Course = require("../models/course");
-
+const Field = require("../models/field");
 router.get("/:field", async (req, res) => {
-    
-    res.render("courses/index");
+    const fieldName = req.params.field;
+    const field = await Field.findOne({ name: fieldName }).populate({ path: "courses" }).lean();    
+    res.render("courses/index", {
+        courses: field.courses
+    });
 })
 
 router.get("/:field/new", (req, res) => {
