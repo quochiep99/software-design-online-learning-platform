@@ -27,7 +27,7 @@ var students = [
     },
     // student 2
     {
-        name: "hiep 2",
+        name: "hiep 3",
         email: "hiep3@gmail.com",
         password: "hiep3",
         role: "s",
@@ -618,6 +618,8 @@ async function seedDB() {
         await User.create(students[i]);
     }
     for (var i = 0; i < instructors.length; i++) {
+        const salt = await bcrypt.genSalt(10);
+        instructors[i].password = await bcrypt.hashSync(instructors[i].password, salt);
         await User.create(instructors[i]);
     }
 
