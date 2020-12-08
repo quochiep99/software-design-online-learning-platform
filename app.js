@@ -51,41 +51,6 @@ app.use(session({
 
 app.use(passport.initialize());
 app.use(passport.session());
-passport.use(new LocalStrategy({
-    usernameField: "email",
-    passwordField: "password"
-},
-    function (email, password, cb) {        
-        User.findOne({ email: email })
-            .then(async (user) => {
-                if (!user) {
-                    return cb(null, false)
-                }
-
-                //user exists, check for password 
-                const isValid = await bcrypt.compare(password, user.password);
-                if (!isValid) {
-                    return cb(null, false);
-                }
-
-                //now user has been verified
-                return cb(null, user);
-            })
-            .catch((err) => {
-                cb(err);
-            });
-    }));
-passport.serializeUser(function (user, cb) {
-    cb(null, user.id);
-});
-passport.deserializeUser(function (id, cb) {
-    User.findById(id, function (err, user) {
-        if (err) {
-            return cb(err);
-        }
-        cb(null, user);
-    })
-})
 
 app.use("/", indexRoutes);
 app.use("/courses", courseRoutes);
