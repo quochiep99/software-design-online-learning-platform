@@ -54,6 +54,7 @@
             <ul id="top_menu">
                 <li><a href="#0" class="search-overlay-menu-btn">Search</a></li>
                 {{#if currentUser}}
+                    <li><a href="#">Hello, {{currentUser.name}}</a></li>
                     <li class="hidden_tablet">
                         <a href="/logout" class="btn_1 rounded"><i class="fa fa-fw fa-sign-out"></i>Logout</a>
                     </li>

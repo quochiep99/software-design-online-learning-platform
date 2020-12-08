@@ -709,7 +709,7 @@ ul#top_menu {
 ul#top_menu li {
     display: inline-block;
     margin: 2px 0 0 0;
-    text-transform: uppercase;
+    /* text-transform: uppercase; */
     font-weight: 600;
     letter-spacing: 2px;
     line-height: 1;

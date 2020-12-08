@@ -52,8 +52,11 @@ app.use(session({
 app.use(passport.initialize());
 app.use(passport.session());
 
-app.use(function (req, res, next) {
-    res.locals.currentUser = req.user;
+app.use(function (req, res, next) {    
+    if (req.user) {
+        res.locals.currentUser = req.user.toJSON();
+    }
+    next();
 })
 
 
