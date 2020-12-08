@@ -2,6 +2,7 @@ const Course = require("./models/course")
 const User = require("./models/user")
 const Review = require("./models/review")
 const Field = require("./models/field")
+const bcrypt = require('bcryptjs');
 
 var students = [
     // student 0
@@ -612,6 +613,8 @@ async function seedDB() {
     }
 
     for (var i = 0; i < students.length; i++) {
+        const salt = await bcrypt.genSalt(10);
+        students[i].password = await bcrypt.hashSync(students[i].password, salt);
         await User.create(students[i]);
     }
     for (var i = 0; i < instructors.length; i++) {
@@ -647,14 +650,14 @@ async function seedDB() {
 
     // students[0] enrolls in courses[0];
     students[0].enrolledCourses.push(courses[0]);
-    reviews[0].author = students[0];    
+    reviews[0].author = students[0];
     await students[0].save();
     await reviews[0].save();
     // courses[0] contains students[0]
-    courses[0].students.push(students[0]);    
+    courses[0].students.push(students[0]);
     courses[0].reviews.push(reviews[0]);
     await courses[0].save();
-    
+
 
 
 

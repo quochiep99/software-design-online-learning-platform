@@ -1,6 +1,13 @@
 const express = require("express");
 const exphbs = require('express-handlebars');
 const mongoose = require('mongoose');
+const bodyParser = require('body-parser');
+const bcrypt = require('bcryptjs');
+const passport = require("passport");
+const LocalStrategy = require("passport-local").Strategy;
+const session = require('express-session');
+const User = require("./models/user");
+
 const seedDB = require("./seedDB");
 
 //seed database
@@ -30,14 +37,62 @@ app.set('view engine', '.hbs');
 
 // serve static files
 app.use(express.static("public"));
+app.use(bodyParser.urlencoded({ extended: false }));
 
+//SESSION SETUP
+app.use(session({
+    secret: 'elearning-platform',
+    resave: false,
+    saveUninitialized: true,
+    cookie: {
+        maxAge: 1000 * 60 * 60 * 24 // Equals 1 day (1 day * 24 hr/1 day * 60 min/1 hr * 60 sec/1 min * 1000 ms / 1 sec)
+    }
+}));
+
+app.use(passport.initialize());
+app.use(passport.session());
+passport.use(new LocalStrategy({
+    usernameField: "email",
+    passwordField: "password"
+},
+    function (email, password, cb) {        
+        User.findOne({ email: email })
+            .then(async (user) => {
+                if (!user) {
+                    return cb(null, false)
+                }
+
+                //user exists, check for password 
+                const isValid = await bcrypt.compare(password, user.password);
+                if (!isValid) {
+                    return cb(null, false);
+                }
+
+                //now user has been verified
+                return cb(null, user);
+            })
+            .catch((err) => {
+                cb(err);
+            });
+    }));
+passport.serializeUser(function (user, cb) {
+    cb(null, user.id);
+});
+passport.deserializeUser(function (id, cb) {
+    User.findById(id, function (err, user) {
+        if (err) {
+            return cb(err);
+        }
+        cb(null, user);
+    })
+})
 
 app.use("/", indexRoutes);
 app.use("/courses", courseRoutes);
 
 
 // Handle 404 - Keep this as a last route
-app.use(function(req, res, next) {
+app.use(function (req, res, next) {
     res.status(404);
     res.send('404: File Not Found');
 });
