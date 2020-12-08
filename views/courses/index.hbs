@@ -154,9 +154,13 @@
                             <small>{{getFieldName this.field.name}}</small>
                             <h3>{{this.title}}</h3>
                             <p>{{this.instructor.name}}</p>
-                            <div class="rating"><i class="icon_star voted"></i><i class="icon_star voted"></i><i
+                            <!-- <div class="rating"><i class="icon_star voted"></i><i class="icon_star voted"></i><i
                                     class="icon_star voted"></i><i class="icon_star"></i><i class="icon_star"></i>
-                                <small>(145)</small></div>
+                                <small>(145)</small></div> -->
+                            <div class="rating">
+                                <small>{{this.rating}} stars - ({{this.reviews.length}} students reviewing)</small>
+                                <small></small>
+                            </div>
                         </div>
                         <ul>
                             <li><i class="icon_clock_alt"></i> 1h 30min</li>

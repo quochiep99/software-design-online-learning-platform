@@ -10,9 +10,11 @@ const UserSchema = new Schema({
     email: reqString,
     password: reqString,
 
+    // role
     // student, instructor, admin
     // type = s for student, i for instructor and a for admin
     role: String,
+    
     wishList: [
         {
             type: Schema.Types.ObjectId,

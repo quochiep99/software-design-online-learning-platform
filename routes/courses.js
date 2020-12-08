@@ -2,11 +2,24 @@ const express = require("express");
 const Course = require("../models/course");
 const router = express.Router({ mergeParams: true });
 const Field = require("../models/field");
+
+function calculateAverageRating(course) {
+    var sum = 0;
+    course.reviews.forEach((review) => {
+        console.log(review);
+        sum += review.rating;
+    })
+    course.rating = sum / (course.reviews.length);
+}
 router.get("/:field", async (req, res) => {
     const fieldName = req.params.field;
     const field = await Field.findOne({ name: fieldName });
     if (field) {
-        const courses = await Course.find({ field: field._id }).populate({ path: "field" }).populate({ path: "instructor" }).lean();
+        const courses = await Course.find({ field: field._id }).populate({ path: "field" }).populate({ path: "instructor" }).populate({ path: "reviews" }).lean();
+        courses.forEach((course) => {
+            calculateAverageRating(course);
+        })
+        console.log(courses);
         return res.render("courses/index", {
             courses: courses,
             helpers: {

@@ -3,6 +3,39 @@ const User = require("./models/user")
 const Review = require("./models/review")
 const Field = require("./models/field")
 
+var students = [
+    // student 0
+    {
+        name: "hiep 1",
+        email: "hiep1@gmail.com",
+        password: "hiep1",
+        role: "s",
+        wishList: [],
+        enrolledCourses: [],
+        uploadedCourses: []
+    },
+    // student 1
+    {
+        name: "hiep 2",
+        email: "hiep2@gmail.com",
+        password: "hiep2",
+        role: "s",
+        wishList: [],
+        enrolledCourses: [],
+        uploadedCourses: []
+    },
+    // student 2
+    {
+        name: "hiep 2",
+        email: "hiep3@gmail.com",
+        password: "hiep3",
+        role: "s",
+        wishList: [],
+        enrolledCourses: [],
+        uploadedCourses: []
+    }
+
+]
 
 var instructors = [
     // instructor 0
@@ -578,6 +611,9 @@ async function seedDB() {
         await Field.create(fields[i]);
     }
 
+    for (var i = 0; i < students.length; i++) {
+        await User.create(students[i]);
+    }
     for (var i = 0; i < instructors.length; i++) {
         await User.create(instructors[i]);
     }
@@ -589,7 +625,8 @@ async function seedDB() {
 
     reviews = await Review.find({});
     fields = await Field.find({});
-    instructors = await User.find({});
+    students = await User.find({ role: "s" })
+    instructors = await User.find({ role: "i" });
     courses = await Course.find({});
 
     for (var i = 0; i < 16; i++) {
@@ -600,11 +637,24 @@ async function seedDB() {
         courses[i + 16].field = fields[1];
         await courses[i + 16].save();
     }
-    
+
+    // instructor[0] teaches course[0]
     courses[0].instructor = instructors[0];
     await courses[0].save();
+    // instructor[2] teaches course[2]
     courses[2].instructor = instructors[2];
     await courses[2].save();
+
+    // students[0] enrolls in courses[0];
+    students[0].enrolledCourses.push(courses[0]);
+    reviews[0].author = students[0];    
+    await students[0].save();
+    await reviews[0].save();
+    // courses[0] contains students[0]
+    courses[0].students.push(students[0]);    
+    courses[0].reviews.push(reviews[0]);
+    await courses[0].save();
+    
 
 
 
