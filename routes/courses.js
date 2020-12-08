@@ -6,7 +6,6 @@ const Field = require("../models/field");
 function calculateAverageRating(course) {
     var sum = 0;
     course.reviews.forEach((review) => {
-        console.log(review);
         sum += review.rating;
     })
     course.rating = sum / (course.reviews.length);
@@ -19,7 +18,6 @@ router.get("/:field", async (req, res) => {
         courses.forEach((course) => {
             calculateAverageRating(course);
         })
-        console.log(courses);
         return res.render("courses/index", {
             courses: courses,
             helpers: {
@@ -44,7 +42,10 @@ router.get("/:field/:id", async (req, res) => {
                 helpers: {
                     getDateString: (date) => {
                         const newDate = new Date(date);
-                        return newDate.getDate() + "/" + (newDate.getMonth() + 1) + "/" + newDate.getFullYear();
+                        // return newDate.getDate() + "/" + (newDate.getMonth() + 1) + "/" + newDate.getFullYear();
+                        const [hour, minute, second] = newDate.toLocaleTimeString("en-US").split(/:| /)
+                        // return hour + "h : " + minute + "m : " + second + "s    " + newDate.toDateString();
+                        return newDate.toTimeString();
                     }
                 }
             })
