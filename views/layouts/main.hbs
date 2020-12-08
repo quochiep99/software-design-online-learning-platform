@@ -17,6 +17,8 @@
         href="/img/apple-touch-icon-114x114-precomposed.png">
     <link rel="apple-touch-icon" type="image/x-icon" sizes="144x144"
         href="/img/apple-touch-icon-144x144-precomposed.png">
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css"
+        integrity="sha384-wvfXpqpZZVQGK6TAh5PVlGOfQNHSoD2xbE+QkPxCAFlNEevoEH3Sl0sibVcOQVnN" crossorigin="anonymous">
 
     <!-- GOOGLE WEB FONT -->
     <link href="https://fonts.googleapis.com/css?family=Poppins:300,400,500,600,700,800" rel="stylesheet">
@@ -50,9 +52,17 @@
                 <a href="index.html"><img src="/img/logo.png" width="149" height="42" data-retina="true" alt=""></a>
             </div>
             <ul id="top_menu">
-                <li><a href="login.html" class="login">Login</a></li>
                 <li><a href="#0" class="search-overlay-menu-btn">Search</a></li>
-                <li class="hidden_tablet"><a href="admission.html" class="btn_1 rounded">Admission</a></li>
+                {{#if currentUser}}
+                    <li class="hidden_tablet">
+                        <a href="/logout" class="btn_1 rounded"><i class="fa fa-fw fa-sign-out"></i>Logout</a>
+                    </li>
+                {{else}}
+                    <li><a href="/login" class="login">Login</a></li>
+                    <li class="hidden_tablet"><a href="/register" class="btn_1 rounded">Register</a></li>
+
+                {{/if}}
+
             </ul>
             <!-- /top_menu -->
             <a href="#menu" class="btn_mobile">
@@ -64,14 +74,12 @@
             </a>
             <nav id="menu" class="main-menu">
                 <ul>
-                    <li><span><a href="#0">Home</a></span>
+                    <li><span><a href="#0">Categories</a></span>
                         <ul>
-                            <li><a href="index.html">Home version 1</a></li>
-                            <li><a href="index-2.html">Home version 2</a></li>
-                            <li><a href="index-6.html">Home version 3</a></li>
-                            <li><a href="index-3.html">Home version 4</a></li>
-                            <li><a href="index-4.html">Home version 5</a></li>
-                            <li><a href="index-5.html">With Cookie bar (EU law)</a></li>
+                            <li><a href="/courses/web-development">Web Development</a></li>
+                            <li><a href="/courses/mobile-development">Mobile Development</a></li>
+                            <li><a href="/courses/data-science">Data Science</a></li>
+                            <li><a href="/courses/game-development">Game Development</a></li>
                         </ul>
                     </li>
                     <li><span><a href="#0">Courses</a></span>
@@ -114,7 +122,7 @@
                             <li><a href="icon-pack-4.html">Icon pack 4</a></li>
                         </ul>
                     </li>
-                    <li><span><a href="#0">Buy template</a></span></li>
+
                 </ul>
             </nav>
             <!-- Search Menu -->

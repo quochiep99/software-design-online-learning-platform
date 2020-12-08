@@ -42,7 +42,7 @@ passport.use(new LocalStrategy({
     usernameField: "email",
     passwordField: "password"
 },
-    function (email, password, cb) {        
+    function (email, password, cb) {
         User.findOne({ email: email })
             .then(async (user) => {
                 if (!user) {
@@ -83,6 +83,11 @@ router.post("/login", passport.authenticate("local", {
     successRedirect: "/"
 }))
 
+// Log out
+router.get("/logout", (req, res) => {
+    req.logout();
+    res.redirect("/");
+})
 
 
 
