@@ -142,8 +142,8 @@
                     <div class="col-lg-5">
                         <figure class="block-reveal">
                             <div class="block-horizzontal"></div>
-                            <a href="course-detail.html"><img
-                                    src="{{this.image1xURL}}" width="800" height="533" alt=""></a>
+                            <a href="/courses/{{this.field.name}}/{{this._id}}"><img src="{{this.image1xURL}}"
+                                    alt=""></a>
                             <div class="preview"><span>Preview course</span></div>
                         </figure>
                     </div>
@@ -153,8 +153,7 @@
                             <div class="price">${{this.discountPrice}}</div>
                             <small>{{getFieldName this.field.name}}</small>
                             <h3>{{this.title}}</h3>
-                            <p>Dicam diceret ut ius, no epicuri dissentiet philosophia vix. Eam id legimus torquatos
-                                cotidieque, usu decore percipitur definitiones ex, nihil utinam recusabo mel no. </p>
+                            <p>{{this.instructor.name}}</p>
                             <div class="rating"><i class="icon_star voted"></i><i class="icon_star voted"></i><i
                                     class="icon_star voted"></i><i class="icon_star"></i><i class="icon_star"></i>
                                 <small>(145)</small></div>

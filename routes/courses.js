@@ -6,8 +6,8 @@ router.get("/:field", async (req, res) => {
     const fieldName = req.params.field;
     const field = await Field.findOne({ name: fieldName });
     if (field) {
-        const courses = await Course.find({ field: field._id }).populate({ path: "field" }).lean();
-        return res.render("courses/index", {            
+        const courses = await Course.find({ field: field._id }).populate({ path: "field" }).populate({ path: "instructor" }).lean();
+        return res.render("courses/index", {
             courses: courses,
             helpers: {
                 getFieldName: (fieldName) => {
@@ -20,8 +20,24 @@ router.get("/:field", async (req, res) => {
 
 })
 
-router.get("/:field/:id", (req, res) => {
-    res.render("courses/show");
+router.get("/:field/:id", async (req, res) => {
+    const fieldName = req.params.field;
+    const field = await Field.findOne({ name: fieldName });
+    if (field) {
+        const course = await Course.findById(req.params.id).lean();
+        if (course) {
+            return res.render("courses/show", {
+                course: course,
+                helpers: {
+                    getDateString: (date) => {
+                        const newDate = new Date(date);
+                        return newDate.getDate() + "/" + (newDate.getMonth() + 1) + "/" + newDate.getFullYear();
+                    }
+                }
+            })
+        }
+    }
+    return res.redirect("/");
 })
 
 // router.get("/:field/:id", (req, res) => {

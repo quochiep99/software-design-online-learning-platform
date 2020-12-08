@@ -30,7 +30,7 @@ const CourseSchema = new Schema({
     // instructor of the course
     instructor: {
         type: Schema.Types.ObjectId,
-        ref: "Instructor"
+        ref: "User"
     },
 
     // reviews of the course

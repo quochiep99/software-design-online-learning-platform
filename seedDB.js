@@ -4,8 +4,8 @@ const Review = require("./models/review")
 const Field = require("./models/field")
 
 
-var users = [
-    // user 0
+var instructors = [
+    // instructor 0
     {
         name: "Colt Steele",
         email: "coltsteele@gmail.com",
@@ -15,7 +15,7 @@ var users = [
         enrolledCourses: [],
         uploadedCourses: []
     },
-    // user 1
+    // instructor 1
     {
         name: "Jonas Schmedtmann",
         email: "jonasschmedtmann@gmail.com",
@@ -25,7 +25,7 @@ var users = [
         enrolledCourses: [],
         uploadedCourses: []
     },
-    // user 2
+    // instructor 2
     {
         name: "Dr. Angela Yu",
         email: "dr.angelayu@gmail.com",
@@ -35,7 +35,7 @@ var users = [
         enrolledCourses: [],
         uploadedCourses: []
     },
-    // user 3
+    // instructor 3
     {
         name: "Rob Percival",
         email: "robpercival@gmail.com",
@@ -578,8 +578,8 @@ async function seedDB() {
         await Field.create(fields[i]);
     }
 
-    for (var i = 0; i < users.length; i++) {
-        await User.create(users[i]);
+    for (var i = 0; i < instructors.length; i++) {
+        await User.create(instructors[i]);
     }
 
     for (var i = 0; i < courses.length; i++) {
@@ -589,19 +589,30 @@ async function seedDB() {
 
     reviews = await Review.find({});
     fields = await Field.find({});
-    users = await User.find({});
+    instructors = await User.find({});
     courses = await Course.find({});
 
     for (var i = 0; i < 16; i++) {
+        // courses belong field[0]
         courses[i].field = fields[0];
         await courses[i].save();
+        // courses belong field[1]
         courses[i + 16].field = fields[1];
         await courses[i + 16].save();
     }
+    
+    courses[0].instructor = instructors[0];
+    await courses[0].save();
+    courses[2].instructor = instructors[2];
+    await courses[2].save();
 
+
+
+    // fields[0] contains all of its courses
     for (var i = 0; i < 16; i++) {
         fields[0].courses.push(courses[i]);
     }
+    // fields[1] contains all of its courses
     for (var i = 16; i < 32; i++) {
         fields[1].courses.push(courses[i]);
     }
