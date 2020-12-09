@@ -40,17 +40,17 @@ router.get("/:field", async (req, res) => {
 
                         // if there is a previous page
                         if (result.hasPrevPage) {
-                            previous = `<li class="left-etc"><a href="/courses/web-development/?page=${result.prevPage}&limit=${result.limit}">&laquo;</a></li>`
+                            previous = `<li class="left-etc"><a href="/courses/${field.name}/?page=${result.prevPage}&limit=${result.limit}">&laquo;</a></li>`
                         }
                         if (result.hasNextPage) {
-                            next = `<li><a href="/courses/web-development/?page=${result.nextPage}&limit=${result.limit}">&raquo;</a></li>`;
+                            next = `<li><a href="/courses/${field.name}/?page=${result.nextPage}&limit=${result.limit}">&raquo;</a></li>`;
                         }
                         for (var i = 1; i <= numPages; i++) {
                             if (i === result.page) {
                                 // make the current page active
                                 ret += `<li class="active"><span>${result.page}</span></li>\n`;
                             } else {
-                                ret += `<li><a href="/courses/web-development/?page=${i}&limit=${result.limit}">${i}</a></li>\n`
+                                ret += `<li><a href="/courses/${field.name}/?page=${i}&limit=${result.limit}">${i}</a></li>\n`
                             }
                         }
 
@@ -68,7 +68,7 @@ router.get("/:field/:id", async (req, res) => {
     const fieldName = req.params.field;
     const field = await Field.findOne({ name: fieldName });
     if (field) {
-        const course = await Course.findById(req.params.id).lean();
+        const course = await Course.findById(req.params.id);
         if (course) {
             return res.render("courses/show", {
                 course: course,
@@ -84,7 +84,9 @@ router.get("/:field/:id", async (req, res) => {
             })
         }
     }
-    return res.redirect("/");
+    res.redirect("/");
+
+
 })
 
 // router.get("/:field/:id", (req, res) => {
