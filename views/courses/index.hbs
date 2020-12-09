@@ -137,50 +137,46 @@
 
         <div class="col-lg-9" id="list_sidebar">
             {{#each courses}}
-                <div class="box_list wow">
-                    <div class="row no-gutters">
-                        <div class="col-lg-5">
-                            <figure class="block-reveal">
-                                <div class="block-horizzontal"></div>
-                                <a href="/courses/{{this.field.name}}/{{this._id}}"><img src="{{this.image1xURL}}"
-                                        alt=""></a>
-                                <div class="preview"><span>Preview course</span></div>
-                            </figure>
-                        </div>
-                        <div class="col-lg-7">
-                            <div class="wrapper">
-                                <a href="#0" class="wish_bt"></a>
-                                <div class="price">${{this.discountPrice}}</div>
-                                <small>{{getFieldName this.field.name}}</small>
-                                <h3>{{this.title}}</h3>
-                                <p>{{this.instructor.name}}</p>
-                                <!-- <div class="rating"><i class="icon_star voted"></i><i class="icon_star voted"></i><i
+            <div class="box_list wow">
+                <div class="row no-gutters">
+                    <div class="col-lg-5">
+                        <figure class="block-reveal">
+                            <div class="block-horizzontal"></div>
+                            <a href="/courses/{{this.field.name}}/{{this._id}}"><img src="{{this.image1xURL}}"
+                                    alt=""></a>
+                            <div class="preview"><span>Preview course</span></div>
+                        </figure>
+                    </div>
+                    <div class="col-lg-7">
+                        <div class="wrapper">
+                            <a href="#0" class="wish_bt"></a>
+                            <div class="price">${{this.discountPrice}}</div>
+                            <small>{{getFieldName this.field.name}}</small>
+                            <h3>{{this.title}}</h3>
+                            <p>{{this.instructor.name}}</p>
+                            <!-- <div class="rating"><i class="icon_star voted"></i><i class="icon_star voted"></i><i
                                             class="icon_star voted"></i><i class="icon_star"></i><i class="icon_star"></i>
                                         <small>(145)</small></div> -->
-                                <div class="rating">
-                                    <small>{{this.rating}} stars - ({{this.reviews.length}} students reviewing)</small>
-                                    <small></small>
-                                </div>
+                            <div class="rating">
+                                <small>{{this.rating}} stars - ({{this.reviews.length}} students reviewing)</small>
+                                <small></small>
                             </div>
-                            <ul>
-                                <li><i class="icon_clock_alt"></i> 1h 30min</li>
-                                <li><i class="icon_like"></i> 890</li>
-                                <li><a href="course-detail.html">Enroll now</a></li>
-                            </ul>
                         </div>
+                        <ul>
+                            <li><i class="icon_clock_alt"></i> 1h 30min</li>
+                            <li><i class="icon_like"></i> 890</li>
+                            <li><a href="course-detail.html">Enroll now</a></li>
+                        </ul>
                     </div>
                 </div>
+            </div>
             {{/each}}
             <p class="text-center add_top_60"><a href="#0" class="btn_1 rounded">Load more</a></p>
             <ul class="pagination">
                 <li class="left-etc"><a href="#">&laquo;</a></li>
                 <li><a href="">1</a></li>
-                <li class="active">
-                    <span>
-                        2
-                    </span>
-                </li>
-                <li><a href="">3</a></li>
+                <li class="active"><span>2</span></li>
+                <li><a href="/courses/web-development/?page=3">3</a></li>
                 <li><a href="">4</a></li>
                 <li><a href="">5</a></li>
                 <li><a href="">6</a></li>

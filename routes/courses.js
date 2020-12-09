@@ -14,21 +14,30 @@ router.get("/:field", async (req, res) => {
     const fieldName = req.params.field;
     const field = await Field.findOne({ name: fieldName });
     if (field) {
-        const courses = await Course.find({ field: field._id }).populate({ path: "field" }).populate({ path: "instructor" }).populate({ path: "reviews" }).lean();
-        courses.forEach((course) => {
-            calculateAverageRating(course);
-        })
-        return res.render("courses/index", {
-            courses: courses,
-            helpers: {
-                getFieldName: (fieldName) => {
-                    return fieldName.replace("-", " ");
+        const requestedPage = req.query.page || 1;
+        const requestedLimit = parseInt(req.query.limit || 3);
+        const options = {
+            page: requestedPage,
+            limit: requestedLimit,
+            populate: ["field", "instructor", "reviews"]
+        }
+        Course.paginate({ field: field._id }, options, (err, result) => {
+            const courses = result.docs
+            courses.forEach((course) => {
+                calculateAverageRating(course);
+            })
+            res.render("courses/index", {
+                courses: courses,
+                helpers: {
+                    getFieldName: (fieldName) => {
+                        return fieldName.replace("-", " ");
+                    }
                 }
-            }
-        });
+            });
+        })
+    } else {
+        res.redirect("/");
     }
-    res.redirect("/");
-
 })
 
 router.get("/:field/:id", async (req, res) => {

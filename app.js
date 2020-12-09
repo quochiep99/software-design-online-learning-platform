@@ -31,7 +31,11 @@ mongoose.connect(url, { useNewUrlParser: true, useUnifiedTopology: true });
 
 // express handlebars
 app.engine('.hbs', exphbs({
-    extname: '.hbs'
+    extname: '.hbs',
+    runtimeOptions: {
+        allowProtoPropertiesByDefault: true,
+        allowProtoMethodsByDefault: true
+    }
 }));
 app.set('view engine', '.hbs');
 
@@ -52,9 +56,9 @@ app.use(session({
 app.use(passport.initialize());
 app.use(passport.session());
 
-app.use(function (req, res, next) {    
+app.use(function (req, res, next) {
     if (req.user) {
-        res.locals.currentUser = req.user.toJSON();
+        res.locals.currentUser = req.user;
     }
     next();
 })
