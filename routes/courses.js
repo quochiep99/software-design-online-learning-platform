@@ -27,10 +27,34 @@ router.get("/:field", async (req, res) => {
                 calculateAverageRating(course);
             })
             res.render("courses/index", {
+                totalPages: result.totalPages,
                 courses: courses,
                 helpers: {
                     getFieldName: (fieldName) => {
                         return fieldName.replace("-", " ");
+                    },
+                    generatePagination: (numPages) => {
+                        var ret = "";
+                        var previous = `<li class="left-etc"><a>&laquo;</a></li>`;
+                        var next = `<li><a>&raquo;</a></li>`;
+
+                        // if there is a previous page
+                        if (result.hasPrevPage) {
+                            previous = `<li class="left-etc"><a href="/courses/web-development/?page=${result.prevPage}&limit=${result.limit}">&laquo;</a></li>`
+                        }
+                        if (result.hasNextPage) {
+                            next = `<li><a href="/courses/web-development/?page=${result.nextPage}&limit=${result.limit}">&raquo;</a></li>`;
+                        }
+                        for (var i = 1; i <= numPages; i++) {
+                            if (i === result.page) {
+                                // make the current page active
+                                ret += `<li class="active"><span>${result.page}</span></li>\n`;
+                            } else {
+                                ret += `<li><a href="/courses/web-development/?page=${i}&limit=${result.limit}">${i}</a></li>\n`
+                            }
+                        }
+
+                        return previous + "\n" + ret + next + "\n";
                     }
                 }
             });
