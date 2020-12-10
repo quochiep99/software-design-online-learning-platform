@@ -56,7 +56,7 @@ const CourseSchema = new Schema({
     // course's image    
     image1xURL: String,
     image2xURL: String,
-
+    image3xURL: String,
     // cost of the course
     discountPrice: reqNum,
     originalPrice: reqNum,
@@ -74,6 +74,13 @@ const CourseSchema = new Schema({
 })
 
 CourseSchema.plugin(mongoosePaginate);
+CourseSchema.methods.calculateAverageRating = function (cb) {
+    this.rating = 0;
+    this.reviews.forEach((review) => {
+        this.rating += review.rating
+    })
+    return this.rating = (this.reviews.length === 0 ? 0 : (this.rating / this.reviews.length).toFixed(1));
+}
 
 
 module.exports = mongoose.model("Course", CourseSchema);
