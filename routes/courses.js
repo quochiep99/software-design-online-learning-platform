@@ -68,7 +68,10 @@ router.get("/:field/:id", async (req, res) => {
                     path: "author"
                 }
             }).
-            populate({ path: "students" });
+            populate({ path: "students" }).
+            populate({
+                path: "instructor"
+            });
 
         if (course) {
             return res.render("courses/show", {

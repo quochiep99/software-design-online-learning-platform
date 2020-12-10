@@ -6461,3 +6461,13 @@ a {
 a {
     background: transparent
 }
+
+div.col-lg-8>#description>[href] {
+    cursor: pointer;    
+    font-weight: 400;
+    line-height: 1.4;
+    font-size: 1.6rem;
+    margin: 0;    
+    -webkit-tap-highlight-color: transparent;
+    touch-action: manipulation;
+}
