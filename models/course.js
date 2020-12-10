@@ -1,6 +1,10 @@
 const mongoose = require("mongoose");
-const Schema = mongoose.Schema;
 const mongoosePaginate = require('mongoose-paginate-v2');
+const Field = require("./field");
+const User = require("./user");
+const Review = require("./review");
+
+const Schema = mongoose.Schema;
 
 const reqString = {
     type: String,
@@ -74,6 +78,7 @@ const CourseSchema = new Schema({
 })
 
 CourseSchema.plugin(mongoosePaginate);
+
 CourseSchema.methods.calculateAverageRating = function (cb) {
     this.rating = 0;
     this.reviews.forEach((review) => {
@@ -81,6 +86,5 @@ CourseSchema.methods.calculateAverageRating = function (cb) {
     })
     return this.rating = (this.reviews.length === 0 ? 0 : (this.rating / this.reviews.length).toFixed(1));
 }
-
 
 module.exports = mongoose.model("Course", CourseSchema);

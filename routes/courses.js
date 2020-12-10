@@ -3,13 +3,6 @@ const Course = require("../models/course");
 const router = express.Router({ mergeParams: true });
 const Field = require("../models/field");
 
-function calculateAverageRating(course) {
-    var sum = 0;
-    course.reviews.forEach((review) => {
-        sum += review.rating;
-    })
-    course.rating = sum / (course.reviews.length);
-}
 router.get("/:field", async (req, res) => {
     const fieldName = req.params.field;
     const field = await Field.findOne({ name: fieldName });
@@ -23,9 +16,6 @@ router.get("/:field", async (req, res) => {
         }
         Course.paginate({ field: field._id }, options, (err, result) => {
             const courses = result.docs
-            courses.forEach((course) => {
-                calculateAverageRating(course);
-            })
             res.render("courses/index", {
                 totalPages: result.totalPages,
                 courses: courses,

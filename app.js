@@ -9,10 +9,10 @@ const session = require('express-session');
 const courseRoutes = require("./routes/courses");
 const indexRoutes = require("./routes/index")
 
-const app = express();
-
 // load environment variables from .env file into process.env
 require('dotenv').config();
+
+const app = express();
 
 //PORT
 const PORT = process.env.PORT || 3000;
@@ -44,7 +44,6 @@ app.use(session({
         maxAge: 1000 * 60 * 60 * 24 // Equals 1 day (1 day * 24 hr/1 day * 60 min/1 hr * 60 sec/1 min * 1000 ms / 1 sec)
     }
 }));
-
 app.use(passport.initialize());
 app.use(passport.session());
 
@@ -55,19 +54,15 @@ app.use(function (req, res, next) {
     next();
 })
 
-
 // ROUTES
 app.use("/", indexRoutes);
 app.use("/courses", courseRoutes);
-
 
 // Handle 404 - Keep this as a last route
 app.use(function (req, res, next) {
     res.status(404);
     res.send('404: File Not Found');
 });
-
-
 
 app.listen(PORT, (req, res) => {
     console.log("Server is starting at port " + PORT);

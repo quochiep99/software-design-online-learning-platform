@@ -1,14 +1,18 @@
 const mongoose = require("mongoose");
+const User = require("./user");
+
 const Schema = mongoose.Schema;
 
 const reqString = {
     type: String,
     required: true
 }
+
 const reqNum = {
     type: Number,
     required: true
 }
+
 const ReviewSchema = new Schema({
     // the review content
     body: reqString,
