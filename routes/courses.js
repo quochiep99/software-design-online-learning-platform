@@ -58,7 +58,7 @@ router.get("/:field/:id", async (req, res) => {
     const fieldName = req.params.field;
     const field = await Field.findOne({ name: fieldName });
     if (field) {
-        const course = await Course.findById(req.params.id);
+        const course = await Course.findById(req.params.id).populate("reviews").populate("students");
         if (course) {
             return res.render("courses/show", {
                 course: course,
@@ -69,6 +69,9 @@ router.get("/:field/:id", async (req, res) => {
                         const [hour, minute, second] = newDate.toLocaleTimeString("en-US").split(/:| /)
                         // return hour + "h : " + minute + "m : " + second + "s    " + newDate.toDateString();
                         return newDate.toTimeString();
+                    },
+                    calculateDiscountPercentage: (discountPrice, originalPrice) => {
+                        return (100 * (originalPrice - discountPrice) / originalPrice).toFixed(0);
                     }
                 }
             })

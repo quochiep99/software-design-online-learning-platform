@@ -4,7 +4,7 @@
             <h4>{{course.title}}</h4>
             <h6 class="lead">{{course.subtitle}}</h6>
             <hr class="my-4">
-            <p>Rating: 4.7 out of 5 4.7 (188,802 ratings) 619,337 students</p>
+            <p>Rating: {{course.rating}} out of 5 ({{course.reviews.length}} ratings) {{course.students.length}} students</p>
             <p>Last updated {{getDateString course.updatedAt}}</p>
         </div>
     </div>
@@ -357,7 +357,7 @@
                                 height="533" alt="" class="img-fluid"><span>View course preview</span></a>
                     </figure>
                     <div class="price">
-                        $29<span class="original_price"><em>$49</em>60% discount price</span>
+                        ${{course.discountPrice}}<span class="original_price"><em>${{course.originalPrice}}</em>{{calculateDiscountPercentage course.discountPrice course.originalPrice}}% off</span>
                     </div>
                     <a href="#0" class="btn_1 full-width">Purchase</a>
                     <a href="#0" class="btn_1 full-width outline"><i class="icon_heart"></i> Add to wishlist</a>
