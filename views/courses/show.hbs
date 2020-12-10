@@ -4,8 +4,9 @@
             <h4>{{course.title}}</h4>
             <h6 class="lead">{{course.subtitle}}</h6>
             <hr class="my-4">
-            <p>Rating: {{course.rating}} out of 5 ({{course.reviews.length}} ratings) {{course.students.length}} students</p>
-            <p>Last updated {{getDateString course.updatedAt}}</p>
+            <p>Rating: {{course.rating}} out of 5 ({{course.reviews.length}} ratings) {{course.students.length}}
+                students</p>
+            <p>Last updated {{getLastUpdatedString course.updatedAt}}</p>
         </div>
     </div>
 </section>
@@ -275,51 +276,7 @@
                     <hr>
 
                     <div class="reviews-container">
-
-                        <div class="review-box clearfix">
-                            <figure class="rev-thumb"><img src="http://via.placeholder.com/150x150/ccc/fff/avatar1.jpg"
-                                    alt="">
-                            </figure>
-                            <div class="rev-content">
-                                <div class="rating">
-                                    <i class="icon_star voted"></i><i class="icon_star voted"></i><i
-                                        class="icon_star voted"></i><i class="icon_star voted"></i><i
-                                        class="icon_star"></i>
-                                </div>
-                                <div class="rev-info">
-                                    Admin – April 03, 2016:
-                                </div>
-                                <div class="rev-text">
-                                    <p>
-                                        Sed eget turpis a pede tempor malesuada. Vivamus quis mi at leo pulvinar
-                                        hendrerit. Cum sociis natoque penatibus et magnis dis
-                                    </p>
-                                </div>
-                            </div>
-                        </div>
-
-                        <div class="review-box clearfix">
-                            <figure class="rev-thumb"><img src="http://via.placeholder.com/150x150/ccc/fff/avatar2.jpg"
-                                    alt="">
-                            </figure>
-                            <div class="rev-content">
-                                <div class="rating">
-                                    <i class="icon-star voted"></i><i class="icon_star voted"></i><i
-                                        class="icon_star voted"></i><i class="icon_star voted"></i><i
-                                        class="icon_star"></i>
-                                </div>
-                                <div class="rev-info">
-                                    Ahsan – April 01, 2016:
-                                </div>
-                                <div class="rev-text">
-                                    <p>
-                                        Sed eget turpis a pede tempor malesuada. Vivamus quis mi at leo pulvinar
-                                        hendrerit. Cum sociis natoque penatibus et magnis dis
-                                    </p>
-                                </div>
-                            </div>
-                        </div>
-
+                        {{#each course.reviews as |review|}}
                         <div class="review-box clearfix">
                             <figure class="rev-thumb"><img src="http://via.placeholder.com/150x150/ccc/fff/avatar3.jpg"
                                     alt="">
@@ -331,16 +288,19 @@
                                         class="icon_star"></i>
                                 </div>
                                 <div class="rev-info">
-                                    Sara – March 31, 2016:
+                                    {{review.author.name}} – {{calculateReviewTime review.createdAt}}
                                 </div>
                                 <div class="rev-text">
                                     <p>
-                                        Sed eget turpis a pede tempor malesuada. Vivamus quis mi at leo pulvinar
-                                        hendrerit. Cum sociis natoque penatibus et magnis dis
+                                        {{review.rating}}
+                                    </p>
+                                    <p>
+                                        {{review.body}}
                                     </p>
                                 </div>
                             </div>
                         </div>
+                        {{/each}}
 
                     </div>
 
@@ -357,7 +317,9 @@
                                 height="533" alt="" class="img-fluid"><span>View course preview</span></a>
                     </figure>
                     <div class="price">
-                        ${{course.discountPrice}}<span class="original_price"><em>${{course.originalPrice}}</em>{{calculateDiscountPercentage course.discountPrice course.originalPrice}}% off</span>
+                        ${{course.discountPrice}}<span
+                            class="original_price"><em>${{course.originalPrice}}</em>{{calculateDiscountPercentage course.discountPrice course.originalPrice}}%
+                            off</span>
                     </div>
                     <a href="#0" class="btn_1 full-width">Purchase</a>
                     <a href="#0" class="btn_1 full-width outline"><i class="icon_heart"></i> Add to wishlist</a>

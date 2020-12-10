@@ -1,7 +1,10 @@
 const express = require("express");
 const Course = require("../models/course");
-const router = express.Router({ mergeParams: true });
 const Field = require("../models/field");
+const moment = require('moment');
+
+const router = express.Router({ mergeParams: true });
+
 
 router.get("/:field", async (req, res) => {
     const fieldName = req.params.field;
@@ -58,12 +61,20 @@ router.get("/:field/:id", async (req, res) => {
     const fieldName = req.params.field;
     const field = await Field.findOne({ name: fieldName });
     if (field) {
-        const course = await Course.findById(req.params.id).populate("reviews").populate("students");
+        const course = await Course.findById(req.params.id).
+            populate({
+                path: "reviews",
+                populate: {
+                    path: "author"
+                }
+            }).
+            populate({ path: "students" });
+
         if (course) {
             return res.render("courses/show", {
                 course: course,
                 helpers: {
-                    getDateString: (date) => {
+                    getLastUpdatedString: (date) => {
                         const newDate = new Date(date);
                         // return newDate.getDate() + "/" + (newDate.getMonth() + 1) + "/" + newDate.getFullYear();
                         const [hour, minute, second] = newDate.toLocaleTimeString("en-US").split(/:| /)
@@ -72,7 +83,12 @@ router.get("/:field/:id", async (req, res) => {
                     },
                     calculateDiscountPercentage: (discountPrice, originalPrice) => {
                         return (100 * (originalPrice - discountPrice) / originalPrice).toFixed(0);
+                    },
+                    calculateReviewTime: (date) => {
+                        return moment(date).fromNow();
                     }
+
+
                 }
             })
         }
