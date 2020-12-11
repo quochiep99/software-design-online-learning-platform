@@ -4,7 +4,15 @@ const Review = require("./models/review")
 const Field = require("./models/field")
 const bcrypt = require('bcryptjs');
 const mongoose = require("mongoose");
-// const data = require("./data");
+const JoinJSON = require('join-json');
+
+// fetch data from json files and join them
+const joinjson = new JoinJSON();
+
+for (var i = 1; i <= 16; i++) {
+    joinjson.join([require(`./data/web-development/data${i}.json`)]);
+}
+
 // mongodb url
 const url = process.env.DATABASEURL || 'mongodb://localhost:27017/web-online-academy';
 mongoose.connect(url, { useNewUrlParser: true, useUnifiedTopology: true });
@@ -17,10 +25,8 @@ async function seedDB() {
     await Field.deleteMany({});
     console.log("deleted collections documents.")
     console.log("creating collections documents...");
-    const data = [];
-    for (var i = 1; i <= 16; i++) {
-        data.push(require(`./data/data${i}`));
-    }
+    const data = joinjson.joined;
+
 
     for (var i = 0; i < 16; i++) {
 
@@ -33,18 +39,16 @@ async function seedDB() {
 
         var reviews = await Review.create(data[i].reviews);
 
-        // for (var i = 0; i < data[i].reviews.length; i++) {
-        //     await new Review(data[i].reviews[i]).save();
-        // }
-        // var reviews = await Review.find({});
-
         var students = [];
 
         for (var j = 0; j < data[i].students.length; j++) {
             if (! await User.findOne({ email: data[i].students[j].email })) {
+                const salt = await bcrypt.genSalt(10);
+                // store the hashed password to db
+                data[i].students[j].password = await bcrypt.hashSync(data[i].students[j].password, salt);
                 students.push(await new User(data[i].students[j]).save());
             }
-        }        
+        }
 
         var instructor = await User.findOne({ email: data[i].instructor.email });
         if (!instructor) {
@@ -79,7 +83,7 @@ async function seedDB() {
         }
         reviews = await Review.find({});
 
-        console.log(`created ${i+1}th collections document.`);
+        console.log(`created ${i + 1}th collections document.`);
 
     }
 
