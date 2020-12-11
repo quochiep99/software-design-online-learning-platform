@@ -1,0 +1,151 @@
+{
+    "field": {
+        "name": "data-science",
+        "courses": []
+    },
+    "course": {
+        "title": "Introduction to Machine Learning for Data Science",
+        "subtitle": "A primer on Machine Learning for Data Science. Revealed for everyday people, by the Backyard Data Scientist.",
+        "descriptions": [],
+        "reviews": [],
+        "students": [],
+        "image1xURL": "https://img-a.udemycdn.com/course/240x135/971154_6799_2.jpg",
+        "image2xURL": "https://img-a.udemycdn.com/course/480x270/971154_6799_2.jpg",
+        "image3xURL": "https://img-a.udemycdn.com/course/750x422/971154_6799_2.jpg",
+        "discountPrice": 11.99,
+        "originalPrice": 129.99,
+        "numViews": 0,
+        "curriculum": []
+    },
+    "reviews": [
+        {
+            "body": "Not a bad introduction but because it's too lengthy and with no programming background, majority of the videos were not easy to understand",
+            "rating": 3
+        },
+        {
+            "body": "Hi David, Thank You for the wonderful course. Helps understands the basics and relation between Data Science,ML and AI. Nice examples and also a bit complicated algorithms for non-tech people. However the overall content and examples are really good. Thank you once again :)",
+            "rating": 5
+        },
+        {
+            "body": "Good course, but for me it was too theoretical. It's hard to reproduce examples. Recently I've completed Power BI course on Udemy and it was clearer and easier from practical point of view.",
+            "rating": 4
+        },
+        {
+            "body": "Well designed and very informative course. The bonus sections were quite helpful in better understanding of ML as examples are considered and explained nicely.",
+            "rating": 5
+        },
+        {
+            "body": "Nice courseware and presenter with wide coverage from basic to advanced. However towards the end of the course, it ran into quite technical which was interesting though but thats' when it turned out to be faster. Appreciate all the knowledge, practical experience and painful efforts put together to build such an interesting courseware...Good luck",
+            "rating": 4
+        },
+        {
+            "body": "The presentations are kinda short on animation. Its a lot of talking over one picture, change picture then more talking. Not good for learning.",
+            "rating": 2.5
+        },
+        {
+            "body": "It was not easy for someone without python (or programming) background to catch up with the bonus course. The lecture seem to focus on showing examples of how to use the programme for analysis rather than teaching python.",
+            "rating": 4
+        },
+        {
+            "body": "actually i thought of something in mind, but its different then, i just looking for a machine learning basics. this more than that. thank you. i learned something. thank you for answering my question too.",
+            "rating": 3.5
+        },
+        {
+            "body": "Yes, it was a good match to get better insights on ML and Data Science and their inter relationships. The course covered all aspects holistically. Plus the hands-on session in the end was really very helpful to visualize its applicability. The only minor feedback is on the trainer \"tone\" and \"style\" of explanation. Although I got used to it in later part of the course, initially it was sounding like background voice from disney movie. It would be better to keep the tone and style of speech delivery a bit more professional (may be I am being too picky here!). Overall, a THUMBS-UP!",
+            "rating": 4.5
+        },
+        {
+            "body": "The challenging part of the course is the deep dive into ML in Section 12 and 13 making it hard to catch up in what was being presented.",
+            "rating": 3
+        },
+        {
+            "body": "All theory and no real learning. These things are learnt when you practically do assignments/projects while studying.",
+            "rating": 1
+        },
+        {
+            "body": "A very good course. Very informative that take you through the different aspects of data science and its Techniques, Tools in details. I really thank David for this course it turned out to be a best kick off course to understand the data science.",
+            "rating": 5
+        }
+    ],
+    "students": [
+        {
+            "name": "CAI WEIDE",
+            "email": "caiweide@gmail.com",
+            "password": "caiweide",
+            "role": "s"
+        },
+        {
+            "name": "Smruti Damushte",
+            "email": "smrutidamushte@gmail.com",
+            "password": "smrutidamushte",
+            "role": "s"
+        },
+        {
+            "name": "Palina Karpovich",
+            "email": "palinakarpovich@gmail.com",
+            "password": "palinakarpovich",
+            "role": "s"
+        },
+        {
+            "name": "Smita Verma",
+            "email": "smitaverma@gmail.com",
+            "password": "smitaverma",
+            "role": "s"
+        },
+        {
+            "name": "Venkatasivaram Surampudy",
+            "email": "venkatasivaramsurampudy@gmail.com",
+            "password": "venkatasivaramsurampudy",
+            "role": "s"
+        },
+        {
+            "name": "NG CHONG HERNG",
+            "email": "ngchongherng@gmail.com",
+            "password": "ngchongherng",
+            "role": "s"
+        },
+        {
+            "name": "ANG HIAP SENG",
+            "email": "anghiapseng@gmail.com",
+            "password": "anghiapseng",
+            "role": "s"
+        },
+        {
+            "name": "Mahalakshmi M",
+            "email": "mahalakshmim@gmail.com",
+            "password": "mahalakshmim",
+            "role": "s"
+        },
+        {
+            "name": "Mohammed Siraj",
+            "email": "mohammedsiraj@gmail.com",
+            "password": "mohammedsiraj",
+            "role": "s"
+        },
+        {
+            "name": "LIM YONG HUI, RAYMOND",
+            "email": "limyonghui,raymond@gmail.com",
+            "password": "limyonghui,raymond",
+            "role": "s"
+        },
+        {
+            "name": "Animesh Singhal",
+            "email": "animeshsinghal@gmail.com",
+            "password": "animeshsinghal",
+            "role": "s"
+        },
+        {
+            "name": "Shreeraj Nair",
+            "email": "shreerajnair@gmail.com",
+            "password": "shreerajnair",
+            "role": "s"
+        }
+    ],
+    "instructor": {
+        "name": "David Valentine",
+        "email": "davidvalentine@gmail.com",
+        "password": "davidvalentine",
+        "role": "i",
+        "briefIntroduction": "<p>Mr. David Valentine is an decorated Enterprise Architect with over&nbsp;seventeen years of experience in enterprise computing environments.&nbsp; He currently works for the Province of Manitoba, in Canada where he is a responsible for the architecture of the Server and Mainframe compute environment.&nbsp; </p>\n<p>Mr. Valentine has a passion for Data Science, Computer Science, Machine Learning and Data Science.&nbsp; As the \"Backyard Data Scientist\", he bring his experience and ability to simplify challenging technical topics to Data Science.&nbsp; He's delighted to offer the world his first course on the Udemy platform, \"Machine Learning for Data Science\"</p>"
+    }
+}

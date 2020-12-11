@@ -1,0 +1,151 @@
+{
+    "field": {
+        "name": "data-science",
+        "courses": []
+    },
+    "course": {
+        "title": "Complete Guide to TensorFlow for Deep Learning with Python",
+        "subtitle": "Learn how to use Google's Deep Learning Framework - TensorFlow with Python! Solve problems with cutting edge techniques!",
+        "descriptions": [],
+        "reviews": [],
+        "students": [],
+        "image1xURL": "https://img-a.udemycdn.com/course/240x135/1326292_4dcf.jpg",
+        "image2xURL": "https://img-a.udemycdn.com/course/480x270/1326292_4dcf.jpg",
+        "image3xURL": "https://img-a.udemycdn.com/course/750x422/1326292_4dcf.jpg",
+        "discountPrice": 11.99,
+        "originalPrice": 129.99,
+        "numViews": 0,
+        "curriculum": []
+    },
+    "reviews": [
+        {
+            "body": "It is a good match to me.\n\nSome feedback:\n\n1. I would have spent more time on basic mathematical background (e.g. - matrix multiplication, some other pillars in linear algebra, etc...)\n\n2. The time it takes to exercise is at least twice, more likely thrice or even more the time it takes to just play the lectures. It could be useful if you ask for users feedback for the time it takes them to exercise each lecture, and then provide some data for the average (e.g. - the course is 14 hours, most users who exercise all parts, complete it in 55 hours (or, whatever the average is)",
+            "rating": 4
+        },
+        {
+            "body": "It have been an amazing experience for me. I'm learning and understanding with high efficiency by the instructions of the teacher. Congratulations!",
+            "rating": 5
+        },
+        {
+            "body": "I liked the course and its content. Do understand that this course needs a pre-qualification or atleast familiarity with the technical language. I come with a business background, so for me to come to speed i may have a needed a beginner's, intermediate and an advanced learning curriculum. But i love the instructors narration flow and technical expertise of flowing through the content. Thank you!!",
+            "rating": 5
+        },
+        {
+            "body": "There are theoretical gaps in his explanations. Some code along examples are fine but there are some topics that could go quicker as they were previously introduced during the lectures.",
+            "rating": 3.5
+        },
+        {
+            "body": "A great introduction to TensorFlow and the various types of deep learning networks available. Different APIs are explained to generate the models. The course gives you the foundation to build and experiment on your own models and projects.",
+            "rating": 4.5
+        },
+        {
+            "body": "Great match for my skillsets. The teacher is super knowledgeably. I love the udemy brand (and price) so much that I have bought more than 10 classes.",
+            "rating": 5
+        },
+        {
+            "body": "Some things were really hard to understand watching these videos. I needed more pictures and real cases.\n\nBut there were a lot of various code examples, that I can return to later, when I start to work with my own projects.",
+            "rating": 3.5
+        },
+        {
+            "body": "The tutor should take more care to explain key parts of the tensorflow code. Ideally by writing comments where the code is not obvious during the codealong.",
+            "rating": 3
+        },
+        {
+            "body": "it would have been great of more details about actual evaluation of tensorflow model + issues solutions with tensorflow trained models was discussed",
+            "rating": 3.5
+        },
+        {
+            "body": "there was some bad coding and a couple of times the explanations didn't match what was actually being done.\n\nlearned a lot, but i think that my experience allowed me to spot mistakes and bad practices, so for a less experienced person the course could create problems",
+            "rating": 3
+        },
+        {
+            "body": "Nice course. Really appreciate the hard work he has done.\n\nBut in the CNN section the instructor has skipped many important things ,hence changing my review from 4.5 to 3.",
+            "rating": 3
+        },
+        {
+            "body": "The exercise files help and is taught at a good pace. Questions are answered pretty fast as well!",
+            "rating": 5
+        }
+    ],
+    "students": [
+        {
+            "name": "Timor Israeli",
+            "email": "timorisraeli@gmail.com",
+            "password": "timorisraeli",
+            "role": "s"
+        },
+        {
+            "name": "Joed Henrique Paes",
+            "email": "joedhenriquepaes@gmail.com",
+            "password": "joedhenriquepaes",
+            "role": "s"
+        },
+        {
+            "name": "Sangeetha Sahu",
+            "email": "sangeethasahu@gmail.com",
+            "password": "sangeethasahu",
+            "role": "s"
+        },
+        {
+            "name": "Damian Campo",
+            "email": "damiancampo@gmail.com",
+            "password": "damiancampo",
+            "role": "s"
+        },
+        {
+            "name": "Markus Auf der Mauer",
+            "email": "markusaufdermauer@gmail.com",
+            "password": "markusaufdermauer",
+            "role": "s"
+        },
+        {
+            "name": "Jonny McWilliams",
+            "email": "jonnymcwilliams@gmail.com",
+            "password": "jonnymcwilliams",
+            "role": "s"
+        },
+        {
+            "name": "Dennis Meißel",
+            "email": "dennismeißel@gmail.com",
+            "password": "dennismeißel",
+            "role": "s"
+        },
+        {
+            "name": "Thomas Gmeinder",
+            "email": "thomasgmeinder@gmail.com",
+            "password": "thomasgmeinder",
+            "role": "s"
+        },
+        {
+            "name": "Niloofar Hosseinidadras",
+            "email": "niloofarhosseinidadras@gmail.com",
+            "password": "niloofarhosseinidadras",
+            "role": "s"
+        },
+        {
+            "name": "Nikos Karaliolios",
+            "email": "nikoskaraliolios@gmail.com",
+            "password": "nikoskaraliolios",
+            "role": "s"
+        },
+        {
+            "name": "Nikhil yadav",
+            "email": "nikhilyadav@gmail.com",
+            "password": "nikhilyadav",
+            "role": "s"
+        },
+        {
+            "name": "Amir Khan",
+            "email": "amirkhan@gmail.com",
+            "password": "amirkhan",
+            "role": "s"
+        }
+    ],
+    "instructor": {
+        "name": "Jose Portilla",
+        "email": "joseportilla@gmail.com",
+        "password": "joseportilla",
+        "role": "i",
+        "briefIntroduction": "<p>&nbsp; Jose Marcial Portilla has a BS and MS in Mechanical Engineering from Santa Clara University and&nbsp;years of&nbsp;experience as a professional instructor and trainer for Data Science and programming. He has publications and patents in various fields such as microfluidics,&nbsp;materials science, and data science technologies. Over the course of his career he has developed a skill set in analyzing data and he hopes to use his experience in teaching and data science to help other people learn the power of programming the&nbsp;ability to analyze data, as well as present the data in clear and beautiful visualizations. Currently he works as the Head of Data Science for Pierian Data Inc.&nbsp;and provides in-person data science and python programming training courses to employees working at top companies, including General Electric, Cigna, The New York Times, Credit Suisse, McKinsey and many more.&nbsp;Feel free to contact him on LinkedIn for more information on in-person training sessions or group training sessions in Las Vegas, NV.</p>"
+    }
+}

@@ -1,0 +1,151 @@
+{
+    "field": {
+        "name": "data-science",
+        "courses": []
+    },
+    "course": {
+        "title": "Data Science A-Z™: Real-Life Data Science Exercises Included",
+        "subtitle": "Learn Data Science step by step through real Analytics examples. Data Mining, Modeling, Tableau Visualization and more!",
+        "descriptions": [],
+        "reviews": [],
+        "students": [],
+        "image1xURL": "https://img-a.udemycdn.com/course/240x135/513244_b831_2.jpg",
+        "image2xURL": "https://img-a.udemycdn.com/course/480x270/513244_b831_2.jpg",
+        "image3xURL": "https://img-a.udemycdn.com/course/750x422/513244_b831_2.jpg",
+        "discountPrice": 11.99,
+        "originalPrice": 129.99,
+        "numViews": 0,
+        "curriculum": []
+    },
+    "reviews": [
+        {
+            "body": "I asked some questions in the Q&A section but my questions are'nt answered. It would be good if you could help me out.",
+            "rating": 4
+        },
+        {
+            "body": "I have just completed the course which took me about three weeks. I an very happy I chose this course and leaded by Kirill. I can't say enough to praise his art of teaching. He is doing a great job by explaining in depth and in plain language, while giving you a lot of tips and examples. It might seem to some a bit slow, but I think it is worth while in the long term to have good foundations and clear understanding of the various subjects. I had previous knowledge in the data field but I can say the even someone without it, would succeed in understanding the material thanks to Kirill. For me personally it contributed a lot and I know now a lot more things. Thanks Kirill !!!",
+            "rating": 5
+        },
+        {
+            "body": "I am done with the course and I am very satisfied! I had gretl on my MSc but never had such knowledge of it as now. Doing the course I felt being bombed with new knowledge. SSIS and SQL where just abbreviations for me so far, now I have basic knowledge of it and am going to go deeper into it now. Comunication part was also enjoyable, perfect finish of this challenging course . Q&A is also very effective and well working in the course. The answers are prompt, detailed and individual, not just copy-paste. Thank you, Daniel!\n\nI will definately try other Kirill's courses, highly recommend to everybody starting their journey in DS.",
+            "rating": 5
+        },
+        {
+            "body": "Very amazing course. Great teacher Great explanation. From zero, I know a very lot about data science and its process from this course. The way he taught, his slide and his explanation are very easy to understand. All of these make me want to jump into the data scientist world and take other Kirill's courses right now. Again, very very amazing course, I highly recommend this. Very statisfied.",
+            "rating": 5
+        },
+        {
+            "body": "A very valuable and comprehensive initial course in data science. The sections on data extraction, load, and transformation were especially valuable. Kirill also provides numerous real-life examples from his years of experience.",
+            "rating": 4.5
+        },
+        {
+            "body": "Great introductory course on practical Data Science concepts and procedures. Avoids the pitfall of getting sucked too deeply into statistical math.\n\nKiril's presentation is first rate. I especially liked his use of many small video lessons, which makes the course easy to consume and also makes it easy to use the course material as a reference later. He comes across as very approachable, dealing with typos and short-term memory lapses just like the rest of us.\n\nThe only flaw, if you can call it that, is that occasionally he re-explains a point too many times or gives more hypothetical examples than necessary, which can drag out the lesson. But overall I'd rather have an instructor err on that side than that opposite.\n\nThis course has given me the confidence to dig deeper into Data Science. I'm heading on to more courses, but most importantly I feel ready to start practicing on real projects.",
+            "rating": 5
+        },
+        {
+            "body": "Kirill is awesome. He is enthusiastic and explains so well!\n\nHowever, in this course too many topics are taught. I would suggest you to take specific courses like A-Z Tableau, or A-Z SQL.\n\nAlso there are just few homework practice examples at the end of the sections which I need the most!",
+            "rating": 3.5
+        },
+        {
+            "body": "Overall, it is a great course to warm-up in the world of data science. The course is very well structured - ETL, model, visualization and presentation. The instruction have great practical knowledge on the material.\n\nMaybe I had higher expectation of the course since it is named \"A-Z\", although I felt that \"Applied data science\" or \"Practical data science foundations\" would be a better suited title.\n\nIn summary, good introductory course into data science.\n\nP.S I am taking A-Z Machine learning next from Krill, so hopefully it will cover the gaps!",
+            "rating": 4
+        },
+        {
+            "body": "Excellent Course and Perfect Tutor !!! Thanks a lot, Kiril You are a Rancho of Data Science Field",
+            "rating": 5
+        },
+        {
+            "body": "Very good and comprehensive data science course, not the most modern technology but absolutely very beneficial to someone who wants to develop understanding of data science! Highly recommended",
+            "rating": 5
+        },
+        {
+            "body": "The English pronunciation could be better. Confuse me sometimes. Btw, I am not come from English-speaking country",
+            "rating": 4
+        },
+        {
+            "body": "This course really helped me to develop most of the soft skills data scientist needs and glued all my knowledge together. Although it may not be very technical and doesn't dive very deep into things like ML or any of the programming language data scientists can work in, I understand it wasn't designed that way (in fact Kirill talks about that in one of the starting tutorials). There are separate courses which cover those topics and I'm sure going to try them out. I really enjoyed the data prep section, where the whole ETL process may seem tedious at first, but Kirill provides almost 100% bulletproof methods and blueprints to go through it as quickly and efficiently as you can. Also, big thanks for presentation section, didn't see any other course cover this topic yet.",
+            "rating": 5
+        }
+    ],
+    "students": [
+        {
+            "name": "Akash Sahar",
+            "email": "akashsahar@gmail.com",
+            "password": "akashsahar",
+            "role": "s"
+        },
+        {
+            "name": "Tal Dekel",
+            "email": "taldekel@gmail.com",
+            "password": "taldekel",
+            "role": "s"
+        },
+        {
+            "name": "Zhana",
+            "email": "zhana@gmail.com",
+            "password": "zhana",
+            "role": "s"
+        },
+        {
+            "name": "Worawit Saetan",
+            "email": "worawitsaetan@gmail.com",
+            "password": "worawitsaetan",
+            "role": "s"
+        },
+        {
+            "name": "Jeff Groover",
+            "email": "jeffgroover@gmail.com",
+            "password": "jeffgroover",
+            "role": "s"
+        },
+        {
+            "name": "Paul Matzelle",
+            "email": "paulmatzelle@gmail.com",
+            "password": "paulmatzelle",
+            "role": "s"
+        },
+        {
+            "name": "Esra Simsek",
+            "email": "esrasimsek@gmail.com",
+            "password": "esrasimsek",
+            "role": "s"
+        },
+        {
+            "name": "Zhezhang Xu",
+            "email": "zhezhangxu@gmail.com",
+            "password": "zhezhangxu",
+            "role": "s"
+        },
+        {
+            "name": "Nitin Sharma",
+            "email": "nitinsharma@gmail.com",
+            "password": "nitinsharma",
+            "role": "s"
+        },
+        {
+            "name": "Duolun Wang",
+            "email": "duolunwang@gmail.com",
+            "password": "duolunwang",
+            "role": "s"
+        },
+        {
+            "name": "Meliana",
+            "email": "meliana@gmail.com",
+            "password": "meliana",
+            "role": "s"
+        },
+        {
+            "name": "Oleksandr Churiumov",
+            "email": "oleksandrchuriumov@gmail.com",
+            "password": "oleksandrchuriumov",
+            "role": "s"
+        }
+    ],
+    "instructor": {
+        "name": "Kirill Eremenko",
+        "email": "kirilleremenko@gmail.com",
+        "password": "kirilleremenko",
+        "role": "i",
+        "briefIntroduction": "<p>My name is Kirill Eremenko and I am super-psyched that you are reading this!</p><p>Professionally, I am a Data Science management consultant with over five years of experience in finance, retail, transport and other industries. I was trained by the best analytics mentors at Deloitte Australia and today I leverage Big Data to drive business strategy, revamp customer experience and revolutionize existing operational processes.</p><p>From my courses you will straight away notice how I combine my real-life experience and academic background in Physics and Mathematics to deliver professional step-by-step coaching in the space of Data Science. I am also passionate about public speaking, and regularly present on Big Data at leading Australian universities and industry events.</p><p>To sum up, I am absolutely and utterly passionate about Data Science and I am looking forward to sharing my passion and knowledge with you!</p>"
+    }
+}

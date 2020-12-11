@@ -1,0 +1,151 @@
+{
+    "field": {
+        "name": "data-science",
+        "courses": []
+    },
+    "course": {
+        "title": "Python for Data Science and Machine Learning Bootcamp",
+        "subtitle": "Learn how to use NumPy, Pandas, Seaborn , Matplotlib , Plotly , Scikit-Learn , Machine Learning, Tensorflow , and more!",
+        "descriptions": [],
+        "reviews": [],
+        "students": [],
+        "image1xURL": "https://img-b.udemycdn.com/course/240x135/903744_8eb2.jpg",
+        "image2xURL": "https://img-b.udemycdn.com/course/480x270/903744_8eb2.jpg",
+        "image3xURL": "https://img-b.udemycdn.com/course/750x422/903744_8eb2.jpg",
+        "discountPrice": 11.99,
+        "originalPrice": 129.99,
+        "numViews": 0,
+        "curriculum": []
+    },
+    "reviews": [
+        {
+            "body": "I would suggest everyone to enroll in this course. It's nicely explained in a simple and understandable way. Every concept is taught effectively.",
+            "rating": 5
+        },
+        {
+            "body": "Well structured curriculum. Helps someone like me who has full time responsibilities both professionally and personally. Some of the instructions looks dated and will be helpful to get them updated. It will also be helpful to provide quicker response to Q&A.",
+            "rating": 4
+        },
+        {
+            "body": "This is an excellent program with excellent explanation and knowledge sharing course but in Logistic regression no one tells how to test the training model. I am a data science aspirant and trying to learn from whichever decent source available but no where anyone tells the complete format. I thought at least the bootcamp would guide well on that front",
+            "rating": 4
+        },
+        {
+            "body": "Really good tour over some key python libs for Data Science and machine learning with intuitive and complete code examples and small projects. Good discussions and intuitions on solutions and approaching the problem.",
+            "rating": 5
+        },
+        {
+            "body": "I really liked this course and the methodology of teaching.\n\nIt is to the point, tells you most of the important things and covers the entire spectrum. Exercises are really good.",
+            "rating": 5
+        },
+        {
+            "body": "This course is great. Jose explains everything properly and is easily understandable. I have learnt a lot through this course and that will help me for my career in Data Science. Thank You!",
+            "rating": 4.5
+        },
+        {
+            "body": "Contents are explained at good speed, but extra content can be added.\n\nAnd needs updates in few videos as things have changed a bit in the meantime.\n\nThe contents that are covered are well explained!!",
+            "rating": 5
+        },
+        {
+            "body": "I have to give this course the least star as the author just created another course similar to this course instead of updated this course, this shows the author is crazy for money. Other courses I purchased the authors always update the course without creating another course to earn money. Poor act, Jose!",
+            "rating": 1
+        },
+        {
+            "body": "The coverage of ML theory was very shallow. The recommended companion book for the course is ISLR. I purchased a course so that I could receive multimedia instruction, which should be the best method to learn from. However, you end up being directed to many third party websites or books if you want any depth of understanding. Most of the ML part of the course is simply learning what to type into a Jupyter Notebook in order to get a very basic ML algorithm to run. The Big Data and Spark w/ Python section is a complete disaster. As far as I could ascertain, there was no attempt to show how to tie Spark into an ML project. I came away not even knowing how to utilize Spark for an ML project. Also that section is outdated, and once again you are directed to another website for \"up-to-date\" instructions on how to install Spark on AWS. Unfortunately, those instructions were outdated too. I couldn't even get Spark to run the action methods on my AWS E2C service. It was a complete waste of time. Overall, the course is just ok. The instructor seems knowledgeable, and very courteous. Nevertheless, I am leaving an honestly review in hopes that he sees what to improve, and so that others honestly know what to expect. It is not a waste of time or money, but I was expecting more. The instructor's Python Boot Camp course was awesome, and that is what set the expectation for me. Unfortunately, this course did not live up to expectations.",
+            "rating": 3
+        },
+        {
+            "body": "The course is fairly good. It explains the basic theory of data science and gives you basic understanding of this world, and the technologies in it. I feel that Jose is one of the only people that is teaching these subjects in a fairly fast way that is understandable. I enjoyed the course and I feel that it educated me. The only thing that I would improve is to add a few lectures about some common topics that the course didn't address like how to pick a machine learning algorithm, how to choose the variables for the models and how to explore the data. I mean, all of this was mentioned in few words throughout the course but I feel that these topic should have a bit more emphasis and some explanations around, at least some rules of thumb or general thinking direction and not just 'I always like to do this check when I start exploring the data'\n\nOverall a good course and I feel that it was worth the money.",
+            "rating": 4.5
+        },
+        {
+            "body": "I was almost a beginner in Python, however the gradual approach adopted for the topics presentation permitted me to properly learn some fundamental tools of Python. The approach to machine learning section is gradual as well, providing the necessary theoretichal tool to study and go deep into the math beyond the algorithm and the lybraries explained. The course mantains an application-focused and practical approch, consenting to immediately understand how to apply the presented tools. The final projects at each session allow to immediatly practice and test yourself, also providing the opportunity to build a small personal portfolio. It definitly worth the price I paid, for both the quality of the contents and the supporting service. Definitely reccommended to beginner and intermediate Python users who want to learn Machine Learning. This course will not automatically convert you into a Data Scientist. However, it definitly helps to construct solid practical basis to start from to become a Data Scientist.",
+            "rating": 5
+        },
+        {
+            "body": "Great course. The Python for Data Science and Machine Learning Bootcamp course, as well as other courses of Jose, is well organized and easy to understand. Now I have finished a whole course. It’s took a few months but I have more confident in this field.",
+            "rating": 5
+        }
+    ],
+    "students": [
+        {
+            "name": "Neel Pathak",
+            "email": "neelpathak@gmail.com",
+            "password": "neelpathak",
+            "role": "s"
+        },
+        {
+            "name": "Srirama Venkataraman",
+            "email": "sriramavenkataraman@gmail.com",
+            "password": "sriramavenkataraman",
+            "role": "s"
+        },
+        {
+            "name": "Sweta Patra",
+            "email": "swetapatra@gmail.com",
+            "password": "swetapatra",
+            "role": "s"
+        },
+        {
+            "name": "Georgios Stoilos",
+            "email": "georgiosstoilos@gmail.com",
+            "password": "georgiosstoilos",
+            "role": "s"
+        },
+        {
+            "name": "Rahul Singhal",
+            "email": "rahulsinghal@gmail.com",
+            "password": "rahulsinghal",
+            "role": "s"
+        },
+        {
+            "name": "Abhilash U Prakash",
+            "email": "abhilashuprakash@gmail.com",
+            "password": "abhilashuprakash",
+            "role": "s"
+        },
+        {
+            "name": "Shailajarudrappa",
+            "email": "shailajarudrappa@gmail.com",
+            "password": "shailajarudrappa",
+            "role": "s"
+        },
+        {
+            "name": "Desmond Ong Yu Leong",
+            "email": "desmondongyuleong@gmail.com",
+            "password": "desmondongyuleong",
+            "role": "s"
+        },
+        {
+            "name": "Doug P",
+            "email": "dougp@gmail.com",
+            "password": "dougp",
+            "role": "s"
+        },
+        {
+            "name": "Leon Ler",
+            "email": "leonler@gmail.com",
+            "password": "leonler",
+            "role": "s"
+        },
+        {
+            "name": "Jonathan Barsotti",
+            "email": "jonathanbarsotti@gmail.com",
+            "password": "jonathanbarsotti",
+            "role": "s"
+        },
+        {
+            "name": "Kureu Monen",
+            "email": "kureumonen@gmail.com",
+            "password": "kureumonen",
+            "role": "s"
+        }
+    ],
+    "instructor": {
+        "name": "Jose Portilla",
+        "email": "joseportilla@gmail.com",
+        "password": "joseportilla",
+        "role": "i",
+        "briefIntroduction": "<p>&nbsp; Jose Marcial Portilla has a BS and MS in Mechanical Engineering from Santa Clara University and&nbsp;years of&nbsp;experience as a professional instructor and trainer for Data Science and programming. He has publications and patents in various fields such as microfluidics,&nbsp;materials science, and data science technologies. Over the course of his career he has developed a skill set in analyzing data and he hopes to use his experience in teaching and data science to help other people learn the power of programming the&nbsp;ability to analyze data, as well as present the data in clear and beautiful visualizations. Currently he works as the Head of Data Science for Pierian Data Inc.&nbsp;and provides in-person data science and python programming training courses to employees working at top companies, including General Electric, Cigna, The New York Times, Credit Suisse, McKinsey and many more.&nbsp;Feel free to contact him on LinkedIn for more information on in-person training sessions or group training sessions in Las Vegas, NV.</p>"
+    }
+}

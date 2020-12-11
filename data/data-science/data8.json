@@ -1,0 +1,151 @@
+{
+    "field": {
+        "name": "data-science",
+        "courses": []
+    },
+    "course": {
+        "title": "Statistics for Data Science and Business Analysis",
+        "subtitle": "Statistics you need in the office: Descriptive & Inferential statistics, Hypothesis testing, Regression analysis",
+        "descriptions": [],
+        "reviews": [],
+        "students": [],
+        "image1xURL": "https://img-b.udemycdn.com/course/240x135/1298780_731f_4.jpg",
+        "image2xURL": "https://img-b.udemycdn.com/course/480x270/1298780_731f_4.jpg",
+        "image3xURL": "https://img-b.udemycdn.com/course/750x422/1298780_731f_4.jpg",
+        "discountPrice": 11.99,
+        "originalPrice": 129.99,
+        "numViews": 0,
+        "curriculum": []
+    },
+    "reviews": [
+        {
+            "body": "This is the best course for introduction of Statistics which is very important for Data Science and ML. The course is very clear and understandable. It will definitely tough for the newbie in the starting. But I am sure that you will be in the track at the end. The way the instructor explains, increases the interest and drives you crazy to learn more about these concept.",
+            "rating": 5
+        },
+        {
+            "body": "The Course Is good, good for the people who want to know basics, the basics are explained very effectively with good examples, I can say is the best one can deliver.",
+            "rating": 4
+        },
+        {
+            "body": "Overall it is a very good course for people wanting to brush up on their previous statistics knowledge . However, for any one brand new to statistics the sections from inferential statistics to the end will be more challenging without additional external resources, especially if you want to master the ideas and concepts.",
+            "rating": 4.5
+        },
+        {
+            "body": "The last part for regression analysis went a bit too fast on the explanation, but overall a very good beginner's Statistic course!",
+            "rating": 5
+        },
+        {
+            "body": "I liked the variety of topics covered in this course and it has been extremely helpful to me in forming a foundational knowledge of statistical concepts. However, there have been times when the topic wasn't clear in the definition. My suggestion would be to add some extensive reading material in this course that one could read to solidify their understanding and enhance on it.",
+            "rating": 3.5
+        },
+        {
+            "body": "I like how they have presented the subject of statistics as an interesting field which can be applied in many aspects of life, including when making business decisions. However, there is room for improvement in terms of making your explanations even clearer with more exercises, and practicals especially in the Regression Analysis section. All in all, well done guys.",
+            "rating": 4
+        },
+        {
+            "body": "Because this course is good, even very good. I like it, it could help me for learning many things about statistics.",
+            "rating": 4.5
+        },
+        {
+            "body": "Thoroughly enjoyed the course. Never thought statistics can be so interesting. Wish I had access to this course during my college time. A big thank you !",
+            "rating": 5
+        },
+        {
+            "body": "It would be better if the course is included how to carried out regression analysis in excel not just solely on understanding.",
+            "rating": 4.5
+        },
+        {
+            "body": "The course is really good for a beginner in statistics. However, I was expecting more examples to help us think more. I also would have appreciated them discussing regression further in detail.",
+            "rating": 3.5
+        },
+        {
+            "body": "Clear instruction and lots of exercises. There is much more to do than the the relatively short length (in contrast to some other classes) may suggest. Yet, the class mostly only covers fundamentals, and regression is not really possible practically in Excel, as the description may suggest. Still, great class!",
+            "rating": 4.5
+        },
+        {
+            "body": "The course was great but seemed like a crash course.\n\nMore practice exercises could have been given to get a hang of every topic. However, I really enjoyed the course.",
+            "rating": 4
+        }
+    ],
+    "students": [
+        {
+            "name": "Harsha Tadavarthy",
+            "email": "harshatadavarthy@gmail.com",
+            "password": "harshatadavarthy",
+            "role": "s"
+        },
+        {
+            "name": "Anubhav Gupta",
+            "email": "anubhavgupta@gmail.com",
+            "password": "anubhavgupta",
+            "role": "s"
+        },
+        {
+            "name": "Alfred Sevidzem Yenwong Fai",
+            "email": "alfredsevidzemyenwongfai@gmail.com",
+            "password": "alfredsevidzemyenwongfai",
+            "role": "s"
+        },
+        {
+            "name": "CarmenPaphu",
+            "email": "carmenpaphu@gmail.com",
+            "password": "carmenpaphu",
+            "role": "s"
+        },
+        {
+            "name": "Noni Gulati",
+            "email": "nonigulati@gmail.com",
+            "password": "nonigulati",
+            "role": "s"
+        },
+        {
+            "name": "Osagie Aibangbee",
+            "email": "osagieaibangbee@gmail.com",
+            "password": "osagieaibangbee",
+            "role": "s"
+        },
+        {
+            "name": "Irena Staneva",
+            "email": "irenastaneva@gmail.com",
+            "password": "irenastaneva",
+            "role": "s"
+        },
+        {
+            "name": "T. S. Kavita Rajeshwari",
+            "email": "t.s.kavitarajeshwari@gmail.com",
+            "password": "t.s.kavitarajeshwari",
+            "role": "s"
+        },
+        {
+            "name": "Lim Carmen",
+            "email": "limcarmen@gmail.com",
+            "password": "limcarmen",
+            "role": "s"
+        },
+        {
+            "name": "Bhawana Bindal",
+            "email": "bhawanabindal@gmail.com",
+            "password": "bhawanabindal",
+            "role": "s"
+        },
+        {
+            "name": "Christopher Koch",
+            "email": "christopherkoch@gmail.com",
+            "password": "christopherkoch",
+            "role": "s"
+        },
+        {
+            "name": "Vibhu Jhamb",
+            "email": "vibhujhamb@gmail.com",
+            "password": "vibhujhamb",
+            "role": "s"
+        }
+    ],
+    "instructor": {
+        "name": "365 Careers",
+        "email": "365careers@gmail.com",
+        "password": "365careers",
+        "role": "i",
+        "briefIntroduction": "<p><strong>365 Careers is the #1 best-selling provider of finance courses on Udemy. The company’s courses have been taken by more than 1,000,000 students in 210&nbsp;countries. People working at world-class firms like Apple, PayPal, and Citibank have completed 365 Careers trainings.</strong>\n&nbsp; </p><p>Currently, the firm focuses on the following topics on Udemy:\n&nbsp; </p><p>\n<strong>1) Finance</strong> – Finance fundamentals, Financial modeling in Excel, Valuation, Accounting, Capital budgeting, Financial statement analysis (FSA), Investment banking (IB), Leveraged buyout (LBO), Financial planning and analysis (FP&amp;A), Corporate budgeting, applying Python for Finance, Tesla valuation case study, CFA, ACCA, and CPA</p><p><strong>2) Data science</strong> – Statistics, Mathematics, Probability, SQL, Python programming, Python for Finance, Business Intelligence, R, Machine Learning, TensorFlow, Tableau, the integration of SQL&nbsp;and&nbsp;Tableau, the integration of SQL, Python, Tableau, Power&nbsp;BI, Credit Risk Modeling, and Credit Analytics</p><p><strong>3) Entrepreneurship</strong> – Business Strategy, Management and HR Management, Marketing, Decision Making, Negotiation, and Persuasion, Tesla's Strategy and Marketing</p><p><strong>4) Office productivity</strong> – Microsoft Excel, PowerPoint, Microsoft Word, and Microsoft Outlook</p><p><strong>5)</strong> <strong>Blockchain for Business</strong></p><p>All of the company’s courses are:\n&nbsp; </p><p>Pre-scripted\n&nbsp; </p><p>Hands-on\n&nbsp; </p><p>Laser-focused\n&nbsp; </p><p>Engaging\n&nbsp; </p><p>Real-life tested\n&nbsp; </p><p>By choosing 365 Careers, you make sure you will learn from proven experts, who have a passion for teaching, and can take you from beginner to pro in the shortest possible amount of time.\n&nbsp; </p><p>If you want to become a financial analyst, a finance manager, an FP&amp;A analyst, an investment banker, a business executive, an entrepreneur, a business intelligence analyst, a data analyst, or a data scientist, <strong>365 Careers’ courses are the perfect place to start.&nbsp;</strong>\n</p>"
+    }
+}

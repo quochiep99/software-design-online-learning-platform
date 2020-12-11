@@ -1,0 +1,151 @@
+{
+    "field": {
+        "name": "data-science",
+        "courses": []
+    },
+    "course": {
+        "title": "Machine Learning, Data Science and Deep Learning with Python",
+        "subtitle": "Complete hands-on machine learning tutorial with data science, Tensorflow, artificial intelligence, and neural networks",
+        "descriptions": [],
+        "reviews": [],
+        "students": [],
+        "image1xURL": "https://img-a.udemycdn.com/course/240x135/671576_a272_4.jpg",
+        "image2xURL": "https://img-a.udemycdn.com/course/480x270/671576_a272_4.jpg",
+        "image3xURL": "https://img-a.udemycdn.com/course/750x422/671576_a272_4.jpg",
+        "discountPrice": 11.99,
+        "originalPrice": 129.99,
+        "numViews": 0,
+        "curriculum": []
+    },
+    "reviews": [
+        {
+            "body": "Frank Kane is an amazing guy. He made this whole thing look a lot easier. Ethics of Deep Learning session shows his commitment to a better world. Keep going!",
+            "rating": 5
+        },
+        {
+            "body": "Great general overview of everything you should know. Taking additional courses focusing on more detailed manner would be necessary afterwards.",
+            "rating": 4.5
+        },
+        {
+            "body": "Excellent introduction into Data Science and Machine Learning!\n\nEven for someone who had some data science background, I found the course very useful.",
+            "rating": 5
+        },
+        {
+            "body": "It was a good course, learnt a lot of topics, but need more practicals. Thank you so much!",
+            "rating": 3.5
+        },
+        {
+            "body": "The course was amazing, and the simplistic way of teaching a topic that is such an enigma even for veterans of the Computer Science world was simply mindblowing. Props to the tutor.",
+            "rating": 5
+        },
+        {
+            "body": "Great course, recommended. Quickly get's you tinkering and accomplishing small tasks.\n\nComing from an engineering background, I felt I had to do a bit more digging using supplemental material to understand the more 'magic' sections (e.g. SVM), but no big deal as those are details that can be delayed for later once one has a broad overview of the field. Also don't worry too much about not getting the math.\n\nEnjoyed how the final project brought together a lot of the concepts.\n\nI'm now at a good place to solidify a lot of the concepts using practice projects.",
+            "rating": 5
+        },
+        {
+            "body": "I can't appreciate enough Frank Kane's work on designing this amazing course. I am really now well-familiar (not an expert) with the concepts we are implementing in the world of Data Science, Machine Learning, and Deep Learning.\n\nI enrolled myself as a novice in this course with a goal to build up the basics of this amazing field of data. I can confidently say I successfully achieved my goals, however there is a way ahead to learn more.\n\nI highly recommend this course to everyone who is interested and curious to explore what Machine Learning is.\n\nAgain! Thank you so much Frank. I am looking forward to get enrolled on other related course unders your instruction. I enjoyed the course throughout and learned a lot.",
+            "rating": 4
+        },
+        {
+            "body": "This course provides a great breadth of coverage on data science concepts, including peripheral topics seldom covered elsewhere (e.g. hyperparameter tuning, ethics and handling missing data). In terms of suggestions for improving the course further, here are a couple of areas for suggested inclusion:\n\n- model explainability for scenarios where dimensionality reduction is utilised (e.g. PCA) or emergent behaviour is observed (e.g. deep learning). This is because explaining how a model arrived at a particular prediction is a critical topic for gaining business confidence from a product owner/business stakeholder.\n\n- when multiple models are feasible to address a business problem, which considerations determine model selection (unless the recommendation is to try all feasible models and use the model that provides the best results, similar to the final project's approach).\n\n- model drift, the factors that cause it, and how to address it (e.g. model retraining)\n\nAs a suggestion for an advanced follow-up course, it'd be great to be able to explore the underlying mathematical theory of the machine/deep learning algorithms explored in this course. This is something I haven't yet seen elsewhere on Udemy, except for regression models.\n\nA separate more Deep Learning course would also be beneficial for exploring topics such as how different gradient descent optimisation algorithms work and considerations for when each kind of algorithm should be used.",
+            "rating": 5
+        },
+        {
+            "body": "Ottimo punto di partenza per entrare nel mondo del ML. Le lezioni di Frank sono davvero ben fatte. Il corso è impegnativo e affronta tantissimi argomenti. La mia lezione preferita è la \"105. The Ethics of Deep Learning\". I miei complimenti!",
+            "rating": 5
+        },
+        {
+            "body": "In general what I expected from a course, but I missed some important parts regarding hands-on feature engineering and hyper-parameter tuning. Overall a good course I'd say!",
+            "rating": 4
+        },
+        {
+            "body": "the course gives a holistic overview of the field which is quite commendable.I'd recommend this course to a friend without a second thought.",
+            "rating": 5
+        },
+        {
+            "body": "Great intro course. Covers a broad array of ML approaches. Seems to be targeted for beginners - answers how to apply ML but not why and where.",
+            "rating": 4.5
+        }
+    ],
+    "students": [
+        {
+            "name": "217439 - Nidhal M Mansoor",
+            "email": "217439-nidhalmmansoor@gmail.com",
+            "password": "217439-nidhalmmansoor",
+            "role": "s"
+        },
+        {
+            "name": "Kaan Yiğitsoy",
+            "email": "kaanyiğitsoy@gmail.com",
+            "password": "kaanyiğitsoy",
+            "role": "s"
+        },
+        {
+            "name": "Sergei Akopov",
+            "email": "sergeiakopov@gmail.com",
+            "password": "sergeiakopov",
+            "role": "s"
+        },
+        {
+            "name": "Shruti G",
+            "email": "shrutig@gmail.com",
+            "password": "shrutig",
+            "role": "s"
+        },
+        {
+            "name": "Kanishk Jha",
+            "email": "kanishkjha@gmail.com",
+            "password": "kanishkjha",
+            "role": "s"
+        },
+        {
+            "name": "Kenny Rachuonyo",
+            "email": "kennyrachuonyo@gmail.com",
+            "password": "kennyrachuonyo",
+            "role": "s"
+        },
+        {
+            "name": "Siddharth Sharma",
+            "email": "siddharthsharma@gmail.com",
+            "password": "siddharthsharma",
+            "role": "s"
+        },
+        {
+            "name": "James Johnson",
+            "email": "jamesjohnson@gmail.com",
+            "password": "jamesjohnson",
+            "role": "s"
+        },
+        {
+            "name": "Paolo Buccigrossi",
+            "email": "paolobuccigrossi@gmail.com",
+            "password": "paolobuccigrossi",
+            "role": "s"
+        },
+        {
+            "name": "Marvin Gießing",
+            "email": "marvingießing@gmail.com",
+            "password": "marvingießing",
+            "role": "s"
+        },
+        {
+            "name": "Keith Martin",
+            "email": "keithmartin@gmail.com",
+            "password": "keithmartin",
+            "role": "s"
+        },
+        {
+            "name": "Boris B",
+            "email": "borisb@gmail.com",
+            "password": "borisb",
+            "role": "s"
+        }
+    ],
+    "instructor": {
+        "name": "Sundog Education by Frank Kane",
+        "email": "sundogeducationbyfrankkane@gmail.com",
+        "password": "sundogeducationbyfrankkane",
+        "role": "i",
+        "briefIntroduction": "<p>Sundog Education's mission is to make highly valuable career skills in <strong>big data, data science, and machine learning</strong> accessible to everyone in the world. Our consortium of expert instructors shares our knowledge in these emerging fields with you, at prices anyone can afford.&nbsp;</p><p>Sundog Education is led by Frank Kane and owned by Frank's company, Sundog Software LLC.&nbsp;Frank spent 9 years at <strong>Amazon</strong> and <strong>IMDb</strong>, developing and managing the technology that automatically delivers product and movie recommendations to hundreds of millions of customers, all the time. Frank holds <strong>17 issued patents</strong> in the fields of <strong>distributed computing</strong>, <strong>data mining</strong>, and <strong>machine learning</strong>. In 2012, Frank left to start his own successful company, Sundog Software, which focuses on virtual reality environment technology, and teaching others about big data analysis.</p><p><strong>Due to our volume of students we are unable to respond to private messages; please post your questions within the Q&amp;A of your course. Thanks for understanding.</strong></p>"
+    }
+}

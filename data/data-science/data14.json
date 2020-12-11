@@ -1,0 +1,151 @@
+{
+    "field": {
+        "name": "data-science",
+        "courses": []
+    },
+    "course": {
+        "title": "Taming Big Data with Apache Spark and Python - Hands On!",
+        "subtitle": "Apache Spark tutorial with 20+ hands-on examples of analyzing large data sets on your desktop or on Hadoop with Python!",
+        "descriptions": [],
+        "reviews": [],
+        "students": [],
+        "image1xURL": "https://img-a.udemycdn.com/course/240x135/622414_03f5_4.jpg",
+        "image2xURL": "https://img-a.udemycdn.com/course/480x270/622414_03f5_4.jpg",
+        "image3xURL": "https://img-a.udemycdn.com/course/750x422/622414_03f5_4.jpg",
+        "discountPrice": 11.99,
+        "originalPrice": 129.99,
+        "numViews": 0,
+        "curriculum": []
+    },
+    "reviews": [
+        {
+            "body": "Frank makes learning Apache Spark simple and easy. It has a good amount of hands-on activities and exercises to get started. Recommended for beginners.",
+            "rating": 5
+        },
+        {
+            "body": "The course covers a number of topics without rushing through any of them. It is well supported and questions are answered reasonably quickly.",
+            "rating": 5
+        },
+        {
+            "body": "Nice one, but please explain in detail about the coding part a little bit. Please add some quizzes. Take small test also.",
+            "rating": 4
+        },
+        {
+            "body": "Gave me a solid understanding of what Spark is and how to use it in a business setting! The examples covered were sufficient to get started with Spark.",
+            "rating": 5
+        },
+        {
+            "body": "Excellent hands-on course. I took this course just for fun, and I appreciate the content and the delivery!",
+            "rating": 5
+        },
+        {
+            "body": "Thanks - great course, well structured and presented. Course has given me good knowledge of what spark is and how to use it. I personally would have liked more examples on using SparkSQL as like you say it's now being used a lot in the industry. I recommend that you should consider a demo of using SparkSQL against Hive where you select some data, transform it and write it back to another Hive table. Overall great course and thanks.",
+            "rating": 5
+        },
+        {
+            "body": "The Course and its content are really amazing. Frank really has those qualities which separates him from being just a tutor to a good tutor. I will really recommend this course to who ever is reading this review as this will be your first step towards a better future. Thanks and All the best",
+            "rating": 5
+        },
+        {
+            "body": "The course is really nice and i would recommend to those who are new to pySpark. I deducted these stars because I was not able to understand the last module properly because many of the concepts were totally new to me and they were not explained in the whole lecture before using them directly. It would be great if you would make several more videos to briefly explain us those topics and functions separately. Maybe it's just me otherwise its a great course. I appreciate the reply to my each query but i didn't get the follow up if i had another query related to that same question. Every time i have to post \"new\" question separately. Great course",
+            "rating": 4
+        },
+        {
+            "body": "The course content is good. The delivery from the instructor is excellent. But I think the course is outdated now and should be updated with Dataframes and more of MLLib and GraphX etc. Currently there is more content on RDD which is not the future state of Spark.",
+            "rating": 3.5
+        },
+        {
+            "body": "Course is a good intro to Spark, its like Spark 101. Following are my suggestions to make it even better:\n\n1. Spend more time on Dataframe, Spark SQL\n\n2. A couple of real life project where Spark makes a difference. Projects where one uses both RDD & Dataframe\n\n3. Focus on concepts such as SparkSession vs SparkContext and speak about how in Spark 2.0 SparkSession is used and SparkContext is deprecated",
+            "rating": 3
+        },
+        {
+            "body": "This Course is not really for the advanced spark concepts. Would recommend only for the beginners.",
+            "rating": 2.5
+        },
+        {
+            "body": "The class is a good intro to spark concepts and programming, have good examples and exercises through out the course. Looking forward to dive into more advanced spark programming in the near future.",
+            "rating": 4.5
+        }
+    ],
+    "students": [
+        {
+            "name": "Jose Mari Escalante",
+            "email": "josemariescalante@gmail.com",
+            "password": "josemariescalante",
+            "role": "s"
+        },
+        {
+            "name": "Cyrus Tata",
+            "email": "cyrustata@gmail.com",
+            "password": "cyrustata",
+            "role": "s"
+        },
+        {
+            "name": "Sanket Sandesh Shahane",
+            "email": "sanketsandeshshahane@gmail.com",
+            "password": "sanketsandeshshahane",
+            "role": "s"
+        },
+        {
+            "name": "Simeon",
+            "email": "simeon@gmail.com",
+            "password": "simeon",
+            "role": "s"
+        },
+        {
+            "name": "Nassir Woumer",
+            "email": "nassirwoumer@gmail.com",
+            "password": "nassirwoumer",
+            "role": "s"
+        },
+        {
+            "name": "Sudesh Rattu",
+            "email": "sudeshrattu@gmail.com",
+            "password": "sudeshrattu",
+            "role": "s"
+        },
+        {
+            "name": "Ashay Shingode",
+            "email": "ashayshingode@gmail.com",
+            "password": "ashayshingode",
+            "role": "s"
+        },
+        {
+            "name": "Ashna jindal",
+            "email": "ashnajindal@gmail.com",
+            "password": "ashnajindal",
+            "role": "s"
+        },
+        {
+            "name": "Shakun Nag",
+            "email": "shakunnag@gmail.com",
+            "password": "shakunnag",
+            "role": "s"
+        },
+        {
+            "name": "Shivaprasad Patil",
+            "email": "shivaprasadpatil@gmail.com",
+            "password": "shivaprasadpatil",
+            "role": "s"
+        },
+        {
+            "name": "Emmanuel",
+            "email": "emmanuel@gmail.com",
+            "password": "emmanuel",
+            "role": "s"
+        },
+        {
+            "name": "Yunshu Liu",
+            "email": "yunshuliu@gmail.com",
+            "password": "yunshuliu",
+            "role": "s"
+        }
+    ],
+    "instructor": {
+        "name": "Sundog Education by Frank Kane",
+        "email": "sundogeducationbyfrankkane@gmail.com",
+        "password": "sundogeducationbyfrankkane",
+        "role": "i",
+        "briefIntroduction": "<p>Sundog Education's mission is to make highly valuable career skills in <strong>big data, data science, and machine learning</strong> accessible to everyone in the world. Our consortium of expert instructors shares our knowledge in these emerging fields with you, at prices anyone can afford.&nbsp;</p><p>Sundog Education is led by Frank Kane and owned by Frank's company, Sundog Software LLC.&nbsp;Frank spent 9 years at <strong>Amazon</strong> and <strong>IMDb</strong>, developing and managing the technology that automatically delivers product and movie recommendations to hundreds of millions of customers, all the time. Frank holds <strong>17 issued patents</strong> in the fields of <strong>distributed computing</strong>, <strong>data mining</strong>, and <strong>machine learning</strong>. In 2012, Frank left to start his own successful company, Sundog Software, which focuses on virtual reality environment technology, and teaching others about big data analysis.</p><p><strong>Due to our volume of students we are unable to respond to private messages; please post your questions within the Q&amp;A of your course. Thanks for understanding.</strong></p>"
+    }
+}

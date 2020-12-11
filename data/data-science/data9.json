@@ -1,0 +1,151 @@
+{
+    "field": {
+        "name": "data-science",
+        "courses": []
+    },
+    "course": {
+        "title": "Python A-Z™: Python For Data Science With Real Exercises!",
+        "subtitle": "Programming In Python For Data Analytics And Data Science. Learn Statistical Analysis, Data Mining And Visualization",
+        "descriptions": [],
+        "reviews": [],
+        "students": [],
+        "image1xURL": "https://img-a.udemycdn.com/course/240x135/913448_e6e2.jpg",
+        "image2xURL": "https://img-a.udemycdn.com/course/480x270/913448_e6e2.jpg",
+        "image3xURL": "https://img-a.udemycdn.com/course/750x422/913448_e6e2.jpg",
+        "discountPrice": 11.99,
+        "originalPrice": 129.99,
+        "numViews": 0,
+        "curriculum": []
+    },
+    "reviews": [
+        {
+            "body": "The overall course experience was good but in the bonus lecture, the audio isn't quite good enough. I think it's not your voice krill. Please update it.\n\nThank you",
+            "rating": 4.5
+        },
+        {
+            "body": "Its an awesome start to data science in my opinion. However, I would add that for people without prior python and statistics knowledge, it would be advisable to take some basic courses in them before starting out on this one.\n\nKudos Kirill!",
+            "rating": 5
+        },
+        {
+            "body": "The best python data science course on udemy...all basics, advanced topics and practical data set exercises are covered in this course.",
+            "rating": 5
+        },
+        {
+            "body": "Doing a masters in college. This guy helps so much!!! Very easy intuitive approach! Second time time doing this class. Everything is just clicking now!!!",
+            "rating": 5
+        },
+        {
+            "body": "This is just beginning of learning programming,easy to understand.\n\nI appreciate the effort taken by the Instructor and team to make us understand this course wonderfully! I'm happy!!",
+            "rating": 4.5
+        },
+        {
+            "body": "Interesting and useful. Solution should be placed just after the challenges just to make the course more streamlined. All in all I'm very happy with the course.",
+            "rating": 4
+        },
+        {
+            "body": "Great course. One suggestion would be to remove the 'With Real Exercises' from the certificate name, so that it can be displayed comfortably.",
+            "rating": 5
+        },
+        {
+            "body": "I'm new to coding so course was cool and challenging. Observed that some aspect of solutions to homework weren't discussed in tutorial.\n\nIt can be better as everything in life.\n\nPls advice on certification.\n\nRegards.",
+            "rating": 5
+        },
+        {
+            "body": "I enjoyed the way Kirill introduced various concepts one after the other! It helped me learn the language step by step and practice the exercises along the way. I had no prior knowledge about Python when I started this course and I am confident that I can code better in Python now! I took both R and Python. I enjoyed both courses. It is better to take both courses together so that we can compare and contrast both languages.\n\nThank you, Kirill. Great work.",
+            "rating": 5
+        },
+        {
+            "body": "This was a really good course to start Python. I like Kiril enthusiasm and activity throughout the course to keep learning active. I only not liked the lengthiness in Section 6: Advanced Visualization. I wish to cut down it to 1-1.30hrs. Though visualization looks good to the eyes, too much makes boring. Section 7 can also cut by 30min. I would like love to devote those 2hrs to scikit-learn or something else. Overall good course for beginers.",
+            "rating": 4.5
+        },
+        {
+            "body": "course was okay, came to know about amazing plots for data visualizations, should include a section on object-oriented programming concepts",
+            "rating": 4
+        },
+        {
+            "body": "Engaging narrative and explanations, nicely packaged exercises, some new visualizations that I didn't know about. I had a lot of fun doing this course!",
+            "rating": 4.5
+        }
+    ],
+    "students": [
+        {
+            "name": "Revanth Pokuri",
+            "email": "revanthpokuri@gmail.com",
+            "password": "revanthpokuri",
+            "role": "s"
+        },
+        {
+            "name": "Abdulbasit Abdulsalam",
+            "email": "abdulbasitabdulsalam@gmail.com",
+            "password": "abdulbasitabdulsalam",
+            "role": "s"
+        },
+        {
+            "name": "Roshinder Virdee",
+            "email": "roshindervirdee@gmail.com",
+            "password": "roshindervirdee",
+            "role": "s"
+        },
+        {
+            "name": "Jose Canales",
+            "email": "josecanales@gmail.com",
+            "password": "josecanales",
+            "role": "s"
+        },
+        {
+            "name": "Rashmi Puranik",
+            "email": "rashmipuranik@gmail.com",
+            "password": "rashmipuranik",
+            "role": "s"
+        },
+        {
+            "name": "Jan Hovden Eide",
+            "email": "janhovdeneide@gmail.com",
+            "password": "janhovdeneide",
+            "role": "s"
+        },
+        {
+            "name": "Tanya Grimes",
+            "email": "tanyagrimes@gmail.com",
+            "password": "tanyagrimes",
+            "role": "s"
+        },
+        {
+            "name": "Godswill Oputah",
+            "email": "godswilloputah@gmail.com",
+            "password": "godswilloputah",
+            "role": "s"
+        },
+        {
+            "name": "Velusamy Marimuthan",
+            "email": "velusamymarimuthan@gmail.com",
+            "password": "velusamymarimuthan",
+            "role": "s"
+        },
+        {
+            "name": "Jaidip Jagtap",
+            "email": "jaidipjagtap@gmail.com",
+            "password": "jaidipjagtap",
+            "role": "s"
+        },
+        {
+            "name": "Swati Upadhyay",
+            "email": "swatiupadhyay@gmail.com",
+            "password": "swatiupadhyay",
+            "role": "s"
+        },
+        {
+            "name": "Soham Adla",
+            "email": "sohamadla@gmail.com",
+            "password": "sohamadla",
+            "role": "s"
+        }
+    ],
+    "instructor": {
+        "name": "Kirill Eremenko",
+        "email": "kirilleremenko@gmail.com",
+        "password": "kirilleremenko",
+        "role": "i",
+        "briefIntroduction": "<p>My name is Kirill Eremenko and I am super-psyched that you are reading this!</p><p>Professionally, I am a Data Science management consultant with over five years of experience in finance, retail, transport and other industries. I was trained by the best analytics mentors at Deloitte Australia and today I leverage Big Data to drive business strategy, revamp customer experience and revolutionize existing operational processes.</p><p>From my courses you will straight away notice how I combine my real-life experience and academic background in Physics and Mathematics to deliver professional step-by-step coaching in the space of Data Science. I am also passionate about public speaking, and regularly present on Big Data at leading Australian universities and industry events.</p><p>To sum up, I am absolutely and utterly passionate about Data Science and I am looking forward to sharing my passion and knowledge with you!</p>"
+    }
+}

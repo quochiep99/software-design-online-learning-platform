@@ -1,0 +1,151 @@
+{
+    "field": {
+        "name": "data-science",
+        "courses": []
+    },
+    "course": {
+        "title": "Data Science and Machine Learning Bootcamp with R",
+        "subtitle": "Learn how to use the R programming language for data science and machine learning and data visualization!",
+        "descriptions": [],
+        "reviews": [],
+        "students": [],
+        "image1xURL": "https://img-a.udemycdn.com/course/240x135/821726_8071.jpg",
+        "image2xURL": "https://img-a.udemycdn.com/course/480x270/821726_8071.jpg",
+        "image3xURL": "https://img-a.udemycdn.com/course/750x422/821726_8071.jpg",
+        "discountPrice": 11.99,
+        "originalPrice": 129.99,
+        "numViews": 0,
+        "curriculum": []
+    },
+    "reviews": [
+        {
+            "body": "Really enjoyed this style of teaching. The notes included were step by step directions on how to write the scripts. Would definitely recommend this class for beginners and I would take another course from him as well.",
+            "rating": 4.5
+        },
+        {
+            "body": "By far the best course available on Udemy on R programming. A true gem for beginners. It has been a great leaning experience for me. The course starts with absolute basics and builds your skill gradually. All the way from Data Structures, Visualizations to advance Machine Learning concepts. It also has exercises and projects to test your newly acquired knowledge. Thank you Jose, for such an awesome course. Highly Recommended!!",
+            "rating": 5
+        },
+        {
+            "body": "So far so good everything has been simple and straight forward.\n\nLots to remember but getting the hang of it. Have too :) .\n\nGood examples being used.",
+            "rating": 5
+        },
+        {
+            "body": "It was a little hard because previous concepts were not repeated in the following lectures to cement knowledge. You really have to make sure you understand all the information before moving on.",
+            "rating": 4
+        },
+        {
+            "body": "Extremely useful as an introduction to machine learning !\n\nThe focus is geared towards getting hands on understanding of using the algorithms ! It definitely gets you kick started onto the journey of data science .",
+            "rating": 5
+        },
+        {
+            "body": "Full analytic and good course for someone who has no knowledge of machine learning. The instructor was excellent!",
+            "rating": 4.5
+        },
+        {
+            "body": "The first half is brilliant where the programming related to R is given a good amount of weight. The second half is more of brief theory and code templates.What I felt was that more importance to model interpretation needs to be given. Since I have a background of statistics, I could comprehend it to a certain extent. But for a newbie this course will take a good amount of time and effort",
+            "rating": 3
+        },
+        {
+            "body": "The projects for machine learning are too long and somehow distracting from the key points that must be learned. In the regression part, there is some introduction of using methods to better understand the data set, however, those are not really part of the machine learning and could have been provided separately.",
+            "rating": 4.5
+        },
+        {
+            "body": "Frankly speaking, I loved the course. The way of delivery/ contents/ references were all quite informative. The best thing about the course was that it is so designed that even a person without having prior knowledge of any programming language or high level statistics could easily understand everything.",
+            "rating": 4.5
+        },
+        {
+            "body": "Jose is AMAZING!!!! He breaks everything down clearly. He makes what we are learning relevant! Give the appropriate practice and solutions. I can understand everything he says!!! He should take some of these college professors' jobs!!!",
+            "rating": 5
+        },
+        {
+            "body": "Very good teaching skills and greatly selected examples and exercises. I suggest it for beginners",
+            "rating": 4.5
+        },
+        {
+            "body": "This is a good course. The pace is about right. The notes and lectures cover the topics well. The notes should be updated, though, as they contain a few mistakes, mostly grammatical mistakes.",
+            "rating": 5
+        }
+    ],
+    "students": [
+        {
+            "name": "Jonathan Gonzalez",
+            "email": "jonathangonzalez@gmail.com",
+            "password": "jonathangonzalez",
+            "role": "s"
+        },
+        {
+            "name": "Avijit Das",
+            "email": "avijitdas@gmail.com",
+            "password": "avijitdas",
+            "role": "s"
+        },
+        {
+            "name": "Simon Chan Tack",
+            "email": "simonchantack@gmail.com",
+            "password": "simonchantack",
+            "role": "s"
+        },
+        {
+            "name": "Lekha Pillarisetti",
+            "email": "lekhapillarisetti@gmail.com",
+            "password": "lekhapillarisetti",
+            "role": "s"
+        },
+        {
+            "name": "Harsh Edirisinghe",
+            "email": "harshedirisinghe@gmail.com",
+            "password": "harshedirisinghe",
+            "role": "s"
+        },
+        {
+            "name": "Evangelia Gkropa",
+            "email": "evangeliagkropa@gmail.com",
+            "password": "evangeliagkropa",
+            "role": "s"
+        },
+        {
+            "name": "Shobhit",
+            "email": "shobhit@gmail.com",
+            "password": "shobhit",
+            "role": "s"
+        },
+        {
+            "name": "Arman Lamei",
+            "email": "armanlamei@gmail.com",
+            "password": "armanlamei",
+            "role": "s"
+        },
+        {
+            "name": "Vikash Kumar Soni",
+            "email": "vikashkumarsoni@gmail.com",
+            "password": "vikashkumarsoni",
+            "role": "s"
+        },
+        {
+            "name": "Paula Junior",
+            "email": "paulajunior@gmail.com",
+            "password": "paulajunior",
+            "role": "s"
+        },
+        {
+            "name": "Ioannis Panetas",
+            "email": "ioannispanetas@gmail.com",
+            "password": "ioannispanetas",
+            "role": "s"
+        },
+        {
+            "name": "Joseph Mueller",
+            "email": "josephmueller@gmail.com",
+            "password": "josephmueller",
+            "role": "s"
+        }
+    ],
+    "instructor": {
+        "name": "Jose Portilla",
+        "email": "joseportilla@gmail.com",
+        "password": "joseportilla",
+        "role": "i",
+        "briefIntroduction": "<p>&nbsp; Jose Marcial Portilla has a BS and MS in Mechanical Engineering from Santa Clara University and&nbsp;years of&nbsp;experience as a professional instructor and trainer for Data Science and programming. He has publications and patents in various fields such as microfluidics,&nbsp;materials science, and data science technologies. Over the course of his career he has developed a skill set in analyzing data and he hopes to use his experience in teaching and data science to help other people learn the power of programming the&nbsp;ability to analyze data, as well as present the data in clear and beautiful visualizations. Currently he works as the Head of Data Science for Pierian Data Inc.&nbsp;and provides in-person data science and python programming training courses to employees working at top companies, including General Electric, Cigna, The New York Times, Credit Suisse, McKinsey and many more.&nbsp;Feel free to contact him on LinkedIn for more information on in-person training sessions or group training sessions in Las Vegas, NV.</p>"
+    }
+}

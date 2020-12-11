@@ -1,0 +1,151 @@
+{
+    "field": {
+        "name": "data-science",
+        "courses": []
+    },
+    "course": {
+        "title": "Apache Spark with Scala - Hands On with Big Data!",
+        "subtitle": "Apache Spark tutorial with 20+ hands-on examples of analyzing large data sets, on your desktop or on Hadoop with Scala!",
+        "descriptions": [],
+        "reviews": [],
+        "students": [],
+        "image1xURL": "https://img-b.udemycdn.com/course/240x135/892806_514e_3.jpg",
+        "image2xURL": "https://img-b.udemycdn.com/course/480x270/892806_514e_3.jpg",
+        "image3xURL": "https://img-b.udemycdn.com/course/750x422/892806_514e_3.jpg",
+        "discountPrice": 11.99,
+        "originalPrice": 129.99,
+        "numViews": 0,
+        "curriculum": []
+    },
+    "reviews": [
+        {
+            "body": "coming with little background with Spark -- these series of videos gave a big boost on my skills -- so many examples and deep diving in each scenario really made it easier to learn.",
+            "rating": 5
+        },
+        {
+            "body": "This was a great course, Frank explains very well all topics and source code, in some cases line by line, that's was awesome. I recommend a lot this course to starting with spark and scala.",
+            "rating": 5
+        },
+        {
+            "body": "Content design and walk-thru of the content was simply superb. Frank is a real subject matter expert giving lots of detail, thanks to him. In this course the exploration of dataframes seems to be very limited (transformations and actions with their usage).",
+            "rating": 4
+        },
+        {
+            "body": "If you don't know where to kick start learning Spark, This course is for you !!!!! I love Frank's style on teaching. Expect less theoretical and more practical knowledge here which we all as a learner look for in a course. No second thoughts on this. Happy learning !!!! :D",
+            "rating": 5
+        },
+        {
+            "body": "I feel like this one star missing is actually important. Scala and Spark 3 are not covered as much as I would like. The rest is on high level as always by the author.",
+            "rating": 4
+        },
+        {
+            "body": "This course is pretty good. But it seems they have not updated it since long.. There are a lot less stuff on DataFrame and DataSets...Majory of the course is based on RDDs.\n\nUpgrade your course with the same examples solved with Dataframes/Datasets.",
+            "rating": 3.5
+        },
+        {
+            "body": "Only the first chapters parts are good. The latter topics are not explained in detail. This course simply gave me enough fundamentals to be able to understand more advanced Spark documents/courses.\n\nMaybe the author can watch Stephen Grider's courses to see how detailed he is in explaining things. Stephen Grider takes the time to create diagrams to make things easier to understand.",
+            "rating": 2.5
+        },
+        {
+            "body": "Nice overview of the Spark components. He goes through the core components of Spark, which is nice for a 7 hours course. But if you're looking for an in-depth course, you may wanna look at a different one.",
+            "rating": 3.5
+        },
+        {
+            "body": "I recommend this course. Frank Kane delivers very clear and easy to understand lectures. It covers a wide range of topics and sets you up for to educate yourself once the course is complete.",
+            "rating": 4
+        },
+        {
+            "body": "Great course. Concepts are well explained. I would have loved a less faster explanation of the complex concepts. I resorted to slowing down the speed of play.\n\nExamples/Projects covers enough to give a good understanding of Spark core -RDDs, Datasets,DataFrame. This is however not exhaustive. Hopefully more use-cases will be included in subsequent update.",
+            "rating": 4
+        },
+        {
+            "body": "I really enjoyed this course. Well taught, with the right complexity level and with fun examples to follow.",
+            "rating": 5
+        },
+        {
+            "body": "Great way to get your feet wet in both Scala and Spark! It should be noted that this is not a very in-depth course on every topic and basically covers all the capabilities of Spark with interesting example projects that help you learn. So if you are looking for a place to start with no previous knowledge, then this will do just fine. To the instructors: to keep this course alive, please continue to keep upgrading lectures and course materials as both Spark and Scala progress to newer versions. Thanks!",
+            "rating": 4.5
+        }
+    ],
+    "students": [
+        {
+            "name": "Ardavan Moinzadeh",
+            "email": "ardavanmoinzadeh@gmail.com",
+            "password": "ardavanmoinzadeh",
+            "role": "s"
+        },
+        {
+            "name": "Adrián Ávila Olmos",
+            "email": "adriánávilaolmos@gmail.com",
+            "password": "adriánávilaolmos",
+            "role": "s"
+        },
+        {
+            "name": "Anandamohan",
+            "email": "anandamohan@gmail.com",
+            "password": "anandamohan",
+            "role": "s"
+        },
+        {
+            "name": "Deepali Deshmukh",
+            "email": "deepalideshmukh@gmail.com",
+            "password": "deepalideshmukh",
+            "role": "s"
+        },
+        {
+            "name": "Nikola Glusac",
+            "email": "nikolaglusac@gmail.com",
+            "password": "nikolaglusac",
+            "role": "s"
+        },
+        {
+            "name": "Siraj",
+            "email": "siraj@gmail.com",
+            "password": "siraj",
+            "role": "s"
+        },
+        {
+            "name": "Raymond Ong",
+            "email": "raymondong@gmail.com",
+            "password": "raymondong",
+            "role": "s"
+        },
+        {
+            "name": "Túlio Gomes Barbosa",
+            "email": "túliogomesbarbosa@gmail.com",
+            "password": "túliogomesbarbosa",
+            "role": "s"
+        },
+        {
+            "name": "Andrew Daltas",
+            "email": "andrewdaltas@gmail.com",
+            "password": "andrewdaltas",
+            "role": "s"
+        },
+        {
+            "name": "Oyanna Kelvin",
+            "email": "oyannakelvin@gmail.com",
+            "password": "oyannakelvin",
+            "role": "s"
+        },
+        {
+            "name": "Daniel Murteira",
+            "email": "danielmurteira@gmail.com",
+            "password": "danielmurteira",
+            "role": "s"
+        },
+        {
+            "name": "Nikhil Meena",
+            "email": "nikhilmeena@gmail.com",
+            "password": "nikhilmeena",
+            "role": "s"
+        }
+    ],
+    "instructor": {
+        "name": "Sundog Education by Frank Kane",
+        "email": "sundogeducationbyfrankkane@gmail.com",
+        "password": "sundogeducationbyfrankkane",
+        "role": "i",
+        "briefIntroduction": "<p>Sundog Education's mission is to make highly valuable career skills in <strong>big data, data science, and machine learning</strong> accessible to everyone in the world. Our consortium of expert instructors shares our knowledge in these emerging fields with you, at prices anyone can afford.&nbsp;</p><p>Sundog Education is led by Frank Kane and owned by Frank's company, Sundog Software LLC.&nbsp;Frank spent 9 years at <strong>Amazon</strong> and <strong>IMDb</strong>, developing and managing the technology that automatically delivers product and movie recommendations to hundreds of millions of customers, all the time. Frank holds <strong>17 issued patents</strong> in the fields of <strong>distributed computing</strong>, <strong>data mining</strong>, and <strong>machine learning</strong>. In 2012, Frank left to start his own successful company, Sundog Software, which focuses on virtual reality environment technology, and teaching others about big data analysis.</p><p><strong>Due to our volume of students we are unable to respond to private messages; please post your questions within the Q&amp;A of your course. Thanks for understanding.</strong></p>"
+    }
+}

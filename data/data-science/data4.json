@@ -1,0 +1,151 @@
+{
+    "field": {
+        "name": "data-science",
+        "courses": []
+    },
+    "course": {
+        "title": "R Programming A-Z™: R For Data Science With Real Exercises!",
+        "subtitle": "Learn Programming In R And R Studio. Data Analytics, Data Science, Statistical Analysis, Packages, Functions, GGPlot2",
+        "descriptions": [],
+        "reviews": [],
+        "students": [],
+        "image1xURL": "https://img-b.udemycdn.com/course/240x135/765242_2578.jpg",
+        "image2xURL": "https://img-b.udemycdn.com/course/480x270/765242_2578.jpg",
+        "image3xURL": "https://img-b.udemycdn.com/course/750x422/765242_2578.jpg",
+        "discountPrice": 11.99,
+        "originalPrice": 129.99,
+        "numViews": 0,
+        "curriculum": []
+    },
+    "reviews": [
+        {
+            "body": "This is a great intro class for someone like me who has little coding background. It took me about 2 weeks to complete the course. By the end of the course. I was able to do looping, processing data and make beautiful ggplots! Well worth the $14 investment.",
+            "rating": 4.5
+        },
+        {
+            "body": "I started the course, had to leave it for a while to actually work with R, and took it again, finding it extremely useful, learning many things yet. 100% recommended.",
+            "rating": 5
+        },
+        {
+            "body": "This course is excellent as it helps to learn R step by step. Thank you to Kirill Eremenko for putting this course together and explaining every part clearly!",
+            "rating": 5
+        },
+        {
+            "body": "It's my first time learning R and the experience of the whole course was very good, I have learned many things about R, how it's useful for Data Science and use cases in real-time. Thank you for the course Krill and thank you Alex for clarifying my doubts.",
+            "rating": 4.5
+        },
+        {
+            "body": "So far, it has been very basic but as someone really struggling at been thrown in at the deep end I found the explanations really helpful and clear. As the course went on, I got more confident with R and became better skilled for my research needs.",
+            "rating": 5
+        },
+        {
+            "body": "Kirill takes his time to teach the material methodically and overall did a good job. However, the time could have been utilized better in some sections. Additionally, for a course that is portrayed as 'R for Data Science', it is definitely lacking.\n\nThe section on 'ggplot' was done very well but perhaps could be improved further.\n\nOverall, I like Kirill's style and I do highly recommend this course for someone starting out in R.",
+            "rating": 3.5
+        },
+        {
+            "body": "This course is simply amazing, the level of dedication and relevance is beyond my expectation!\n\nThe visualizations with ggplot were the most fun and engaging part, inspired me to try more of such visualizations\n\nI have taught like this very few times. Thanks to Kirril Eremenko and Udemy for the course.",
+            "rating": 5
+        },
+        {
+            "body": "I feel it is a gentle introduction to R and well contextualized. Would wish more example and projects to help develop experience. Thanks.",
+            "rating": 5
+        },
+        {
+            "body": "The flow is very systematic from basic to ggplot2 and gives the platform to build big & complex codes . The explanation is very logical & clear .",
+            "rating": 5
+        },
+        {
+            "body": "I took Kirrel's Tableau course. I am currently taking a masters degree course in Data Science and Analytics where R is being taught. I need to take this to supplement class instruction. Kirrel you ROCK!!!!! I learned the foundations that were needed to be active. This is the best Thank you!",
+            "rating": 5
+        },
+        {
+            "body": "This course was a great way to learn what R Studio is capable of and a great way to learn the basics in an applicable way.",
+            "rating": 5
+        },
+        {
+            "body": "I have very high expectations already. I am new to R and Python, and have been getting through some UDEMY Power BI training, and one of the last ones on using GGPLOT2 halted my progress. I tried installing R and getting the chart to load, but to no avail. I uninstalled, and installed different times, but I though in the towel, and searched UDEMY for R training, and found 3 courses by you, and after the very first chapter R and R Studio was installed. I am going to complete Python, Deep Learning, and another one of his courses before getting back to finishing the Power BI training. I like your method of training too much to stop right now. I am hoping to get R plots to work in Power BI at the end of this course. I love it.\n\nThank you.",
+            "rating": 5
+        }
+    ],
+    "students": [
+        {
+            "name": "Yi Wang",
+            "email": "yiwang@gmail.com",
+            "password": "yiwang",
+            "role": "s"
+        },
+        {
+            "name": "DavidGVillena",
+            "email": "davidgvillena@gmail.com",
+            "password": "davidgvillena",
+            "role": "s"
+        },
+        {
+            "name": "Bishal Bhakta Kasu",
+            "email": "bishalbhaktakasu@gmail.com",
+            "password": "bishalbhaktakasu",
+            "role": "s"
+        },
+        {
+            "name": "Revanth Pokuri",
+            "email": "revanthpokuri@gmail.com",
+            "password": "revanthpokuri",
+            "role": "s"
+        },
+        {
+            "name": "Cathal Flood",
+            "email": "cathalflood@gmail.com",
+            "password": "cathalflood",
+            "role": "s"
+        },
+        {
+            "name": "Raman Vishwanathan",
+            "email": "ramanvishwanathan@gmail.com",
+            "password": "ramanvishwanathan",
+            "role": "s"
+        },
+        {
+            "name": "Khyati Chouksey",
+            "email": "khyatichouksey@gmail.com",
+            "password": "khyatichouksey",
+            "role": "s"
+        },
+        {
+            "name": "Peter Ehwerhemuepha",
+            "email": "peterehwerhemuepha@gmail.com",
+            "password": "peterehwerhemuepha",
+            "role": "s"
+        },
+        {
+            "name": "Swapan Banerjee",
+            "email": "swapanbanerjee@gmail.com",
+            "password": "swapanbanerjee",
+            "role": "s"
+        },
+        {
+            "name": "Joseph Charves",
+            "email": "josephcharves@gmail.com",
+            "password": "josephcharves",
+            "role": "s"
+        },
+        {
+            "name": "Ben Walk",
+            "email": "benwalk@gmail.com",
+            "password": "benwalk",
+            "role": "s"
+        },
+        {
+            "name": "Kevin Murphy",
+            "email": "kevinmurphy@gmail.com",
+            "password": "kevinmurphy",
+            "role": "s"
+        }
+    ],
+    "instructor": {
+        "name": "Kirill Eremenko",
+        "email": "kirilleremenko@gmail.com",
+        "password": "kirilleremenko",
+        "role": "i",
+        "briefIntroduction": "<p>My name is Kirill Eremenko and I am super-psyched that you are reading this!</p><p>Professionally, I am a Data Science management consultant with over five years of experience in finance, retail, transport and other industries. I was trained by the best analytics mentors at Deloitte Australia and today I leverage Big Data to drive business strategy, revamp customer experience and revolutionize existing operational processes.</p><p>From my courses you will straight away notice how I combine my real-life experience and academic background in Physics and Mathematics to deliver professional step-by-step coaching in the space of Data Science. I am also passionate about public speaking, and regularly present on Big Data at leading Australian universities and industry events.</p><p>To sum up, I am absolutely and utterly passionate about Data Science and I am looking forward to sharing my passion and knowledge with you!</p>"
+    }
+}

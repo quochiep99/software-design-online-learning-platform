@@ -110,4 +110,116 @@
   ],
   "name": "mobile-development",
   "__v": 16
+},{
+  "_id": {
+    "$oid": "5fd3223f6362c4452c978b76"
+  },
+  "courses": [
+    {
+      "$oid": "5fd3223f6362c4452c978b77"
+    },
+    {
+      "$oid": "5fd322406362c4452c978b9d"
+    },
+    {
+      "$oid": "5fd322416362c4452c978bc2"
+    },
+    {
+      "$oid": "5fd322416362c4452c978be7"
+    },
+    {
+      "$oid": "5fd322426362c4452c978c0e"
+    },
+    {
+      "$oid": "5fd322436362c4452c978c33"
+    },
+    {
+      "$oid": "5fd322446362c4452c978c5a"
+    },
+    {
+      "$oid": "5fd322456362c4452c978c81"
+    },
+    {
+      "$oid": "5fd322466362c4452c978ca9"
+    },
+    {
+      "$oid": "5fd322476362c4452c978cce"
+    },
+    {
+      "$oid": "5fd322476362c4452c978cf5"
+    },
+    {
+      "$oid": "5fd322486362c4452c978d1e"
+    },
+    {
+      "$oid": "5fd322496362c4452c978d43"
+    },
+    {
+      "$oid": "5fd3224a6362c4452c978d64"
+    },
+    {
+      "$oid": "5fd3224b6362c4452c978d87"
+    },
+    {
+      "$oid": "5fd3224b6362c4452c978daa"
+    }
+  ],
+  "name": "programming-languages",
+  "__v": 16
+},{
+  "_id": {
+    "$oid": "5fd32656c818c944ecf7da8f"
+  },
+  "courses": [
+    {
+      "$oid": "5fd32656c818c944ecf7da90"
+    },
+    {
+      "$oid": "5fd32657c818c944ecf7dab8"
+    },
+    {
+      "$oid": "5fd32658c818c944ecf7dadd"
+    },
+    {
+      "$oid": "5fd32659c818c944ecf7db04"
+    },
+    {
+      "$oid": "5fd3265ac818c944ecf7db29"
+    },
+    {
+      "$oid": "5fd3265bc818c944ecf7db4e"
+    },
+    {
+      "$oid": "5fd3265cc818c944ecf7db73"
+    },
+    {
+      "$oid": "5fd3265cc818c944ecf7db9a"
+    },
+    {
+      "$oid": "5fd3265dc818c944ecf7dbbf"
+    },
+    {
+      "$oid": "5fd3265ec818c944ecf7dbe2"
+    },
+    {
+      "$oid": "5fd3265fc818c944ecf7dc09"
+    },
+    {
+      "$oid": "5fd32660c818c944ecf7dc2e"
+    },
+    {
+      "$oid": "5fd32661c818c944ecf7dc53"
+    },
+    {
+      "$oid": "5fd32661c818c944ecf7dc78"
+    },
+    {
+      "$oid": "5fd32662c818c944ecf7dc9d"
+    },
+    {
+      "$oid": "5fd32663c818c944ecf7dcc5"
+    }
+  ],
+  "name": "data-science",
+  "__v": 16
 }]

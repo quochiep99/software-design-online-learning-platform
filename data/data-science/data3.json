@@ -1,0 +1,151 @@
+{
+    "field": {
+        "name": "data-science",
+        "courses": []
+    },
+    "course": {
+        "title": "The Data Science Course 2020: Complete Data Science Bootcamp",
+        "subtitle": "Complete Data Science Training: Mathematics, Statistics, Python, Advanced Statistics in Python, Machine & Deep Learning",
+        "descriptions": [],
+        "reviews": [],
+        "students": [],
+        "image1xURL": "https://img-a.udemycdn.com/course/240x135/1754098_e0df_3.jpg",
+        "image2xURL": "https://img-a.udemycdn.com/course/480x270/1754098_e0df_3.jpg",
+        "image3xURL": "https://img-a.udemycdn.com/course/750x422/1754098_e0df_3.jpg",
+        "discountPrice": 11.99,
+        "originalPrice": 129.99,
+        "numViews": 0,
+        "curriculum": []
+    },
+    "reviews": [
+        {
+            "body": "A good course to get the fundamentals of data science and machine learning.\n\nI think the Probability and Statistical parts are unnecessarily extensive, due to many of those concepts seen there are not used in the further sections.\n\nThe TF section could have been more deeply explained (theory and practice), and a final exercise using TF framework would have been great.\n\nI am really satisfied with this course, though. The videos are interactive and dynamic. The Q&A section it's up-to-date, and the instructors answer really fast!\n\nI recommend it for begginers.",
+            "rating": 4
+        },
+        {
+            "body": "Excellent course and I recommend to anyone who has interest in the Data Science field. The content presented was very well developed and easy to understand. It was definitely a good investment. Thanks!!!",
+            "rating": 5
+        },
+        {
+            "body": "I am completely new to data science, and the team of 365 careers did a real good job with put together such a wonderful course. I would recommend this course to anyone. I particularly loved the speed at which Q&A was responded.",
+            "rating": 5
+        },
+        {
+            "body": "I really enjoyed this course. It is jam-packed with a good balance of technical and practical information. I think the course does an ok job covering the scikit-learn package; however, there's a ton of content in this package that could be expanded both covering supervised and unsupervised problems. Linear, logistic, and kmeans were a good first start; however, I would recommend expanding on other classifiers such as knn, SVMs and decision trees. On the plus side, it was great to cover neural networks with TF2 and Keras. Overall, I'm very pleased with this course as it triggered my interest in learning more and for sure gave me the confidence in having a solid foundation on which I can continue to build upon. The exercises were also very informative and detailed and will help me on my journey to develop skillsets around data analytics.",
+            "rating": 4
+        },
+        {
+            "body": "So I just finished this course today. The lecture contents was long and exhaustive. I can tell the instructors had put in a lot of efforts and time to make the lectures interesting. The total hours for this course is 29 hours, and i think it took me like 60 hours due to stopping, replaying, stopping again, and taking notes etc. Overall, I think they could have done better. Some suggestions I think this course could improve on:\n\n1. python - when you introduce the codes there should have been some markups with arrows and bullet points stating what that code does and when you run the code show us with markings what it does. Most of the time the instructor will get overly excited when he runs the code and not explaining what's going on. Also when you add a code, to add some columns show us where it will end up and mark them on the videos. More bullet point notes the better. Sometimes you introduce new codes and don't exactly explain what it does and it gets so confusing. And you also copy and paste codes from somewhere and expect us to understand what you did as it went over my head. Because this Python part is so important to all of us learning for the first time, and eventually we'll get into Data Science in our careers one day, this section needs to be improved on so we all can better understand what's going on.\n\n2. TF1 vs TF2 - I don't think there's any need to go comparing both of these as TF2 is current and mostly what we are trying to learn now right? Also getting TF2 to install was a nightmare as some people had the same issue.\n\n3. Intro. to the field of Data Science - These lectures are way too long. You have 8 sections describing this and could have sum up in a few lectures stating what it does and the types of careers one can go into with the type of skill sets. Sorry but I was about to fall asleep.\n\n4. Mathematics - Maybe need to add basic Calculus\n\n5. Probability and Stats - it was long but alright.\n\n6. Other items to add - SQL and Big Data, just the basic stuffs and how to integrate these into Python, and discuss what software we'll need to learn etc.\n\n7. Lecture Videos - Quality could be better as the video seems a bit blurry or low quality.\n\n8. Instructors - As most students stated that the instructors voice sounded like a robot and not a real human teaching and I totally agree. I won't drill into too much but I find the instructor who was teaching the Case Study for the Absenteeism (Preprocessing) does a good job as he uses markups to indicate how the code was executed and carried out.\n\nI did enjoyed it and learned some skills along the way. Thanks.",
+            "rating": 3
+        },
+        {
+            "body": "I enjoyed the course, but I felt like the introduction to ML could've been a bit better. It felt like I was just learning how to code in Python and then thrown in a deep end with Machine Learning. I wish there was a slightly more thorough explanation as to why we executed certain functions and code in the ML portions.",
+            "rating": 4.5
+        },
+        {
+            "body": "One of the best online resources. Instructors' knowledge of subject matter, topics covered, quality & format of instruction media (text, graphics, video & audio), all are excellent. This course is worth $4-5000 and 6 months of hard-work. Compared with the price, any complaint about this resource is not justifiable.",
+            "rating": 5
+        },
+        {
+            "body": "- this course is a result of mixing up many mini courses thus resulting in repetitive content and instructors talking about a mentioned subject as it is the first time we have seen it.\n\n- terrible QA, it is packed with demands for a free promised course which makes it very hard to find the good questions.\n\n- pathetic Quiz questions.\n\n- the second half of the course is so rushed, they are just skimming through some important and complicated concepts.\n\noverall i think there must be many better courses than this on Udemy or any other platforms, i would definitely recommend giving them a chance instead of this mishmash.",
+            "rating": 2
+        },
+        {
+            "body": "Good theory in Probability and Statistics and clear explanations of what Data Science is about with the Data Science summary chart. The project in the end was a bit unclear and rushed though",
+            "rating": 4.5
+        },
+        {
+            "body": "It is going good so far. They have done a superb job in putting up the videos. But to me initial part of the course was more engaging than the latter, as it is not clear how the mathematics, equations would be useful to get in-depth understanding of the models etc. We may need to do more research on this online. Other than this, Course is awesome, I liked it.",
+            "rating": 4
+        },
+        {
+            "body": "SUPER GREAT COURSE! HIGHLY RECOMMENDED!\n\nHi 365 DataScience Team,\n\nI was recommended this course by a friend of mine, who is a great expert in Data Science. I just wanT to say I am tremendously happy with this course. I can't tell you how much I love it. Indeed, I love the course as much as I do the two very talented teachers/Professors Martin and Iliya. Let me take this opportunity to clarify the reasons for my great enjoyment of the course:\n\n1. First, the content is very easy to understand.\n\n2. Realistic approach, balanced theories and practice\n\n3. Extremely eye-catching design and presentation. I mean the way the content is delivered on the screen is very attractive.\n\n4. Martin and Iliya are ACTUALLY TEACHING, not just repeating what is on the screen as some other teachers do. They usually flux the screen with tons of words, and just read what is there, which is both boring and does not make much sense.\n\n5. Great and timely response in the Q&A section of the course, which is very helpful, especially to novice learners like me.\n\n6. The course has been continuously updated since its appearance on Udemy, which shows that Martin and Iliya do care about the quality of their work.\n\nThe list may go on and on. However, the most AMAZING thing to me (and I do believe it is also amazing to other learners) is the VOICE!!! Both teachers have a voice so amazing, clear, and energetic that I could hardly get bored with the lesson. By the way, I love your proper pronunciation and intonation so much, which helps learners to understand the lesson a great deal.\n\nAll in all, this is the best course I have ever learned online, and Martin and Iliya are two of the most wonderful teachers/instructors/Professors in the field I've ever known.\n\nI hope Martin and Iliya have a chance to read this review as well.\n\nPlease make more and more such courses for us, Matin and Iliya!\n\nWish you all the best!\n\nDanh Nguyen",
+            "rating": 5
+        },
+        {
+            "body": "This is a great course for individuals seeking to learn data science without prior programming experience. It also does an exceptional job in providing the data science theory behind the programming.",
+            "rating": 5
+        }
+    ],
+    "students": [
+        {
+            "name": "Hugo Nicolás Quiroga Ortiz",
+            "email": "hugonicolásquirogaortiz@gmail.com",
+            "password": "hugonicolásquirogaortiz",
+            "role": "s"
+        },
+        {
+            "name": "Leandro Marotti",
+            "email": "leandromarotti@gmail.com",
+            "password": "leandromarotti",
+            "role": "s"
+        },
+        {
+            "name": "Rohit Jayaraja Acharya",
+            "email": "rohitjayarajaacharya@gmail.com",
+            "password": "rohitjayarajaacharya",
+            "role": "s"
+        },
+        {
+            "name": "Juan Fernandez",
+            "email": "juanfernandez@gmail.com",
+            "password": "juanfernandez",
+            "role": "s"
+        },
+        {
+            "name": "Duc Hong",
+            "email": "duchong@gmail.com",
+            "password": "duchong",
+            "role": "s"
+        },
+        {
+            "name": "Belinda Nguyen",
+            "email": "belindanguyen@gmail.com",
+            "password": "belindanguyen",
+            "role": "s"
+        },
+        {
+            "name": "Mukul Sharma",
+            "email": "mukulsharma@gmail.com",
+            "password": "mukulsharma",
+            "role": "s"
+        },
+        {
+            "name": "Ebdulmomen Ahmed",
+            "email": "ebdulmomenahmed@gmail.com",
+            "password": "ebdulmomenahmed",
+            "role": "s"
+        },
+        {
+            "name": "Kevin Yang",
+            "email": "kevinyang@gmail.com",
+            "password": "kevinyang",
+            "role": "s"
+        },
+        {
+            "name": "Sreekanth Reddy A",
+            "email": "sreekanthreddya@gmail.com",
+            "password": "sreekanthreddya",
+            "role": "s"
+        },
+        {
+            "name": "Nguyen Cong Danh",
+            "email": "nguyencongdanh@gmail.com",
+            "password": "nguyencongdanh",
+            "role": "s"
+        },
+        {
+            "name": "Gerald Morris",
+            "email": "geraldmorris@gmail.com",
+            "password": "geraldmorris",
+            "role": "s"
+        }
+    ],
+    "instructor": {
+        "name": "365 Careers",
+        "email": "365careers@gmail.com",
+        "password": "365careers",
+        "role": "i",
+        "briefIntroduction": "<p><strong>365 Careers is the #1 best-selling provider of finance courses on Udemy. The company’s courses have been taken by more than 1,000,000 students in 210&nbsp;countries. People working at world-class firms like Apple, PayPal, and Citibank have completed 365 Careers trainings.</strong> \n\n&nbsp; </p><p>Currently, the firm focuses on the following topics on Udemy:\n\n&nbsp; </p><p>\n\n<strong>1) Finance</strong> – Finance fundamentals, Financial modeling in Excel, Valuation, Accounting, Capital budgeting, Financial statement analysis (FSA), Investment banking (IB), Leveraged buyout (LBO), Financial planning and analysis (FP&amp;A), Corporate budgeting, applying Python for Finance, Tesla valuation case study, CFA, ACCA, and CPA</p><p><strong>2) Data science</strong> – Statistics, Mathematics, Probability, SQL, Python programming, Python for Finance, Business Intelligence, R, Machine Learning, TensorFlow, Tableau, the integration of SQL&nbsp;and&nbsp;Tableau, the integration of SQL, Python, Tableau, Power&nbsp;BI, Credit Risk Modeling, and Credit Analytics</p><p><strong>3) Entrepreneurship</strong> – Business Strategy, Management and HR Management, Marketing, Decision Making, Negotiation, and Persuasion, Tesla's Strategy and Marketing</p><p><strong>4) Office productivity</strong> – Microsoft Excel, PowerPoint, Microsoft Word, and Microsoft Outlook</p><p><strong>5)</strong> <strong>Blockchain for Business</strong></p><p>All of the company’s courses are:\n\n&nbsp; </p><p>Pre-scripted\n\n&nbsp; </p><p>Hands-on \n\n&nbsp; </p><p>Laser-focused\n\n&nbsp; </p><p>Engaging\n\n&nbsp; </p><p>Real-life tested\n\n&nbsp; </p><p>By choosing 365 Careers, you make sure you will learn from proven experts, who have a passion for teaching, and can take you from beginner to pro in the shortest possible amount of time.\n\n&nbsp; </p><p>If you want to become a financial analyst, a finance manager, an FP&amp;A analyst, an investment banker, a business executive, an entrepreneur, a business intelligence analyst, a data analyst, or a data scientist, <strong>365 Careers’ courses are the perfect place to start.&nbsp;</strong>\n\n</p>"
+    }
+}

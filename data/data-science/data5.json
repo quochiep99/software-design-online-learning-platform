@@ -1,0 +1,151 @@
+{
+    "field": {
+        "name": "data-science",
+        "courses": []
+    },
+    "course": {
+        "title": "Deep Learning A-Z™: Hands-On Artificial Neural Networks",
+        "subtitle": "Learn to create Deep Learning Algorithms in Python from two Machine Learning & Data Science experts. Templates included.",
+        "descriptions": [],
+        "reviews": [],
+        "students": [],
+        "image1xURL": "https://img-a.udemycdn.com/course/240x135/1151632_de9b.jpg",
+        "image2xURL": "https://img-a.udemycdn.com/course/480x270/1151632_de9b.jpg",
+        "image3xURL": "https://img-a.udemycdn.com/course/750x422/1151632_de9b.jpg",
+        "discountPrice": 11.99,
+        "originalPrice": 129.99,
+        "numViews": 0,
+        "curriculum": []
+    },
+    "reviews": [
+        {
+            "body": "This is one of the best courses available in the Udemy to start your journey for the Deep Learning. Its well designed and well explained by Kiril and Handelin. This courses really helped me to understand the basic concepts of Deep Learning and also guided me build our own model. This is my 2nd course by SuperDataScience team and it's really great.",
+            "rating": 5
+        },
+        {
+            "body": "Overall, this is a very good intro to the subject of Deep Learning. One thing, however, that was nagging at me throughout the entirety of the course was whether I had the proper preparation. This course is listed as the first of the AI Engineer path on the SuperDataScience website. Therefore, I thought it would be the most appropriate course with which to begin, but the course may not be self-contained. There are many areas during which the instructors refer to another course (e.g., Machine Learning A-Z) and that worried me as to whether I should've taken it before starting this one. Nonetheless, I followed through pretty well, and you should too if you have previous experience in Python.\n\nOne thing I would advise the instructors to do is to keep these courses as self-contained as possible and not even mention materials from other courses if there are no prerequisites. That or simply include the necessary modules in the Annex.",
+            "rating": 4.5
+        },
+        {
+            "body": "Did the ML course and jumped to this as I knew some starting concepts of ANN and CNN it became easy to understand RNN, SOM, Boltzmann machines, AutoEncoders.Overall the PyTorch tutorials were very complex and not explained that nicely had to search different platforms for that and update the theory for Boltzmann machines it's very little and complex overall it was a good course.",
+            "rating": 4
+        },
+        {
+            "body": "Good intro class! I actually used the knowledge learned here for a real life project",
+            "rating": 5
+        },
+        {
+            "body": "Overall, the course was amazingly stunning. Appreciated the teaching style which included re-iteriation, building from simplicity and encouragement to pracice",
+            "rating": 5
+        },
+        {
+            "body": "I appreciate the course's structure which in my opinion was well planned. I like how the concepts are first explored and then there is coding. It is great to see how much effort was put to bring in the most important algorithms in this single course. However, I feel the course requires an in-depth explanation. There is room for improvement in explaining certain concepts as to Why, When, and How are they used. While explaining a few code constructs, I noticed the same could be done in 10 other ways but it wasn't clearly conveyed as to why a particular logic is chosen over the other. Overall, I do appreciate the attempt by your team to make things as simple as possible and I expect your team to come up with an even deeper explanation of concepts and code alike.",
+            "rating": 3
+        },
+        {
+            "body": "I really enjoyed this course. I helped to understand and define the concepts in deep learning / AI. This will definitely help me in my journey.",
+            "rating": 5
+        },
+        {
+            "body": "Most of the sections are great! But for sections of Boltzmann Machine & Auto-Encoder, the lecturer skipped some critical details and asked students to read the papers they provided (especially for the auto-encoder section). If the lecturer can explain it instead of asking me to self-study, this course will be a 5-star one!",
+            "rating": 4.5
+        },
+        {
+            "body": "ating: 5.0 out of 5\n2 months ago\n\nTaking this since I am out of work and considering changing careers. This is definitely a good course and can be a foundation for this field. Thanks.",
+            "rating": 5
+        },
+        {
+            "body": "Sometimes I feel like I did not get the gist of the concepts. The basic principles were not clear.\n\nI feel that it was incomplete when I heard \"This concept is full of mathematics, we are not going to see this, we will jump...\"\n\nI do not like the way the folders where organized. Why dont use an order like section and chapter?\n\nI wish I could organize a portafolio with better examples and exercises.\n\nI had the idea to deep my knowledge about deep learning, but it was not. I am thinking about getting another course.\n\nI feel I did not learn the basis as I expected!",
+            "rating": 2.5
+        },
+        {
+            "body": "The topics were greatly explained by the instructor Kirill Ermenko in very professionally-basic way, which helped understand many complex topics easily. Thank You Kirill! Happy Learning!!",
+            "rating": 5
+        },
+        {
+            "body": "I am an indian learner. So, I am less comfortable with the English accent. Some sentences are not clear to me.\n\nBy the way, course content is very good.",
+            "rating": 3
+        }
+    ],
+    "students": [
+        {
+            "name": "Somnath Dey",
+            "email": "somnathdey@gmail.com",
+            "password": "somnathdey",
+            "role": "s"
+        },
+        {
+            "name": "Frederick Zhang",
+            "email": "frederickzhang@gmail.com",
+            "password": "frederickzhang",
+            "role": "s"
+        },
+        {
+            "name": "Abhishek Bajaj",
+            "email": "abhishekbajaj@gmail.com",
+            "password": "abhishekbajaj",
+            "role": "s"
+        },
+        {
+            "name": "Tianxing Ma",
+            "email": "tianxingma@gmail.com",
+            "password": "tianxingma",
+            "role": "s"
+        },
+        {
+            "name": "Helena Rolle",
+            "email": "helenarolle@gmail.com",
+            "password": "helenarolle",
+            "role": "s"
+        },
+        {
+            "name": "Varchaleswari Ganugapati",
+            "email": "varchaleswariganugapati@gmail.com",
+            "password": "varchaleswariganugapati",
+            "role": "s"
+        },
+        {
+            "name": "Brent Allen",
+            "email": "brentallen@gmail.com",
+            "password": "brentallen",
+            "role": "s"
+        },
+        {
+            "name": "紀俊男 Robert",
+            "email": "紀俊男robert@gmail.com",
+            "password": "紀俊男robert",
+            "role": "s"
+        },
+        {
+            "name": "James Michael Santiago",
+            "email": "jamesmichaelsantiago@gmail.com",
+            "password": "jamesmichaelsantiago",
+            "role": "s"
+        },
+        {
+            "name": "Tatiana Guanangui",
+            "email": "tatianaguanangui@gmail.com",
+            "password": "tatianaguanangui",
+            "role": "s"
+        },
+        {
+            "name": "Tejas Patange",
+            "email": "tejaspatange@gmail.com",
+            "password": "tejaspatange",
+            "role": "s"
+        },
+        {
+            "name": "Mohd Irfan",
+            "email": "mohdirfan@gmail.com",
+            "password": "mohdirfan",
+            "role": "s"
+        }
+    ],
+    "instructor": {
+        "name": "Kirill Eremenko",
+        "email": "kirilleremenko@gmail.com",
+        "password": "kirilleremenko",
+        "role": "i",
+        "briefIntroduction": "<p>My name is Kirill Eremenko and I am super-psyched that you are reading this!</p><p>Professionally, I am a Data Science management consultant with over five years of experience in finance, retail, transport and other industries. I was trained by the best analytics mentors at Deloitte Australia and today I leverage Big Data to drive business strategy, revamp customer experience and revolutionize existing operational processes.</p><p>From my courses you will straight away notice how I combine my real-life experience and academic background in Physics and Mathematics to deliver professional step-by-step coaching in the space of Data Science. I am also passionate about public speaking, and regularly present on Big Data at leading Australian universities and industry events.</p><p>To sum up, I am absolutely and utterly passionate about Data Science and I am looking forward to sharing my passion and knowledge with you!</p>"
+    }
+}
