@@ -1,0 +1,205 @@
+{
+    "field": {
+        "name": "game-development",
+        "courses": []
+    },
+    "course": {
+        "title": "Complete C# Unity Game Developer 2D",
+        "subtitle": "Learn Unity in C# & Code Your First Seven 2D Video Games for Web, Mac & PC. The Tutorials Cover Tilemap (35 hours)",
+        "descriptions": [],
+        "reviews": [],
+        "students": [],
+        "image1xURL": "https://img-a.udemycdn.com/course/240x135/258316_55e9_8.jpg",
+        "image2xURL": "https://img-a.udemycdn.com/course/480x270/258316_55e9_8.jpg",
+        "image3xURL": "https://img-a.udemycdn.com/course/750x422/258316_55e9_8.jpg",
+        "discountPrice": 11.99,
+        "originalPrice": 129.99,
+        "numViews": 0,
+        "curriculum": []
+    },
+    "reviews": [
+        {
+            "body": "This is a great course. I have learned a lot in this course and Rick explains things clearly as well as Ben being helpful too. Even though Rick is using 2017/2018 version of Unity and in 2020 version there are some things have changed, you can find most of the answers in the question area and Nina (Teaching Assistant) has been very helpful in answering questions. I am sure I will be back here to recap now and then. Looking forward to Rick's and Ben's 3D course now.",
+            "rating": 5
+        },
+        {
+            "body": "It has some nice basis, I think some tools could be explained some more, but in general it is a very good course to start, preferably if you have some training in programming. The chapters with Ben talk are very cool, he has a way of explaning some concepts compared to real life events that is very good to learn.",
+            "rating": 4.5
+        },
+        {
+            "body": "Very exciting and interesting course! Great value for money and I learned tons; hence why I've enrolled on the 3D course! See you there!",
+            "rating": 4.5
+        },
+        {
+            "body": "Definitely a decent course to get started with Unity Engine, I quite liked the project-based learning approach offered in this course! I'd like to list out some downsides of the course where one of them is quite a major issue in my opinion:\n\n- This course is for complete beginners, in terms of both Unity & C#. Therefore, there are a lot of programming concepts that lack throughout the course, they always prefer to stay on the surface when it comes to coding. I just wish that there would've been a massive section that just focuses on C#, then we could've used some advanced code techniques in our games, or this course wouldn't have had any intentions to teach C#, and be just about Unity. But this is the way they had to go in order to sell more, which I honestly and completely understand, but I hope they don't mind me breaking a half point because of it :)\n\n- Some of the content is way too repetitive, they could've taught some new concepts instead of spending that much time on the same things over and over again!\n\nDespite all that, I quite enjoyed the course and looking forward to having an intermediate-advanced Unity 2D course offered by them!",
+            "rating": 4.5
+        },
+        {
+            "body": "I've just completed the whole course, and it's fantastic course all around. Lots of great challenges, clear explanations, and fun projects. Big thumbs up! I'm so much better at Unity development now than when I started. Be sure to take on all the challenges, though. Such a big part of the learning process.",
+            "rating": 5
+        },
+        {
+            "body": "Overall great course!! Really felt that I was able to learn a lot from the course which I can apply for the future. My only real complaint is that there are definitely a few moments throughout the course (Cough cough GlitchGarden) where you are taught one thing, then in another video what you are taught is disregarded and in the process of changing the code breaks the game. This has happened to several people from what I have read. So that part left a little sour taste in my mouth, but otherwise awesome!",
+            "rating": 4.5
+        },
+        {
+            "body": "Super-duper-excellonte (favourite Rick's words) or i don't know how to spell it, BUT...This course is amazing and give powerful information about 2D game development on PC or mobile platforms. I got a lot of useful material about UI, animations, tilemaps, communication between components and classes, sprites manipulation, scriptable objects and so on. All sorts of challenges (tests, in-build micro or macro challenges) give you very important practice and right experience in writing clear and work code...And many other cool things in this course. Next step: 3D course!",
+            "rating": 5
+        },
+        {
+            "body": "Really great course. Enjoyed it immensely and learned so much. Fantastic introduction for anyone wanting to make games in Unity but don't know where to begin. Highly recommended.",
+            "rating": 5
+        },
+        {
+            "body": "Overall it was a good course, point where I could find some difficulties:\n\n-there was a part in the Captus game where we were jumping from script to script, it felt kind of difficult to grasp an understanding there, and sometimes for me that part was not well-paced, that felt a bit advance so it was quite good too.\n\n-I think the course it's starting to fall back with the new updates in unity, like for example the new input system, but it's not too hard to implement that feature on your own doing some research, I do say it might take a couple of days or a whole week.\n\nPoints that deserve mention:\n\n-I usually ask a lot, and the responses were a massive help, big thanks here to Nina (I love her in secret already), and there were pretty well-thought responses by other students here too, thanks, guys.\n\n-the course it's not that difficult, the instructor it's not boring, and the chemistry between Rick and Ben were quite entertaining sometimes hehehe. Again I still found the course challenging, I even felt like throwing one time so the difficulty it's okay.\n\nLastly:\n\nThanks for this work, Rick & Ben.",
+            "rating": 4
+        },
+        {
+            "body": "This is definitely top notch online training! Ben and Rick have definitely put a lot of thought in the structure of the course. What I like the most is that they challenge you to get more independant. By the end of the lecture, more and more videos ask you to first complete a coding task, and then watch the lecture to compare your solution to what Rick did. This is the very definition of active learning, as it constantly challenges you and invite you to take action! It also helps that Rick is super enthusisastic, invested and funny, one of the best lecturers I've had (including high school and university)! Can only recommend! :)",
+            "rating": 5
+        },
+        {
+            "body": "Simply the best investment you can make on developing not only your Unity Engine Development Skills, but also several aspects of Entry-level C# programming, Game Design, and so much more.\n\nThe progression is well paced with some quizzes along the way and just-chatting videos here and there. Additionally, almost each video has a challenge that you are very much encouraged to attempt even if you think you can't. The variation of challenges is also well constructed as they have different difficulty levels according to the game you are working on.\n\nEvery single thing you learn, you will apply (or be challenged to) more than couple of times and in a different flavor as per the current project, so the repetition will help solidify and fill in any gaps.\n\nFinally, everything the long course description mentions is accurate and covered if not added upon. I can say that it certainly exceeded my expectations and left me wanting to take all of their other courses.\n\nIf you are wondering which Unity 2D course you want to enroll in from the hundreds available then this is a no-brainer.",
+            "rating": 5
+        },
+        {
+            "body": "Teaching of Rick is not good in the last section.",
+            "rating": 3.5
+        }
+    ],
+    "students": [
+        {
+            "name": "Adam Davies",
+            "email": "adamdavies@gmail.com",
+            "password": "adamdavies",
+            "role": "s"
+        },
+        {
+            "name": "GameDev.tv Team",
+            "email": "gamedev.tvteam@gmail.com",
+            "password": "gamedev.tvteam",
+            "role": "s"
+        },
+        {
+            "name": "Herbert Quijano",
+            "email": "herbertquijano@gmail.com",
+            "password": "herbertquijano",
+            "role": "s"
+        },
+        {
+            "name": "Olivier Royant",
+            "email": "olivierroyant@gmail.com",
+            "password": "olivierroyant",
+            "role": "s"
+        },
+        {
+            "name": "GameDev.tv Team",
+            "email": "gamedev.tvteam@gmail.com",
+            "password": "gamedev.tvteam",
+            "role": "s"
+        },
+        {
+            "name": "Ulaş Onat Alakent",
+            "email": "ulaşonatalakent@gmail.com",
+            "password": "ulaşonatalakent",
+            "role": "s"
+        },
+        {
+            "name": "Mike Smart",
+            "email": "mikesmart@gmail.com",
+            "password": "mikesmart",
+            "role": "s"
+        },
+        {
+            "name": "GameDev.tv Team",
+            "email": "gamedev.tvteam@gmail.com",
+            "password": "gamedev.tvteam",
+            "role": "s"
+        },
+        {
+            "name": "Dyston Madsen",
+            "email": "dystonmadsen@gmail.com",
+            "password": "dystonmadsen",
+            "role": "s"
+        },
+        {
+            "name": "GameDev.tv Team",
+            "email": "gamedev.tvteam@gmail.com",
+            "password": "gamedev.tvteam",
+            "role": "s"
+        },
+        {
+            "name": "Dmitry D",
+            "email": "dmitryd@gmail.com",
+            "password": "dmitryd",
+            "role": "s"
+        },
+        {
+            "name": "GameDev.tv Team",
+            "email": "gamedev.tvteam@gmail.com",
+            "password": "gamedev.tvteam",
+            "role": "s"
+        },
+        {
+            "name": "Zoe Donagher",
+            "email": "zoedonagher@gmail.com",
+            "password": "zoedonagher",
+            "role": "s"
+        },
+        {
+            "name": "GameDev.tv Team",
+            "email": "gamedev.tvteam@gmail.com",
+            "password": "gamedev.tvteam",
+            "role": "s"
+        },
+        {
+            "name": "L .",
+            "email": "l.@gmail.com",
+            "password": "l.",
+            "role": "s"
+        },
+        {
+            "name": "Ian Cherabier",
+            "email": "iancherabier@gmail.com",
+            "password": "iancherabier",
+            "role": "s"
+        },
+        {
+            "name": "GameDev.tv Team",
+            "email": "gamedev.tvteam@gmail.com",
+            "password": "gamedev.tvteam",
+            "role": "s"
+        },
+        {
+            "name": "Omar Salam",
+            "email": "omarsalam@gmail.com",
+            "password": "omarsalam",
+            "role": "s"
+        },
+        {
+            "name": "GameDev.tv Team",
+            "email": "gamedev.tvteam@gmail.com",
+            "password": "gamedev.tvteam",
+            "role": "s"
+        },
+        {
+            "name": "Sourav Verma",
+            "email": "souravverma@gmail.com",
+            "password": "souravverma",
+            "role": "s"
+        },
+        {
+            "name": "GameDev.tv Team",
+            "email": "gamedev.tvteam@gmail.com",
+            "password": "gamedev.tvteam",
+            "role": "s"
+        }
+    ],
+    "instructor": {
+        "name": "Ben Tristem",
+        "email": "bentristem@gmail.com",
+        "password": "bentristem",
+        "role": "i",
+        "briefIntroduction": "<p>Hi, I'm Ben. I have a degree in computing from Imperial College London, and a physics diploma from the Open University.&nbsp; </p><p>I started working for myself at the age of 15, and never looked back. I explored careers as varied as being a commercial pilot, stunt-man, rock climbing instructor, and more. None of these provided a continued challenge, and stable income in the same way technology does.&nbsp; </p><p>After building and selling a home computer support business, I became an angel investor and business mentor here in Cambridge UK. I fell in love with teaching game development through one of my investments, and I now spend all of my time sharing my passion with people like you.&nbsp; </p><p>I can't wait to help you experience the fulfilment, and financial freedom, that having a deep understanding of technology brings.&nbsp; </p><p>So why not start learning to make games with me and my team now? </p><p>See you soon!&nbsp; </p><p>Ben</p>"
+    }
+}

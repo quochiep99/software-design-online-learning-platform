@@ -1,0 +1,151 @@
+{
+    "field": {
+        "name": "game-development",
+        "courses": []
+    },
+    "course": {
+        "title": "Unreal Engine 4: The Complete Beginner's Course",
+        "subtitle": "Learn Video Game Development & How To Design a Game From Scratch Using UE4",
+        "descriptions": [],
+        "reviews": [],
+        "students": [],
+        "image1xURL": "https://img-a.udemycdn.com/course/240x135/660600_39b2_3.jpg",
+        "image2xURL": "https://img-a.udemycdn.com/course/480x270/660600_39b2_3.jpg",
+        "image3xURL": "https://img-a.udemycdn.com/course/750x422/660600_39b2_3.jpg",
+        "discountPrice": 11.99,
+        "originalPrice": 129.99,
+        "numViews": 0,
+        "curriculum": []
+    },
+    "reviews": [
+        {
+            "body": "The Unreal Engine 4: Complete Beginner's Course is very well explained by Instructor David Nixon and completely upto the mark. This course is perfect for those wanting a basic overview of what Unreal Engine 4 really is, and of course the Demo platformer game is really satisfactory after all the concepts being learnt. All his lectures are pretty straightforward and easy to understand, there are no uses of fancy vocabulary, no manner of difficult grammar usage, perfect for anyone practically. The most impressive thing about David Nixon's explanation is that he goes on to give a clear understanding and clarity of even the tiniest of things (like importing files by dragging it from another folder to UE4 content browser or exporting audio files in Audacity) that may seem trivial to some but in actuality it's helping a lot of people!\n\nBased on my experience and learning patterns from David's lectures, I will definitely rate this course a 10/10 !",
+            "rating": 5
+        },
+        {
+            "body": "It was very informal and precise.. It was easy to understand and follow most of the time! Am just throwing a suggestion here. I would like a course going through unreal engine nodes more thoroughly, explaining them and using them in context with concrete practices! All in all, I had a great time learning with this course!",
+            "rating": 4.5
+        },
+        {
+            "body": "Good explanation of basic features of the Editor. But the Tutorials, the most important part, are wrong.\n\nIf you follow the instruction you end up with a character that is not set up properly and it glitches through walls, thats because they make the character lean forward and backward",
+            "rating": 1
+        },
+        {
+            "body": "Very good course for complete beginners to Unreal & game dev in general. All of the most important UE concepts are covered in the course and there is also a nice little demo project, where the concepts are applied in a practical context.",
+            "rating": 5
+        },
+        {
+            "body": "I loved the style of going through the details of the tool and then using tutorials to bring it all together. My boys loved the game that was made.",
+            "rating": 4
+        },
+        {
+            "body": "Given that I have 0 experience at all doing anything with game design and my first time/course on Unreal Engine, this class is perfect. Everything is explained in depth which is very helpful for a beginner. I highly recommend this course to others who are new looking to find a starting point.",
+            "rating": 5
+        },
+        {
+            "body": "I highly recommend this course for anyone who wants to start their journey with UE. Everything is well explained, author will guide you step by step from easiest to more complex issues and will help you if you get stuck on anything. Don't hasitate and just start this course, you wont regret it!",
+            "rating": 5
+        },
+        {
+            "body": "It was good overall, but during blueprint sessions it would have been nice if more explanation was given on the inputs. I would still recommend the course though as I found they went over the a lot of useful information.",
+            "rating": 3.5
+        },
+        {
+            "body": "Cours wasn't easy to follow as the tutor's voice and the video was often out of sync. Also, this course approach is more \"do this and that, click here and there\" than \"do this because of ...\". I think this course would have been more helpful if explanations were while you making a game, rather than before real action. Also, the tutor's speech seems to be recorded with different microphones, and therefore the sound often suddenly changes back and forth. Ocassionly there is loud background noise. However, tutor himself seems to be knowledgeable, but unfortunately, the course quality feels poor. But this is just my personal experience, it might feel different for you.",
+            "rating": 2.5
+        },
+        {
+            "body": "Great beginners course and one i wish i would have taken prior to taking any other unreal course. If you find that approaching a large and powerful engine such as unreal is easier when you first have a firm grip on the basics then this course will be just right for you.\n\nAfter this, you'll find the other courses on Unreal Engine much easier to jump into as you will already understand how and why the engine works.\n\nIt's well taught, topics are concise without too much fluff and i was able to go through it fairly quickly and much of it will serve as a great refresher i'm sure when working on my own projects.\n\ni recommend it highly.\n\nThank you David.",
+            "rating": 5
+        },
+        {
+            "body": "Quick and thorough beginner tutorial on Blueprints in Unreal. Explains all the important functions of the engine and shows them in a self built example. Exactly what I was expecting. Thanks a lot! Definitely recommended.",
+            "rating": 4
+        },
+        {
+            "body": "maybe a lot of this comes down to me trying to guess what function is next in accomplishing something, like some kind of mystery novel, but I find this tutorial to be perfectly paced.\n\nBecause UNLIKE most tutorials, it isn't plunging immediately into making an extremely basic (and insulting) game, it has you building the skeleton of a game. The parts that are present in pretty much everything. Things as simple and important as being unable to trigger the animation to clear an obstacle unless you have a certain item.\n\nUltimately udemy has to compete with youtube, and in my experience, the youtube alternatives to this commercial are version-outdated and don't work on important constituent parts first.\n\nThe problem is the Timelines-themed videos halfway through the course.\n\nThey're utterly incomprehensible to a layman. the narrator simply says what he's doing and never why, how it works, why it needs to be done, how it's interfacing with anything, etc.",
+            "rating": 3.5
+        }
+    ],
+    "students": [
+        {
+            "name": "Āditya Gaurānga",
+            "email": "ādityagaurānga@gmail.com",
+            "password": "ādityagaurānga",
+            "role": "s"
+        },
+        {
+            "name": "Vincent Riberdy",
+            "email": "vincentriberdy@gmail.com",
+            "password": "vincentriberdy",
+            "role": "s"
+        },
+        {
+            "name": "Riccardo Tolli",
+            "email": "riccardotolli@gmail.com",
+            "password": "riccardotolli",
+            "role": "s"
+        },
+        {
+            "name": "Konsta Kirkkola",
+            "email": "konstakirkkola@gmail.com",
+            "password": "konstakirkkola",
+            "role": "s"
+        },
+        {
+            "name": "Bradley Shroyer",
+            "email": "bradleyshroyer@gmail.com",
+            "password": "bradleyshroyer",
+            "role": "s"
+        },
+        {
+            "name": "Clay Richey",
+            "email": "clayrichey@gmail.com",
+            "password": "clayrichey",
+            "role": "s"
+        },
+        {
+            "name": "Paweł Adamczyk",
+            "email": "paweładamczyk@gmail.com",
+            "password": "paweładamczyk",
+            "role": "s"
+        },
+        {
+            "name": "Nicholas Deleff",
+            "email": "nicholasdeleff@gmail.com",
+            "password": "nicholasdeleff",
+            "role": "s"
+        },
+        {
+            "name": "Kermo Pukk",
+            "email": "kermopukk@gmail.com",
+            "password": "kermopukk",
+            "role": "s"
+        },
+        {
+            "name": "Tony Mbatia",
+            "email": "tonymbatia@gmail.com",
+            "password": "tonymbatia",
+            "role": "s"
+        },
+        {
+            "name": "Ray Miecznikowski",
+            "email": "raymiecznikowski@gmail.com",
+            "password": "raymiecznikowski",
+            "role": "s"
+        },
+        {
+            "name": "Dustin",
+            "email": "dustin@gmail.com",
+            "password": "dustin",
+            "role": "s"
+        }
+    ],
+    "instructor": {
+        "name": "David Nixon",
+        "email": "davidnixon@gmail.com",
+        "password": "davidnixon",
+        "role": "i",
+        "briefIntroduction": "<p>David Nixon is a professional software developer and amateur game developer who holds a degree in Computer Science from Florida Atlantic University. He started his career developing websites and providing SEO services for companies nationwide. He then dove into the world of mobile gaming, developing the game Puzzlers. Recently, he worked as a web developer for a major SaaS company.</p>"
+    }
+}

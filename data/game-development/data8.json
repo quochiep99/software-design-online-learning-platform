@@ -1,0 +1,151 @@
+{
+    "field": {
+        "name": "game-development",
+        "courses": []
+    },
+    "course": {
+        "title": "Unreal Engine 4 Mastery: Create Multiplayer Games with C++",
+        "subtitle": "Unleash the power of C++ and Blueprint to develop Multiplayer Games with AI in this Epic Games-approved course.",
+        "descriptions": [],
+        "reviews": [],
+        "students": [],
+        "image1xURL": "https://img-a.udemycdn.com/course/240x135/1334868_f4f7_10.jpg",
+        "image2xURL": "https://img-a.udemycdn.com/course/480x270/1334868_f4f7_10.jpg",
+        "image3xURL": "https://img-a.udemycdn.com/course/750x422/1334868_f4f7_10.jpg",
+        "discountPrice": 11.99,
+        "originalPrice": 129.99,
+        "numViews": 0,
+        "curriculum": []
+    },
+    "reviews": [
+        {
+            "body": "I learned a lot of new things about Unreal, the behaviour trees, EQS and such. I liked that there were actual projects being worked through from start to finish. Towards the later lessons, it sometimes seemed that the lecturer was a bit in a hurry. I was following along step-by-step and often the current line of code was finished and scrolled away before I could examine it. Fortunately it was always possible to rewind a little.\n\nOn one hand it was a bit annoying that the lector often the names of classes or blueprints after already creating them, on the other hand I understand that this is all part and parcel of game development. I also liked that there were actual errors on screen so that troubleshooting those could also be practiced.\n\nAltogether, I enjoyed the course very much!",
+            "rating": 4.5
+        },
+        {
+            "body": "Tom is really a good teacher, everything he taught in this course is quite helpful to understand Unreal Engine and i am glad that i took this course.",
+            "rating": 5
+        },
+        {
+            "body": "Very good course. However the multiplayer/replication parts were not very well explained (imo). I learn better from figures and stuff but Tom focused more on coding and showed some examples here and there. So you will need to learn the concepts elsewhere if you need full understanding of how the unreal multiplayer networking works. Overall, a very good course. Would recommend to a friend!",
+            "rating": 4.5
+        },
+        {
+            "body": "An iIncredible course covering a wide range of topics and helps you build the fundamentals of two common videogame genres: Stealth and Shooter.\n\nHe covers each subject in-depth and gives plenty of practical examples and opportunities for you to improve and apply what you have learnt.\n\nBy the end of the course you'll have two functional prototypes that you can expand on or even combine into a single game.\n\nTom provides a clear briefing prior to each section and provides clear understanding and enthusiasm in the lessons.",
+            "rating": 5
+        },
+        {
+            "body": "It was great, it was summarize of my knowledge and beyond that as developer I also discover some great tool\n\nBut I expected some Sections about UI. Launch Server and Join Server",
+            "rating": 5
+        },
+        {
+            "body": "This is a great course for someone to learn how to make games with C++ and Unreal Engine. Tom is great at explaining things. I used version 4.24 and had to figure out somethings that have changed. The great part is you can check the Git repo and Tom has updated the code for 4.25 version.\n\nGreat course and I have learned so much. The EQS and advanced AI section was great.",
+            "rating": 5
+        },
+        {
+            "body": "The information and overall learning experience was good. Easily 5 stars if it was updated to keep up with current Unreal Engine version (or at least not as old as 8 versions back). However, the content is out dated in many lectures. And there's loads potential bugs and errors. In fact in the last lecture He gets an error in the editor which he completely ignores and didn't even tell us what it was and how to fix it. In my case I use 4.26p with VS2019. I ended up with many errors on things like an Array error, or some classes don't even exist, warnings about debricated functions.. and few more. Luckily I know Blueprint so I tried to fix as much as I could but it would be great if the lecturer actually keeps this great course up to date.\n\nFinally, I really would have loved this course if the lecturer actually communicate with us and answer our questions.\n\nOverall, great course but be ready to fix a lot of problems yourself. So, rely too much on his methods as you'll find many things he does are outdated!",
+            "rating": 3
+        },
+        {
+            "body": "The instructor is very clear.\n\nIf you plan on using the most up to date engine, you will run into some issues. However, all of the QA's for each lecture have and up to date method.\n\nTom still replies to questions which is always a big help!",
+            "rating": 5
+        },
+        {
+            "body": "Tom Looman is a great instructor because he explains all steps rather than simply expecting me to follow along. I actually understand what I’m doing so I can implement what I’ve learned in my own way on my projects in the future. He also replies to his questions section in a reasonable time frame. His course is very well done.",
+            "rating": 5
+        },
+        {
+            "body": "It was exactly what I was looking for, it helped me train my C++, I learned a lot of UE4's C++ and gave me many useful tools to face different and varied problems and features.\n\nLast but not the least the teacher looks very experienced and keeps answering the questions and updating the resources to the course!",
+            "rating": 5
+        },
+        {
+            "body": "El curso es perfecto para comenzar a utilizar el engine y acabas haciendo varios minijuegos. Tambien te enseña a replicarlo por red pero aunque no te interese hacer un juego online recomiendo el curso porque te enseña primero a hacerlo en single player. El profesor, Tom Looman, explica todos los temas de forma super clara, le doy un 10!",
+            "rating": 5
+        },
+        {
+            "body": "Went a bit to quickly at times and felt like I was consitently pausing the video.\n\nWith little experience of UE4 so far I felt like the techniques he was using were not optimised or best practice and started to teach people bad practices like copy and pasting code.\n\nSome lectures just cut off immedietly and it seemed like he was in mid sentence.",
+            "rating": 3
+        }
+    ],
+    "students": [
+        {
+            "name": "Sander Liivandi",
+            "email": "sanderliivandi@gmail.com",
+            "password": "sanderliivandi",
+            "role": "s"
+        },
+        {
+            "name": "Muhammad Asad",
+            "email": "muhammadasad@gmail.com",
+            "password": "muhammadasad",
+            "role": "s"
+        },
+        {
+            "name": "Harsh Jalutharia",
+            "email": "harshjalutharia@gmail.com",
+            "password": "harshjalutharia",
+            "role": "s"
+        },
+        {
+            "name": "Kieran Latham",
+            "email": "kieranlatham@gmail.com",
+            "password": "kieranlatham",
+            "role": "s"
+        },
+        {
+            "name": "Levan Phirtskhalava",
+            "email": "levanphirtskhalava@gmail.com",
+            "password": "levanphirtskhalava",
+            "role": "s"
+        },
+        {
+            "name": "Chris Hall",
+            "email": "chrishall@gmail.com",
+            "password": "chrishall",
+            "role": "s"
+        },
+        {
+            "name": "Raed Abbas",
+            "email": "raedabbas@gmail.com",
+            "password": "raedabbas",
+            "role": "s"
+        },
+        {
+            "name": "M I",
+            "email": "mi@gmail.com",
+            "password": "mi",
+            "role": "s"
+        },
+        {
+            "name": "Drew",
+            "email": "drew@gmail.com",
+            "password": "drew",
+            "role": "s"
+        },
+        {
+            "name": "Davide Tucci",
+            "email": "davidetucci@gmail.com",
+            "password": "davidetucci",
+            "role": "s"
+        },
+        {
+            "name": "Cristian Fernández Suárez",
+            "email": "cristianfernándezsuárez@gmail.com",
+            "password": "cristianfernándezsuárez",
+            "role": "s"
+        },
+        {
+            "name": "Kieran Grist",
+            "email": "kierangrist@gmail.com",
+            "password": "kierangrist",
+            "role": "s"
+        }
+    ],
+    "instructor": {
+        "name": "Tom Looman",
+        "email": "tomlooman@gmail.com",
+        "password": "tomlooman",
+        "role": "i",
+        "briefIntroduction": "<p>Hi, my name is Tom. I'm a game developer who has worked with Unreal Engine 4 since day 1, both as an indie developer and as an engineer at Epic Games, the creators of Unreal Engine 4! Over the years I <strong>created 70+ tutorials and samples</strong> for the Unreal Engine community!<br></p><p>Through my courses I hope to teach you some of what I learned over the years and help you get started building your very own games! I enjoy explaining concepts by going hands-on and showing by example. I’m passionate about taking seemingly difficult concepts and boiling them down into simple to follow guides. My goal is to make game development approachable to anyone who is willing to learn. </p><p>Besides teaching and writing about games, I work on games every day, which keeps me up-to-date on Unreal Engine 4, C++, and the game creation process. I learn new things every day, which I then apply to my courses. </p><p><strong>Join me on this game development adventure, and I hope to&nbsp;see you in one of my courses!</strong></p><p><br></p>"
+    }
+}

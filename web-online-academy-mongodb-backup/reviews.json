@@ -12286,4 +12286,3076 @@
   "author": {
     "$oid": "5fd31d4ea22a3e5328695443"
   }
+},{
+  "_id": {
+    "$oid": "5fd32ac7ef07ea421c853048"
+  },
+  "body": "This is a great course. I have learned a lot in this course and Rick explains things clearly as well as Ben being helpful too. Even though Rick is using 2017/2018 version of Unity and in 2020 version there are some things have changed, you can find most of the answers in the question area and Nina (Teaching Assistant) has been very helpful in answering questions. I am sure I will be back here to recap now and then. Looking forward to Rick's and Ben's 3D course now.",
+  "rating": 5,
+  "createdAt": {
+    "$date": "2020-12-11T08:16:07.598Z"
+  },
+  "updatedAt": {
+    "$date": "2020-12-11T08:16:08.608Z"
+  },
+  "__v": 0,
+  "author": {
+    "$oid": "5fd31d4da22a3e5328695438"
+  }
+},{
+  "_id": {
+    "$oid": "5fd32ac7ef07ea421c853049"
+  },
+  "body": "It has some nice basis, I think some tools could be explained some more, but in general it is a very good course to start, preferably if you have some training in programming. The chapters with Ben talk are very cool, he has a way of explaning some concepts compared to real life events that is very good to learn.",
+  "rating": 4.5,
+  "createdAt": {
+    "$date": "2020-12-11T08:16:07.598Z"
+  },
+  "updatedAt": {
+    "$date": "2020-12-11T08:16:08.609Z"
+  },
+  "__v": 0,
+  "author": {
+    "$oid": "5fd31d4ea22a3e5328695439"
+  }
+},{
+  "_id": {
+    "$oid": "5fd32ac7ef07ea421c85304a"
+  },
+  "body": "Very exciting and interesting course! Great value for money and I learned tons; hence why I've enrolled on the 3D course! See you there!",
+  "rating": 4.5,
+  "createdAt": {
+    "$date": "2020-12-11T08:16:07.598Z"
+  },
+  "updatedAt": {
+    "$date": "2020-12-11T08:16:08.610Z"
+  },
+  "__v": 0,
+  "author": {
+    "$oid": "5fd31d4ea22a3e532869543a"
+  }
+},{
+  "_id": {
+    "$oid": "5fd32ac7ef07ea421c85304b"
+  },
+  "body": "Definitely a decent course to get started with Unity Engine, I quite liked the project-based learning approach offered in this course! I'd like to list out some downsides of the course where one of them is quite a major issue in my opinion:\n\n- This course is for complete beginners, in terms of both Unity & C#. Therefore, there are a lot of programming concepts that lack throughout the course, they always prefer to stay on the surface when it comes to coding. I just wish that there would've been a massive section that just focuses on C#, then we could've used some advanced code techniques in our games, or this course wouldn't have had any intentions to teach C#, and be just about Unity. But this is the way they had to go in order to sell more, which I honestly and completely understand, but I hope they don't mind me breaking a half point because of it :)\n\n- Some of the content is way too repetitive, they could've taught some new concepts instead of spending that much time on the same things over and over again!\n\nDespite all that, I quite enjoyed the course and looking forward to having an intermediate-advanced Unity 2D course offered by them!",
+  "rating": 4.5,
+  "createdAt": {
+    "$date": "2020-12-11T08:16:07.598Z"
+  },
+  "updatedAt": {
+    "$date": "2020-12-11T08:16:08.611Z"
+  },
+  "__v": 0,
+  "author": {
+    "$oid": "5fd31d4ea22a3e532869543b"
+  }
+},{
+  "_id": {
+    "$oid": "5fd32ac7ef07ea421c85304c"
+  },
+  "body": "I've just completed the whole course, and it's fantastic course all around. Lots of great challenges, clear explanations, and fun projects. Big thumbs up! I'm so much better at Unity development now than when I started. Be sure to take on all the challenges, though. Such a big part of the learning process.",
+  "rating": 5,
+  "createdAt": {
+    "$date": "2020-12-11T08:16:07.598Z"
+  },
+  "updatedAt": {
+    "$date": "2020-12-11T08:16:08.612Z"
+  },
+  "__v": 0,
+  "author": {
+    "$oid": "5fd31d4ea22a3e532869543c"
+  }
+},{
+  "_id": {
+    "$oid": "5fd32ac7ef07ea421c85304d"
+  },
+  "body": "Overall great course!! Really felt that I was able to learn a lot from the course which I can apply for the future. My only real complaint is that there are definitely a few moments throughout the course (Cough cough GlitchGarden) where you are taught one thing, then in another video what you are taught is disregarded and in the process of changing the code breaks the game. This has happened to several people from what I have read. So that part left a little sour taste in my mouth, but otherwise awesome!",
+  "rating": 4.5,
+  "createdAt": {
+    "$date": "2020-12-11T08:16:07.598Z"
+  },
+  "updatedAt": {
+    "$date": "2020-12-11T08:16:08.614Z"
+  },
+  "__v": 0,
+  "author": {
+    "$oid": "5fd31d4ea22a3e532869543d"
+  }
+},{
+  "_id": {
+    "$oid": "5fd32ac7ef07ea421c85304e"
+  },
+  "body": "Super-duper-excellonte (favourite Rick's words) or i don't know how to spell it, BUT...This course is amazing and give powerful information about 2D game development on PC or mobile platforms. I got a lot of useful material about UI, animations, tilemaps, communication between components and classes, sprites manipulation, scriptable objects and so on. All sorts of challenges (tests, in-build micro or macro challenges) give you very important practice and right experience in writing clear and work code...And many other cool things in this course. Next step: 3D course!",
+  "rating": 5,
+  "createdAt": {
+    "$date": "2020-12-11T08:16:07.598Z"
+  },
+  "updatedAt": {
+    "$date": "2020-12-11T08:16:08.617Z"
+  },
+  "__v": 0,
+  "author": {
+    "$oid": "5fd31d4ea22a3e532869543e"
+  }
+},{
+  "_id": {
+    "$oid": "5fd32ac7ef07ea421c85304f"
+  },
+  "body": "Really great course. Enjoyed it immensely and learned so much. Fantastic introduction for anyone wanting to make games in Unity but don't know where to begin. Highly recommended.",
+  "rating": 5,
+  "createdAt": {
+    "$date": "2020-12-11T08:16:07.598Z"
+  },
+  "updatedAt": {
+    "$date": "2020-12-11T08:16:08.618Z"
+  },
+  "__v": 0,
+  "author": {
+    "$oid": "5fd31d4ea22a3e532869543f"
+  }
+},{
+  "_id": {
+    "$oid": "5fd32ac7ef07ea421c853050"
+  },
+  "body": "Overall it was a good course, point where I could find some difficulties:\n\n-there was a part in the Captus game where we were jumping from script to script, it felt kind of difficult to grasp an understanding there, and sometimes for me that part was not well-paced, that felt a bit advance so it was quite good too.\n\n-I think the course it's starting to fall back with the new updates in unity, like for example the new input system, but it's not too hard to implement that feature on your own doing some research, I do say it might take a couple of days or a whole week.\n\nPoints that deserve mention:\n\n-I usually ask a lot, and the responses were a massive help, big thanks here to Nina (I love her in secret already), and there were pretty well-thought responses by other students here too, thanks, guys.\n\n-the course it's not that difficult, the instructor it's not boring, and the chemistry between Rick and Ben were quite entertaining sometimes hehehe. Again I still found the course challenging, I even felt like throwing one time so the difficulty it's okay.\n\nLastly:\n\nThanks for this work, Rick & Ben.",
+  "rating": 4,
+  "createdAt": {
+    "$date": "2020-12-11T08:16:07.598Z"
+  },
+  "updatedAt": {
+    "$date": "2020-12-11T08:16:08.619Z"
+  },
+  "__v": 0,
+  "author": {
+    "$oid": "5fd31d4ea22a3e5328695440"
+  }
+},{
+  "_id": {
+    "$oid": "5fd32ac7ef07ea421c853051"
+  },
+  "body": "This is definitely top notch online training! Ben and Rick have definitely put a lot of thought in the structure of the course. What I like the most is that they challenge you to get more independant. By the end of the lecture, more and more videos ask you to first complete a coding task, and then watch the lecture to compare your solution to what Rick did. This is the very definition of active learning, as it constantly challenges you and invite you to take action! It also helps that Rick is super enthusisastic, invested and funny, one of the best lecturers I've had (including high school and university)! Can only recommend! :)",
+  "rating": 5,
+  "createdAt": {
+    "$date": "2020-12-11T08:16:07.599Z"
+  },
+  "updatedAt": {
+    "$date": "2020-12-11T08:16:08.620Z"
+  },
+  "__v": 0,
+  "author": {
+    "$oid": "5fd31d4ea22a3e5328695441"
+  }
+},{
+  "_id": {
+    "$oid": "5fd32ac7ef07ea421c853052"
+  },
+  "body": "Simply the best investment you can make on developing not only your Unity Engine Development Skills, but also several aspects of Entry-level C# programming, Game Design, and so much more.\n\nThe progression is well paced with some quizzes along the way and just-chatting videos here and there. Additionally, almost each video has a challenge that you are very much encouraged to attempt even if you think you can't. The variation of challenges is also well constructed as they have different difficulty levels according to the game you are working on.\n\nEvery single thing you learn, you will apply (or be challenged to) more than couple of times and in a different flavor as per the current project, so the repetition will help solidify and fill in any gaps.\n\nFinally, everything the long course description mentions is accurate and covered if not added upon. I can say that it certainly exceeded my expectations and left me wanting to take all of their other courses.\n\nIf you are wondering which Unity 2D course you want to enroll in from the hundreds available then this is a no-brainer.",
+  "rating": 5,
+  "createdAt": {
+    "$date": "2020-12-11T08:16:07.599Z"
+  },
+  "updatedAt": {
+    "$date": "2020-12-11T08:16:08.621Z"
+  },
+  "__v": 0,
+  "author": {
+    "$oid": "5fd31d4ea22a3e5328695442"
+  }
+},{
+  "_id": {
+    "$oid": "5fd32ac7ef07ea421c853053"
+  },
+  "body": "Teaching of Rick is not good in the last section.",
+  "rating": 3.5,
+  "createdAt": {
+    "$date": "2020-12-11T08:16:07.599Z"
+  },
+  "updatedAt": {
+    "$date": "2020-12-11T08:16:08.621Z"
+  },
+  "__v": 0,
+  "author": {
+    "$oid": "5fd31d4ea22a3e5328695443"
+  }
+},{
+  "_id": {
+    "$oid": "5fd32ac8ef07ea421c853072"
+  },
+  "body": "Fantastic course. The updates have really improved the quality of the course significantly. The final section in particular is truly incredible work and leaves you with a piece of work you can feel proud of. The middle sections(section 4 and 5 in particular) could use some work, but as they are actively being updated to improve their shortcomings I'm sure this course will only become closer and closer to perfect with time.",
+  "rating": 4,
+  "createdAt": {
+    "$date": "2020-12-11T08:16:08.690Z"
+  },
+  "updatedAt": {
+    "$date": "2020-12-11T08:16:09.624Z"
+  },
+  "__v": 0,
+  "author": {
+    "$oid": "5fd31d4da22a3e5328695438"
+  }
+},{
+  "_id": {
+    "$oid": "5fd32ac8ef07ea421c853073"
+  },
+  "body": "One of the better Unreal courses by far! I bought this course when it originally released. I never completed it before (nothing to do with the quality of the first iteration, I was really enjoying the content, just had school and work tearing me apart and I fell off) but recently I started coding again and took the semester off so I decided to go back through it. I already knew my way around Unreal a little bit before starting, but I take every chance I get to try and learn more, and you guys managed to teach me more.\n\nI've made it through a few other courses before and they're never really informative (\"Alright, this is how you do this, this, and this. Give this thing a value of 5.f. Now call ThisFunctionYouWouldHaveNeverBeenAbleToFigureOut, make sure to include its header 'YadaYada/GoodLuckWhenYoureOnyourOwn.h'. Okay, great. Let me show you something else now.\") You guys really did a great job actually teaching instead of showing how to just copy code. I really love that there's almost always a challenge in each lecture, and that's honestly the thing that no one else seems to do. Now I'm super excited to meet back up with Michael to do his Blender course that I bought years ago as well. Cheers, guys!",
+  "rating": 5,
+  "createdAt": {
+    "$date": "2020-12-11T08:16:08.690Z"
+  },
+  "updatedAt": {
+    "$date": "2020-12-11T08:16:09.625Z"
+  },
+  "__v": 0,
+  "author": {
+    "$oid": "5fd31d4ea22a3e5328695439"
+  }
+},{
+  "_id": {
+    "$oid": "5fd32ac8ef07ea421c853074"
+  },
+  "body": "The course has taught me every basics of the Engine and its features as well as programming in C++.\n\nEdit: As mentioned before I'm very sad that I didn't have to see Ben teaching in the updated version of the course. He was the one who explained to me all the basic things that I was struggling with. After that I went through the whole updated course, but because Ben has taught me everything I needed to understand the concept of the Engine I had no problem to do all the challenges by myself. Also shout out to Sam Pattuzzi for also good presentations.",
+  "rating": 4.5,
+  "createdAt": {
+    "$date": "2020-12-11T08:16:08.690Z"
+  },
+  "updatedAt": {
+    "$date": "2020-12-11T08:16:09.626Z"
+  },
+  "__v": 0,
+  "author": {
+    "$oid": "5fd31d4ea22a3e532869543a"
+  }
+},{
+  "_id": {
+    "$oid": "5fd32ac8ef07ea421c853075"
+  },
+  "body": "I needed some information to understand how to start with Unreal Engine and this course was very useful for this.",
+  "rating": 5,
+  "createdAt": {
+    "$date": "2020-12-11T08:16:08.690Z"
+  },
+  "updatedAt": {
+    "$date": "2020-12-11T08:16:09.626Z"
+  },
+  "__v": 0,
+  "author": {
+    "$oid": "5fd31d4ea22a3e532869543b"
+  }
+},{
+  "_id": {
+    "$oid": "5fd32ac8ef07ea421c853076"
+  },
+  "body": "It's a well-done course for beginners, it's rich, fun, and not exhaustive like school academic courses.\n\nI hope u guys consider making intermediate level courses which can help people who had the experience in this course to begin Game development can upgrade their experiences even more.",
+  "rating": 5,
+  "createdAt": {
+    "$date": "2020-12-11T08:16:08.690Z"
+  },
+  "updatedAt": {
+    "$date": "2020-12-11T08:16:09.628Z"
+  },
+  "__v": 0,
+  "author": {
+    "$oid": "5fd31d4ea22a3e532869543c"
+  }
+},{
+  "_id": {
+    "$oid": "5fd32ac8ef07ea421c853077"
+  },
+  "body": "Overall a good course. It can be fast paced sometimes and some topics can and should be explained more. I almost gave up during toon tanks. The skill level seems to jump too much in between that and the section before it.",
+  "rating": 4,
+  "createdAt": {
+    "$date": "2020-12-11T08:16:08.690Z"
+  },
+  "updatedAt": {
+    "$date": "2020-12-11T08:16:09.629Z"
+  },
+  "__v": 0,
+  "author": {
+    "$oid": "5fd31d4ea22a3e532869543d"
+  }
+},{
+  "_id": {
+    "$oid": "5fd32ac8ef07ea421c853078"
+  },
+  "body": "Offers fantastic coverage of the Unreal Engine and its version of C++. The tutors are very good at pacing and explaining everything they are doing to ensure you do not miss something, or fail to understand why things work the way they do. There is a lot to take in and remember, but they offer consistent challenges every video to get you to practice what you have learnt. These things are often applied again at later stages as refreshers. I highly recommend this course for both beginners and intermediates. I look forward to trying their other courses! :)",
+  "rating": 5,
+  "createdAt": {
+    "$date": "2020-12-11T08:16:08.690Z"
+  },
+  "updatedAt": {
+    "$date": "2020-12-11T08:16:09.629Z"
+  },
+  "__v": 0,
+  "author": {
+    "$oid": "5fd31d4ea22a3e532869543e"
+  }
+},{
+  "_id": {
+    "$oid": "5fd32ac8ef07ea421c853079"
+  },
+  "body": "Great course, having originally purchased this just shy of two years ago, it's been updated since then with many improvements and better explanations being provided.",
+  "rating": 5,
+  "createdAt": {
+    "$date": "2020-12-11T08:16:08.690Z"
+  },
+  "updatedAt": {
+    "$date": "2020-12-11T08:16:09.630Z"
+  },
+  "__v": 0,
+  "author": {
+    "$oid": "5fd31d4ea22a3e532869543f"
+  }
+},{
+  "_id": {
+    "$oid": "5fd32ac8ef07ea421c85307a"
+  },
+  "body": "Section 5: Toon Tanks, did it for me.\n\nI wanted to rate this course higher. I wanted to believe that this course was as good as the rating suggest - unfortunately it is not, not now at least.\n\nIf you want to watch someone code a Toon Tanks game and copy along, buy this course. If you want to actually learn to use Unreal Engine and learn C++, look elsewhere.\n\nBut wait, the old content is good. This course has been updated a lot. What's also been updated are the instructors. After finding the archived versions of this course I realised that the quality of the course is getting worse. Ben is a fantastic instructor and I naturally gravitated to him. He takes the pain-staking time of explaining things, preparing diagrams, workflows, etc. The pacing is spot on and content is beautifully crafted. Don't expect that now in Section 5.\n\nIt is a real shame. If you can pick this course up cheap, maybe give it a try, but use the old content if you can.\n\nIt pain's me to leave a negative review like this, it really does. But I hope that this can be seen as constructive criticism and will help move the course into a better state.\n\n#bringbackben",
+  "rating": 1,
+  "createdAt": {
+    "$date": "2020-12-11T08:16:08.690Z"
+  },
+  "updatedAt": {
+    "$date": "2020-12-11T08:16:09.631Z"
+  },
+  "__v": 0,
+  "author": {
+    "$oid": "5fd31d4ea22a3e5328695440"
+  }
+},{
+  "_id": {
+    "$oid": "5fd32ac8ef07ea421c85307b"
+  },
+  "body": "The second to last section of this course is NOT beginner friendly as the instructor just kind of throwing terminologies and new concepts at you, but the contents are still valid. It would be the best to watch the last section before the second last section if you never worked with C++ before as the last section is more detailed and slower paced. Also, just personally speaking, I think Sam's and Mikey's voices are great as a instructor: energetic and ethusiastic, the other instructor's voice & tone kind of making me sleepy throughout his lectures..\n\nOverall the course is good introductary course, if the aforementioned section could be improved, this can be a 5 star course.",
+  "rating": 4.5,
+  "createdAt": {
+    "$date": "2020-12-11T08:16:08.690Z"
+  },
+  "updatedAt": {
+    "$date": "2020-12-11T08:16:09.631Z"
+  },
+  "__v": 0,
+  "author": {
+    "$oid": "5fd31d4ea22a3e5328695441"
+  }
+},{
+  "_id": {
+    "$oid": "5fd32ac8ef07ea421c85307c"
+  },
+  "body": "Overall excellent course. I am an experienced c/c++ programmer that was looking to expand my skill set into Unreal Engine and I enjoyed the course.\n\nI would say my only disappointment was in the last part of the updated escape game module. The video is a sped up version of the level being built. I would have liked to see a bit more of what went into the design of that level since it was more intricate than the basic room used to teach everything else in the module.",
+  "rating": 4.5,
+  "createdAt": {
+    "$date": "2020-12-11T08:16:08.690Z"
+  },
+  "updatedAt": {
+    "$date": "2020-12-11T08:16:09.632Z"
+  },
+  "__v": 0,
+  "author": {
+    "$oid": "5fd31d4ea22a3e5328695442"
+  }
+},{
+  "_id": {
+    "$oid": "5fd32ac8ef07ea421c85307d"
+  },
+  "body": "Really makes you listen. Very well organizational teaching, good audio quality. Like a tutorial with an Oscar. The fourth and fifth sections however felt rushed and the instructors aren't as professional, skipping important instructions, not speaking of what they're doing as they're doing them and such.",
+  "rating": 3.5,
+  "createdAt": {
+    "$date": "2020-12-11T08:16:08.690Z"
+  },
+  "updatedAt": {
+    "$date": "2020-12-11T08:16:09.633Z"
+  },
+  "__v": 0,
+  "author": {
+    "$oid": "5fd31d4ea22a3e5328695443"
+  }
+},{
+  "_id": {
+    "$oid": "5fd32ac9ef07ea421c853099"
+  },
+  "body": "This course is excellent for beginners, giving a strong foundation in programming but makes sure to implement other useful skills and game design tactics",
+  "rating": 5,
+  "createdAt": {
+    "$date": "2020-12-11T08:16:09.665Z"
+  },
+  "updatedAt": {
+    "$date": "2020-12-11T08:16:10.442Z"
+  },
+  "__v": 0,
+  "author": {
+    "$oid": "5fd31d4da22a3e5328695438"
+  }
+},{
+  "_id": {
+    "$oid": "5fd32ac9ef07ea421c85309a"
+  },
+  "body": "The course is taught well and easy to follow for a beginner like me. The community discussion has helped me a lot whenever I’ve been stuck especially with differences arising in using different versions of Unity.",
+  "rating": 5,
+  "createdAt": {
+    "$date": "2020-12-11T08:16:09.666Z"
+  },
+  "updatedAt": {
+    "$date": "2020-12-11T08:16:10.443Z"
+  },
+  "__v": 0,
+  "author": {
+    "$oid": "5fd31d4ea22a3e5328695439"
+  }
+},{
+  "_id": {
+    "$oid": "5fd32ac9ef07ea421c85309b"
+  },
+  "body": "Overall great class! I would definitely recommend taking the 2d course, before taking this one. The 3d course just seemed to have another level of difficulty to it, at least for me",
+  "rating": 4.5,
+  "createdAt": {
+    "$date": "2020-12-11T08:16:09.666Z"
+  },
+  "updatedAt": {
+    "$date": "2020-12-11T08:16:10.444Z"
+  },
+  "__v": 0,
+  "author": {
+    "$oid": "5fd31d4ea22a3e532869543a"
+  }
+},{
+  "_id": {
+    "$oid": "5fd32ac9ef07ea421c85309c"
+  },
+  "body": "I would like to see a few sections updated, but overall this was an excellent course to get started using Unity and C#.",
+  "rating": 4,
+  "createdAt": {
+    "$date": "2020-12-11T08:16:09.666Z"
+  },
+  "updatedAt": {
+    "$date": "2020-12-11T08:16:10.444Z"
+  },
+  "__v": 0,
+  "author": {
+    "$oid": "5fd31d4ea22a3e532869543b"
+  }
+},{
+  "_id": {
+    "$oid": "5fd32ac9ef07ea421c85309d"
+  },
+  "body": "Великолепный огромный курс, в котором кажется, что тебя ведут за ручку, но, при этом, заставляют все запоминать, отрабатывать на практике. Потрясающе)",
+  "rating": 5,
+  "createdAt": {
+    "$date": "2020-12-11T08:16:09.666Z"
+  },
+  "updatedAt": {
+    "$date": "2020-12-11T08:16:10.445Z"
+  },
+  "__v": 0,
+  "author": {
+    "$oid": "5fd31d4ea22a3e532869543c"
+  }
+},{
+  "_id": {
+    "$oid": "5fd32ac9ef07ea421c85309e"
+  },
+  "body": "Great Course!\n\nI can tell I'll be reviewing material from time to time.\n\nWhile I continue on journey as is invaluable.",
+  "rating": 5,
+  "createdAt": {
+    "$date": "2020-12-11T08:16:09.666Z"
+  },
+  "updatedAt": {
+    "$date": "2020-12-11T08:16:10.446Z"
+  },
+  "__v": 0,
+  "author": {
+    "$oid": "5fd31d4ea22a3e532869543d"
+  }
+},{
+  "_id": {
+    "$oid": "5fd32ac9ef07ea421c85309f"
+  },
+  "body": "Ben and Rick are just 2 lovable tutors. No lecture felt boring especially with the Rick's lecture where Rick lets his quirkiness shine and introduces humor into the lectures at times. The instructor hangout is a really really cool feature where they pause and interact to answer the most pertinent questions.\n\nJust an awesome feeling throughout.",
+  "rating": 5,
+  "createdAt": {
+    "$date": "2020-12-11T08:16:09.666Z"
+  },
+  "updatedAt": {
+    "$date": "2020-12-11T08:16:10.447Z"
+  },
+  "__v": 0,
+  "author": {
+    "$oid": "5fd31d4ea22a3e532869543e"
+  }
+},{
+  "_id": {
+    "$oid": "5fd32ac9ef07ea421c8530a0"
+  },
+  "body": "This is has been my first look into coding, and unity.\n\nAbove any expectation i could have had! i have learned so much is such a short time frame. this will be the base on witch i will make great and amazing products",
+  "rating": 5,
+  "createdAt": {
+    "$date": "2020-12-11T08:16:09.666Z"
+  },
+  "updatedAt": {
+    "$date": "2020-12-11T08:16:10.447Z"
+  },
+  "__v": 0,
+  "author": {
+    "$oid": "5fd31d4ea22a3e532869543f"
+  }
+},{
+  "_id": {
+    "$oid": "5fd32ac9ef07ea421c8530a1"
+  },
+  "body": "It's a great match for me. Just learning C# and Unity and you guys combined them both in one lesson that's so awesome. I like how you guys start from scratch assuming i know nothing. Not all teachers do this. Thanks a lot! God Bless! EDIT: Finished the course and it was awesome! Highly recommend it! Audio was good could clearly hear the instructors. Content was nice progression even tho i wanted to skip ahead to the first person shooter section. Instructors give challenges and quizzes which helped me learn a lot and most times i enjoyed them. Most assets are provided for free which is a huge plus and if they weren't provided they were easy to find for free on the asset store. The only problem i had in the course is not the instructors fault but Unitys. They changed the Post-Processing and ProGrid tools in the newer version of Unity so it was harder to find and harder to install properly. With that being said i was able to complete this course with Unity 2019.4.1 and later upgraded to Unity 2019.4.4 and was able to follow along nicely! Thanks again Ben and Rick!",
+  "rating": 5,
+  "createdAt": {
+    "$date": "2020-12-11T08:16:09.666Z"
+  },
+  "updatedAt": {
+    "$date": "2020-12-11T08:16:10.448Z"
+  },
+  "__v": 0,
+  "author": {
+    "$oid": "5fd31d4ea22a3e5328695440"
+  }
+},{
+  "_id": {
+    "$oid": "5fd32ac9ef07ea421c8530a2"
+  },
+  "body": "This course is just great. You can come in absolutely blind with no knowledge of programming, and the instructors will help you build a strong foundational knowledge that you can easily build upon on your own and apply to your own projects.\n\nIf you ever wanted to try your hand at game design, but didn't know where to start, I highly recommend checking out this course",
+  "rating": 5,
+  "createdAt": {
+    "$date": "2020-12-11T08:16:09.666Z"
+  },
+  "updatedAt": {
+    "$date": "2020-12-11T08:16:10.448Z"
+  },
+  "__v": 0,
+  "author": {
+    "$oid": "5fd31d4ea22a3e5328695441"
+  }
+},{
+  "_id": {
+    "$oid": "5fd32ac9ef07ea421c8530a3"
+  },
+  "body": "This course was a good introduction into Unity and C#. I went in with a very very minimal experience in C# and left feeling confident in the concepts covered in this course. I also feel confident looking into the Unity Scripting manuals, scripting questions on stackoverflow and other forums, and understanding the problems and peoples proposed solutions.\n\nThe instructors, Ben and Rick, did a very good job of breaking unity and C# into digestible pieces and implementing the spiral syllabus! Big thank you to you two!",
+  "rating": 5,
+  "createdAt": {
+    "$date": "2020-12-11T08:16:09.666Z"
+  },
+  "updatedAt": {
+    "$date": "2020-12-11T08:16:10.449Z"
+  },
+  "__v": 0,
+  "author": {
+    "$oid": "5fd31d4ea22a3e5328695442"
+  }
+},{
+  "_id": {
+    "$oid": "5fd32ac9ef07ea421c8530a4"
+  },
+  "body": "Thanks you so much guys. This course was bloody brilliant!\n\nI've gone from having zero experience coding, literally not knowing what a variable is, to understanding methods, IF and Switch, how to link up components in the UNITY editor, collisions, triggers, terrains, scaling and movement principles, Math.f even a bit of coroutines (which took me a while, but thanks to your spiral approach, and Rick putting it on right at the end, I've now got down to a tee).\n\nI'm now able to go off grid and create my own scripts in a way I really didn't think was possible when we first started back in Terminal Hacker.\n\nAnd on top of the coding, this course has given me a great foundation in how to use Unity, and I feel right at home.\n\nCan't recommend it enough.\n\nAnd I just want to say a big sincere thank you to Ben and Rick for showing me the way.",
+  "rating": 5,
+  "createdAt": {
+    "$date": "2020-12-11T08:16:09.666Z"
+  },
+  "updatedAt": {
+    "$date": "2020-12-11T08:16:10.450Z"
+  },
+  "__v": 0,
+  "author": {
+    "$oid": "5fd31d4ea22a3e5328695443"
+  }
+},{
+  "_id": {
+    "$oid": "5fd32acaef07ea421c8530bc"
+  },
+  "body": "Great introductory course. The structure of setting challenges up to be tried first before seeing the instructor implementation worked really well for me!",
+  "rating": 4.5,
+  "createdAt": {
+    "$date": "2020-12-11T08:16:10.479Z"
+  },
+  "updatedAt": {
+    "$date": "2020-12-11T08:16:11.302Z"
+  },
+  "__v": 0,
+  "author": {
+    "$oid": "5fd31d4da22a3e5328695438"
+  }
+},{
+  "_id": {
+    "$oid": "5fd32acaef07ea421c8530be"
+  },
+  "body": "Buen curso para iniciarte en Unity, de los cursos básicos más completos que he visto al tratar tres tipos de videojuegos con sus diferentes lógicas y elementos: 2D, 2.5D y 3D. Listo para empezar un curso más avanzado! :)",
+  "rating": 5,
+  "createdAt": {
+    "$date": "2020-12-11T08:16:10.479Z"
+  },
+  "updatedAt": {
+    "$date": "2020-12-11T08:16:11.305Z"
+  },
+  "__v": 0,
+  "author": {
+    "$oid": "5fd31d4ea22a3e532869543a"
+  }
+},{
+  "_id": {
+    "$oid": "5fd32acaef07ea421c8530bd"
+  },
+  "body": "Challenges are a very good idea. Thanks to them I can check my knowledge and skills.\n\nSolutions to problems can be found thanks to the large community.",
+  "rating": 5,
+  "createdAt": {
+    "$date": "2020-12-11T08:16:10.479Z"
+  },
+  "updatedAt": {
+    "$date": "2020-12-11T08:16:11.305Z"
+  },
+  "__v": 0,
+  "author": {
+    "$oid": "5fd31d4ea22a3e5328695439"
+  }
+},{
+  "_id": {
+    "$oid": "5fd32acaef07ea421c8530bf"
+  },
+  "body": "good pace, like the code introduction, looking forward,\n\nthe spaceshooter as a little mixed up between the versions. in the gamemanager it used to be LoadScene and then suddentenly it was the Instantiate Method. Got my version to work though",
+  "rating": 4,
+  "createdAt": {
+    "$date": "2020-12-11T08:16:10.479Z"
+  },
+  "updatedAt": {
+    "$date": "2020-12-11T08:16:11.306Z"
+  },
+  "__v": 0,
+  "author": {
+    "$oid": "5fd31d4ea22a3e532869543b"
+  }
+},{
+  "_id": {
+    "$oid": "5fd32acaef07ea421c8530c0"
+  },
+  "body": "For new game developers (like me), this course have everything, how to create a game, it show all the Unity interface, real projects, coding best practice and 2D / 3D most do!",
+  "rating": 4.5,
+  "createdAt": {
+    "$date": "2020-12-11T08:16:10.479Z"
+  },
+  "updatedAt": {
+    "$date": "2020-12-11T08:16:11.307Z"
+  },
+  "__v": 0,
+  "author": {
+    "$oid": "5fd31d4ea22a3e532869543c"
+  }
+},{
+  "_id": {
+    "$oid": "5fd32acaef07ea421c8530c1"
+  },
+  "body": "Top notch and highly recommended. Although this is a beginner level course. It was slightly more advanced in my opinion and challenges you to be move along at a healthy pace. Excellent content! Thank you!",
+  "rating": 5,
+  "createdAt": {
+    "$date": "2020-12-11T08:16:10.479Z"
+  },
+  "updatedAt": {
+    "$date": "2020-12-11T08:16:11.307Z"
+  },
+  "__v": 0,
+  "author": {
+    "$oid": "5fd31d4ea22a3e532869543d"
+  }
+},{
+  "_id": {
+    "$oid": "5fd32acaef07ea421c8530c2"
+  },
+  "body": "For beginners of programming its understandable until roughly 40% of the way where the tutor begins to make large leaps that lose me. He teaches to search for yourself but after a time he ask of things that blow over the heads of complete beginners. Such as coding concepts that I felt weren't properly highlighted so I didn't understand where to begin my search or what I should do with both the Unity Engine and C# coding.\n\nYou will understand the parts he mentions but may get lost in tougher challenges.",
+  "rating": 2.5,
+  "createdAt": {
+    "$date": "2020-12-11T08:16:10.479Z"
+  },
+  "updatedAt": {
+    "$date": "2020-12-11T08:16:11.308Z"
+  },
+  "__v": 0,
+  "author": {
+    "$oid": "5fd31d4ea22a3e532869543e"
+  }
+},{
+  "_id": {
+    "$oid": "5fd32acaef07ea421c8530c3"
+  },
+  "body": "It guides you through the basic of creating a game. It will leave you with enough knowledge to start making your own game. Might not be the best optimized game, but, it will be a great start.\n\nThere is some later videos that is not updated with the latest Unity version and I skipped the whole Post Processing videos, which was sad.\n\nA generally good course and he is a great teacher.",
+  "rating": 3.5,
+  "createdAt": {
+    "$date": "2020-12-11T08:16:10.479Z"
+  },
+  "updatedAt": {
+    "$date": "2020-12-11T08:16:11.309Z"
+  },
+  "__v": 0,
+  "author": {
+    "$oid": "5fd31d4ea22a3e532869543f"
+  }
+},{
+  "_id": {
+    "$oid": "5fd32acaef07ea421c8530c4"
+  },
+  "body": "Overall I believe that this is the best course out there for learning Unity game Development. Most tutorials are spoonfed and don't teach people how to problem solve. This course is unique in that the instructor explains things very clearly and gives students a chance to practice what they are learning. The key element is that there is a perfect blend of repetition (applying similar concepts for all the powerups for example) with clear stated logic. Highly recommend this course and will definitely get the next set of classes when they come out. UPDATE: The second half of the course is also great and further reinforces the concepts taught in the first half.",
+  "rating": 5,
+  "createdAt": {
+    "$date": "2020-12-11T08:16:10.479Z"
+  },
+  "updatedAt": {
+    "$date": "2020-12-11T08:16:11.309Z"
+  },
+  "__v": 0,
+  "author": {
+    "$oid": "5fd31d4ea22a3e5328695440"
+  }
+},{
+  "_id": {
+    "$oid": "5fd32acaef07ea421c8530c5"
+  },
+  "body": "Great Course but not too great ,\n\nit says ULTIMATE GUIDE but it lacks a lot of informations that new comers should know... I would highly recommend to take other courses as a beginner with it ... it still good and adds up to your overall knowledge... could be too hard for (absolute) beginners though.\n\nQ: Would it be enough to create your fully featured game? ... I doubt it .. you've still got a lot of research to do ...\n\nlovely instructor and teaching techniques is so neat ... I'm still disappointed that I didn't get enough useful information to get to intermediate level of game development...",
+  "rating": 4,
+  "createdAt": {
+    "$date": "2020-12-11T08:16:10.479Z"
+  },
+  "updatedAt": {
+    "$date": "2020-12-11T08:16:11.310Z"
+  },
+  "__v": 0,
+  "author": {
+    "$oid": "5fd31d4ea22a3e5328695441"
+  }
+},{
+  "_id": {
+    "$oid": "5fd32acaef07ea421c8530c6"
+  },
+  "body": "I wouldn't consider this course 'Ultimate'. It does a great job teaching the basics in an easy-to-learn format that challenges you to figure things out on your own. HOWEVER. The last portion of this course is incredibly outdated to the point that some of the supplied assets need to be modified to work properly. That combined with the unpolished feeling of the latter half reaaaally detracted from the quality of the course. The first half (the space shooter) is great, and I learned a lot. The platformer example was really disappointing and bare-bones, and the FPS example was barebones as well.\n\nSome things I wished it had included:\n\n-3D Animation sections\n\n-Particle Effect sections\n\n-More fleshed out teachings on the physics system in Unity.\n\nI learned a lot. But this definitely could be improved, especially considering the price tag.",
+  "rating": 3,
+  "createdAt": {
+    "$date": "2020-12-11T08:16:10.479Z"
+  },
+  "updatedAt": {
+    "$date": "2020-12-11T08:16:11.311Z"
+  },
+  "__v": 0,
+  "author": {
+    "$oid": "5fd31d4ea22a3e5328695442"
+  }
+},{
+  "_id": {
+    "$oid": "5fd32acaef07ea421c8530c7"
+  },
+  "body": "The first project was amazing, updated and worked well. I learned a lot.\n\nThe second project was out of date, caused a lot of frustration, and seemed to use some odd practices.\n\nDespite all of that I felt the course was worth it and I learned so much from it.",
+  "rating": 3.5,
+  "createdAt": {
+    "$date": "2020-12-11T08:16:10.479Z"
+  },
+  "updatedAt": {
+    "$date": "2020-12-11T08:16:11.311Z"
+  },
+  "__v": 0,
+  "author": {
+    "$oid": "5fd31d4ea22a3e5328695443"
+  }
+},{
+  "_id": {
+    "$oid": "5fd32acbef07ea421c8530e3"
+  },
+  "body": "Teaches almost everything you need to know in order to get started on a game of your own. Explains well each section, and most of the code still runs in the UE 4.17.2.",
+  "rating": 5,
+  "createdAt": {
+    "$date": "2020-12-11T08:16:11.341Z"
+  },
+  "updatedAt": {
+    "$date": "2020-12-11T08:16:12.163Z"
+  },
+  "__v": 0,
+  "author": {
+    "$oid": "5fd31d4da22a3e5328695438"
+  }
+},{
+  "_id": {
+    "$oid": "5fd32acbef07ea421c8530e4"
+  },
+  "body": "I very much enjoyed the course. The course is exactly as advertised. You are going to build a couple of games and learn the basics of the engine in a follow-along setting. I would have liked more explaining as to why we are doing what we are doing but again, the scope of the class was to follow along and build the games. I would definitely buy a foundations course from this instructor. Thank you for the great journey. I've been searching for years for a hobby or something to enjoy and be interested in, and I believe this course gave that to me. I enjoy making worlds!",
+  "rating": 5,
+  "createdAt": {
+    "$date": "2020-12-11T08:16:11.341Z"
+  },
+  "updatedAt": {
+    "$date": "2020-12-11T08:16:12.164Z"
+  },
+  "__v": 0,
+  "author": {
+    "$oid": "5fd31d4ea22a3e5328695439"
+  }
+},{
+  "_id": {
+    "$oid": "5fd32acbef07ea421c8530e5"
+  },
+  "body": "this was a very well taught Unreal Engine Course. You may find it a little fast at first but go over the videos twice or thrice if you have to, as the teacher really knows what he's doing and HOW he is doing it is a great take away. i find myself coming back to this course alot when working on my own projects as there is a lot of information in it that applies to real world stuff. the particles set up section and the architectural visualization part in the beginning in particular is hard to find in any other course.\n\nI recommend it highly to any aspiring unreal engine developer.\n\nThank you Chris for a great course.",
+  "rating": 5,
+  "createdAt": {
+    "$date": "2020-12-11T08:16:11.341Z"
+  },
+  "updatedAt": {
+    "$date": "2020-12-11T08:16:12.165Z"
+  },
+  "__v": 0,
+  "author": {
+    "$oid": "5fd31d4ea22a3e532869543a"
+  }
+},{
+  "_id": {
+    "$oid": "5fd32acbef07ea421c8530e6"
+  },
+  "body": "Very good course for beginners. The tutor explained the basics very well. We started off with introduction to the UI, which many find intimidating in Unreal. However, the tutor explained it in a very structured, easy to use and with a case study that helped us to relate to what we were doing.\n\nFrom the very beginning we directly jumped to a 2.5D game development which introduced us to Blueprints in much more details. We learned how to code for event capturing, movements through Blueprints.\n\nThe difficult part I felt during the entire course was the lack of detailed explanations provided for some difficult topics like material manipulation, collision and a few other things which appeared to be simplistically covered and we rushed through them. Another case was with understanding of Animation Montages in the second game example. Those are fairly complex topics, which should have been given due importance with slightly more detailed explanations. We, ourselves, would need to do some additional research on these topics to completely grasp it. This is not essentially bad, as it makes you self reliant and forces you to explore other support channels, something you'd need to use a lot after your course. Also, some of the interface elements appeared different due to the version difference. You will have to struggle and find some of the options, which are visible by default in the older versions - for instance a basic element like Modes Panel.\n\nOne suggestion I would like to give is that at the beginning of each chapter, the tutor can provide a vision of what we are going to achieve by the end of this chapter visually, and not just orally. This would help us to visualize and follow exactly what we are doing and why we are doing. Since this practice was not followed, invariably, you'll have to watch each chapter at least twice - once to understand what is being done, and second to implement and understand why and how its done. Thus, you can easily consider the course duration to be easily over 80 hours!",
+  "rating": 4.5,
+  "createdAt": {
+    "$date": "2020-12-11T08:16:11.341Z"
+  },
+  "updatedAt": {
+    "$date": "2020-12-11T08:16:12.165Z"
+  },
+  "__v": 0,
+  "author": {
+    "$oid": "5fd31d4ea22a3e532869543b"
+  }
+},{
+  "_id": {
+    "$oid": "5fd32acbef07ea421c8530e7"
+  },
+  "body": "This course was a fantastic visual introduction to Unreal Engine 4. It answered a lot of the questions I had about visual design and programming in the engine. I often slowed the videos down to 0.75 speed to make it easier to follow the instructions. When there were errors in the videos, usually caused by updates to the Unreal Engine that changed functionality, the instructor was active in the Q&A section and helpful. I really enjoyed this course!",
+  "rating": 4.5,
+  "createdAt": {
+    "$date": "2020-12-11T08:16:11.341Z"
+  },
+  "updatedAt": {
+    "$date": "2020-12-11T08:16:12.166Z"
+  },
+  "__v": 0,
+  "author": {
+    "$oid": "5fd31d4ea22a3e532869543c"
+  }
+},{
+  "_id": {
+    "$oid": "5fd32acbef07ea421c8530e8"
+  },
+  "body": "Great to build real functioning products, but would have liked it more if time was taken to explain more as to \"why\" things are the way they are. Also, I understand that Epic Games has a very \"strict\" game style that they expect you to follow with Unreal. If you don't follow it, Unreal will be a real pain. It would have been great if this class went into the expected structure of a game Unreal is build for and some of the programming semantics. This would have helped guide the reasoning behind certain choices and also editor workflows.",
+  "rating": 3.5,
+  "createdAt": {
+    "$date": "2020-12-11T08:16:11.341Z"
+  },
+  "updatedAt": {
+    "$date": "2020-12-11T08:16:12.167Z"
+  },
+  "__v": 0,
+  "author": {
+    "$oid": "5fd31d4ea22a3e532869543d"
+  }
+},{
+  "_id": {
+    "$oid": "5fd32acbef07ea421c8530e9"
+  },
+  "body": "Labeled as a beginner course I think this is a bit too fast in parts of the course and without going and explaining on the way whats is thinking behind and goal behind some actions, overhaul detailed course and it got into a lot of useful stuff for not just this games but any game.",
+  "rating": 4,
+  "createdAt": {
+    "$date": "2020-12-11T08:16:11.341Z"
+  },
+  "updatedAt": {
+    "$date": "2020-12-11T08:16:12.168Z"
+  },
+  "__v": 0,
+  "author": {
+    "$oid": "5fd31d4ea22a3e532869543e"
+  }
+},{
+  "_id": {
+    "$oid": "5fd32acbef07ea421c8530ea"
+  },
+  "body": "Some parts of the course the full detail was not shown and caused some errors but other than that it was very helpful.",
+  "rating": 4.5,
+  "createdAt": {
+    "$date": "2020-12-11T08:16:11.341Z"
+  },
+  "updatedAt": {
+    "$date": "2020-12-11T08:16:12.168Z"
+  },
+  "__v": 0,
+  "author": {
+    "$oid": "5fd31d4ea22a3e532869543f"
+  }
+},{
+  "_id": {
+    "$oid": "5fd32acbef07ea421c8530eb"
+  },
+  "body": "He covers a lot of ground. I actually completed the entire course which is rare for me. I believe this course helped address (to some degree) both by known unknowns and unknown unknowns.\n\nUE4 is massive, but I feel ready to really dig into my own projects. I believe I have enough of a vocabulary now to find answers to my own questions and quickly apply it to my projects w/o watching 5 YouTube videos first :-)\n\nI recommend this course for beginners. However, like others have commented on this course, there are many instances where I felt like certain topics were glossed over. That's really, really frustrating for a noob.\n\nAnother thing that was a bit frustrating was when he would start inserting BP nodes, and I'm thinking \"where are we going with this\"? I know Chris knows where he's going but as a learner, I like to know where I'm being led.\n\nOverall a good course. Good job.",
+  "rating": 3.5,
+  "createdAt": {
+    "$date": "2020-12-11T08:16:11.341Z"
+  },
+  "updatedAt": {
+    "$date": "2020-12-11T08:16:12.169Z"
+  },
+  "__v": 0,
+  "author": {
+    "$oid": "5fd31d4ea22a3e5328695440"
+  }
+},{
+  "_id": {
+    "$oid": "5fd32acbef07ea421c8530ec"
+  },
+  "body": "I have to admit that the consistency error in chapter 25 did throw me off and it might not have or did contribute to me not finding my error faster. It got frustrated sure and i posted on the Q&A board with all my blueprints in maybe a pissy way however i got the help i need in good time. The rest of the coarse has been great so far. I have no problem following along and have been inspired in the process. All in all this has been the way to go for me instead simply You tubing. The reason being that i never so far have not gotten 35 minutes into a tutorial and had the instructor tell me that he has created this whole other asset in another tutorial that we should just know how to make to complete the tutorial. From the very beginning you create every asset that you will use in the project besides Meshes which are provided. I would recommend this to anyone who is not afraid of work and knowing how the sausage is made.\n\nBe healthy and have fun!",
+  "rating": 4,
+  "createdAt": {
+    "$date": "2020-12-11T08:16:11.341Z"
+  },
+  "updatedAt": {
+    "$date": "2020-12-11T08:16:12.169Z"
+  },
+  "__v": 0,
+  "author": {
+    "$oid": "5fd31d4ea22a3e5328695441"
+  }
+},{
+  "_id": {
+    "$oid": "5fd32acbef07ea421c8530ed"
+  },
+  "body": "This was a good course and takes you through quite a bit. Compliments well some of the other intro courses I've been taking. I took this course when it was already 3 years old and the Unreal Engine has changed a bit since that time. Some of the lessons won't seem to track with what your UE editor looks like. BE SURE TO CHECK THE COMMENTS that accompany each lesson in the event you seem lost. In most cases a more recent update is in there and will save you much hair-pulling. In the later lessons the instructor moves fairly quickly around parts of the UI. If you're having trouble keeping up along the way I recommend watching the lesson straight through and then going back through it to work along with it.",
+  "rating": 4.5,
+  "createdAt": {
+    "$date": "2020-12-11T08:16:11.341Z"
+  },
+  "updatedAt": {
+    "$date": "2020-12-11T08:16:12.170Z"
+  },
+  "__v": 0,
+  "author": {
+    "$oid": "5fd31d4ea22a3e5328695442"
+  }
+},{
+  "_id": {
+    "$oid": "5fd32acbef07ea421c8530ee"
+  },
+  "body": "Chris is great at explaining and goes at a really good pace.\n\nIt is also good that he replies to the questions regarding bugs since that helped me out quite a bit.",
+  "rating": 5,
+  "createdAt": {
+    "$date": "2020-12-11T08:16:11.341Z"
+  },
+  "updatedAt": {
+    "$date": "2020-12-11T08:16:12.171Z"
+  },
+  "__v": 0,
+  "author": {
+    "$oid": "5fd31d4ea22a3e5328695443"
+  }
+},{
+  "_id": {
+    "$oid": "5fd32accef07ea421c85310a"
+  },
+  "body": "Brilliant course. Honestly can't believe how much i've learnt. I've been dabbling with unity for years, after taking this course the overall design and structure of my games has improved dramatically. I can finally work towards shipping a complete project.",
+  "rating": 5,
+  "createdAt": {
+    "$date": "2020-12-11T08:16:12.196Z"
+  },
+  "updatedAt": {
+    "$date": "2020-12-11T08:16:12.953Z"
+  },
+  "__v": 0,
+  "author": {
+    "$oid": "5fd31d4da22a3e5328695438"
+  }
+},{
+  "_id": {
+    "$oid": "5fd32accef07ea421c85310b"
+  },
+  "body": "Well, first of all Rick. I will put this out that I love Rick. His bubbly personality makes his lectures quite fun to watch and he just makes it fun and puts a big smile across my face. So time passes by when he teaches. My favorite part would be the design spreadsheet when Rick says \"here is the spreadsheet. Boom. Bye\" that I think was one of the best Rick moments.\n\nNext, though Sam is a new addition he fits into Ben's shoes quite nicely. I liked his lectures not as much Rick's though. His lectures do seem a bit of a drag sometimes but at certain times he blew my mind as when I learned that Interfaces can be used to revert Dependencies and remove dependency cycles. I thought they were useless when I learned about them in my college lectures. Thank you Sam!! For blowing my mind. Also this is a bit of personal advice/bias, so do take this with a pinch of salt, but do try to spice up your lectures with probably how you screwed up in code (if you do) before recording a lecture so that we also get a chuckle and learn oh yeah that could happen toooo so that 12 mins and above lectures don't feel boring.\n\nAlso thank you for using Vscode as I would have no idea how to edit scripts without Visual Studio on linux.\n\nAlso I missed Ben dearly. It would nice if he showed up as a cameo. I would have thrown my hands in the air in exhilaration.\n\nBrain is an amazing Teaching Assistant. He answered all of my stupid questions as well showed me the way to things that I wanted to put in my game that were out of the scope of this course.\n\nFinal Verdict.\n\nIf the basic unity course was Mass Effect, then this course was Mass Effect 2. A masterpiece. (Not sure if the analogy worked though.) The basic course too was a masterpiece. But this felt more expansive. And last but not the least, Thank you!!",
+  "rating": 5,
+  "createdAt": {
+    "$date": "2020-12-11T08:16:12.196Z"
+  },
+  "updatedAt": {
+    "$date": "2020-12-11T08:16:12.954Z"
+  },
+  "__v": 0,
+  "author": {
+    "$oid": "5fd31d4ea22a3e5328695439"
+  }
+},{
+  "_id": {
+    "$oid": "5fd32accef07ea421c85310c"
+  },
+  "body": "I really enjoyed this course, it is packed with content and every aspect is well explained. Now I feel that I have a solid code base to build my RPG upon.",
+  "rating": 5,
+  "createdAt": {
+    "$date": "2020-12-11T08:16:12.196Z"
+  },
+  "updatedAt": {
+    "$date": "2020-12-11T08:16:12.954Z"
+  },
+  "__v": 0,
+  "author": {
+    "$oid": "5fd31d4ea22a3e532869543a"
+  }
+},{
+  "_id": {
+    "$oid": "5fd32accef07ea421c85310d"
+  },
+  "body": "Good course for people interested on RPG creation. Maybe a bit long sometimes and too much code refactoring for my taste. Still, I recommend the course, I learned a lot.",
+  "rating": 4,
+  "createdAt": {
+    "$date": "2020-12-11T08:16:12.196Z"
+  },
+  "updatedAt": {
+    "$date": "2020-12-11T08:16:12.955Z"
+  },
+  "__v": 0,
+  "author": {
+    "$oid": "5fd31d4ea22a3e532869543b"
+  }
+},{
+  "_id": {
+    "$oid": "5fd32accef07ea421c85310e"
+  },
+  "body": "GameDev where should I even start? you great! you really do and I really happy to be part of this course and learn more. I have a lot of your courses and all of them are great! I would like from you to read this one carefully, I put a lot of effort on this review not for nothing, for the better. ❤️?\n\nWhen I started the course it was really understandable, easy, and flowing, but unfortunately I found it quite unfriendly as I moving forward, here is why. Don't get me wrong this course is great, but somethings are a little bit overwhelming because of the explanation, for example: I asked and mentioned it a lot but I thing that if you would put more effort explaining about the dictionary part (The lookUpTable) it could be great. It was really frustrating that I could not understand it, So I just gave up and leave the course for about a month. The challenges are a bit unclear, Please give us more clues that we can use, or explain a little bit more what are we really trying to do (I really struggled with understanding what we are trying to do while Sam gave me the challenges, so I had to guess... and hope that it is right). The help in the Q&A was great though, Shout out to Brian that was there just in time, and he is really trying to help and understand the problem.\n\nI learned a lot from this course and I became from a beginner programmer to more advanced and it even pushed me to learn more about the programming world thanks to you guys, please take notice about what I've said. Thank you. Great work!",
+  "rating": 4,
+  "createdAt": {
+    "$date": "2020-12-11T08:16:12.196Z"
+  },
+  "updatedAt": {
+    "$date": "2020-12-11T08:16:12.955Z"
+  },
+  "__v": 0,
+  "author": {
+    "$oid": "5fd31d4ea22a3e532869543c"
+  }
+},{
+  "_id": {
+    "$oid": "5fd32accef07ea421c85310f"
+  },
+  "body": "I loved both the programming and design bits of the course. I hope there is a future for many more intermediate (or further level) courses like this one because we get to learn about important topics.",
+  "rating": 5,
+  "createdAt": {
+    "$date": "2020-12-11T08:16:12.196Z"
+  },
+  "updatedAt": {
+    "$date": "2020-12-11T08:16:12.956Z"
+  },
+  "__v": 0,
+  "author": {
+    "$oid": "5fd31d4ea22a3e532869543d"
+  }
+},{
+  "_id": {
+    "$oid": "5fd32accef07ea421c853110"
+  },
+  "body": "Very nice course overall.\n\nI only wish the quality of the code would be better in the end. I understand that it is geared towards beginner coders and so it is unreasonable to introduce complicated concept early on. But I would have like to see some part of the code \"revisited\" with an approach like, \"Ok now that we know better code practice, let us refactor this section of the code into a nice pattern to ensure maintenance efficiency and extensibility\".\n\nBasically, I would like to see a more advance course where we develop solid system with strong architecture with explanations about the design decisions.\n\nSo to better explain my thought, I'll make an analogy. If this class is about developing a Prototype of an RPG, it does a good job I think, I would like to see a class about how to turn a good prototype into a managable product.\n\nCheers,",
+  "rating": 5,
+  "createdAt": {
+    "$date": "2020-12-11T08:16:12.196Z"
+  },
+  "updatedAt": {
+    "$date": "2020-12-11T08:16:12.956Z"
+  },
+  "__v": 0,
+  "author": {
+    "$oid": "5fd31d4ea22a3e532869543e"
+  }
+},{
+  "_id": {
+    "$oid": "5fd32accef07ea421c853111"
+  },
+  "body": "Another amazing course from the GameDev.tv team! I started with GameDev.tv awhile back when I was in college and since have been working as a Software Engineer. I finally had some time to pick up this course again and I love the revamp! Rick does an amazing job of sharing his game design knowledge and experience. Sam provides an excellent end-to-end solution, explanation, and coding challenges to get you set up for combat, movement, and a lot of other features for the RPG game! You can sense the passion behind each instructor as they provide clear and precise examples to every feature and line of code. The best thing about these courses is the challenges and I encourage students to use them even as an experienced software engineer the challenges keep me on my toes. Great work team and I look forward to picking up another course very shortly!",
+  "rating": 5,
+  "createdAt": {
+    "$date": "2020-12-11T08:16:12.196Z"
+  },
+  "updatedAt": {
+    "$date": "2020-12-11T08:16:12.957Z"
+  },
+  "__v": 0,
+  "author": {
+    "$oid": "5fd31d4ea22a3e532869543f"
+  }
+},{
+  "_id": {
+    "$oid": "5fd32accef07ea421c853112"
+  },
+  "body": "Well explained, comprehensive, methodical ... an Awesome course.\n\nA nice Q&A Support who explains as well as the main instructor. I've learnd a lot awesome stuff. Thank you and keep it up.",
+  "rating": 5,
+  "createdAt": {
+    "$date": "2020-12-11T08:16:12.196Z"
+  },
+  "updatedAt": {
+    "$date": "2020-12-11T08:16:12.958Z"
+  },
+  "__v": 0,
+  "author": {
+    "$oid": "5fd31d4ea22a3e5328695440"
+  }
+},{
+  "_id": {
+    "$oid": "5fd32accef07ea421c853113"
+  },
+  "body": "Awesome Course ! The teaching is really very great, never felt that any thing is rushed throughout the course. Thanks you GameDev.tv, Sam and Rick for such a nice course.",
+  "rating": 5,
+  "createdAt": {
+    "$date": "2020-12-11T08:16:12.196Z"
+  },
+  "updatedAt": {
+    "$date": "2020-12-11T08:16:12.959Z"
+  },
+  "__v": 0,
+  "author": {
+    "$oid": "5fd31d4ea22a3e5328695441"
+  }
+},{
+  "_id": {
+    "$oid": "5fd32accef07ea421c853114"
+  },
+  "body": "It is a really good course. Sam doesn't wait around for you so be ready to hit pause from time to time if you are working along. The support is great when you get stuck or have a question.",
+  "rating": 4.5,
+  "createdAt": {
+    "$date": "2020-12-11T08:16:12.196Z"
+  },
+  "updatedAt": {
+    "$date": "2020-12-11T08:16:12.960Z"
+  },
+  "__v": 0,
+  "author": {
+    "$oid": "5fd31d4ea22a3e5328695442"
+  }
+},{
+  "_id": {
+    "$oid": "5fd32accef07ea421c853115"
+  },
+  "body": "I am a hobbyist developer, but through the years I got a lot of experience with game development and coding. However, I reached a point where it is difficult to progress with my own forces. Indeed, the web is full of courses and tutorials for Unity beginners, but it is really hard to find something for intermediate level. But, this course exists, and it is awesome! I definitely learnt a lot of techniques that I could not figure out on my own (maybe in a lifetime), and which are super-useful to build an RPG, or a more complex game which goes beyond few simple features. The teachers are fantastic, explain everything, and build the code together with you. Moreover, whatever question you have, you can ask in the questions section, and the dev team answers always in few hours. I strongly recommend this course to people who are already familiar with Unity (definitely not to beginners), are hobbyist, and want to progress with their coding and architecture skills",
+  "rating": 5,
+  "createdAt": {
+    "$date": "2020-12-11T08:16:12.196Z"
+  },
+  "updatedAt": {
+    "$date": "2020-12-11T08:16:12.960Z"
+  },
+  "__v": 0,
+  "author": {
+    "$oid": "5fd31d4ea22a3e5328695443"
+  }
+},{
+  "_id": {
+    "$oid": "5fd32accef07ea421c85312d"
+  },
+  "body": "The Unreal Engine 4: Complete Beginner's Course is very well explained by Instructor David Nixon and completely upto the mark. This course is perfect for those wanting a basic overview of what Unreal Engine 4 really is, and of course the Demo platformer game is really satisfactory after all the concepts being learnt. All his lectures are pretty straightforward and easy to understand, there are no uses of fancy vocabulary, no manner of difficult grammar usage, perfect for anyone practically. The most impressive thing about David Nixon's explanation is that he goes on to give a clear understanding and clarity of even the tiniest of things (like importing files by dragging it from another folder to UE4 content browser or exporting audio files in Audacity) that may seem trivial to some but in actuality it's helping a lot of people!\n\nBased on my experience and learning patterns from David's lectures, I will definitely rate this course a 10/10 !",
+  "rating": 5,
+  "createdAt": {
+    "$date": "2020-12-11T08:16:12.985Z"
+  },
+  "updatedAt": {
+    "$date": "2020-12-11T08:16:13.743Z"
+  },
+  "__v": 0,
+  "author": {
+    "$oid": "5fd31d4da22a3e5328695438"
+  }
+},{
+  "_id": {
+    "$oid": "5fd32accef07ea421c85312e"
+  },
+  "body": "It was very informal and precise.. It was easy to understand and follow most of the time! Am just throwing a suggestion here. I would like a course going through unreal engine nodes more thoroughly, explaining them and using them in context with concrete practices! All in all, I had a great time learning with this course!",
+  "rating": 4.5,
+  "createdAt": {
+    "$date": "2020-12-11T08:16:12.985Z"
+  },
+  "updatedAt": {
+    "$date": "2020-12-11T08:16:13.744Z"
+  },
+  "__v": 0,
+  "author": {
+    "$oid": "5fd31d4ea22a3e5328695439"
+  }
+},{
+  "_id": {
+    "$oid": "5fd32accef07ea421c85312f"
+  },
+  "body": "Good explanation of basic features of the Editor. But the Tutorials, the most important part, are wrong.\n\nIf you follow the instruction you end up with a character that is not set up properly and it glitches through walls, thats because they make the character lean forward and backward",
+  "rating": 1,
+  "createdAt": {
+    "$date": "2020-12-11T08:16:12.985Z"
+  },
+  "updatedAt": {
+    "$date": "2020-12-11T08:16:13.746Z"
+  },
+  "__v": 0,
+  "author": {
+    "$oid": "5fd31d4ea22a3e532869543a"
+  }
+},{
+  "_id": {
+    "$oid": "5fd32accef07ea421c853130"
+  },
+  "body": "Very good course for complete beginners to Unreal & game dev in general. All of the most important UE concepts are covered in the course and there is also a nice little demo project, where the concepts are applied in a practical context.",
+  "rating": 5,
+  "createdAt": {
+    "$date": "2020-12-11T08:16:12.985Z"
+  },
+  "updatedAt": {
+    "$date": "2020-12-11T08:16:13.747Z"
+  },
+  "__v": 0,
+  "author": {
+    "$oid": "5fd31d4ea22a3e532869543b"
+  }
+},{
+  "_id": {
+    "$oid": "5fd32accef07ea421c853131"
+  },
+  "body": "I loved the style of going through the details of the tool and then using tutorials to bring it all together. My boys loved the game that was made.",
+  "rating": 4,
+  "createdAt": {
+    "$date": "2020-12-11T08:16:12.985Z"
+  },
+  "updatedAt": {
+    "$date": "2020-12-11T08:16:13.748Z"
+  },
+  "__v": 0,
+  "author": {
+    "$oid": "5fd31d4ea22a3e532869543c"
+  }
+},{
+  "_id": {
+    "$oid": "5fd32accef07ea421c853132"
+  },
+  "body": "Given that I have 0 experience at all doing anything with game design and my first time/course on Unreal Engine, this class is perfect. Everything is explained in depth which is very helpful for a beginner. I highly recommend this course to others who are new looking to find a starting point.",
+  "rating": 5,
+  "createdAt": {
+    "$date": "2020-12-11T08:16:12.985Z"
+  },
+  "updatedAt": {
+    "$date": "2020-12-11T08:16:13.748Z"
+  },
+  "__v": 0,
+  "author": {
+    "$oid": "5fd31d4ea22a3e532869543d"
+  }
+},{
+  "_id": {
+    "$oid": "5fd32accef07ea421c853133"
+  },
+  "body": "I highly recommend this course for anyone who wants to start their journey with UE. Everything is well explained, author will guide you step by step from easiest to more complex issues and will help you if you get stuck on anything. Don't hasitate and just start this course, you wont regret it!",
+  "rating": 5,
+  "createdAt": {
+    "$date": "2020-12-11T08:16:12.985Z"
+  },
+  "updatedAt": {
+    "$date": "2020-12-11T08:16:13.749Z"
+  },
+  "__v": 0,
+  "author": {
+    "$oid": "5fd31d4ea22a3e532869543e"
+  }
+},{
+  "_id": {
+    "$oid": "5fd32accef07ea421c853134"
+  },
+  "body": "It was good overall, but during blueprint sessions it would have been nice if more explanation was given on the inputs. I would still recommend the course though as I found they went over the a lot of useful information.",
+  "rating": 3.5,
+  "createdAt": {
+    "$date": "2020-12-11T08:16:12.985Z"
+  },
+  "updatedAt": {
+    "$date": "2020-12-11T08:16:13.749Z"
+  },
+  "__v": 0,
+  "author": {
+    "$oid": "5fd31d4ea22a3e532869543f"
+  }
+},{
+  "_id": {
+    "$oid": "5fd32accef07ea421c853135"
+  },
+  "body": "Cours wasn't easy to follow as the tutor's voice and the video was often out of sync. Also, this course approach is more \"do this and that, click here and there\" than \"do this because of ...\". I think this course would have been more helpful if explanations were while you making a game, rather than before real action. Also, the tutor's speech seems to be recorded with different microphones, and therefore the sound often suddenly changes back and forth. Ocassionly there is loud background noise. However, tutor himself seems to be knowledgeable, but unfortunately, the course quality feels poor. But this is just my personal experience, it might feel different for you.",
+  "rating": 2.5,
+  "createdAt": {
+    "$date": "2020-12-11T08:16:12.985Z"
+  },
+  "updatedAt": {
+    "$date": "2020-12-11T08:16:13.750Z"
+  },
+  "__v": 0,
+  "author": {
+    "$oid": "5fd31d4ea22a3e5328695440"
+  }
+},{
+  "_id": {
+    "$oid": "5fd32accef07ea421c853136"
+  },
+  "body": "Great beginners course and one i wish i would have taken prior to taking any other unreal course. If you find that approaching a large and powerful engine such as unreal is easier when you first have a firm grip on the basics then this course will be just right for you.\n\nAfter this, you'll find the other courses on Unreal Engine much easier to jump into as you will already understand how and why the engine works.\n\nIt's well taught, topics are concise without too much fluff and i was able to go through it fairly quickly and much of it will serve as a great refresher i'm sure when working on my own projects.\n\ni recommend it highly.\n\nThank you David.",
+  "rating": 5,
+  "createdAt": {
+    "$date": "2020-12-11T08:16:12.985Z"
+  },
+  "updatedAt": {
+    "$date": "2020-12-11T08:16:13.751Z"
+  },
+  "__v": 0,
+  "author": {
+    "$oid": "5fd31d4ea22a3e5328695441"
+  }
+},{
+  "_id": {
+    "$oid": "5fd32accef07ea421c853137"
+  },
+  "body": "Quick and thorough beginner tutorial on Blueprints in Unreal. Explains all the important functions of the engine and shows them in a self built example. Exactly what I was expecting. Thanks a lot! Definitely recommended.",
+  "rating": 4,
+  "createdAt": {
+    "$date": "2020-12-11T08:16:12.985Z"
+  },
+  "updatedAt": {
+    "$date": "2020-12-11T08:16:13.751Z"
+  },
+  "__v": 0,
+  "author": {
+    "$oid": "5fd31d4ea22a3e5328695442"
+  }
+},{
+  "_id": {
+    "$oid": "5fd32accef07ea421c853138"
+  },
+  "body": "maybe a lot of this comes down to me trying to guess what function is next in accomplishing something, like some kind of mystery novel, but I find this tutorial to be perfectly paced.\n\nBecause UNLIKE most tutorials, it isn't plunging immediately into making an extremely basic (and insulting) game, it has you building the skeleton of a game. The parts that are present in pretty much everything. Things as simple and important as being unable to trigger the animation to clear an obstacle unless you have a certain item.\n\nUltimately udemy has to compete with youtube, and in my experience, the youtube alternatives to this commercial are version-outdated and don't work on important constituent parts first.\n\nThe problem is the Timelines-themed videos halfway through the course.\n\nThey're utterly incomprehensible to a layman. the narrator simply says what he's doing and never why, how it works, why it needs to be done, how it's interfacing with anything, etc.",
+  "rating": 3.5,
+  "createdAt": {
+    "$date": "2020-12-11T08:16:12.985Z"
+  },
+  "updatedAt": {
+    "$date": "2020-12-11T08:16:13.752Z"
+  },
+  "__v": 0,
+  "author": {
+    "$oid": "5fd31d4ea22a3e5328695443"
+  }
+},{
+  "_id": {
+    "$oid": "5fd32acdef07ea421c853152"
+  },
+  "body": "I learned a lot of new things about Unreal, the behaviour trees, EQS and such. I liked that there were actual projects being worked through from start to finish. Towards the later lessons, it sometimes seemed that the lecturer was a bit in a hurry. I was following along step-by-step and often the current line of code was finished and scrolled away before I could examine it. Fortunately it was always possible to rewind a little.\n\nOn one hand it was a bit annoying that the lector often the names of classes or blueprints after already creating them, on the other hand I understand that this is all part and parcel of game development. I also liked that there were actual errors on screen so that troubleshooting those could also be practiced.\n\nAltogether, I enjoyed the course very much!",
+  "rating": 4.5,
+  "createdAt": {
+    "$date": "2020-12-11T08:16:13.784Z"
+  },
+  "updatedAt": {
+    "$date": "2020-12-11T08:16:14.618Z"
+  },
+  "__v": 0,
+  "author": {
+    "$oid": "5fd31d4da22a3e5328695438"
+  }
+},{
+  "_id": {
+    "$oid": "5fd32acdef07ea421c853153"
+  },
+  "body": "Tom is really a good teacher, everything he taught in this course is quite helpful to understand Unreal Engine and i am glad that i took this course.",
+  "rating": 5,
+  "createdAt": {
+    "$date": "2020-12-11T08:16:13.784Z"
+  },
+  "updatedAt": {
+    "$date": "2020-12-11T08:16:14.619Z"
+  },
+  "__v": 0,
+  "author": {
+    "$oid": "5fd31d4ea22a3e5328695439"
+  }
+},{
+  "_id": {
+    "$oid": "5fd32acdef07ea421c853154"
+  },
+  "body": "Very good course. However the multiplayer/replication parts were not very well explained (imo). I learn better from figures and stuff but Tom focused more on coding and showed some examples here and there. So you will need to learn the concepts elsewhere if you need full understanding of how the unreal multiplayer networking works. Overall, a very good course. Would recommend to a friend!",
+  "rating": 4.5,
+  "createdAt": {
+    "$date": "2020-12-11T08:16:13.784Z"
+  },
+  "updatedAt": {
+    "$date": "2020-12-11T08:16:14.620Z"
+  },
+  "__v": 0,
+  "author": {
+    "$oid": "5fd31d4ea22a3e532869543a"
+  }
+},{
+  "_id": {
+    "$oid": "5fd32acdef07ea421c853155"
+  },
+  "body": "An iIncredible course covering a wide range of topics and helps you build the fundamentals of two common videogame genres: Stealth and Shooter.\n\nHe covers each subject in-depth and gives plenty of practical examples and opportunities for you to improve and apply what you have learnt.\n\nBy the end of the course you'll have two functional prototypes that you can expand on or even combine into a single game.\n\nTom provides a clear briefing prior to each section and provides clear understanding and enthusiasm in the lessons.",
+  "rating": 5,
+  "createdAt": {
+    "$date": "2020-12-11T08:16:13.784Z"
+  },
+  "updatedAt": {
+    "$date": "2020-12-11T08:16:14.620Z"
+  },
+  "__v": 0,
+  "author": {
+    "$oid": "5fd31d4ea22a3e532869543b"
+  }
+},{
+  "_id": {
+    "$oid": "5fd32acdef07ea421c853156"
+  },
+  "body": "It was great, it was summarize of my knowledge and beyond that as developer I also discover some great tool\n\nBut I expected some Sections about UI. Launch Server and Join Server",
+  "rating": 5,
+  "createdAt": {
+    "$date": "2020-12-11T08:16:13.784Z"
+  },
+  "updatedAt": {
+    "$date": "2020-12-11T08:16:14.621Z"
+  },
+  "__v": 0,
+  "author": {
+    "$oid": "5fd31d4ea22a3e532869543c"
+  }
+},{
+  "_id": {
+    "$oid": "5fd32acdef07ea421c853157"
+  },
+  "body": "This is a great course for someone to learn how to make games with C++ and Unreal Engine. Tom is great at explaining things. I used version 4.24 and had to figure out somethings that have changed. The great part is you can check the Git repo and Tom has updated the code for 4.25 version.\n\nGreat course and I have learned so much. The EQS and advanced AI section was great.",
+  "rating": 5,
+  "createdAt": {
+    "$date": "2020-12-11T08:16:13.784Z"
+  },
+  "updatedAt": {
+    "$date": "2020-12-11T08:16:14.622Z"
+  },
+  "__v": 0,
+  "author": {
+    "$oid": "5fd31d4ea22a3e532869543d"
+  }
+},{
+  "_id": {
+    "$oid": "5fd32acdef07ea421c853158"
+  },
+  "body": "The information and overall learning experience was good. Easily 5 stars if it was updated to keep up with current Unreal Engine version (or at least not as old as 8 versions back). However, the content is out dated in many lectures. And there's loads potential bugs and errors. In fact in the last lecture He gets an error in the editor which he completely ignores and didn't even tell us what it was and how to fix it. In my case I use 4.26p with VS2019. I ended up with many errors on things like an Array error, or some classes don't even exist, warnings about debricated functions.. and few more. Luckily I know Blueprint so I tried to fix as much as I could but it would be great if the lecturer actually keeps this great course up to date.\n\nFinally, I really would have loved this course if the lecturer actually communicate with us and answer our questions.\n\nOverall, great course but be ready to fix a lot of problems yourself. So, rely too much on his methods as you'll find many things he does are outdated!",
+  "rating": 3,
+  "createdAt": {
+    "$date": "2020-12-11T08:16:13.784Z"
+  },
+  "updatedAt": {
+    "$date": "2020-12-11T08:16:14.622Z"
+  },
+  "__v": 0,
+  "author": {
+    "$oid": "5fd31d4ea22a3e532869543e"
+  }
+},{
+  "_id": {
+    "$oid": "5fd32acdef07ea421c853159"
+  },
+  "body": "The instructor is very clear.\n\nIf you plan on using the most up to date engine, you will run into some issues. However, all of the QA's for each lecture have and up to date method.\n\nTom still replies to questions which is always a big help!",
+  "rating": 5,
+  "createdAt": {
+    "$date": "2020-12-11T08:16:13.784Z"
+  },
+  "updatedAt": {
+    "$date": "2020-12-11T08:16:14.623Z"
+  },
+  "__v": 0,
+  "author": {
+    "$oid": "5fd31d4ea22a3e532869543f"
+  }
+},{
+  "_id": {
+    "$oid": "5fd32acdef07ea421c85315a"
+  },
+  "body": "Tom Looman is a great instructor because he explains all steps rather than simply expecting me to follow along. I actually understand what I’m doing so I can implement what I’ve learned in my own way on my projects in the future. He also replies to his questions section in a reasonable time frame. His course is very well done.",
+  "rating": 5,
+  "createdAt": {
+    "$date": "2020-12-11T08:16:13.784Z"
+  },
+  "updatedAt": {
+    "$date": "2020-12-11T08:16:14.623Z"
+  },
+  "__v": 0,
+  "author": {
+    "$oid": "5fd31d4ea22a3e5328695440"
+  }
+},{
+  "_id": {
+    "$oid": "5fd32acdef07ea421c85315b"
+  },
+  "body": "It was exactly what I was looking for, it helped me train my C++, I learned a lot of UE4's C++ and gave me many useful tools to face different and varied problems and features.\n\nLast but not the least the teacher looks very experienced and keeps answering the questions and updating the resources to the course!",
+  "rating": 5,
+  "createdAt": {
+    "$date": "2020-12-11T08:16:13.784Z"
+  },
+  "updatedAt": {
+    "$date": "2020-12-11T08:16:14.624Z"
+  },
+  "__v": 0,
+  "author": {
+    "$oid": "5fd31d4ea22a3e5328695441"
+  }
+},{
+  "_id": {
+    "$oid": "5fd32acdef07ea421c85315c"
+  },
+  "body": "El curso es perfecto para comenzar a utilizar el engine y acabas haciendo varios minijuegos. Tambien te enseña a replicarlo por red pero aunque no te interese hacer un juego online recomiendo el curso porque te enseña primero a hacerlo en single player. El profesor, Tom Looman, explica todos los temas de forma super clara, le doy un 10!",
+  "rating": 5,
+  "createdAt": {
+    "$date": "2020-12-11T08:16:13.785Z"
+  },
+  "updatedAt": {
+    "$date": "2020-12-11T08:16:14.625Z"
+  },
+  "__v": 0,
+  "author": {
+    "$oid": "5fd31d4ea22a3e5328695442"
+  }
+},{
+  "_id": {
+    "$oid": "5fd32acdef07ea421c85315d"
+  },
+  "body": "Went a bit to quickly at times and felt like I was consitently pausing the video.\n\nWith little experience of UE4 so far I felt like the techniques he was using were not optimised or best practice and started to teach people bad practices like copy and pasting code.\n\nSome lectures just cut off immedietly and it seemed like he was in mid sentence.",
+  "rating": 3,
+  "createdAt": {
+    "$date": "2020-12-11T08:16:13.785Z"
+  },
+  "updatedAt": {
+    "$date": "2020-12-11T08:16:14.625Z"
+  },
+  "__v": 0,
+  "author": {
+    "$oid": "5fd31d4ea22a3e5328695443"
+  }
+},{
+  "_id": {
+    "$oid": "5fd32aceef07ea421c853179"
+  },
+  "body": "great fun way to learn how to make functional games in Unity.",
+  "rating": 5,
+  "createdAt": {
+    "$date": "2020-12-11T08:16:14.653Z"
+  },
+  "updatedAt": {
+    "$date": "2020-12-11T08:16:15.474Z"
+  },
+  "__v": 0,
+  "author": {
+    "$oid": "5fd31d4da22a3e5328695438"
+  }
+},{
+  "_id": {
+    "$oid": "5fd32aceef07ea421c85317a"
+  },
+  "body": "Please update the course for the current versions of Unity,otherwise great course!",
+  "rating": 4.5,
+  "createdAt": {
+    "$date": "2020-12-11T08:16:14.653Z"
+  },
+  "updatedAt": {
+    "$date": "2020-12-11T08:16:15.475Z"
+  },
+  "__v": 0,
+  "author": {
+    "$oid": "5fd31d4ea22a3e5328695439"
+  }
+},{
+  "_id": {
+    "$oid": "5fd32aceef07ea421c85317b"
+  },
+  "body": "The course covers wide variety of topics and the games made here actually look good, thanks for the assets included. The manner of the tutorial is very engaging, fun, simple and effective, most hosts are really great. But there's a downside too in in 2020: it's a bit outdated (made with Unity 5 which is from 2015), which means some complications with deprecation as well as the authors not necessarily are up for answering every single question for years on end. But for me personally this is probably one of the best courses I've ever bought, and special big thanks to Jonathan Burgoyne for the amazing opportunity! :)",
+  "rating": 5,
+  "createdAt": {
+    "$date": "2020-12-11T08:16:14.653Z"
+  },
+  "updatedAt": {
+    "$date": "2020-12-11T08:16:15.476Z"
+  },
+  "__v": 0,
+  "author": {
+    "$oid": "5fd31d4ea22a3e532869543a"
+  }
+},{
+  "_id": {
+    "$oid": "5fd32aceef07ea421c85317c"
+  },
+  "body": "The course was not bad, but it's lacking majorly in explanation of the Minecraft section and the multiplayer section is out-dated. The coding practices in this course are very bad, they over-complicate most things. Overall I have learnt some valuable information as an intermediate Unity user however I don't recommend this course, it's out-dated and not structured properly.",
+  "rating": 3,
+  "createdAt": {
+    "$date": "2020-12-11T08:16:14.653Z"
+  },
+  "updatedAt": {
+    "$date": "2020-12-11T08:16:15.477Z"
+  },
+  "__v": 0,
+  "author": {
+    "$oid": "5fd31d4ea22a3e532869543b"
+  }
+},{
+  "_id": {
+    "$oid": "5fd32aceef07ea421c85317d"
+  },
+  "body": "I'm extremely impressed by the quality of a very well-organised course with a range of difficulty levels that accommodate all types of learners plus the enthusiasm and dedication of the lecturer team whose unique experience, expertise and programming style did create a rich learning experience for learners. A big Thank You to the whole team!",
+  "rating": 5,
+  "createdAt": {
+    "$date": "2020-12-11T08:16:14.653Z"
+  },
+  "updatedAt": {
+    "$date": "2020-12-11T08:16:15.478Z"
+  },
+  "__v": 0,
+  "author": {
+    "$oid": "5fd31d4ea22a3e532869543c"
+  }
+},{
+  "_id": {
+    "$oid": "5fd32aceef07ea421c85317e"
+  },
+  "body": "50% completion of course progress.\n\nTower defense has some bugs and coding logic not good.\n\nCurrently Legend of Devslops Fantasy course feels good.",
+  "rating": 3,
+  "createdAt": {
+    "$date": "2020-12-11T08:16:14.653Z"
+  },
+  "updatedAt": {
+    "$date": "2020-12-11T08:16:15.478Z"
+  },
+  "__v": 0,
+  "author": {
+    "$oid": "5fd31d4ea22a3e532869543d"
+  }
+},{
+  "_id": {
+    "$oid": "5fd32aceef07ea421c85317f"
+  },
+  "body": "En general el curso me parece bueno para principiantes. Las explicaciones de algunas de las herramientas de Unity y la memorización de partes de código vitales hacen que al poco tiempo puedas detectar pequeños errores de sintaxis o de lógica en tu propio código. El problema viene cuando mucho del código que se escribe solo se copia y pega sin muchas veces entender como funciona o que tipo de parámetros requiere, además la versión de Unity utilizada en el curso es una versión bastante atrasada (4 años en 2020).\n\nLo recomiendo si no se tiene nada de experiencia dentro del desarrollo de software y se quiere empezar por algún lado. Los quizes y las preguntas dentro de la clase muchas veces harán más por enseñarte que el sólo repetir y copiar el código.",
+  "rating": 4,
+  "createdAt": {
+    "$date": "2020-12-11T08:16:14.653Z"
+  },
+  "updatedAt": {
+    "$date": "2020-12-11T08:16:15.479Z"
+  },
+  "__v": 0,
+  "author": {
+    "$oid": "5fd31d4ea22a3e532869543e"
+  }
+},{
+  "_id": {
+    "$oid": "5fd32aceef07ea421c853180"
+  },
+  "body": "Very good for Unity beginners though it is a bit outdated.\n\nNetworking stuff is deprecated.",
+  "rating": 3.5,
+  "createdAt": {
+    "$date": "2020-12-11T08:16:14.653Z"
+  },
+  "updatedAt": {
+    "$date": "2020-12-11T08:16:15.480Z"
+  },
+  "__v": 0,
+  "author": {
+    "$oid": "5fd31d4ea22a3e532869543f"
+  }
+},{
+  "_id": {
+    "$oid": "5fd32aceef07ea421c853181"
+  },
+  "body": "Mostly 3D game development, not much 2D development. Course used older version of Unity so some things didn't work for unknown reasons.",
+  "rating": 2.5,
+  "createdAt": {
+    "$date": "2020-12-11T08:16:14.653Z"
+  },
+  "updatedAt": {
+    "$date": "2020-12-11T08:16:15.480Z"
+  },
+  "__v": 0,
+  "author": {
+    "$oid": "5fd31d4ea22a3e5328695440"
+  }
+},{
+  "_id": {
+    "$oid": "5fd32aceef07ea421c853182"
+  },
+  "body": "I needed assistance, placed questions, and upload sources but never received a reaction.\n\nI liked the music and switch between the tutor but also confusing because they both use another coding style.",
+  "rating": 3,
+  "createdAt": {
+    "$date": "2020-12-11T08:16:14.653Z"
+  },
+  "updatedAt": {
+    "$date": "2020-12-11T08:16:15.481Z"
+  },
+  "__v": 0,
+  "author": {
+    "$oid": "5fd31d4ea22a3e5328695441"
+  }
+},{
+  "_id": {
+    "$oid": "5fd32aceef07ea421c853183"
+  },
+  "body": "The course starts out well with Mark taking the lead, that section was very well done and I actually learned a lot. The tower defence section however was where things started taking a massive downward turn. The code logic was sketchy at best, the course structure was sloppy, I do not like videos that are 25-30 minutes long, cut them down into more, smaller videos. I stopped before completing the second section, got a refund and moved onto another course by different teachers.",
+  "rating": 2.5,
+  "createdAt": {
+    "$date": "2020-12-11T08:16:14.653Z"
+  },
+  "updatedAt": {
+    "$date": "2020-12-11T08:16:15.481Z"
+  },
+  "__v": 0,
+  "author": {
+    "$oid": "5fd31d4ea22a3e5328695442"
+  }
+},{
+  "_id": {
+    "$oid": "5fd32aceef07ea421c853184"
+  },
+  "body": "A really good course! Learnt a lot!",
+  "rating": 4.5,
+  "createdAt": {
+    "$date": "2020-12-11T08:16:14.653Z"
+  },
+  "updatedAt": {
+    "$date": "2020-12-11T08:16:15.482Z"
+  },
+  "__v": 0,
+  "author": {
+    "$oid": "5fd31d4ea22a3e5328695443"
+  }
+},{
+  "_id": {
+    "$oid": "5fd32acfef07ea421c85319e"
+  },
+  "body": "It's obsolete and the teacher doesn't respond to the present question. It's not advisable to buy it. You will get frustrated, without help",
+  "rating": 1,
+  "createdAt": {
+    "$date": "2020-12-11T08:16:15.508Z"
+  },
+  "updatedAt": {
+    "$date": "2020-12-11T08:16:16.328Z"
+  },
+  "__v": 0,
+  "author": {
+    "$oid": "5fd31d4da22a3e5328695438"
+  }
+},{
+  "_id": {
+    "$oid": "5fd32acfef07ea421c85319f"
+  },
+  "body": "Please elaborate why did u set the resolution max size to 1024 instead of having it higher or lower and keep it that was just don’t rush while you explain like in other videos",
+  "rating": 4.5,
+  "createdAt": {
+    "$date": "2020-12-11T08:16:15.508Z"
+  },
+  "updatedAt": {
+    "$date": "2020-12-11T08:16:16.330Z"
+  },
+  "__v": 0,
+  "author": {
+    "$oid": "5fd31d4ea22a3e5328695439"
+  }
+},{
+  "_id": {
+    "$oid": "5fd32acfef07ea421c8531a0"
+  },
+  "body": "Unity concepts & programming terminologies & syntax of the instructor is great but the programming design and the way he implements the scripts are poor. For Unity beginners & experienced programmer who know OOPS design, this course is good because they know to implement the code in a better way. If you are a beginner to programming, this course may leave you with poor programming practices & OOPS design. Though Unity part of this course is very good.",
+  "rating": 4,
+  "createdAt": {
+    "$date": "2020-12-11T08:16:15.508Z"
+  },
+  "updatedAt": {
+    "$date": "2020-12-11T08:16:16.331Z"
+  },
+  "__v": 0,
+  "author": {
+    "$oid": "5fd31d4ea22a3e532869543a"
+  }
+},{
+  "_id": {
+    "$oid": "5fd32acfef07ea421c8531a1"
+  },
+  "body": "I discovered the version of Unity I am using seems to have issues with string interpolation. It would not allow to add the function to my button until i changed it.",
+  "rating": 5,
+  "createdAt": {
+    "$date": "2020-12-11T08:16:15.508Z"
+  },
+  "updatedAt": {
+    "$date": "2020-12-11T08:16:16.332Z"
+  },
+  "__v": 0,
+  "author": {
+    "$oid": "5fd31d4ea22a3e532869543b"
+  }
+},{
+  "_id": {
+    "$oid": "5fd32acfef07ea421c8531a2"
+  },
+  "body": "Sehr gut erklärt! Bisher bin ich sehr zufrieden.",
+  "rating": 5,
+  "createdAt": {
+    "$date": "2020-12-11T08:16:15.508Z"
+  },
+  "updatedAt": {
+    "$date": "2020-12-11T08:16:16.332Z"
+  },
+  "__v": 0,
+  "author": {
+    "$oid": "5fd31d4ea22a3e532869543c"
+  }
+},{
+  "_id": {
+    "$oid": "5fd32acfef07ea421c8531a3"
+  },
+  "body": "Great teacher, my father recommended him to me and I’ve been having a great time learning how to code and make my games. If there was above a 5 star I’d personally choose that option",
+  "rating": 5,
+  "createdAt": {
+    "$date": "2020-12-11T08:16:15.508Z"
+  },
+  "updatedAt": {
+    "$date": "2020-12-11T08:16:16.333Z"
+  },
+  "__v": 0,
+  "author": {
+    "$oid": "5fd31d4ea22a3e532869543d"
+  }
+},{
+  "_id": {
+    "$oid": "5fd32acfef07ea421c8531a4"
+  },
+  "body": "This course is old and very out dated. I also discovered a problem with one of the courses and contacted the instructor who blew me off and wouldn't even try to help, even though the original instruction was WRONG. So he's happy to take your money for code he's aware doesn't work, but will no longer support it or correct it. This course should be removed and udemy should sanction this creator. He doesn't even post here anymore cause he doesn't get enough money and instead does his own site plus youtube. So really it's a big money grab for him, he doesn't care about you as the student or even his own integrity as an instructor.",
+  "rating": 1.5,
+  "createdAt": {
+    "$date": "2020-12-11T08:16:15.508Z"
+  },
+  "updatedAt": {
+    "$date": "2020-12-11T08:16:16.333Z"
+  },
+  "__v": 0,
+  "author": {
+    "$oid": "5fd31d4ea22a3e532869543e"
+  }
+},{
+  "_id": {
+    "$oid": "5fd32acfef07ea421c8531a5"
+  },
+  "body": "I appreciate the effort put into this course and I am learning. The presenter's english skills are sometimes limited an circular. He's constantly using the word \"here\" instead of naming screen locations, and he swaps nouns and verbs constantly. I like him. You can tell he's trying very hard. But there are definitely vague moments of detail where instead of explaining, he's just repeating terms. Like, \"I am using get component here in order to get the component from here.\" That's a simple example of word choice used throughout the lectures.",
+  "rating": 3,
+  "createdAt": {
+    "$date": "2020-12-11T08:16:15.508Z"
+  },
+  "updatedAt": {
+    "$date": "2020-12-11T08:16:16.334Z"
+  },
+  "__v": 0,
+  "author": {
+    "$oid": "5fd31d4ea22a3e532869543f"
+  }
+},{
+  "_id": {
+    "$oid": "5fd32acfef07ea421c8531a6"
+  },
+  "body": "Course content is a bit under organized. Since the project is not downloadable (only matterials), it is a little hard to trace the steps and have to go back and forth to guess the prefabs setting.",
+  "rating": 2.5,
+  "createdAt": {
+    "$date": "2020-12-11T08:16:15.508Z"
+  },
+  "updatedAt": {
+    "$date": "2020-12-11T08:16:16.335Z"
+  },
+  "__v": 0,
+  "author": {
+    "$oid": "5fd31d4ea22a3e5328695440"
+  }
+},{
+  "_id": {
+    "$oid": "5fd32acfef07ea421c8531a7"
+  },
+  "body": "need more detail explaination about how backgroud was fit to camera size.",
+  "rating": 4,
+  "createdAt": {
+    "$date": "2020-12-11T08:16:15.508Z"
+  },
+  "updatedAt": {
+    "$date": "2020-12-11T08:16:16.335Z"
+  },
+  "__v": 0,
+  "author": {
+    "$oid": "5fd31d4ea22a3e5328695441"
+  }
+},{
+  "_id": {
+    "$oid": "5fd32acfef07ea421c8531a8"
+  },
+  "body": "The commentary is very quick - I have to keep stopping the video and then doing what has been shown. Hopefully the explanations will also get clearer so I can apply the learning to my own projects.",
+  "rating": 3.5,
+  "createdAt": {
+    "$date": "2020-12-11T08:16:15.508Z"
+  },
+  "updatedAt": {
+    "$date": "2020-12-11T08:16:16.336Z"
+  },
+  "__v": 0,
+  "author": {
+    "$oid": "5fd31d4ea22a3e5328695442"
+  }
+},{
+  "_id": {
+    "$oid": "5fd32acfef07ea421c8531a9"
+  },
+  "body": "I bought this course sa few years ago, but never got around to looking at it. I really wish I did....\n\nIf you want to learn how to make the trash that floods the app stores on mobile platform then this is the course for you.",
+  "rating": 1,
+  "createdAt": {
+    "$date": "2020-12-11T08:16:15.509Z"
+  },
+  "updatedAt": {
+    "$date": "2020-12-11T08:16:16.336Z"
+  },
+  "__v": 0,
+  "author": {
+    "$oid": "5fd31d4ea22a3e5328695443"
+  }
+},{
+  "_id": {
+    "$oid": "5fd32ad0ef07ea421c8531c5"
+  },
+  "body": "I really enjoyed this course and feel I learnt a lot about Godot and game development in general. The journey is well structured and Yann has a great delivery.\n\nThe game examples build well on one and other, and you put together a solid toolbox to begin bringing your own ideas to fruition. I would definitely recommend this course",
+  "rating": 4,
+  "createdAt": {
+    "$date": "2020-12-11T08:16:16.363Z"
+  },
+  "updatedAt": {
+    "$date": "2020-12-11T08:16:17.183Z"
+  },
+  "__v": 0,
+  "author": {
+    "$oid": "5fd31d4da22a3e5328695438"
+  }
+},{
+  "_id": {
+    "$oid": "5fd32ad0ef07ea421c8531c7"
+  },
+  "body": "Best Game Dev course in udemy right now, unlike other ones, this one teaches you how to make actual commercial games, and covers many topics such as: game mechanics, enemy behavior, level construction/tiling, modular design, UI and game settings.\n\nthe progression from basic concepts to advanced ones is very smooth and feels natural, it never felt bogged down or too frustrating\n\nYann is charismatic and has a real passion for teaching",
+  "rating": 5,
+  "createdAt": {
+    "$date": "2020-12-11T08:16:16.363Z"
+  },
+  "updatedAt": {
+    "$date": "2020-12-11T08:16:17.185Z"
+  },
+  "__v": 0,
+  "author": {
+    "$oid": "5fd31d4ea22a3e532869543a"
+  }
+},{
+  "_id": {
+    "$oid": "5fd32ad0ef07ea421c8531c6"
+  },
+  "body": "The course matches my skill level quite well. I like how comprehensive it is and I like the challenges than encourage me to do some coding myself. The instructor also makes a point of showing how to access the documentation which will have long-term value as will the drag and drop shortcuts he demonstrates. I'd like the instructor to slow down and be sure to tell us what he's clicking or which keys he's pressing to get the effects he's demonstrating.",
+  "rating": 4,
+  "createdAt": {
+    "$date": "2020-12-11T08:16:16.363Z"
+  },
+  "updatedAt": {
+    "$date": "2020-12-11T08:16:17.184Z"
+  },
+  "__v": 0,
+  "author": {
+    "$oid": "5fd31d4ea22a3e5328695439"
+  }
+},{
+  "_id": {
+    "$oid": "5fd32ad0ef07ea421c8531c8"
+  },
+  "body": "Very positive experience overall for getting in touch with the engine for the first time. I would have loved one of the 3D projects to be really (really) advanced level, but I guess there will be another course for that. Good job and keep up the good work!",
+  "rating": 4.5,
+  "createdAt": {
+    "$date": "2020-12-11T08:16:16.363Z"
+  },
+  "updatedAt": {
+    "$date": "2020-12-11T08:16:17.185Z"
+  },
+  "__v": 0,
+  "author": {
+    "$oid": "5fd31d4ea22a3e532869543b"
+  }
+},{
+  "_id": {
+    "$oid": "5fd32ad0ef07ea421c8531c9"
+  },
+  "body": "I really liked it and learnt a lot about Godot. Interesting teaching style from Yann but he kept me engaged and keen to learn more!",
+  "rating": 5,
+  "createdAt": {
+    "$date": "2020-12-11T08:16:16.363Z"
+  },
+  "updatedAt": {
+    "$date": "2020-12-11T08:16:17.186Z"
+  },
+  "__v": 0,
+  "author": {
+    "$oid": "5fd31d4ea22a3e532869543c"
+  }
+},{
+  "_id": {
+    "$oid": "5fd32ad0ef07ea421c8531ca"
+  },
+  "body": "Excellent course, definitely recommend it. Some constructive criticism is that it's clear the re-do of the course has improved the code quality a lot, as it does feel like the code in the sections which haven't been updated yet is really very messy (ie 2nd half of HeistMeisters, and 3D lessons), and a lot is achieved through hacks which would encourage bad practice for beginner programmers. The code quality and consistency of the re-done courses could still be improved, but having said that I still give it 5 stars because it's an excellent course, very well structured and to be honest still much better quality code (and very well prepared) than many from other game development courses. One more thing to mention is that it feels the 2nd 3D game has quite a lot of overlap from the first 3D and feels like for a lot of it there are not many new concepts learned, especially compared to how many new concepts are introduced as the 2D games progress - if these are re-done it would be great to see new more advanced concepts in the 2nd 3D course (maybe like adding a godot module, etc). Finally, the C# piece clearly is not in place so it woudl also be good to update the intro to remove that mention until it's complete, and tbh that could be a whole new course in itself instead of appending it to this one. Thanks Yann & Ben.",
+  "rating": 5,
+  "createdAt": {
+    "$date": "2020-12-11T08:16:16.363Z"
+  },
+  "updatedAt": {
+    "$date": "2020-12-11T08:16:17.186Z"
+  },
+  "__v": 0,
+  "author": {
+    "$oid": "5fd31d4ea22a3e532869543d"
+  }
+},{
+  "_id": {
+    "$oid": "5fd32ad0ef07ea421c8531cb"
+  },
+  "body": "Awesome course, the way Yann explained everything, made me understand both the game engine and gdscript alot easier. It answered all of my questions.",
+  "rating": 5,
+  "createdAt": {
+    "$date": "2020-12-11T08:16:16.363Z"
+  },
+  "updatedAt": {
+    "$date": "2020-12-11T08:16:17.187Z"
+  },
+  "__v": 0,
+  "author": {
+    "$oid": "5fd31d4ea22a3e532869543e"
+  }
+},{
+  "_id": {
+    "$oid": "5fd32ad0ef07ea421c8531cc"
+  },
+  "body": "I think it was great, but them they took out the c# classes... But they can update this course and make c# parts because now godot 3.2 has way better support!",
+  "rating": 3.5,
+  "createdAt": {
+    "$date": "2020-12-11T08:16:16.363Z"
+  },
+  "updatedAt": {
+    "$date": "2020-12-11T08:16:17.188Z"
+  },
+  "__v": 0,
+  "author": {
+    "$oid": "5fd31d4ea22a3e532869543f"
+  }
+},{
+  "_id": {
+    "$oid": "5fd32ad0ef07ea421c8531cd"
+  },
+  "body": "After some hrs, the voice and attitude is annoying. I cant even finish some parts. To this, increase the video speed to 1.5 or just go to Youtube.\n\nMany videos are more than 10 mins, these can be perfectly reduced to 3 or less.",
+  "rating": 1,
+  "createdAt": {
+    "$date": "2020-12-11T08:16:16.363Z"
+  },
+  "updatedAt": {
+    "$date": "2020-12-11T08:16:17.188Z"
+  },
+  "__v": 0,
+  "author": {
+    "$oid": "5fd31d4ea22a3e5328695440"
+  }
+},{
+  "_id": {
+    "$oid": "5fd32ad0ef07ea421c8531ce"
+  },
+  "body": "The quality of content was awesome but the content was not enough. I thought we'd learn everything about Godot.\n\nI didn't see anything about HTTPRequest, SkeletonIK, ResourcePreloader, Bone2D, Joint2D, PathFollow2D nodes and the most important 3D nodes was not mentioned!!(VisualInstance Nodes)\n\nActually, we didn't learn anything about 3D at all. We just did import models and animate them.\n\nAnd why we didn't see anything about online multiplayer gaming??(LAN and server)\n\nI'm sorry, I'm just disappointed.",
+  "rating": 2.5,
+  "createdAt": {
+    "$date": "2020-12-11T08:16:16.363Z"
+  },
+  "updatedAt": {
+    "$date": "2020-12-11T08:16:17.189Z"
+  },
+  "__v": 0,
+  "author": {
+    "$oid": "5fd31d4ea22a3e5328695441"
+  }
+},{
+  "_id": {
+    "$oid": "5fd32ad0ef07ea421c8531cf"
+  },
+  "body": "What a great course !, Yann is a very fun and exciting teacher",
+  "rating": 5,
+  "createdAt": {
+    "$date": "2020-12-11T08:16:16.363Z"
+  },
+  "updatedAt": {
+    "$date": "2020-12-11T08:16:17.189Z"
+  },
+  "__v": 0,
+  "author": {
+    "$oid": "5fd31d4ea22a3e5328695442"
+  }
+},{
+  "_id": {
+    "$oid": "5fd32ad0ef07ea421c8531d0"
+  },
+  "body": "Very detailled instructions to build the games presented in the course. Almost halfway through it and I discovered how much GODOT is hassle free and very fun to make games with it.",
+  "rating": 5,
+  "createdAt": {
+    "$date": "2020-12-11T08:16:16.363Z"
+  },
+  "updatedAt": {
+    "$date": "2020-12-11T08:16:17.190Z"
+  },
+  "__v": 0,
+  "author": {
+    "$oid": "5fd31d4ea22a3e5328695443"
+  }
+},{
+  "_id": {
+    "$oid": "5fd32ad1ef07ea421c8531ea"
+  },
+  "body": "Great course with a lot of interesting topics. I got a good starting point, how to start developing with blueprints in the Unreal Engine.",
+  "rating": 4.5,
+  "createdAt": {
+    "$date": "2020-12-11T08:16:17.216Z"
+  },
+  "updatedAt": {
+    "$date": "2020-12-11T08:16:18.034Z"
+  },
+  "__v": 0,
+  "author": {
+    "$oid": "5fd31d4da22a3e5328695438"
+  }
+},{
+  "_id": {
+    "$oid": "5fd32ad1ef07ea421c8531eb"
+  },
+  "body": "Comprehensive, step by step training with constant challenges to get you to actually understand and absorb the concepts so that you can do more yourself. By the end I was making whole sets of mechanics and features just based on the summary (non-challenge summaries at that) and it felt fantastic to have done it by myself :)",
+  "rating": 5,
+  "createdAt": {
+    "$date": "2020-12-11T08:16:17.216Z"
+  },
+  "updatedAt": {
+    "$date": "2020-12-11T08:16:18.034Z"
+  },
+  "__v": 0,
+  "author": {
+    "$oid": "5fd31d4ea22a3e5328695439"
+  }
+},{
+  "_id": {
+    "$oid": "5fd32ad1ef07ea421c8531ec"
+  },
+  "body": "I still want to learn how to use BluePrints and how to build games. This was my first course on getting to know Unreal Engine and it was fun and I want to learn even more .... (I have already bought other BP courses as well as courses on mastering Blender and I want to combine the two in the future.)\n\nProbably i will come back and 'restart' the course to practice my skills.",
+  "rating": 5,
+  "createdAt": {
+    "$date": "2020-12-11T08:16:17.216Z"
+  },
+  "updatedAt": {
+    "$date": "2020-12-11T08:16:18.035Z"
+  },
+  "__v": 0,
+  "author": {
+    "$oid": "5fd31d4ea22a3e532869543a"
+  }
+},{
+  "_id": {
+    "$oid": "5fd32ad1ef07ea421c8531ed"
+  },
+  "body": "The course is very well laid out and all topics are explained very well. The exercises are very well structured as they get harder the further you get into the course. I would definitely recommend this course to others.",
+  "rating": 5,
+  "createdAt": {
+    "$date": "2020-12-11T08:16:17.216Z"
+  },
+  "updatedAt": {
+    "$date": "2020-12-11T08:16:18.035Z"
+  },
+  "__v": 0,
+  "author": {
+    "$oid": "5fd31d4ea22a3e532869543b"
+  }
+},{
+  "_id": {
+    "$oid": "5fd32ad1ef07ea421c8531ef"
+  },
+  "body": "It was a good learning experience. The instructor's clarity and rhythm at explaining the concepts was on point even for a non-native English speaker like me. Overall, it was a nice and solid introduction to Blueprints, learnt a lot from it.",
+  "rating": 4,
+  "createdAt": {
+    "$date": "2020-12-11T08:16:17.216Z"
+  },
+  "updatedAt": {
+    "$date": "2020-12-11T08:16:18.037Z"
+  },
+  "__v": 0,
+  "author": {
+    "$oid": "5fd31d4ea22a3e532869543d"
+  }
+},{
+  "_id": {
+    "$oid": "5fd32ad1ef07ea421c8531ee"
+  },
+  "body": "It took me a minute to take in Lesson 3 but now that I got it down, I am very satisfied. This course is absolutely outstanding!!",
+  "rating": 5,
+  "createdAt": {
+    "$date": "2020-12-11T08:16:17.216Z"
+  },
+  "updatedAt": {
+    "$date": "2020-12-11T08:16:18.036Z"
+  },
+  "__v": 0,
+  "author": {
+    "$oid": "5fd31d4ea22a3e532869543c"
+  }
+},{
+  "_id": {
+    "$oid": "5fd32ad1ef07ea421c8531f0"
+  },
+  "body": "Great course, very instructional, didn't leave out any processes that they did with the exception of one during the Mars Marine game but it was very minor. Would take more blueprint courses by them and hope to see more as the C++ courses while very good are a bit to slow for my taste, blueprints feels good. Great course and kudo's to GameDev. I eagerly await more courses and content.",
+  "rating": 4.5,
+  "createdAt": {
+    "$date": "2020-12-11T08:16:17.216Z"
+  },
+  "updatedAt": {
+    "$date": "2020-12-11T08:16:18.037Z"
+  },
+  "__v": 0,
+  "author": {
+    "$oid": "5fd31d4ea22a3e532869543e"
+  }
+},{
+  "_id": {
+    "$oid": "5fd32ad1ef07ea421c8531f1"
+  },
+  "body": "Very good introduction to Blueprints. I'm a complete beginner, so there was a lot to take in, but it's well structured and easy to follow and understand.",
+  "rating": 5,
+  "createdAt": {
+    "$date": "2020-12-11T08:16:17.216Z"
+  },
+  "updatedAt": {
+    "$date": "2020-12-11T08:16:18.038Z"
+  },
+  "__v": 0,
+  "author": {
+    "$oid": "5fd31d4ea22a3e532869543f"
+  }
+},{
+  "_id": {
+    "$oid": "5fd32ad1ef07ea421c8531f2"
+  },
+  "body": "Finished the entire course in 3 days.\n\nI have prior knowledge in making 2D games in Godot and programming in general.\n\nThe first and second sections were great. However, as the course goes on, there are parts where the instructor didn't introduce things properly and speed through some concepts, even I had to playback for a bit to catchup with what he's trying to talk about.\n\nAnyway, in general it's a great course for people with existing knowledge in other game engines getting into Unreal, but if you are a complete beginner you will struggle a bit.\n\nAt last, he doesn't seem to answer a lot of questions in the Q&A, so be prepared to google your way through.",
+  "rating": 3.5,
+  "createdAt": {
+    "$date": "2020-12-11T08:16:17.216Z"
+  },
+  "updatedAt": {
+    "$date": "2020-12-11T08:16:18.038Z"
+  },
+  "__v": 0,
+  "author": {
+    "$oid": "5fd31d4ea22a3e5328695440"
+  }
+},{
+  "_id": {
+    "$oid": "5fd32ad1ef07ea421c8531f3"
+  },
+  "body": "I purchased this course hoping for an opportunity to get down under the hood and explore some of the more technical, programming aspects of Unreal. It did not disappoint! Extremely well organized and informative!",
+  "rating": 5,
+  "createdAt": {
+    "$date": "2020-12-11T08:16:17.217Z"
+  },
+  "updatedAt": {
+    "$date": "2020-12-11T08:16:18.039Z"
+  },
+  "__v": 0,
+  "author": {
+    "$oid": "5fd31d4ea22a3e5328695441"
+  }
+},{
+  "_id": {
+    "$oid": "5fd32ad1ef07ea421c8531f4"
+  },
+  "body": "For the price, it was great. You get an overview of Blueprints as well as the the Unreal Engine interface. Gavin explains things step by step, with few words and in a very logical way.",
+  "rating": 5,
+  "createdAt": {
+    "$date": "2020-12-11T08:16:17.217Z"
+  },
+  "updatedAt": {
+    "$date": "2020-12-11T08:16:18.039Z"
+  },
+  "__v": 0,
+  "author": {
+    "$oid": "5fd31d4ea22a3e5328695442"
+  }
+},{
+  "_id": {
+    "$oid": "5fd32ad1ef07ea421c8531f5"
+  },
+  "body": "So far so good. The support options are good. Good explanations on what we are doing. Only holdups are my own lack of knowledge and the amount of time I can dedicate at any given time, so my retention can be lacking. Happy I can just pop back to the relative sections and rewatch as needed",
+  "rating": 5,
+  "createdAt": {
+    "$date": "2020-12-11T08:16:17.217Z"
+  },
+  "updatedAt": {
+    "$date": "2020-12-11T08:16:18.040Z"
+  },
+  "__v": 0,
+  "author": {
+    "$oid": "5fd31d4ea22a3e5328695443"
+  }
+},{
+  "_id": {
+    "$oid": "5fd32ad2ef07ea421c85320f"
+  },
+  "body": "Course was very helpful altogether. I really liked using abstract classes for creating enemies. I wish there were more gameplay mechanics stuff and creating additional level would be a big plus. That would make the course feel much more authentic.",
+  "rating": 4.5,
+  "createdAt": {
+    "$date": "2020-12-11T08:16:18.066Z"
+  },
+  "updatedAt": {
+    "$date": "2020-12-11T08:16:18.834Z"
+  },
+  "__v": 0,
+  "author": {
+    "$oid": "5fd31d4da22a3e5328695438"
+  }
+},{
+  "_id": {
+    "$oid": "5fd32ad2ef07ea421c853210"
+  },
+  "body": "It was awesome and quit perceivable. It could be a little bit of a difficulty if your unity version is different from the course. But still you will find and learn amazing thing throughout this game. If you can look a little deeper you will find some tiny glitches in the game, which you have to solve going forward.",
+  "rating": 4.5,
+  "createdAt": {
+    "$date": "2020-12-11T08:16:18.066Z"
+  },
+  "updatedAt": {
+    "$date": "2020-12-11T08:16:18.835Z"
+  },
+  "__v": 0,
+  "author": {
+    "$oid": "5fd31d4ea22a3e5328695439"
+  }
+},{
+  "_id": {
+    "$oid": "5fd32ad2ef07ea421c853211"
+  },
+  "body": "This is the 3rd course with Jonathan I've enrolled in because he's an effective and engaging instructor. Highly recommended!\n\nMy one issue is that we covered publishing a game without sound or a Win condition. I just assumed adding the sound effects included in the assets would be covered.",
+  "rating": 4.5,
+  "createdAt": {
+    "$date": "2020-12-11T08:16:18.066Z"
+  },
+  "updatedAt": {
+    "$date": "2020-12-11T08:16:18.835Z"
+  },
+  "__v": 0,
+  "author": {
+    "$oid": "5fd31d4ea22a3e532869543a"
+  }
+},{
+  "_id": {
+    "$oid": "5fd32ad2ef07ea421c853212"
+  },
+  "body": "Amazing course! Instructor is very clear and the challenges are well designed to allow for experimentation and help you learn the fundamentals.",
+  "rating": 5,
+  "createdAt": {
+    "$date": "2020-12-11T08:16:18.066Z"
+  },
+  "updatedAt": {
+    "$date": "2020-12-11T08:16:18.836Z"
+  },
+  "__v": 0,
+  "author": {
+    "$oid": "5fd31d4ea22a3e532869543b"
+  }
+},{
+  "_id": {
+    "$oid": "5fd32ad2ef07ea421c853213"
+  },
+  "body": "I did a course on another platform covering similar tools in Unity like the tile palette. This course so far exceeds my expectations. I am proud to say that a month after purchasing the course, that I'm finally finished and can stand up from my desk with new skills.",
+  "rating": 5,
+  "createdAt": {
+    "$date": "2020-12-11T08:16:18.066Z"
+  },
+  "updatedAt": {
+    "$date": "2020-12-11T08:16:18.837Z"
+  },
+  "__v": 0,
+  "author": {
+    "$oid": "5fd31d4ea22a3e532869543c"
+  }
+},{
+  "_id": {
+    "$oid": "5fd32ad2ef07ea421c853214"
+  },
+  "body": "It was really good however a bit slow in regards of going back and forward in the code. It seemed to be done but then you had to go back and modify it again and again. It became almost repetitive at one point.",
+  "rating": 3.5,
+  "createdAt": {
+    "$date": "2020-12-11T08:16:18.066Z"
+  },
+  "updatedAt": {
+    "$date": "2020-12-11T08:16:18.837Z"
+  },
+  "__v": 0,
+  "author": {
+    "$oid": "5fd31d4ea22a3e532869543d"
+  }
+},{
+  "_id": {
+    "$oid": "5fd32ad2ef07ea421c853215"
+  },
+  "body": "I really enjoyed this course. I had a few hiccups, but the knowledge provided in the course allowed me to apply root cause analysis and figure out on my own where I was wrong. I also got great use out of the questions forum and the people were exceptionally helpful. I highly recommend this to anyone wanting to learn coding and game development.",
+  "rating": 5,
+  "createdAt": {
+    "$date": "2020-12-11T08:16:18.066Z"
+  },
+  "updatedAt": {
+    "$date": "2020-12-11T08:16:18.838Z"
+  },
+  "__v": 0,
+  "author": {
+    "$oid": "5fd31d4ea22a3e532869543e"
+  }
+},{
+  "_id": {
+    "$oid": "5fd32ad2ef07ea421c853216"
+  },
+  "body": "This is a nice explain and course at all! I've finished it with Unity 2020, no problem just somewhere Unity's code is obsolete, but it's ez to fix with Google",
+  "rating": 4.5,
+  "createdAt": {
+    "$date": "2020-12-11T08:16:18.066Z"
+  },
+  "updatedAt": {
+    "$date": "2020-12-11T08:16:18.838Z"
+  },
+  "__v": 0,
+  "author": {
+    "$oid": "5fd31d4ea22a3e532869543f"
+  }
+},{
+  "_id": {
+    "$oid": "5fd32ad2ef07ea421c853217"
+  },
+  "body": "Overall, I'd say this course is a bit of a mixed bag. Whether or not it's helpful to you will depend very much on what experience you already have with Unity 2D development.\n\nI've never worked with Unity before, so I think it was a helpful tutorial for me because it seems like it started at the very beginning of game development in Unity. If you already know how to make a 2D game in Unity though, you probably won't get much out of this tutorial.\n\nPersonally, I selected this one specifically because I was interested in the aspects that are unique to Android development. But the majority of the course is just general game development. Android isn't even introduced until the very end of the course and there's not much to it. I would have liked to see more mobile topics covered, especially how to store data (settings, progess, etc) on Android devices and how to create a level progression screen.\n\nI'm not a fan of the course's format, particularly the \"challenges\". I've done many courses that have a challenge element to it, but this is the first course I've taken where the challenge is to use something that hasn't even been introduced yet in the course. Typically, they would show how to do it first and then introduce a challenge to do the same thing on your own. Instead, you are expected to Google the answers for the challenges, which is something that the teacher does in the videos himself.\n\nRepetition is a big problem in this course too. A large portion of the lessons is the same repeated easy task, like slicing sprites or creating animations. There's no value in repeatedly showing the process. Instead, it just seems like filler content to make the overall course length appear longer on the Udemy listing. I'd rather see a game with just 1 or 2 characters and more of the time used to learn new things.\n\nAnother big issue I have with this course is that the instructor has abandoned it, leaving the Q&A up to the Discord community. Fortunately, the existing Q&A content on the course was able to fix any problems that came up in the course. The problems weren't really on the instructor's side, it was just issues with stuff being updated and changed.\n\nLike I said, it's a mixed bag. I'd probably only recommend it to people who have never used Unity before or those who have an extremely small amount of experience. You definitely need a basic understanding of C# or a similar language. If I wasn't a completely new person to Unity myself, my rating would probably be dramatically lower than 3 stars. However, since I can't lie and say that I walked away with nothing from this course, I'll give it an average 3 stars. It definitely could have been better.",
+  "rating": 3,
+  "createdAt": {
+    "$date": "2020-12-11T08:16:18.066Z"
+  },
+  "updatedAt": {
+    "$date": "2020-12-11T08:16:18.839Z"
+  },
+  "__v": 0,
+  "author": {
+    "$oid": "5fd31d4ea22a3e5328695440"
+  }
+},{
+  "_id": {
+    "$oid": "5fd32ad2ef07ea421c853218"
+  },
+  "body": "This course is exactly as I expected it opened the new doorways for me, additional tools in my arsenal. However, when I saw the promo video of this course I noticed that there is a big giant armored enemy AI and I was excited about it and I think that part is not in this course any more or may be removed. Nevertheless, I learned enough to crack this enemy AI sorcery Thanks to the Instructor.",
+  "rating": 5,
+  "createdAt": {
+    "$date": "2020-12-11T08:16:18.066Z"
+  },
+  "updatedAt": {
+    "$date": "2020-12-11T08:16:18.839Z"
+  },
+  "__v": 0,
+  "author": {
+    "$oid": "5fd31d4ea22a3e5328695441"
+  }
+},{
+  "_id": {
+    "$oid": "5fd32ad2ef07ea421c853219"
+  },
+  "body": "Jonathan is a good teacher and I learned a lot. I would have scored this course even higher if someone from the course was keeping up with the questions that students were asking. If you continue to offer this course then someone needs to continue to keep up with the questions being asked.",
+  "rating": 3.5,
+  "createdAt": {
+    "$date": "2020-12-11T08:16:18.066Z"
+  },
+  "updatedAt": {
+    "$date": "2020-12-11T08:16:18.840Z"
+  },
+  "__v": 0,
+  "author": {
+    "$oid": "5fd31d4ea22a3e5328695442"
+  }
+},{
+  "_id": {
+    "$oid": "5fd32ad2ef07ea421c85321a"
+  },
+  "body": "This course is not an \"Ultimate\" guide for anything. Throughout the course it makes constant reference to another course by the same author. You are instructed to do your own challenge and then have to undo it because the course has a specific way of doing things.\n\nThe level is done for you, the tools are all asset imports, many of which are no longer valid options.\n\nThe code logic taught is to simply hard code everything from UI positions to classes. The only section I found useful was setting up the Enemy class for inheritance, but then the author has you barely make use of it.\n\nI'd recommend Youtube tutorials for game development, as this barely mentions Mobile at all and it's a bare bones game tutorial at best with some free assets.",
+  "rating": 1,
+  "createdAt": {
+    "$date": "2020-12-11T08:16:18.066Z"
+  },
+  "updatedAt": {
+    "$date": "2020-12-11T08:16:18.841Z"
+  },
+  "__v": 0,
+  "author": {
+    "$oid": "5fd31d4ea22a3e5328695443"
+  }
+},{
+  "_id": {
+    "$oid": "5fd32ad2ef07ea421c853232"
+  },
+  "body": "Great course, is a very good introduction to the RPG gaming development, all the basics and even some advanced stuff. Is all there to start working in your own project.\n\n////\n\nGran curso, una buena introducción al desarrollo de juegos RPG, desde lo básico hasta algunas cosas realmente complejas y un poco más avanzadas. Deja todo planteado para continuar y crear tu propio proyecto.",
+  "rating": 5,
+  "createdAt": {
+    "$date": "2020-12-11T08:16:18.868Z"
+  },
+  "updatedAt": {
+    "$date": "2020-12-11T08:16:19.689Z"
+  },
+  "__v": 0,
+  "author": {
+    "$oid": "5fd31d4da22a3e5328695438"
+  }
+},{
+  "_id": {
+    "$oid": "5fd32ad2ef07ea421c853233"
+  },
+  "body": "A fun course to take to learn the fundamentals of making a classic RPG. There are a few issues, but half of developing is finding out solutions to problems, and most issues (only about 3 main issues with the built game) are fixed in the Q&A section.",
+  "rating": 4,
+  "createdAt": {
+    "$date": "2020-12-11T08:16:18.868Z"
+  },
+  "updatedAt": {
+    "$date": "2020-12-11T08:16:19.690Z"
+  },
+  "__v": 0,
+  "author": {
+    "$oid": "5fd31d4ea22a3e5328695439"
+  }
+},{
+  "_id": {
+    "$oid": "5fd32ad2ef07ea421c853234"
+  },
+  "body": "Great work, I'll be honest. I don't remember most of this, but at least I'll have a reference and general concepts in the back of my mind as I work on more stuff!",
+  "rating": 5,
+  "createdAt": {
+    "$date": "2020-12-11T08:16:18.868Z"
+  },
+  "updatedAt": {
+    "$date": "2020-12-11T08:16:19.690Z"
+  },
+  "__v": 0,
+  "author": {
+    "$oid": "5fd31d4ea22a3e532869543a"
+  }
+},{
+  "_id": {
+    "$oid": "5fd32ad2ef07ea421c853235"
+  },
+  "body": "The course is for you if you want a very barebones RPG construct.\n\nMany systems are easy to expand upon, but others not as much, because of the way it was designed.\n\nYou should realize that this is more an instruction, than a course that teaches you how to code.\n\nBut it starts very basic and the very foundation of programming could be learned here.",
+  "rating": 2,
+  "createdAt": {
+    "$date": "2020-12-11T08:16:18.868Z"
+  },
+  "updatedAt": {
+    "$date": "2020-12-11T08:16:19.691Z"
+  },
+  "__v": 0,
+  "author": {
+    "$oid": "5fd31d4ea22a3e532869543b"
+  }
+},{
+  "_id": {
+    "$oid": "5fd32ad2ef07ea421c853236"
+  },
+  "body": "There were good parts and there were bad parts. Overall the fundamentals to make a complete RPG game has been laid out and you get to learn a handful of knowledge and skill.\n\nOn the other hand, a lot of the more advance parts weren't explained properly and some codes are not very expandable (high dependency on other class) if you want to make changes or add new feature of your own which meant you have to refactor your code in order to add new feature.\n\nThat said, this is still a very good course that gives you the groundwork to make your own RPG game for both beginner and intermediate.",
+  "rating": 3.5,
+  "createdAt": {
+    "$date": "2020-12-11T08:16:18.868Z"
+  },
+  "updatedAt": {
+    "$date": "2020-12-11T08:16:19.692Z"
+  },
+  "__v": 0,
+  "author": {
+    "$oid": "5fd31d4ea22a3e532869543c"
+  }
+},{
+  "_id": {
+    "$oid": "5fd32ad2ef07ea421c853237"
+  },
+  "body": "This course was a great way to build my beginner knowledge of c# programming as well as game development. There were a few obstacles, but it gave me satisfaction when I figured it out.",
+  "rating": 5,
+  "createdAt": {
+    "$date": "2020-12-11T08:16:18.868Z"
+  },
+  "updatedAt": {
+    "$date": "2020-12-11T08:16:19.693Z"
+  },
+  "__v": 0,
+  "author": {
+    "$oid": "5fd31d4ea22a3e532869543d"
+  }
+},{
+  "_id": {
+    "$oid": "5fd32ad2ef07ea421c853238"
+  },
+  "body": "The best course about RPG games. I like how we actually build a complete RPG game and not a bunch of incomplete/partial RPG games like in other tutorials. In the end, you will be able to build your own \"basic\" RPG game without a problem. All you need is to learn some pixel art, if you want to create your own assets that is :D",
+  "rating": 5,
+  "createdAt": {
+    "$date": "2020-12-11T08:16:18.868Z"
+  },
+  "updatedAt": {
+    "$date": "2020-12-11T08:16:19.693Z"
+  },
+  "__v": 0,
+  "author": {
+    "$oid": "5fd31d4ea22a3e532869543e"
+  }
+},{
+  "_id": {
+    "$oid": "5fd32ad2ef07ea421c853239"
+  },
+  "body": "This course was EXACTLY what I was looking for. Unlike most tutorials have come across this course covers every step from start to finish without over complicating things. Explanations were clear, precise, and easy to follow.",
+  "rating": 5,
+  "createdAt": {
+    "$date": "2020-12-11T08:16:18.868Z"
+  },
+  "updatedAt": {
+    "$date": "2020-12-11T08:16:19.694Z"
+  },
+  "__v": 0,
+  "author": {
+    "$oid": "5fd31d4ea22a3e532869543f"
+  }
+},{
+  "_id": {
+    "$oid": "5fd32ad2ef07ea421c85323a"
+  },
+  "body": "The classes are well explained but when you get stuck in one part, you can no longer do anything until someone else does. What bothers me is the programming part and I've never been able to learn it and the main problems are from that, I can't do anything. I was not able to finish the course because the code doesn't work for some people.",
+  "rating": 4,
+  "createdAt": {
+    "$date": "2020-12-11T08:16:18.868Z"
+  },
+  "updatedAt": {
+    "$date": "2020-12-11T08:16:19.695Z"
+  },
+  "__v": 0,
+  "author": {
+    "$oid": "5fd31d4ea22a3e5328695440"
+  }
+},{
+  "_id": {
+    "$oid": "5fd32ad2ef07ea421c85323b"
+  },
+  "body": "I enjoyed this course, it was informative and I felt like things were explained fairly well. Whenever I got stuck I was able to find my answer in the Q&A section with a little digging.",
+  "rating": 4.5,
+  "createdAt": {
+    "$date": "2020-12-11T08:16:18.868Z"
+  },
+  "updatedAt": {
+    "$date": "2020-12-11T08:16:19.695Z"
+  },
+  "__v": 0,
+  "author": {
+    "$oid": "5fd31d4ea22a3e5328695441"
+  }
+},{
+  "_id": {
+    "$oid": "5fd32ad2ef07ea421c85323c"
+  },
+  "body": "El profesor casi no responde las preguntas, dependes de otros estudiantes para avanzar, hay varios errores que se van arreglando sobre la marcha y debería ser editados o hacerlos nuevamente para no confundir a los alumnos, faltó mas profundidad en muchos temas. Pero para empezar a tener algo básico no está tan mal",
+  "rating": 3,
+  "createdAt": {
+    "$date": "2020-12-11T08:16:18.868Z"
+  },
+  "updatedAt": {
+    "$date": "2020-12-11T08:16:19.696Z"
+  },
+  "__v": 0,
+  "author": {
+    "$oid": "5fd31d4ea22a3e5328695442"
+  }
+},{
+  "_id": {
+    "$oid": "5fd32ad2ef07ea421c85323d"
+  },
+  "body": "I'm intermediate with Unity, so my experience with the course was very mixed. At the start of the course, the instructor tended to spend quite a lot of time explaining the very basics of the Unity and C#, so I just had to speed through those hoping I didn't miss anything important. In contrast, when it came to the more advanced sections of the course, he didn't spend enough time explaining the code, I ended up just copying what he did without understanding (the absolute WORST thing you can do when following a tutorial). It would've helped to have some sort of diagram or something to explain the mechanics and functions in a visual manner.\n\nAdditionally, I may not be the wiser, but I get the feeling that some of the methods the instructor uses are good coding practice, like using strings as identifiers, and there were many areas that I think could be taught with more efficient techniques (e.g. why not use Scriptable objects for the likes of the BattleMoves, BattleTypes, or even the CharacterStats?)\n\nBy far the worst part of the course was Section 105, where he leaves the students up to quite a difficult challenge. This would've been alright, if it weren't for the fact that he didn't provide a video with a solution (I know you can download the completed project at the end, but that doesn't really help explain the code). I just had to skip it so I could complete the course without wasting time.\n\nOverall, I did in fact learn a small handful of skills from this course that could help me make my own RPG, but I'm going to have to do a whole lot of tweaking to the code from here for it to be more flexible to my own ideas.",
+  "rating": 2.5,
+  "createdAt": {
+    "$date": "2020-12-11T08:16:18.868Z"
+  },
+  "updatedAt": {
+    "$date": "2020-12-11T08:16:19.697Z"
+  },
+  "__v": 0,
+  "author": {
+    "$oid": "5fd31d4ea22a3e5328695443"
+  }
+},{
+  "_id": {
+    "$oid": "5fd32ad3ef07ea421c853259"
+  },
+  "body": "I do not know if I will ever be able praise this course enough. I have been drawing characters for video games for as long as I can remember. This game has helped me achieve my childhood dream of creating my first video game character. I have dabbled in Blender for years but felt I lacked the right guidance to see a character design through. Not only was the curriculum well thought out, but the encouragement from these instructors was phenomenal. The small exercises thrown in were a terrific touch and really gave the student an opportunity to explore their own method for modeling/sculpting before following the technique of a skilled mentor. Thank you for helping me to fulfill a long sought after goal!",
+  "rating": 5,
+  "createdAt": {
+    "$date": "2020-12-11T08:16:19.724Z"
+  },
+  "updatedAt": {
+    "$date": "2020-12-11T08:16:20.624Z"
+  },
+  "__v": 0,
+  "author": {
+    "$oid": "5fd31d4da22a3e5328695438"
+  }
+},{
+  "_id": {
+    "$oid": "5fd32ad3ef07ea421c85325a"
+  },
+  "body": "This is a good course that can recommend to everyone, I was not just a a beginner but I learned a lot of my mistakes and doubts through this. Thank you for the great tutorial.",
+  "rating": 5,
+  "createdAt": {
+    "$date": "2020-12-11T08:16:19.724Z"
+  },
+  "updatedAt": {
+    "$date": "2020-12-11T08:16:20.625Z"
+  },
+  "__v": 0,
+  "author": {
+    "$oid": "5fd31d4ea22a3e5328695439"
+  }
+},{
+  "_id": {
+    "$oid": "5fd32ad3ef07ea421c85325b"
+  },
+  "body": "The course is a streamlined workflow from a basic knowledge of Blender to having a sculpted, animated, textured character, plus getting all of those things into Unity set up with an animation controller, and this it does very well. Retopology and rigging are covered enough to get you to the end but not explored in minute detail, and I'll be looking to perfect these next, as well as learn more about hair and clothing.",
+  "rating": 4.5,
+  "createdAt": {
+    "$date": "2020-12-11T08:16:19.724Z"
+  },
+  "updatedAt": {
+    "$date": "2020-12-11T08:16:20.626Z"
+  },
+  "__v": 0,
+  "author": {
+    "$oid": "5fd31d4ea22a3e532869543a"
+  }
+},{
+  "_id": {
+    "$oid": "5fd32ad3ef07ea421c85325c"
+  },
+  "body": "Overall I really enjoyed the course! For me it was a literal game changer when it comes to sculpting and modelling. Grant Abbitt did an amazing job highlighting the important aspects of each step. He's really confident in his skills and knows the ins and outs of Blender 2.8 and above very well. The instructions were very clear and comprehensive, entertaining and really enjoyable overall! The only minor nitpicks I have are related to the retopology and animation section of this course. These sections are very basic and only brushed upon. Grant gives a pretty good overview of what needs to be done but for the sake of the overall course these (very complicated sections) are stripped down to a bare minimum. (which in my opinion is totally understandable considering the sheer volume of information and experience needed to nail retopology and animation). The other nitpick I have is, that some (only a few!) videos were a little bit fast, but the great thing about the video content is that you can rewind whenever you need to. Really liked the course! I would highly recommend to take this course if you have a little experience with 3D Modelling software and want to up your skills quite a bit. I'd love to take courses, instructed by Grant Abbitt on the topics of retopology and animation in the future!",
+  "rating": 5,
+  "createdAt": {
+    "$date": "2020-12-11T08:16:19.725Z"
+  },
+  "updatedAt": {
+    "$date": "2020-12-11T08:16:20.626Z"
+  },
+  "__v": 0,
+  "author": {
+    "$oid": "5fd31d4ea22a3e532869543b"
+  }
+},{
+  "_id": {
+    "$oid": "5fd32ad3ef07ea421c85325d"
+  },
+  "body": "Besides the topic of the course, which is explained in reasonable detail and in a very easy to understand manner, I learned a lot of useful tips on using Blender and on keeping the modelling workflow efficient.\n\nI definitely recommend this to anyone interested in 3d rigging and animation",
+  "rating": 5,
+  "createdAt": {
+    "$date": "2020-12-11T08:16:19.725Z"
+  },
+  "updatedAt": {
+    "$date": "2020-12-11T08:16:20.627Z"
+  },
+  "__v": 0,
+  "author": {
+    "$oid": "5fd31d4ea22a3e532869543c"
+  }
+},{
+  "_id": {
+    "$oid": "5fd32ad3ef07ea421c85325e"
+  },
+  "body": "Last part of the course is dissapointing, heavily packed up into few ~15min clips, chaotic, with scraps of information, without proper and decent explanation - prepared seemingly carelessly. Overall course is informational, some parts are explained carefully, learning flow is in a good shape. UV unwrapping could be a little bit more informational because of additional complexity of a subject.\n\nKinda informational, up to the point of texturing model is decent. Unity part seems like a bad joke and looking at the level of commitment and preparation it would be better to not include it at all.",
+  "rating": 2.5,
+  "createdAt": {
+    "$date": "2020-12-11T08:16:19.725Z"
+  },
+  "updatedAt": {
+    "$date": "2020-12-11T08:16:20.628Z"
+  },
+  "__v": 0,
+  "author": {
+    "$oid": "5fd31d4ea22a3e532869543d"
+  }
+},{
+  "_id": {
+    "$oid": "5fd32ad3ef07ea421c85325f"
+  },
+  "body": "EDIT: The course was great and totally worth the money, but a complete demonstration of the manual retopo process would have been awesome!",
+  "rating": 4,
+  "createdAt": {
+    "$date": "2020-12-11T08:16:19.725Z"
+  },
+  "updatedAt": {
+    "$date": "2020-12-11T08:16:20.628Z"
+  },
+  "__v": 0,
+  "author": {
+    "$oid": "5fd31d4ea22a3e532869543e"
+  }
+},{
+  "_id": {
+    "$oid": "5fd32ad3ef07ea421c853260"
+  },
+  "body": "There's a serious wealth of information here, very cleverly structured and presented. I've taken a few courses on Udemy (and in person), and this has been easily one the most engaging and rewarding ones.\n\nI decided to take this course to get re-familiarized with Blender after a few years pause, so the pacing was very good for me. I suspect a complete beginner might find the course a bit overwhelming. But if you take it slow - maybe redoing some lessons and taking a break between sections to try what you learned, you can seriously level up on your modeling skills.",
+  "rating": 5,
+  "createdAt": {
+    "$date": "2020-12-11T08:16:19.725Z"
+  },
+  "updatedAt": {
+    "$date": "2020-12-11T08:16:20.629Z"
+  },
+  "__v": 0,
+  "author": {
+    "$oid": "5fd31d4ea22a3e532869543f"
+  }
+},{
+  "_id": {
+    "$oid": "5fd32ad3ef07ea421c853261"
+  },
+  "body": "Increible, sencillamente increible lo que uno comienza con un par de cubos y acaba teniendo su primer NPC que funciona en Unity. El profesor tambien es muy bueno y me ha gustado como ha llevado el curso adelante.\n\nSe llevaran el 5 si meten mas contenido ya que espero, que no dejen aqui el curso y nos enseñen tecnicas mas avanzadas de diseño de caracteres.\n\nGracias por vuestro tiempo, ha sido un placer.",
+  "rating": 4.5,
+  "createdAt": {
+    "$date": "2020-12-11T08:16:19.725Z"
+  },
+  "updatedAt": {
+    "$date": "2020-12-11T08:16:20.629Z"
+  },
+  "__v": 0,
+  "author": {
+    "$oid": "5fd31d4ea22a3e5328695440"
+  }
+},{
+  "_id": {
+    "$oid": "5fd32ad3ef07ea421c853262"
+  },
+  "body": "I already knew that Rick was a Legend but after this course I can now add Grant Abbitt to the List of Legends. Grant is honestly the most talented teacher I have ever encountered in any subject, I can't praise Grant enough - the guy is quickly becoming a hero of mine! I would strongly recommend doing this course for a fairly comprehensive grounding in blender and then supplement it with Grants Youtube channel which is an unbelievably good resource. I think I have completed 4 GameDevTV courses now and they have all been fantastic quality - big fans of the whole team. Only complaint is that the course did lack Ricks usual humour - please bring back more of Ricks jokes, thanks.",
+  "rating": 5,
+  "createdAt": {
+    "$date": "2020-12-11T08:16:19.725Z"
+  },
+  "updatedAt": {
+    "$date": "2020-12-11T08:16:20.630Z"
+  },
+  "__v": 0,
+  "author": {
+    "$oid": "5fd31d4ea22a3e5328695441"
+  }
+},{
+  "_id": {
+    "$oid": "5fd32ad3ef07ea421c853263"
+  },
+  "body": "I love it. It is easy to understand.",
+  "rating": 5,
+  "createdAt": {
+    "$date": "2020-12-11T08:16:19.725Z"
+  },
+  "updatedAt": {
+    "$date": "2020-12-11T08:16:20.630Z"
+  },
+  "__v": 0,
+  "author": {
+    "$oid": "5fd31d4ea22a3e5328695442"
+  }
+},{
+  "_id": {
+    "$oid": "5fd32ad3ef07ea421c853264"
+  },
+  "body": "I loved the way of creating the character, it give a path and we can really create our personal character. And overall I enjoyed to know what to do to bring it to unity without losing quality with a low poly character. I expected a bit more with the animation part but I really enjoyed the course and I will create an other character following it again to be sure to assimilate everything.",
+  "rating": 5,
+  "createdAt": {
+    "$date": "2020-12-11T08:16:19.725Z"
+  },
+  "updatedAt": {
+    "$date": "2020-12-11T08:16:20.631Z"
+  },
+  "__v": 0,
+  "author": {
+    "$oid": "5fd31d4ea22a3e5328695443"
+  }
+},{
+  "_id": {
+    "$oid": "5fd32ad4ef07ea421c853281"
+  },
+  "body": "Great starter course to help you learn some of the fundamentals of building a game. It great way to learn your way around unity.",
+  "rating": 4,
+  "createdAt": {
+    "$date": "2020-12-11T08:16:20.661Z"
+  },
+  "updatedAt": {
+    "$date": "2020-12-11T08:16:21.481Z"
+  },
+  "__v": 0,
+  "author": {
+    "$oid": "5fd31d4da22a3e5328695438"
+  }
+},{
+  "_id": {
+    "$oid": "5fd32ad4ef07ea421c853282"
+  },
+  "body": "I love the course and I am learning so many new things and I cant wait to see what else we will be adding to our little game throughout the rest of the course!",
+  "rating": 5,
+  "createdAt": {
+    "$date": "2020-12-11T08:16:20.661Z"
+  },
+  "updatedAt": {
+    "$date": "2020-12-11T08:16:21.482Z"
+  },
+  "__v": 0,
+  "author": {
+    "$oid": "5fd31d4ea22a3e5328695439"
+  }
+},{
+  "_id": {
+    "$oid": "5fd32ad4ef07ea421c853284"
+  },
+  "body": "Love this tutorial it is so helpful. I love how he explains every bit of code and why he is putting this bit of code here and there. Obviously, there are things that are still a bit confusing but I really feel as if I am getting the hang of things!!!",
+  "rating": 5,
+  "createdAt": {
+    "$date": "2020-12-11T08:16:20.661Z"
+  },
+  "updatedAt": {
+    "$date": "2020-12-11T08:16:21.483Z"
+  },
+  "__v": 0,
+  "author": {
+    "$oid": "5fd31d4ea22a3e532869543b"
+  }
+},{
+  "_id": {
+    "$oid": "5fd32ad4ef07ea421c853283"
+  },
+  "body": "Amazing course, instructions clear and explained will definitely be able to do 1 game on my own now",
+  "rating": 5,
+  "createdAt": {
+    "$date": "2020-12-11T08:16:20.661Z"
+  },
+  "updatedAt": {
+    "$date": "2020-12-11T08:16:21.482Z"
+  },
+  "__v": 0,
+  "author": {
+    "$oid": "5fd31d4ea22a3e532869543a"
+  }
+},{
+  "_id": {
+    "$oid": "5fd32ad4ef07ea421c853285"
+  },
+  "body": "The instructor is able to explain things that are easy for me to follow thus I'm able understand better and I'm learning a lot! Very helpful for game making!",
+  "rating": 5,
+  "createdAt": {
+    "$date": "2020-12-11T08:16:20.661Z"
+  },
+  "updatedAt": {
+    "$date": "2020-12-11T08:16:21.483Z"
+  },
+  "__v": 0,
+  "author": {
+    "$oid": "5fd31d4ea22a3e532869543c"
+  }
+},{
+  "_id": {
+    "$oid": "5fd32ad4ef07ea421c853286"
+  },
+  "body": "Great content. Pretty much can get you started on the gameplay aspect of a 2d platformer. Kudos and thanks to Mr Doyle.",
+  "rating": 4.5,
+  "createdAt": {
+    "$date": "2020-12-11T08:16:20.661Z"
+  },
+  "updatedAt": {
+    "$date": "2020-12-11T08:16:21.484Z"
+  },
+  "__v": 0,
+  "author": {
+    "$oid": "5fd31d4ea22a3e532869543d"
+  }
+},{
+  "_id": {
+    "$oid": "5fd32ad4ef07ea421c853287"
+  },
+  "body": "I was watching a lot of tutorials on YouTube before. James' tutorials were the most helpful for someone just getting started. He does well explaining things and giving helpful tips that make the process much easier and enjoyable.",
+  "rating": 4.5,
+  "createdAt": {
+    "$date": "2020-12-11T08:16:20.661Z"
+  },
+  "updatedAt": {
+    "$date": "2020-12-11T08:16:21.485Z"
+  },
+  "__v": 0,
+  "author": {
+    "$oid": "5fd31d4ea22a3e532869543e"
+  }
+},{
+  "_id": {
+    "$oid": "5fd32ad4ef07ea421c853288"
+  },
+  "body": "I needed to know some c# coing for one of my uni courses and my lectureres werent making any sense but this saved my semester!",
+  "rating": 5,
+  "createdAt": {
+    "$date": "2020-12-11T08:16:20.661Z"
+  },
+  "updatedAt": {
+    "$date": "2020-12-11T08:16:21.485Z"
+  },
+  "__v": 0,
+  "author": {
+    "$oid": "5fd31d4ea22a3e532869543f"
+  }
+},{
+  "_id": {
+    "$oid": "5fd32ad4ef07ea421c853289"
+  },
+  "body": "I love this course it has gotten me so motivated and I would recommend it to anyone who has even the slightest interest in coding.",
+  "rating": 5,
+  "createdAt": {
+    "$date": "2020-12-11T08:16:20.661Z"
+  },
+  "updatedAt": {
+    "$date": "2020-12-11T08:16:21.486Z"
+  },
+  "__v": 0,
+  "author": {
+    "$oid": "5fd31d4ea22a3e5328695440"
+  }
+},{
+  "_id": {
+    "$oid": "5fd32ad4ef07ea421c85328a"
+  },
+  "body": "เรียนถึงตรงนี้ อธิบายค่อนข้างดี ความเข้าใจในเนื้อหาที่สอนเป็นความเข้าใจของตัวคนสอนเองบอกผู้เรียน ใส่ใจดีมาก สอนดีมากครับ",
+  "rating": 5,
+  "createdAt": {
+    "$date": "2020-12-11T08:16:20.661Z"
+  },
+  "updatedAt": {
+    "$date": "2020-12-11T08:16:21.487Z"
+  },
+  "__v": 0,
+  "author": {
+    "$oid": "5fd31d4ea22a3e5328695441"
+  }
+},{
+  "_id": {
+    "$oid": "5fd32ad4ef07ea421c85328b"
+  },
+  "body": "My favorite course I have taken so far. Instruction is top notch and all material is thoroughly explained.",
+  "rating": 5,
+  "createdAt": {
+    "$date": "2020-12-11T08:16:20.661Z"
+  },
+  "updatedAt": {
+    "$date": "2020-12-11T08:16:21.488Z"
+  },
+  "__v": 0,
+  "author": {
+    "$oid": "5fd31d4ea22a3e5328695442"
+  }
+},{
+  "_id": {
+    "$oid": "5fd32ad4ef07ea421c85328c"
+  },
+  "body": "I have completed 50% of course I am getting a bit familiar with unity. With 0% prior coding experience I am getting to know a bit with basic terms and methods. The instructor is very clear and I am enjoying the course. I hope till the end i will be off with something very good in my hands.",
+  "rating": 5,
+  "createdAt": {
+    "$date": "2020-12-11T08:16:20.661Z"
+  },
+  "updatedAt": {
+    "$date": "2020-12-11T08:16:21.489Z"
+  },
+  "__v": 0,
+  "author": {
+    "$oid": "5fd31d4ea22a3e5328695443"
+  }
 }]

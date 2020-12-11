@@ -1,0 +1,205 @@
+{
+    "field": {
+        "name": "game-development",
+        "courses": []
+    },
+    "course": {
+        "title": "Complete C# Unity Game Developer 3D",
+        "subtitle": "Design & Develop Video Games. Learn C# in Unity Engine. Code Your first 3D Unity games for web, Mac & PC.",
+        "descriptions": [],
+        "reviews": [],
+        "students": [],
+        "image1xURL": "https://img-b.udemycdn.com/course/240x135/1178124_76bb_9.jpg",
+        "image2xURL": "https://img-b.udemycdn.com/course/480x270/1178124_76bb_9.jpg",
+        "image3xURL": "https://img-b.udemycdn.com/course/750x422/1178124_76bb_9.jpg",
+        "discountPrice": 11.99,
+        "originalPrice": 129.99,
+        "numViews": 0,
+        "curriculum": []
+    },
+    "reviews": [
+        {
+            "body": "This course is excellent for beginners, giving a strong foundation in programming but makes sure to implement other useful skills and game design tactics",
+            "rating": 5
+        },
+        {
+            "body": "The course is taught well and easy to follow for a beginner like me. The community discussion has helped me a lot whenever I’ve been stuck especially with differences arising in using different versions of Unity.",
+            "rating": 5
+        },
+        {
+            "body": "Overall great class! I would definitely recommend taking the 2d course, before taking this one. The 3d course just seemed to have another level of difficulty to it, at least for me",
+            "rating": 4.5
+        },
+        {
+            "body": "I would like to see a few sections updated, but overall this was an excellent course to get started using Unity and C#.",
+            "rating": 4
+        },
+        {
+            "body": "Великолепный огромный курс, в котором кажется, что тебя ведут за ручку, но, при этом, заставляют все запоминать, отрабатывать на практике. Потрясающе)",
+            "rating": 5
+        },
+        {
+            "body": "Great Course!\n\nI can tell I'll be reviewing material from time to time.\n\nWhile I continue on journey as is invaluable.",
+            "rating": 5
+        },
+        {
+            "body": "Ben and Rick are just 2 lovable tutors. No lecture felt boring especially with the Rick's lecture where Rick lets his quirkiness shine and introduces humor into the lectures at times. The instructor hangout is a really really cool feature where they pause and interact to answer the most pertinent questions.\n\nJust an awesome feeling throughout.",
+            "rating": 5
+        },
+        {
+            "body": "This is has been my first look into coding, and unity.\n\nAbove any expectation i could have had! i have learned so much is such a short time frame. this will be the base on witch i will make great and amazing products",
+            "rating": 5
+        },
+        {
+            "body": "It's a great match for me. Just learning C# and Unity and you guys combined them both in one lesson that's so awesome. I like how you guys start from scratch assuming i know nothing. Not all teachers do this. Thanks a lot! God Bless! EDIT: Finished the course and it was awesome! Highly recommend it! Audio was good could clearly hear the instructors. Content was nice progression even tho i wanted to skip ahead to the first person shooter section. Instructors give challenges and quizzes which helped me learn a lot and most times i enjoyed them. Most assets are provided for free which is a huge plus and if they weren't provided they were easy to find for free on the asset store. The only problem i had in the course is not the instructors fault but Unitys. They changed the Post-Processing and ProGrid tools in the newer version of Unity so it was harder to find and harder to install properly. With that being said i was able to complete this course with Unity 2019.4.1 and later upgraded to Unity 2019.4.4 and was able to follow along nicely! Thanks again Ben and Rick!",
+            "rating": 5
+        },
+        {
+            "body": "This course is just great. You can come in absolutely blind with no knowledge of programming, and the instructors will help you build a strong foundational knowledge that you can easily build upon on your own and apply to your own projects.\n\nIf you ever wanted to try your hand at game design, but didn't know where to start, I highly recommend checking out this course",
+            "rating": 5
+        },
+        {
+            "body": "This course was a good introduction into Unity and C#. I went in with a very very minimal experience in C# and left feeling confident in the concepts covered in this course. I also feel confident looking into the Unity Scripting manuals, scripting questions on stackoverflow and other forums, and understanding the problems and peoples proposed solutions.\n\nThe instructors, Ben and Rick, did a very good job of breaking unity and C# into digestible pieces and implementing the spiral syllabus! Big thank you to you two!",
+            "rating": 5
+        },
+        {
+            "body": "Thanks you so much guys. This course was bloody brilliant!\n\nI've gone from having zero experience coding, literally not knowing what a variable is, to understanding methods, IF and Switch, how to link up components in the UNITY editor, collisions, triggers, terrains, scaling and movement principles, Math.f even a bit of coroutines (which took me a while, but thanks to your spiral approach, and Rick putting it on right at the end, I've now got down to a tee).\n\nI'm now able to go off grid and create my own scripts in a way I really didn't think was possible when we first started back in Terminal Hacker.\n\nAnd on top of the coding, this course has given me a great foundation in how to use Unity, and I feel right at home.\n\nCan't recommend it enough.\n\nAnd I just want to say a big sincere thank you to Ben and Rick for showing me the way.",
+            "rating": 5
+        }
+    ],
+    "students": [
+        {
+            "name": "Mason Beale",
+            "email": "masonbeale@gmail.com",
+            "password": "masonbeale",
+            "role": "s"
+        },
+        {
+            "name": "GameDev.tv Team",
+            "email": "gamedev.tvteam@gmail.com",
+            "password": "gamedev.tvteam",
+            "role": "s"
+        },
+        {
+            "name": "Cindy Dalrymple",
+            "email": "cindydalrymple@gmail.com",
+            "password": "cindydalrymple",
+            "role": "s"
+        },
+        {
+            "name": "GameDev.tv Team",
+            "email": "gamedev.tvteam@gmail.com",
+            "password": "gamedev.tvteam",
+            "role": "s"
+        },
+        {
+            "name": "Dyston Madsen",
+            "email": "dystonmadsen@gmail.com",
+            "password": "dystonmadsen",
+            "role": "s"
+        },
+        {
+            "name": "GameDev.tv Team",
+            "email": "gamedev.tvteam@gmail.com",
+            "password": "gamedev.tvteam",
+            "role": "s"
+        },
+        {
+            "name": "Stephen Piegan",
+            "email": "stephenpiegan@gmail.com",
+            "password": "stephenpiegan",
+            "role": "s"
+        },
+        {
+            "name": "Харитонов Евгений",
+            "email": "харитоновевгений@gmail.com",
+            "password": "харитоновевгений",
+            "role": "s"
+        },
+        {
+            "name": "J. R.",
+            "email": "j.r.@gmail.com",
+            "password": "j.r.",
+            "role": "s"
+        },
+        {
+            "name": "GameDev.tv Team",
+            "email": "gamedev.tvteam@gmail.com",
+            "password": "gamedev.tvteam",
+            "role": "s"
+        },
+        {
+            "name": "Ritvik Upadhyay",
+            "email": "ritvikupadhyay@gmail.com",
+            "password": "ritvikupadhyay",
+            "role": "s"
+        },
+        {
+            "name": "GameDev.tv Team",
+            "email": "gamedev.tvteam@gmail.com",
+            "password": "gamedev.tvteam",
+            "role": "s"
+        },
+        {
+            "name": "Logan Taylor",
+            "email": "logantaylor@gmail.com",
+            "password": "logantaylor",
+            "role": "s"
+        },
+        {
+            "name": "GameDev.tv Team",
+            "email": "gamedev.tvteam@gmail.com",
+            "password": "gamedev.tvteam",
+            "role": "s"
+        },
+        {
+            "name": "John Murphy",
+            "email": "johnmurphy@gmail.com",
+            "password": "johnmurphy",
+            "role": "s"
+        },
+        {
+            "name": "GameDev.tv Team",
+            "email": "gamedev.tvteam@gmail.com",
+            "password": "gamedev.tvteam",
+            "role": "s"
+        },
+        {
+            "name": "asdf fdsa",
+            "email": "asdffdsa@gmail.com",
+            "password": "asdffdsa",
+            "role": "s"
+        },
+        {
+            "name": "GameDev.tv Team",
+            "email": "gamedev.tvteam@gmail.com",
+            "password": "gamedev.tvteam",
+            "role": "s"
+        },
+        {
+            "name": "Matt Campbell",
+            "email": "mattcampbell@gmail.com",
+            "password": "mattcampbell",
+            "role": "s"
+        },
+        {
+            "name": "GameDev.tv Team",
+            "email": "gamedev.tvteam@gmail.com",
+            "password": "gamedev.tvteam",
+            "role": "s"
+        },
+        {
+            "name": "Alex",
+            "email": "alex@gmail.com",
+            "password": "alex",
+            "role": "s"
+        }
+    ],
+    "instructor": {
+        "name": "Ben Tristem",
+        "email": "bentristem@gmail.com",
+        "password": "bentristem",
+        "role": "i",
+        "briefIntroduction": "<p>Hi, I'm Ben. I have a degree in computing from Imperial College London, and a physics diploma from the Open University.&nbsp; </p><p>I started working for myself at the age of 15, and never looked back. I explored careers as varied as being a commercial pilot, stunt-man, rock climbing instructor, and more. None of these provided a continued challenge, and stable income in the same way technology does.&nbsp; </p><p>After building and selling a home computer support business, I became an angel investor and business mentor here in Cambridge UK. I fell in love with teaching game development through one of my investments, and I now spend all of my time sharing my passion with people like you.&nbsp; </p><p>I can't wait to help you experience the fulfilment, and financial freedom, that having a deep understanding of technology brings.&nbsp; </p><p>So why not start learning to make games with me and my team now? </p><p>See you soon!&nbsp; </p><p>Ben</p>"
+    }
+}

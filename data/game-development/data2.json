@@ -1,0 +1,205 @@
+{
+    "field": {
+        "name": "game-development",
+        "courses": []
+    },
+    "course": {
+        "title": "Unreal Engine C++ Developer: Learn C++ and Make Video Games",
+        "subtitle": "Created in collaboration with Epic Games. Learn C++ from basics while making your first 4 video games in Unreal",
+        "descriptions": [],
+        "reviews": [],
+        "students": [],
+        "image1xURL": "https://img-b.udemycdn.com/course/240x135/657932_c7e0_3.jpg",
+        "image2xURL": "https://img-b.udemycdn.com/course/480x270/657932_c7e0_3.jpg",
+        "image3xURL": "https://img-b.udemycdn.com/course/750x422/657932_c7e0_3.jpg",
+        "discountPrice": 11.99,
+        "originalPrice": 129.99,
+        "numViews": 0,
+        "curriculum": []
+    },
+    "reviews": [
+        {
+            "body": "Fantastic course. The updates have really improved the quality of the course significantly. The final section in particular is truly incredible work and leaves you with a piece of work you can feel proud of. The middle sections(section 4 and 5 in particular) could use some work, but as they are actively being updated to improve their shortcomings I'm sure this course will only become closer and closer to perfect with time.",
+            "rating": 4
+        },
+        {
+            "body": "One of the better Unreal courses by far! I bought this course when it originally released. I never completed it before (nothing to do with the quality of the first iteration, I was really enjoying the content, just had school and work tearing me apart and I fell off) but recently I started coding again and took the semester off so I decided to go back through it. I already knew my way around Unreal a little bit before starting, but I take every chance I get to try and learn more, and you guys managed to teach me more.\n\nI've made it through a few other courses before and they're never really informative (\"Alright, this is how you do this, this, and this. Give this thing a value of 5.f. Now call ThisFunctionYouWouldHaveNeverBeenAbleToFigureOut, make sure to include its header 'YadaYada/GoodLuckWhenYoureOnyourOwn.h'. Okay, great. Let me show you something else now.\") You guys really did a great job actually teaching instead of showing how to just copy code. I really love that there's almost always a challenge in each lecture, and that's honestly the thing that no one else seems to do. Now I'm super excited to meet back up with Michael to do his Blender course that I bought years ago as well. Cheers, guys!",
+            "rating": 5
+        },
+        {
+            "body": "The course has taught me every basics of the Engine and its features as well as programming in C++.\n\nEdit: As mentioned before I'm very sad that I didn't have to see Ben teaching in the updated version of the course. He was the one who explained to me all the basic things that I was struggling with. After that I went through the whole updated course, but because Ben has taught me everything I needed to understand the concept of the Engine I had no problem to do all the challenges by myself. Also shout out to Sam Pattuzzi for also good presentations.",
+            "rating": 4.5
+        },
+        {
+            "body": "I needed some information to understand how to start with Unreal Engine and this course was very useful for this.",
+            "rating": 5
+        },
+        {
+            "body": "It's a well-done course for beginners, it's rich, fun, and not exhaustive like school academic courses.\n\nI hope u guys consider making intermediate level courses which can help people who had the experience in this course to begin Game development can upgrade their experiences even more.",
+            "rating": 5
+        },
+        {
+            "body": "Overall a good course. It can be fast paced sometimes and some topics can and should be explained more. I almost gave up during toon tanks. The skill level seems to jump too much in between that and the section before it.",
+            "rating": 4
+        },
+        {
+            "body": "Offers fantastic coverage of the Unreal Engine and its version of C++. The tutors are very good at pacing and explaining everything they are doing to ensure you do not miss something, or fail to understand why things work the way they do. There is a lot to take in and remember, but they offer consistent challenges every video to get you to practice what you have learnt. These things are often applied again at later stages as refreshers. I highly recommend this course for both beginners and intermediates. I look forward to trying their other courses! :)",
+            "rating": 5
+        },
+        {
+            "body": "Great course, having originally purchased this just shy of two years ago, it's been updated since then with many improvements and better explanations being provided.",
+            "rating": 5
+        },
+        {
+            "body": "Section 5: Toon Tanks, did it for me.\n\nI wanted to rate this course higher. I wanted to believe that this course was as good as the rating suggest - unfortunately it is not, not now at least.\n\nIf you want to watch someone code a Toon Tanks game and copy along, buy this course. If you want to actually learn to use Unreal Engine and learn C++, look elsewhere.\n\nBut wait, the old content is good. This course has been updated a lot. What's also been updated are the instructors. After finding the archived versions of this course I realised that the quality of the course is getting worse. Ben is a fantastic instructor and I naturally gravitated to him. He takes the pain-staking time of explaining things, preparing diagrams, workflows, etc. The pacing is spot on and content is beautifully crafted. Don't expect that now in Section 5.\n\nIt is a real shame. If you can pick this course up cheap, maybe give it a try, but use the old content if you can.\n\nIt pain's me to leave a negative review like this, it really does. But I hope that this can be seen as constructive criticism and will help move the course into a better state.\n\n#bringbackben",
+            "rating": 1
+        },
+        {
+            "body": "The second to last section of this course is NOT beginner friendly as the instructor just kind of throwing terminologies and new concepts at you, but the contents are still valid. It would be the best to watch the last section before the second last section if you never worked with C++ before as the last section is more detailed and slower paced. Also, just personally speaking, I think Sam's and Mikey's voices are great as a instructor: energetic and ethusiastic, the other instructor's voice & tone kind of making me sleepy throughout his lectures..\n\nOverall the course is good introductary course, if the aforementioned section could be improved, this can be a 5 star course.",
+            "rating": 4.5
+        },
+        {
+            "body": "Overall excellent course. I am an experienced c/c++ programmer that was looking to expand my skill set into Unreal Engine and I enjoyed the course.\n\nI would say my only disappointment was in the last part of the updated escape game module. The video is a sped up version of the level being built. I would have liked to see a bit more of what went into the design of that level since it was more intricate than the basic room used to teach everything else in the module.",
+            "rating": 4.5
+        },
+        {
+            "body": "Really makes you listen. Very well organizational teaching, good audio quality. Like a tutorial with an Oscar. The fourth and fifth sections however felt rushed and the instructors aren't as professional, skipping important instructions, not speaking of what they're doing as they're doing them and such.",
+            "rating": 3.5
+        }
+    ],
+    "students": [
+        {
+            "name": "Jason Williams",
+            "email": "jasonwilliams@gmail.com",
+            "password": "jasonwilliams",
+            "role": "s"
+        },
+        {
+            "name": "Shaine Kruel",
+            "email": "shainekruel@gmail.com",
+            "password": "shainekruel",
+            "role": "s"
+        },
+        {
+            "name": "GameDev.tv Team",
+            "email": "gamedev.tvteam@gmail.com",
+            "password": "gamedev.tvteam",
+            "role": "s"
+        },
+        {
+            "name": "Pavel Dinh",
+            "email": "paveldinh@gmail.com",
+            "password": "paveldinh",
+            "role": "s"
+        },
+        {
+            "name": "GameDev.tv Team",
+            "email": "gamedev.tvteam@gmail.com",
+            "password": "gamedev.tvteam",
+            "role": "s"
+        },
+        {
+            "name": "Ettore Di Boscio",
+            "email": "ettorediboscio@gmail.com",
+            "password": "ettorediboscio",
+            "role": "s"
+        },
+        {
+            "name": "GameDev.tv Team",
+            "email": "gamedev.tvteam@gmail.com",
+            "password": "gamedev.tvteam",
+            "role": "s"
+        },
+        {
+            "name": "Zaid Khalifeh",
+            "email": "zaidkhalifeh@gmail.com",
+            "password": "zaidkhalifeh",
+            "role": "s"
+        },
+        {
+            "name": "GameDev.tv Team",
+            "email": "gamedev.tvteam@gmail.com",
+            "password": "gamedev.tvteam",
+            "role": "s"
+        },
+        {
+            "name": "Frank N",
+            "email": "frankn@gmail.com",
+            "password": "frankn",
+            "role": "s"
+        },
+        {
+            "name": "GameDev.tv Team",
+            "email": "gamedev.tvteam@gmail.com",
+            "password": "gamedev.tvteam",
+            "role": "s"
+        },
+        {
+            "name": "Samuel Peace",
+            "email": "samuelpeace@gmail.com",
+            "password": "samuelpeace",
+            "role": "s"
+        },
+        {
+            "name": "GameDev.tv Team",
+            "email": "gamedev.tvteam@gmail.com",
+            "password": "gamedev.tvteam",
+            "role": "s"
+        },
+        {
+            "name": "Peter Smith",
+            "email": "petersmith@gmail.com",
+            "password": "petersmith",
+            "role": "s"
+        },
+        {
+            "name": "GameDev.tv Team",
+            "email": "gamedev.tvteam@gmail.com",
+            "password": "gamedev.tvteam",
+            "role": "s"
+        },
+        {
+            "name": "Tom Blackburn",
+            "email": "tomblackburn@gmail.com",
+            "password": "tomblackburn",
+            "role": "s"
+        },
+        {
+            "name": "Sam Pattuzzi",
+            "email": "sampattuzzi@gmail.com",
+            "password": "sampattuzzi",
+            "role": "s"
+        },
+        {
+            "name": "Ray Yu",
+            "email": "rayyu@gmail.com",
+            "password": "rayyu",
+            "role": "s"
+        },
+        {
+            "name": "William Jensen",
+            "email": "williamjensen@gmail.com",
+            "password": "williamjensen",
+            "role": "s"
+        },
+        {
+            "name": "GameDev.tv Team",
+            "email": "gamedev.tvteam@gmail.com",
+            "password": "gamedev.tvteam",
+            "role": "s"
+        },
+        {
+            "name": "Ege Dai",
+            "email": "egedai@gmail.com",
+            "password": "egedai",
+            "role": "s"
+        }
+    ],
+    "instructor": {
+        "name": "Ben Tristem",
+        "email": "bentristem@gmail.com",
+        "password": "bentristem",
+        "role": "i",
+        "briefIntroduction": "<p>Hi, I'm Ben. I have a degree in computing from Imperial College London, and a physics diploma from the Open University.&nbsp; </p><p>I started working for myself at the age of 15, and never looked back. I explored careers as varied as being a commercial pilot, stunt-man, rock climbing instructor, and more. None of these provided a continued challenge, and stable income in the same way technology does.&nbsp; </p><p>After building and selling a home computer support business, I became an angel investor and business mentor here in Cambridge UK. I fell in love with teaching game development through one of my investments, and I now spend all of my time sharing my passion with people like you.&nbsp; </p><p>I can't wait to help you experience the fulfilment, and financial freedom, that having a deep understanding of technology brings.&nbsp; </p><p>So why not start learning to make games with me and my team now? </p><p>See you soon!&nbsp; </p><p>Ben</p>"
+    }
+}

@@ -1,0 +1,193 @@
+{
+    "field": {
+        "name": "game-development",
+        "courses": []
+    },
+    "course": {
+        "title": "Discovering Godot: Make Video Games in Python-like GDScript",
+        "subtitle": "Game development with Godot Engine 3.1 :: Learn to code in Python-like GDScript",
+        "descriptions": [],
+        "reviews": [],
+        "students": [],
+        "image1xURL": "https://img-a.udemycdn.com/course/240x135/1647296_44da_3.jpg",
+        "image2xURL": "https://img-a.udemycdn.com/course/480x270/1647296_44da_3.jpg",
+        "image3xURL": "https://img-a.udemycdn.com/course/750x422/1647296_44da_3.jpg",
+        "discountPrice": 11.99,
+        "originalPrice": 99.99,
+        "numViews": 0,
+        "curriculum": []
+    },
+    "reviews": [
+        {
+            "body": "I really enjoyed this course and feel I learnt a lot about Godot and game development in general. The journey is well structured and Yann has a great delivery.\n\nThe game examples build well on one and other, and you put together a solid toolbox to begin bringing your own ideas to fruition. I would definitely recommend this course",
+            "rating": 4
+        },
+        {
+            "body": "The course matches my skill level quite well. I like how comprehensive it is and I like the challenges than encourage me to do some coding myself. The instructor also makes a point of showing how to access the documentation which will have long-term value as will the drag and drop shortcuts he demonstrates. I'd like the instructor to slow down and be sure to tell us what he's clicking or which keys he's pressing to get the effects he's demonstrating.",
+            "rating": 4
+        },
+        {
+            "body": "Best Game Dev course in udemy right now, unlike other ones, this one teaches you how to make actual commercial games, and covers many topics such as: game mechanics, enemy behavior, level construction/tiling, modular design, UI and game settings.\n\nthe progression from basic concepts to advanced ones is very smooth and feels natural, it never felt bogged down or too frustrating\n\nYann is charismatic and has a real passion for teaching",
+            "rating": 5
+        },
+        {
+            "body": "Very positive experience overall for getting in touch with the engine for the first time. I would have loved one of the 3D projects to be really (really) advanced level, but I guess there will be another course for that. Good job and keep up the good work!",
+            "rating": 4.5
+        },
+        {
+            "body": "I really liked it and learnt a lot about Godot. Interesting teaching style from Yann but he kept me engaged and keen to learn more!",
+            "rating": 5
+        },
+        {
+            "body": "Excellent course, definitely recommend it. Some constructive criticism is that it's clear the re-do of the course has improved the code quality a lot, as it does feel like the code in the sections which haven't been updated yet is really very messy (ie 2nd half of HeistMeisters, and 3D lessons), and a lot is achieved through hacks which would encourage bad practice for beginner programmers. The code quality and consistency of the re-done courses could still be improved, but having said that I still give it 5 stars because it's an excellent course, very well structured and to be honest still much better quality code (and very well prepared) than many from other game development courses. One more thing to mention is that it feels the 2nd 3D game has quite a lot of overlap from the first 3D and feels like for a lot of it there are not many new concepts learned, especially compared to how many new concepts are introduced as the 2D games progress - if these are re-done it would be great to see new more advanced concepts in the 2nd 3D course (maybe like adding a godot module, etc). Finally, the C# piece clearly is not in place so it woudl also be good to update the intro to remove that mention until it's complete, and tbh that could be a whole new course in itself instead of appending it to this one. Thanks Yann & Ben.",
+            "rating": 5
+        },
+        {
+            "body": "Awesome course, the way Yann explained everything, made me understand both the game engine and gdscript alot easier. It answered all of my questions.",
+            "rating": 5
+        },
+        {
+            "body": "I think it was great, but them they took out the c# classes... But they can update this course and make c# parts because now godot 3.2 has way better support!",
+            "rating": 3.5
+        },
+        {
+            "body": "After some hrs, the voice and attitude is annoying. I cant even finish some parts. To this, increase the video speed to 1.5 or just go to Youtube.\n\nMany videos are more than 10 mins, these can be perfectly reduced to 3 or less.",
+            "rating": 1
+        },
+        {
+            "body": "The quality of content was awesome but the content was not enough. I thought we'd learn everything about Godot.\n\nI didn't see anything about HTTPRequest, SkeletonIK, ResourcePreloader, Bone2D, Joint2D, PathFollow2D nodes and the most important 3D nodes was not mentioned!!(VisualInstance Nodes)\n\nActually, we didn't learn anything about 3D at all. We just did import models and animate them.\n\nAnd why we didn't see anything about online multiplayer gaming??(LAN and server)\n\nI'm sorry, I'm just disappointed.",
+            "rating": 2.5
+        },
+        {
+            "body": "What a great course !, Yann is a very fun and exciting teacher",
+            "rating": 5
+        },
+        {
+            "body": "Very detailled instructions to build the games presented in the course. Almost halfway through it and I discovered how much GODOT is hassle free and very fun to make games with it.",
+            "rating": 5
+        }
+    ],
+    "students": [
+        {
+            "name": "Adrian Connolly",
+            "email": "adrianconnolly@gmail.com",
+            "password": "adrianconnolly",
+            "role": "s"
+        },
+        {
+            "name": "James Morris",
+            "email": "jamesmorris@gmail.com",
+            "password": "jamesmorris",
+            "role": "s"
+        },
+        {
+            "name": "GameDev.tv Team",
+            "email": "gamedev.tvteam@gmail.com",
+            "password": "gamedev.tvteam",
+            "role": "s"
+        },
+        {
+            "name": "Gasob Yakumo",
+            "email": "gasobyakumo@gmail.com",
+            "password": "gasobyakumo",
+            "role": "s"
+        },
+        {
+            "name": "GameDev.tv Team",
+            "email": "gamedev.tvteam@gmail.com",
+            "password": "gamedev.tvteam",
+            "role": "s"
+        },
+        {
+            "name": "Matteo Crielesi",
+            "email": "matteocrielesi@gmail.com",
+            "password": "matteocrielesi",
+            "role": "s"
+        },
+        {
+            "name": "GameDev.tv Team",
+            "email": "gamedev.tvteam@gmail.com",
+            "password": "gamedev.tvteam",
+            "role": "s"
+        },
+        {
+            "name": "Rod Hall",
+            "email": "rodhall@gmail.com",
+            "password": "rodhall",
+            "role": "s"
+        },
+        {
+            "name": "Alejandro Saucedo",
+            "email": "alejandrosaucedo@gmail.com",
+            "password": "alejandrosaucedo",
+            "role": "s"
+        },
+        {
+            "name": "Roberta Nagy",
+            "email": "robertanagy@gmail.com",
+            "password": "robertanagy",
+            "role": "s"
+        },
+        {
+            "name": "GameDev.tv Team",
+            "email": "gamedev.tvteam@gmail.com",
+            "password": "gamedev.tvteam",
+            "role": "s"
+        },
+        {
+            "name": "Pedro Balleroni",
+            "email": "pedroballeroni@gmail.com",
+            "password": "pedroballeroni",
+            "role": "s"
+        },
+        {
+            "name": "Cristian",
+            "email": "cristian@gmail.com",
+            "password": "cristian",
+            "role": "s"
+        },
+        {
+            "name": "Ben Tristem",
+            "email": "bentristem@gmail.com",
+            "password": "bentristem",
+            "role": "s"
+        },
+        {
+            "name": "Tyler Connor",
+            "email": "tylerconnor@gmail.com",
+            "password": "tylerconnor",
+            "role": "s"
+        },
+        {
+            "name": "Ben Tristem",
+            "email": "bentristem@gmail.com",
+            "password": "bentristem",
+            "role": "s"
+        },
+        {
+            "name": "Aji Mustofa",
+            "email": "ajimustofa@gmail.com",
+            "password": "ajimustofa",
+            "role": "s"
+        },
+        {
+            "name": "Mario Dupuis",
+            "email": "mariodupuis@gmail.com",
+            "password": "mariodupuis",
+            "role": "s"
+        },
+        {
+            "name": "GameDev.tv Team",
+            "email": "gamedev.tvteam@gmail.com",
+            "password": "gamedev.tvteam",
+            "role": "s"
+        }
+    ],
+    "instructor": {
+        "name": "Ben Tristem",
+        "email": "bentristem@gmail.com",
+        "password": "bentristem",
+        "role": "i",
+        "briefIntroduction": "<p>Hi, I'm Ben. I have a degree in computing from Imperial College London, and a physics diploma from the Open University.&nbsp; </p><p>I started working for myself at the age of 15, and never looked back. I explored careers as varied as being a commercial pilot, stunt-man, rock climbing instructor, and more. None of these provided a continued challenge, and stable income in the same way technology does.&nbsp; </p><p>After building and selling a home computer support business, I became an angel investor and business mentor here in Cambridge UK. I fell in love with teaching game development through one of my investments, and I now spend all of my time sharing my passion with people like you.&nbsp; </p><p>I can't wait to help you experience the fulfilment, and financial freedom, that having a deep understanding of technology brings.&nbsp; </p><p>So why not start learning to make games with me and my team now? </p><p>See you soon!&nbsp; </p><p>Ben</p>"
+    }
+}

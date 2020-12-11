@@ -1,0 +1,151 @@
+{
+    "field": {
+        "name": "game-development",
+        "courses": []
+    },
+    "course": {
+        "title": "Learn To Create An RPG Game In Unity",
+        "subtitle": "Game development made easy. Learn C# using Unity and create your very own classic RPG!",
+        "descriptions": [],
+        "reviews": [],
+        "students": [],
+        "image1xURL": "https://img-a.udemycdn.com/course/240x135/1974404_c458.jpg",
+        "image2xURL": "https://img-a.udemycdn.com/course/480x270/1974404_c458.jpg",
+        "image3xURL": "https://img-a.udemycdn.com/course/750x422/1974404_c458.jpg",
+        "discountPrice": 11.99,
+        "originalPrice": 129.99,
+        "numViews": 0,
+        "curriculum": []
+    },
+    "reviews": [
+        {
+            "body": "Great course, is a very good introduction to the RPG gaming development, all the basics and even some advanced stuff. Is all there to start working in your own project.\n\n////\n\nGran curso, una buena introducción al desarrollo de juegos RPG, desde lo básico hasta algunas cosas realmente complejas y un poco más avanzadas. Deja todo planteado para continuar y crear tu propio proyecto.",
+            "rating": 5
+        },
+        {
+            "body": "A fun course to take to learn the fundamentals of making a classic RPG. There are a few issues, but half of developing is finding out solutions to problems, and most issues (only about 3 main issues with the built game) are fixed in the Q&A section.",
+            "rating": 4
+        },
+        {
+            "body": "Great work, I'll be honest. I don't remember most of this, but at least I'll have a reference and general concepts in the back of my mind as I work on more stuff!",
+            "rating": 5
+        },
+        {
+            "body": "The course is for you if you want a very barebones RPG construct.\n\nMany systems are easy to expand upon, but others not as much, because of the way it was designed.\n\nYou should realize that this is more an instruction, than a course that teaches you how to code.\n\nBut it starts very basic and the very foundation of programming could be learned here.",
+            "rating": 2
+        },
+        {
+            "body": "There were good parts and there were bad parts. Overall the fundamentals to make a complete RPG game has been laid out and you get to learn a handful of knowledge and skill.\n\nOn the other hand, a lot of the more advance parts weren't explained properly and some codes are not very expandable (high dependency on other class) if you want to make changes or add new feature of your own which meant you have to refactor your code in order to add new feature.\n\nThat said, this is still a very good course that gives you the groundwork to make your own RPG game for both beginner and intermediate.",
+            "rating": 3.5
+        },
+        {
+            "body": "This course was a great way to build my beginner knowledge of c# programming as well as game development. There were a few obstacles, but it gave me satisfaction when I figured it out.",
+            "rating": 5
+        },
+        {
+            "body": "The best course about RPG games. I like how we actually build a complete RPG game and not a bunch of incomplete/partial RPG games like in other tutorials. In the end, you will be able to build your own \"basic\" RPG game without a problem. All you need is to learn some pixel art, if you want to create your own assets that is :D",
+            "rating": 5
+        },
+        {
+            "body": "This course was EXACTLY what I was looking for. Unlike most tutorials have come across this course covers every step from start to finish without over complicating things. Explanations were clear, precise, and easy to follow.",
+            "rating": 5
+        },
+        {
+            "body": "The classes are well explained but when you get stuck in one part, you can no longer do anything until someone else does. What bothers me is the programming part and I've never been able to learn it and the main problems are from that, I can't do anything. I was not able to finish the course because the code doesn't work for some people.",
+            "rating": 4
+        },
+        {
+            "body": "I enjoyed this course, it was informative and I felt like things were explained fairly well. Whenever I got stuck I was able to find my answer in the Q&A section with a little digging.",
+            "rating": 4.5
+        },
+        {
+            "body": "El profesor casi no responde las preguntas, dependes de otros estudiantes para avanzar, hay varios errores que se van arreglando sobre la marcha y debería ser editados o hacerlos nuevamente para no confundir a los alumnos, faltó mas profundidad en muchos temas. Pero para empezar a tener algo básico no está tan mal",
+            "rating": 3
+        },
+        {
+            "body": "I'm intermediate with Unity, so my experience with the course was very mixed. At the start of the course, the instructor tended to spend quite a lot of time explaining the very basics of the Unity and C#, so I just had to speed through those hoping I didn't miss anything important. In contrast, when it came to the more advanced sections of the course, he didn't spend enough time explaining the code, I ended up just copying what he did without understanding (the absolute WORST thing you can do when following a tutorial). It would've helped to have some sort of diagram or something to explain the mechanics and functions in a visual manner.\n\nAdditionally, I may not be the wiser, but I get the feeling that some of the methods the instructor uses are good coding practice, like using strings as identifiers, and there were many areas that I think could be taught with more efficient techniques (e.g. why not use Scriptable objects for the likes of the BattleMoves, BattleTypes, or even the CharacterStats?)\n\nBy far the worst part of the course was Section 105, where he leaves the students up to quite a difficult challenge. This would've been alright, if it weren't for the fact that he didn't provide a video with a solution (I know you can download the completed project at the end, but that doesn't really help explain the code). I just had to skip it so I could complete the course without wasting time.\n\nOverall, I did in fact learn a small handful of skills from this course that could help me make my own RPG, but I'm going to have to do a whole lot of tweaking to the code from here for it to be more flexible to my own ideas.",
+            "rating": 2.5
+        }
+    ],
+    "students": [
+        {
+            "name": "Mauricio Portillo",
+            "email": "mauricioportillo@gmail.com",
+            "password": "mauricioportillo",
+            "role": "s"
+        },
+        {
+            "name": "Ryan Porter",
+            "email": "ryanporter@gmail.com",
+            "password": "ryanporter",
+            "role": "s"
+        },
+        {
+            "name": "Axel Rodriguez",
+            "email": "axelrodriguez@gmail.com",
+            "password": "axelrodriguez",
+            "role": "s"
+        },
+        {
+            "name": "Jan Schmidtke",
+            "email": "janschmidtke@gmail.com",
+            "password": "janschmidtke",
+            "role": "s"
+        },
+        {
+            "name": "Jeremy Toh Hong Hing",
+            "email": "jeremytohhonghing@gmail.com",
+            "password": "jeremytohhonghing",
+            "role": "s"
+        },
+        {
+            "name": "Chris Lewandowski",
+            "email": "chrislewandowski@gmail.com",
+            "password": "chrislewandowski",
+            "role": "s"
+        },
+        {
+            "name": "Noureddine Saidana",
+            "email": "noureddinesaidana@gmail.com",
+            "password": "noureddinesaidana",
+            "role": "s"
+        },
+        {
+            "name": "Rich H",
+            "email": "richh@gmail.com",
+            "password": "richh",
+            "role": "s"
+        },
+        {
+            "name": "Allen B. Herrera",
+            "email": "allenb.herrera@gmail.com",
+            "password": "allenb.herrera",
+            "role": "s"
+        },
+        {
+            "name": "Juan Molinar",
+            "email": "juanmolinar@gmail.com",
+            "password": "juanmolinar",
+            "role": "s"
+        },
+        {
+            "name": "Hernan Sagastume",
+            "email": "hernansagastume@gmail.com",
+            "password": "hernansagastume",
+            "role": "s"
+        },
+        {
+            "name": "Amin Khan",
+            "email": "aminkhan@gmail.com",
+            "password": "aminkhan",
+            "role": "s"
+        }
+    ],
+    "instructor": {
+        "name": "James Doyle",
+        "email": "jamesdoyle@gmail.com",
+        "password": "jamesdoyle",
+        "role": "i",
+        "briefIntroduction": "<p>Hi, I'm James. I have helped thousands of people learn how to develop their own games in Unity, and whether you're a first-time developer, or need to refresh your skills, I can help you learn to make the games you want to make.</p><p>With a bachelors degree in Computer Science and a background working in independent game development, I have been helping others to create their own games and release them on multiple platforms.</p><p>I believe in helping you learn by teaching code in context, so rather than having to memorize a bunch of stuff you've never seen before, you learn how each coding concept can be applied to real working problems in your games.</p><p><strong>I can't wait to help you learn all about making your own games and how to make them a success.</strong></p><p>So why not start learning to make games with me now?</p><p>See you soon!</p><p>James</p>"
+    }
+}

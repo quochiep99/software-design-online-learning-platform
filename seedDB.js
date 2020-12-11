@@ -25,14 +25,14 @@ const joinjson = new JoinJSON();
 // }
 
 // field: data-science
-for (var i = 1; i <= 16; i++) {
-    joinjson.join([require(`./data/data-science/data${i}.json`)]);
-}
-
-// field: programming-languages
 // for (var i = 1; i <= 16; i++) {
-//     joinjson.join([require(`./data/programming-languages/data${i}.json`)]);
+//     joinjson.join([require(`./data/data-science/data${i}.json`)]);
 // }
+
+// field: game-development
+for (var i = 1; i <= 16; i++) {
+    joinjson.join([require(`./data/game-development/data${i}.json`)]);
+}
 // mongodb url
 const url = process.env.DATABASEURL || 'mongodb://localhost:27017/web-online-academy';
 mongoose.connect(url, { useNewUrlParser: true, useUnifiedTopology: true });

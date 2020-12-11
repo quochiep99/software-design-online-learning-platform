@@ -1,0 +1,211 @@
+{
+    "field": {
+        "name": "game-development",
+        "courses": []
+    },
+    "course": {
+        "title": "Blender Character Creator v2.0 for Video Games Design",
+        "subtitle": "Model Video Game Characters. Use The Sculpt Tool To Shape, Add Texture, Rig & Animate Video Game Characters",
+        "descriptions": [],
+        "reviews": [],
+        "students": [],
+        "image1xURL": "https://img-a.udemycdn.com/course/240x135/1356020_2c30_4.jpg",
+        "image2xURL": "https://img-a.udemycdn.com/course/480x270/1356020_2c30_4.jpg",
+        "image3xURL": "https://img-a.udemycdn.com/course/750x422/1356020_2c30_4.jpg",
+        "discountPrice": 11.99,
+        "originalPrice": 129.99,
+        "numViews": 0,
+        "curriculum": []
+    },
+    "reviews": [
+        {
+            "body": "I do not know if I will ever be able praise this course enough. I have been drawing characters for video games for as long as I can remember. This game has helped me achieve my childhood dream of creating my first video game character. I have dabbled in Blender for years but felt I lacked the right guidance to see a character design through. Not only was the curriculum well thought out, but the encouragement from these instructors was phenomenal. The small exercises thrown in were a terrific touch and really gave the student an opportunity to explore their own method for modeling/sculpting before following the technique of a skilled mentor. Thank you for helping me to fulfill a long sought after goal!",
+            "rating": 5
+        },
+        {
+            "body": "This is a good course that can recommend to everyone, I was not just a a beginner but I learned a lot of my mistakes and doubts through this. Thank you for the great tutorial.",
+            "rating": 5
+        },
+        {
+            "body": "The course is a streamlined workflow from a basic knowledge of Blender to having a sculpted, animated, textured character, plus getting all of those things into Unity set up with an animation controller, and this it does very well. Retopology and rigging are covered enough to get you to the end but not explored in minute detail, and I'll be looking to perfect these next, as well as learn more about hair and clothing.",
+            "rating": 4.5
+        },
+        {
+            "body": "Overall I really enjoyed the course! For me it was a literal game changer when it comes to sculpting and modelling. Grant Abbitt did an amazing job highlighting the important aspects of each step. He's really confident in his skills and knows the ins and outs of Blender 2.8 and above very well. The instructions were very clear and comprehensive, entertaining and really enjoyable overall! The only minor nitpicks I have are related to the retopology and animation section of this course. These sections are very basic and only brushed upon. Grant gives a pretty good overview of what needs to be done but for the sake of the overall course these (very complicated sections) are stripped down to a bare minimum. (which in my opinion is totally understandable considering the sheer volume of information and experience needed to nail retopology and animation). The other nitpick I have is, that some (only a few!) videos were a little bit fast, but the great thing about the video content is that you can rewind whenever you need to. Really liked the course! I would highly recommend to take this course if you have a little experience with 3D Modelling software and want to up your skills quite a bit. I'd love to take courses, instructed by Grant Abbitt on the topics of retopology and animation in the future!",
+            "rating": 5
+        },
+        {
+            "body": "Besides the topic of the course, which is explained in reasonable detail and in a very easy to understand manner, I learned a lot of useful tips on using Blender and on keeping the modelling workflow efficient.\n\nI definitely recommend this to anyone interested in 3d rigging and animation",
+            "rating": 5
+        },
+        {
+            "body": "Last part of the course is dissapointing, heavily packed up into few ~15min clips, chaotic, with scraps of information, without proper and decent explanation - prepared seemingly carelessly. Overall course is informational, some parts are explained carefully, learning flow is in a good shape. UV unwrapping could be a little bit more informational because of additional complexity of a subject.\n\nKinda informational, up to the point of texturing model is decent. Unity part seems like a bad joke and looking at the level of commitment and preparation it would be better to not include it at all.",
+            "rating": 2.5
+        },
+        {
+            "body": "EDIT: The course was great and totally worth the money, but a complete demonstration of the manual retopo process would have been awesome!",
+            "rating": 4
+        },
+        {
+            "body": "There's a serious wealth of information here, very cleverly structured and presented. I've taken a few courses on Udemy (and in person), and this has been easily one the most engaging and rewarding ones.\n\nI decided to take this course to get re-familiarized with Blender after a few years pause, so the pacing was very good for me. I suspect a complete beginner might find the course a bit overwhelming. But if you take it slow - maybe redoing some lessons and taking a break between sections to try what you learned, you can seriously level up on your modeling skills.",
+            "rating": 5
+        },
+        {
+            "body": "Increible, sencillamente increible lo que uno comienza con un par de cubos y acaba teniendo su primer NPC que funciona en Unity. El profesor tambien es muy bueno y me ha gustado como ha llevado el curso adelante.\n\nSe llevaran el 5 si meten mas contenido ya que espero, que no dejen aqui el curso y nos enseñen tecnicas mas avanzadas de diseño de caracteres.\n\nGracias por vuestro tiempo, ha sido un placer.",
+            "rating": 4.5
+        },
+        {
+            "body": "I already knew that Rick was a Legend but after this course I can now add Grant Abbitt to the List of Legends. Grant is honestly the most talented teacher I have ever encountered in any subject, I can't praise Grant enough - the guy is quickly becoming a hero of mine! I would strongly recommend doing this course for a fairly comprehensive grounding in blender and then supplement it with Grants Youtube channel which is an unbelievably good resource. I think I have completed 4 GameDevTV courses now and they have all been fantastic quality - big fans of the whole team. Only complaint is that the course did lack Ricks usual humour - please bring back more of Ricks jokes, thanks.",
+            "rating": 5
+        },
+        {
+            "body": "I love it. It is easy to understand.",
+            "rating": 5
+        },
+        {
+            "body": "I loved the way of creating the character, it give a path and we can really create our personal character. And overall I enjoyed to know what to do to bring it to unity without losing quality with a low poly character. I expected a bit more with the animation part but I really enjoyed the course and I will create an other character following it again to be sure to assimilate everything.",
+            "rating": 5
+        }
+    ],
+    "students": [
+        {
+            "name": "Max Krueger",
+            "email": "maxkrueger@gmail.com",
+            "password": "maxkrueger",
+            "role": "s"
+        },
+        {
+            "name": "GameDev.tv Team",
+            "email": "gamedev.tvteam@gmail.com",
+            "password": "gamedev.tvteam",
+            "role": "s"
+        },
+        {
+            "name": "Nuwan Prabodh",
+            "email": "nuwanprabodh@gmail.com",
+            "password": "nuwanprabodh",
+            "role": "s"
+        },
+        {
+            "name": "GameDev.tv Team",
+            "email": "gamedev.tvteam@gmail.com",
+            "password": "gamedev.tvteam",
+            "role": "s"
+        },
+        {
+            "name": "Kinofrost S",
+            "email": "kinofrosts@gmail.com",
+            "password": "kinofrosts",
+            "role": "s"
+        },
+        {
+            "name": "GameDev.tv Team",
+            "email": "gamedev.tvteam@gmail.com",
+            "password": "gamedev.tvteam",
+            "role": "s"
+        },
+        {
+            "name": "Dominik Göbel",
+            "email": "dominikgöbel@gmail.com",
+            "password": "dominikgöbel",
+            "role": "s"
+        },
+        {
+            "name": "Alberto Scaccianoce",
+            "email": "albertoscaccianoce@gmail.com",
+            "password": "albertoscaccianoce",
+            "role": "s"
+        },
+        {
+            "name": "GameDev.tv Team",
+            "email": "gamedev.tvteam@gmail.com",
+            "password": "gamedev.tvteam",
+            "role": "s"
+        },
+        {
+            "name": "Gabriel Korniejew",
+            "email": "gabrielkorniejew@gmail.com",
+            "password": "gabrielkorniejew",
+            "role": "s"
+        },
+        {
+            "name": "Grant Abbitt",
+            "email": "grantabbitt@gmail.com",
+            "password": "grantabbitt",
+            "role": "s"
+        },
+        {
+            "name": "Mohammed Mosa Mir",
+            "email": "mohammedmosamir@gmail.com",
+            "password": "mohammedmosamir",
+            "role": "s"
+        },
+        {
+            "name": "GameDev.tv Team",
+            "email": "gamedev.tvteam@gmail.com",
+            "password": "gamedev.tvteam",
+            "role": "s"
+        },
+        {
+            "name": "Juhani Kumara",
+            "email": "juhanikumara@gmail.com",
+            "password": "juhanikumara",
+            "role": "s"
+        },
+        {
+            "name": "GameDev.tv Team",
+            "email": "gamedev.tvteam@gmail.com",
+            "password": "gamedev.tvteam",
+            "role": "s"
+        },
+        {
+            "name": "Eduardo Hernandez Ricciarelli",
+            "email": "eduardohernandezricciarelli@gmail.com",
+            "password": "eduardohernandezricciarelli",
+            "role": "s"
+        },
+        {
+            "name": "Samuel Walter",
+            "email": "samuelwalter@gmail.com",
+            "password": "samuelwalter",
+            "role": "s"
+        },
+        {
+            "name": "GameDev.tv Team",
+            "email": "gamedev.tvteam@gmail.com",
+            "password": "gamedev.tvteam",
+            "role": "s"
+        },
+        {
+            "name": "Birhanu Worku",
+            "email": "birhanuworku@gmail.com",
+            "password": "birhanuworku",
+            "role": "s"
+        },
+        {
+            "name": "GameDev.tv Team",
+            "email": "gamedev.tvteam@gmail.com",
+            "password": "gamedev.tvteam",
+            "role": "s"
+        },
+        {
+            "name": "Vinko Roditi",
+            "email": "vinkoroditi@gmail.com",
+            "password": "vinkoroditi",
+            "role": "s"
+        },
+        {
+            "name": "GameDev.tv Team",
+            "email": "gamedev.tvteam@gmail.com",
+            "password": "gamedev.tvteam",
+            "role": "s"
+        }
+    ],
+    "instructor": {
+        "name": "GameDev.tv Team",
+        "email": "gamedev.tvteam@gmail.com",
+        "password": "gamedev.tvteam",
+        "role": "i",
+        "briefIntroduction": "<p>GameDev&nbsp;tv was created to help anyone learn how to <strong>develop, design and sell indie games</strong>. &nbsp;We have some of the best-selling and highest rating game development courses on Udemy. </p><p>We have more than 600,000 students, and our aim is to make and maintain&nbsp;high quality courses that are <strong>engaging and entertaining</strong> for them.</p><p>GameDev&nbsp;tv offers comprehensive courses on&nbsp;<strong>Unity, Blender, Unreal, coding in C#, C++</strong> and more. &nbsp;Looking to learn about a topic that we don't cover?&nbsp;Get plugged into our communities of amazing developers on Facebook (nearly 20k), in our own TA-curated Community (17k views/day), and our student chat group (10k live at any one time).</p>"
+    }
+}

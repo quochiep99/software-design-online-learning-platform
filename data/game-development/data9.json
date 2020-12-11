@@ -1,0 +1,151 @@
+{
+    "field": {
+        "name": "game-development",
+        "courses": []
+    },
+    "course": {
+        "title": "Unity Game Development Build 2D & 3D Games",
+        "subtitle": "Learn Unity game design & 2D & 3D game development & make your own C# games in Unity 3D",
+        "descriptions": [],
+        "reviews": [],
+        "students": [],
+        "image1xURL": "https://img-a.udemycdn.com/course/240x135/980770_b73d_7.jpg",
+        "image2xURL": "https://img-a.udemycdn.com/course/480x270/980770_b73d_7.jpg",
+        "image3xURL": "https://img-a.udemycdn.com/course/750x422/980770_b73d_7.jpg",
+        "discountPrice": 11.99,
+        "originalPrice": 129.99,
+        "numViews": 0,
+        "curriculum": []
+    },
+    "reviews": [
+        {
+            "body": "great fun way to learn how to make functional games in Unity.",
+            "rating": 5
+        },
+        {
+            "body": "Please update the course for the current versions of Unity,otherwise great course!",
+            "rating": 4.5
+        },
+        {
+            "body": "The course covers wide variety of topics and the games made here actually look good, thanks for the assets included. The manner of the tutorial is very engaging, fun, simple and effective, most hosts are really great. But there's a downside too in in 2020: it's a bit outdated (made with Unity 5 which is from 2015), which means some complications with deprecation as well as the authors not necessarily are up for answering every single question for years on end. But for me personally this is probably one of the best courses I've ever bought, and special big thanks to Jonathan Burgoyne for the amazing opportunity! :)",
+            "rating": 5
+        },
+        {
+            "body": "The course was not bad, but it's lacking majorly in explanation of the Minecraft section and the multiplayer section is out-dated. The coding practices in this course are very bad, they over-complicate most things. Overall I have learnt some valuable information as an intermediate Unity user however I don't recommend this course, it's out-dated and not structured properly.",
+            "rating": 3
+        },
+        {
+            "body": "I'm extremely impressed by the quality of a very well-organised course with a range of difficulty levels that accommodate all types of learners plus the enthusiasm and dedication of the lecturer team whose unique experience, expertise and programming style did create a rich learning experience for learners. A big Thank You to the whole team!",
+            "rating": 5
+        },
+        {
+            "body": "50% completion of course progress.\n\nTower defense has some bugs and coding logic not good.\n\nCurrently Legend of Devslops Fantasy course feels good.",
+            "rating": 3
+        },
+        {
+            "body": "En general el curso me parece bueno para principiantes. Las explicaciones de algunas de las herramientas de Unity y la memorización de partes de código vitales hacen que al poco tiempo puedas detectar pequeños errores de sintaxis o de lógica en tu propio código. El problema viene cuando mucho del código que se escribe solo se copia y pega sin muchas veces entender como funciona o que tipo de parámetros requiere, además la versión de Unity utilizada en el curso es una versión bastante atrasada (4 años en 2020).\n\nLo recomiendo si no se tiene nada de experiencia dentro del desarrollo de software y se quiere empezar por algún lado. Los quizes y las preguntas dentro de la clase muchas veces harán más por enseñarte que el sólo repetir y copiar el código.",
+            "rating": 4
+        },
+        {
+            "body": "Very good for Unity beginners though it is a bit outdated.\n\nNetworking stuff is deprecated.",
+            "rating": 3.5
+        },
+        {
+            "body": "Mostly 3D game development, not much 2D development. Course used older version of Unity so some things didn't work for unknown reasons.",
+            "rating": 2.5
+        },
+        {
+            "body": "I needed assistance, placed questions, and upload sources but never received a reaction.\n\nI liked the music and switch between the tutor but also confusing because they both use another coding style.",
+            "rating": 3
+        },
+        {
+            "body": "The course starts out well with Mark taking the lead, that section was very well done and I actually learned a lot. The tower defence section however was where things started taking a massive downward turn. The code logic was sketchy at best, the course structure was sloppy, I do not like videos that are 25-30 minutes long, cut them down into more, smaller videos. I stopped before completing the second section, got a refund and moved onto another course by different teachers.",
+            "rating": 2.5
+        },
+        {
+            "body": "A really good course! Learnt a lot!",
+            "rating": 4.5
+        }
+    ],
+    "students": [
+        {
+            "name": "Christopher Sprague",
+            "email": "christophersprague@gmail.com",
+            "password": "christophersprague",
+            "role": "s"
+        },
+        {
+            "name": "Arkadiy Derevyan",
+            "email": "arkadiyderevyan@gmail.com",
+            "password": "arkadiyderevyan",
+            "role": "s"
+        },
+        {
+            "name": "Aleksey Filippenko",
+            "email": "alekseyfilippenko@gmail.com",
+            "password": "alekseyfilippenko",
+            "role": "s"
+        },
+        {
+            "name": "Obaloluwa Odelana",
+            "email": "obaloluwaodelana@gmail.com",
+            "password": "obaloluwaodelana",
+            "role": "s"
+        },
+        {
+            "name": "T N",
+            "email": "tn@gmail.com",
+            "password": "tn",
+            "role": "s"
+        },
+        {
+            "name": "張惇智",
+            "email": "張惇智@gmail.com",
+            "password": "張惇智",
+            "role": "s"
+        },
+        {
+            "name": "Eduardo Medina",
+            "email": "eduardomedina@gmail.com",
+            "password": "eduardomedina",
+            "role": "s"
+        },
+        {
+            "name": "Cristian Constantin",
+            "email": "cristianconstantin@gmail.com",
+            "password": "cristianconstantin",
+            "role": "s"
+        },
+        {
+            "name": "michael George",
+            "email": "michaelgeorge@gmail.com",
+            "password": "michaelgeorge",
+            "role": "s"
+        },
+        {
+            "name": "Wessel Beulink",
+            "email": "wesselbeulink@gmail.com",
+            "password": "wesselbeulink",
+            "role": "s"
+        },
+        {
+            "name": "Chris Mason",
+            "email": "chrismason@gmail.com",
+            "password": "chrismason",
+            "role": "s"
+        },
+        {
+            "name": "Kawalpreet Ghai",
+            "email": "kawalpreetghai@gmail.com",
+            "password": "kawalpreetghai",
+            "role": "s"
+        }
+    ],
+    "instructor": {
+        "name": "Mark Wahlbeck",
+        "email": "markwahlbeck@gmail.com",
+        "password": "markwahlbeck",
+        "role": "i",
+        "briefIntroduction": "<p>I am a veteran mobile developer having built over 57 mobile apps for iOS and Android, and I've also build multiple Unity 3D games, including Call of Duty Ghosts mobile.&nbsp;</p><p>I also spend most of my days now as a professional engineering instructor&nbsp; - changing the lives of students throughout the world - helping them make amazing salaries as engineers.</p><p>My passion is helping people reveal hidden talents and guide them into the world of startups and programming. I currently am teaching iOS 10, Apple TV &amp; tvOS, React &amp; Flux web development, Objective-C, Swift 3, Android, Javascript, Node, and Java. I also teach Unity 3D game development.</p>"
+    }
+}

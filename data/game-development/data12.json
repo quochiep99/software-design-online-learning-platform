@@ -1,0 +1,217 @@
+{
+    "field": {
+        "name": "game-development",
+        "courses": []
+    },
+    "course": {
+        "title": "Unreal Engine Blueprint Game Developer",
+        "subtitle": "Code Your First Video Game in 100 minutes with Visual Scripting. Created in collaboration with Epic Games.",
+        "descriptions": [],
+        "reviews": [],
+        "students": [],
+        "image1xURL": "https://img-a.udemycdn.com/course/240x135/1946104_668a_2.jpg",
+        "image2xURL": "https://img-a.udemycdn.com/course/480x270/1946104_668a_2.jpg",
+        "image3xURL": "https://img-a.udemycdn.com/course/750x422/1946104_668a_2.jpg",
+        "discountPrice": 11.99,
+        "originalPrice": 129.99,
+        "numViews": 0,
+        "curriculum": []
+    },
+    "reviews": [
+        {
+            "body": "Great course with a lot of interesting topics. I got a good starting point, how to start developing with blueprints in the Unreal Engine.",
+            "rating": 4.5
+        },
+        {
+            "body": "Comprehensive, step by step training with constant challenges to get you to actually understand and absorb the concepts so that you can do more yourself. By the end I was making whole sets of mechanics and features just based on the summary (non-challenge summaries at that) and it felt fantastic to have done it by myself :)",
+            "rating": 5
+        },
+        {
+            "body": "I still want to learn how to use BluePrints and how to build games. This was my first course on getting to know Unreal Engine and it was fun and I want to learn even more .... (I have already bought other BP courses as well as courses on mastering Blender and I want to combine the two in the future.)\n\nProbably i will come back and 'restart' the course to practice my skills.",
+            "rating": 5
+        },
+        {
+            "body": "The course is very well laid out and all topics are explained very well. The exercises are very well structured as they get harder the further you get into the course. I would definitely recommend this course to others.",
+            "rating": 5
+        },
+        {
+            "body": "It took me a minute to take in Lesson 3 but now that I got it down, I am very satisfied. This course is absolutely outstanding!!",
+            "rating": 5
+        },
+        {
+            "body": "It was a good learning experience. The instructor's clarity and rhythm at explaining the concepts was on point even for a non-native English speaker like me. Overall, it was a nice and solid introduction to Blueprints, learnt a lot from it.",
+            "rating": 4
+        },
+        {
+            "body": "Great course, very instructional, didn't leave out any processes that they did with the exception of one during the Mars Marine game but it was very minor. Would take more blueprint courses by them and hope to see more as the C++ courses while very good are a bit to slow for my taste, blueprints feels good. Great course and kudo's to GameDev. I eagerly await more courses and content.",
+            "rating": 4.5
+        },
+        {
+            "body": "Very good introduction to Blueprints. I'm a complete beginner, so there was a lot to take in, but it's well structured and easy to follow and understand.",
+            "rating": 5
+        },
+        {
+            "body": "Finished the entire course in 3 days.\n\nI have prior knowledge in making 2D games in Godot and programming in general.\n\nThe first and second sections were great. However, as the course goes on, there are parts where the instructor didn't introduce things properly and speed through some concepts, even I had to playback for a bit to catchup with what he's trying to talk about.\n\nAnyway, in general it's a great course for people with existing knowledge in other game engines getting into Unreal, but if you are a complete beginner you will struggle a bit.\n\nAt last, he doesn't seem to answer a lot of questions in the Q&A, so be prepared to google your way through.",
+            "rating": 3.5
+        },
+        {
+            "body": "I purchased this course hoping for an opportunity to get down under the hood and explore some of the more technical, programming aspects of Unreal. It did not disappoint! Extremely well organized and informative!",
+            "rating": 5
+        },
+        {
+            "body": "For the price, it was great. You get an overview of Blueprints as well as the the Unreal Engine interface. Gavin explains things step by step, with few words and in a very logical way.",
+            "rating": 5
+        },
+        {
+            "body": "So far so good. The support options are good. Good explanations on what we are doing. Only holdups are my own lack of knowledge and the amount of time I can dedicate at any given time, so my retention can be lacking. Happy I can just pop back to the relative sections and rewatch as needed",
+            "rating": 5
+        }
+    ],
+    "students": [
+        {
+            "name": "Markus Petz",
+            "email": "markuspetz@gmail.com",
+            "password": "markuspetz",
+            "role": "s"
+        },
+        {
+            "name": "GameDev.tv Team",
+            "email": "gamedev.tvteam@gmail.com",
+            "password": "gamedev.tvteam",
+            "role": "s"
+        },
+        {
+            "name": "Mihir Modak",
+            "email": "mihirmodak@gmail.com",
+            "password": "mihirmodak",
+            "role": "s"
+        },
+        {
+            "name": "GameDev.tv Team",
+            "email": "gamedev.tvteam@gmail.com",
+            "password": "gamedev.tvteam",
+            "role": "s"
+        },
+        {
+            "name": "Murányi Gábor",
+            "email": "murányigábor@gmail.com",
+            "password": "murányigábor",
+            "role": "s"
+        },
+        {
+            "name": "GameDev.tv Team",
+            "email": "gamedev.tvteam@gmail.com",
+            "password": "gamedev.tvteam",
+            "role": "s"
+        },
+        {
+            "name": "Arend Westdorp",
+            "email": "arendwestdorp@gmail.com",
+            "password": "arendwestdorp",
+            "role": "s"
+        },
+        {
+            "name": "GameDev.tv Team",
+            "email": "gamedev.tvteam@gmail.com",
+            "password": "gamedev.tvteam",
+            "role": "s"
+        },
+        {
+            "name": "Nicholas McCullough",
+            "email": "nicholasmccullough@gmail.com",
+            "password": "nicholasmccullough",
+            "role": "s"
+        },
+        {
+            "name": "GameDev.tv Team",
+            "email": "gamedev.tvteam@gmail.com",
+            "password": "gamedev.tvteam",
+            "role": "s"
+        },
+        {
+            "name": "Yumnam Dimitra Singh",
+            "email": "yumnamdimitrasingh@gmail.com",
+            "password": "yumnamdimitrasingh",
+            "role": "s"
+        },
+        {
+            "name": "GameDev.tv Team",
+            "email": "gamedev.tvteam@gmail.com",
+            "password": "gamedev.tvteam",
+            "role": "s"
+        },
+        {
+            "name": "Tanner brown",
+            "email": "tannerbrown@gmail.com",
+            "password": "tannerbrown",
+            "role": "s"
+        },
+        {
+            "name": "GameDev.tv Team",
+            "email": "gamedev.tvteam@gmail.com",
+            "password": "gamedev.tvteam",
+            "role": "s"
+        },
+        {
+            "name": "Stanislav Shcherbakov",
+            "email": "stanislavshcherbakov@gmail.com",
+            "password": "stanislavshcherbakov",
+            "role": "s"
+        },
+        {
+            "name": "GameDev.tv Team",
+            "email": "gamedev.tvteam@gmail.com",
+            "password": "gamedev.tvteam",
+            "role": "s"
+        },
+        {
+            "name": "Yuhao Jian",
+            "email": "yuhaojian@gmail.com",
+            "password": "yuhaojian",
+            "role": "s"
+        },
+        {
+            "name": "Andrew Hofman",
+            "email": "andrewhofman@gmail.com",
+            "password": "andrewhofman",
+            "role": "s"
+        },
+        {
+            "name": "GameDev.tv Team",
+            "email": "gamedev.tvteam@gmail.com",
+            "password": "gamedev.tvteam",
+            "role": "s"
+        },
+        {
+            "name": "Said Abugattas Abusada",
+            "email": "saidabugattasabusada@gmail.com",
+            "password": "saidabugattasabusada",
+            "role": "s"
+        },
+        {
+            "name": "GameDev.tv Team",
+            "email": "gamedev.tvteam@gmail.com",
+            "password": "gamedev.tvteam",
+            "role": "s"
+        },
+        {
+            "name": "Bobby Cobb",
+            "email": "bobbycobb@gmail.com",
+            "password": "bobbycobb",
+            "role": "s"
+        },
+        {
+            "name": "GameDev.tv Team",
+            "email": "gamedev.tvteam@gmail.com",
+            "password": "gamedev.tvteam",
+            "role": "s"
+        }
+    ],
+    "instructor": {
+        "name": "Ben Tristem",
+        "email": "bentristem@gmail.com",
+        "password": "bentristem",
+        "role": "i",
+        "briefIntroduction": "<p>Hi, I'm Ben. I have a degree in computing from Imperial College London, and a physics diploma from the Open University.&nbsp; </p><p>I started working for myself at the age of 15, and never looked back. I explored careers as varied as being a commercial pilot, stunt-man, rock climbing instructor, and more. None of these provided a continued challenge, and stable income in the same way technology does.&nbsp; </p><p>After building and selling a home computer support business, I became an angel investor and business mentor here in Cambridge UK. I fell in love with teaching game development through one of my investments, and I now spend all of my time sharing my passion with people like you.&nbsp; </p><p>I can't wait to help you experience the fulfilment, and financial freedom, that having a deep understanding of technology brings.&nbsp; </p><p>So why not start learning to make games with me and my team now? </p><p>See you soon!&nbsp; </p><p>Ben</p>"
+    }
+}

@@ -1,0 +1,199 @@
+{
+    "field": {
+        "name": "game-development",
+        "courses": []
+    },
+    "course": {
+        "title": "RPG Core Combat Creator: Learn Intermediate Unity C# Coding",
+        "subtitle": "Build Combat for Role Playing Game (RPG) in Unity. Tutorials Cover Code Architecture & Video Game Design.",
+        "descriptions": [],
+        "reviews": [],
+        "students": [],
+        "image1xURL": "https://img-b.udemycdn.com/course/240x135/1110626_255b_2.jpg",
+        "image2xURL": "https://img-b.udemycdn.com/course/480x270/1110626_255b_2.jpg",
+        "image3xURL": "https://img-b.udemycdn.com/course/750x422/1110626_255b_2.jpg",
+        "discountPrice": 11.99,
+        "originalPrice": 129.99,
+        "numViews": 0,
+        "curriculum": []
+    },
+    "reviews": [
+        {
+            "body": "Brilliant course. Honestly can't believe how much i've learnt. I've been dabbling with unity for years, after taking this course the overall design and structure of my games has improved dramatically. I can finally work towards shipping a complete project.",
+            "rating": 5
+        },
+        {
+            "body": "Well, first of all Rick. I will put this out that I love Rick. His bubbly personality makes his lectures quite fun to watch and he just makes it fun and puts a big smile across my face. So time passes by when he teaches. My favorite part would be the design spreadsheet when Rick says \"here is the spreadsheet. Boom. Bye\" that I think was one of the best Rick moments.\n\nNext, though Sam is a new addition he fits into Ben's shoes quite nicely. I liked his lectures not as much Rick's though. His lectures do seem a bit of a drag sometimes but at certain times he blew my mind as when I learned that Interfaces can be used to revert Dependencies and remove dependency cycles. I thought they were useless when I learned about them in my college lectures. Thank you Sam!! For blowing my mind. Also this is a bit of personal advice/bias, so do take this with a pinch of salt, but do try to spice up your lectures with probably how you screwed up in code (if you do) before recording a lecture so that we also get a chuckle and learn oh yeah that could happen toooo so that 12 mins and above lectures don't feel boring.\n\nAlso thank you for using Vscode as I would have no idea how to edit scripts without Visual Studio on linux.\n\nAlso I missed Ben dearly. It would nice if he showed up as a cameo. I would have thrown my hands in the air in exhilaration.\n\nBrain is an amazing Teaching Assistant. He answered all of my stupid questions as well showed me the way to things that I wanted to put in my game that were out of the scope of this course.\n\nFinal Verdict.\n\nIf the basic unity course was Mass Effect, then this course was Mass Effect 2. A masterpiece. (Not sure if the analogy worked though.) The basic course too was a masterpiece. But this felt more expansive. And last but not the least, Thank you!!",
+            "rating": 5
+        },
+        {
+            "body": "I really enjoyed this course, it is packed with content and every aspect is well explained. Now I feel that I have a solid code base to build my RPG upon.",
+            "rating": 5
+        },
+        {
+            "body": "Good course for people interested on RPG creation. Maybe a bit long sometimes and too much code refactoring for my taste. Still, I recommend the course, I learned a lot.",
+            "rating": 4
+        },
+        {
+            "body": "GameDev where should I even start? you great! you really do and I really happy to be part of this course and learn more. I have a lot of your courses and all of them are great! I would like from you to read this one carefully, I put a lot of effort on this review not for nothing, for the better. ❤️?\n\nWhen I started the course it was really understandable, easy, and flowing, but unfortunately I found it quite unfriendly as I moving forward, here is why. Don't get me wrong this course is great, but somethings are a little bit overwhelming because of the explanation, for example: I asked and mentioned it a lot but I thing that if you would put more effort explaining about the dictionary part (The lookUpTable) it could be great. It was really frustrating that I could not understand it, So I just gave up and leave the course for about a month. The challenges are a bit unclear, Please give us more clues that we can use, or explain a little bit more what are we really trying to do (I really struggled with understanding what we are trying to do while Sam gave me the challenges, so I had to guess... and hope that it is right). The help in the Q&A was great though, Shout out to Brian that was there just in time, and he is really trying to help and understand the problem.\n\nI learned a lot from this course and I became from a beginner programmer to more advanced and it even pushed me to learn more about the programming world thanks to you guys, please take notice about what I've said. Thank you. Great work!",
+            "rating": 4
+        },
+        {
+            "body": "I loved both the programming and design bits of the course. I hope there is a future for many more intermediate (or further level) courses like this one because we get to learn about important topics.",
+            "rating": 5
+        },
+        {
+            "body": "Very nice course overall.\n\nI only wish the quality of the code would be better in the end. I understand that it is geared towards beginner coders and so it is unreasonable to introduce complicated concept early on. But I would have like to see some part of the code \"revisited\" with an approach like, \"Ok now that we know better code practice, let us refactor this section of the code into a nice pattern to ensure maintenance efficiency and extensibility\".\n\nBasically, I would like to see a more advance course where we develop solid system with strong architecture with explanations about the design decisions.\n\nSo to better explain my thought, I'll make an analogy. If this class is about developing a Prototype of an RPG, it does a good job I think, I would like to see a class about how to turn a good prototype into a managable product.\n\nCheers,",
+            "rating": 5
+        },
+        {
+            "body": "Another amazing course from the GameDev.tv team! I started with GameDev.tv awhile back when I was in college and since have been working as a Software Engineer. I finally had some time to pick up this course again and I love the revamp! Rick does an amazing job of sharing his game design knowledge and experience. Sam provides an excellent end-to-end solution, explanation, and coding challenges to get you set up for combat, movement, and a lot of other features for the RPG game! You can sense the passion behind each instructor as they provide clear and precise examples to every feature and line of code. The best thing about these courses is the challenges and I encourage students to use them even as an experienced software engineer the challenges keep me on my toes. Great work team and I look forward to picking up another course very shortly!",
+            "rating": 5
+        },
+        {
+            "body": "Well explained, comprehensive, methodical ... an Awesome course.\n\nA nice Q&A Support who explains as well as the main instructor. I've learnd a lot awesome stuff. Thank you and keep it up.",
+            "rating": 5
+        },
+        {
+            "body": "Awesome Course ! The teaching is really very great, never felt that any thing is rushed throughout the course. Thanks you GameDev.tv, Sam and Rick for such a nice course.",
+            "rating": 5
+        },
+        {
+            "body": "It is a really good course. Sam doesn't wait around for you so be ready to hit pause from time to time if you are working along. The support is great when you get stuck or have a question.",
+            "rating": 4.5
+        },
+        {
+            "body": "I am a hobbyist developer, but through the years I got a lot of experience with game development and coding. However, I reached a point where it is difficult to progress with my own forces. Indeed, the web is full of courses and tutorials for Unity beginners, but it is really hard to find something for intermediate level. But, this course exists, and it is awesome! I definitely learnt a lot of techniques that I could not figure out on my own (maybe in a lifetime), and which are super-useful to build an RPG, or a more complex game which goes beyond few simple features. The teachers are fantastic, explain everything, and build the code together with you. Moreover, whatever question you have, you can ask in the questions section, and the dev team answers always in few hours. I strongly recommend this course to people who are already familiar with Unity (definitely not to beginners), are hobbyist, and want to progress with their coding and architecture skills",
+            "rating": 5
+        }
+    ],
+    "students": [
+        {
+            "name": "Theodoros Sphikas",
+            "email": "theodorossphikas@gmail.com",
+            "password": "theodorossphikas",
+            "role": "s"
+        },
+        {
+            "name": "GameDev.tv Team",
+            "email": "gamedev.tvteam@gmail.com",
+            "password": "gamedev.tvteam",
+            "role": "s"
+        },
+        {
+            "name": "Ritvik Upadhyay",
+            "email": "ritvikupadhyay@gmail.com",
+            "password": "ritvikupadhyay",
+            "role": "s"
+        },
+        {
+            "name": "Ron Green",
+            "email": "rongreen@gmail.com",
+            "password": "rongreen",
+            "role": "s"
+        },
+        {
+            "name": "GameDev.tv Team",
+            "email": "gamedev.tvteam@gmail.com",
+            "password": "gamedev.tvteam",
+            "role": "s"
+        },
+        {
+            "name": "Ahingsaka Samsenesena",
+            "email": "ahingsakasamsenesena@gmail.com",
+            "password": "ahingsakasamsenesena",
+            "role": "s"
+        },
+        {
+            "name": "GameDev.tv Team",
+            "email": "gamedev.tvteam@gmail.com",
+            "password": "gamedev.tvteam",
+            "role": "s"
+        },
+        {
+            "name": "Tikokito",
+            "email": "tikokito@gmail.com",
+            "password": "tikokito",
+            "role": "s"
+        },
+        {
+            "name": "Valentin Gurkov",
+            "email": "valentingurkov@gmail.com",
+            "password": "valentingurkov",
+            "role": "s"
+        },
+        {
+            "name": "Nicolas Gerard",
+            "email": "nicolasgerard@gmail.com",
+            "password": "nicolasgerard",
+            "role": "s"
+        },
+        {
+            "name": "Justin Schmidt",
+            "email": "justinschmidt@gmail.com",
+            "password": "justinschmidt",
+            "role": "s"
+        },
+        {
+            "name": "GameDev.tv Team",
+            "email": "gamedev.tvteam@gmail.com",
+            "password": "gamedev.tvteam",
+            "role": "s"
+        },
+        {
+            "name": "Laurent Dresselaers",
+            "email": "laurentdresselaers@gmail.com",
+            "password": "laurentdresselaers",
+            "role": "s"
+        },
+        {
+            "name": "GameDev.tv Team",
+            "email": "gamedev.tvteam@gmail.com",
+            "password": "gamedev.tvteam",
+            "role": "s"
+        },
+        {
+            "name": "Kanishk Dhindsa",
+            "email": "kanishkdhindsa@gmail.com",
+            "password": "kanishkdhindsa",
+            "role": "s"
+        },
+        {
+            "name": "GameDev.tv Team",
+            "email": "gamedev.tvteam@gmail.com",
+            "password": "gamedev.tvteam",
+            "role": "s"
+        },
+        {
+            "name": "Ron Hatfield",
+            "email": "ronhatfield@gmail.com",
+            "password": "ronhatfield",
+            "role": "s"
+        },
+        {
+            "name": "GameDev.tv Team",
+            "email": "gamedev.tvteam@gmail.com",
+            "password": "gamedev.tvteam",
+            "role": "s"
+        },
+        {
+            "name": "Vittorio",
+            "email": "vittorio@gmail.com",
+            "password": "vittorio",
+            "role": "s"
+        },
+        {
+            "name": "GameDev.tv Team",
+            "email": "gamedev.tvteam@gmail.com",
+            "password": "gamedev.tvteam",
+            "role": "s"
+        }
+    ],
+    "instructor": {
+        "name": "Ben Tristem",
+        "email": "bentristem@gmail.com",
+        "password": "bentristem",
+        "role": "i",
+        "briefIntroduction": "<p>Hi, I'm Ben. I have a degree in computing from Imperial College London, and a physics diploma from the Open University.&nbsp; </p><p>I started working for myself at the age of 15, and never looked back. I explored careers as varied as being a commercial pilot, stunt-man, rock climbing instructor, and more. None of these provided a continued challenge, and stable income in the same way technology does.&nbsp; </p><p>After building and selling a home computer support business, I became an angel investor and business mentor here in Cambridge UK. I fell in love with teaching game development through one of my investments, and I now spend all of my time sharing my passion with people like you.&nbsp; </p><p>I can't wait to help you experience the fulfilment, and financial freedom, that having a deep understanding of technology brings.&nbsp; </p><p>So why not start learning to make games with me and my team now? </p><p>See you soon!&nbsp; </p><p>Ben</p>"
+    }
+}

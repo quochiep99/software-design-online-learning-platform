@@ -1,0 +1,151 @@
+{
+    "field": {
+        "name": "game-development",
+        "courses": []
+    },
+    "course": {
+        "title": "Master Unity By Building 6 Fully Featured Games From Scratch",
+        "subtitle": "Learn How To Plan, Design, Create And Publish Your Games On Any Platform Using Unity Game Engine",
+        "descriptions": [],
+        "reviews": [],
+        "students": [],
+        "image1xURL": "https://img-a.udemycdn.com/course/240x135/486628_2b8b_4.jpg",
+        "image2xURL": "https://img-a.udemycdn.com/course/480x270/486628_2b8b_4.jpg",
+        "image3xURL": "https://img-a.udemycdn.com/course/750x422/486628_2b8b_4.jpg",
+        "discountPrice": 11.99,
+        "originalPrice": 131.99,
+        "numViews": 0,
+        "curriculum": []
+    },
+    "reviews": [
+        {
+            "body": "It's obsolete and the teacher doesn't respond to the present question. It's not advisable to buy it. You will get frustrated, without help",
+            "rating": 1
+        },
+        {
+            "body": "Please elaborate why did u set the resolution max size to 1024 instead of having it higher or lower and keep it that was just don’t rush while you explain like in other videos",
+            "rating": 4.5
+        },
+        {
+            "body": "Unity concepts & programming terminologies & syntax of the instructor is great but the programming design and the way he implements the scripts are poor. For Unity beginners & experienced programmer who know OOPS design, this course is good because they know to implement the code in a better way. If you are a beginner to programming, this course may leave you with poor programming practices & OOPS design. Though Unity part of this course is very good.",
+            "rating": 4
+        },
+        {
+            "body": "I discovered the version of Unity I am using seems to have issues with string interpolation. It would not allow to add the function to my button until i changed it.",
+            "rating": 5
+        },
+        {
+            "body": "Sehr gut erklärt! Bisher bin ich sehr zufrieden.",
+            "rating": 5
+        },
+        {
+            "body": "Great teacher, my father recommended him to me and I’ve been having a great time learning how to code and make my games. If there was above a 5 star I’d personally choose that option",
+            "rating": 5
+        },
+        {
+            "body": "This course is old and very out dated. I also discovered a problem with one of the courses and contacted the instructor who blew me off and wouldn't even try to help, even though the original instruction was WRONG. So he's happy to take your money for code he's aware doesn't work, but will no longer support it or correct it. This course should be removed and udemy should sanction this creator. He doesn't even post here anymore cause he doesn't get enough money and instead does his own site plus youtube. So really it's a big money grab for him, he doesn't care about you as the student or even his own integrity as an instructor.",
+            "rating": 1.5
+        },
+        {
+            "body": "I appreciate the effort put into this course and I am learning. The presenter's english skills are sometimes limited an circular. He's constantly using the word \"here\" instead of naming screen locations, and he swaps nouns and verbs constantly. I like him. You can tell he's trying very hard. But there are definitely vague moments of detail where instead of explaining, he's just repeating terms. Like, \"I am using get component here in order to get the component from here.\" That's a simple example of word choice used throughout the lectures.",
+            "rating": 3
+        },
+        {
+            "body": "Course content is a bit under organized. Since the project is not downloadable (only matterials), it is a little hard to trace the steps and have to go back and forth to guess the prefabs setting.",
+            "rating": 2.5
+        },
+        {
+            "body": "need more detail explaination about how backgroud was fit to camera size.",
+            "rating": 4
+        },
+        {
+            "body": "The commentary is very quick - I have to keep stopping the video and then doing what has been shown. Hopefully the explanations will also get clearer so I can apply the learning to my own projects.",
+            "rating": 3.5
+        },
+        {
+            "body": "I bought this course sa few years ago, but never got around to looking at it. I really wish I did....\n\nIf you want to learn how to make the trash that floods the app stores on mobile platform then this is the course for you.",
+            "rating": 1
+        }
+    ],
+    "students": [
+        {
+            "name": "maflo Picasso",
+            "email": "maflopicasso@gmail.com",
+            "password": "maflopicasso",
+            "role": "s"
+        },
+        {
+            "name": "Elias R",
+            "email": "eliasr@gmail.com",
+            "password": "eliasr",
+            "role": "s"
+        },
+        {
+            "name": "Kiran Cyrus Ken",
+            "email": "kirancyrusken@gmail.com",
+            "password": "kirancyrusken",
+            "role": "s"
+        },
+        {
+            "name": "Robert Baxter",
+            "email": "robertbaxter@gmail.com",
+            "password": "robertbaxter",
+            "role": "s"
+        },
+        {
+            "name": "Daniel Gläsner",
+            "email": "danielgläsner@gmail.com",
+            "password": "danielgläsner",
+            "role": "s"
+        },
+        {
+            "name": "Bryan Porter",
+            "email": "bryanporter@gmail.com",
+            "password": "bryanporter",
+            "role": "s"
+        },
+        {
+            "name": "Tom Frakey",
+            "email": "tomfrakey@gmail.com",
+            "password": "tomfrakey",
+            "role": "s"
+        },
+        {
+            "name": "Christopher Romano",
+            "email": "christopherromano@gmail.com",
+            "password": "christopherromano",
+            "role": "s"
+        },
+        {
+            "name": "Johnny",
+            "email": "johnny@gmail.com",
+            "password": "johnny",
+            "role": "s"
+        },
+        {
+            "name": "Ashvin Dalwadi",
+            "email": "ashvindalwadi@gmail.com",
+            "password": "ashvindalwadi",
+            "role": "s"
+        },
+        {
+            "name": "Phil Hind",
+            "email": "philhind@gmail.com",
+            "password": "philhind",
+            "role": "s"
+        },
+        {
+            "name": "James Williams",
+            "email": "jameswilliams@gmail.com",
+            "password": "jameswilliams",
+            "role": "s"
+        }
+    ],
+    "instructor": {
+        "name": "Awesome Tuts",
+        "email": "awesometuts@gmail.com",
+        "password": "awesometuts",
+        "role": "i",
+        "briefIntroduction": "<p>Awesome Tuts is a part of Awesome Graphics Company that makes awesome games and provides quality e-learning for people who want to learn game development and programming.</p>\n\n<p>We are focusing on game development and try to teach people how to develop games using practical examples, but you can find other topics as well.</p>\n\n<p>We are a team of 4 people lead by Fahir, main tutor, programmer and leader of the group.</p>\n\n<p>We also started a YouTube channel where we also teach game development so you can check that out and see what we have to offer.</p>\n\n<p>We enjoy teaching people and mostly providing information that is not accessible anywhere else, you can join our Epic 2D Game Development Course and see for yourself… And if you like it, then we have good news for you, this is just a start, more courses are coming so stay tuned.</p>\n\n<p>So what are you waiting for? Why don't you join our Epic 2D Game Development Course And Learn How To Make Awesome Games??</p>"
+    }
+}

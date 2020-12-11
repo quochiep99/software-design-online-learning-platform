@@ -1,0 +1,151 @@
+{
+    "field": {
+        "name": "game-development",
+        "courses": []
+    },
+    "course": {
+        "title": "The Ultimate Guide to Game Development with Unity 2019",
+        "subtitle": "Created in partnership with Unity Technologies: learn C# by developing 2D & 3D games with this comprehensive guide",
+        "descriptions": [],
+        "reviews": [],
+        "students": [],
+        "image1xURL": "https://img-a.udemycdn.com/course/240x135/1328572_b05d_4.jpg",
+        "image2xURL": "https://img-a.udemycdn.com/course/480x270/1328572_b05d_4.jpg",
+        "image3xURL": "https://img-a.udemycdn.com/course/750x422/1328572_b05d_4.jpg",
+        "discountPrice": 15.99,
+        "originalPrice": 174.99,
+        "numViews": 0,
+        "curriculum": []
+    },
+    "reviews": [
+        {
+            "body": "Great introductory course. The structure of setting challenges up to be tried first before seeing the instructor implementation worked really well for me!",
+            "rating": 4.5
+        },
+        {
+            "body": "Challenges are a very good idea. Thanks to them I can check my knowledge and skills.\n\nSolutions to problems can be found thanks to the large community.",
+            "rating": 5
+        },
+        {
+            "body": "Buen curso para iniciarte en Unity, de los cursos básicos más completos que he visto al tratar tres tipos de videojuegos con sus diferentes lógicas y elementos: 2D, 2.5D y 3D. Listo para empezar un curso más avanzado! :)",
+            "rating": 5
+        },
+        {
+            "body": "good pace, like the code introduction, looking forward,\n\nthe spaceshooter as a little mixed up between the versions. in the gamemanager it used to be LoadScene and then suddentenly it was the Instantiate Method. Got my version to work though",
+            "rating": 4
+        },
+        {
+            "body": "For new game developers (like me), this course have everything, how to create a game, it show all the Unity interface, real projects, coding best practice and 2D / 3D most do!",
+            "rating": 4.5
+        },
+        {
+            "body": "Top notch and highly recommended. Although this is a beginner level course. It was slightly more advanced in my opinion and challenges you to be move along at a healthy pace. Excellent content! Thank you!",
+            "rating": 5
+        },
+        {
+            "body": "For beginners of programming its understandable until roughly 40% of the way where the tutor begins to make large leaps that lose me. He teaches to search for yourself but after a time he ask of things that blow over the heads of complete beginners. Such as coding concepts that I felt weren't properly highlighted so I didn't understand where to begin my search or what I should do with both the Unity Engine and C# coding.\n\nYou will understand the parts he mentions but may get lost in tougher challenges.",
+            "rating": 2.5
+        },
+        {
+            "body": "It guides you through the basic of creating a game. It will leave you with enough knowledge to start making your own game. Might not be the best optimized game, but, it will be a great start.\n\nThere is some later videos that is not updated with the latest Unity version and I skipped the whole Post Processing videos, which was sad.\n\nA generally good course and he is a great teacher.",
+            "rating": 3.5
+        },
+        {
+            "body": "Overall I believe that this is the best course out there for learning Unity game Development. Most tutorials are spoonfed and don't teach people how to problem solve. This course is unique in that the instructor explains things very clearly and gives students a chance to practice what they are learning. The key element is that there is a perfect blend of repetition (applying similar concepts for all the powerups for example) with clear stated logic. Highly recommend this course and will definitely get the next set of classes when they come out. UPDATE: The second half of the course is also great and further reinforces the concepts taught in the first half.",
+            "rating": 5
+        },
+        {
+            "body": "Great Course but not too great ,\n\nit says ULTIMATE GUIDE but it lacks a lot of informations that new comers should know... I would highly recommend to take other courses as a beginner with it ... it still good and adds up to your overall knowledge... could be too hard for (absolute) beginners though.\n\nQ: Would it be enough to create your fully featured game? ... I doubt it .. you've still got a lot of research to do ...\n\nlovely instructor and teaching techniques is so neat ... I'm still disappointed that I didn't get enough useful information to get to intermediate level of game development...",
+            "rating": 4
+        },
+        {
+            "body": "I wouldn't consider this course 'Ultimate'. It does a great job teaching the basics in an easy-to-learn format that challenges you to figure things out on your own. HOWEVER. The last portion of this course is incredibly outdated to the point that some of the supplied assets need to be modified to work properly. That combined with the unpolished feeling of the latter half reaaaally detracted from the quality of the course. The first half (the space shooter) is great, and I learned a lot. The platformer example was really disappointing and bare-bones, and the FPS example was barebones as well.\n\nSome things I wished it had included:\n\n-3D Animation sections\n\n-Particle Effect sections\n\n-More fleshed out teachings on the physics system in Unity.\n\nI learned a lot. But this definitely could be improved, especially considering the price tag.",
+            "rating": 3
+        },
+        {
+            "body": "The first project was amazing, updated and worked well. I learned a lot.\n\nThe second project was out of date, caused a lot of frustration, and seemed to use some odd practices.\n\nDespite all of that I felt the course was worth it and I learned so much from it.",
+            "rating": 3.5
+        }
+    ],
+    "students": [
+        {
+            "name": "Gilberto Felipe Pinho",
+            "email": "gilbertofelipepinho@gmail.com",
+            "password": "gilbertofelipepinho",
+            "role": "s"
+        },
+        {
+            "name": "Dominik F",
+            "email": "dominikf@gmail.com",
+            "password": "dominikf",
+            "role": "s"
+        },
+        {
+            "name": "Daniel Gómez Alcañiz",
+            "email": "danielgómezalcañiz@gmail.com",
+            "password": "danielgómezalcañiz",
+            "role": "s"
+        },
+        {
+            "name": "Sebastian Rieger",
+            "email": "sebastianrieger@gmail.com",
+            "password": "sebastianrieger",
+            "role": "s"
+        },
+        {
+            "name": "Gabriel Gomez",
+            "email": "gabrielgomez@gmail.com",
+            "password": "gabrielgomez",
+            "role": "s"
+        },
+        {
+            "name": "Jose Garrido",
+            "email": "josegarrido@gmail.com",
+            "password": "josegarrido",
+            "role": "s"
+        },
+        {
+            "name": "Simon Lu",
+            "email": "simonlu@gmail.com",
+            "password": "simonlu",
+            "role": "s"
+        },
+        {
+            "name": "Dennis Thisner",
+            "email": "dennisthisner@gmail.com",
+            "password": "dennisthisner",
+            "role": "s"
+        },
+        {
+            "name": "Brendan Sullivan",
+            "email": "brendansullivan@gmail.com",
+            "password": "brendansullivan",
+            "role": "s"
+        },
+        {
+            "name": "Mesa The Aalfa",
+            "email": "mesatheaalfa@gmail.com",
+            "password": "mesatheaalfa",
+            "role": "s"
+        },
+        {
+            "name": "Samuel Herring",
+            "email": "samuelherring@gmail.com",
+            "password": "samuelherring",
+            "role": "s"
+        },
+        {
+            "name": "Adam Wachter",
+            "email": "adamwachter@gmail.com",
+            "password": "adamwachter",
+            "role": "s"
+        }
+    ],
+    "instructor": {
+        "name": "Jonathan Weinberger",
+        "email": "jonathanweinberger@gmail.com",
+        "password": "jonathanweinberger",
+        "role": "i",
+        "briefIntroduction": "<p>Hi! I'm Jon.&nbsp;I'm a<strong></strong>&nbsp;self-taught software engineer&nbsp;with over&nbsp;eight years&nbsp;of&nbsp;experience,&nbsp;and the author of&nbsp;<em>Learn Unity Programming with C#</em>.&nbsp;I've developed several&nbsp;Unity games for Cartoon Network, Adult Swim, the casino industry, and various indie game companies. I've&nbsp;also developed real world enterprise augmented reality applications&nbsp;for companies like GE, Coca-Cola, and ThyssenKrupp. I got my start in programming when I was 16 years old, developing private game servers for a popular MMO. When I decided to look at game development as a career, I struggled to find content that didn't just spoon-feed me the answers. After countless hours of learning concepts and trying to figure out the logic behind everything myself, I decided to start my own YouTube series that teaches developers to code from scratch through interactive challenges. It quickly became popular within the Unity community, and my educational career became a reality. I have a&nbsp;passion for teaching, and I love watching my students go from zero to hero, with some of them even landing big time game development jobs with companies like Oculus and Cartoon Network! Several of my students have gone on to create their own amazing titles and even start their own indie game studios! My favorite thing about programming is when you're developing a feature and the logic for how to solve a problem just \"clicks.\" That \"eureka\" moment&nbsp;is what I strive to teach all my students!<br></p><p>I am the Authorized Unity Instructor,&nbsp;working in partnership with Unity Technologies to create C# programming courses in the Unity engine for developers&nbsp;of all levels.&nbsp; The goal of this collaboration between Unity and Udemy is to make the learning curve of getting into programming less daunting, and helping experienced developers fine tune their skills.&nbsp; Currently, two courses created in partnership with Unity are available on Udemy, with two more in the works!&nbsp; Stay tuned for the latest and greatest Authorized Unity Courses!</p>"
+    }
+}

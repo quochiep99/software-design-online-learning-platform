@@ -1,0 +1,151 @@
+{
+    "field": {
+        "name": "game-development",
+        "courses": []
+    },
+    "course": {
+        "title": "Learn To Code By Making a 2D Platformer in Unity",
+        "subtitle": "Game development made easy. Learn C# using Unity and create your very own 2D Platformer",
+        "descriptions": [],
+        "reviews": [],
+        "students": [],
+        "image1xURL": "https://img-b.udemycdn.com/course/240x135/775550_453b_3.jpg",
+        "image2xURL": "https://img-b.udemycdn.com/course/480x270/775550_453b_3.jpg",
+        "image3xURL": "https://img-b.udemycdn.com/course/750x422/775550_453b_3.jpg",
+        "discountPrice": 11.99,
+        "originalPrice": 34.99,
+        "numViews": 0,
+        "curriculum": []
+    },
+    "reviews": [
+        {
+            "body": "Great starter course to help you learn some of the fundamentals of building a game. It great way to learn your way around unity.",
+            "rating": 4
+        },
+        {
+            "body": "I love the course and I am learning so many new things and I cant wait to see what else we will be adding to our little game throughout the rest of the course!",
+            "rating": 5
+        },
+        {
+            "body": "Amazing course, instructions clear and explained will definitely be able to do 1 game on my own now",
+            "rating": 5
+        },
+        {
+            "body": "Love this tutorial it is so helpful. I love how he explains every bit of code and why he is putting this bit of code here and there. Obviously, there are things that are still a bit confusing but I really feel as if I am getting the hang of things!!!",
+            "rating": 5
+        },
+        {
+            "body": "The instructor is able to explain things that are easy for me to follow thus I'm able understand better and I'm learning a lot! Very helpful for game making!",
+            "rating": 5
+        },
+        {
+            "body": "Great content. Pretty much can get you started on the gameplay aspect of a 2d platformer. Kudos and thanks to Mr Doyle.",
+            "rating": 4.5
+        },
+        {
+            "body": "I was watching a lot of tutorials on YouTube before. James' tutorials were the most helpful for someone just getting started. He does well explaining things and giving helpful tips that make the process much easier and enjoyable.",
+            "rating": 4.5
+        },
+        {
+            "body": "I needed to know some c# coing for one of my uni courses and my lectureres werent making any sense but this saved my semester!",
+            "rating": 5
+        },
+        {
+            "body": "I love this course it has gotten me so motivated and I would recommend it to anyone who has even the slightest interest in coding.",
+            "rating": 5
+        },
+        {
+            "body": "เรียนถึงตรงนี้ อธิบายค่อนข้างดี ความเข้าใจในเนื้อหาที่สอนเป็นความเข้าใจของตัวคนสอนเองบอกผู้เรียน ใส่ใจดีมาก สอนดีมากครับ",
+            "rating": 5
+        },
+        {
+            "body": "My favorite course I have taken so far. Instruction is top notch and all material is thoroughly explained.",
+            "rating": 5
+        },
+        {
+            "body": "I have completed 50% of course I am getting a bit familiar with unity. With 0% prior coding experience I am getting to know a bit with basic terms and methods. The instructor is very clear and I am enjoying the course. I hope till the end i will be off with something very good in my hands.",
+            "rating": 5
+        }
+    ],
+    "students": [
+        {
+            "name": "Johnny Woods",
+            "email": "johnnywoods@gmail.com",
+            "password": "johnnywoods",
+            "role": "s"
+        },
+        {
+            "name": "Christopher Stampfer",
+            "email": "christopherstampfer@gmail.com",
+            "password": "christopherstampfer",
+            "role": "s"
+        },
+        {
+            "name": "Ernesto Emanuel Mata Tello",
+            "email": "ernestoemanuelmatatello@gmail.com",
+            "password": "ernestoemanuelmatatello",
+            "role": "s"
+        },
+        {
+            "name": "Dylan Ravel",
+            "email": "dylanravel@gmail.com",
+            "password": "dylanravel",
+            "role": "s"
+        },
+        {
+            "name": "John Espiritu Santo",
+            "email": "johnespiritusanto@gmail.com",
+            "password": "johnespiritusanto",
+            "role": "s"
+        },
+        {
+            "name": "Karthik Raghuraman",
+            "email": "karthikraghuraman@gmail.com",
+            "password": "karthikraghuraman",
+            "role": "s"
+        },
+        {
+            "name": "Tyler",
+            "email": "tyler@gmail.com",
+            "password": "tyler",
+            "role": "s"
+        },
+        {
+            "name": "Ketania Govender",
+            "email": "ketaniagovender@gmail.com",
+            "password": "ketaniagovender",
+            "role": "s"
+        },
+        {
+            "name": "Ellen Nystrom",
+            "email": "ellennystrom@gmail.com",
+            "password": "ellennystrom",
+            "role": "s"
+        },
+        {
+            "name": "กฤษฎิ์หิรัญ นามราษฎร์",
+            "email": "กฤษฎิ์หิรัญนามราษฎร์@gmail.com",
+            "password": "กฤษฎิ์หิรัญนามราษฎร์",
+            "role": "s"
+        },
+        {
+            "name": "Barry Corman",
+            "email": "barrycorman@gmail.com",
+            "password": "barrycorman",
+            "role": "s"
+        },
+        {
+            "name": "Murtaza Kohinoor",
+            "email": "murtazakohinoor@gmail.com",
+            "password": "murtazakohinoor",
+            "role": "s"
+        }
+    ],
+    "instructor": {
+        "name": "James Doyle",
+        "email": "jamesdoyle@gmail.com",
+        "password": "jamesdoyle",
+        "role": "i",
+        "briefIntroduction": "<p>Hi, I'm James. I have helped thousands of people learn how to develop their own games in Unity, and whether you're a first-time developer, or need to refresh your skills, I can help you learn to make the games you want to make.</p><p>With a bachelors degree in Computer Science and a background working in independent game development, I have been helping others to create their own games and release them on multiple platforms.</p><p>I believe in helping you learn by teaching code in context, so rather than having to memorize a bunch of stuff you've never seen before, you learn how each coding concept can be applied to real working problems in your games.</p><p><strong>I can't wait to help you learn all about making your own games and how to make them a success.</strong></p><p>So why not start learning to make games with me now?</p><p>See you soon!</p><p>James</p>"
+    }
+}

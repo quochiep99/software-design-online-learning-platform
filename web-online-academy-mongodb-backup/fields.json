@@ -222,4 +222,60 @@
   ],
   "name": "data-science",
   "__v": 16
+},{
+  "_id": {
+    "$oid": "5fd32ac7ef07ea421c853046"
+  },
+  "courses": [
+    {
+      "$oid": "5fd32ac7ef07ea421c853047"
+    },
+    {
+      "$oid": "5fd32ac8ef07ea421c853071"
+    },
+    {
+      "$oid": "5fd32ac9ef07ea421c853098"
+    },
+    {
+      "$oid": "5fd32acaef07ea421c8530bb"
+    },
+    {
+      "$oid": "5fd32acbef07ea421c8530e2"
+    },
+    {
+      "$oid": "5fd32accef07ea421c853109"
+    },
+    {
+      "$oid": "5fd32accef07ea421c85312c"
+    },
+    {
+      "$oid": "5fd32acdef07ea421c853151"
+    },
+    {
+      "$oid": "5fd32aceef07ea421c853178"
+    },
+    {
+      "$oid": "5fd32acfef07ea421c85319d"
+    },
+    {
+      "$oid": "5fd32ad0ef07ea421c8531c4"
+    },
+    {
+      "$oid": "5fd32ad1ef07ea421c8531e9"
+    },
+    {
+      "$oid": "5fd32ad2ef07ea421c85320e"
+    },
+    {
+      "$oid": "5fd32ad2ef07ea421c853231"
+    },
+    {
+      "$oid": "5fd32ad3ef07ea421c853258"
+    },
+    {
+      "$oid": "5fd32ad4ef07ea421c853280"
+    }
+  ],
+  "name": "game-development",
+  "__v": 16
 }]
