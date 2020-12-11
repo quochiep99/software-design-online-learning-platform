@@ -4,14 +4,14 @@ module.exports = {
         "courses": []
     },
     "course": {
-        "title": "The Web Developer Bootcamp 2020",
-        "subtitle": "JUST COMPLETELY REDONE - The only course you need to learn web development - HTML, CSS, JS, Node, and More!",
+        "title": "Modern JavaScript From The Beginning",
+        "subtitle": "Learn and build projects with pure JavaScript (No frameworks or libraries)",
         "descriptions": [],
         "reviews": [],
         "students": [],
-        "image1xURL": "https://img-a.udemycdn.com/course/240x135/625204_436a_3.jpg",
-        "image2xURL": "https://img-a.udemycdn.com/course/480x270/625204_436a_3.jpg",
-        "image3xURL": "https://img-a.udemycdn.com/course/750x422/625204_436a_3.jpg",
+        "image1xURL": "https://img-a.udemycdn.com/course/240x135/1463348_52a4_2.jpg",
+        "image2xURL": "https://img-a.udemycdn.com/course/480x270/1463348_52a4_2.jpg",
+        "image3xURL": "https://img-a.udemycdn.com/course/750x422/1463348_52a4_2.jpg",
         "discountPrice": 11.99,
         "originalPrice": 129.99,
         "numViews": 0,
@@ -19,133 +19,133 @@ module.exports = {
     },
     "reviews": [
         {
-            "body": "Being a fresher as a web developer this course helped me not only to understand web coding in such a easy way but also made each section of the course interesting and enjoyable due to the awesome teaching method by 'Colt Steele'.\n\nBest course to start with as a beginner into Web Development!!!",
+            "body": "I really enjoyed this course, especially for its practical setting. After this course, you can do a lot independently.",
             "rating": 5
         },
         {
-            "body": "Great course while studying computer science students during summer vacation and I enjoyed each part of the course. Whoever is having passion for web development must pursue this course for having better knowledge about front and back end development.",
+            "body": "Another great class from Brad Traversy. This is the second class of Brad's that I have taken and I have no doubts about taking another. Thanks.",
             "rating": 5
         },
         {
-            "body": "Very comprehensive overall. Can be a bit difficult to follow due to the speed the course progresses through all the content, but other than that, I cannot ask for more. Definitely going to check out the advanced course :D",
+            "body": "Brad is the best of the best instructors. He explains in detail to learn, what do, and how to do it. There are many instructors out there but not as good as Brad. Do what is expected of you in terms of instruction and you will be ahead of a lot other programmers in terms of knowledge.",
             "rating": 5
         },
         {
-            "body": "good introduction course for web development. Course cover various of web dev essentials such as html, css, javascript, nodejs, api , routes etc. Great support from the TA.\n\nHowever, the course is rather outdated and lots of technology is no longer support / use nowadays such as bootstrap 3 and jQuery, Javascript ES 5 only . Also lots of coding in backend and the tools are also out of date. It makes the TA keeps updating materials, new videos as a supplement to cover those parts and its a bit messy.\n\nI enjoy the course as Colt is really good at teaching. But I personally would not recommend this course simply because the outdated content. It is a course 5 years ago and I end up need to subscribe different courses to supplement those parts.\n\nI hope Colt and the team will revisit my comment and consider to update most of the content in the course include ES6 Javascript syntax, backend sessions etc.",
+            "body": "I purchased this course 2 years ago but finally commited to sitting through it from the beginning to the end. I really wanted to sharpen up my JavaScript skills before learning a framework and I'm glad that I took the time to do it. Brad is a great instructor and he explains things very well.",
+            "rating": 5
+        },
+        {
+            "body": "This course was great overall. I didn't go for five stars though because there are some areas that I thought were badly explained and I had to go elsewhere for a lot of information (particularly around what prototypes actually are and how promises actually work). Also, it seems that so much of JS is passing parameters into functions, and defining those parameters using arguments wherever that function is called. This distinction between parameters and arguments never actually gets explained on this course: you have to figure it out for yourself. The final two projects were EXTREMELY well explained, and it would have been great if the whole course was explained to this level. Overall though, I'm really happy with what I got out of it.",
             "rating": 4
         },
         {
-            "body": "Not as good as expected. Some of the materials are old and you get a feeling you´ll have to update yourself. The course needs a revamp to make it a 2020 course.\n\nThere are a lot of intermediate comments made by Colt´s assistant Ian that try to help but reflect the fact the course needs to be reviewed. I know that is a lot of work, but that would get you 5 star reviews.\n\nOn the other hand I feel disappointed with the fact that in the end, I wasn´t thought how to create my own website. The deployment part speaks briefly about how to deploy a project in Heroku. Nothing is said about what about if I already have my own website. Or if I want to create a new one. I wanted to learn coding to improve my business website. I have it in wordpress. I'm aware the backend language is php and I can use a control panel to manage it. Nothing in the course is said about this.\n\nSome of the contents are disconnected. At some point you'll be sent to Ian's youtube videos, then comes Ellie to speak about javascript more advanced issues, not announced.\n\nI got to the end and the YelpCamp project that was core to our learning through experience was incomplete. They give you a number of videos from youtube to try and give you the essentials. I only watched one by Ian on google maps, and it was so old I couldn´t follow wit the current Google API environment.\n\nThe promise I was given when I bought the course wasn´t delivered. This is not enough for me to create my own website or project.\n\nAll this said I also need to leave some comments of the positives of this course. First of all the Q&A team. I've asked a couple of things and responses were quick and helpful. On online environment that is very welcome.\n\nThe course is thorough. I think I now have the tools to go deeper into the different technologies and languages if I want.\n\nColt is very clear in his expositions. Some times speaks to quick for a foreigner like myself, but we have the magic of rewind to hear as many times as we wish.\n\nWith all considered this is probably, still one of the best and more complete courses online available on the subject. I feel tempted to search for others though.\n\nThere are many other positive aspects I haven´t focused on. All in all I think 3 stars is the rate applicable at this point in time.\n\nColt and team, please think about updating the materials, or even creating a new whole course.",
-            "rating": 3
-        },
-        {
-            "body": "This was a great, comprehensive course to learn the basics of web development! Colt, has a engaging and informative teaching style that gives you a great foundation to go into more advanced topics. It kind of ends abruptly without much guidance on how to proceed, but Colt definitely gives all you need to figure it out. The sky is the limit after you take this course! Thanks Colt, Ian, Zarko, Louli, and Akshay for all your hardwork!",
-            "rating": 4
-        },
-        {
-            "body": "Frustrating is how I would best describe this course. In the beginning course is alright. It just gets incredibly frustrating towards the end where almost everything is outdated. The slides beforehand are always nice - where it mentions the updated syntax, but having to follow through those videos with outdated syntax where we learned the updated syntax many many slides ago is just frustrating, confusing, and just plain annoying. This course was probably great 5 years ago, but these videos need to be updated properly for it to be truly effective. The few slides many moons ago, don't do this course any justice, and the fact that there are often so many things left out of the videos truly leaves me demotivated to finish the course. I always return to finish, but I can see these frustrations leaving many not wanting code again. Decent course for the price, Colt is a pretty good teacher and I would love to learn from him at one of his other bootcamps, but the material is lacking in 2020.",
-            "rating": 3
-        },
-        {
-            "body": "Awesome course for all groups , covered almost everything related to WEB Developer ever needed to learn you have to put your effort first in this course there more than enough to learn !!",
+            "body": "The course is very well executed. It was helpful to me as a beginner, it gave me a better understanding of Javascript. Following the mini-projects in the course gave me the confidence to tackle more complex Javascript projects.",
             "rating": 4.5
         },
         {
-            "body": "The course offers a lot of content! I expected this course to take me from a complete novice to a beginner level web developer and it has. The first half of the course that deals with frontend development is very comprehensive as Colt takes time to explain concepts.\n\nThe second half however left me a bit frustrated; the backend development felt more like bringing the puzzle pieces together rather than understanding the basic of puzzle. The course has given me a good idea of how node works, but I am unsatisfied with the approach taken: most of the time, when we included packages, it felt like we were doing so arbitrarily. On this front, there were too many minor things to take care of and remember; I am not sure if this is inherent to working with node, but it was left unclear.\n\nOverall, the course offers more than what I paid for it and I am happy with what I have learned from this course.\n\nThanks Colt!",
-            "rating": 4
-        },
-        {
-            "body": "Very good introducing me to new technologies in more modern web development. A good fit in general, but given my robust experience in previous statistical programming (and occasional web-app-widget creation) in R and Python I think an advanced course would have been slightly more appropriate.",
-            "rating": 4
-        },
-        {
-            "body": "I would give 10 stars if possible.\n\nOne of the best courses I did (and I've done plenty).\n\nThe instructions given by Colt are very clear, easy to follow along, and the YelpCamp project is really cool, as it gives us an objective to achieve by the end of the training (I am still working on it after finishing the training, to include more features and put in practice everything I've learned).\n\nAnother point that I really appreciated is that all external services (online database, image storage, deploy servers) are free and credit card information is not required.\n\nLastly, the course was entirely reviewed and updated (in 2020). I was literally in the middle of the old one when the update came, but I gladly went through all of it again.\n\nThank you very much Colt for this extrordinary experience.",
+            "body": "Brad is a really great instructor. He explains everything so well. I loved this course. Thank you so much for taking time to make this course.",
             "rating": 5
         },
         {
-            "body": "Colt is a great instructor and the course is really complete. One downside, I read before starting it, in some forums, that it's out of date, which is true. BUT, Ian made a great job on keeping it up to date. He added a lot of value to it, not only in the course but also with extra material on his YouTube channel and DevSprout, his personal courses website.\n\nThanks Colt and Ian for creating an amazing course, keep up the great work!",
+            "body": "Brad knows this material well, and it shows. I'm impressed with his level of knowledge and his innate ability to teach. I'm a professional dev brushing up on my skills, and I can't say enough good things about this instructor. Thank you.",
+            "rating": 5
+        },
+        {
+            "body": "Positives:\n\nThis course is pretty extensive in terms of the number of topics covered.\n\nSupport provided for this course is pretty decent.\n\nI like Brad's code along approach, because if you write even 10 lines of code just to test out a concept (and save it), then you are more likely to remember it and you can always come back to it for revisions.\n\nWeaknesses:\n\nToo many loose ends, too much googling and mdn browsing in a course i paid for.\n\nSmall errors in explanation here and there can lead to hours (in one case days) wasted on googling\n\nWhats more, Brad very cunningly tiptoes past the topics he wouldn't or couldn't explain like closures. Yeah a JavaScript course without a mention of closures.\n\nNo word about apply, bind or call functions.\n\nHe used filter function late in lecture 98 in a wrong manner which just by luck worked for the example he was working on. So cannot even expect the explanation there.\n\nIncomplete coverage of the the spread operator.\n\nFor...of loop (without any introduction) was used for the first time in the lecture on sets in section 10.\n\nIn the last section, he just tells to download the webpack+babel setup from his GitHub profile without explaining how he created it.\n\nThe list is too long.",
+            "rating": 3.5
+        },
+        {
+            "body": "I struggled learning Javascript coming from a career with no programming skills needed or experience. I tried other videos and online courses and to me, it seemed like they were made from the perspective that people had previous programming experience and wanted to learn how to program with Javascript. The focus was mainly on just how to write functions, arrays, and objects and not seeing any results of this outside of logging things on a console. These lessons for the first time showed me how JS can manipulate the DOM, methods for targeting HTML in a webpage, creating OOP, modules, patterns, and lots more so I finally could see what JS was doing when related to working on webpages for front-end work. The small projects are super helpful, and helped me to really understand the language while both coming together and in the final product. I will definitely be revisiting these videos for practice and test how much more I can do independently as I progress.",
+            "rating": 5
+        },
+        {
+            "body": "Fantastic course. Brad is so knowledgeable and a brilliant teacher. The way the course comes together towards the end and draws everything you have is really great. I am definitely feeling more knowledgeable and comfortable with Javascript and it's concepts.",
+            "rating": 5
+        },
+        {
+            "body": "It is very good course to learn modern javascript. If you don't know anything about js then you can definitely go with this course.",
             "rating": 5
         }
     ],
     "students": [
         {
-            "name": "Sunil Krishna Peddamalli",
-            "email": "sunilkrishnapeddamalli@gmail.com",
-            "password": "sunilkrishnapeddamalli",
+            "name": "Adnan Ali",
+            "email": "adnanali@gmail.com",
+            "password": "adnanali",
             "role": "s"
         },
         {
-            "name": "G.Naveen Kumar",
-            "email": "g.naveenkumar@gmail.com",
-            "password": "g.naveenkumar",
+            "name": "Sean Berry",
+            "email": "seanberry@gmail.com",
+            "password": "seanberry",
             "role": "s"
         },
         {
-            "name": "Brendin Swanepoel",
-            "email": "brendinswanepoel@gmail.com",
-            "password": "brendinswanepoel",
+            "name": "ronald nats",
+            "email": "ronaldnats@gmail.com",
+            "password": "ronaldnats",
             "role": "s"
         },
         {
-            "name": "Derry Yuen",
-            "email": "derryyuen@gmail.com",
-            "password": "derryyuen",
+            "name": "James Young",
+            "email": "jamesyoung@gmail.com",
+            "password": "jamesyoung",
             "role": "s"
         },
         {
-            "name": "Alexandre Trindade",
-            "email": "alexandretrindade@gmail.com",
-            "password": "alexandretrindade",
+            "name": "Banfi Music",
+            "email": "banfimusic@gmail.com",
+            "password": "banfimusic",
             "role": "s"
         },
         {
-            "name": "Jordan Aceves-Foster",
-            "email": "jordanaceves-foster@gmail.com",
-            "password": "jordanaceves-foster",
+            "name": "Morenike Kolawole",
+            "email": "morenikekolawole@gmail.com",
+            "password": "morenikekolawole",
             "role": "s"
         },
         {
-            "name": "Nigel M",
-            "email": "nigelm@gmail.com",
-            "password": "nigelm",
+            "name": "Parvathyvd",
+            "email": "parvathyvd@gmail.com",
+            "password": "parvathyvd",
             "role": "s"
         },
         {
-            "name": "Akhilesh Mankotia",
-            "email": "akhileshmankotia@gmail.com",
-            "password": "akhileshmankotia",
+            "name": "Mike K",
+            "email": "mikek@gmail.com",
+            "password": "mikek",
             "role": "s"
         },
         {
-            "name": "Shahzaib Momin",
-            "email": "shahzaibmomin@gmail.com",
-            "password": "shahzaibmomin",
+            "name": "Tarun Singh",
+            "email": "tarunsingh@gmail.com",
+            "password": "tarunsingh",
             "role": "s"
         },
         {
-            "name": "Brent Zey",
-            "email": "brentzey@gmail.com",
-            "password": "brentzey",
+            "name": "Roeh Y Lewit",
+            "email": "roehylewit@gmail.com",
+            "password": "roehylewit",
             "role": "s"
         },
         {
-            "name": "Renato Antunes",
-            "email": "renatoantunes@gmail.com",
-            "password": "renatoantunes",
+            "name": "Jonathan Taft",
+            "email": "jonathantaft@gmail.com",
+            "password": "jonathantaft",
             "role": "s"
         },
         {
-            "name": "Francisco M",
-            "email": "franciscom@gmail.com",
-            "password": "franciscom",
+            "name": "Ayush Sahu",
+            "email": "ayushsahu@gmail.com",
+            "password": "ayushsahu",
             "role": "s"
         }
     ],
     "instructor": {
-        "name": "Colt Steele",
-        "email": "coltsteele@gmail.com",
-        "password": "coltsteele",
+        "name": "Brad Traversy",
+        "email": "bradtraversy@gmail.com",
+        "password": "bradtraversy",
         "role": "i",
-        "briefIntroduction": "<p>Hi! I'm Colt. I'm a developer with a serious love for teaching. I've spent the last few years teaching people to program at 2 different immersive bootcamps where <strong>I've helped hundreds of people become web developers and change their lives.</strong> My graduates work at companies like Google, Salesforce, and Square.</p><p>Most recently, I led Galvanize's SF's 6 month immersive program as <strong>Lead Instructor</strong> and <strong>Curriculum Director.</strong> After graduating from my class, 94% of my students went on to receive full-time developer roles. I also worked at Udacity as a <strong>Senior Course Developer </strong>on the web development team where I got to reach thousands of students daily. </p><p>I’ve since focused my time on bringing my classroom teaching experience to an online environment. In 2016 I launched my <strong>Web Developer Bootcamp course</strong>, which has since gone on to become one of the best selling and top rated courses on Udemy. I was also voted <strong>Udemy’s Best New Instructor of 2016.</strong> </p><p>I've spent years figuring out the \"formula\" to teaching technical skills in a classroom environment, and I'm really excited to finally share my expertise with you. I can confidently say that my online courses are without a doubt the most comprehensive ones on the market. </p><p><strong>Join me on this crazy adventure!</strong></p>"
+        "briefIntroduction": "<p>Brad Traversy has been&nbsp;programming for around 12 years and teaching for almost 5 years. He is the owner of Traversy Media which is a successful web development YouTube channel and specializes in everything from HTML5 to front end frameworks like Angular as well as server side technologies like Node.js, PHP and Python. Brad has mastered explaining very complex topics in a simple manner that is very understandable. Invest in your knowledge by watching Brad's courses.</p>"
     }
 }

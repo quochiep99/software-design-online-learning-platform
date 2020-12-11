@@ -10,15 +10,15 @@ const url = process.env.DATABASEURL || 'mongodb://localhost:27017/web-online-aca
 mongoose.connect(url, { useNewUrlParser: true, useUnifiedTopology: true });
 
 async function seedDB() {
-    console.log("deleting collections documents...");
-    await Course.deleteMany({});
-    await User.deleteMany({});
-    await Review.deleteMany({});
-    await Field.deleteMany({});
-    console.log("deleted collections documents.")
+    // console.log("deleting collections documents...");
+    // await Course.deleteMany({});
+    // await User.deleteMany({});
+    // await Review.deleteMany({});
+    // await Field.deleteMany({});
+    // console.log("deleted collections documents.")
     console.log("creating collections documents...")
 
-    var field = await Field.findOne({ field: data.field.name });
+    var field = await Field.findOne({ name: data.field.name });
     if (!field) {
         field = await Field.create(data.field);
     }

@@ -1,193 +1,3073 @@
 [{
   "_id": {
-    "$oid": "5fd239d6e34c633a30a63976"
+    "$oid": "5fd2e17e31de93393c0ed525"
+  },
+  "body": "This is one of the best HTML5 and CSS3 courses on the Internet.\n\nJonas is an amazing instructor- He explains all the topics really well together with excellent presentations.\n\nYou get to learn valuable knowledge about web development and web design. You'll learn all the theory stuff and then put them into practice on ONE BIG project. After finishing this course, you will understand the process of building a website- from idea/sketch to production.",
+  "rating": 5,
+  "createdAt": {
+    "$date": "2020-12-11T03:03:26.737Z"
+  },
+  "updatedAt": {
+    "$date": "2020-12-11T03:03:26.815Z"
+  },
+  "__v": 0,
+  "author": {
+    "$oid": "5fd2e17e31de93393c0ed531"
+  }
+},{
+  "_id": {
+    "$oid": "5fd2e17e31de93393c0ed526"
+  },
+  "body": "I loved this course. It dove right in to what you need to learn. It taught you the basics of what you need to know for HTML and CSS so that you can start building your own websites right away. What I recommend is to watch bits and pieces of this course and as soon as you learn it, APPLY IT, that way you can commit what you learned to memory.",
+  "rating": 5,
+  "createdAt": {
+    "$date": "2020-12-11T03:03:26.748Z"
+  },
+  "updatedAt": {
+    "$date": "2020-12-11T03:03:26.816Z"
+  },
+  "__v": 0,
+  "author": {
+    "$oid": "5fd2e17e31de93393c0ed532"
+  }
+},{
+  "_id": {
+    "$oid": "5fd2e17e31de93393c0ed527"
+  },
+  "body": "Excellent course to gain working knowledge of HTML and CSS. Very detailed, methodical and step-by-step instructions to build a modern, responsive website from scratch. Lot of useful reference site was mentioned. The codinghero site maintained by the author is useful for real-world development. Was extremely happy with the course since it served my purpose. Few tidbits of JS and Jquery was added but it was easy to follow. The final bonus section on flexbox and css grid was not very useful. Few sections are however outdated and might need to be reworked. The ionicons library previously implemented with css no longer work the way it used to. The ionicons are now JS driven. This requires some changes in few sections. Not very difficult changes though.",
+  "rating": 5,
+  "createdAt": {
+    "$date": "2020-12-11T03:03:26.749Z"
+  },
+  "updatedAt": {
+    "$date": "2020-12-11T03:03:26.817Z"
+  },
+  "__v": 0,
+  "author": {
+    "$oid": "5fd2e17e31de93393c0ed533"
+  }
+},{
+  "_id": {
+    "$oid": "5fd2e17e31de93393c0ed528"
+  },
+  "body": "very excellent course. i got the fuel what i need to star my carrier. but one thing i should mention that when we ask question regarding any problem i didn't get answered regarding my problem. i had to wait for long time. that is frustrating. otherwise this course is very helpful for the beginner students of webdesign.",
+  "rating": 4.5,
+  "createdAt": {
+    "$date": "2020-12-11T03:03:26.750Z"
+  },
+  "updatedAt": {
+    "$date": "2020-12-11T03:03:26.818Z"
+  },
+  "__v": 0,
+  "author": {
+    "$oid": "5fd2e17e31de93393c0ed534"
+  }
+},{
+  "_id": {
+    "$oid": "5fd2e17e31de93393c0ed529"
+  },
+  "body": "This course has covered a lot of useful information for HTML5 and CSS3. However, the instructor should improve his ability to speak English better. Also, he should explain carefully every property of programming language for students, not just go through. Need more improvement for this course by careful explainations of everything !!!!!!!",
+  "rating": 2.5,
+  "createdAt": {
+    "$date": "2020-12-11T03:03:26.751Z"
+  },
+  "updatedAt": {
+    "$date": "2020-12-11T03:03:26.819Z"
+  },
+  "__v": 0,
+  "author": {
+    "$oid": "5fd2e17e31de93393c0ed535"
+  }
+},{
+  "_id": {
+    "$oid": "5fd2e17e31de93393c0ed52a"
+  },
+  "body": "The material is quite dated and if you didn't take this course five years ago you're going to run into a lot of issues. Also, Jonas's assistant is quite lax in responding to inquiries regarding issues that arise. The Q&A section states it takes 48 hours to respond but it doesn't take long to realize that responses are done at his leisure. In fact, it's because of my last few interactions with his assistant that I won't be finishing.",
+  "rating": 2,
+  "createdAt": {
+    "$date": "2020-12-11T03:03:26.752Z"
+  },
+  "updatedAt": {
+    "$date": "2020-12-11T03:03:26.819Z"
+  },
+  "__v": 0,
+  "author": {
+    "$oid": "5fd2e17e31de93393c0ed536"
+  }
+},{
+  "_id": {
+    "$oid": "5fd2e17e31de93393c0ed52b"
+  },
+  "body": "The course is good. At the time of enrollment my target was for HTML5 and CSS3. Lots of area has been covered in a meaningful way. But some of the part like JQuery was not required. As a fair knowledge of JavaScript is required for that. Without that it becomes meaningless. In place of that it would have been good had other areas of HTML and CSS would have covered. Also at many places reference to eBook has been made which has been missing. It has been answered that in place of eBook website URL has been provided. Could not find all things in the website that has been mentioned. Many referenced websites have changed the way of functioning and some of them don’t even exist now. Hope course should have been updated accordingly. But overall happy for it. Only 2 points. 1. Please update where changes have happened. 2. As for this course rather than other topics (like JQuery, PHP), have more area of HTML and CSS covered in it. (This is not in negative sense please).\n\nThank you for the nice course.",
+  "rating": 4,
+  "createdAt": {
+    "$date": "2020-12-11T03:03:26.753Z"
+  },
+  "updatedAt": {
+    "$date": "2020-12-11T03:03:26.820Z"
+  },
+  "__v": 0,
+  "author": {
+    "$oid": "5fd2e17e31de93393c0ed537"
+  }
+},{
+  "_id": {
+    "$oid": "5fd2e17e31de93393c0ed52c"
+  },
+  "body": "A good course to start into to know about the in and out of html and css if you are just a beginner. It will help you get the feel and idea on how to start coding a website. However, the course might be kind of outdated since some of the things that you will learned will be replaced by a better solution and simpler coding commands or they do simply work but in a redundant way, thus you have to find a better solution by researching yourself or in the Q&A some of the time.",
+  "rating": 4,
+  "createdAt": {
+    "$date": "2020-12-11T03:03:26.754Z"
+  },
+  "updatedAt": {
+    "$date": "2020-12-11T03:03:26.821Z"
+  },
+  "__v": 0,
+  "author": {
+    "$oid": "5fd2e17e31de93393c0ed538"
+  }
+},{
+  "_id": {
+    "$oid": "5fd2e17e31de93393c0ed52d"
+  },
+  "body": "Great to know about the various concepts of web development and clear cut view of how a webpage is developed as per the customer's expectatitons",
+  "rating": 5,
+  "createdAt": {
+    "$date": "2020-12-11T03:03:26.755Z"
+  },
+  "updatedAt": {
+    "$date": "2020-12-11T03:03:26.822Z"
+  },
+  "__v": 0,
+  "author": {
+    "$oid": "5fd2e17e31de93393c0ed539"
+  }
+},{
+  "_id": {
+    "$oid": "5fd2e17e31de93393c0ed52e"
+  },
+  "body": "You Can teach an Old Dog New Tricks!\n\nI was always apprehensive about learning web development in the past.\n\nAfter trying a small nursery course, ‘as I call it’, Jonas’s course came highly rated and regarded in most Google searches for reviews and advice.\n\nThose great ratings were not wrong either. This course is absolutely fantastic.\n\nI love the sections on responsive design for Mobile Phones & Tablets.\n\nSo pleased I chose this course to start me on my way.\n\nThis old dog, (myself), is a 55 year old who should have studied this subject years ago.\n\nHighly recommend this to anyone starting out from scratch.\n\nI am now hooked on every element of the subject and very grateful too.\n\nBravo and Thanks,\n\nFraser.",
+  "rating": 5,
+  "createdAt": {
+    "$date": "2020-12-11T03:03:26.755Z"
+  },
+  "updatedAt": {
+    "$date": "2020-12-11T03:03:26.822Z"
+  },
+  "__v": 0,
+  "author": {
+    "$oid": "5fd2e17e31de93393c0ed53a"
+  }
+},{
+  "_id": {
+    "$oid": "5fd2e17e31de93393c0ed52f"
+  },
+  "body": "Very Informative and learnt a lot, overwelming at times if new to this but Jonas does a good job to make this course as easy as possible to follow. Thanks!",
+  "rating": 4,
+  "createdAt": {
+    "$date": "2020-12-11T03:03:26.756Z"
+  },
+  "updatedAt": {
+    "$date": "2020-12-11T03:03:26.823Z"
+  },
+  "__v": 0,
+  "author": {
+    "$oid": "5fd2e17e31de93393c0ed53b"
+  }
+},{
+  "_id": {
+    "$oid": "5fd2e17e31de93393c0ed530"
+  },
+  "body": "The course is understandable, if you do not have experience like me in HTML, CSs and jS this course will help you understand the basic principles. The only problem is that the course is outdated and that makes you feel frustrated because you are wasted a lot of time trying to solve the problems caused by this outdated course.",
+  "rating": 3.5,
+  "createdAt": {
+    "$date": "2020-12-11T03:03:26.757Z"
+  },
+  "updatedAt": {
+    "$date": "2020-12-11T03:03:26.824Z"
+  },
+  "__v": 0,
+  "author": {
+    "$oid": "5fd2e17e31de93393c0ed53c"
+  }
+},{
+  "_id": {
+    "$oid": "5fd2e1df05e37e17dc480ca3"
+  },
+  "body": "It is an amazing course, earlier I didn't have the confidence to work on UI but after this course, I have the confidence that I can build and understand the code that is written by any JS developer.",
+  "rating": 5,
+  "createdAt": {
+    "$date": "2020-12-11T03:05:03.539Z"
+  },
+  "updatedAt": {
+    "$date": "2020-12-11T03:05:03.640Z"
+  },
+  "__v": 0,
+  "author": {
+    "$oid": "5fd2e1df05e37e17dc480caf"
+  }
+},{
+  "_id": {
+    "$oid": "5fd2e1df05e37e17dc480ca4"
+  },
+  "body": "Awesome course for beginners ,teaches you more than just Javascript,this course teaches you ,what you would do when you actually end up in a Javascript deeveloper job ,all the practical concpets which are used in the companies are taught ,like babel,webpack ,how to setup a localhost, MVC ,HTML DOM manipulation ,ES6 and many such practical real world concepts are covered rather than just the basic syntax of Javascript which you can study from W3schools also,So this is a must do course for a beginner who wants to be a Javascript developer.",
+  "rating": 4.5,
+  "createdAt": {
+    "$date": "2020-12-11T03:05:03.540Z"
+  },
+  "updatedAt": {
+    "$date": "2020-12-11T03:05:03.641Z"
+  },
+  "__v": 0,
+  "author": {
+    "$oid": "5fd2e1df05e37e17dc480cb0"
+  }
+},{
+  "_id": {
+    "$oid": "5fd2e1df05e37e17dc480ca5"
+  },
+  "body": "Very Awesome !! explained the java script the way a programmer should think and program , very good , i loved it",
+  "rating": 5,
+  "createdAt": {
+    "$date": "2020-12-11T03:05:03.541Z"
+  },
+  "updatedAt": {
+    "$date": "2020-12-11T03:05:03.641Z"
+  },
+  "__v": 0,
+  "author": {
+    "$oid": "5fd2e1df05e37e17dc480cb1"
+  }
+},{
+  "_id": {
+    "$oid": "5fd2e1df05e37e17dc480ca6"
+  },
+  "body": "Yes content is really awesome and way of teaching is very nice. Generally people get bore in short span of time during courses but this is amazing.",
+  "rating": 5,
+  "createdAt": {
+    "$date": "2020-12-11T03:05:03.542Z"
+  },
+  "updatedAt": {
+    "$date": "2020-12-11T03:05:03.642Z"
+  },
+  "__v": 0,
+  "author": {
+    "$oid": "5fd2e1df05e37e17dc480cb2"
+  }
+},{
+  "_id": {
+    "$oid": "5fd2e1df05e37e17dc480ca7"
+  },
+  "body": "Amazing course! Enjoyed making forkify project and in turn learned a whole lot of new concepts in JS.",
+  "rating": 5,
+  "createdAt": {
+    "$date": "2020-12-11T03:05:03.543Z"
+  },
+  "updatedAt": {
+    "$date": "2020-12-11T03:05:03.643Z"
+  },
+  "__v": 0,
+  "author": {
+    "$oid": "5fd2e1df05e37e17dc480cb3"
+  }
+},{
+  "_id": {
+    "$oid": "5fd2e1df05e37e17dc480ca8"
+  },
+  "body": "Thank u so much for this amazing flood of knowledge on the topic, really appreciate ur efforts to make coding a real easy hobby.",
+  "rating": 4,
+  "createdAt": {
+    "$date": "2020-12-11T03:05:03.544Z"
+  },
+  "updatedAt": {
+    "$date": "2020-12-11T03:05:03.644Z"
+  },
+  "__v": 0,
+  "author": {
+    "$oid": "5fd2e1df05e37e17dc480cb4"
+  }
+},{
+  "_id": {
+    "$oid": "5fd2e1df05e37e17dc480ca9"
+  },
+  "body": "I can say this course is may be the best course for JavaScript on Udemy in many aspects. The way Jonas organizes, explains and helps the student to learn is clear and smooth, unlike many course out there. I wish if he can create a new version or even update this course to more JavaScript concepts and make it a Modular complete Guide, because it lacks many aspects especially the advanced ones.",
+  "rating": 4.5,
+  "createdAt": {
+    "$date": "2020-12-11T03:05:03.545Z"
+  },
+  "updatedAt": {
+    "$date": "2020-12-11T03:05:03.645Z"
+  },
+  "__v": 0,
+  "author": {
+    "$oid": "5fd2e1df05e37e17dc480cb5"
+  }
+},{
+  "_id": {
+    "$oid": "5fd2e1df05e37e17dc480caa"
+  },
+  "body": "This is a very good course it covers the basics part pretty well. Take note, you really have to slow down on the advance parts specially at Section 5. Also those coding challenges are just a pain in the butt so watch out for those :)",
+  "rating": 3.5,
+  "createdAt": {
+    "$date": "2020-12-11T03:05:03.546Z"
+  },
+  "updatedAt": {
+    "$date": "2020-12-11T03:05:03.645Z"
+  },
+  "__v": 0,
+  "author": {
+    "$oid": "5fd2e1df05e37e17dc480cb6"
+  }
+},{
+  "_id": {
+    "$oid": "5fd2e1df05e37e17dc480cab"
+  },
+  "body": "Amazing depth and very good teaching style. Absolutely would recommend it to anyone!",
+  "rating": 5,
+  "createdAt": {
+    "$date": "2020-12-11T03:05:03.547Z"
+  },
+  "updatedAt": {
+    "$date": "2020-12-11T03:05:03.646Z"
+  },
+  "__v": 0,
+  "author": {
+    "$oid": "5fd2e1df05e37e17dc480cb7"
+  }
+},{
+  "_id": {
+    "$oid": "5fd2e1df05e37e17dc480cac"
+  },
+  "body": "This course get a very high rating from me as it's pretty easy to follow.\n\nThis could also be down to the fact that I recently learned python and quite a few of the fundamentals are the same.",
+  "rating": 5,
+  "createdAt": {
+    "$date": "2020-12-11T03:05:03.548Z"
+  },
+  "updatedAt": {
+    "$date": "2020-12-11T03:05:03.647Z"
+  },
+  "__v": 0,
+  "author": {
+    "$oid": "5fd2e1df05e37e17dc480cb8"
+  }
+},{
+  "_id": {
+    "$oid": "5fd2e1df05e37e17dc480cad"
+  },
+  "body": "Jonas has a great way of teaching. He has very intelligently structured the whole course and indeed, anyone could learn JavaScript, and that too in very less time. He moves to the next topic very smoothly, and intelligently interrelates the previous topic.",
+  "rating": 5,
+  "createdAt": {
+    "$date": "2020-12-11T03:05:03.549Z"
+  },
+  "updatedAt": {
+    "$date": "2020-12-11T03:05:03.648Z"
+  },
+  "__v": 0,
+  "author": {
+    "$oid": "5fd2e1df05e37e17dc480cb9"
+  }
+},{
+  "_id": {
+    "$oid": "5fd2e1df05e37e17dc480cae"
+  },
+  "body": "Jonas is a great teacher, who explain concepts the best way that you can imagine. Hands up to the teaching assistants who instantly reply to questions. This is a great course that every JS programmer should consider taking!",
+  "rating": 5,
+  "createdAt": {
+    "$date": "2020-12-11T03:05:03.550Z"
+  },
+  "updatedAt": {
+    "$date": "2020-12-11T03:05:03.648Z"
+  },
+  "__v": 0,
+  "author": {
+    "$oid": "5fd2e1df05e37e17dc480cba"
+  }
+},{
+  "_id": {
+    "$oid": "5fd2e2444284c54ec4c4637a"
   },
   "body": "Being a fresher as a web developer this course helped me not only to understand web coding in such a easy way but also made each section of the course interesting and enjoyable due to the awesome teaching method by 'Colt Steele'.\n\nBest course to start with as a beginner into Web Development!!!",
   "rating": 5,
   "createdAt": {
-    "$date": "2020-12-10T15:08:06.106Z"
+    "$date": "2020-12-11T03:06:44.549Z"
   },
   "updatedAt": {
-    "$date": "2020-12-10T15:08:06.169Z"
+    "$date": "2020-12-11T03:06:44.685Z"
   },
   "__v": 0,
   "author": {
-    "$oid": "5fd239d6e34c633a30a63982"
+    "$oid": "5fd2e2444284c54ec4c46386"
   }
 },{
   "_id": {
-    "$oid": "5fd239d6e34c633a30a63977"
+    "$oid": "5fd2e2444284c54ec4c4637b"
   },
   "body": "Great course while studying computer science students during summer vacation and I enjoyed each part of the course. Whoever is having passion for web development must pursue this course for having better knowledge about front and back end development.",
   "rating": 5,
   "createdAt": {
-    "$date": "2020-12-10T15:08:06.107Z"
+    "$date": "2020-12-11T03:06:44.550Z"
   },
   "updatedAt": {
-    "$date": "2020-12-10T15:08:06.170Z"
+    "$date": "2020-12-11T03:06:44.687Z"
   },
   "__v": 0,
   "author": {
-    "$oid": "5fd239d6e34c633a30a63983"
+    "$oid": "5fd2e2444284c54ec4c46387"
   }
 },{
   "_id": {
-    "$oid": "5fd239d6e34c633a30a63978"
+    "$oid": "5fd2e2444284c54ec4c4637c"
   },
   "body": "Very comprehensive overall. Can be a bit difficult to follow due to the speed the course progresses through all the content, but other than that, I cannot ask for more. Definitely going to check out the advanced course :D",
   "rating": 5,
   "createdAt": {
-    "$date": "2020-12-10T15:08:06.108Z"
+    "$date": "2020-12-11T03:06:44.551Z"
   },
   "updatedAt": {
-    "$date": "2020-12-10T15:08:06.171Z"
+    "$date": "2020-12-11T03:06:44.687Z"
   },
   "__v": 0,
   "author": {
-    "$oid": "5fd239d6e34c633a30a63984"
+    "$oid": "5fd2e2444284c54ec4c46388"
   }
 },{
   "_id": {
-    "$oid": "5fd239d6e34c633a30a63979"
+    "$oid": "5fd2e2444284c54ec4c4637d"
   },
   "body": "good introduction course for web development. Course cover various of web dev essentials such as html, css, javascript, nodejs, api , routes etc. Great support from the TA.\n\nHowever, the course is rather outdated and lots of technology is no longer support / use nowadays such as bootstrap 3 and jQuery, Javascript ES 5 only . Also lots of coding in backend and the tools are also out of date. It makes the TA keeps updating materials, new videos as a supplement to cover those parts and its a bit messy.\n\nI enjoy the course as Colt is really good at teaching. But I personally would not recommend this course simply because the outdated content. It is a course 5 years ago and I end up need to subscribe different courses to supplement those parts.\n\nI hope Colt and the team will revisit my comment and consider to update most of the content in the course include ES6 Javascript syntax, backend sessions etc.",
   "rating": 4,
   "createdAt": {
-    "$date": "2020-12-10T15:08:06.109Z"
+    "$date": "2020-12-11T03:06:44.553Z"
   },
   "updatedAt": {
-    "$date": "2020-12-10T15:08:06.172Z"
+    "$date": "2020-12-11T03:06:44.688Z"
   },
   "__v": 0,
   "author": {
-    "$oid": "5fd239d6e34c633a30a63985"
+    "$oid": "5fd2e2444284c54ec4c46389"
   }
 },{
   "_id": {
-    "$oid": "5fd239d6e34c633a30a6397a"
+    "$oid": "5fd2e2444284c54ec4c4637e"
   },
   "body": "Not as good as expected. Some of the materials are old and you get a feeling you´ll have to update yourself. The course needs a revamp to make it a 2020 course.\n\nThere are a lot of intermediate comments made by Colt´s assistant Ian that try to help but reflect the fact the course needs to be reviewed. I know that is a lot of work, but that would get you 5 star reviews.\n\nOn the other hand I feel disappointed with the fact that in the end, I wasn´t thought how to create my own website. The deployment part speaks briefly about how to deploy a project in Heroku. Nothing is said about what about if I already have my own website. Or if I want to create a new one. I wanted to learn coding to improve my business website. I have it in wordpress. I'm aware the backend language is php and I can use a control panel to manage it. Nothing in the course is said about this.\n\nSome of the contents are disconnected. At some point you'll be sent to Ian's youtube videos, then comes Ellie to speak about javascript more advanced issues, not announced.\n\nI got to the end and the YelpCamp project that was core to our learning through experience was incomplete. They give you a number of videos from youtube to try and give you the essentials. I only watched one by Ian on google maps, and it was so old I couldn´t follow wit the current Google API environment.\n\nThe promise I was given when I bought the course wasn´t delivered. This is not enough for me to create my own website or project.\n\nAll this said I also need to leave some comments of the positives of this course. First of all the Q&A team. I've asked a couple of things and responses were quick and helpful. On online environment that is very welcome.\n\nThe course is thorough. I think I now have the tools to go deeper into the different technologies and languages if I want.\n\nColt is very clear in his expositions. Some times speaks to quick for a foreigner like myself, but we have the magic of rewind to hear as many times as we wish.\n\nWith all considered this is probably, still one of the best and more complete courses online available on the subject. I feel tempted to search for others though.\n\nThere are many other positive aspects I haven´t focused on. All in all I think 3 stars is the rate applicable at this point in time.\n\nColt and team, please think about updating the materials, or even creating a new whole course.",
   "rating": 3,
   "createdAt": {
-    "$date": "2020-12-10T15:08:06.110Z"
+    "$date": "2020-12-11T03:06:44.554Z"
   },
   "updatedAt": {
-    "$date": "2020-12-10T15:08:06.173Z"
+    "$date": "2020-12-11T03:06:44.689Z"
   },
   "__v": 0,
   "author": {
-    "$oid": "5fd239d6e34c633a30a63986"
+    "$oid": "5fd2e2444284c54ec4c4638a"
   }
 },{
   "_id": {
-    "$oid": "5fd239d6e34c633a30a6397b"
+    "$oid": "5fd2e2444284c54ec4c4637f"
   },
   "body": "This was a great, comprehensive course to learn the basics of web development! Colt, has a engaging and informative teaching style that gives you a great foundation to go into more advanced topics. It kind of ends abruptly without much guidance on how to proceed, but Colt definitely gives all you need to figure it out. The sky is the limit after you take this course! Thanks Colt, Ian, Zarko, Louli, and Akshay for all your hardwork!",
   "rating": 4,
   "createdAt": {
-    "$date": "2020-12-10T15:08:06.111Z"
+    "$date": "2020-12-11T03:06:44.555Z"
   },
   "updatedAt": {
-    "$date": "2020-12-10T15:08:06.173Z"
+    "$date": "2020-12-11T03:06:44.690Z"
   },
   "__v": 0,
   "author": {
-    "$oid": "5fd239d6e34c633a30a63987"
+    "$oid": "5fd2e2444284c54ec4c4638b"
   }
 },{
   "_id": {
-    "$oid": "5fd239d6e34c633a30a6397c"
+    "$oid": "5fd2e2444284c54ec4c46380"
   },
   "body": "Frustrating is how I would best describe this course. In the beginning course is alright. It just gets incredibly frustrating towards the end where almost everything is outdated. The slides beforehand are always nice - where it mentions the updated syntax, but having to follow through those videos with outdated syntax where we learned the updated syntax many many slides ago is just frustrating, confusing, and just plain annoying. This course was probably great 5 years ago, but these videos need to be updated properly for it to be truly effective. The few slides many moons ago, don't do this course any justice, and the fact that there are often so many things left out of the videos truly leaves me demotivated to finish the course. I always return to finish, but I can see these frustrations leaving many not wanting code again. Decent course for the price, Colt is a pretty good teacher and I would love to learn from him at one of his other bootcamps, but the material is lacking in 2020.",
   "rating": 3,
   "createdAt": {
-    "$date": "2020-12-10T15:08:06.111Z"
+    "$date": "2020-12-11T03:06:44.556Z"
   },
   "updatedAt": {
-    "$date": "2020-12-10T15:08:06.174Z"
+    "$date": "2020-12-11T03:06:44.691Z"
   },
   "__v": 0,
   "author": {
-    "$oid": "5fd239d6e34c633a30a63988"
+    "$oid": "5fd2e2444284c54ec4c4638c"
   }
 },{
   "_id": {
-    "$oid": "5fd239d6e34c633a30a6397d"
+    "$oid": "5fd2e2444284c54ec4c46381"
   },
   "body": "Awesome course for all groups , covered almost everything related to WEB Developer ever needed to learn you have to put your effort first in this course there more than enough to learn !!",
   "rating": 4.5,
   "createdAt": {
-    "$date": "2020-12-10T15:08:06.112Z"
+    "$date": "2020-12-11T03:06:44.557Z"
   },
   "updatedAt": {
-    "$date": "2020-12-10T15:08:06.175Z"
+    "$date": "2020-12-11T03:06:44.691Z"
   },
   "__v": 0,
   "author": {
-    "$oid": "5fd239d6e34c633a30a63989"
+    "$oid": "5fd2e2444284c54ec4c4638d"
   }
 },{
   "_id": {
-    "$oid": "5fd239d6e34c633a30a6397e"
+    "$oid": "5fd2e2444284c54ec4c46382"
   },
   "body": "The course offers a lot of content! I expected this course to take me from a complete novice to a beginner level web developer and it has. The first half of the course that deals with frontend development is very comprehensive as Colt takes time to explain concepts.\n\nThe second half however left me a bit frustrated; the backend development felt more like bringing the puzzle pieces together rather than understanding the basic of puzzle. The course has given me a good idea of how node works, but I am unsatisfied with the approach taken: most of the time, when we included packages, it felt like we were doing so arbitrarily. On this front, there were too many minor things to take care of and remember; I am not sure if this is inherent to working with node, but it was left unclear.\n\nOverall, the course offers more than what I paid for it and I am happy with what I have learned from this course.\n\nThanks Colt!",
   "rating": 4,
   "createdAt": {
-    "$date": "2020-12-10T15:08:06.113Z"
+    "$date": "2020-12-11T03:06:44.558Z"
   },
   "updatedAt": {
-    "$date": "2020-12-10T15:08:06.176Z"
+    "$date": "2020-12-11T03:06:44.692Z"
   },
   "__v": 0,
   "author": {
-    "$oid": "5fd239d6e34c633a30a6398a"
+    "$oid": "5fd2e2444284c54ec4c4638e"
   }
 },{
   "_id": {
-    "$oid": "5fd239d6e34c633a30a6397f"
+    "$oid": "5fd2e2444284c54ec4c46383"
   },
   "body": "Very good introducing me to new technologies in more modern web development. A good fit in general, but given my robust experience in previous statistical programming (and occasional web-app-widget creation) in R and Python I think an advanced course would have been slightly more appropriate.",
   "rating": 4,
   "createdAt": {
-    "$date": "2020-12-10T15:08:06.114Z"
+    "$date": "2020-12-11T03:06:44.559Z"
   },
   "updatedAt": {
-    "$date": "2020-12-10T15:08:06.177Z"
+    "$date": "2020-12-11T03:06:44.693Z"
   },
   "__v": 0,
   "author": {
-    "$oid": "5fd239d6e34c633a30a6398b"
+    "$oid": "5fd2e2444284c54ec4c4638f"
   }
 },{
   "_id": {
-    "$oid": "5fd239d6e34c633a30a63980"
+    "$oid": "5fd2e2444284c54ec4c46384"
   },
   "body": "I would give 10 stars if possible.\n\nOne of the best courses I did (and I've done plenty).\n\nThe instructions given by Colt are very clear, easy to follow along, and the YelpCamp project is really cool, as it gives us an objective to achieve by the end of the training (I am still working on it after finishing the training, to include more features and put in practice everything I've learned).\n\nAnother point that I really appreciated is that all external services (online database, image storage, deploy servers) are free and credit card information is not required.\n\nLastly, the course was entirely reviewed and updated (in 2020). I was literally in the middle of the old one when the update came, but I gladly went through all of it again.\n\nThank you very much Colt for this extrordinary experience.",
   "rating": 5,
   "createdAt": {
-    "$date": "2020-12-10T15:08:06.115Z"
+    "$date": "2020-12-11T03:06:44.560Z"
   },
   "updatedAt": {
-    "$date": "2020-12-10T15:08:06.178Z"
+    "$date": "2020-12-11T03:06:44.694Z"
   },
   "__v": 0,
   "author": {
-    "$oid": "5fd239d6e34c633a30a6398c"
+    "$oid": "5fd2e2444284c54ec4c46390"
   }
 },{
   "_id": {
-    "$oid": "5fd239d6e34c633a30a63981"
+    "$oid": "5fd2e2444284c54ec4c46385"
   },
   "body": "Colt is a great instructor and the course is really complete. One downside, I read before starting it, in some forums, that it's out of date, which is true. BUT, Ian made a great job on keeping it up to date. He added a lot of value to it, not only in the course but also with extra material on his YouTube channel and DevSprout, his personal courses website.\n\nThanks Colt and Ian for creating an amazing course, keep up the great work!",
   "rating": 5,
   "createdAt": {
-    "$date": "2020-12-10T15:08:06.116Z"
+    "$date": "2020-12-11T03:06:44.561Z"
   },
   "updatedAt": {
-    "$date": "2020-12-10T15:08:06.178Z"
+    "$date": "2020-12-11T03:06:44.694Z"
   },
   "__v": 0,
   "author": {
-    "$oid": "5fd239d6e34c633a30a6398d"
+    "$oid": "5fd2e2444284c54ec4c46391"
+  }
+},{
+  "_id": {
+    "$oid": "5fd2e25d6184c947b0600e47"
+  },
+  "body": "This course is so good, very detailed, Max teaches you the very basics to the requirements you need to build a SPA! There is also, Jost, Max's assistant who always answer all your questions. Thank you for the course!",
+  "rating": 5,
+  "createdAt": {
+    "$date": "2020-12-11T03:07:09.300Z"
+  },
+  "updatedAt": {
+    "$date": "2020-12-11T03:07:09.469Z"
+  },
+  "__v": 0,
+  "author": {
+    "$oid": "5fd2e25d6184c947b0600e53"
+  }
+},{
+  "_id": {
+    "$oid": "5fd2e25d6184c947b0600e48"
+  },
+  "body": "This guy is just the best <3 Max will help you understand topics as deep as necessary.\n\nHe also has fun verbal comments :D",
+  "rating": 5,
+  "createdAt": {
+    "$date": "2020-12-11T03:07:09.301Z"
+  },
+  "updatedAt": {
+    "$date": "2020-12-11T03:07:09.470Z"
+  },
+  "__v": 0,
+  "author": {
+    "$oid": "5fd2e25d6184c947b0600e54"
+  }
+},{
+  "_id": {
+    "$oid": "5fd2e25d6184c947b0600e49"
+  },
+  "body": "Basically, this course is great. I split my opinion into 4-star achievement and one star missing.\n\n4-star achievement:\n\nWell organized, most of its content is updated. This course is built in a way that helps the students to practice and internalize the material properly.\n\nHowever:\n\nOne star missing:\n\nThere is no proper introduction for RXJS operators such as map, tap, switchMap, and so on.\n\nThe Angular-Universal section was very bad explained and not updated.\n\nThe last two chapters needed to be presented earlier in this course",
+  "rating": 4,
+  "createdAt": {
+    "$date": "2020-12-11T03:07:09.302Z"
+  },
+  "updatedAt": {
+    "$date": "2020-12-11T03:07:09.471Z"
+  },
+  "__v": 0,
+  "author": {
+    "$oid": "5fd2e25d6184c947b0600e55"
+  }
+},{
+  "_id": {
+    "$oid": "5fd2e25d6184c947b0600e4a"
+  },
+  "body": "Max you are rockstar ! Many are shifting now a days to react but there is a solid reason angular exist's and you have done a great job.",
+  "rating": 5,
+  "createdAt": {
+    "$date": "2020-12-11T03:07:09.303Z"
+  },
+  "updatedAt": {
+    "$date": "2020-12-11T03:07:09.472Z"
+  },
+  "__v": 0,
+  "author": {
+    "$oid": "5fd2e25d6184c947b0600e56"
+  }
+},{
+  "_id": {
+    "$oid": "5fd2e25d6184c947b0600e4b"
+  },
+  "body": "I really love this course. As a web developer, I learned angular for a while, and this is the most clear and nice course I've ever learned.\n\nAlso I have to say Maximilian is really awesome, those bonus courses really useful, hope to learn more from him!\n\nReally helpful, thanks to Maximilian provides me this Angular complete guide!!!",
+  "rating": 5,
+  "createdAt": {
+    "$date": "2020-12-11T03:07:09.304Z"
+  },
+  "updatedAt": {
+    "$date": "2020-12-11T03:07:09.473Z"
+  },
+  "__v": 0,
+  "author": {
+    "$oid": "5fd2e25d6184c947b0600e57"
+  }
+},{
+  "_id": {
+    "$oid": "5fd2e25d6184c947b0600e4c"
+  },
+  "body": "Some parts of the course are still using old versions packages, Feels like, he is just changing the Name of the course only. But overall It is a Great course.",
+  "rating": 4.5,
+  "createdAt": {
+    "$date": "2020-12-11T03:07:09.305Z"
+  },
+  "updatedAt": {
+    "$date": "2020-12-11T03:07:09.473Z"
+  },
+  "__v": 0,
+  "author": {
+    "$oid": "5fd2e25d6184c947b0600e58"
+  }
+},{
+  "_id": {
+    "$oid": "5fd2e25d6184c947b0600e4d"
+  },
+  "body": "This course is a comprehensive compendium of knowledge about Angular. Interesting examples, understandable explanation. I recommend this course.",
+  "rating": 5,
+  "createdAt": {
+    "$date": "2020-12-11T03:07:09.306Z"
+  },
+  "updatedAt": {
+    "$date": "2020-12-11T03:07:09.474Z"
+  },
+  "__v": 0,
+  "author": {
+    "$oid": "5fd2e25d6184c947b0600e59"
+  }
+},{
+  "_id": {
+    "$oid": "5fd2e25d6184c947b0600e4e"
+  },
+  "body": "Request you dont mix regular concept teaching and course project.\n\nFollow only once. Course project can be added as bonus.\n\nAs the course is progressing concepts teaching also shifyted to course project. one who dont follow course project they cant understand the advanced topics even if you explain very well.",
+  "rating": 3,
+  "createdAt": {
+    "$date": "2020-12-11T03:07:09.307Z"
+  },
+  "updatedAt": {
+    "$date": "2020-12-11T03:07:09.475Z"
+  },
+  "__v": 0,
+  "author": {
+    "$oid": "5fd2e25d6184c947b0600e5a"
+  }
+},{
+  "_id": {
+    "$oid": "5fd2e25d6184c947b0600e4f"
+  },
+  "body": "It was amazing towards the beginning, but as it got towards the bonus material some of the information might have been a bit too compressed.",
+  "rating": 4.5,
+  "createdAt": {
+    "$date": "2020-12-11T03:07:09.308Z"
+  },
+  "updatedAt": {
+    "$date": "2020-12-11T03:07:09.475Z"
+  },
+  "__v": 0,
+  "author": {
+    "$oid": "5fd2e25d6184c947b0600e5b"
+  }
+},{
+  "_id": {
+    "$oid": "5fd2e25d6184c947b0600e50"
+  },
+  "body": "I do appreciate the effort Max puts into these videos but I feel there is to many references to \"there\", \"here\" without clearly showing or saying what \"there\" and \"here\" is. Also, in some occasions there is fast scrolling up and down that is next to impossible to track and follow.\n\nTo many \"of course\", \"and there\", \"and then\" and explanations sometimes get tangled without any reason. In addition, better structuring the course would help, using git repo that is properly organized to track Max's progress would help rather than downloading zip files.",
+  "rating": 3,
+  "createdAt": {
+    "$date": "2020-12-11T03:07:09.309Z"
+  },
+  "updatedAt": {
+    "$date": "2020-12-11T03:07:09.476Z"
+  },
+  "__v": 0,
+  "author": {
+    "$oid": "5fd2e25d6184c947b0600e5c"
+  }
+},{
+  "_id": {
+    "$oid": "5fd2e25d6184c947b0600e51"
+  },
+  "body": "This is one is indeed ultimate angular course. I am coming from react, and i need angular for my new job. And this is exactly what i have been looking for. I really liked how Max structured the flow of this course so that we get all downsides and features of different approaches in angular. Additional thanks for ssr bonus lectures i learned a lot thanks to them. As always thanks a lot Max. Will be glad to see new courses from you in advance. Take care.",
+  "rating": 5,
+  "createdAt": {
+    "$date": "2020-12-11T03:07:09.310Z"
+  },
+  "updatedAt": {
+    "$date": "2020-12-11T03:07:09.477Z"
+  },
+  "__v": 0,
+  "author": {
+    "$oid": "5fd2e25d6184c947b0600e5d"
+  }
+},{
+  "_id": {
+    "$oid": "5fd2e25d6184c947b0600e52"
+  },
+  "body": "je suis satisfait , malheureusement il n'existe pas une version en français",
+  "rating": 4,
+  "createdAt": {
+    "$date": "2020-12-11T03:07:09.311Z"
+  },
+  "updatedAt": {
+    "$date": "2020-12-11T03:07:09.478Z"
+  },
+  "__v": 0,
+  "author": {
+    "$oid": "5fd2e25d6184c947b0600e5e"
+  }
+},{
+  "_id": {
+    "$oid": "5fd2e2749415c604c4c6e84f"
+  },
+  "body": "The way how Angela explained topics is fantastic, at the same time understandable but also very interesting, this is the reason what kept me not only on topics that are new for me but also on topics on which I'm familiar.",
+  "rating": 4.5,
+  "createdAt": {
+    "$date": "2020-12-11T03:07:32.514Z"
+  },
+  "updatedAt": {
+    "$date": "2020-12-11T03:07:32.708Z"
+  },
+  "__v": 0,
+  "author": {
+    "$oid": "5fd2e2749415c604c4c6e85b"
+  }
+},{
+  "_id": {
+    "$oid": "5fd2e2749415c604c4c6e850"
+  },
+  "body": "This course is one of the best for everyone (beginners, intermediates, advance ), Dr.Angela is a good tutor. This course is well designed, taught and explained. I don't have any idea about coding but this course enlightened me. I have also purchased the ios 13 and swift 5, and the complete 2020 flutter development Bootcamp. Just to tell you how much I enjoyed the way she teaches, explains and solves problems/challenges.",
+  "rating": 5,
+  "createdAt": {
+    "$date": "2020-12-11T03:07:32.515Z"
+  },
+  "updatedAt": {
+    "$date": "2020-12-11T03:07:32.709Z"
+  },
+  "__v": 0,
+  "author": {
+    "$oid": "5fd2e2749415c604c4c6e85c"
+  }
+},{
+  "_id": {
+    "$oid": "5fd2e2749415c604c4c6e851"
+  },
+  "body": "This was an amazing course! I can't say enough good things about this course. Angela is an amazing instructor, and did an extremely great job teaching all that was promised in the course description.\n\nI'm happy \"The Complete 2020 Web Development Bootcamp\" was my FIRST programming course! I feel confident enough to move onto more specific courses. Thank you Angela!!!!",
+  "rating": 5,
+  "createdAt": {
+    "$date": "2020-12-11T03:07:32.516Z"
+  },
+  "updatedAt": {
+    "$date": "2020-12-11T03:07:32.709Z"
+  },
+  "__v": 0,
+  "author": {
+    "$oid": "5fd2e2749415c604c4c6e85d"
+  }
+},{
+  "_id": {
+    "$oid": "5fd2e2749415c604c4c6e852"
+  },
+  "body": "In this course I get more experiences in web development. If I get down, this course gave you motivation to let you get up again and ready to the new journey. Don't let your dream to be web developer down!",
+  "rating": 4.5,
+  "createdAt": {
+    "$date": "2020-12-11T03:07:32.518Z"
+  },
+  "updatedAt": {
+    "$date": "2020-12-11T03:07:32.710Z"
+  },
+  "__v": 0,
+  "author": {
+    "$oid": "5fd2e2749415c604c4c6e85e"
+  }
+},{
+  "_id": {
+    "$oid": "5fd2e2749415c604c4c6e853"
+  },
+  "body": "\"I got a magic stick from an angel now I think I am ready to use\". The magic stick is \"The Complete 2020 Web Development Bootcamp\" and the angel is \"Dr. Angela Yu\". You are one of the best teachers in my life, Thank you.",
+  "rating": 5,
+  "createdAt": {
+    "$date": "2020-12-11T03:07:32.519Z"
+  },
+  "updatedAt": {
+    "$date": "2020-12-11T03:07:32.711Z"
+  },
+  "__v": 0,
+  "author": {
+    "$oid": "5fd2e2749415c604c4c6e85f"
+  }
+},{
+  "_id": {
+    "$oid": "5fd2e2749415c604c4c6e854"
+  },
+  "body": "I've completed the course and hands down by far one of the best courses on Udemy ❤ .\n\nIt offers all you could expect from a Bootcamp course and more.",
+  "rating": 5,
+  "createdAt": {
+    "$date": "2020-12-11T03:07:32.520Z"
+  },
+  "updatedAt": {
+    "$date": "2020-12-11T03:07:32.712Z"
+  },
+  "__v": 0,
+  "author": {
+    "$oid": "5fd2e2749415c604c4c6e860"
+  }
+},{
+  "_id": {
+    "$oid": "5fd2e2749415c604c4c6e855"
+  },
+  "body": "This is my first web development course and this course has introduced me to a ton of information that I would definitely use in my career as a software developer and engineer",
+  "rating": 5,
+  "createdAt": {
+    "$date": "2020-12-11T03:07:32.521Z"
+  },
+  "updatedAt": {
+    "$date": "2020-12-11T03:07:32.712Z"
+  },
+  "__v": 0,
+  "author": {
+    "$oid": "5fd2e2749415c604c4c6e861"
+  }
+},{
+  "_id": {
+    "$oid": "5fd2e2749415c604c4c6e856"
+  },
+  "body": "Angela is an amazing instructor. Explains wonderfully. I've learned so much over the course's time. So many useful information takes a little bit of time to soak in, but Angela does a great job at destructuring it into small pieces so it gets easily received by us. Only the best I can say about this whole experience. Keep it up, Angela!",
+  "rating": 5,
+  "createdAt": {
+    "$date": "2020-12-11T03:07:32.522Z"
+  },
+  "updatedAt": {
+    "$date": "2020-12-11T03:07:32.713Z"
+  },
+  "__v": 0,
+  "author": {
+    "$oid": "5fd2e2749415c604c4c6e862"
+  }
+},{
+  "_id": {
+    "$oid": "5fd2e2749415c604c4c6e857"
+  },
+  "body": "Este curso desarrollado por Angela es implemente excelente . Su forma de enseñar es muy efectiva. Es una de las mejores instructores que conozco. Felicitaciones a Angela por compartirnos su conocimiento de forma extraordinaria y a Udemy por tenerla como instructora.",
+  "rating": 5,
+  "createdAt": {
+    "$date": "2020-12-11T03:07:32.523Z"
+  },
+  "updatedAt": {
+    "$date": "2020-12-11T03:07:32.714Z"
+  },
+  "__v": 0,
+  "author": {
+    "$oid": "5fd2e2749415c604c4c6e863"
+  }
+},{
+  "_id": {
+    "$oid": "5fd2e2749415c604c4c6e858"
+  },
+  "body": "This course is absolutely amazing! It is fantastic value for money and easily the best course on the subject that I have found. I would absolutely recommend this course to anyone thinking about learning web development. I didn't write this review until after I had completed all 50+ hours of the course and I can absolutely say that, from beginning to end, it is extraordinary. You'll be a little amazed at what you can do after completing it.",
+  "rating": 5,
+  "createdAt": {
+    "$date": "2020-12-11T03:07:32.524Z"
+  },
+  "updatedAt": {
+    "$date": "2020-12-11T03:07:32.715Z"
+  },
+  "__v": 0,
+  "author": {
+    "$oid": "5fd2e2749415c604c4c6e864"
+  }
+},{
+  "_id": {
+    "$oid": "5fd2e2749415c604c4c6e859"
+  },
+  "body": "Amazing, during this lockdown period I have managed to cover a lot of e-learning and I will without a doubt be purchasing more content from Angela. Thank you",
+  "rating": 5,
+  "createdAt": {
+    "$date": "2020-12-11T03:07:32.525Z"
+  },
+  "updatedAt": {
+    "$date": "2020-12-11T03:07:32.717Z"
+  },
+  "__v": 0,
+  "author": {
+    "$oid": "5fd2e2749415c604c4c6e865"
+  }
+},{
+  "_id": {
+    "$oid": "5fd2e2749415c604c4c6e85a"
+  },
+  "body": "I learned a lot of new technical stuff and the most importantly I got to know about online resources that Angela refers to and encourages us to use to make web development more productive. Moreover, Angela your are an amazing instructor. I didn't find a single chapter in the whole course boring, thanks to your teaching skills!",
+  "rating": 5,
+  "createdAt": {
+    "$date": "2020-12-11T03:07:32.525Z"
+  },
+  "updatedAt": {
+    "$date": "2020-12-11T03:07:32.718Z"
+  },
+  "__v": 0,
+  "author": {
+    "$oid": "5fd2e2749415c604c4c6e866"
+  }
+},{
+  "_id": {
+    "$oid": "5fd2e288c4dff025001c0805"
+  },
+  "body": "The experience was good. All the things that i have learned till now are easily understandable and compatible. Would love to make a big project using all this knowledge.\n\nThank you for sharing such great knowledge.",
+  "rating": 5,
+  "createdAt": {
+    "$date": "2020-12-11T03:07:52.576Z"
+  },
+  "updatedAt": {
+    "$date": "2020-12-11T03:07:52.798Z"
+  },
+  "__v": 0,
+  "author": {
+    "$oid": "5fd2e288c4dff025001c0811"
+  }
+},{
+  "_id": {
+    "$oid": "5fd2e288c4dff025001c0806"
+  },
+  "body": "Very good, simple to understand and follow basic rules of css. By attempting more advanced exercises, if i get stuck then i always come back to this site to follow the ground rules which helps me to understand things better.",
+  "rating": 4.5,
+  "createdAt": {
+    "$date": "2020-12-11T03:07:52.577Z"
+  },
+  "updatedAt": {
+    "$date": "2020-12-11T03:07:52.799Z"
+  },
+  "__v": 0,
+  "author": {
+    "$oid": "5fd2e288c4dff025001c0812"
+  }
+},{
+  "_id": {
+    "$oid": "5fd2e288c4dff025001c0807"
+  },
+  "body": "This is a decision I shall never regret.\n\nRob is on point, well explained course.\n\nAlthough I have no previous coding experience I can now try to build a real website. Thanks rob",
+  "rating": 5,
+  "createdAt": {
+    "$date": "2020-12-11T03:07:52.578Z"
+  },
+  "updatedAt": {
+    "$date": "2020-12-11T03:07:52.800Z"
+  },
+  "__v": 0,
+  "author": {
+    "$oid": "5fd2e288c4dff025001c0813"
+  }
+},{
+  "_id": {
+    "$oid": "5fd2e288c4dff025001c0808"
+  },
+  "body": "I will definitely recommend this course to any beginner web developer or anyone who just want to build solid basic web development understanding",
+  "rating": 5,
+  "createdAt": {
+    "$date": "2020-12-11T03:07:52.579Z"
+  },
+  "updatedAt": {
+    "$date": "2020-12-11T03:07:52.801Z"
+  },
+  "__v": 0,
+  "author": {
+    "$oid": "5fd2e288c4dff025001c0814"
+  }
+},{
+  "_id": {
+    "$oid": "5fd2e288c4dff025001c0809"
+  },
+  "body": "The Course was a great introduction to the many aspects of web development. Rob has picked the right mix of coverage to get someone moving in the directions.\n\nThe content and presentation were great!\n\nMy suggestions are;\n\n1. Create a course notes that could be used as reference as well as cover the intricacies of some of the area, ex. debugging php, python, and schematic view of arriving at MVC project.\n\n2. The final section \"where do you go from here\" could include some tips on setting up students own environment for doing web project on their own machines for practice purpose, which includes a webserver and required IDE.\n\nOverall, the course was great to follow and practice. Learnt a lot!!\n\nRegards, Tapan.",
+  "rating": 4.5,
+  "createdAt": {
+    "$date": "2020-12-11T03:07:52.580Z"
+  },
+  "updatedAt": {
+    "$date": "2020-12-11T03:07:52.802Z"
+  },
+  "__v": 0,
+  "author": {
+    "$oid": "5fd2e288c4dff025001c0815"
+  }
+},{
+  "_id": {
+    "$oid": "5fd2e288c4dff025001c080a"
+  },
+  "body": "I enjoyed the course very much, sometimes out of my depth but perhaps if I keep coding things will become easier.",
+  "rating": 5,
+  "createdAt": {
+    "$date": "2020-12-11T03:07:52.581Z"
+  },
+  "updatedAt": {
+    "$date": "2020-12-11T03:07:52.803Z"
+  },
+  "__v": 0,
+  "author": {
+    "$oid": "5fd2e288c4dff025001c0816"
+  }
+},{
+  "_id": {
+    "$oid": "5fd2e288c4dff025001c080b"
+  },
+  "body": "All in all I have learned some great skills and managed to create a fully fledged website. There are about 3 or 4 places where a note comes up on screen to say that what is being taught is out of date and to do something else, if you aren't looking at the screen at that point in time (if you are working on what is being said at the time for example) you can end up wasting a few hours, perhaps an audio cue could help. Also would advise taking the exams after completing the course and re-visiting each unit, as for me some of the questions in the exams related to later in the course. I would recommend this course if you are a determined person who can problem solve well (which are skills you need for web development anyway), but think the UX could have been better with refreshed/overhauled content.",
+  "rating": 3.5,
+  "createdAt": {
+    "$date": "2020-12-11T03:07:52.582Z"
+  },
+  "updatedAt": {
+    "$date": "2020-12-11T03:07:52.804Z"
+  },
+  "__v": 0,
+  "author": {
+    "$oid": "5fd2e288c4dff025001c0817"
+  }
+},{
+  "_id": {
+    "$oid": "5fd2e288c4dff025001c080c"
+  },
+  "body": "The main reason I took the course is to add jquery, bootstrap, PHP, APIs, and some python to the other skills that I already have so that I can build a complete website.",
+  "rating": 4,
+  "createdAt": {
+    "$date": "2020-12-11T03:07:52.583Z"
+  },
+  "updatedAt": {
+    "$date": "2020-12-11T03:07:52.807Z"
+  },
+  "__v": 0,
+  "author": {
+    "$oid": "5fd2e288c4dff025001c0818"
+  }
+},{
+  "_id": {
+    "$oid": "5fd2e288c4dff025001c080d"
+  },
+  "body": "The firsts sections were pretty good, but I couldn't learn much after the bootstrap section. After that section, I'd just followed along because I couldn't understand the process anymore.",
+  "rating": 3.5,
+  "createdAt": {
+    "$date": "2020-12-11T03:07:52.584Z"
+  },
+  "updatedAt": {
+    "$date": "2020-12-11T03:07:52.807Z"
+  },
+  "__v": 0,
+  "author": {
+    "$oid": "5fd2e288c4dff025001c0819"
+  }
+},{
+  "_id": {
+    "$oid": "5fd2e288c4dff025001c080e"
+  },
+  "body": "This was my first purchase on Udemy and I have to say I was impressed. I have prior experience working in web development, so some subjects were easier for me than most. I thought Rob's way of teaching was done very well and would recommend his course to anyone starting out in web development. The instructional videos with quizzes and the community are top notch. Thank you, Rob, for your knowledge and I look forward to some of your courses in the future.",
+  "rating": 4,
+  "createdAt": {
+    "$date": "2020-12-11T03:07:52.585Z"
+  },
+  "updatedAt": {
+    "$date": "2020-12-11T03:07:52.808Z"
+  },
+  "__v": 0,
+  "author": {
+    "$oid": "5fd2e288c4dff025001c081a"
+  }
+},{
+  "_id": {
+    "$oid": "5fd2e288c4dff025001c080f"
+  },
+  "body": "It was an amazing course.I had no prior knowledge related to web development and after completing this course,I am confident to make websites on my own.The explanations where really helpful throughout the course.",
+  "rating": 5,
+  "createdAt": {
+    "$date": "2020-12-11T03:07:52.586Z"
+  },
+  "updatedAt": {
+    "$date": "2020-12-11T03:07:52.809Z"
+  },
+  "__v": 0,
+  "author": {
+    "$oid": "5fd2e288c4dff025001c081b"
+  }
+},{
+  "_id": {
+    "$oid": "5fd2e288c4dff025001c0810"
+  },
+  "body": "I was really pleased with the course and how available the teacher was in the Q&A section. The only thing that was bad in my opinion is that it lacked more challenging quizes related to the sections.",
+  "rating": 4,
+  "createdAt": {
+    "$date": "2020-12-11T03:07:52.586Z"
+  },
+  "updatedAt": {
+    "$date": "2020-12-11T03:07:52.809Z"
+  },
+  "__v": 0,
+  "author": {
+    "$oid": "5fd2e288c4dff025001c081c"
+  }
+},{
+  "_id": {
+    "$oid": "5fd2e29bd7b55239ac19ab74"
+  },
+  "body": "It's an amazingly well organized detailed course. It would be great if this course also adds a way typescript is used in building react applications for the basic libraries used here.",
+  "rating": 5,
+  "createdAt": {
+    "$date": "2020-12-11T03:08:11.189Z"
+  },
+  "updatedAt": {
+    "$date": "2020-12-11T03:08:11.443Z"
+  },
+  "__v": 0,
+  "author": {
+    "$oid": "5fd2e29bd7b55239ac19ab80"
+  }
+},{
+  "_id": {
+    "$oid": "5fd2e29bd7b55239ac19ab75"
+  },
+  "body": "This is a pretty thorough explanation of react. Mr Grider doesn't only help you understand what is happening he also answers the question why.",
+  "rating": 5,
+  "createdAt": {
+    "$date": "2020-12-11T03:08:11.190Z"
+  },
+  "updatedAt": {
+    "$date": "2020-12-11T03:08:11.444Z"
+  },
+  "__v": 0,
+  "author": {
+    "$oid": "5fd2e29bd7b55239ac19ab81"
+  }
+},{
+  "_id": {
+    "$oid": "5fd2e29bd7b55239ac19ab76"
+  },
+  "body": "Stephen has extraordinary talent in both on the subject and on teaching. He went into minute details of each concept and explained. This is definitely one of the best courses on ReactJS.",
+  "rating": 5,
+  "createdAt": {
+    "$date": "2020-12-11T03:08:11.192Z"
+  },
+  "updatedAt": {
+    "$date": "2020-12-11T03:08:11.445Z"
+  },
+  "__v": 0,
+  "author": {
+    "$oid": "5fd2e29bd7b55239ac19ab82"
+  }
+},{
+  "_id": {
+    "$oid": "5fd2e29bd7b55239ac19ab77"
+  },
+  "body": "Excelente explicación para las personas que disfrutan estar como \"en una clase\" donde hay una ruta pero no se siente robotizado. Excelentes explicaciones con aplicaciones diversas. Sólo sería conveniente mover parte del material antiguo a otro curso para que no fuera necesario verlo/saltarlo",
+  "rating": 4.5,
+  "createdAt": {
+    "$date": "2020-12-11T03:08:11.193Z"
+  },
+  "updatedAt": {
+    "$date": "2020-12-11T03:08:11.446Z"
+  },
+  "__v": 0,
+  "author": {
+    "$oid": "5fd2e29bd7b55239ac19ab83"
+  }
+},{
+  "_id": {
+    "$oid": "5fd2e29bd7b55239ac19ab78"
+  },
+  "body": "I completed the course except for the legacy parts. This was my first React + Redux course, so I can't compare this to others, but as proven by many other reviews, this was an amazing course. All aspects of react and redux were explained so well I was able to understand the fundamental ideas and advanced knowledge. Also, throughout the course, we built around 10 projects, in which we focused on the react and redux part, not on stylings, which I loved it since we had enough time to discuss all details of react and redux. Thanks so much Stephen and please keep updating the course with the newest content, so that it can be the one top of the React course on Udemy.",
+  "rating": 5,
+  "createdAt": {
+    "$date": "2020-12-11T03:08:11.194Z"
+  },
+  "updatedAt": {
+    "$date": "2020-12-11T03:08:11.446Z"
+  },
+  "__v": 0,
+  "author": {
+    "$oid": "5fd2e29bd7b55239ac19ab84"
+  }
+},{
+  "_id": {
+    "$oid": "5fd2e29bd7b55239ac19ab79"
+  },
+  "body": "In one sentence: this is the best React and Redux course you can find on Udemy. I've purchased more than 10 courses this year. This is the best of the best!! If you can only learn one course on ReactJS, look no far, this is it! Stephen is also the best instructor on web development (actually on computer science, I'd say). The course is super organized. And the pace of the course is very comfortable. You can follow him step by step with no problem. I'll purchase more courses from Stephen for sure! 100000/100 Recommend!!!",
+  "rating": 5,
+  "createdAt": {
+    "$date": "2020-12-11T03:08:11.195Z"
+  },
+  "updatedAt": {
+    "$date": "2020-12-11T03:08:11.447Z"
+  },
+  "__v": 0,
+  "author": {
+    "$oid": "5fd2e29bd7b55239ac19ab85"
+  }
+},{
+  "_id": {
+    "$oid": "5fd2e29bd7b55239ac19ab7a"
+  },
+  "body": "Stephen is an experienced teacher. The coarse starts with the basics, requiring almost no prior experience with JS or React, yet quickly and efficiently builds in complexity. The lessons are pragmatic, yet layered with theory and real-world experience; he explains both the right and wrong way of doing things and hammers it in with repetition. It really includes everything, even free-tier hosting to help get your portfolio started. Highly recommended, I look forward to Stephen's other classes!",
+  "rating": 5,
+  "createdAt": {
+    "$date": "2020-12-11T03:08:11.196Z"
+  },
+  "updatedAt": {
+    "$date": "2020-12-11T03:08:11.448Z"
+  },
+  "__v": 0,
+  "author": {
+    "$oid": "5fd2e29bd7b55239ac19ab86"
+  }
+},{
+  "_id": {
+    "$oid": "5fd2e29bd7b55239ac19ab7b"
+  },
+  "body": "The best course I have enrolled on Udemy! Stephen explained not only React but also modern Javascript concepts. The sample projects are funny and good for learning.",
+  "rating": 5,
+  "createdAt": {
+    "$date": "2020-12-11T03:08:11.197Z"
+  },
+  "updatedAt": {
+    "$date": "2020-12-11T03:08:11.449Z"
+  },
+  "__v": 0,
+  "author": {
+    "$oid": "5fd2e29bd7b55239ac19ab87"
+  }
+},{
+  "_id": {
+    "$oid": "5fd2e29bd7b55239ac19ab7c"
+  },
+  "body": "This course contains really detailed clarification of different React concepts. Moreover, the explanations provided by Stephen contain bonus content gained from his experience. I would only criticize the repetitiveness of few topics which were mentioned throughout the course. Although some of them were focused on different versions of the same library, a few of them were simply repeated too many times for the same version of a given library (at least too many times in my opinion). But overall, an amazing course!",
+  "rating": 4.5,
+  "createdAt": {
+    "$date": "2020-12-11T03:08:11.198Z"
+  },
+  "updatedAt": {
+    "$date": "2020-12-11T03:08:11.450Z"
+  },
+  "__v": 0,
+  "author": {
+    "$oid": "5fd2e29bd7b55239ac19ab88"
+  }
+},{
+  "_id": {
+    "$oid": "5fd2e29bd7b55239ac19ab7d"
+  },
+  "body": "A well detailed react course beyond any I've ever watched. If you want a complete react course, this is the best option I've seen so far.",
+  "rating": 5,
+  "createdAt": {
+    "$date": "2020-12-11T03:08:11.199Z"
+  },
+  "updatedAt": {
+    "$date": "2020-12-11T03:08:11.451Z"
+  },
+  "__v": 0,
+  "author": {
+    "$oid": "5fd2e29bd7b55239ac19ab89"
+  }
+},{
+  "_id": {
+    "$oid": "5fd2e29bd7b55239ac19ab7e"
+  },
+  "body": "This course is fantastic! Stephen presents the topics by using diagrams that are super easy to understand and gives the details of each topic in a deep way. I really recommend this course.",
+  "rating": 4.5,
+  "createdAt": {
+    "$date": "2020-12-11T03:08:11.200Z"
+  },
+  "updatedAt": {
+    "$date": "2020-12-11T03:08:11.452Z"
+  },
+  "__v": 0,
+  "author": {
+    "$oid": "5fd2e29bd7b55239ac19ab8a"
+  }
+},{
+  "_id": {
+    "$oid": "5fd2e29bd7b55239ac19ab7f"
+  },
+  "body": "course is good, too detailed at times, instructor is good, i would improve it by adding more testing and exercises, also could be of shorter length",
+  "rating": 5,
+  "createdAt": {
+    "$date": "2020-12-11T03:08:11.201Z"
+  },
+  "updatedAt": {
+    "$date": "2020-12-11T03:08:11.453Z"
+  },
+  "__v": 0,
+  "author": {
+    "$oid": "5fd2e29bd7b55239ac19ab8b"
+  }
+},{
+  "_id": {
+    "$oid": "5fd2e2bd3529df49d08aecf4"
+  },
+  "body": "Je ne peux que recommander ce cours : tant sur le fond que sur la forme.\n\nMaximilian est très compréhensible et son cours est très complet : au niveau théorique c'est parfait, mais les occasions de mettre les connaissances en pratique ne manquent pas.",
+  "rating": 5,
+  "createdAt": {
+    "$date": "2020-12-11T03:08:45.028Z"
+  },
+  "updatedAt": {
+    "$date": "2020-12-11T03:08:45.321Z"
+  },
+  "__v": 0,
+  "author": {
+    "$oid": "5fd2e2bd3529df49d08aed00"
+  }
+},{
+  "_id": {
+    "$oid": "5fd2e2bd3529df49d08aecf5"
+  },
+  "body": "Holy moly, I really thought I need to brush up when Vue 3 is released. But Max updated the course... for FREE!\n\nThis is top-notch education right here!",
+  "rating": 5,
+  "createdAt": {
+    "$date": "2020-12-11T03:08:45.030Z"
+  },
+  "updatedAt": {
+    "$date": "2020-12-11T03:08:45.322Z"
+  },
+  "__v": 0,
+  "author": {
+    "$oid": "5fd2e2bd3529df49d08aed01"
+  }
+},{
+  "_id": {
+    "$oid": "5fd2e2bd3529df49d08aecf6"
+  },
+  "body": "¡Excelente curso, excelente instructor! Se nota muchísimo la experiencia y conocimiento del instructor, sabe explicar de forma clara y precisa.",
+  "rating": 5,
+  "createdAt": {
+    "$date": "2020-12-11T03:08:45.031Z"
+  },
+  "updatedAt": {
+    "$date": "2020-12-11T03:08:45.323Z"
+  },
+  "__v": 0,
+  "author": {
+    "$oid": "5fd2e2bd3529df49d08aed02"
+  }
+},{
+  "_id": {
+    "$oid": "5fd2e2bd3529df49d08aecf7"
+  },
+  "body": "Your efforts are incredible. Thanks",
+  "rating": 4,
+  "createdAt": {
+    "$date": "2020-12-11T03:08:45.032Z"
+  },
+  "updatedAt": {
+    "$date": "2020-12-11T03:08:45.323Z"
+  },
+  "__v": 0,
+  "author": {
+    "$oid": "5fd2e2bd3529df49d08aed03"
+  }
+},{
+  "_id": {
+    "$oid": "5fd2e2bd3529df49d08aecf8"
+  },
+  "body": "Maximilian Schwarzmüller is a great teacher to learn. He has amazing knowledge about Web Development and next-gen technologies in Software Development.\n\nHis course is easy to understand and catch up not only by his deep knowledge but also explaining very mindfully.\n\nDespite of some lessons is confused to me, it is not a big deal. I can still handle in my company projects",
+  "rating": 4.5,
+  "createdAt": {
+    "$date": "2020-12-11T03:08:45.033Z"
+  },
+  "updatedAt": {
+    "$date": "2020-12-11T03:08:45.324Z"
+  },
+  "__v": 0,
+  "author": {
+    "$oid": "5fd2e2bd3529df49d08aed04"
+  }
+},{
+  "_id": {
+    "$oid": "5fd2e2bd3529df49d08aecf9"
+  },
+  "body": "This course is excellent! It coveres Vue.js theory in full. Information in all modules is well explained and structured. Though some videos should be updated so to keep the course up to date from the very beginning.\n\nMax is really a great, skilled and experienced instructor explaining everything in a very detailed and understandable way! Thanks! :)",
+  "rating": 5,
+  "createdAt": {
+    "$date": "2020-12-11T03:08:45.034Z"
+  },
+  "updatedAt": {
+    "$date": "2020-12-11T03:08:45.325Z"
+  },
+  "__v": 0,
+  "author": {
+    "$oid": "5fd2e2bd3529df49d08aed05"
+  }
+},{
+  "_id": {
+    "$oid": "5fd2e2bd3529df49d08aecfa"
+  },
+  "body": "Mr. S is an absolutely amazing teacher. He goes in depth into even the smallest details and delves deep into the information, all while keeping the topics interesting and and the lectures engaging. 5/5 stars for sure. PS. His accent is also super cool.",
+  "rating": 5,
+  "createdAt": {
+    "$date": "2020-12-11T03:08:45.035Z"
+  },
+  "updatedAt": {
+    "$date": "2020-12-11T03:08:45.326Z"
+  },
+  "__v": 0,
+  "author": {
+    "$oid": "5fd2e2bd3529df49d08aed06"
+  }
+},{
+  "_id": {
+    "$oid": "5fd2e2bd3529df49d08aecfb"
+  },
+  "body": "As the title of the course already says: it is a very complete dive into Vue. The sections are split up into small and easy to follow lectures. Every section is accompanied by good example applications and one big application that can be very useful as a reference project.\n\nI bought this course a few days before the Vue 3 content was released which was added to the same course.",
+  "rating": 5,
+  "createdAt": {
+    "$date": "2020-12-11T03:08:45.036Z"
+  },
+  "updatedAt": {
+    "$date": "2020-12-11T03:08:45.326Z"
+  },
+  "__v": 0,
+  "author": {
+    "$oid": "5fd2e2bd3529df49d08aed07"
+  }
+},{
+  "_id": {
+    "$oid": "5fd2e2bd3529df49d08aecfc"
+  },
+  "body": "Max explain the material with great patience and detail.\n\nThis course is very professional and deserves only 5 starts!! no less :)",
+  "rating": 5,
+  "createdAt": {
+    "$date": "2020-12-11T03:08:45.037Z"
+  },
+  "updatedAt": {
+    "$date": "2020-12-11T03:08:45.327Z"
+  },
+  "__v": 0,
+  "author": {
+    "$oid": "5fd2e2bd3529df49d08aed08"
+  }
+},{
+  "_id": {
+    "$oid": "5fd2e2bd3529df49d08aecfd"
+  },
+  "body": "easy understanding, great mentor, gud exercises, useful assignments, and a good start for beginners",
+  "rating": 5,
+  "createdAt": {
+    "$date": "2020-12-11T03:08:45.038Z"
+  },
+  "updatedAt": {
+    "$date": "2020-12-11T03:08:45.328Z"
+  },
+  "__v": 0,
+  "author": {
+    "$oid": "5fd2e2bd3529df49d08aed09"
+  }
+},{
+  "_id": {
+    "$oid": "5fd2e2bd3529df49d08aecfe"
+  },
+  "body": "Very in depth look at Vue 2/3 a as well as Vue Router and Vuex. I love how the course was updated as soon as Vue 3 was released.",
+  "rating": 5,
+  "createdAt": {
+    "$date": "2020-12-11T03:08:45.039Z"
+  },
+  "updatedAt": {
+    "$date": "2020-12-11T03:08:45.328Z"
+  },
+  "__v": 0,
+  "author": {
+    "$oid": "5fd2e2bd3529df49d08aed0a"
+  }
+},{
+  "_id": {
+    "$oid": "5fd2e2bd3529df49d08aecff"
+  },
+  "body": "In the updated course I miss the assignments with each lecture. All the explanations are to the point and well structured. Just as a side note, do not expect Max to teach you everything, try and do stuff on your own!",
+  "rating": 5,
+  "createdAt": {
+    "$date": "2020-12-11T03:08:45.039Z"
+  },
+  "updatedAt": {
+    "$date": "2020-12-11T03:08:45.329Z"
+  },
+  "__v": 0,
+  "author": {
+    "$oid": "5fd2e2bd3529df49d08aed0b"
+  }
+},{
+  "_id": {
+    "$oid": "5fd2e2cda20adc4a5cfa1852"
+  },
+  "body": "I genuinely and whole heartedly cannot explain just how good this course actually is. I dived in head first, completely unsure on what to expect AND with zero experience of programming. Four weeks later, I emerge the other side, not only blown away by how amazing the content was, but with the confidence to create my own web applications. I honestly don't think I can describe just how worthwhile this course is. I'm already signing up for the senior dev course. Thank you, Andrei and Wolfgang.",
+  "rating": 5,
+  "createdAt": {
+    "$date": "2020-12-11T03:09:01.426Z"
+  },
+  "updatedAt": {
+    "$date": "2020-12-11T03:09:01.739Z"
+  },
+  "__v": 0,
+  "author": {
+    "$oid": "5fd2e2cda20adc4a5cfa185e"
+  }
+},{
+  "_id": {
+    "$oid": "5fd2e2cda20adc4a5cfa1853"
+  },
+  "body": "It a good course that touches almost all the fields that is required to be a professional web developer. This course will not give you complete knowledge about everything that is required by the employers, but it will show you the path to reach your destination.",
+  "rating": 5,
+  "createdAt": {
+    "$date": "2020-12-11T03:09:01.427Z"
+  },
+  "updatedAt": {
+    "$date": "2020-12-11T03:09:01.740Z"
+  },
+  "__v": 0,
+  "author": {
+    "$oid": "5fd2e2cda20adc4a5cfa185f"
+  }
+},{
+  "_id": {
+    "$oid": "5fd2e2cda20adc4a5cfa1854"
+  },
+  "body": "this course can change my whole life. so many question i have before purchase this course but at the end i found so much valuable skills that so much expensive than what we pay .\n\nAndrew are really really number one Teacher . Thank you so much",
+  "rating": 5,
+  "createdAt": {
+    "$date": "2020-12-11T03:09:01.428Z"
+  },
+  "updatedAt": {
+    "$date": "2020-12-11T03:09:01.741Z"
+  },
+  "__v": 0,
+  "author": {
+    "$oid": "5fd2e2cda20adc4a5cfa1860"
+  }
+},{
+  "_id": {
+    "$oid": "5fd2e2cda20adc4a5cfa1855"
+  },
+  "body": "Great course that covers all the topics you will need to grasp to get into the world of web development. Great instructor that knows how to teach so that we as the students can take out from it as much as we can!!! <3",
+  "rating": 4.5,
+  "createdAt": {
+    "$date": "2020-12-11T03:09:01.430Z"
+  },
+  "updatedAt": {
+    "$date": "2020-12-11T03:09:01.742Z"
+  },
+  "__v": 0,
+  "author": {
+    "$oid": "5fd2e2cda20adc4a5cfa1861"
+  }
+},{
+  "_id": {
+    "$oid": "5fd2e2cda20adc4a5cfa1856"
+  },
+  "body": "This is not only great course! This is much more: wide society that helps, perfect support, a lot of non-technical information about IT field (so important when you start). It learned how to solve problems not only how to followed the content.\n\nA lot of time, but it worth every minutes.\n\nThanks a lot!",
+  "rating": 5,
+  "createdAt": {
+    "$date": "2020-12-11T03:09:01.431Z"
+  },
+  "updatedAt": {
+    "$date": "2020-12-11T03:09:01.743Z"
+  },
+  "__v": 0,
+  "author": {
+    "$oid": "5fd2e2cda20adc4a5cfa1862"
+  }
+},{
+  "_id": {
+    "$oid": "5fd2e2cda20adc4a5cfa1857"
+  },
+  "body": "The best course to understand how the internet and web applications work, without a doubt Andrei is the best teacher I have known throughout this wonderful world of web development.",
+  "rating": 5,
+  "createdAt": {
+    "$date": "2020-12-11T03:09:01.432Z"
+  },
+  "updatedAt": {
+    "$date": "2020-12-11T03:09:01.744Z"
+  },
+  "__v": 0,
+  "author": {
+    "$oid": "5fd2e2cda20adc4a5cfa1863"
+  }
+},{
+  "_id": {
+    "$oid": "5fd2e2cda20adc4a5cfa1858"
+  },
+  "body": "I personally loved the course, the only downside is HEROKU. Not That Heroku is not Good. But there more efficient and DIFFERENT Cloud Services Like AWS and GCP which should have been taught in the Project. Heroku was so damn simple that I didn't need the tutorial.",
+  "rating": 4.5,
+  "createdAt": {
+    "$date": "2020-12-11T03:09:01.433Z"
+  },
+  "updatedAt": {
+    "$date": "2020-12-11T03:09:01.744Z"
+  },
+  "__v": 0,
+  "author": {
+    "$oid": "5fd2e2cda20adc4a5cfa1864"
+  }
+},{
+  "_id": {
+    "$oid": "5fd2e2cda20adc4a5cfa1859"
+  },
+  "body": "Thank you Andrei and team for this amazing course! I can say this is more than an introduction to web development. It covers a lot that I think it is gearing towards the advanced stage which is great! I won't lie that there were concepts that I don't grasp at first but it taught me to do some work on my own like checking documentations, searching google/stackoverflow to better understand them. Highly recommended!",
+  "rating": 5,
+  "createdAt": {
+    "$date": "2020-12-11T03:09:01.433Z"
+  },
+  "updatedAt": {
+    "$date": "2020-12-11T03:09:01.745Z"
+  },
+  "__v": 0,
+  "author": {
+    "$oid": "5fd2e2cda20adc4a5cfa1865"
+  }
+},{
+  "_id": {
+    "$oid": "5fd2e2cda20adc4a5cfa185a"
+  },
+  "body": "I cannot be more happier that I bought this course, as well as finished it! I like the way Andrei teaches, except had some issues with PostgreSQL, as I was using Windows (would not like to use it on this OS). Detalized, yet still challenging, as so many useful and interesting resources for finding out myself the issues or just reading and learning! Thank you!",
+  "rating": 5,
+  "createdAt": {
+    "$date": "2020-12-11T03:09:01.434Z"
+  },
+  "updatedAt": {
+    "$date": "2020-12-11T03:09:01.747Z"
+  },
+  "__v": 0,
+  "author": {
+    "$oid": "5fd2e2cda20adc4a5cfa1866"
+  }
+},{
+  "_id": {
+    "$oid": "5fd2e2cda20adc4a5cfa185b"
+  },
+  "body": "I liked the course alot, Andrei is a good teacher but what i didnt liked he is never there to help students and students cant help other students in advanced things as they are also students . One more things I didnt liked that he attach articles all the time in his videos and always says that read from attached article. He should discuss in details those things as students comes from different background which is not programming. overall Andrei has a very good knowledge no doubt on it . But he should changed his way of teaching a bit.",
+  "rating": 3,
+  "createdAt": {
+    "$date": "2020-12-11T03:09:01.435Z"
+  },
+  "updatedAt": {
+    "$date": "2020-12-11T03:09:01.747Z"
+  },
+  "__v": 0,
+  "author": {
+    "$oid": "5fd2e2cda20adc4a5cfa1867"
+  }
+},{
+  "_id": {
+    "$oid": "5fd2e2cda20adc4a5cfa185c"
+  },
+  "body": "while going through the course it feels like i am in one-to-one training, the way you teach is absolutely amazing! Thank you so much Andrei.",
+  "rating": 5,
+  "createdAt": {
+    "$date": "2020-12-11T03:09:01.436Z"
+  },
+  "updatedAt": {
+    "$date": "2020-12-11T03:09:01.748Z"
+  },
+  "__v": 0,
+  "author": {
+    "$oid": "5fd2e2cda20adc4a5cfa1868"
+  }
+},{
+  "_id": {
+    "$oid": "5fd2e2cda20adc4a5cfa185d"
+  },
+  "body": "In-depth explanation of course topics. Focuses on the recent and most used skills needed to become a full-stack web developer. Provides a community to connect with other students and open-source projects.",
+  "rating": 5,
+  "createdAt": {
+    "$date": "2020-12-11T03:09:01.437Z"
+  },
+  "updatedAt": {
+    "$date": "2020-12-11T03:09:01.749Z"
+  },
+  "__v": 0,
+  "author": {
+    "$oid": "5fd2e2cda20adc4a5cfa1869"
+  }
+},{
+  "_id": {
+    "$oid": "5fd2e2e36993482b204fbf6c"
+  },
+  "body": "You are a very good teacher that you can explain difficult concepts very well. Appreciate your effort to make animation to illustrate some of the concepts. The last few section on jQuery is quite difficult and I need to watch it a few times to fully grasp how it works. Still, more examples like this are worthwhile.",
+  "rating": 4,
+  "createdAt": {
+    "$date": "2020-12-11T03:09:23.602Z"
+  },
+  "updatedAt": {
+    "$date": "2020-12-11T03:09:23.941Z"
+  },
+  "__v": 0,
+  "author": {
+    "$oid": "5fd2e2e36993482b204fbf78"
+  }
+},{
+  "_id": {
+    "$oid": "5fd2e2e36993482b204fbf6d"
+  },
+  "body": "very mush worth for time, I would highly recommend this course, Amazing course, with a lot of aha moments, as Tony says.\n\nThe only reason for leaving out one star on the review is \"the course has to be updated\".",
+  "rating": 4,
+  "createdAt": {
+    "$date": "2020-12-11T03:09:23.603Z"
+  },
+  "updatedAt": {
+    "$date": "2020-12-11T03:09:23.943Z"
+  },
+  "__v": 0,
+  "author": {
+    "$oid": "5fd2e2e36993482b204fbf79"
+  }
+},{
+  "_id": {
+    "$oid": "5fd2e2e36993482b204fbf6e"
+  },
+  "body": "Learnt a great deal without any prior knowledge of JS. The best course I have found out there. Very well done Tony, thank you :)",
+  "rating": 5,
+  "createdAt": {
+    "$date": "2020-12-11T03:09:23.604Z"
+  },
+  "updatedAt": {
+    "$date": "2020-12-11T03:09:23.943Z"
+  },
+  "__v": 0,
+  "author": {
+    "$oid": "5fd2e2e36993482b204fbf7a"
+  }
+},{
+  "_id": {
+    "$oid": "5fd2e2e36993482b204fbf6f"
+  },
+  "body": "This course made me think about JavaScript in a different way. It provided beautiful insight on topics about OOP, functions, execution contexts, lexical environments. The teacher has a big knowledge about JS and helped a lot, helped me to understand the subjects I mentioned above, because of his beautiful way of explaining things. He sounds very confident and clear, and with just a little amount of focus when listening to him, You can understand each topic nicely. I recommend this course to anyone, especially beginners.",
+  "rating": 5,
+  "createdAt": {
+    "$date": "2020-12-11T03:09:23.605Z"
+  },
+  "updatedAt": {
+    "$date": "2020-12-11T03:09:23.944Z"
+  },
+  "__v": 0,
+  "author": {
+    "$oid": "5fd2e2e36993482b204fbf7b"
+  }
+},{
+  "_id": {
+    "$oid": "5fd2e2e36993482b204fbf70"
+  },
+  "body": "It was a very informative course. I, even as a beginner, was able to understand the topics so well. It was detailed and explained very beautifully. Thank you.",
+  "rating": 5,
+  "createdAt": {
+    "$date": "2020-12-11T03:09:23.607Z"
+  },
+  "updatedAt": {
+    "$date": "2020-12-11T03:09:23.945Z"
+  },
+  "__v": 0,
+  "author": {
+    "$oid": "5fd2e2e36993482b204fbf7c"
+  }
+},{
+  "_id": {
+    "$oid": "5fd2e2e36993482b204fbf71"
+  },
+  "body": "Desde que vi los primeros conceptos en el video inicial se aclararon muchas dudas, gracias por darnos acceso a esa informacion.\n\ny por supuesto quiero agradecer al profesor Anthony Alicea cuyo excelente estilo y pasion por educar nos lleno de profundos conocimientos.",
+  "rating": 5,
+  "createdAt": {
+    "$date": "2020-12-11T03:09:23.608Z"
+  },
+  "updatedAt": {
+    "$date": "2020-12-11T03:09:23.945Z"
+  },
+  "__v": 0,
+  "author": {
+    "$oid": "5fd2e2e36993482b204fbf7d"
+  }
+},{
+  "_id": {
+    "$oid": "5fd2e2e36993482b204fbf72"
+  },
+  "body": "Curso bien explicado, con detalles de las cosas que pueden ser complejas y \"obscuras\". Recomendado para principiantes e intermedios.",
+  "rating": 5,
+  "createdAt": {
+    "$date": "2020-12-11T03:09:23.609Z"
+  },
+  "updatedAt": {
+    "$date": "2020-12-11T03:09:23.946Z"
+  },
+  "__v": 0,
+  "author": {
+    "$oid": "5fd2e2e36993482b204fbf7e"
+  }
+},{
+  "_id": {
+    "$oid": "5fd2e2e36993482b204fbf73"
+  },
+  "body": "I learned a lot about JavaScript! Being JavaScript my first programming language to learn it was challeging but also fun going in depth into the concepts of object oriented programming. For me the content of the course was dense, but being able to understand it finally was satisfying. The teacher is often repeating the same thing using different phrasing, which might help to double check if someting is clear, but for me sometimes it was a little confusing.",
+  "rating": 5,
+  "createdAt": {
+    "$date": "2020-12-11T03:09:23.609Z"
+  },
+  "updatedAt": {
+    "$date": "2020-12-11T03:09:23.947Z"
+  },
+  "__v": 0,
+  "author": {
+    "$oid": "5fd2e2e36993482b204fbf7f"
+  }
+},{
+  "_id": {
+    "$oid": "5fd2e2e36993482b204fbf74"
+  },
+  "body": "WOW!\n\nThis course is amazing, I've been using javascript for a long time, and this course was the missing piece of the puzzle for me to truly understand how it works.\n\nThis course is not for beginners, you won't waste your time learning how to make a for loop. If you already know the basics, it will take you to a completely different level, even if you think you know javascript well.\n\nThank you!",
+  "rating": 5,
+  "createdAt": {
+    "$date": "2020-12-11T03:09:23.610Z"
+  },
+  "updatedAt": {
+    "$date": "2020-12-11T03:09:23.947Z"
+  },
+  "__v": 0,
+  "author": {
+    "$oid": "5fd2e2e36993482b204fbf80"
+  }
+},{
+  "_id": {
+    "$oid": "5fd2e2e36993482b204fbf75"
+  },
+  "body": "Amazing, i have tried to read many books to understand Javascript but end up with many question marks. But this course open up my mind and give me bright undestanding. Make something sound very complex to soo simple. Tanks for you Tony. I hope you make more course around Javascript full stack like MongoDb, Express, React-ReactNative, and Nodejs.",
+  "rating": 5,
+  "createdAt": {
+    "$date": "2020-12-11T03:09:23.611Z"
+  },
+  "updatedAt": {
+    "$date": "2020-12-11T03:09:23.948Z"
+  },
+  "__v": 0,
+  "author": {
+    "$oid": "5fd2e2e36993482b204fbf81"
+  }
+},{
+  "_id": {
+    "$oid": "5fd2e2e36993482b204fbf76"
+  },
+  "body": "Me parece que he hecho una excelente elección. Es el curso que buscaba sobre JS. Agradezco a Anthony por todo lo que aquí he aprendido.",
+  "rating": 5,
+  "createdAt": {
+    "$date": "2020-12-11T03:09:23.612Z"
+  },
+  "updatedAt": {
+    "$date": "2020-12-11T03:09:23.949Z"
+  },
+  "__v": 0,
+  "author": {
+    "$oid": "5fd2e2e36993482b204fbf82"
+  }
+},{
+  "_id": {
+    "$oid": "5fd2e2e36993482b204fbf77"
+  },
+  "body": "This is by far the best course on Javascript that I have come across. I'm not even halfway through the course and I've had like 9 \"aaaaha\" moments. If I had taken this course sooner. I would have saved myself \"weeks\", literal \"weeks\" worth of time at work (I am a full time web developer coding primarily in JS for a little over the past year) because the concepts discussed in this course are fundamental to debugging (production) code! I'm excited for the rest of this course.\n\nUPDATE: Halfway through the course, it's important to run some of the code in the console to see the differences in how JS works now as compared to when Anthony taught the course. Such a gem of a course, I love how it's focused on the bare bones of how JS works under the hood! Every serious JS programmer should attempt to learn the concepts in this course. Love it!",
+  "rating": 5,
+  "createdAt": {
+    "$date": "2020-12-11T03:09:23.613Z"
+  },
+  "updatedAt": {
+    "$date": "2020-12-11T03:09:23.950Z"
+  },
+  "__v": 0,
+  "author": {
+    "$oid": "5fd2e2e36993482b204fbf83"
+  }
+},{
+  "_id": {
+    "$oid": "5fd2e2fbb8bc964a5c8257c6"
+  },
+  "body": "Thanks Jose for the in-deep walkthrough web development with Django in python.\n\nI can only provide positive appreciations for this course. well structured, lots of relevant examples and excellent explanation. I recommend this course although further development of skills is needed to be a complete full-stack. Farewell.",
+  "rating": 5,
+  "createdAt": {
+    "$date": "2020-12-11T03:09:47.780Z"
+  },
+  "updatedAt": {
+    "$date": "2020-12-11T03:09:48.145Z"
+  },
+  "__v": 0,
+  "author": {
+    "$oid": "5fd2e2fbb8bc964a5c8257d2"
+  }
+},{
+  "_id": {
+    "$oid": "5fd2e2fbb8bc964a5c8257c7"
+  },
+  "body": "This course gave me a good grasp on Django and kept me engaged the entire time. Jose is an excellent instructor. Highly recommended for anyone interested in Django.",
+  "rating": 4.5,
+  "createdAt": {
+    "$date": "2020-12-11T03:09:47.781Z"
+  },
+  "updatedAt": {
+    "$date": "2020-12-11T03:09:48.146Z"
+  },
+  "__v": 0,
+  "author": {
+    "$oid": "5fd2e2fbb8bc964a5c8257d3"
+  }
+},{
+  "_id": {
+    "$oid": "5fd2e2fbb8bc964a5c8257c8"
+  },
+  "body": "Very good course, shame it movies are not updated with new versions of django and python, but it actually forces you to search for yourself through the documentation and webpages, to fix some issues, therefor makes you remember and understand more. Well done and thank you! And this is not a big issue, just few minor changes, so it is pretty awsome to encourage to update yourself with new knowledge",
+  "rating": 4.5,
+  "createdAt": {
+    "$date": "2020-12-11T03:09:47.783Z"
+  },
+  "updatedAt": {
+    "$date": "2020-12-11T03:09:48.147Z"
+  },
+  "__v": 0,
+  "author": {
+    "$oid": "5fd2e2fbb8bc964a5c8257d4"
+  }
+},{
+  "_id": {
+    "$oid": "5fd2e2fbb8bc964a5c8257c9"
+  },
+  "body": "There is a lot in this course and he covered them all very well. The good part is ,everything he live coded and that make things clear .I feel this course gave me way more knowledge than i paid for this.Thanks a lot jose for publishing this course.",
+  "rating": 5,
+  "createdAt": {
+    "$date": "2020-12-11T03:09:47.784Z"
+  },
+  "updatedAt": {
+    "$date": "2020-12-11T03:09:48.148Z"
+  },
+  "__v": 0,
+  "author": {
+    "$oid": "5fd2e2fbb8bc964a5c8257d5"
+  }
+},{
+  "_id": {
+    "$oid": "5fd2e2fbb8bc964a5c8257ca"
+  },
+  "body": "With this course i can make my own site, with a lot of tools and options.\n\nThe didactics of the classes are easy to understand, being a great django course.",
+  "rating": 5,
+  "createdAt": {
+    "$date": "2020-12-11T03:09:47.785Z"
+  },
+  "updatedAt": {
+    "$date": "2020-12-11T03:09:48.148Z"
+  },
+  "__v": 0,
+  "author": {
+    "$oid": "5fd2e2fbb8bc964a5c8257d6"
+  }
+},{
+  "_id": {
+    "$oid": "5fd2e2fbb8bc964a5c8257cb"
+  },
+  "body": "Covered all the basics of django And front end components and also touched some of the advanced topics in Django. After taking this course I was able to do anything in django. I made a video blogging website with help of statckoverflow and my django knowledge and also I made a web app for weather by using Apis. After that I took the courses to advance my django Skills like using rest framework. Rest is not included in this course but ITts the basics you require of django. Its filmed on django 1 but I used Django 3 in my time and there was literally no difference except some minor hiccups which is also covered in course notes.",
+  "rating": 5,
+  "createdAt": {
+    "$date": "2020-12-11T03:09:47.786Z"
+  },
+  "updatedAt": {
+    "$date": "2020-12-11T03:09:48.149Z"
+  },
+  "__v": 0,
+  "author": {
+    "$oid": "5fd2e2fbb8bc964a5c8257d7"
+  }
+},{
+  "_id": {
+    "$oid": "5fd2e2fbb8bc964a5c8257cc"
+  },
+  "body": "I was able to get a front to back site up and running on PythonAnywhere. So there is a lot of amazing material. However, since the course is old the tech versions are old and it's in the Django part that it becomes a problem. Many frustrating hours spent trying to figure out syntax.\n\nNow it seems that the Django_Course_2.xx has corrected syntax! Especially URL mappings, Bootstrap versions, Glyphicon classes, django import modules, etc.",
+  "rating": 4,
+  "createdAt": {
+    "$date": "2020-12-11T03:09:47.787Z"
+  },
+  "updatedAt": {
+    "$date": "2020-12-11T03:09:48.149Z"
+  },
+  "__v": 0,
+  "author": {
+    "$oid": "5fd2e2fbb8bc964a5c8257d8"
+  }
+},{
+  "_id": {
+    "$oid": "5fd2e2fbb8bc964a5c8257cd"
+  },
+  "body": "Basically, this course just like 'follow me typing the code'. It doesn't give enough explanation. After all, you need to figure out almost all the theory behind the code by yourself.",
+  "rating": 2,
+  "createdAt": {
+    "$date": "2020-12-11T03:09:47.788Z"
+  },
+  "updatedAt": {
+    "$date": "2020-12-11T03:09:48.150Z"
+  },
+  "__v": 0,
+  "author": {
+    "$oid": "5fd2e2fbb8bc964a5c8257d9"
+  }
+},{
+  "_id": {
+    "$oid": "5fd2e2fbb8bc964a5c8257ce"
+  },
+  "body": "Material is outdated for newer versions of Django and rest of stuff. There should be clear notifications in videos when the method or working procedure has changed. Also the games programmed in this course like connect four and war card game have major flaws in their code. For some reason the author of this course chooses not to answer any of the questions in Q&A regarding those games so students have to figure out the answer themselves.",
+  "rating": 2,
+  "createdAt": {
+    "$date": "2020-12-11T03:09:47.789Z"
+  },
+  "updatedAt": {
+    "$date": "2020-12-11T03:09:48.151Z"
+  },
+  "__v": 0,
+  "author": {
+    "$oid": "5fd2e2fbb8bc964a5c8257da"
+  }
+},{
+  "_id": {
+    "$oid": "5fd2e2fbb8bc964a5c8257cf"
+  },
+  "body": "Lack of explanation in many ways. It's really tedious to watch the tutor type each word during the coding without high level structural guidance. The logic is not clear to me especially in the projects part.\n\nThe Django version is also outdated. There are a lot of updates on the usage but you won't know when you learn along with the course. Not recommend beginner to choice this course.",
+  "rating": 1,
+  "createdAt": {
+    "$date": "2020-12-11T03:09:47.790Z"
+  },
+  "updatedAt": {
+    "$date": "2020-12-11T03:09:48.151Z"
+  },
+  "__v": 0,
+  "author": {
+    "$oid": "5fd2e2fbb8bc964a5c8257db"
+  }
+},{
+  "_id": {
+    "$oid": "5fd2e2fbb8bc964a5c8257d0"
+  },
+  "body": "Thanks Jose! The best part is, the course content is well structured and advanced topics were also covered and the explanation was just WOW!!.",
+  "rating": 5,
+  "createdAt": {
+    "$date": "2020-12-11T03:09:47.791Z"
+  },
+  "updatedAt": {
+    "$date": "2020-12-11T03:09:48.152Z"
+  },
+  "__v": 0,
+  "author": {
+    "$oid": "5fd2e2fbb8bc964a5c8257dc"
+  }
+},{
+  "_id": {
+    "$oid": "5fd2e2fbb8bc964a5c8257d1"
+  },
+  "body": "So, It was both challenging and exiting, Jose an amazing teacher and he and people what responsible for help in Q&A form really doing great job, especially Abu Sayeed!\n\nAnswering to someone question you sad \"Don't lose your patience. Programming means all of problem and problem needed the patience to solve it.\" - what are great words? ... after that, you and some people started to help with solution of that God Damn it Misaka installation problem! That words really helped me out, to stand up and keep going!\n\nSo guys, I am honestly thankful for support, and help!\n\nYou are my heroes!\n\nReally great course full of knowledges and details!",
+  "rating": 5,
+  "createdAt": {
+    "$date": "2020-12-11T03:09:47.792Z"
+  },
+  "updatedAt": {
+    "$date": "2020-12-11T03:09:48.153Z"
+  },
+  "__v": 0,
+  "author": {
+    "$oid": "5fd2e2fbb8bc964a5c8257dd"
+  }
+},{
+  "_id": {
+    "$oid": "5fd2e312c6ac9453c4143317"
+  },
+  "body": "Nice course, he talks a little slow but that's okay. I watched the whole course in 1.25x lol. Great explaining for most of the things. The example projects were really good. My guy really put effort on this course! Feel free to buy!",
+  "rating": 4.5,
+  "createdAt": {
+    "$date": "2020-12-11T03:10:10.713Z"
+  },
+  "updatedAt": {
+    "$date": "2020-12-11T03:10:11.099Z"
+  },
+  "__v": 0,
+  "author": {
+    "$oid": "5fd2e312c6ac9453c4143323"
+  }
+},{
+  "_id": {
+    "$oid": "5fd2e312c6ac9453c4143318"
+  },
+  "body": "When I started, I did not know anything about CSS except some few terms here and there... Many times it was tough, but now I know a lot in CSS... thanks to Jonas' teaching style and effort he has put in the course, he has made sure that he touches every thing out there and did his best to teach us and I know I have got a very good foundation after completing this course, but still I need to put in hard work to reach a level where it becomes second nature for me. He is really good and taking his course always ensures that we become best in the subject. Looking forward to more newer courses in future from Jonas.",
+  "rating": 5,
+  "createdAt": {
+    "$date": "2020-12-11T03:10:10.714Z"
+  },
+  "updatedAt": {
+    "$date": "2020-12-11T03:10:11.100Z"
+  },
+  "__v": 0,
+  "author": {
+    "$oid": "5fd2e312c6ac9453c4143324"
+  }
+},{
+  "_id": {
+    "$oid": "5fd2e312c6ac9453c4143319"
+  },
+  "body": "One of the highest quality courses I've ever purchased. Thank you, Jonas! You're the man",
+  "rating": 5,
+  "createdAt": {
+    "$date": "2020-12-11T03:10:10.715Z"
+  },
+  "updatedAt": {
+    "$date": "2020-12-11T03:10:11.101Z"
+  },
+  "__v": 0,
+  "author": {
+    "$oid": "5fd2e312c6ac9453c4143325"
+  }
+},{
+  "_id": {
+    "$oid": "5fd2e312c6ac9453c414331a"
+  },
+  "body": "Amazing course from start to end. Jonas keeps you impressed, I can really say this is the best css and even front-end development resource on the internet. The theories are perfect, the projects and big scale and real world. This course helped me like CSS and I no more struggle with archtecture, responsive design, performance.\n\nThank you Jonas",
+  "rating": 5,
+  "createdAt": {
+    "$date": "2020-12-11T03:10:10.716Z"
+  },
+  "updatedAt": {
+    "$date": "2020-12-11T03:10:11.102Z"
+  },
+  "__v": 0,
+  "author": {
+    "$oid": "5fd2e312c6ac9453c4143326"
+  }
+},{
+  "_id": {
+    "$oid": "5fd2e312c6ac9453c414331b"
+  },
+  "body": "Great course. The explanations were done very well. I would recommend this course to anyone from beginner, or someone wishing to refresh their knowledge and skills.",
+  "rating": 5,
+  "createdAt": {
+    "$date": "2020-12-11T03:10:10.717Z"
+  },
+  "updatedAt": {
+    "$date": "2020-12-11T03:10:11.102Z"
+  },
+  "__v": 0,
+  "author": {
+    "$oid": "5fd2e312c6ac9453c4143327"
+  }
+},{
+  "_id": {
+    "$oid": "5fd2e312c6ac9453c414331c"
+  },
+  "body": "I am writing this review while finalizing the 8th section of this course. If you want to really understand CSS, how things work, and why they work the way they do, then this is the course for you! What I specifically liked about this course is its organization, the fact that the instructor does not shy away from explaining the logic and the math behind concepts, and the richness of the proposed projects. I am so glad that I have taken this course and I am satisfied with the immense progress that I have achieved towards my goal.",
+  "rating": 5,
+  "createdAt": {
+    "$date": "2020-12-11T03:10:10.718Z"
+  },
+  "updatedAt": {
+    "$date": "2020-12-11T03:10:11.103Z"
+  },
+  "__v": 0,
+  "author": {
+    "$oid": "5fd2e312c6ac9453c4143328"
+  }
+},{
+  "_id": {
+    "$oid": "5fd2e312c6ac9453c414331d"
+  },
+  "body": "Awesome lecturer as well as awesome course material. Very details explanation and the lecture try do teach as simple as it is to make you understand. He start from simple one and then gradually move onto the complex one. Awesome course, recommended.",
+  "rating": 5,
+  "createdAt": {
+    "$date": "2020-12-11T03:10:10.719Z"
+  },
+  "updatedAt": {
+    "$date": "2020-12-11T03:10:11.103Z"
+  },
+  "__v": 0,
+  "author": {
+    "$oid": "5fd2e312c6ac9453c4143329"
+  }
+},{
+  "_id": {
+    "$oid": "5fd2e312c6ac9453c414331e"
+  },
+  "body": "What an amazing course this was! I thoroughly enjoyed learning it and gaining the bundle of knowledge from it.\n\nThis course contain loads of information and knowledge you can use in building beautiful projects and add values to your portfolio.\n\nFinally, Jonas is a great teacher, explains every small amount of detail and helps clearing your doubt again and again until you understands it. Really worth doing this course and also highly recommends it to everyone. Thanks a lot. Jonas.",
+  "rating": 5,
+  "createdAt": {
+    "$date": "2020-12-11T03:10:10.720Z"
+  },
+  "updatedAt": {
+    "$date": "2020-12-11T03:10:11.104Z"
+  },
+  "__v": 0,
+  "author": {
+    "$oid": "5fd2e312c6ac9453c414332a"
+  }
+},{
+  "_id": {
+    "$oid": "5fd2e312c6ac9453c414331f"
+  },
+  "body": "2020 ... my opinion is .. dont think about it buy the course , amazing projects where we you can apply css/sass flexbox, grid css and get good foundations for bootstrap(know your s..it).",
+  "rating": 5,
+  "createdAt": {
+    "$date": "2020-12-11T03:10:10.721Z"
+  },
+  "updatedAt": {
+    "$date": "2020-12-11T03:10:11.105Z"
+  },
+  "__v": 0,
+  "author": {
+    "$oid": "5fd2e312c6ac9453c414332b"
+  }
+},{
+  "_id": {
+    "$oid": "5fd2e312c6ac9453c4143320"
+  },
+  "body": "I truly love this course, and I also really enjoy how Jonas teaches and passes his knowledge to his students.",
+  "rating": 5,
+  "createdAt": {
+    "$date": "2020-12-11T03:10:10.722Z"
+  },
+  "updatedAt": {
+    "$date": "2020-12-11T03:10:11.105Z"
+  },
+  "__v": 0,
+  "author": {
+    "$oid": "5fd2e312c6ac9453c414332c"
+  }
+},{
+  "_id": {
+    "$oid": "5fd2e312c6ac9453c4143321"
+  },
+  "body": "Great course, very good content, nice projects, all is very well explained, I learn a lot of very useful tricks and best practices. Highly recommend.",
+  "rating": 5,
+  "createdAt": {
+    "$date": "2020-12-11T03:10:10.723Z"
+  },
+  "updatedAt": {
+    "$date": "2020-12-11T03:10:11.106Z"
+  },
+  "__v": 0,
+  "author": {
+    "$oid": "5fd2e312c6ac9453c414332d"
+  }
+},{
+  "_id": {
+    "$oid": "5fd2e312c6ac9453c4143322"
+  },
+  "body": "Thank you so much Jonas sir for such an amazing course...",
+  "rating": 4.5,
+  "createdAt": {
+    "$date": "2020-12-11T03:10:10.724Z"
+  },
+  "updatedAt": {
+    "$date": "2020-12-11T03:10:11.107Z"
+  },
+  "__v": 0,
+  "author": {
+    "$oid": "5fd2e312c6ac9453c414332e"
+  }
+},{
+  "_id": {
+    "$oid": "5fd2e327c4043a515c71eaa0"
+  },
+  "body": "The thing made me like this course most is your specify exercise, you are so amazming, I am learning and try my best to complete this course, thank you so much!",
+  "rating": 5,
+  "createdAt": {
+    "$date": "2020-12-11T03:10:31.426Z"
+  },
+  "updatedAt": {
+    "$date": "2020-12-11T03:10:31.847Z"
+  },
+  "__v": 0,
+  "author": {
+    "$oid": "5fd2e327c4043a515c71eaac"
+  }
+},{
+  "_id": {
+    "$oid": "5fd2e327c4043a515c71eaa1"
+  },
+  "body": "This has been a really challenging course where I've had to push myself to learn and bridge the gaps.\n\nI would say it isn't exactly a beginner course, it's more of a high level beginner low level intermediate course.",
+  "rating": 4.5,
+  "createdAt": {
+    "$date": "2020-12-11T03:10:31.427Z"
+  },
+  "updatedAt": {
+    "$date": "2020-12-11T03:10:31.848Z"
+  },
+  "__v": 0,
+  "author": {
+    "$oid": "5fd2e327c4043a515c71eaad"
+  }
+},{
+  "_id": {
+    "$oid": "5fd2e327c4043a515c71eaa2"
+  },
+  "body": "An excellent course with a lot of knowledge to share and with a good explanation I like Mosh tutorials because he programs focusing on develop extensible applications including a lot of resources. I hope you put the advanced course in udemy and one of blazor.",
+  "rating": 5,
+  "createdAt": {
+    "$date": "2020-12-11T03:10:31.428Z"
+  },
+  "updatedAt": {
+    "$date": "2020-12-11T03:10:31.849Z"
+  },
+  "__v": 0,
+  "author": {
+    "$oid": "5fd2e327c4043a515c71eaae"
+  }
+},{
+  "_id": {
+    "$oid": "5fd2e327c4043a515c71eaa3"
+  },
+  "body": "The working with Data section was frustrating. EF should not be introduced at this stage. In my opinion this was bad decision to put EF in this course.",
+  "rating": 3.5,
+  "createdAt": {
+    "$date": "2020-12-11T03:10:31.429Z"
+  },
+  "updatedAt": {
+    "$date": "2020-12-11T03:10:31.850Z"
+  },
+  "__v": 0,
+  "author": {
+    "$oid": "5fd2e327c4043a515c71eaaf"
+  }
+},{
+  "_id": {
+    "$oid": "5fd2e327c4043a515c71eaa4"
+  },
+  "body": "Great explanations!!! Enjoyed. I also use this as a reference.",
+  "rating": 5,
+  "createdAt": {
+    "$date": "2020-12-11T03:10:31.431Z"
+  },
+  "updatedAt": {
+    "$date": "2020-12-11T03:10:31.851Z"
+  },
+  "__v": 0,
+  "author": {
+    "$oid": "5fd2e327c4043a515c71eab0"
+  }
+},{
+  "_id": {
+    "$oid": "5fd2e327c4043a515c71eaa5"
+  },
+  "body": "It was a nice course and covered all the topics. I didn't give a 5 star because of the lack of explanation on exercises. It will be nice to have step by step explanation. Without explanations, when you stuck on some part and check out the real code, you can make mistakes on implementing.",
+  "rating": 4,
+  "createdAt": {
+    "$date": "2020-12-11T03:10:31.432Z"
+  },
+  "updatedAt": {
+    "$date": "2020-12-11T03:10:31.851Z"
+  },
+  "__v": 0,
+  "author": {
+    "$oid": "5fd2e327c4043a515c71eab1"
+  }
+},{
+  "_id": {
+    "$oid": "5fd2e327c4043a515c71eaa6"
+  },
+  "body": "I like your way of teaching, It was very helpful to me, by your lecture I know only how to write the program but you didn't teach how the program is internally working, so please focus on that",
+  "rating": 5,
+  "createdAt": {
+    "$date": "2020-12-11T03:10:31.433Z"
+  },
+  "updatedAt": {
+    "$date": "2020-12-11T03:10:31.852Z"
+  },
+  "__v": 0,
+  "author": {
+    "$oid": "5fd2e327c4043a515c71eab2"
+  }
+},{
+  "_id": {
+    "$oid": "5fd2e327c4043a515c71eaa7"
+  },
+  "body": "It was extremely good course in terms of content and exercises and material full of technical hands on.",
+  "rating": 5,
+  "createdAt": {
+    "$date": "2020-12-11T03:10:31.434Z"
+  },
+  "updatedAt": {
+    "$date": "2020-12-11T03:10:31.852Z"
+  },
+  "__v": 0,
+  "author": {
+    "$oid": "5fd2e327c4043a515c71eab3"
+  }
+},{
+  "_id": {
+    "$oid": "5fd2e327c4043a515c71eaa8"
+  },
+  "body": "Thank you so much, Guru G :). It was an amazing course. The contents and presentations are impressive. Just want to say that deployment section could be better with a live example. thanks again!!!",
+  "rating": 4,
+  "createdAt": {
+    "$date": "2020-12-11T03:10:31.435Z"
+  },
+  "updatedAt": {
+    "$date": "2020-12-11T03:10:31.853Z"
+  },
+  "__v": 0,
+  "author": {
+    "$oid": "5fd2e327c4043a515c71eab4"
+  }
+},{
+  "_id": {
+    "$oid": "5fd2e327c4043a515c71eaa9"
+  },
+  "body": "I feel the course started with high quality details on every step taken, and ended with poor details and lots of concepts taken for granted. The two final sections were very hard to follow for an ASP.NET MVC course thats starts with the basics.",
+  "rating": 3,
+  "createdAt": {
+    "$date": "2020-12-11T03:10:31.436Z"
+  },
+  "updatedAt": {
+    "$date": "2020-12-11T03:10:31.854Z"
+  },
+  "__v": 0,
+  "author": {
+    "$oid": "5fd2e327c4043a515c71eab5"
+  }
+},{
+  "_id": {
+    "$oid": "5fd2e327c4043a515c71eaaa"
+  },
+  "body": "Very good for beginners, I gave 4.5 - there are minor confusions with what is presented after exercises in later videos and source on github and also there was no lecture addressing fixing previous migrations (meaning those in development), since a newbie can spend a lot of time googling \"I ran update-database on my broken new migration, help\".",
+  "rating": 4.5,
+  "createdAt": {
+    "$date": "2020-12-11T03:10:31.436Z"
+  },
+  "updatedAt": {
+    "$date": "2020-12-11T03:10:31.855Z"
+  },
+  "__v": 0,
+  "author": {
+    "$oid": "5fd2e327c4043a515c71eab6"
+  }
+},{
+  "_id": {
+    "$oid": "5fd2e327c4043a515c71eaab"
+  },
+  "body": "I think Mosh is a great instructor and like his presentation style as well as his outline of the big topic, MVC in this case. I would caution others that following his examples step by step can lead to some mistakes on the student's part. For example, I had a leftover @model statement specifying the random movie view model, and when I first tried to do the section 2 exercise, I got a blizzard of errors that were hard to understand. He should give people a basic setup or send-off for exercises with a \"don't forget\" piece of advice or two. That would not compromise the challenge that he wants the student to face.",
+  "rating": 4,
+  "createdAt": {
+    "$date": "2020-12-11T03:10:31.437Z"
+  },
+  "updatedAt": {
+    "$date": "2020-12-11T03:10:31.855Z"
+  },
+  "__v": 0,
+  "author": {
+    "$oid": "5fd2e327c4043a515c71eab7"
+  }
+},{
+  "_id": {
+    "$oid": "5fd2e34232953430cce9c02b"
+  },
+  "body": "amazing content..",
+  "rating": 4.5,
+  "createdAt": {
+    "$date": "2020-12-11T03:10:58.963Z"
+  },
+  "updatedAt": {
+    "$date": "2020-12-11T03:10:59.398Z"
+  },
+  "__v": 0,
+  "author": {
+    "$oid": "5fd2e34232953430cce9c037"
+  }
+},{
+  "_id": {
+    "$oid": "5fd2e34232953430cce9c02c"
+  },
+  "body": "Anthony is amazing is the second course I am taking with him and I hope he will offer more",
+  "rating": 5,
+  "createdAt": {
+    "$date": "2020-12-11T03:10:58.964Z"
+  },
+  "updatedAt": {
+    "$date": "2020-12-11T03:10:59.399Z"
+  },
+  "__v": 0,
+  "author": {
+    "$oid": "5fd2e34232953430cce9c038"
+  }
+},{
+  "_id": {
+    "$oid": "5fd2e34232953430cce9c02d"
+  },
+  "body": "Very good explanation with examples on Node. I liked the focus on concepts and explanations of what is happening behind the scenes.",
+  "rating": 5,
+  "createdAt": {
+    "$date": "2020-12-11T03:10:58.965Z"
+  },
+  "updatedAt": {
+    "$date": "2020-12-11T03:10:59.400Z"
+  },
+  "__v": 0,
+  "author": {
+    "$oid": "5fd2e34232953430cce9c039"
+  }
+},{
+  "_id": {
+    "$oid": "5fd2e34232953430cce9c02e"
+  },
+  "body": "I enjoyed the course, as someone who is a beginner like me when it comes to NodeJS this course was a great starter for me. I like how the course didn't just tackle through coding NodeJS, but establishing some basic/fundamentals of JavaScript like the 'inheritance'.\n\nThat kind of approach made me appreciate and understood well how NodeJS works under the hood. Honestly, I bought also a different course but with an advance approach and see if I could follow it, but some of it was a bit confusing to me. But know after taking this course I am now have a pretty good understanding and I am ready to take more advance course because of this. Thank you for making such a great course with good content.",
+  "rating": 5,
+  "createdAt": {
+    "$date": "2020-12-11T03:10:58.966Z"
+  },
+  "updatedAt": {
+    "$date": "2020-12-11T03:10:59.400Z"
+  },
+  "__v": 0,
+  "author": {
+    "$oid": "5fd2e34332953430cce9c03a"
+  }
+},{
+  "_id": {
+    "$oid": "5fd2e34232953430cce9c02f"
+  },
+  "body": "Course ends abruptly: where is \"Adding a front-end in Angular (Part 2)\"? And despite the fact that this is an extremely outdated course, that was a good experience for me and I learned a lot of new things anyway.",
+  "rating": 4,
+  "createdAt": {
+    "$date": "2020-12-11T03:10:58.968Z"
+  },
+  "updatedAt": {
+    "$date": "2020-12-11T03:10:59.401Z"
+  },
+  "__v": 0,
+  "author": {
+    "$oid": "5fd2e34332953430cce9c03b"
+  }
+},{
+  "_id": {
+    "$oid": "5fd2e34232953430cce9c030"
+  },
+  "body": "Course was very well structured and instructor has focused on core concepts in a very good way. Only reason I have not made it a 5 star is that I was expecting Streams and Custom Middleware implementation to be incorporated into the final project. But very well done overall !!",
+  "rating": 4.5,
+  "createdAt": {
+    "$date": "2020-12-11T03:10:58.969Z"
+  },
+  "updatedAt": {
+    "$date": "2020-12-11T03:10:59.401Z"
+  },
+  "__v": 0,
+  "author": {
+    "$oid": "5fd2e34332953430cce9c03c"
+  }
+},{
+  "_id": {
+    "$oid": "5fd2e34232953430cce9c031"
+  },
+  "body": "O curso se aprofunda bastante em como a tecnologia funciona e explica bem claramente a maioria dos conceitos. Porém infelizmente o curso parece que não foi finalizado, faltaram vários itens para finalizar o projeto final.",
+  "rating": 3.5,
+  "createdAt": {
+    "$date": "2020-12-11T03:10:58.970Z"
+  },
+  "updatedAt": {
+    "$date": "2020-12-11T03:10:59.402Z"
+  },
+  "__v": 0,
+  "author": {
+    "$oid": "5fd2e34332953430cce9c03d"
+  }
+},{
+  "_id": {
+    "$oid": "5fd2e34232953430cce9c032"
+  },
+  "body": "This is fantastic course. It offers incredibly clear explanations of underlying concepts that get glossed over in more \"advanced\" courses. Importantly, Anthony builds for you a mental map that maps closely to Node itself, helping you remember, via understanding, the derivative concepts and techniques that you ultimately implement in real-world applications. The explanation of Node's event emitter alone is already worth ten times the price of the course. I wish Anthony would produce other, similar courses on full-stack development. such as in Vue.",
+  "rating": 5,
+  "createdAt": {
+    "$date": "2020-12-11T03:10:58.971Z"
+  },
+  "updatedAt": {
+    "$date": "2020-12-11T03:10:59.403Z"
+  },
+  "__v": 0,
+  "author": {
+    "$oid": "5fd2e34332953430cce9c03e"
+  }
+},{
+  "_id": {
+    "$oid": "5fd2e34232953430cce9c033"
+  },
+  "body": "The course was really good as it has really built up a nice foundation for me regarding backend development in Node.js the only downpoint for the course was that it isn't updated to the latest version and/or methodologies that Node has added to itself. Regardless of that this course is really good to have a concrete and basic understanding how Node.js works under the hood.",
+  "rating": 4.5,
+  "createdAt": {
+    "$date": "2020-12-11T03:10:58.972Z"
+  },
+  "updatedAt": {
+    "$date": "2020-12-11T03:10:59.403Z"
+  },
+  "__v": 0,
+  "author": {
+    "$oid": "5fd2e34332953430cce9c03f"
+  }
+},{
+  "_id": {
+    "$oid": "5fd2e34232953430cce9c034"
+  },
+  "body": "This guys is properly one of the best instructors out there.\n\nI hate when instructors don't go into depth on a topic....it infuriates me; as I have to go and dig in deeper on a topic, basically paying money to go do extra research...\n\nThis guys really hones in an every topic, leaving no holes in his lecture. well- done.",
+  "rating": 5,
+  "createdAt": {
+    "$date": "2020-12-11T03:10:58.973Z"
+  },
+  "updatedAt": {
+    "$date": "2020-12-11T03:10:59.404Z"
+  },
+  "__v": 0,
+  "author": {
+    "$oid": "5fd2e34332953430cce9c040"
+  }
+},{
+  "_id": {
+    "$oid": "5fd2e34232953430cce9c035"
+  },
+  "body": "Explained All the Concepts Very Well. This is a very good course. Tony is a great instructor. Thank you Tony for helping the Students, IT Professionals. Stay Blessed.",
+  "rating": 4.5,
+  "createdAt": {
+    "$date": "2020-12-11T03:10:58.974Z"
+  },
+  "updatedAt": {
+    "$date": "2020-12-11T03:10:59.404Z"
+  },
+  "__v": 0,
+  "author": {
+    "$oid": "5fd2e34332953430cce9c041"
+  }
+},{
+  "_id": {
+    "$oid": "5fd2e34232953430cce9c036"
+  },
+  "body": "it was a nice course, covered many areas I needed and the teaching methods were topnotch.",
+  "rating": 4,
+  "createdAt": {
+    "$date": "2020-12-11T03:10:58.975Z"
+  },
+  "updatedAt": {
+    "$date": "2020-12-11T03:10:59.405Z"
+  },
+  "__v": 0,
+  "author": {
+    "$oid": "5fd2e34332953430cce9c042"
+  }
+},{
+  "_id": {
+    "$oid": "5fd2e3546ace0439b48364a1"
+  },
+  "body": "Learn lots of things regarding micro services and spring cloud. Thanks Ranga! for this excellent tutorial",
+  "rating": 4.5,
+  "createdAt": {
+    "$date": "2020-12-11T03:11:16.529Z"
+  },
+  "updatedAt": {
+    "$date": "2020-12-11T03:11:16.976Z"
+  },
+  "__v": 0,
+  "author": {
+    "$oid": "5fd2e3546ace0439b48364ad"
+  }
+},{
+  "_id": {
+    "$oid": "5fd2e3546ace0439b48364a2"
+  },
+  "body": "I would like to say thank you for this course. Especially, up to date modification section for updated version. Actually, I have joined for this course because my new project using API at my work place, and this course really helpful to me.",
+  "rating": 5,
+  "createdAt": {
+    "$date": "2020-12-11T03:11:16.530Z"
+  },
+  "updatedAt": {
+    "$date": "2020-12-11T03:11:16.977Z"
+  },
+  "__v": 0,
+  "author": {
+    "$oid": "5fd2e3546ace0439b48364ae"
+  }
+},{
+  "_id": {
+    "$oid": "5fd2e3546ace0439b48364a3"
+  },
+  "body": "Many Spring cloud topics are not covered. The course name should be Spring cloud basics and not - \"Mastering\" microservices with cloud. Also, asked few questions but did not receive any response.",
+  "rating": 3,
+  "createdAt": {
+    "$date": "2020-12-11T03:11:16.531Z"
+  },
+  "updatedAt": {
+    "$date": "2020-12-11T03:11:16.977Z"
+  },
+  "__v": 0,
+  "author": {
+    "$oid": "5fd2e3546ace0439b48364af"
+  }
+},{
+  "_id": {
+    "$oid": "5fd2e3546ace0439b48364a4"
+  },
+  "body": "I was anxious when I took the course at the beginning thinking I would understand it intact. But the course exceeds my expectation with hands-on coding and understanding from the elementary to important concepts. Thanks for the course and I really enjoyed studying the course.",
+  "rating": 5,
+  "createdAt": {
+    "$date": "2020-12-11T03:11:16.533Z"
+  },
+  "updatedAt": {
+    "$date": "2020-12-11T03:11:16.978Z"
+  },
+  "__v": 0,
+  "author": {
+    "$oid": "5fd2e3546ace0439b48364b0"
+  }
+},{
+  "_id": {
+    "$oid": "5fd2e3546ace0439b48364a5"
+  },
+  "body": "Trainer had very well explained through out the course and the course content was also helpful. It helped me a lot to get more knowledge on Spring Boot and Spring Cloud Course. I'm grateful to the trainers Mahi, Ranga,Helen for all your assistance whenever i raised a query. Especially, many many Thanks to Ranga for the great course especially to assist me and providing with an exposure on lot of concepts.",
+  "rating": 4.5,
+  "createdAt": {
+    "$date": "2020-12-11T03:11:16.534Z"
+  },
+  "updatedAt": {
+    "$date": "2020-12-11T03:11:16.979Z"
+  },
+  "__v": 0,
+  "author": {
+    "$oid": "5fd2e3546ace0439b48364b1"
+  }
+},{
+  "_id": {
+    "$oid": "5fd2e3546ace0439b48364a6"
+  },
+  "body": "Very good explanations , would recommend anybody looking to get started with spring microservices / jpa",
+  "rating": 4,
+  "createdAt": {
+    "$date": "2020-12-11T03:11:16.535Z"
+  },
+  "updatedAt": {
+    "$date": "2020-12-11T03:11:16.979Z"
+  },
+  "__v": 0,
+  "author": {
+    "$oid": "5fd2e3546ace0439b48364b2"
+  }
+},{
+  "_id": {
+    "$oid": "5fd2e3546ace0439b48364a7"
+  },
+  "body": "Instructor is has a good teaching skill and is well versed with spring framework. Video's are short and upto the point.\n\nTitle is misleading... The course is mere introduction to microservices, the core microservices concepts were taught for less than 2 hours. So it lacks depth.\n\nWe can call this course a great introduction to microservices nothing more. Failed to explain different architecture patterns eg. event driven architecture, etc.\n\nFailed to explain the configuration of components like rabbitmq, zuul,etc.\n\nits incomplete, most of the course content appears to be re-purposed videos from previous courses.\n\nYou wouldn't be able to deploy any real world project after this course.",
+  "rating": 2.5,
+  "createdAt": {
+    "$date": "2020-12-11T03:11:16.536Z"
+  },
+  "updatedAt": {
+    "$date": "2020-12-11T03:11:16.980Z"
+  },
+  "__v": 0,
+  "author": {
+    "$oid": "5fd2e3546ace0439b48364b3"
+  }
+},{
+  "_id": {
+    "$oid": "5fd2e3546ace0439b48364a8"
+  },
+  "body": "Examples are good. but need to explain why each component designed in spring boot and what are advantages and what components it replaces currently in market",
+  "rating": 3.5,
+  "createdAt": {
+    "$date": "2020-12-11T03:11:16.537Z"
+  },
+  "updatedAt": {
+    "$date": "2020-12-11T03:11:16.980Z"
+  },
+  "__v": 0,
+  "author": {
+    "$oid": "5fd2e3546ace0439b48364b4"
+  }
+},{
+  "_id": {
+    "$oid": "5fd2e3546ace0439b48364a9"
+  },
+  "body": "It was a great learning experience. I enjoyed the course, it was very detailing. Though I had experience in developing microservices using spring boot, this course helped me to understand the basics in detail. I would recommend this course if you want to understand the basics of spring boot and spring cloud. Thanks Ranga for the amazing course. From my side it is a 5 star.",
+  "rating": 5,
+  "createdAt": {
+    "$date": "2020-12-11T03:11:16.538Z"
+  },
+  "updatedAt": {
+    "$date": "2020-12-11T03:11:16.981Z"
+  },
+  "__v": 0,
+  "author": {
+    "$oid": "5fd2e3546ace0439b48364b5"
+  }
+},{
+  "_id": {
+    "$oid": "5fd2e3546ace0439b48364aa"
+  },
+  "body": "Straight forward lectures. Well presented. Use the dependencies he is using even though it is a little out dated. It will make the course easier to follow.",
+  "rating": 5,
+  "createdAt": {
+    "$date": "2020-12-11T03:11:16.539Z"
+  },
+  "updatedAt": {
+    "$date": "2020-12-11T03:11:16.981Z"
+  },
+  "__v": 0,
+  "author": {
+    "$oid": "5fd2e3546ace0439b48364b6"
+  }
+},{
+  "_id": {
+    "$oid": "5fd2e3546ace0439b48364ab"
+  },
+  "body": "All the concepts together at one place helps us a lot. One issue is that all the codes are not fully updated like few codes are deprecated and not working and giving error and we are clueless how to fix it easily. Needs updated code in Notes section would have been great.",
+  "rating": 4,
+  "createdAt": {
+    "$date": "2020-12-11T03:11:16.540Z"
+  },
+  "updatedAt": {
+    "$date": "2020-12-11T03:11:16.982Z"
+  },
+  "__v": 0,
+  "author": {
+    "$oid": "5fd2e3546ace0439b48364b7"
+  }
+},{
+  "_id": {
+    "$oid": "5fd2e3546ace0439b48364ac"
+  },
+  "body": "I have attended this course after having already studied on my own and worked on most of the topics. The course was very useful to put order in what I have studied and to acquire more confidence in applying this knowledge in the practice and to compare my experience with that of the trainer and other students. I have appreciated the way the course has been prepared, the sequence of the topics, the completeness and the way it is updated following the evolution of the frameworks.",
+  "rating": 4.5,
+  "createdAt": {
+    "$date": "2020-12-11T03:11:16.541Z"
+  },
+  "updatedAt": {
+    "$date": "2020-12-11T03:11:16.983Z"
+  },
+  "__v": 0,
+  "author": {
+    "$oid": "5fd2e3546ace0439b48364b8"
+  }
+},{
+  "_id": {
+    "$oid": "5fd2e367ea0dd9478870d84f"
+  },
+  "body": "I really enjoyed this course, especially for its practical setting. After this course, you can do a lot independently.",
+  "rating": 5,
+  "createdAt": {
+    "$date": "2020-12-11T03:11:35.860Z"
+  },
+  "updatedAt": {
+    "$date": "2020-12-11T03:11:36.336Z"
+  },
+  "__v": 0,
+  "author": {
+    "$oid": "5fd2e367ea0dd9478870d85b"
+  }
+},{
+  "_id": {
+    "$oid": "5fd2e367ea0dd9478870d850"
+  },
+  "body": "Another great class from Brad Traversy. This is the second class of Brad's that I have taken and I have no doubts about taking another. Thanks.",
+  "rating": 5,
+  "createdAt": {
+    "$date": "2020-12-11T03:11:35.862Z"
+  },
+  "updatedAt": {
+    "$date": "2020-12-11T03:11:36.337Z"
+  },
+  "__v": 0,
+  "author": {
+    "$oid": "5fd2e367ea0dd9478870d85c"
+  }
+},{
+  "_id": {
+    "$oid": "5fd2e367ea0dd9478870d851"
+  },
+  "body": "Brad is the best of the best instructors. He explains in detail to learn, what do, and how to do it. There are many instructors out there but not as good as Brad. Do what is expected of you in terms of instruction and you will be ahead of a lot other programmers in terms of knowledge.",
+  "rating": 5,
+  "createdAt": {
+    "$date": "2020-12-11T03:11:35.863Z"
+  },
+  "updatedAt": {
+    "$date": "2020-12-11T03:11:36.338Z"
+  },
+  "__v": 0,
+  "author": {
+    "$oid": "5fd2e367ea0dd9478870d85d"
+  }
+},{
+  "_id": {
+    "$oid": "5fd2e367ea0dd9478870d852"
+  },
+  "body": "I purchased this course 2 years ago but finally commited to sitting through it from the beginning to the end. I really wanted to sharpen up my JavaScript skills before learning a framework and I'm glad that I took the time to do it. Brad is a great instructor and he explains things very well.",
+  "rating": 5,
+  "createdAt": {
+    "$date": "2020-12-11T03:11:35.864Z"
+  },
+  "updatedAt": {
+    "$date": "2020-12-11T03:11:36.338Z"
+  },
+  "__v": 0,
+  "author": {
+    "$oid": "5fd2e367ea0dd9478870d85e"
+  }
+},{
+  "_id": {
+    "$oid": "5fd2e367ea0dd9478870d853"
+  },
+  "body": "This course was great overall. I didn't go for five stars though because there are some areas that I thought were badly explained and I had to go elsewhere for a lot of information (particularly around what prototypes actually are and how promises actually work). Also, it seems that so much of JS is passing parameters into functions, and defining those parameters using arguments wherever that function is called. This distinction between parameters and arguments never actually gets explained on this course: you have to figure it out for yourself. The final two projects were EXTREMELY well explained, and it would have been great if the whole course was explained to this level. Overall though, I'm really happy with what I got out of it.",
+  "rating": 4,
+  "createdAt": {
+    "$date": "2020-12-11T03:11:35.865Z"
+  },
+  "updatedAt": {
+    "$date": "2020-12-11T03:11:36.339Z"
+  },
+  "__v": 0,
+  "author": {
+    "$oid": "5fd2e367ea0dd9478870d85f"
+  }
+},{
+  "_id": {
+    "$oid": "5fd2e367ea0dd9478870d854"
+  },
+  "body": "The course is very well executed. It was helpful to me as a beginner, it gave me a better understanding of Javascript. Following the mini-projects in the course gave me the confidence to tackle more complex Javascript projects.",
+  "rating": 4.5,
+  "createdAt": {
+    "$date": "2020-12-11T03:11:35.866Z"
+  },
+  "updatedAt": {
+    "$date": "2020-12-11T03:11:36.339Z"
+  },
+  "__v": 0,
+  "author": {
+    "$oid": "5fd2e367ea0dd9478870d860"
+  }
+},{
+  "_id": {
+    "$oid": "5fd2e367ea0dd9478870d855"
+  },
+  "body": "Brad is a really great instructor. He explains everything so well. I loved this course. Thank you so much for taking time to make this course.",
+  "rating": 5,
+  "createdAt": {
+    "$date": "2020-12-11T03:11:35.867Z"
+  },
+  "updatedAt": {
+    "$date": "2020-12-11T03:11:36.340Z"
+  },
+  "__v": 0,
+  "author": {
+    "$oid": "5fd2e367ea0dd9478870d861"
+  }
+},{
+  "_id": {
+    "$oid": "5fd2e367ea0dd9478870d856"
+  },
+  "body": "Brad knows this material well, and it shows. I'm impressed with his level of knowledge and his innate ability to teach. I'm a professional dev brushing up on my skills, and I can't say enough good things about this instructor. Thank you.",
+  "rating": 5,
+  "createdAt": {
+    "$date": "2020-12-11T03:11:35.868Z"
+  },
+  "updatedAt": {
+    "$date": "2020-12-11T03:11:36.341Z"
+  },
+  "__v": 0,
+  "author": {
+    "$oid": "5fd2e367ea0dd9478870d862"
+  }
+},{
+  "_id": {
+    "$oid": "5fd2e367ea0dd9478870d857"
+  },
+  "body": "Positives:\n\nThis course is pretty extensive in terms of the number of topics covered.\n\nSupport provided for this course is pretty decent.\n\nI like Brad's code along approach, because if you write even 10 lines of code just to test out a concept (and save it), then you are more likely to remember it and you can always come back to it for revisions.\n\nWeaknesses:\n\nToo many loose ends, too much googling and mdn browsing in a course i paid for.\n\nSmall errors in explanation here and there can lead to hours (in one case days) wasted on googling\n\nWhats more, Brad very cunningly tiptoes past the topics he wouldn't or couldn't explain like closures. Yeah a JavaScript course without a mention of closures.\n\nNo word about apply, bind or call functions.\n\nHe used filter function late in lecture 98 in a wrong manner which just by luck worked for the example he was working on. So cannot even expect the explanation there.\n\nIncomplete coverage of the the spread operator.\n\nFor...of loop (without any introduction) was used for the first time in the lecture on sets in section 10.\n\nIn the last section, he just tells to download the webpack+babel setup from his GitHub profile without explaining how he created it.\n\nThe list is too long.",
+  "rating": 3.5,
+  "createdAt": {
+    "$date": "2020-12-11T03:11:35.870Z"
+  },
+  "updatedAt": {
+    "$date": "2020-12-11T03:11:36.341Z"
+  },
+  "__v": 0,
+  "author": {
+    "$oid": "5fd2e367ea0dd9478870d863"
+  }
+},{
+  "_id": {
+    "$oid": "5fd2e367ea0dd9478870d858"
+  },
+  "body": "I struggled learning Javascript coming from a career with no programming skills needed or experience. I tried other videos and online courses and to me, it seemed like they were made from the perspective that people had previous programming experience and wanted to learn how to program with Javascript. The focus was mainly on just how to write functions, arrays, and objects and not seeing any results of this outside of logging things on a console. These lessons for the first time showed me how JS can manipulate the DOM, methods for targeting HTML in a webpage, creating OOP, modules, patterns, and lots more so I finally could see what JS was doing when related to working on webpages for front-end work. The small projects are super helpful, and helped me to really understand the language while both coming together and in the final product. I will definitely be revisiting these videos for practice and test how much more I can do independently as I progress.",
+  "rating": 5,
+  "createdAt": {
+    "$date": "2020-12-11T03:11:35.871Z"
+  },
+  "updatedAt": {
+    "$date": "2020-12-11T03:11:36.342Z"
+  },
+  "__v": 0,
+  "author": {
+    "$oid": "5fd2e367ea0dd9478870d864"
+  }
+},{
+  "_id": {
+    "$oid": "5fd2e367ea0dd9478870d859"
+  },
+  "body": "Fantastic course. Brad is so knowledgeable and a brilliant teacher. The way the course comes together towards the end and draws everything you have is really great. I am definitely feeling more knowledgeable and comfortable with Javascript and it's concepts.",
+  "rating": 5,
+  "createdAt": {
+    "$date": "2020-12-11T03:11:35.871Z"
+  },
+  "updatedAt": {
+    "$date": "2020-12-11T03:11:36.343Z"
+  },
+  "__v": 0,
+  "author": {
+    "$oid": "5fd2e367ea0dd9478870d865"
+  }
+},{
+  "_id": {
+    "$oid": "5fd2e367ea0dd9478870d85a"
+  },
+  "body": "It is very good course to learn modern javascript. If you don't know anything about js then you can definitely go with this course.",
+  "rating": 5,
+  "createdAt": {
+    "$date": "2020-12-11T03:11:35.872Z"
+  },
+  "updatedAt": {
+    "$date": "2020-12-11T03:11:36.343Z"
+  },
+  "__v": 0,
+  "author": {
+    "$oid": "5fd2e367ea0dd9478870d866"
   }
 }]
