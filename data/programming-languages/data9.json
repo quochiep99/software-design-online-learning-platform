@@ -1,0 +1,151 @@
+{
+    "field": {
+        "name": "programming-languages",
+        "courses": []
+    },
+    "course": {
+        "title": "C# Basics for Beginners: Learn C# Fundamentals by Coding",
+        "subtitle": "Master C# fundamentals in 6 hours - The most popular course with 50,000+ students, packed with tips and exercises!",
+        "descriptions": [],
+        "reviews": [],
+        "students": [],
+        "image1xURL": "https://img-a.udemycdn.com/course/240x135/382002_5d4a.jpg",
+        "image2xURL": "https://img-a.udemycdn.com/course/480x270/382002_5d4a.jpg",
+        "image3xURL": "https://img-a.udemycdn.com/course/750x422/382002_5d4a.jpg",
+        "discountPrice": 15.99,
+        "originalPrice": 174.99,
+        "numViews": 0,
+        "curriculum": []
+    },
+    "reviews": [
+        {
+            "body": "This course was extremely useful. However, there were some terms which were not explained which was a bit confusing when they were used later on. Also, for some of the challenges, they required use to use code which would be explained later in the course, not at present time. I found myself saying “I didn’t know that I could have done that” often. I had no choice but to look at the solutions in order to find the answer.",
+            "rating": 4.5
+        },
+        {
+            "body": "Beginner's course is flawless. Highly recommend it to anyone. However I wish I could say the same for the Intermediate Class.",
+            "rating": 5
+        },
+        {
+            "body": "The course included homework assignments which allowed me to practice what I've learned. I also found it useful that Mosh encourages his students to grow and actively learn both individually and as a part of a community. One thing that I would suggest is to maybe have more homework assignments.",
+            "rating": 4.5
+        },
+        {
+            "body": "This was well organized and presented well.\n\n2 points of contention, one, I mentioned in the q&a's that Mosh uses a common convention of teaching where he creates variable names which happen to also be the names of methods or classes. While this is valid coding, it can be very confusing.\n\nSecond, he should really go back and fix the quizzes. These should be 100% accurate and they aren't. I stopped doing them because I was getting marked wrong on answers that turned out to be correct which added more confusion.\n\nTo repeat, I have purchased and gone through a couple of the other beginning C# courses and this is by far the best and definitely well enough put together to learn the material.",
+            "rating": 5
+        },
+        {
+            "body": "This course was great!! I just finished a coding bootcamp that covered C# and ASP.NET Core as one of it's stacks and am at my first job. This course has been a great refresher and I have learned a lot of things that I did not learn in the bootcamp. I will continue on to the intermediate course. Thanks Mosh!!",
+            "rating": 5
+        },
+        {
+            "body": "some concepts are unclear, beginner without any knowledge of programming find some concepts difficult to understand. but it was good course.",
+            "rating": 3
+        },
+        {
+            "body": "The is just a remarkable course. I should have taken this one first before the intermediate course. I have learned so much in this basic course, which I consider to be a higher level than I expected, and it is much higher that a basic course. It has definitely given me the confidence I need to return to the intermediate level.",
+            "rating": 5
+        },
+        {
+            "body": "this is my first in course in whole my life even in programming , in this course mosh sir was teaching us very good , thank you sir teaching me CSharp , and my age is 13",
+            "rating": 5
+        },
+        {
+            "body": "Really just the Basics, so as far as that it's really good! Although in 2020 it might be a bit outdated at some parts... very Microsoft Windows oriented at times (need to help yourself on a Mac most times) and even on windows, where there are are old references. The Teaching Assistants do try to give every question an answer to keep the course up to date.\n\nSo a bit cautious about but still excited for the Intermediate and Advanced parts of the course-series to give a full picture.\n\nThank you Mosh!",
+            "rating": 3.5
+        },
+        {
+            "body": "A really quality course which not only teaches you a lot of new things, also makes you feel your own development!",
+            "rating": 5
+        },
+        {
+            "body": "It was a good course for the beginners to programming like myself, but the lecture non primitive type could be more detailed specially classes ,and exercises could have been more of help if they were explained later.\n\nOverall a good course...",
+            "rating": 4
+        },
+        {
+            "body": "This was a great introduction into coding. Very in depth on the fundamentals which is great to see the inner workings before building.",
+            "rating": 5
+        }
+    ],
+    "students": [
+        {
+            "name": "Jean-Paul Ismael",
+            "email": "jean-paulismael@gmail.com",
+            "password": "jean-paulismael",
+            "role": "s"
+        },
+        {
+            "name": "Raymond Kim",
+            "email": "raymondkim@gmail.com",
+            "password": "raymondkim",
+            "role": "s"
+        },
+        {
+            "name": "Lachezar Georgiev",
+            "email": "lachezargeorgiev@gmail.com",
+            "password": "lachezargeorgiev",
+            "role": "s"
+        },
+        {
+            "name": "Doug Gilbert",
+            "email": "douggilbert@gmail.com",
+            "password": "douggilbert",
+            "role": "s"
+        },
+        {
+            "name": "EggHead Team",
+            "email": "eggheadteam@gmail.com",
+            "password": "eggheadteam",
+            "role": "s"
+        },
+        {
+            "name": "kiran kumar",
+            "email": "kirankumar@gmail.com",
+            "password": "kirankumar",
+            "role": "s"
+        },
+        {
+            "name": "Jerome Hyacinth",
+            "email": "jeromehyacinth@gmail.com",
+            "password": "jeromehyacinth",
+            "role": "s"
+        },
+        {
+            "name": "Mukhtar Zotder",
+            "email": "mukhtarzotder@gmail.com",
+            "password": "mukhtarzotder",
+            "role": "s"
+        },
+        {
+            "name": "Csongor Nagy",
+            "email": "csongornagy@gmail.com",
+            "password": "csongornagy",
+            "role": "s"
+        },
+        {
+            "name": "Ahmed SARIMEŞE",
+            "email": "ahmedsarimeşe@gmail.com",
+            "password": "ahmedsarimeşe",
+            "role": "s"
+        },
+        {
+            "name": "Babur Zaman Khan Mughal",
+            "email": "baburzamankhanmughal@gmail.com",
+            "password": "baburzamankhanmughal",
+            "role": "s"
+        },
+        {
+            "name": "Fernando Huamancaja",
+            "email": "fernandohuamancaja@gmail.com",
+            "password": "fernandohuamancaja",
+            "role": "s"
+        }
+    ],
+    "instructor": {
+        "name": "Mosh Hamedani",
+        "email": "moshhamedani@gmail.com",
+        "password": "moshhamedani",
+        "role": "i",
+        "briefIntroduction": "<p>Hi!&nbsp;My name is Mosh (Moshfegh)&nbsp;Hamedani! I'm a passionate software engineer with two decades of experience and I've taught over 3 million people who to code or how to become professional software engineers through my YouTube channel and online courses. </p><p>My goal is to make software engineering fun and accessible to everyone. That's why my courses are simple, pragmatic and free of BS. </p>"
+    }
+}

@@ -1,0 +1,151 @@
+{
+    "field": {
+        "name": "programming-languages",
+        "courses": []
+    },
+    "course": {
+        "title": "The Modern Python 3 Bootcamp",
+        "subtitle": "A Unique Interactive Python Experience With Nearly 200 Exercises and Quizzes",
+        "descriptions": [],
+        "reviews": [],
+        "students": [],
+        "image1xURL": "https://img-a.udemycdn.com/course/240x135/1350984_2355_6.jpg",
+        "image2xURL": "https://img-a.udemycdn.com/course/480x270/1350984_2355_6.jpg",
+        "image3xURL": "https://img-a.udemycdn.com/course/750x422/1350984_2355_6.jpg",
+        "discountPrice": 11.99,
+        "originalPrice": 129.99,
+        "numViews": 0,
+        "curriculum": []
+    },
+    "reviews": [
+        {
+            "body": "This is an amazing way to start programing and undertand python.\n\nI noticed some minor error but nothing important.\n\nkeep in mind the this course is basic/medium-basic, if you want to do more specialized things or a job you will need more learning.",
+            "rating": 4.5
+        },
+        {
+            "body": "This was AMAZING! Colt is so entertaining and so intelligent! I am an absolute beginner to python, so I have learnt so much. 10/10 would recommend :)",
+            "rating": 5
+        },
+        {
+            "body": "Great course that has opened the world of Python to me. Lots of exercises that helped me apply the newly discovered concepts. I watched the whole course using x1.5 playback speed because Colt speaks a bit slow (but I guess it's fine for the complete newbies in the world of programming). The only thing that annoyed me was the Scrapy module video, to me it did not explain the topic in satisfactiorial profoundity. Apart from that, it's really cool that there are two sections at the end that have been added after the course publication. Definitely recommend it!",
+            "rating": 5
+        },
+        {
+            "body": "course was awesome, Colt sir really explained everything in detail and in an easily understandable way. The course's curriculum also was well structured with a lots of challenge which really gave me a good hands on practice. This course also covered a lot of advanced topics too. Without a doubt I would recommend this course to anyone who is just starting to learn python as a beginner. Thank You Colt sir",
+            "rating": 5
+        },
+        {
+            "body": "Probably the best course I have taken in Udemy, great teacher, great material, gives you exercise, and has a very good sense of humor. Highly recommended.",
+            "rating": 5
+        },
+        {
+            "body": "This was an pretty intensive course. The beginning was easy enough but there was a bump in the curve towards the end.\n\nI think there could be more exercise; especially more combined exercises that take different components like making a generator with a recursive function with dictionary k,v pairs. More \"real world\" things that we might encounter.\n\nI also would have liked more time with classes and methods and OOP.\n\nOverall, I feel this was a very good comprehensive course.",
+            "rating": 4
+        },
+        {
+            "body": "I really liked the way you teach and the way the course is built up! Looking forward for updated modules and some fixes for minor issues or points I commented throughout the course for further clarification to most people maybe.",
+            "rating": 5
+        },
+        {
+            "body": "Very good course for absolute beginners. Jam packed with many exercises and challenges. The inclusion of web scraping and SQL is a big plus. However, later chapters need some updating as to functionality, i.e. when I coded along with the instructor I had problems with the installation of Scrapy and SQL, or some codes would not execute properly in Powershell. Other than that, great value for money.",
+            "rating": 4.5
+        },
+        {
+            "body": "Great course covering all of the basics and some advanced topics. I wish some of the advanced topics had more practical examples; I'm not sure how I'd apply some of these advanced topics in my own work.",
+            "rating": 4.5
+        },
+        {
+            "body": "Colt has an excellent attitude, is easy to listen to and has a great program! I didn't give the full 5 stars because I feel there were certain sections where he was moving way too fast for me to understand.",
+            "rating": 4
+        },
+        {
+            "body": "One of the best courses I ever did on python. Colt teaches in the simplest way possible so you can grasp everything. Lots of exerciseS, lots of fun...make sure you do every exercise possible on your own first. IF YOU WANNA LEARN PYTHON FROM SCRATCH...THIS IS IT!!\n\nAnd thanks to Zarko and others community members for solving queries.",
+            "rating": 5
+        },
+        {
+            "body": "Best Python course I've ever taken! I definitely recommend it whether you are a complete novice or already have some experience like me. Colt gives a lot of useful staff as unittesting, using decorators, basics of OOP. And I would like to thank Zarko, a course assistant who answered quickly to all questions I posted when I was stuck. And it's great that there are so many exercises in a course, although I wish there were more. Thanks a lot for such an amazing course!! :)",
+            "rating": 5
+        }
+    ],
+    "students": [
+        {
+            "name": "Agustín Martínez Figueroa",
+            "email": "agustínmartínezfigueroa@gmail.com",
+            "password": "agustínmartínezfigueroa",
+            "role": "s"
+        },
+        {
+            "name": "Alisha Basdow",
+            "email": "alishabasdow@gmail.com",
+            "password": "alishabasdow",
+            "role": "s"
+        },
+        {
+            "name": "Bartłomiej Wajda",
+            "email": "bartłomiejwajda@gmail.com",
+            "password": "bartłomiejwajda",
+            "role": "s"
+        },
+        {
+            "name": "vikram c.n.",
+            "email": "vikramc.n.@gmail.com",
+            "password": "vikramc.n.",
+            "role": "s"
+        },
+        {
+            "name": "Luisandresap",
+            "email": "luisandresap@gmail.com",
+            "password": "luisandresap",
+            "role": "s"
+        },
+        {
+            "name": "Tony Chun",
+            "email": "tonychun@gmail.com",
+            "password": "tonychun",
+            "role": "s"
+        },
+        {
+            "name": "Sven Mäesalu",
+            "email": "svenmäesalu@gmail.com",
+            "password": "svenmäesalu",
+            "role": "s"
+        },
+        {
+            "name": "Ernesto Burzic",
+            "email": "ernestoburzic@gmail.com",
+            "password": "ernestoburzic",
+            "role": "s"
+        },
+        {
+            "name": "V A",
+            "email": "va@gmail.com",
+            "password": "va",
+            "role": "s"
+        },
+        {
+            "name": "Steven Trang",
+            "email": "steventrang@gmail.com",
+            "password": "steventrang",
+            "role": "s"
+        },
+        {
+            "name": "Vickey Sangwan",
+            "email": "vickeysangwan@gmail.com",
+            "password": "vickeysangwan",
+            "role": "s"
+        },
+        {
+            "name": "Ksenia Kuzina",
+            "email": "kseniakuzina@gmail.com",
+            "password": "kseniakuzina",
+            "role": "s"
+        }
+    ],
+    "instructor": {
+        "name": "Colt Steele",
+        "email": "coltsteele@gmail.com",
+        "password": "coltsteele",
+        "role": "i",
+        "briefIntroduction": "<p>Hi! I'm Colt. I'm a developer with a serious love for teaching. I've spent the last few years teaching people to program at 2 different immersive bootcamps where <strong>I've helped hundreds of people become web developers and change their lives.</strong> My graduates work at companies like Google, Salesforce, and Square.</p><p>Most recently, I led Galvanize's SF's 6 month immersive program as <strong>Lead Instructor</strong> and <strong>Curriculum Director.</strong> After graduating from my class, 94% of my students went on to receive full-time developer roles. I also worked at Udacity as a <strong>Senior Course Developer </strong>on the web development team where I got to reach thousands of students daily. </p><p>I’ve since focused my time on bringing my classroom teaching experience to an online environment. In 2016 I launched my <strong>Web Developer Bootcamp course</strong>, which has since gone on to become one of the best selling and top rated courses on Udemy. I was also voted <strong>Udemy’s Best New Instructor of 2016.</strong> </p><p>I've spent years figuring out the \"formula\" to teaching technical skills in a classroom environment, and I'm really excited to finally share my expertise with you. I can confidently say that my online courses are without a doubt the most comprehensive ones on the market. </p><p><strong>Join me on this crazy adventure!</strong></p>"
+    }
+}

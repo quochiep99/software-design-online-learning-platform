@@ -1,0 +1,223 @@
+{
+    "field": {
+        "name": "programming-languages",
+        "courses": []
+    },
+    "course": {
+        "title": "The Python Bible™ | Everything You Need to Program in Python",
+        "subtitle": "Build 11 Projects and go from Beginner to Pro in Python with the World's Most Fun Project-Based Python Course!",
+        "descriptions": [],
+        "reviews": [],
+        "students": [],
+        "image1xURL": "https://img-a.udemycdn.com/course/240x135/903378_f32d_7.jpg",
+        "image2xURL": "https://img-a.udemycdn.com/course/480x270/903378_f32d_7.jpg",
+        "image3xURL": "https://img-a.udemycdn.com/course/750x422/903378_f32d_7.jpg",
+        "discountPrice": 11.99,
+        "originalPrice": 129.99,
+        "numViews": 0,
+        "curriculum": []
+    },
+    "reviews": [
+        {
+            "body": "I was absolute beginner when I started this course. Ziyad is a great teacher. He explained things clearly and very easy to understand. If you want to learn Python, don't hesitate. Choose this course. You will not regret.",
+            "rating": 5
+        },
+        {
+            "body": "He moved very fast towards the end, but you can always pause the video. I thought the course was very good. Be sure to practice on your spare time.",
+            "rating": 5
+        },
+        {
+            "body": "It's a very enjoyable course. Ziyad is a born teacher! Explanations are great. I will practice hard! Thanks Ziyad!\n\n*the thing that I gave not full 5 stars is about the course description. It must be introduction to python, not beginner to Pro.\n\nbut still, thank you! More blessings to come! ;)",
+            "rating": 4.5
+        },
+        {
+            "body": "Great course. The very last project really helped clarify classes for me. Doing a recap on classes brought it all together.\n\nThis is the second course of yours that I have taken. Kudos to me for making another great choice and thank you to you! I learned a lot. Perhaps you can do a Ruby programming course?",
+            "rating": 5
+        },
+        {
+            "body": "The teacher is exceptional, goes into detail, positive spirit that makes you smile even when it gets hard. Only but, is he walked more lightly over constructors, and the other advanced stuff at the end of the course. Still the best Python course I have bought! Learned me a lot the others failed to do!",
+            "rating": 5
+        },
+        {
+            "body": "I enjoyed the class very much and I learned a lot. But thought the last two sections went by very fast. I would of like to see more test and exercises in these sections to get a better grasp of the concepts.",
+            "rating": 4
+        },
+        {
+            "body": "Very easy to understand with little to know confusion to what the teacher is meaning. Level is consistent throughout and there are no sudden jumps in difficulty.",
+            "rating": 5
+        },
+        {
+            "body": "Thanks for the wonderful course, it really helped me to understand lot of topics such as methods and function in a very easy manner. Expecting the nodejs and any full stack development course like this from you. Thanks again for your time and efforts towards this course.",
+            "rating": 5
+        },
+        {
+            "body": "Quick to the point. Moving at a brisk pace from topic to topic. Not bogged down by details of a complex concept. Still am able to grasp main importance of concepts. Wish there were more short exercises so to get feedback to solidify concepts and build confidence moving to the next topic. Well worth the investment.",
+            "rating": 4.5
+        },
+        {
+            "body": "The course lift off with a good combination of lecture and pop quiz or coding challenge. But in midway, the quiz or coding challenge become scarcer.",
+            "rating": 3.5
+        },
+        {
+            "body": "It was a good course for beginner like myself. It started off very well and it was easy to follow but I felt that it was at the later stage (Eg: Functions and OOP). Looking forward to more content in the future. Till then I will continue practicing! Cheers!",
+            "rating": 3.5
+        },
+        {
+            "body": "Really good course, interesting, serious and quite funny. I think I have a good base of Python now.\n\nMaybe, just missing some graphical programming courses, but in its content, top.",
+            "rating": 5
+        }
+    ],
+    "students": [
+        {
+            "name": "Nahoko Ramirez Mendez",
+            "email": "nahokoramirezmendez@gmail.com",
+            "password": "nahokoramirezmendez",
+            "role": "s"
+        },
+        {
+            "name": "Internet of Things Academy",
+            "email": "internetofthingsacademy@gmail.com",
+            "password": "internetofthingsacademy",
+            "role": "s"
+        },
+        {
+            "name": "Stephanie Harrison",
+            "email": "stephanieharrison@gmail.com",
+            "password": "stephanieharrison",
+            "role": "s"
+        },
+        {
+            "name": "Internet of Things Academy",
+            "email": "internetofthingsacademy@gmail.com",
+            "password": "internetofthingsacademy",
+            "role": "s"
+        },
+        {
+            "name": "Ralph Dequina",
+            "email": "ralphdequina@gmail.com",
+            "password": "ralphdequina",
+            "role": "s"
+        },
+        {
+            "name": "Internet of Things Academy",
+            "email": "internetofthingsacademy@gmail.com",
+            "password": "internetofthingsacademy",
+            "role": "s"
+        },
+        {
+            "name": "Brian Van",
+            "email": "brianvan@gmail.com",
+            "password": "brianvan",
+            "role": "s"
+        },
+        {
+            "name": "Internet of Things Academy",
+            "email": "internetofthingsacademy@gmail.com",
+            "password": "internetofthingsacademy",
+            "role": "s"
+        },
+        {
+            "name": "Confucius_The_Great Confucius_The_Great",
+            "email": "confucius_the_greatconfucius_the_great@gmail.com",
+            "password": "confucius_the_greatconfucius_the_great",
+            "role": "s"
+        },
+        {
+            "name": "Internet of Things Academy",
+            "email": "internetofthingsacademy@gmail.com",
+            "password": "internetofthingsacademy",
+            "role": "s"
+        },
+        {
+            "name": "Roxanne Khan",
+            "email": "roxannekhan@gmail.com",
+            "password": "roxannekhan",
+            "role": "s"
+        },
+        {
+            "name": "Internet of Things Academy",
+            "email": "internetofthingsacademy@gmail.com",
+            "password": "internetofthingsacademy",
+            "role": "s"
+        },
+        {
+            "name": "Leon Chan",
+            "email": "leonchan@gmail.com",
+            "password": "leonchan",
+            "role": "s"
+        },
+        {
+            "name": "Internet of Things Academy",
+            "email": "internetofthingsacademy@gmail.com",
+            "password": "internetofthingsacademy",
+            "role": "s"
+        },
+        {
+            "name": "Ravichandran k",
+            "email": "ravichandrank@gmail.com",
+            "password": "ravichandrank",
+            "role": "s"
+        },
+        {
+            "name": "Internet of Things Academy",
+            "email": "internetofthingsacademy@gmail.com",
+            "password": "internetofthingsacademy",
+            "role": "s"
+        },
+        {
+            "name": "Mark Kai",
+            "email": "markkai@gmail.com",
+            "password": "markkai",
+            "role": "s"
+        },
+        {
+            "name": "Internet of Things Academy",
+            "email": "internetofthingsacademy@gmail.com",
+            "password": "internetofthingsacademy",
+            "role": "s"
+        },
+        {
+            "name": "Azzuddin Rizal Ramli",
+            "email": "azzuddinrizalramli@gmail.com",
+            "password": "azzuddinrizalramli",
+            "role": "s"
+        },
+        {
+            "name": "Internet of Things Academy",
+            "email": "internetofthingsacademy@gmail.com",
+            "password": "internetofthingsacademy",
+            "role": "s"
+        },
+        {
+            "name": "Muhammad Amzar Bin Ahmad",
+            "email": "muhammadamzarbinahmad@gmail.com",
+            "password": "muhammadamzarbinahmad",
+            "role": "s"
+        },
+        {
+            "name": "Internet of Things Academy",
+            "email": "internetofthingsacademy@gmail.com",
+            "password": "internetofthingsacademy",
+            "role": "s"
+        },
+        {
+            "name": "Christian Bicca",
+            "email": "christianbicca@gmail.com",
+            "password": "christianbicca",
+            "role": "s"
+        },
+        {
+            "name": "Internet of Things Academy",
+            "email": "internetofthingsacademy@gmail.com",
+            "password": "internetofthingsacademy",
+            "role": "s"
+        }
+    ],
+    "instructor": {
+        "name": "Ziyad Yehia",
+        "email": "ziyadyehia@gmail.com",
+        "password": "ziyadyehia",
+        "role": "i",
+        "briefIntroduction": "<p>Hi there, I'm Ziyad! I&nbsp;am a Udemy Instructor with over 150,000 students&nbsp;and I specialize in getting beginner level students up and running with Python and Linux&nbsp;with my&nbsp;highly effective project-based approach.&nbsp;</p><p>I previously taught computing to students at a&nbsp;UK-based international college and now put my full efforts into providing an&nbsp;outstanding learning experience to&nbsp;students around the world on Udemy.</p><p>I am best known for my&nbsp;results-driven teaching as well as&nbsp;my clear, energetic&nbsp;delivery. If you like to learn things quickly and thoroughly and like to have loads of&nbsp;fun on the way, then I&nbsp;cannot wait to work with you and help you to achieve your goals!</p>"
+    }
+}

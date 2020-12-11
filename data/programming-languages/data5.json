@@ -1,0 +1,151 @@
+{
+    "field": {
+        "name": "programming-languages",
+        "courses": []
+    },
+    "course": {
+        "title": "Learn Python Programming Masterclass",
+        "subtitle": "This Python For Beginners Course Teaches You The Python Language Fast. Includes Python Online Training With Python 3",
+        "descriptions": [],
+        "reviews": [],
+        "students": [],
+        "image1xURL": "https://img-b.udemycdn.com/course/240x135/629302_8a2d_2.jpg",
+        "image2xURL": "https://img-b.udemycdn.com/course/480x270/629302_8a2d_2.jpg",
+        "image3xURL": "https://img-b.udemycdn.com/course/750x422/629302_8a2d_2.jpg",
+        "discountPrice": 11.99,
+        "originalPrice": 129.99,
+        "numViews": 0,
+        "curriculum": []
+    },
+    "reviews": [
+        {
+            "body": "ating: 1.0 out of 5\n2 months ago\n\nI want to start by saying I have always been good at analytical thought processing. I was always good at math, so while I'm new to programming it's not something I find to be inherently difficult or abstract. Also, I have gotten through most of this course already so it's not like I started a few videos, didn't like them, and quit. I've been pushing through and intend to finish the course but at this point I can see that certain things are not going to change towards the end.\n\nThe structure of this course is just horrible. Apparently they are working on a revision which I believe should help to some degree as it became blatantly obvious when I got past the revised portion and into the original course material.\n\nThe first problem I have with the structure is that there is very little thought put into prioritization. It seems like there is just as much time and emphasis put on things that are trivial as there is on the core concepts that you are trying to learn. For instance, he literally spends about 1.5 hours on time zones. If I want to become an expert on time zones I can look that up on my own time. I'm trying to learn programming here, sure time zones are a valuable thing to know how to implement, but they are hardly essential to the main goal of learning how to program.\n\nSecond, there is not very much drilling of core concepts. There are really no big projects that help you to put what you learn into practice. Other courses I've taken in Javascript, HTML/CSS, have had projects along the way so you get comfortable with what you've learned so far before moving on.\n\nThird, this seems like almost as much of a trouble shooting class as a teaching class. I understand that trouble shooting is VERY important in programming. However, the lessons are so often interrupted with trouble shooting tips that you kind of lose focus on the main reason most people take the class, learning to do things correctly. This is probably a feature that may be beneficial to people who are intermediate Python programmers, but for those of us who are beginners as the course advertises it is meant for, the trouble shooting really can be distracting from just learning the correct ways of doing things. Might be beneficial to have a separate trouble shooting section at the end of the course instead of constantly interrupting the study flow of students showing them how to deal with this and that along the way that really shouldn't be happening if they are writing their code correctly. Usually this occurs in the middle of a video, but sometimes is just inserted into a section as a random separate video that is not necessarily just applicable to that sections material. For instance, halfway through the SQL/Database section we just stop and get into 1.5 hours worth of videos about exception handling. I get that exception handling is applicable to SQL/databases, but it is far from being exclusively applicable to that area of Python, so why stop in the middle of SQL/databases, why not just add it in it's own section or at least at the beginning or end of the database section instead of stopping right in the middle?\n\nFourth, trial and error. I get that programming entails a lot of trial and error, however, when you're new at something you'll make enough typos and other errors all on your own. These videos were made seemingly with little prior plan for how goals would be achieved. The instructor seems to be processing how he's going to do things as he does them. This leads to students sometimes being told to type code that doesn't execute correctly and then having to adjust it along with the instructor after they've already spent time typing a bunch of stuff out. Also a lot of things that may not necessarily cause code not to execute but that the instructor tells you to do it one way and then halfway through just realizes that the way he had done it is not the best way to do it and has you change it.\n\nFifth, similar names. Throughout the course the instructor will use a similar names for multiple things in a video or even the same name with the only difference being one start with a capitalized letter and one without or one is plural and one is not, etc etc. This makes in difficult to follow what is supposed to be going where as you're writing code. Am I referring to a class or a variable? etc, etc. It also makes it less obvious what previously written code is referring to as you're watching the video, is this code referring back to the Class, to a variable, to a function? May seem obvious to an intermediate student but to a beginner it makes the learning process more difficult. It also makes it unnecessarily difficult to catch errors when your code doesn't execute properly.\n\nFinally, too much going on in a single video. To be fair, this does seem to be something they are addressing in the up coming revised version. But very often in this course you will be working on a concept, you'll learn how to do it, and then rather than leaving that video finished and having that in your mind as to how that concept/process should be done, he'll continue the video and have you erase what you've done to show you another way of doing it, and then another way of doing it, and then another way of doing it. By the end you're kind of like \"what the hell was I supposed to be learning to begin with?\". Probably better to just start a new video, create a new file, copy the code from the other file, and then change it to learn another variation of how to do something. It would help with keeping different concepts/processes separate in your mind.\n\nOverall I think this course is difficult and frustrating for a beginner to follow. I would imagine that it would not be as difficult for an intermediate student to follow, but might still be just as frustrating.",
+            "rating": 1
+        },
+        {
+            "body": "I am very new to programming and I have tried a lot of other websites and youtube channels before. However, I found this particular course really good as it went very in depth about python but still managed to be understandable for beginners. This was an overall great experience!",
+            "rating": 4.5
+        },
+        {
+            "body": "I have taken online programming courses before on YouTube, but Tim has gone into greater detail about programming than any other. I highly recommend great course for beginners and even experienced programmers.",
+            "rating": 5
+        },
+        {
+            "body": "My background is engineering and I have a programming background too in Java and C++. This is my first time to take python. This course is really helps me to have a programming knowledge in python. This days, python is used to develop many applications and everyone needs to know.",
+            "rating": 5
+        },
+        {
+            "body": "IT IS MY FIRST TIME TO TAKE COURSE ONLINE AND IN PROGRAMMING AND IT IS VERY EXCELLENT EXPERIENCE AND I AM SO IMPRESSED. THIS COURSE AND THE INSTRUCTER ARE VERY EXCELLENT .THANK YOU TIM BUCHALKA VERY MUCH .",
+            "rating": 5
+        },
+        {
+            "body": "Course is delivered professionally. I was able to learn Python from scratch. Few concepts like Lambda is missing also slide of the course is also missing. Overall satisfied.",
+            "rating": 4.5
+        },
+        {
+            "body": "your course is best to learn Python, You explained each and every basic things which are so understandable easily thanks for that and you just keep to make new courses for us so we can updated in more technology... its progressable for us",
+            "rating": 4.5
+        },
+        {
+            "body": "This course was my first step into Python and the IT world. I was looking for \"Python for dummies\" course and I found it. I reccomend it for people who want to start their journey with Python with someone who won't tell you that you're too stupid for programming.\n\nPros:\n\n- step-by-step guide,\n\n- clear explanations and materials,\n\n- all Python basics in one place,\n\n- remastered parts are much better than previous ones (which is good for future users),\n\nCons (just my opinion, not objective):\n\n- I liked the basics being step-by-step but in the end the course started to be bit boring and too long - however it might be just a perception thing, cause it's not a short one,\n\n- unremastered parts: too little exercises (but I know you're adding them); sometimes I just felt overwhelmed with the lecture, without opportunity to practise;\n\nTim and JP - thank you very much for this amazing work! <3 Kudos, love and all the best!",
+            "rating": 5
+        },
+        {
+            "body": "The course is very informative with interesting exercises in between for better clarity. Thanks to the faculty.",
+            "rating": 5
+        },
+        {
+            "body": "Finally finished the course! Learned a lot and excited to learn more once I get the chance. Tim's a great teacher and their Q&A team is quick to answer most questions. Would definitely recommend!!!",
+            "rating": 5
+        },
+        {
+            "body": "Amazing course, full of explanation. Some of the topics are not included but hoping they will be added soon because they are remaster the whole course. Worth buying this course.",
+            "rating": 5
+        },
+        {
+            "body": "This course was one of few courses in python which i took. I must say nothing was more comprehensive and exhaustive like this. Tim goes into each and concept and talks about it in detail. At times it was overbearing but if you are able to complete it - you would have got valuable insights into the dynamics of python. I use this material as a reference. I am glad that i took this course! Thank you guys",
+            "rating": 5
+        }
+    ],
+    "students": [
+        {
+            "name": "Sean Santiago",
+            "email": "seansantiago@gmail.com",
+            "password": "seansantiago",
+            "role": "s"
+        },
+        {
+            "name": "Neve Chamberlain",
+            "email": "nevechamberlain@gmail.com",
+            "password": "nevechamberlain",
+            "role": "s"
+        },
+        {
+            "name": "Garret Johnson",
+            "email": "garretjohnson@gmail.com",
+            "password": "garretjohnson",
+            "role": "s"
+        },
+        {
+            "name": "Abiy Belachew",
+            "email": "abiybelachew@gmail.com",
+            "password": "abiybelachew",
+            "role": "s"
+        },
+        {
+            "name": "Mohammed Alkhelaiwy",
+            "email": "mohammedalkhelaiwy@gmail.com",
+            "password": "mohammedalkhelaiwy",
+            "role": "s"
+        },
+        {
+            "name": "Suresh Uthirapathy",
+            "email": "sureshuthirapathy@gmail.com",
+            "password": "sureshuthirapathy",
+            "role": "s"
+        },
+        {
+            "name": "Priyanka Patel",
+            "email": "priyankapatel@gmail.com",
+            "password": "priyankapatel",
+            "role": "s"
+        },
+        {
+            "name": "Igor Belczewski",
+            "email": "igorbelczewski@gmail.com",
+            "password": "igorbelczewski",
+            "role": "s"
+        },
+        {
+            "name": "211460-Thilaga Lakshmi",
+            "email": "211460-thilagalakshmi@gmail.com",
+            "password": "211460-thilagalakshmi",
+            "role": "s"
+        },
+        {
+            "name": "Maxwell Nganyadi",
+            "email": "maxwellnganyadi@gmail.com",
+            "password": "maxwellnganyadi",
+            "role": "s"
+        },
+        {
+            "name": "Ran Bahadur B.K.",
+            "email": "ranbahadurb.k.@gmail.com",
+            "password": "ranbahadurb.k.",
+            "role": "s"
+        },
+        {
+            "name": "Harish",
+            "email": "harish@gmail.com",
+            "password": "harish",
+            "role": "s"
+        }
+    ],
+    "instructor": {
+        "name": "Tim Buchalka",
+        "email": "timbuchalka@gmail.com",
+        "password": "timbuchalka",
+        "role": "i",
+        "briefIntroduction": "<p>Tim's been a professional software developer for over 35 years.&nbsp; During his career, he has worked for major companies such as Fujitsu, Mitsubishi, and Saab.<br><br>His video courses are used to train developers in major companies such as Mercedes-Benz, Paypal, VW, Pitney Bowes, IBM, and T-Mobile just to name a few (via the Udemy for Business program).<br><br>What makes Tim unique is his professional programming career - many instructors have never programmed professionally, let alone had a distinguished professional development career like Tim.<br><br>Tim has trained over 847,000 students how to program, way more than a typical IT&nbsp;Professor at a college does in a lifetime.<br><br>In fact, Tim's courses are often purchased by students struggling to get through college programming courses.</p><p>\"I am learning a lot about Java very quickly. I wish my college courses worked this way, they drag the same amount of material out over months.\" - Thomas Neal<br><br>\"I love this guy. I'm in school for java right now at a local college and I bought this course hoping it would help clarify the fuzzy areas of my coursework. There's no comparison. Every time I get lost in my textbook, I watch a couple more of these videos and I'm right back on track. He explains everything so perfectly. It sinks right in.\" - Kristen Andreani<br><br>\"Tim is a great instructor, I have more courses from him and all are great. This one really helped me with my understanding of Java from the very beginnings. In fact, I was able to find a job as Java developer with the knowledge gained from this course, so I basically owe Mr. Buchalka my career\" - Daniel KubÃ¡nyi<br><br>Tim's mission is simple:&nbsp; to make a difference in your life by helping you to become a software developer. &nbsp;Tim does that through his Java, Python, C#, Spring Framework, and Android development courses.</p><p>When Tim started programming over thirty-five years ago, there was no online&nbsp;video training. &nbsp;</p><p>There was no \"easy\" way to learn. &nbsp;The Internet, in its current form, didn't exist, and as a result, Tim&nbsp;couldn't \"Google\" for help, or watch videos on Youtube.</p><p>After learning the hard way, Tim&nbsp;was determined to become the best teacher he could, and to make his training&nbsp;as painless as possible, so that you, or anyone else with the desire to&nbsp;become a software developer, could become one.</p><p>In between doing that, Tim&nbsp;spent the best part of those years as a professional software developer writing applications in Java and a variety of other languages. &nbsp;In addition, he spent many years with J2EE&nbsp;(as it was then known), now known as Java Enterprise Edition (JEE), designing and developing enterprise applications.</p><p>Tim is&nbsp;relatively unique, in that<strong>&nbsp;he is&nbsp;a professional, experienced software developer </strong>who also has <strong>exceptional teaching skills</strong>. &nbsp;<br><br>Many instructors have no work experience in the field. &nbsp;Make sure the person you trust with your education is a real expert with substantial previous professional experience.<br></p><p><strong>The bottom line for you is, when taking any of Tim's&nbsp;courses, is that&nbsp;you will learn the right way to do things from an expert, in the shortest possible amount of time.</strong></p><p>Tim's Java, Android, and Python courses, here on Udemy are of the highest quality as reviewed by his students. &nbsp;<strong> Ten's of thousands of students, just like you,&nbsp;have taken his&nbsp;classes,</strong> <strong>thousands have left glowing reviews,</strong> and many&nbsp;have gone on to full-time jobs, or consulting/freelancing opportunities after completing one of his&nbsp;courses.</p><p>Tim&nbsp;recently placed in the top ten Udemy instructors as voted for by his students and&nbsp;Udemy themselves. &nbsp;</p><p><strong>What does all of this mean for you?</strong></p><p>You can have full confidence that Tim's courses are of exceptional quality, and that he<strong>&nbsp;can teach you to become a software developer</strong> if you have the desire to become one.</p><p>Are you ready to start? &nbsp;You can get started today. &nbsp;No previous experience is necessary.</p><p>In 2020, video training is the quickest way to learn, and with Tim's experience and training, it is possible for you to become a software developer. &nbsp;You can do this.</p><p>Why not start today? &nbsp;Click one of his&nbsp;courses below, and watch his&nbsp;introductory video, to find out more about who he is&nbsp;and what he&nbsp;can offer you.</p>"
+    }
+}

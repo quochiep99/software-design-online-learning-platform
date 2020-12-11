@@ -1,0 +1,151 @@
+{
+    "field": {
+        "name": "programming-languages",
+        "courses": []
+    },
+    "course": {
+        "title": "React - The Complete Guide (incl Hooks, React Router, Redux)",
+        "subtitle": "Dive in and learn React.js from scratch! Learn Reactjs, Hooks, Redux, React Routing, Animations, Next.js and way more!",
+        "descriptions": [],
+        "reviews": [],
+        "students": [],
+        "image1xURL": "https://img-a.udemycdn.com/course/240x135/1362070_b9a1_2.jpg",
+        "image2xURL": "https://img-a.udemycdn.com/course/480x270/1362070_b9a1_2.jpg",
+        "image3xURL": "https://img-a.udemycdn.com/course/750x422/1362070_b9a1_2.jpg",
+        "discountPrice": 11.99,
+        "originalPrice": 129.99,
+        "numViews": 0,
+        "curriculum": []
+    },
+    "reviews": [
+        {
+            "body": "This is a third course I've taken from Max and again amazing. Everything is explained in depth and clear. Through out a course we build interesting project where implement all concepts that are explained in theory.",
+            "rating": 5
+        },
+        {
+            "body": "Seriously this course is next level, i ve seen several instructors structuring and styling there codes. but not like max. i often uses this course as my \"notes\" if i forgetting some. but overall this course really covers react very very deep that could makes you an expert in react",
+            "rating": 5
+        },
+        {
+            "body": "This course was great to supplement the coding boot camp I went to! Starts off with the basics but it gets pretty advanced in a hurry.",
+            "rating": 5
+        },
+        {
+            "body": "It was great. Occasionally got overly complicated and seemed to show a way to do things that weren't the simplest, most logical way. But great overall.",
+            "rating": 4.5
+        },
+        {
+            "body": "An excellent resource for anyone who is looking for a complete education in React. The lectures are accessible to anyone at any level of JavaScript knowledge, but most importantly the practice projects functional and deploy-able. Excellent!",
+            "rating": 5
+        },
+        {
+            "body": "Very very thorough course! Appreciate the ongoing updates and extra bonus courses to help on my development journey!",
+            "rating": 4.5
+        },
+        {
+            "body": "Special thanks to Max for putting together such a amazing Project .I just finished the course and the info I have learned is valuable. I like the way Max teaches, the exercises, the introduction to each subject . I can imagine the experience required to put together a course like this. Thanks Max for providing extra data to the course because enhance our knowledge. It took me three months to finish but it was great to dedicate all the time. Thanks for responding to my questions the next day. The best course ever.",
+            "rating": 5
+        },
+        {
+            "body": "This course is very good and plus the comprehensive information Max taught us through this course he also taught us a valuable vanilla javaScript data structure skills that really made the difference for me in my work.\n\nOnly two things that bothered me one of them is the design used for his applications, as they are not like a real world applications; however, the information expressed on the course main application and the other mini applications are enough to qualify me to build and work on React applications.\n\nthe other and the important significant one is that there is no section for typeScript, I still expect soon a section for developing react with typeScript.",
+            "rating": 4.5
+        },
+        {
+            "body": "The course is really amazing. I would say, a must for every developer out there, seeking to learn React, in the most fundamental manner possible!",
+            "rating": 5
+        },
+        {
+            "body": "Absolutely loved the course and the way Max teaches all the best practices along with telling other possibilities. It is definitely a must take course for those who truly want to master core React concepts and then build up on that.",
+            "rating": 5
+        },
+        {
+            "body": "Lots of great content, unfortunately there's almost TOO much distracting bonus content, making the course much harder to get through the core concepts. Also heavy use of class based components and only hooks used at the end, making a lot of the content out of date. That being said, if you get through it all, you will learn a ton about React.",
+            "rating": 4
+        },
+        {
+            "body": "I finished whole course right now and want to notice that it is one of the most beneficial courses you can meet when u are seeking for React course. If you see see this course, there is no need to go for any other alternatives. Feel free to join.\n\nNote: Only problem is there is huge amount of useful information and it can be difficult to place them all in your brain. You can be practise time by time to feel how great it is.\n\nThank you, Max, for this great journey :)",
+            "rating": 5
+        }
+    ],
+    "students": [
+        {
+            "name": "Yulia Lantzberg",
+            "email": "yulialantzberg@gmail.com",
+            "password": "yulialantzberg",
+            "role": "s"
+        },
+        {
+            "name": "Fachreza Ghifary",
+            "email": "fachrezaghifary@gmail.com",
+            "password": "fachrezaghifary",
+            "role": "s"
+        },
+        {
+            "name": "Michael Newman",
+            "email": "michaelnewman@gmail.com",
+            "password": "michaelnewman",
+            "role": "s"
+        },
+        {
+            "name": "Rob Arbittier",
+            "email": "robarbittier@gmail.com",
+            "password": "robarbittier",
+            "role": "s"
+        },
+        {
+            "name": "Luis Neira",
+            "email": "luisneira@gmail.com",
+            "password": "luisneira",
+            "role": "s"
+        },
+        {
+            "name": "David N Tran",
+            "email": "davidntran@gmail.com",
+            "password": "davidntran",
+            "role": "s"
+        },
+        {
+            "name": "Edward Garcia",
+            "email": "edwardgarcia@gmail.com",
+            "password": "edwardgarcia",
+            "role": "s"
+        },
+        {
+            "name": "mohammed youssef",
+            "email": "mohammedyoussef@gmail.com",
+            "password": "mohammedyoussef",
+            "role": "s"
+        },
+        {
+            "name": "Elemento 24",
+            "email": "elemento24@gmail.com",
+            "password": "elemento24",
+            "role": "s"
+        },
+        {
+            "name": "Syed Muhammad Zaeem Hasan Kazmi",
+            "email": "syedmuhammadzaeemhasankazmi@gmail.com",
+            "password": "syedmuhammadzaeemhasankazmi",
+            "role": "s"
+        },
+        {
+            "name": "Charles",
+            "email": "charles@gmail.com",
+            "password": "charles",
+            "role": "s"
+        },
+        {
+            "name": "Emin İsrafilzadə",
+            "email": "emini̇srafilzadə@gmail.com",
+            "password": "emini̇srafilzadə",
+            "role": "s"
+        }
+    ],
+    "instructor": {
+        "name": "Academind by Maximilian Schwarzmüller",
+        "email": "academindbymaximilianschwarzmüller@gmail.com",
+        "password": "academindbymaximilianschwarzmüller",
+        "role": "i",
+        "briefIntroduction": "<p>Bundling the courses and know how of successful instructors, Academind strives to deliver high quality online education.&nbsp;</p>\n\n<p>Online Education, Real-Life Success - that's what Academind stands for. Learn topics like web development, data analyses and more in a fun and engaging way.</p>\n\n\n\n\n\n\n\n<p>Currently, you can find courses published by Maximilian Schwarzmüller and Manuel Lorenz, more instructors to come!</p>\n\n\n\n\n\n\n\n<p>Keep learning!</p>"
+    }
+}

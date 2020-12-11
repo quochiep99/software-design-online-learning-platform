@@ -1,0 +1,157 @@
+{
+    "field": {
+        "name": "programming-languages",
+        "courses": []
+    },
+    "course": {
+        "title": "NodeJS - The Complete Guide (MVC, REST APIs, GraphQL, Deno)",
+        "subtitle": "Master Node JS & Deno.js, build REST APIs with Node.js, GraphQL APIs, add Authentication, use MongoDB, SQL & much more!",
+        "descriptions": [],
+        "reviews": [],
+        "students": [],
+        "image1xURL": "https://img-a.udemycdn.com/course/240x135/1879018_95b6_2.jpg",
+        "image2xURL": "https://img-a.udemycdn.com/course/480x270/1879018_95b6_2.jpg",
+        "image3xURL": "https://img-a.udemycdn.com/course/750x422/1879018_95b6_2.jpg",
+        "discountPrice": 11.99,
+        "originalPrice": 129.99,
+        "numViews": 0,
+        "curriculum": []
+    },
+    "reviews": [
+        {
+            "body": "Tons of content, the middle section feels a little out of scope (react, graphql) but you could watch half of the videos and still get more out of this course than you probably deserve.",
+            "rating": 5
+        },
+        {
+            "body": "This was really awesome course, at start I haven't experience with backend at all and now I think I am able to build something on my own!",
+            "rating": 5
+        },
+        {
+            "body": "Excellent course, not missing much and very good in-depth explanation of most of the concepts. Also good clear recording and decent video quality.",
+            "rating": 5
+        },
+        {
+            "body": "Hi Max,\n\nNode.js was one of the things that I wanted to learn from scratch and I found no better place than this. I personally liked the approach taken by you throughout the course including the course pattern, Building the entire module along with you was a great learning experience for me. I was so engaged into it and excited about learning stuffs for almost last 4 weeks that made me confident enough and gave a better developer experience. It covered everything from scratch to advanced topics, not to forget deployment and then the TypeScript + Deno part was a real dessert.\n\nI had also enrolled for the React course and shall soon dive into it.. Looking forward to more content.\n\nThanks & Regards.",
+            "rating": 4.5
+        },
+        {
+            "body": "This course is really amazing learned a lot of stuffs like to thanks max for such a interesting course",
+            "rating": 5
+        },
+        {
+            "body": "Great Course, very complete, with detailed examples of all the topics. It was a great learning experience and i would recommend it to anyone wanting to learn or better their understanding of Node.js.",
+            "rating": 4.5
+        },
+        {
+            "body": "The amount of content is simply amazing for the price. I also liked the approach taken here, going from the basic level first before using a library to simply the steps. I do believe a knowledge of what's happening under the hood is really important. Otherwise, you can make basic silly mistakes.\n\nI can also see the course is still up-to-date, with the inclusion of Deno. That speaks a lot about the instructor.\n\nI deducted half a star because in a few parts, the codes are still not quite polished or may require work-arounds. Still overall, a very strong recommendation.",
+            "rating": 4.5
+        },
+        {
+            "body": "Max is a great tutor and he really digs into each section of the Nodejs course really well, worth taking this course!",
+            "rating": 5
+        },
+        {
+            "body": "I watched many different courses on node js but didnt get it well. So, i take this course for fresh start in node js again and what !! i learnt lot of things which are well explained by Sir Max . Thank U sir for this wonderfull course",
+            "rating": 5
+        },
+        {
+            "body": "This course is not what I expected at all. Yes, Max does in fact cover all the necessary topics that he says that he will cover, but when it came to getting unstuck it was hard not to be disastisfied with the lack of answers provided by the teaching assistants. There are also problems that prior students pointed out 2-3 years ago that were NEVER corrected in the module. So you have students in 2020 still running into issues that students in 2017 told Max and Adam to update years ago. While the TA is why I paid for the course(just the ability to get some feedback), responses to problems were pretty much consistent, \"use my source code\", \"have you compared your source code to my code\" and was no really help at all. I stopped coding a month ago because I was stuck on an issue that I couldn't solve in the lecture, I came back and see that new tickets have been added to the Q&A resource tab - looks like this problem has STILL not been resolved. You even have prior students telling Max and Adam that the module should be updated to reflect the answers they have found after hours and hours of extensive troubleshooting. So there are sections where students can easily be guided but no guidance has been provided. But I guess we should all be thankful that DenoJS has just been added to the course. How about fixing the bugs/really taking a look at what students are having issues/reteaching some of the areas that are problematic and then focus on pushing out new content? It must be a slap in the face for students to spend hours and hours of debugging and coming up with solutions only for Max to add new content, but never address the bugs and problems in the module or the code. I also didn't like the constant refactoring. If I was stuck in one section, it made it harder to determine where the problem was because Max had already started on a new topic in A NEW SECTION. The course comes out super disorganized, and I cannot image that I put in wayyyy too much time into this course thinking that it was going to change somehow. The amount of hours that's needed in the course doesn't make sense when it can be taught rather simply and straightforward. There were also some sections that a quick Google search provided clear and succint answers to that Max explained in a rather difficult way.",
+            "rating": 1
+        },
+        {
+            "body": "It was a nice journey of almost 6 moths( Includes practice time ), I learned a lot about node and some other relatively important topics.\n\nThere were a lot of issues or say errors I`ve had faced throughout the course but again the course teacher (Max) and the Assistant Teacher (Adams) helped a lot by responding to the questions asked.\n\nIt was my first complete course on Udemy and I will never regret over the time I gave it to it!\n\nThank-you Max :)",
+            "rating": 5
+        },
+        {
+            "body": "This course help you to understand everything related to Node.js and walk with you step by step, actually it was amazing to join this course",
+            "rating": 5
+        }
+    ],
+    "students": [
+        {
+            "name": "Charles",
+            "email": "charles@gmail.com",
+            "password": "charles",
+            "role": "s"
+        },
+        {
+            "name": "Miłosz Radzyński",
+            "email": "miłoszradzyński@gmail.com",
+            "password": "miłoszradzyński",
+            "role": "s"
+        },
+        {
+            "name": "Minesh Thakrar",
+            "email": "mineshthakrar@gmail.com",
+            "password": "mineshthakrar",
+            "role": "s"
+        },
+        {
+            "name": "Ravi Shankar",
+            "email": "ravishankar@gmail.com",
+            "password": "ravishankar",
+            "role": "s"
+        },
+        {
+            "name": "Mukesh Gupta",
+            "email": "mukeshgupta@gmail.com",
+            "password": "mukeshgupta",
+            "role": "s"
+        },
+        {
+            "name": "Martim Lima",
+            "email": "martimlima@gmail.com",
+            "password": "martimlima",
+            "role": "s"
+        },
+        {
+            "name": "Minh Trinh",
+            "email": "minhtrinh@gmail.com",
+            "password": "minhtrinh",
+            "role": "s"
+        },
+        {
+            "name": "Birpal Singh",
+            "email": "birpalsingh@gmail.com",
+            "password": "birpalsingh",
+            "role": "s"
+        },
+        {
+            "name": "Sudarshan Gosavi",
+            "email": "sudarshangosavi@gmail.com",
+            "password": "sudarshangosavi",
+            "role": "s"
+        },
+        {
+            "name": "Talya Flowers",
+            "email": "talyaflowers@gmail.com",
+            "password": "talyaflowers",
+            "role": "s"
+        },
+        {
+            "name": "Maximilian Schwarzmüller",
+            "email": "maximilianschwarzmüller@gmail.com",
+            "password": "maximilianschwarzmüller",
+            "role": "s"
+        },
+        {
+            "name": "Aman Latkar",
+            "email": "amanlatkar@gmail.com",
+            "password": "amanlatkar",
+            "role": "s"
+        },
+        {
+            "name": "Abdullah Shahin",
+            "email": "abdullahshahin@gmail.com",
+            "password": "abdullahshahin",
+            "role": "s"
+        }
+    ],
+    "instructor": {
+        "name": "Academind by Maximilian Schwarzmüller",
+        "email": "academindbymaximilianschwarzmüller@gmail.com",
+        "password": "academindbymaximilianschwarzmüller",
+        "role": "i",
+        "briefIntroduction": "<p>Bundling the courses and know how of successful instructors, Academind strives to deliver high quality online education.&nbsp;</p>\n\n<p>Online Education, Real-Life Success - that's what Academind stands for. Learn topics like web development, data analyses and more in a fun and engaging way.</p>\n\n\n\n\n\n\n\n<p>Currently, you can find courses published by Maximilian Schwarzmüller and Manuel Lorenz, more instructors to come!</p>\n\n\n\n\n\n\n\n<p>Keep learning!</p>"
+    }
+}

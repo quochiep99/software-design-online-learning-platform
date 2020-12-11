@@ -1,0 +1,151 @@
+{
+    "field": {
+        "name": "programming-languages",
+        "courses": []
+    },
+    "course": {
+        "title": "Spring & Hibernate for Beginners (includes Spring Boot)",
+        "subtitle": "Spring 5: Learn Spring 5 Core, AOP, Spring MVC, Spring Security, Spring REST, Spring Boot 2, Thymeleaf, JPA & Hibernate",
+        "descriptions": [],
+        "reviews": [],
+        "students": [],
+        "image1xURL": "https://img-a.udemycdn.com/course/240x135/647428_be28_6.jpg",
+        "image2xURL": "https://img-a.udemycdn.com/course/480x270/647428_be28_6.jpg",
+        "image3xURL": "https://img-a.udemycdn.com/course/750x422/647428_be28_6.jpg",
+        "discountPrice": 11.99,
+        "originalPrice": 129.99,
+        "numViews": 0,
+        "curriculum": []
+    },
+    "reviews": [
+        {
+            "body": "I have just completed this course. I found it great - talks a lot about Spring, from it very beginning to more advanced topics. I really enjoyed this course, because I could also try Eclipse (instead of IntelliJ) and see how it works connected with Tomcat. I highly recommend this course to anyone planning to learn about Spring Framework! :)",
+            "rating": 4.5
+        },
+        {
+            "body": "Absolutely loved it!!! This course is awesome - there is so much content covering a ton of Spring and Hibernate topics from a practical perspective. I liked playing back the videos at 1.5x to 2x and loved the excitement and energy Chad brought to each and every lesson. The review first and then do a hands-on approach works great because you see it twice and have a better chance of understanding and retaining concepts.\n\nI'd love to see the instructor offer more courses, especially on AWS!\n\nChad, you're a gifted instructor so please, please, please do the world a huge favor and create some awesome AWS courses :-)",
+            "rating": 5
+        },
+        {
+            "body": "The best course I have taken on line. He breaks down the information in small chucks and builds on that knowledge showing how the code works in the background and then shows to the \"simple\" way to do it.",
+            "rating": 4.5
+        },
+        {
+            "body": "It was good listening to Chad Darby. This course is very good for beginners to learn Spring, Hibernate, REST web service and Spring Boot.",
+            "rating": 4
+        },
+        {
+            "body": "The course is very nice. and the best thing is that i have learnt skill which is in demand in industry.\n\nI will must go through the next Angular and boot course.\n\nSir! Please release course on microservices using spring boot.",
+            "rating": 5
+        },
+        {
+            "body": "Started from zero and now in a position to compete with the experienced person in the Industry. Strongly recommend the course for the beginner as the tutor here, explain's each and every concept from ground level to the actual working of the code behind the scene.\n\nHappy Coding!!",
+            "rating": 5
+        },
+        {
+            "body": "Highly recommend! This course is very useful with good structure. Chad explains how the components work step by step and gives some hint that might cause failure. It saved me lots of time without having to review a bunch of Spring articles nor trying errors while testing the study materials. Really appreciate!",
+            "rating": 5
+        },
+        {
+            "body": "Learned a lot in this course! Some of the copy and paste were a bit redundant and made it slightly difficult to follow but overall the knowledge to be gained from this course is valuable. Thank you so much.",
+            "rating": 5
+        },
+        {
+            "body": "Nice Course Covers All The Topics.....\n\nSaying just Thank you to Chad for this course is not enough.....",
+            "rating": 5
+        },
+        {
+            "body": "This is a truly outstanding course. Chad has clearly put a huge amount of thought and effort into the structure and content of the course to enable students to learn most effectively. I cannot recommend this course highly enough. Thank you Chad.",
+            "rating": 5
+        },
+        {
+            "body": "Thnakyou so much Chad!! Best tutorial I have seen so far for Spring&Hiberante course. The course is well organised and he makes easy to understand the diffcult concepts.",
+            "rating": 5
+        },
+        {
+            "body": "Honestly, the course was amazing. I'd definitely recommend anyone to take the course if they're looking for any Spring courses.",
+            "rating": 5
+        }
+    ],
+    "students": [
+        {
+            "name": "Łukasz Czapraga",
+            "email": "łukaszczapraga@gmail.com",
+            "password": "łukaszczapraga",
+            "role": "s"
+        },
+        {
+            "name": "Cosmic Sound",
+            "email": "cosmicsound@gmail.com",
+            "password": "cosmicsound",
+            "role": "s"
+        },
+        {
+            "name": "Kevin Noon",
+            "email": "kevinnoon@gmail.com",
+            "password": "kevinnoon",
+            "role": "s"
+        },
+        {
+            "name": "Rajani",
+            "email": "rajani@gmail.com",
+            "password": "rajani",
+            "role": "s"
+        },
+        {
+            "name": "Varun Sharma",
+            "email": "varunsharma@gmail.com",
+            "password": "varunsharma",
+            "role": "s"
+        },
+        {
+            "name": "Pradeep Panda",
+            "email": "pradeeppanda@gmail.com",
+            "password": "pradeeppanda",
+            "role": "s"
+        },
+        {
+            "name": "Tessa",
+            "email": "tessa@gmail.com",
+            "password": "tessa",
+            "role": "s"
+        },
+        {
+            "name": "Rano Zulfikar",
+            "email": "ranozulfikar@gmail.com",
+            "password": "ranozulfikar",
+            "role": "s"
+        },
+        {
+            "name": "Saddam",
+            "email": "saddam@gmail.com",
+            "password": "saddam",
+            "role": "s"
+        },
+        {
+            "name": "David Clarke",
+            "email": "davidclarke@gmail.com",
+            "password": "davidclarke",
+            "role": "s"
+        },
+        {
+            "name": "Navin",
+            "email": "navin@gmail.com",
+            "password": "navin",
+            "role": "s"
+        },
+        {
+            "name": "Naveen Kumar",
+            "email": "naveenkumar@gmail.com",
+            "password": "naveenkumar",
+            "role": "s"
+        }
+    ],
+    "instructor": {
+        "name": "Chad Darby",
+        "email": "chaddarby@gmail.com",
+        "password": "chaddarby",
+        "role": "i",
+        "briefIntroduction": "<p>Chád (shod) Darby is an author, instructor and speaker in the Java development world.&nbsp; </p><p>Chád is a contributing author to several Java books, including&nbsp; Professional Java E-Commerce (Wrox Press), Beginning Java Networking&nbsp; (Wrox Press), and XML and Web Services Unleashed (Sams Publishing).&nbsp; </p><p>Chád has Java certifications from Oracle and IBM.&nbsp;</p><p>He holds a B.S. in Computer Science from Carnegie Mellon University.&nbsp; </p>"
+    }
+}

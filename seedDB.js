@@ -15,8 +15,13 @@ const joinjson = new JoinJSON();
 // }
 
 // field: mobile-development
+// for (var i = 1; i <= 16; i++) {
+//     joinjson.join([require(`./data/mobile-development/data${i}.json`)]);
+// }
+
+// field: programming-languages
 for (var i = 1; i <= 16; i++) {
-    joinjson.join([require(`./data/mobile-development/data${i}.json`)]);
+    joinjson.join([require(`./data/programming-languages/data${i}.json`)]);
 }
 
 // mongodb url

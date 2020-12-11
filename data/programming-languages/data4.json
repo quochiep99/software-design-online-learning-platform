@@ -1,0 +1,151 @@
+{
+    "field": {
+        "name": "programming-languages",
+        "courses": []
+    },
+    "course": {
+        "title": "Automate the Boring Stuff with Python Programming",
+        "subtitle": "A practical programming course for office workers, academics, and administrators who want to improve their productivity.",
+        "descriptions": [],
+        "reviews": [],
+        "students": [],
+        "image1xURL": "https://img-a.udemycdn.com/course/240x135/543600_64d1_4.jpg",
+        "image2xURL": "https://img-a.udemycdn.com/course/480x270/543600_64d1_4.jpg",
+        "image3xURL": "https://img-a.udemycdn.com/course/750x422/543600_64d1_4.jpg",
+        "discountPrice": 11.99,
+        "originalPrice": 49.99,
+        "numViews": 0,
+        "curriculum": []
+    },
+    "reviews": [
+        {
+            "body": "Great for getting started with Python, suggested to all my friends whether they're trying to get into coding in general or coming from another language.",
+            "rating": 5
+        },
+        {
+            "body": "The content is a bit outdated, not the basics but the part where you need to use different modules. however it is still a good course, specially if you are a beginner",
+            "rating": 4.5
+        },
+        {
+            "body": "The course delivers as promised and touches enough subjects to give a beginner an idea to take python up to next level or not. I repeated this course twice to get a good understanding of the subject and have decided to take this knowledge further :)",
+            "rating": 5
+        },
+        {
+            "body": "I recommend this course to anyone who wants to start coding and/or wants to \"automate stuff\". Especially if you'd like to see some practical quick outcomes while learning to code without diving too deep into the details. Lectures are informative enough and they are not boring at all. Thanks!",
+            "rating": 5
+        },
+        {
+            "body": "As someone without any skill in programming before taking this course, I think this course was successful in igniting a passion for programming and coding. I've been writing simple programs to do things I would spend hours doing, the process of making mistakes and interacting with people to find out what they are is also very fun. Thanks!",
+            "rating": 5
+        },
+        {
+            "body": "This course was a perfect match for the first crack at coding, I enjoyed his voice speed, nice and slow, if I had to rewatch a specific video lecture, I would speed it up at 1.5 times. I learned better by watching the video and creating a scrip for each video lecture, afterwards, I would read the chapter from the book and write notes on a sheet of paper.\n\nI would 100% recommend this to any beginner.",
+            "rating": 4
+        },
+        {
+            "body": "There should be a tool on udemy to try out the code... good overall but sometimes a bit complicated in explanation",
+            "rating": 3.5
+        },
+        {
+            "body": "good explanation, and good value in this training for annyone who want to start",
+            "rating": 5
+        },
+        {
+            "body": "What I liked about this course:\n\n- it covers quite a few programming topics with Python\n\n- it follows a book and so you can always go back and read if there is lack of understanding certain aspects in the course\n\nWhat I don't like about this course:\n\n- covered examples are super simple; no very useful examples are provided.\n\n- there are no examples that the student is supposed to work on like homework or practice examples (that may eventually be discussed at the end of each lesson.) on which to build on from start to end.",
+            "rating": 3
+        },
+        {
+            "body": "The course was very good as an introduction to Python and the videos were easy to follow and enjoyable. For the main topic areas such as excel, pdf etc it was very much a brief basic introduction to the areas but allows me to delve deeper into them with more advanced courses",
+            "rating": 5
+        },
+        {
+            "body": "Great resource for beginner programmers. Videos and explanations are succinct, with plenty of examples shown to better understand the logic of functions/operations. Loved completing this course!",
+            "rating": 5
+        },
+        {
+            "body": "This course is very good for showing lots of functionality to Python, i.e., how to do many individual types of code. This is a good introduction that can later be applied to complex programs. The course needs to be updated as some of the code done exactly as shown throws errors sometimes with information about what has been changed in Python code.",
+            "rating": 3.5
+        }
+    ],
+    "students": [
+        {
+            "name": "Victor guerrero",
+            "email": "victorguerrero@gmail.com",
+            "password": "victorguerrero",
+            "role": "s"
+        },
+        {
+            "name": "Andres Albarracin",
+            "email": "andresalbarracin@gmail.com",
+            "password": "andresalbarracin",
+            "role": "s"
+        },
+        {
+            "name": "Al C",
+            "email": "alc@gmail.com",
+            "password": "alc",
+            "role": "s"
+        },
+        {
+            "name": "Onur AKŞAR",
+            "email": "onurakşar@gmail.com",
+            "password": "onurakşar",
+            "role": "s"
+        },
+        {
+            "name": "Ujjwala Nagendra",
+            "email": "ujjwalanagendra@gmail.com",
+            "password": "ujjwalanagendra",
+            "role": "s"
+        },
+        {
+            "name": "Mason Hernandez",
+            "email": "masonhernandez@gmail.com",
+            "password": "masonhernandez",
+            "role": "s"
+        },
+        {
+            "name": "Michael Scott",
+            "email": "michaelscott@gmail.com",
+            "password": "michaelscott",
+            "role": "s"
+        },
+        {
+            "name": "Dariel",
+            "email": "dariel@gmail.com",
+            "password": "dariel",
+            "role": "s"
+        },
+        {
+            "name": "Gilles Solomon",
+            "email": "gillessolomon@gmail.com",
+            "password": "gillessolomon",
+            "role": "s"
+        },
+        {
+            "name": "Lorcan mcfadden",
+            "email": "lorcanmcfadden@gmail.com",
+            "password": "lorcanmcfadden",
+            "role": "s"
+        },
+        {
+            "name": "Sena Sarkaya",
+            "email": "senasarkaya@gmail.com",
+            "password": "senasarkaya",
+            "role": "s"
+        },
+        {
+            "name": "Barbara Gladfelter",
+            "email": "barbaragladfelter@gmail.com",
+            "password": "barbaragladfelter",
+            "role": "s"
+        }
+    ],
+    "instructor": {
+        "name": "Al Sweigart",
+        "email": "alsweigart@gmail.com",
+        "password": "alsweigart",
+        "role": "i",
+        "briefIntroduction": "<p>Al Sweigart is a software developer in San Francisco. He has written four Python programming books, spoken at Python conferences, and has taught both kids and adults how to program. Python is his favorite programming language, and he is the developer of several open source modules for it. He is driven to make programming knowledge available to all, and his books freely available under a Creative Commons license.</p>"
+    }
+}

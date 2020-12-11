@@ -1,0 +1,151 @@
+{
+    "field": {
+        "name": "programming-languages",
+        "courses": []
+    },
+    "course": {
+        "title": "The Complete Python 3 Course: Beginner to Advanced!",
+        "subtitle": "Learn Python with projects covering game & web development, web scraping, MongoDB, Django, PyQt, and data visualization!",
+        "descriptions": [],
+        "reviews": [],
+        "students": [],
+        "image1xURL": "https://img-a.udemycdn.com/course/240x135/882826_4687_3.jpg",
+        "image2xURL": "https://img-a.udemycdn.com/course/480x270/882826_4687_3.jpg",
+        "image3xURL": "https://img-a.udemycdn.com/course/750x422/882826_4687_3.jpg",
+        "discountPrice": 13.99,
+        "originalPrice": 149.99,
+        "numViews": 0,
+        "curriculum": []
+    },
+    "reviews": [
+        {
+            "body": "This is an AMAZING course I have did a python course in coursera but when comparing to this course they thought only 5% of this course. Do join it. Worth for money. Nick sir is teaching well. But he is working with javascript and html in web.py so i feel uncomfortable with that.",
+            "rating": 4
+        },
+        {
+            "body": "Contenido muy completo, variedad de proyectos que muestran la usabilidad de python en diversos campos. Muy bien explicado cada tema del curso y la posibilidad de aplicar Python en muchos proyectos. Recomendado 100%!!!",
+            "rating": 5
+        },
+        {
+            "body": "Not useful. Teacher does lot of things in between videos and doesn't show code of logic behind it so that you can't follow along anymore....",
+            "rating": 1
+        },
+        {
+            "body": "Nice and clear explanations, and when you see a lecturer so into the course it just makes you want to learn more and more each day from him, 10/10 lecturer and a course, keep up the great work",
+            "rating": 5
+        },
+        {
+            "body": "Yes, It is good match for me I learned the basics things of python from this course and I really enjoyed this course from begin to end . Thank You!",
+            "rating": 4.5
+        },
+        {
+            "body": "Ca pourrait être mieux prepare et organisé, mais pour le prix (gratuit en promo) c'est top. Une belle balade guidée avec comme fil conducteur python. J'en sors avec une meilleure culture technique, quelques compétences en plus et plein de nouvelles choses a voir.",
+            "rating": 4
+        },
+        {
+            "body": "Curso incompleto y desactualizado. Tiene cosas que se pueden aprovechar pero en general no recomendable, en su momento pudo ser recomendable. Material abundante pero poco explicado.",
+            "rating": 2.5
+        },
+        {
+            "body": "the codes dont work. probably due to the difference and upgrades in the softwares used. pretty disappointing as i could not try out the codes for 50% of the things taught",
+            "rating": 3
+        },
+        {
+            "body": "Está bien para ampliar conocimientos en python. Es necesario tener conocimientos previos de programación ya que varias cosas no las explica; además de que entiende que sabes de programación web, programación en GUI, MVC, etc",
+            "rating": 3.5
+        },
+        {
+            "body": "Course has good information but is outdated. This causes problems in the code and makes it difficult to find help. It should really be listed as for Mac as many issues arise when trying to perform on windows, and the instructor does not go into detail on how to execute on windows.",
+            "rating": 3
+        },
+        {
+            "body": "for the beginers has to start from the scrap where as here they have started directly into the coding just facing bit issues while understanding.",
+            "rating": 3.5
+        },
+        {
+            "body": "not bad, not recommended to total beginners or those who want to get advance in WebScraping, DataScience or AI. the whole course is just an intro to these topics.\n\nsometimes you may see some huge changes after going to the next video without explanations and even without any sources provided. there is no links or sources in the course, you should have fast typing skills or pause the video every second, you should download packages, type hundreds of lines of codes and debug it yourself if you're using the newer version of packages and if you're not a macOS user.",
+            "rating": 2.5
+        }
+    ],
+    "students": [
+        {
+            "name": "ABDUL HALIM N 8A1",
+            "email": "abdulhalimn8a1@gmail.com",
+            "password": "abdulhalimn8a1",
+            "role": "s"
+        },
+        {
+            "name": "Arnaldo Paredes",
+            "email": "arnaldoparedes@gmail.com",
+            "password": "arnaldoparedes",
+            "role": "s"
+        },
+        {
+            "name": "Luc Rig",
+            "email": "lucrig@gmail.com",
+            "password": "lucrig",
+            "role": "s"
+        },
+        {
+            "name": "Haris Horozovic",
+            "email": "harishorozovic@gmail.com",
+            "password": "harishorozovic",
+            "role": "s"
+        },
+        {
+            "name": "Hitesh Subhash Kalamkar",
+            "email": "hiteshsubhashkalamkar@gmail.com",
+            "password": "hiteshsubhashkalamkar",
+            "role": "s"
+        },
+        {
+            "name": "Frédéric Salvetat",
+            "email": "frédéricsalvetat@gmail.com",
+            "password": "frédéricsalvetat",
+            "role": "s"
+        },
+        {
+            "name": "José Manuel Romero Muelas",
+            "email": "josémanuelromeromuelas@gmail.com",
+            "password": "josémanuelromeromuelas",
+            "role": "s"
+        },
+        {
+            "name": "Pohyen",
+            "email": "pohyen@gmail.com",
+            "password": "pohyen",
+            "role": "s"
+        },
+        {
+            "name": "Daniela Cordova",
+            "email": "danielacordova@gmail.com",
+            "password": "danielacordova",
+            "role": "s"
+        },
+        {
+            "name": "Karin L",
+            "email": "karinl@gmail.com",
+            "password": "karinl",
+            "role": "s"
+        },
+        {
+            "name": "Devaraju.y",
+            "email": "devaraju.y@gmail.com",
+            "password": "devaraju.y",
+            "role": "s"
+        },
+        {
+            "name": "Ali Abdi",
+            "email": "aliabdi@gmail.com",
+            "password": "aliabdi",
+            "role": "s"
+        }
+    ],
+    "instructor": {
+        "name": "Joseph Delgadillo",
+        "email": "josephdelgadillo@gmail.com",
+        "password": "josephdelgadillo",
+        "role": "i",
+        "briefIntroduction": "<p>The digital age is upon us. Would you like to build/protect the systems that shape our future?</p><p>I&nbsp;am here on Udemy to produce valuable educational resources for students who wish to learn skills related to information technology, network security, programming languages and much more. Enroll in one of my courses for a practical, down to earth approach to learning. </p><p><br></p><p><br></p><p>\n</p><p><br></p><p><br></p><p><br></p>"
+    }
+}

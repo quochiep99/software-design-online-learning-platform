@@ -1,0 +1,151 @@
+{
+    "field": {
+        "name": "programming-languages",
+        "courses": []
+    },
+    "course": {
+        "title": "2020 Complete Python Bootcamp From Zero to Hero in Python",
+        "subtitle": "Learn Python like a Professional Start from the basics and go all the way to creating your own applications and games",
+        "descriptions": [],
+        "reviews": [],
+        "students": [],
+        "image1xURL": "https://img-b.udemycdn.com/course/240x135/567828_67d0.jpg",
+        "image2xURL": "https://img-b.udemycdn.com/course/480x270/567828_67d0.jpg",
+        "image3xURL": "https://img-b.udemycdn.com/course/750x422/567828_67d0.jpg",
+        "discountPrice": 11.99,
+        "originalPrice": 129.99,
+        "numViews": 0,
+        "curriculum": []
+    },
+    "reviews": [
+        {
+            "body": "This course is fantastic! I learned so much so far, and I knew nothing about any programming languages. Thanks Jose!!",
+            "rating": 5
+        },
+        {
+            "body": "The words 'Thank you' don't even begin to express my gratitude for the experience that I've had just by attending your online course. You have been an excellent teacher. And because of your liveliness, care and understanding you have undoubtedly made python a really interesting that once seemed sort of boring for me. I am really grateful to you and now have a liking towards python.",
+            "rating": 5
+        },
+        {
+            "body": "Excelent course. Support material and lectures very well prepared. Explanations are clear and objective. It is really possible to learn a lot of Pyhton, specially if you start from zero. Looking forward to go deeply in Python by taking other courses from the author.",
+            "rating": 5
+        },
+        {
+            "body": "I learned a lot in this course, however, towards the middle of the course, it feels a bit rushed. It took a long time to wrap my head around functions and classes before being able to complete the Milestone projects. Had to go through various external sources before coming back to this course.",
+            "rating": 4
+        },
+        {
+            "body": "A Great course for someone who wants to get started with Python.\n\nThe exercises and challenges really helped and forced me to apply what was taught in each section.\n\nThe puzzlers in between also helped keep things interesting from time to time",
+            "rating": 4.5
+        },
+        {
+            "body": "I enjoyed learning at my pace. I am glad that I could grow my skills as a new programmer!",
+            "rating": 5
+        },
+        {
+            "body": "Amazing course specially for someone who has no idea about Python. This course starts from very basic and slowly goes into advanced topics in a very detailed manner. There are lot of hands-on exercises to assess your learning and real-world projects to apply your knowledge. Thanks for this course.",
+            "rating": 5
+        },
+        {
+            "body": "The teacher not just teaches you Python with clarity and interest, but also teaches: how to explore further, search for a solution to a problem etc etc. Loved taking the course",
+            "rating": 5
+        },
+        {
+            "body": "Great course! I would highly recommend it if you are new to Python or coming from a different programming background. This is my first Udemy class and I very happy with it.",
+            "rating": 5
+        },
+        {
+            "body": "Awesome Instructions and very clear explenations. Lots of examples and also nice to listen to. I just bought a few other courses from him too!",
+            "rating": 5
+        },
+        {
+            "body": "Very good content that was broken down and explained incredibly clearly. Exercises are also quite challenging, which allows you to really grow and improve your skills. Definitely would recommend.",
+            "rating": 4.5
+        },
+        {
+            "body": "This is Amazing course ... I love this course .. Thank you so much Joes ..",
+            "rating": 5
+        }
+    ],
+    "students": [
+        {
+            "name": "Debora Durek",
+            "email": "deboradurek@gmail.com",
+            "password": "deboradurek",
+            "role": "s"
+        },
+        {
+            "name": "MOHAMMED HARES SHAIKH",
+            "email": "mohammedharesshaikh@gmail.com",
+            "password": "mohammedharesshaikh",
+            "role": "s"
+        },
+        {
+            "name": "Flavio Liviero",
+            "email": "flavioliviero@gmail.com",
+            "password": "flavioliviero",
+            "role": "s"
+        },
+        {
+            "name": "Giri Ram A/L Sreeramlu",
+            "email": "girirama/lsreeramlu@gmail.com",
+            "password": "girirama/lsreeramlu",
+            "role": "s"
+        },
+        {
+            "name": "Akhil Krishnakumar",
+            "email": "akhilkrishnakumar@gmail.com",
+            "password": "akhilkrishnakumar",
+            "role": "s"
+        },
+        {
+            "name": "Robert Thompson",
+            "email": "robertthompson@gmail.com",
+            "password": "robertthompson",
+            "role": "s"
+        },
+        {
+            "name": "Pratik Mahajan",
+            "email": "pratikmahajan@gmail.com",
+            "password": "pratikmahajan",
+            "role": "s"
+        },
+        {
+            "name": "Abdul Basit Dost",
+            "email": "abdulbasitdost@gmail.com",
+            "password": "abdulbasitdost",
+            "role": "s"
+        },
+        {
+            "name": "Md Mamunur Rahman",
+            "email": "mdmamunurrahman@gmail.com",
+            "password": "mdmamunurrahman",
+            "role": "s"
+        },
+        {
+            "name": "Dennis Münchehofe",
+            "email": "dennismünchehofe@gmail.com",
+            "password": "dennismünchehofe",
+            "role": "s"
+        },
+        {
+            "name": "Kieran Arul",
+            "email": "kieranarul@gmail.com",
+            "password": "kieranarul",
+            "role": "s"
+        },
+        {
+            "name": "Pradeepakumara K R",
+            "email": "pradeepakumarakr@gmail.com",
+            "password": "pradeepakumarakr",
+            "role": "s"
+        }
+    ],
+    "instructor": {
+        "name": "Jose Portilla",
+        "email": "joseportilla@gmail.com",
+        "password": "joseportilla",
+        "role": "i",
+        "briefIntroduction": "<p>&nbsp; Jose Marcial Portilla has a BS and MS in Mechanical Engineering from Santa Clara University and&nbsp;years of&nbsp;experience as a professional instructor and trainer for Data Science and programming. He has publications and patents in various fields such as microfluidics,&nbsp;materials science, and data science technologies. Over the course of his career he has developed a skill set in analyzing data and he hopes to use his experience in teaching and data science to help other people learn the power of programming the&nbsp;ability to analyze data, as well as present the data in clear and beautiful visualizations. Currently he works as the Head of Data Science for Pierian Data Inc.&nbsp;and provides in-person data science and python programming training courses to employees working at top companies, including General Electric, Cigna, The New York Times, Credit Suisse, McKinsey and many more.&nbsp;Feel free to contact him on LinkedIn for more information on in-person training sessions or group training sessions in Las Vegas, NV.</p>"
+    }
+}

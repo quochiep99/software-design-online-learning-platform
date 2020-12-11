@@ -1,0 +1,151 @@
+{
+    "field": {
+        "name": "programming-languages",
+        "courses": []
+    },
+    "course": {
+        "title": "Beginning C++ Programming - From Beginner to Beyond",
+        "subtitle": "Obtain Modern C++ Object-Oriented Programming (OOP) and STL skills needed for game, system, and application development.",
+        "descriptions": [],
+        "reviews": [],
+        "students": [],
+        "image1xURL": "https://img-a.udemycdn.com/course/240x135/1576854_9aeb.jpg",
+        "image2xURL": "https://img-a.udemycdn.com/course/480x270/1576854_9aeb.jpg",
+        "image3xURL": "https://img-a.udemycdn.com/course/750x422/1576854_9aeb.jpg",
+        "discountPrice": 11.99,
+        "originalPrice": 129.99,
+        "numViews": 0,
+        "curriculum": []
+    },
+    "reviews": [
+        {
+            "body": "So I started this course via recommendation from a friend and It was my best decision. Earlier in the course when I was at Section 4 or 5 I was thinking that It will take too much time but I keep following the instructor with my full dedication and today I completed this course. The amount of in depth knowledge I got from this course I don't think I will get without such a good instructor. If you are looking to learn this is the course I can recommend with full of my heart. Just go for it.",
+            "rating": 5
+        },
+        {
+            "body": "This course was an amazing supplement while getting my bachelors. This teacher speaks very well and explains everything in detail. I'm very happy to have gone through this course, as I am doing much better in my CS class's now.",
+            "rating": 4.5
+        },
+        {
+            "body": "He is very knowledgeable but a bit too quick for beginners. I spent a lot of time pausing almost step by step, line by line because he was typing and clicking so fast. Otherwise, good content and I am learning.",
+            "rating": 4
+        },
+        {
+            "body": "I learnt a lot of new things and concepts from these course which is very useful for my future career and I also learnt the better way to do modern programming which was really amazing for me and it gaved me a opportunity to do advanced programming in other programming languages.",
+            "rating": 5
+        },
+        {
+            "body": "Excellent course, well explained with good examples and practice assignments. It goes in to much greater depth than most beginners courses without pushing you through too fast. Ideal for anyone new to C++ or coming from an another language like myself.",
+            "rating": 5
+        },
+        {
+            "body": "This course is exceedingly complete and detailed. It is very low-level and slow-paced. It's ideal to get a solid grasp on the basics of C++ and to get introduced to the more advanced content.\n\nThis course has quizzes, small coding exercises (on the browser) and more complex coding challenges, which are lots of fun.\n\nFrank has a near infinite patience to delve into the details and explain things at a very basic level.\n\nMy background is mostly in Python and Java, and there were a lot of concepts regarding memory allocation and management (like the Stack vs the Heap) that were entirely new to me.\n\nI've spent well over a month studying C++ through this course (I've also tried to take most challenges to a more professional level) and it was a great learning experience.\n\nOverall, I'm very thankful for having had the opportunity to take this course and to learn from Frank Mitropoulos.",
+            "rating": 5
+        },
+        {
+            "body": "After taking time off from college to save up for my remainder of school, I got this c++ course to review everything I learned. This course covers C++ and object oriented programming in C++ which is awesome. It also covers the STL which I enjoyed. What I liked the most about this c++ course is that professor Frank Mitropoulos takes his time to explain each concept, provides examples and excercises. Mitropoulous never makes you feel like \"you should know this by now\" as many college professors do. I recommend this course to beginners, returners, and advanced programmers. Quality content.",
+            "rating": 5
+        },
+        {
+            "body": "I really enjoyed the online course. I thought it was well planned and layed out, easy for me to follow. The work load(challenges)was just enough, so i could finish everything with enough time, learn about the topics and not feel over loaded and rushed.",
+            "rating": 5
+        },
+        {
+            "body": "I've learned a lot of information about C++ specially and Programming generally, and i hope to achieve my goals about learning more of programming soon, thanks.",
+            "rating": 4.5
+        },
+        {
+            "body": "the material is very good and the way to understand it is very handy but some parts there is no online challenges to make the information sticky in your head",
+            "rating": 4.5
+        },
+        {
+            "body": "Un gran curso para refrescar y actualizar los conocimientos de programación en C++. Las explicaciones son claras, hacen hincapié en lo mas importante de los conceptos, un montón de buenas prácticas en el desarrollo tanto para código limpio como para código eficiente. El modelo teórico/práctico para cada una de las sesiones es muy bueno. Estoy totalmente satisfecho con el curso y lo recomiendo totalmente. Hacía mas de 15 años en los que profesionalmente no he tenido que programar en C++, en la actualidad un proyecto lo requiere y esta actualización me viene de perlas, a valido la pena invertir el tiempo que requería.",
+            "rating": 5
+        },
+        {
+            "body": "I am an older student who has returned to college to pursue a Bachelor of Science degree in Computer Science. Since starting in the fall of 2019 I have had two courses in C++ and need something to help strengthen my learning and skills in this. I like programming but I began to really struggle this last spring when we got to structs and then continued into classes and inheritance, etc. I am just today starting with your program and am feeling very encouraged that I have found what is going to be a great help to me before returning to school in August. I just wish I had done this a month ago.",
+            "rating": 5
+        }
+    ],
+    "students": [
+        {
+            "name": "Aman Verma",
+            "email": "amanverma@gmail.com",
+            "password": "amanverma",
+            "role": "s"
+        },
+        {
+            "name": "Andrew Alagna",
+            "email": "andrewalagna@gmail.com",
+            "password": "andrewalagna",
+            "role": "s"
+        },
+        {
+            "name": "Toby Kliebert",
+            "email": "tobykliebert@gmail.com",
+            "password": "tobykliebert",
+            "role": "s"
+        },
+        {
+            "name": "Viraj Gore",
+            "email": "virajgore@gmail.com",
+            "password": "virajgore",
+            "role": "s"
+        },
+        {
+            "name": "Jeremy Harwood",
+            "email": "jeremyharwood@gmail.com",
+            "password": "jeremyharwood",
+            "role": "s"
+        },
+        {
+            "name": "Bruno Miguel Machado Silva",
+            "email": "brunomiguelmachadosilva@gmail.com",
+            "password": "brunomiguelmachadosilva",
+            "role": "s"
+        },
+        {
+            "name": "Axel Mora",
+            "email": "axelmora@gmail.com",
+            "password": "axelmora",
+            "role": "s"
+        },
+        {
+            "name": "Ajay Singh Dabi",
+            "email": "ajaysinghdabi@gmail.com",
+            "password": "ajaysinghdabi",
+            "role": "s"
+        },
+        {
+            "name": "Mostafa Aladawy",
+            "email": "mostafaaladawy@gmail.com",
+            "password": "mostafaaladawy",
+            "role": "s"
+        },
+        {
+            "name": "Ahmed Lotfy",
+            "email": "ahmedlotfy@gmail.com",
+            "password": "ahmedlotfy",
+            "role": "s"
+        },
+        {
+            "name": "Jorge García Castilla",
+            "email": "jorgegarcíacastilla@gmail.com",
+            "password": "jorgegarcíacastilla",
+            "role": "s"
+        },
+        {
+            "name": "JimmyButcher",
+            "email": "jimmybutcher@gmail.com",
+            "password": "jimmybutcher",
+            "role": "s"
+        }
+    ],
+    "instructor": {
+        "name": "Tim Buchalka's Learn Programming Academy",
+        "email": "timbuchalka'slearnprogrammingacademy@gmail.com",
+        "password": "timbuchalka'slearnprogrammingacademy",
+        "role": "i",
+        "briefIntroduction": "<p>The Learn Programming Academy was created by Tim Buchalka, a software developer with 35 years experience, who is also an instructor on Udemy, with over 1M+ students in his courses on Java, Python, Android, C# &nbsp;and the Spring framework.&nbsp;</p><p><strong>The Academy’s goal in the next three years, is to teach one million people to learn how to program.</strong></p><p>Apart from Tim’s own courses, which are all available here, we are working with the very best teachers, creating courses to teach the essential skills required by developers, at all levels.</p><p>One other important philosophy is that our courses are taught by real professionals; software developers with real and substantial&nbsp;experience in the industry, who are also great teachers. &nbsp;All our instructors are experienced, software developers!</p><p>Our team is busy creating new courses right now.</p><p>Whether you are a beginner, looking to learn how to program for the very first time, or to brush up on your existing skills, or to learn new languages and frameworks, the Academy has you covered.<br></p>"
+    }
+}

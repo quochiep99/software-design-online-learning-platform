@@ -1,0 +1,151 @@
+{
+    "field": {
+        "name": "programming-languages",
+        "courses": []
+    },
+    "course": {
+        "title": "The Complete Node.js Developer Course (3rd Edition)",
+        "subtitle": "Learn Node.js by building real-world applications with Node, Express, MongoDB, Jest, and more!",
+        "descriptions": [],
+        "reviews": [],
+        "students": [],
+        "image1xURL": "https://img-a.udemycdn.com/course/240x135/922484_52a1_8.jpg",
+        "image2xURL": "https://img-a.udemycdn.com/course/480x270/922484_52a1_8.jpg",
+        "image3xURL": "https://img-a.udemycdn.com/course/750x422/922484_52a1_8.jpg",
+        "discountPrice": 11.99,
+        "originalPrice": 84.99,
+        "numViews": 0,
+        "curriculum": []
+    },
+    "reviews": [
+        {
+            "body": "This was by far the best course I've taken at Udemy so far. Andrew really knows how to teach, and I love his coding style. Most importantly, he provides challenges on most videos, really forcing you to learn the material. This, in addition to his clear and concise teaching is what really sets his course apart from all the other really good teachers on Udemy. Furthermore he covers all the essentials in his course material. I really can't find much to complain about in this course.",
+            "rating": 5
+        },
+        {
+            "body": "Awesome teaching skillls , explained thoroughly each concept. I would recommend anyone to go and take this course , this course has almost everything that you will need to know about Nodejs .",
+            "rating": 5
+        },
+        {
+            "body": "Taking this class was fantastic. Andrew's explanation were so easy to understand, and I like how Andrew's teaching style.\n\nThank you for the knowledge!",
+            "rating": 5
+        },
+        {
+            "body": "This is my first course in node js and I have liked almost every part of it. I think this course is good for rookies as well as the intermediate guys. I liked Andrew's way of teaching and he has really worked hard. I especially liked the JWT section, the deployment part, and the mini todo challenges. I am giving 4.5/5, not 5/5 because I think at the end of the course there should be a project where we can apply all we have learned that will be best and a small introduction to Javascript at the beginning of course.",
+            "rating": 4.5
+        },
+        {
+            "body": "One of the best Udemy courses I've taken. I love Andrew's teaching style. He thoroughly explains every concept without ever leaving you lost. He is concise and to the point with his explanation and moves on with the lessons. There's plenty of mini challenges in the course to test your knowledge and keep you engaged. In the end I learned a ton and very happy! Andrew has a true gift for teaching. So thank you so much for teaching me node.js! Onward to learning graphQL with Andrew again!",
+            "rating": 5
+        },
+        {
+            "body": "The reason I only gave 4 stars and not 5 is because there was no \"play environment\" where code could be written for exercises - and instead, I had to download the project again and again along with all the installs of libraries and all the mess that it entails...",
+            "rating": 5
+        },
+        {
+            "body": "Great teacher, clear and precise explanations. It has a lot of contents, although so far i can't say If it covers a great amount of subject to consider a complete course. However it helps you to learn the basics.",
+            "rating": 4.5
+        },
+        {
+            "body": "After completion, of the course, I'm putting this review, Explanation is very neat and clean of this course.\n\nI'm glad that I've upgraded my skills, Thanks Andrew for your contribution.",
+            "rating": 5
+        },
+        {
+            "body": "One to best tutorial to get started in backend. Very good explanation and best for beginner those who want to learn nodejs.",
+            "rating": 5
+        },
+        {
+            "body": "The teacher is very involved, makes constant updates and is very knowledgable. I really recommend this course. It explains every concept in detail and allows the student to practice what has been seen in class without any overwhelming proyects or homeworks. Thank you for the course!",
+            "rating": 5
+        },
+        {
+            "body": "Great teacher, helped me learning node from scratch. I still have a long way to go to git gud but this course sets the foundation for the whole plethora of topics and helps you stand on your shaky 2 feet when tackling future projects. Definitely recommend this course to anyone who's getting started with nodejs.\n\nThank you Andrew",
+            "rating": 5
+        },
+        {
+            "body": "This was a very good experience. Very well explained like why this should be like that and how things could have been done in a different way. Good job, Andrew! Keep up the good work!",
+            "rating": 5
+        }
+    ],
+    "students": [
+        {
+            "name": "Mike",
+            "email": "mike@gmail.com",
+            "password": "mike",
+            "role": "s"
+        },
+        {
+            "name": "Ankit Dubey",
+            "email": "ankitdubey@gmail.com",
+            "password": "ankitdubey",
+            "role": "s"
+        },
+        {
+            "name": "Rendi Rinaldi",
+            "email": "rendirinaldi@gmail.com",
+            "password": "rendirinaldi",
+            "role": "s"
+        },
+        {
+            "name": "Akshit Dhir",
+            "email": "akshitdhir@gmail.com",
+            "password": "akshitdhir",
+            "role": "s"
+        },
+        {
+            "name": "Nga La",
+            "email": "ngala@gmail.com",
+            "password": "ngala",
+            "role": "s"
+        },
+        {
+            "name": "Student104",
+            "email": "student104@gmail.com",
+            "password": "student104",
+            "role": "s"
+        },
+        {
+            "name": "Renan Truppel",
+            "email": "renantruppel@gmail.com",
+            "password": "renantruppel",
+            "role": "s"
+        },
+        {
+            "name": "Ranjan Kumar Rai",
+            "email": "ranjankumarrai@gmail.com",
+            "password": "ranjankumarrai",
+            "role": "s"
+        },
+        {
+            "name": "Devanshu Rana",
+            "email": "devanshurana@gmail.com",
+            "password": "devanshurana",
+            "role": "s"
+        },
+        {
+            "name": "Daniel Vela Jarquin",
+            "email": "danielvelajarquin@gmail.com",
+            "password": "danielvelajarquin",
+            "role": "s"
+        },
+        {
+            "name": "Antonio Vitas",
+            "email": "antoniovitas@gmail.com",
+            "password": "antoniovitas",
+            "role": "s"
+        },
+        {
+            "name": "Stefanita Rusu",
+            "email": "stefanitarusu@gmail.com",
+            "password": "stefanitarusu",
+            "role": "s"
+        }
+    ],
+    "instructor": {
+        "name": "Andrew Mead",
+        "email": "andrewmead@gmail.com",
+        "password": "andrewmead",
+        "role": "i",
+        "briefIntroduction": "<p>I'm Andrew, a full-stack developer living in beautiful Philadelphia!</p>\n<p>I launched my first Udemy course in 2014 and had a blast teaching and helping others.&nbsp;<strong class=\"redactor-inline-converted\">Since then, I've launched 3 courses with over 110,000 students and over 18,000&nbsp;5-star reviews</strong><strong>.</strong></p>\n<p><strong></strong>I currently teach JavaScript, React, and Node.</p>\n<p>Before I ever heard about Udemy or thought about teaching, I created a web app development company. I've helped companies of all sizes launch production web applications to their customers. I've had the honor of working with awesome companies like Siemens, Mixergy, and Parkloco.</p>\n<p>I have a Computer Science degree from Temple University, and I've been programming for just over a decade.&nbsp;I love creating, programming, launching, learning,&nbsp;teaching, and biking.</p>\n<p>I can't wait to see you inside one of my courses!</p>"
+    }
+}
