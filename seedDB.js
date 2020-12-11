@@ -17,9 +17,13 @@ async function seedDB() {
     await Field.deleteMany({});
     console.log("deleted collections documents.")
     console.log("creating collections documents...")
-    
-    var field = await new Field(data.field).save();
-    var course = await new Course(data.course).save();
+
+    var field = await Field.findOne({ field: data.field.name });
+    if (!field) {
+        field = await Field.create(data.field);
+    }
+
+    var course = await Course.create(data.course);
 
     for (var i = 0; i < data.reviews.length; i++) {
         await new Review(data.reviews[i]).save();
@@ -27,11 +31,16 @@ async function seedDB() {
     var reviews = await Review.find({});
 
     for (var i = 0; i < data.students.length; i++) {
-        await new User(data.students[i]).save();
+        if (! await User.findOne({ email: data.students[i].email })) {
+            await new User(data.students[i]).save();
+        }
     }
     var students = await User.find({});
 
-    var instructor = await new User(data.instructor).save();
+    var instructor = await User.findOne({ email: data.instructor.email });
+    if (!instructor) {
+        instructor = await User.create(data.instructor);
+    }
 
     console.log("created collections documents.");
 
