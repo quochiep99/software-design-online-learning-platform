@@ -1,0 +1,151 @@
+{
+    "field": {
+        "name": "mobile-development",
+        "courses": []
+    },
+    "course": {
+        "title": "iOS 10 & Swift 3: From Beginner to Paid Professional™",
+        "subtitle": "The most comprehensive course on iOS development - become a master of app development",
+        "descriptions": [],
+        "reviews": [],
+        "students": [],
+        "image1xURL": "https://img-a.udemycdn.com/course/240x135/892102_963b.jpg",
+        "image2xURL": "https://img-a.udemycdn.com/course/480x270/892102_963b.jpg",
+        "image3xURL": "https://img-a.udemycdn.com/course/750x422/892102_963b.jpg",
+        "discountPrice": 16.99,
+        "originalPrice": 179.99,
+        "numViews": 0,
+        "curriculum": []
+    },
+    "reviews": [
+        {
+            "body": "It's cool lesson.Thank you",
+            "rating": 5
+        },
+        {
+            "body": "One of the instructors is clearly way less experienced. The section with Caleb is awful. He doesn't have mastery of the subject and fumbles through XCode. Really throws off the entire learning flow. Feels like you're learning from someone who took a course and is just trying to re-teach from limited experience. Want my money back",
+            "rating": 1.5
+        },
+        {
+            "body": "Very good and amazing course, explains all the steps of how to create an iOS app, and it starts from beginning to the professional level. Thanks, Mark.",
+            "rating": 5
+        },
+        {
+            "body": "It is a well explained course. Covered almost everything from ground zero to the end.",
+            "rating": 5
+        },
+        {
+            "body": "Jess Rascal video and sound was very poor quality...plus I'm from the North of England and I still found his accent hard to follow",
+            "rating": 4
+        },
+        {
+            "body": "Still getting started but i like how the program looks to be set up and topics covered.",
+            "rating": 3
+        },
+        {
+            "body": "I learnt how to make the first iOS app. Thank you so much.",
+            "rating": 5
+        },
+        {
+            "body": "I like Mark's teaching style. Good humour. But most importantly his step by step progressive examples are just what I need. Especially 'Optionals'. No other instructor has taken the time to really explain what optionals are all about and how to use optionals in your code. I finally get it!",
+            "rating": 5
+        },
+        {
+            "body": "Prolific to say the least.one problem tho I have windows not a MacBook so it’s not as easy",
+            "rating": 5
+        },
+        {
+            "body": "Clear instruction! Meaningful and inspiring method!",
+            "rating": 5
+        },
+        {
+            "body": "It is a great course for a beginner as well as a professional. Like the attitude of the teachers in this course. Have learnt much more than expected.\n\nThanks!!",
+            "rating": 5
+        },
+        {
+            "body": "Amazing so far",
+            "rating": 5
+        }
+    ],
+    "students": [
+        {
+            "name": "Andrej",
+            "email": "andrej@gmail.com",
+            "password": "andrej",
+            "role": "s"
+        },
+        {
+            "name": "Mikael Mengistu",
+            "email": "mikaelmengistu@gmail.com",
+            "password": "mikaelmengistu",
+            "role": "s"
+        },
+        {
+            "name": "Saifaldeen",
+            "email": "saifaldeen@gmail.com",
+            "password": "saifaldeen",
+            "role": "s"
+        },
+        {
+            "name": "Cho Sing Kum",
+            "email": "chosingkum@gmail.com",
+            "password": "chosingkum",
+            "role": "s"
+        },
+        {
+            "name": "Jon Preece",
+            "email": "jonpreece@gmail.com",
+            "password": "jonpreece",
+            "role": "s"
+        },
+        {
+            "name": "Benjamin Brandau",
+            "email": "benjaminbrandau@gmail.com",
+            "password": "benjaminbrandau",
+            "role": "s"
+        },
+        {
+            "name": "Johnsonsieu",
+            "email": "johnsonsieu@gmail.com",
+            "password": "johnsonsieu",
+            "role": "s"
+        },
+        {
+            "name": "Barry Garfield",
+            "email": "barrygarfield@gmail.com",
+            "password": "barrygarfield",
+            "role": "s"
+        },
+        {
+            "name": "Norman Cleghorn",
+            "email": "normancleghorn@gmail.com",
+            "password": "normancleghorn",
+            "role": "s"
+        },
+        {
+            "name": "Gustav Pastorino",
+            "email": "gustavpastorino@gmail.com",
+            "password": "gustavpastorino",
+            "role": "s"
+        },
+        {
+            "name": "Hongbo Niu",
+            "email": "hongboniu@gmail.com",
+            "password": "hongboniu",
+            "role": "s"
+        },
+        {
+            "name": "Dollynda McIntosh",
+            "email": "dollyndamcintosh@gmail.com",
+            "password": "dollyndamcintosh",
+            "role": "s"
+        }
+    ],
+    "instructor": {
+        "name": "Mark Wahlbeck",
+        "email": "markwahlbeck@gmail.com",
+        "password": "markwahlbeck",
+        "role": "i",
+        "briefIntroduction": "<p>I am a veteran mobile developer having built over 57 mobile apps for iOS and Android, and I've also build multiple Unity 3D games, including Call of Duty Ghosts mobile.&nbsp;</p><p>I also spend most of my days now as a professional engineering instructor&nbsp; - changing the lives of students throughout the world - helping them make amazing salaries as engineers.</p><p>My passion is helping people reveal hidden talents and guide them into the world of startups and programming. I currently am teaching iOS 10, Apple TV &amp; tvOS, React &amp; Flux web development, Objective-C, Swift 3, Android, Javascript, Node, and Java. I also teach Unity 3D game development.</p>"
+    }
+}

@@ -1,0 +1,151 @@
+{
+    "field": {
+        "name": "mobile-development",
+        "courses": []
+    },
+    "course": {
+        "title": "Xamarin Forms: Build Native Cross-platform Apps with C#",
+        "subtitle": "Learn to build native mobile apps for Android, iOS and Windows using your existing C# skills",
+        "descriptions": [],
+        "reviews": [],
+        "students": [],
+        "image1xURL": "https://img-a.udemycdn.com/course/240x135/951684_9c1a_2.jpg",
+        "image2xURL": "https://img-a.udemycdn.com/course/480x270/951684_9c1a_2.jpg",
+        "image3xURL": "https://img-a.udemycdn.com/course/750x422/951684_9c1a_2.jpg",
+        "discountPrice": 11.99,
+        "originalPrice": 129.99,
+        "numViews": 0,
+        "curriculum": []
+    },
+    "reviews": [
+        {
+            "body": "Its been amazing to go through this course, I started as beginner and with help of this course, I got to know a lot of basic stuff and it shows improvement in my development",
+            "rating": 5
+        },
+        {
+            "body": "Good course, was not too happy about some of the exercises... Had a lot of extra pieces that were not explained well. Also did not like how images were explained that much. We are told to do embedded images but were not shown later on, even in solutions.",
+            "rating": 4
+        },
+        {
+            "body": "I learned something new skills on xamarin.Forms; which is not available in youtube or google.... Explanation was Amazing,\n\nThanks for sharing Knowledge...\n\nCould you please provide your Git hub id...i do follow",
+            "rating": 4.5
+        },
+        {
+            "body": "Like all mosh courses very effective, with best practices and without larges theorical and unused samples. The samples are Good to start. The only disadvantage is a bit outdated",
+            "rating": 4.5
+        },
+        {
+            "body": "Mosh has a very good style to explain the concepts and covers a lot of related concepts while explaining the core concept.\n\nHe provides enough concepts and hands on practice, enabling the learner delve deeper and use all the learning as springboard to create amazing things.",
+            "rating": 5
+        },
+        {
+            "body": "This course goes through the most important behaviours of Xamarin framework. You are also going to get informations about the MVVM=>automated testing. These skills you can improve in his other courses. He has a great English level, he is easy to understand. Some technics mentioned here is old (e. g. OnPlatform), but on Google you will find a new solution in a few seconds. If you want to learn Xamarin development, this course is a great point where to start.",
+            "rating": 5
+        },
+        {
+            "body": "This is a good course but some examples made for IOS don't work so well for Android. Some topics like persistence data, file storage, didn't have a good explanation. I have no regrets about this course, but I did the EntityFramework course from Mosh and I liked more than this. Points to improve this course are, better Android examples, more exercises, examples about peripherals, Storage Data and customize screens.",
+            "rating": 3.5
+        },
+        {
+            "body": "It was greatly presented and the order in which the topics were taught made it easier to grasp the content. The exercises were helpful as well.",
+            "rating": 5
+        },
+        {
+            "body": "Very good indeed. Although, he should have explained the concepts of PCL Storage and SQLite in bit more depth and with examples. Still, a great place to learn at, and a great person to learn from. Thanks.",
+            "rating": 4.5
+        },
+        {
+            "body": "It's a great course! Mosh explains everything in detail and keep clearly all ideas. Rich exercises, solutions and Cheat Sheets, that helps a lot for your own continuous developing! Very happy with this course!",
+            "rating": 5
+        },
+        {
+            "body": "This is a good course for persons that has knowledge in C# and that are beginners in Xamarin (Or has no knowledge in Xamarin).\n\nThe unique problem is that it isn't updated, and you can have some issues in some lessons to make it works.\n\nAt the final of the course, it isn't possible build an real life application. For this reason, a recommend the course only as an introdution in Xamarin Forms, and not as a completed course to build apps with Xamarin.\n\nThanks for sharing your knowlege Mosh. It is possible to see that you have domain in the subjet.",
+            "rating": 4.5
+        },
+        {
+            "body": "too many obsolete sections, either update material or remove course entirely.\n\nOtherwise the format with small exercices in each section was interesting.",
+            "rating": 2.5
+        }
+    ],
+    "students": [
+        {
+            "name": "Devubha Manek",
+            "email": "devubhamanek@gmail.com",
+            "password": "devubhamanek",
+            "role": "s"
+        },
+        {
+            "name": "KaRon Scott",
+            "email": "karonscott@gmail.com",
+            "password": "karonscott",
+            "role": "s"
+        },
+        {
+            "name": "Anil K",
+            "email": "anilk@gmail.com",
+            "password": "anilk",
+            "role": "s"
+        },
+        {
+            "name": "Abigail",
+            "email": "abigail@gmail.com",
+            "password": "abigail",
+            "role": "s"
+        },
+        {
+            "name": "Vikas Sharma",
+            "email": "vikassharma@gmail.com",
+            "password": "vikassharma",
+            "role": "s"
+        },
+        {
+            "name": "Ondřej Man",
+            "email": "ondřejman@gmail.com",
+            "password": "ondřejman",
+            "role": "s"
+        },
+        {
+            "name": "Paulo Augusto Sovienski",
+            "email": "pauloaugustosovienski@gmail.com",
+            "password": "pauloaugustosovienski",
+            "role": "s"
+        },
+        {
+            "name": "Abdoulie Tamba",
+            "email": "abdoulietamba@gmail.com",
+            "password": "abdoulietamba",
+            "role": "s"
+        },
+        {
+            "name": "Abhishek Drolia",
+            "email": "abhishekdrolia@gmail.com",
+            "password": "abhishekdrolia",
+            "role": "s"
+        },
+        {
+            "name": "Rayan Ralile",
+            "email": "rayanralile@gmail.com",
+            "password": "rayanralile",
+            "role": "s"
+        },
+        {
+            "name": "Polibio Lins Costa Neto",
+            "email": "polibiolinscostaneto@gmail.com",
+            "password": "polibiolinscostaneto",
+            "role": "s"
+        },
+        {
+            "name": "Sandrine Burdairon",
+            "email": "sandrineburdairon@gmail.com",
+            "password": "sandrineburdairon",
+            "role": "s"
+        }
+    ],
+    "instructor": {
+        "name": "Mosh Hamedani",
+        "email": "moshhamedani@gmail.com",
+        "password": "moshhamedani",
+        "role": "i",
+        "briefIntroduction": "<p>Hi!&nbsp;My name is Mosh (Moshfegh)&nbsp;Hamedani! I'm a passionate software engineer with two decades of experience and I've taught over 3 million people who to code or how to become professional software engineers through my YouTube channel and online courses. </p><p>My goal is to make software engineering fun and accessible to everyone. That's why my courses are simple, pragmatic and free of BS. </p>"
+    }
+}

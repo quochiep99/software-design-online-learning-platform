@@ -1,0 +1,151 @@
+{
+    "field": {
+        "name": "mobile-development",
+        "courses": []
+    },
+    "course": {
+        "title": "Ionic - Build iOS, Android & Web Apps with Ionic & Angular",
+        "subtitle": "Build Native iOS & Android as well as Progressive Web Apps with Angular, Capacitor and the Ionic Framework (Ionic 4+).",
+        "descriptions": [],
+        "reviews": [],
+        "students": [],
+        "image1xURL": "https://img-a.udemycdn.com/course/240x135/1070124_3a0f_4.jpg",
+        "image2xURL": "https://img-a.udemycdn.com/course/480x270/1070124_3a0f_4.jpg",
+        "image3xURL": "https://img-a.udemycdn.com/course/750x422/1070124_3a0f_4.jpg",
+        "discountPrice": 11.99,
+        "originalPrice": 129.99,
+        "numViews": 0,
+        "curriculum": []
+    },
+    "reviews": [
+        {
+            "body": "Fantastic very detailed lesson! However, please create a tutorial that isn't heavily project based. An example would be how to retrieve from firebase part 1, how to update part2. I feel that for beginners like myself would be a little bit confusing at first with all the other codes that are part of the project. >:)",
+            "rating": 5
+        },
+        {
+            "body": "The instructor is vert knowledgeable on the subject. He breaks it down with ease for others to understand. Well planned to teach the subject plus gotchas and more then ionic.",
+            "rating": 5
+        },
+        {
+            "body": "Yes this is the best place to learn new things.\n\nMax is the best tutor. I hope that Max will teach more and more courses like this\n\n.\n\nThanks Max and Thanks Udemy!",
+            "rating": 5
+        },
+        {
+            "body": "I would love to see a lot more Native phone Plugins to be used. I would change my rating to 5 starts if there more focus on the Plugins.",
+            "rating": 4.5
+        },
+        {
+            "body": "Course is amazing , I am going to repeat it after 150th lecture , I skipped the practicing at my local so going to do that on my own.",
+            "rating": 5
+        },
+        {
+            "body": "In general the course is well done but, towards the end, it becomes very hasty, as if you had little time to illustrate the too many concepts needed to run a mini application like this; it becomes a simple \"write code\" very fast and explained even worse. Sin.",
+            "rating": 3.5
+        },
+        {
+            "body": "An excellent course provided by Max!, explained complex concepts in a simple way, and developing it into a side by side course project, like a real time one, gives more confidence while learning the topics. Thank you so much Max!",
+            "rating": 5
+        },
+        {
+            "body": "This course is going very good and i'm having more interest to learn. I would like to thanks to the author, who making me more interest to move on.",
+            "rating": 5
+        },
+        {
+            "body": "great course... most of the technics are explained in details.... some cannot follow because I don't have deep knowledge of Angular.",
+            "rating": 5
+        },
+        {
+            "body": "It is the only course I could find, where I have reached half-way through solving all the bugs and errors and understanding everything step by step.",
+            "rating": 5
+        },
+        {
+            "body": "Great course that covers most of what Ionic offers aswell as other technologies (i.e: Google maps...). I feel like having the necessary tools to build an entire app and deploy it on any device. Keep up the amazing work!",
+            "rating": 5
+        },
+        {
+            "body": "It was a very good course. I have learned and practiced everything you have taught and made it quite far. Thank you",
+            "rating": 5
+        }
+    ],
+    "students": [
+        {
+            "name": "Tjandra Putra",
+            "email": "tjandraputra@gmail.com",
+            "password": "tjandraputra",
+            "role": "s"
+        },
+        {
+            "name": "Andrey Pearce",
+            "email": "andreypearce@gmail.com",
+            "password": "andreypearce",
+            "role": "s"
+        },
+        {
+            "name": "Thirupathi Dontharavena",
+            "email": "thirupathidontharavena@gmail.com",
+            "password": "thirupathidontharavena",
+            "role": "s"
+        },
+        {
+            "name": "Ramin Khakzad",
+            "email": "raminkhakzad@gmail.com",
+            "password": "raminkhakzad",
+            "role": "s"
+        },
+        {
+            "name": "Ajay Kumar Singh",
+            "email": "ajaykumarsingh@gmail.com",
+            "password": "ajaykumarsingh",
+            "role": "s"
+        },
+        {
+            "name": "Giacomo Maccanti",
+            "email": "giacomomaccanti@gmail.com",
+            "password": "giacomomaccanti",
+            "role": "s"
+        },
+        {
+            "name": "Alexander Immanuel D",
+            "email": "alexanderimmanueld@gmail.com",
+            "password": "alexanderimmanueld",
+            "role": "s"
+        },
+        {
+            "name": "Jaikumar",
+            "email": "jaikumar@gmail.com",
+            "password": "jaikumar",
+            "role": "s"
+        },
+        {
+            "name": "Henry Tang",
+            "email": "henrytang@gmail.com",
+            "password": "henrytang",
+            "role": "s"
+        },
+        {
+            "name": "Kishan Chaudhary",
+            "email": "kishanchaudhary@gmail.com",
+            "password": "kishanchaudhary",
+            "role": "s"
+        },
+        {
+            "name": "Tristan",
+            "email": "tristan@gmail.com",
+            "password": "tristan",
+            "role": "s"
+        },
+        {
+            "name": "Darren Madasekera",
+            "email": "darrenmadasekera@gmail.com",
+            "password": "darrenmadasekera",
+            "role": "s"
+        }
+    ],
+    "instructor": {
+        "name": "Maximilian Schwarzmüller",
+        "email": "maximilianschwarzmüller@gmail.com",
+        "password": "maximilianschwarzmüller",
+        "role": "i",
+        "briefIntroduction": "<p><strong>Experience as (Web) Developer</strong><br></p><p>Starting out at the age of 13 I never stopped learning new programming skills and languages. Early I started creating websites for friends and just for fun as well. Besides web development I also explored Python and other non-web-only&nbsp;languages.&nbsp;This passion has since lasted and lead to my decision of working as a freelance web developer and consultant. The success and fun I have in this job is immense and really keeps that passion burningly alive.</p><p>Starting web development on&nbsp;the backend (PHP with Laravel, NodeJS, Python) I also became more and more of a frontend developer using modern frameworks like React, Angular or VueJS 2 in a lot of projects. I&nbsp;love both worlds nowadays!</p><p>As a self-taught developer I had the chance to broaden my horizon by studying Business Administration where I hold a Master's degree. That enabled me to work in a major strategy consultancy as well as a bank. While learning, that I enjoy development more than these fields, the time in this sector greatly improved my overall experience and skills.</p><p><strong>Experience as Instructor</strong></p><p>As a self-taught professional I really know the hard parts and the difficult topics when learning new or improving on already-known languages. This background and experience enables me to focus on the most relevant key concepts and topics. My track record of many 5-star rated courses, more than 700,000 students on Udemy as well as a successful YouTube channel is the best proof for that.</p><p>Whether working as development instructor or teaching Business Administration I always received great feedback. The most rewarding experience is to see how people find new, better jobs, build awesome web applications, acquire amazing projects or simply enjoy their hobby with the help of my content.</p><p>Together with Manuel Lorenz, I founded Academind to offer the best possible learning experience to our more than 800,000 students.</p>"
+    }
+}

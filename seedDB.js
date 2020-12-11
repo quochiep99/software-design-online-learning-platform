@@ -9,8 +9,14 @@ const JoinJSON = require('join-json');
 // fetch data from json files and join them
 const joinjson = new JoinJSON();
 
+// field: web-development
+// for (var i = 1; i <= 16; i++) {
+//     joinjson.join([require(`./data/web-development/data${i}.json`)]);
+// }
+
+// field: mobile-development
 for (var i = 1; i <= 16; i++) {
-    joinjson.join([require(`./data/web-development/data${i}.json`)]);
+    joinjson.join([require(`./data/mobile-development/data${i}.json`)]);
 }
 
 // mongodb url
@@ -18,12 +24,12 @@ const url = process.env.DATABASEURL || 'mongodb://localhost:27017/web-online-aca
 mongoose.connect(url, { useNewUrlParser: true, useUnifiedTopology: true });
 
 async function seedDB() {
-    console.log("deleting collections documents...");
-    await Course.deleteMany({});
-    await User.deleteMany({});
-    await Review.deleteMany({});
-    await Field.deleteMany({});
-    console.log("deleted collections documents.")
+    // console.log("deleting collections documents...");
+    // await Course.deleteMany({});
+    // await User.deleteMany({});
+    // await Review.deleteMany({});
+    // await Field.deleteMany({});
+    // console.log("deleted collections documents.")
     console.log("creating collections documents...");
     const data = joinjson.joined;
 

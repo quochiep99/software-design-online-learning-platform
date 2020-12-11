@@ -1,0 +1,151 @@
+{
+    "field": {
+        "name": "mobile-development",
+        "courses": []
+    },
+    "course": {
+        "title": "The Complete Android & Java Developer Course - Build 21 Apps",
+        "subtitle": "Learn Android Development, Java & Android Studio from Scratch in 5 Weeks. Build a Diary App & more",
+        "descriptions": [],
+        "reviews": [],
+        "students": [],
+        "image1xURL": "https://img-a.udemycdn.com/course/240x135/360920_681f_21.jpg",
+        "image2xURL": "https://img-a.udemycdn.com/course/480x270/360920_681f_21.jpg",
+        "image3xURL": "https://img-a.udemycdn.com/course/750x422/360920_681f_21.jpg",
+        "discountPrice": 11.99,
+        "originalPrice": 129.99,
+        "numViews": 0,
+        "curriculum": []
+    },
+    "reviews": [
+        {
+            "body": "Good for basics, But i feel that as we started to develop advance things, it wasn't very helpful.",
+            "rating": 3
+        },
+        {
+            "body": "I like the way you are teaching . It is a long complete journey , i learnt deeply and uses by knowledge to add additional features in the app.Looking forward to learn further courses with you.\n\nThank You Paulo for an amazing experience.",
+            "rating": 4.5
+        },
+        {
+            "body": "This course made me easy to get enough skills, I developed my confidence .",
+            "rating": 4.5
+        },
+        {
+            "body": "Excellent course! I really like how Paulo teaches!\n\nVery well put together, nicely chained.\n\nI learned a lot from the many examples.\n\nI am Hungarian and the first language is not English, but I speak very well, I understand every word!\n\nI will take my next course because from then on I will only develop in your teaching!\n\nThank you Paulo!",
+            "rating": 5
+        },
+        {
+            "body": "It was Wonderful. The teaching is excellent\n\nWould recommend this course to others.",
+            "rating": 5
+        },
+        {
+            "body": "It's a brilliant course. Paulo repeats techniques in a way that we can practice well. A very comprehensive course.\n\nI didn't follow the Java part as I already new it, however I skipped through it, and it's well organised.\n\nI also skipped the Parse sections as it seems the app clone facilities are not more on the Parse website.",
+            "rating": 5
+        },
+        {
+            "body": "If tutors of such courses can put some efforts to dig deep into the 'whys' behind the code they write, that is, provide the breakdown of such big chunks of code, it will become a bit more easier to understand why and how things work the way they do.\n\nHowever, the course was fun and pretty useful!",
+            "rating": 3.5
+        },
+        {
+            "body": "Very good course, It helps you to understand a lot of Android environment, unfortunately the android system has change and you must re-make some codes to work now days, besides that its a very good course that opens you the doors to be an android developer.",
+            "rating": 3.5
+        },
+        {
+            "body": "So far so good. All is going well, I have learnt a lot. I am excited at how much I've learnt and looking forward to building my project and bringing my other app ideas to life.",
+            "rating": 5
+        },
+        {
+            "body": "Take much time and can't answer my question. I already drop a question in QandA box",
+            "rating": 1.5
+        },
+        {
+            "body": "I'm new to Android, the class really helped me understanding basics and explore it myself. Loved step-by-step process and explaining them. The tips are very useful. It is really a complete course to develop an application.\n\nThanks for putting together this wonderful course.",
+            "rating": 5
+        },
+        {
+            "body": "this course is amazing, i am very new to programming and all the stuff but he taught very well , dont know about next lectures but till now i understood everything, i have completed half of the course in last 7 months as i am a working person so i dont get much time. i want to make my own apps, i hope one day i will do it :)",
+            "rating": 5
+        }
+    ],
+    "students": [
+        {
+            "name": "Kiran Baldaniya",
+            "email": "kiranbaldaniya@gmail.com",
+            "password": "kiranbaldaniya",
+            "role": "s"
+        },
+        {
+            "name": "Matheas T",
+            "email": "matheast@gmail.com",
+            "password": "matheast",
+            "role": "s"
+        },
+        {
+            "name": "Ehtesham Ansari",
+            "email": "ehteshamansari@gmail.com",
+            "password": "ehteshamansari",
+            "role": "s"
+        },
+        {
+            "name": "Laszlo Kapronczay",
+            "email": "laszlokapronczay@gmail.com",
+            "password": "laszlokapronczay",
+            "role": "s"
+        },
+        {
+            "name": "Dhyan Gowda",
+            "email": "dhyangowda@gmail.com",
+            "password": "dhyangowda",
+            "role": "s"
+        },
+        {
+            "name": "Javed Ahsan",
+            "email": "javedahsan@gmail.com",
+            "password": "javedahsan",
+            "role": "s"
+        },
+        {
+            "name": "Aditya Mehta",
+            "email": "adityamehta@gmail.com",
+            "password": "adityamehta",
+            "role": "s"
+        },
+        {
+            "name": "Isaak Alejandro Haas Aldape",
+            "email": "isaakalejandrohaasaldape@gmail.com",
+            "password": "isaakalejandrohaasaldape",
+            "role": "s"
+        },
+        {
+            "name": "Osebi Adams",
+            "email": "osebiadams@gmail.com",
+            "password": "osebiadams",
+            "role": "s"
+        },
+        {
+            "name": "Atulya Agrawal",
+            "email": "atulyaagrawal@gmail.com",
+            "password": "atulyaagrawal",
+            "role": "s"
+        },
+        {
+            "name": "Sudhakar Kalwa",
+            "email": "sudhakarkalwa@gmail.com",
+            "password": "sudhakarkalwa",
+            "role": "s"
+        },
+        {
+            "name": "Juned Shaikh",
+            "email": "junedshaikh@gmail.com",
+            "password": "junedshaikh",
+            "role": "s"
+        }
+    ],
+    "instructor": {
+        "name": "Paulo Dichone | Android, Java, Flutter Developer and Teacher",
+        "email": "paulodichone|android,java,flutterdeveloperandteacher@gmail.com",
+        "password": "paulodichone|android,java,flutterdeveloperandteacher",
+        "role": "i",
+        "briefIntroduction": "<p>Hi, I'm Paulo. </p><p>I&nbsp;am passionate about teaching people Android, Java, and Flutter development.&nbsp; I have taught over<strong> 100,000 students in 175 countries worldwide.</strong></p><p>I have a degree in Computer Science from Whitworth University, and I love programming and teaching.</p><p> I have extensive experience in Mobile App Development (Android and iOS) and Web Development.&nbsp; </p><p>I am also the founder of Build Apps With Paulo, where students are equipped with tools they need to become well-rounded developers - <strong>developers who have soft and technical skills.</strong></p><p> Showing students how to make amazing applications/software is a gratifying experience for me.&nbsp; That's why I have been teaching online for the past 5 years.</p><p><strong><em>My goal is to make you a great developer, no matter your experience.&nbsp; </em></strong>I enjoy spending time with my growing family, playing the guitar, mandolin, and traveling in my spare time. </p><p>I look forward to helping you become the best developer you can be.&nbsp; </p><p> If you are new to <strong>Android development</strong> and my courses, I suggest you start with my most comprehensive Android course: </p><p><strong>&nbsp; 1.</strong> <strong>The Comprehensive 2020 Android Development Masterclass - </strong>You'll learn everything you'll need to know to get started with Android Development - no experience required!</p><p>Next:</p><p>&nbsp; <strong>2. The Complete Intermediate Android Masterclass - </strong>You'll learn intermediate Android topics such as Workmanager API, ROOM Database, and working in the background in Android.</p><p><br></p><p>Cross-platform Development courses &amp; Web-related (Build iOS and Android Mobile Apps):</p><p><strong> 3. Flutter &amp; Dart - The Complete Flutter App Development Course - </strong>Learn the Dart Programming language and build iOS and Android Apps with a single codebase.</p><p> <strong>4. AngularDart - Build Dynamic Web Apps with Angular &amp; Dart </strong>- Unleash the power of one of the most used web development framework Angular, and Dart, to build dynamic web apps.</p><p> <strong>5. TornadoFX - Build JavaFX Applications With Kotlin </strong>- Leverage the modern programming language, Kotlin, and JavaFX libraries to build stunning desktop apps</p><p><br></p><p>Purely Java-based courses:</p><p><strong>6. Java Masterclass - Beginner to Expert Guide - </strong>Want to learn Java from the ground up?&nbsp; Then this is the course you'll need.</p><p><strong>7. Java Design Patterns - The Complete Masterclass </strong>- Learn how to build solid software using well-tested, proven Design Patterns.</p><p><br></p><p>I look forward to seeing you in my courses.</p><p><br></p>"
+    }
+}

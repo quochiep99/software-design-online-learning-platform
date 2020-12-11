@@ -1,0 +1,151 @@
+{
+    "field": {
+        "name": "mobile-development",
+        "courses": []
+    },
+    "course": {
+        "title": "Android O & Java - The Complete Android Development Bootcamp",
+        "subtitle": "Learn Android O app development from beginning to end. Learn to code in Java while building fun Android O projects.",
+        "descriptions": [],
+        "reviews": [],
+        "students": [],
+        "image1xURL": "https://img-a.udemycdn.com/course/240x135/1212244_825c_2.jpg",
+        "image2xURL": "https://img-a.udemycdn.com/course/480x270/1212244_825c_2.jpg",
+        "image3xURL": "https://img-a.udemycdn.com/course/750x422/1212244_825c_2.jpg",
+        "discountPrice": 11.99,
+        "originalPrice": 129.99,
+        "numViews": 0,
+        "curriculum": []
+    },
+    "reviews": [
+        {
+            "body": "Really a good course for beginners and intermediates to develop and Launch there own app",
+            "rating": 5
+        },
+        {
+            "body": "The course is not suitable for those who want to learn programming for Android. Half of the lessons were devoted to marketing, and the programming lessons themselves were uninformative. Also, teachers never answer questions.",
+            "rating": 1.5
+        },
+        {
+            "body": "Android development, which I know nothing about before, proved to be a very impressing setup of technology. Course introduces it right on so very nice. I will benefit gratelly of my earlier knowings of all of XML, Java, Gradle and GIT. Hurray! Additional Feedback, This course is getting even more exciting and the Android technology is impressing. Hurray! Again, also this course showed me how to marketing and targeting my app. Very impressive.",
+            "rating": 5
+        },
+        {
+            "body": "This course is amazing! Thank you a lot.",
+            "rating": 5
+        },
+        {
+            "body": "The course was absolutely great! Speakers are doing the job perfectly well. As of May 2020 a little bit out of date. But good anyway! Highly recommend. Hope we'll update it in future though.",
+            "rating": 4.5
+        },
+        {
+            "body": "I loved this course a lot and liked Angela. Providing information in a useful and easy way. Not boring, quite the opposite, sitting for an enjoyable long time. Everything was great until chapter 20 and beyond. I wished that the focus was greater on the Play Store, because the idea of ​​the course is based on developing applications using Java and Android. Note\n\nThere is a lot of old information, as well as links and websites that do not exist, or a different version has been issued for it. In the end, I want to thank the curators for their efforts, and I am very happy with the results.",
+            "rating": 5
+        },
+        {
+            "body": "the course is really good, even though its a bit old still useful training.\n\nit covers everything from A-Z about app development which is great.\n\nOnce thing though some of the coding tutorials were difficult to follow, may be things were not explain as well as they could have been. the bitcoin and chat app tutorials.",
+            "rating": 4.5
+        },
+        {
+            "body": "very little of actual coding and code explanation..and so full of app marketing..not very gd at all",
+            "rating": 2.5
+        },
+        {
+            "body": "It was a really good course and I enjoyed it. However even after finishing the course I still wished I got to build more apps with Philip's help. Also the teaching style is great however the explanations were not always thorough. For example, he'd put down a line of code and explain why he did that but never explained how he got to know that that's how you're supposed to do it. Also I would of loved an in depth lesson of how to use the android developer documentation. I feel that would of been a really strong addition and also how to read API documentations of companies out there.",
+            "rating": 3.5
+        },
+        {
+            "body": "Once we reach the quizzler app, he explains the methods and code writing as if we know what he is talking about. he starts to go really fast specially on complicated matters. i was enjoying the course fully in the beginning but then it feels like he just wants to finish the section even though detailed explanations are needed now more than before. Moreover, we learn by practicing, downloading a premade designed app with strings and codes written already is a big NO. am here to learn to do it even though we've done it once in the beginning where it was very basic. I need to design now more than the Dicee app as its getting complicated.",
+            "rating": 2
+        },
+        {
+            "body": "Okay so I bought the course and at start it was Ok,he was learning you how to build simple apps,in my first application,the simplest one,I had a problem that I didn't manage to solve by myself so I sent him a message and asked for help.\n\nIn the meantime,I used google to solve my problem untill he replay.\n\nI BOUGHT THE COURSE ABOUT A MONTH AGO AND I STILL DIDN'T GOT ANY MESSAGE FROM HIM!!\n\nThere is no support,only from the Q&A.\n\nThe weather project is a BIG BIG BIG disaster,he is not really explaining what happen,he just write non-stop and expect you to understand him.\n\nIn addition,the weather app is not working,the API is old and not working,and no matter what I tried I didn't manage to make it work(I downloaded his complete file and changed the API for test but it didn't help)\n\nNow I know that some people will say that its easy to fix and things.\n\nWell,English is not my first language and I have watched all the videos in 0.75x ,In addition,I would expect some support or an update for some things!\n\nIf I could go back in time I wouldn't take this class again.\n\nnot recomended.",
+            "rating": 1
+        },
+        {
+            "body": "Sometimes explanations are not clear, also some features in the course are outdated. Many of the courses are full of bugs and complete code at the end is not the same as the one shown in the course. Spent hours to debug chat app",
+            "rating": 2
+        }
+    ],
+    "students": [
+        {
+            "name": "Shanmugasharma Vijayarangan",
+            "email": "shanmugasharmavijayarangan@gmail.com",
+            "password": "shanmugasharmavijayarangan",
+            "role": "s"
+        },
+        {
+            "name": "Ekaterina Lapenkova",
+            "email": "ekaterinalapenkova@gmail.com",
+            "password": "ekaterinalapenkova",
+            "role": "s"
+        },
+        {
+            "name": "Robert Nilsson",
+            "email": "robertnilsson@gmail.com",
+            "password": "robertnilsson",
+            "role": "s"
+        },
+        {
+            "name": "Stoica Marius Florin",
+            "email": "stoicamariusflorin@gmail.com",
+            "password": "stoicamariusflorin",
+            "role": "s"
+        },
+        {
+            "name": "Александр",
+            "email": "александр@gmail.com",
+            "password": "александр",
+            "role": "s"
+        },
+        {
+            "name": "Mohamad Shaftar",
+            "email": "mohamadshaftar@gmail.com",
+            "password": "mohamadshaftar",
+            "role": "s"
+        },
+        {
+            "name": "Afanah Azam",
+            "email": "afanahazam@gmail.com",
+            "password": "afanahazam",
+            "role": "s"
+        },
+        {
+            "name": "Sourav Naskar",
+            "email": "souravnaskar@gmail.com",
+            "password": "souravnaskar",
+            "role": "s"
+        },
+        {
+            "name": "Bogosi Mabaila",
+            "email": "bogosimabaila@gmail.com",
+            "password": "bogosimabaila",
+            "role": "s"
+        },
+        {
+            "name": "Imad Shams",
+            "email": "imadshams@gmail.com",
+            "password": "imadshams",
+            "role": "s"
+        },
+        {
+            "name": "Dor Perez",
+            "email": "dorperez@gmail.com",
+            "password": "dorperez",
+            "role": "s"
+        },
+        {
+            "name": "Antonios Adraktas",
+            "email": "antoniosadraktas@gmail.com",
+            "password": "antoniosadraktas",
+            "role": "s"
+        }
+    ],
+    "instructor": {
+        "name": "Philipp Muellauer",
+        "email": "philippmuellauer@gmail.com",
+        "password": "philippmuellauer",
+        "role": "i",
+        "briefIntroduction": "<p>I’m Philipp, I’m a data scientist and mobile developer with a passion for teaching. I’m the lead instructor at the London App Brewery for machine learning and Android development, fluent in Python, Java, Swift, Dart, and VBA. I’ve taught thousands of students in-person in our London classroom and lead our corporate training, used by companies such as Google, Amazon and Twitter. I'm always thinking about how to make difficult concepts easy to understand, what kind of projects would make a fun tutorial, and how I can help you succeed through my courses.</p>"
+    }
+}

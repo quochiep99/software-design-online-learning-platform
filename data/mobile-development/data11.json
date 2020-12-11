@@ -1,0 +1,151 @@
+{
+    "field": {
+        "name": "mobile-development",
+        "courses": []
+    },
+    "course": {
+        "title": "The Complete iOS 10 & Swift 3 Developer Course",
+        "subtitle": "Learn iOS App Development by building 21 iOS apps using Swift 3 & Xcode 8. Includes free web hosting, assets & ebook.",
+        "descriptions": [],
+        "reviews": [],
+        "students": [],
+        "image1xURL": "https://img-a.udemycdn.com/course/240x135/895786_7b4b_2.jpg",
+        "image2xURL": "https://img-a.udemycdn.com/course/480x270/895786_7b4b_2.jpg",
+        "image3xURL": "https://img-a.udemycdn.com/course/750x422/895786_7b4b_2.jpg",
+        "discountPrice": 12.99,
+        "originalPrice": 139.99,
+        "numViews": 0,
+        "curriculum": []
+    },
+    "reviews": [
+        {
+            "body": "So much fun, easy to understand and really inspiring with the real examples",
+            "rating": 5
+        },
+        {
+            "body": "The video lessons are clear simple and explain all what you need to start develop your apps!",
+            "rating": 5
+        },
+        {
+            "body": "arouiche\nRating: 4.5 out of 5\n10 months ago\n\nGood explanations and examples to practice. Would be nice if you explain some of the errors that xcode gives.",
+            "rating": 4.5
+        },
+        {
+            "body": "I have started working on developing the app that I had in mind for a while now, and this course has definitely helped me setup the initial steps for it. It is definitely worth it! thank you Rob!",
+            "rating": 5
+        },
+        {
+            "body": "They have not updated the Xcode programm, so the filenames of the files in the \"hello World\" start project in video \"8. Navigating The Xcode interface\" It's not the same names as in the newest version of Xcode. So i got really confussed now and i still trying to figure it out what files he have in the video look like the new files with different names. But otherwise, he explains it good",
+            "rating": 2.5
+        },
+        {
+            "body": "Great match !",
+            "rating": 4
+        },
+        {
+            "body": "The presenter is very clear, energetic, and to the point. Love this course!",
+            "rating": 5
+        },
+        {
+            "body": "Does not match xCode which makes it very hard to follow",
+            "rating": 2.5
+        },
+        {
+            "body": "Easy step by step instructions",
+            "rating": 5
+        },
+        {
+            "body": "I'm just starting to learn coding so I am excited to learn more.",
+            "rating": 3.5
+        },
+        {
+            "body": "this is outdated in parts and not everything ties up with the demo - would be great if there were mini updates like they do in Onemonth",
+            "rating": 3
+        },
+        {
+            "body": "Outdated material",
+            "rating": 1
+        }
+    ],
+    "students": [
+        {
+            "name": "Ylvaholgersson Holgersson",
+            "email": "ylvaholgerssonholgersson@gmail.com",
+            "password": "ylvaholgerssonholgersson",
+            "role": "s"
+        },
+        {
+            "name": "Giuseppe Diciolla",
+            "email": "giuseppediciolla@gmail.com",
+            "password": "giuseppediciolla",
+            "role": "s"
+        },
+        {
+            "name": "Santiago Darouiche",
+            "email": "santiagodarouiche@gmail.com",
+            "password": "santiagodarouiche",
+            "role": "s"
+        },
+        {
+            "name": "Nouha Nouman",
+            "email": "nouhanouman@gmail.com",
+            "password": "nouhanouman",
+            "role": "s"
+        },
+        {
+            "name": "Adam wahab",
+            "email": "adamwahab@gmail.com",
+            "password": "adamwahab",
+            "role": "s"
+        },
+        {
+            "name": "German Peruyero",
+            "email": "germanperuyero@gmail.com",
+            "password": "germanperuyero",
+            "role": "s"
+        },
+        {
+            "name": "Peter Sigurdson",
+            "email": "petersigurdson@gmail.com",
+            "password": "petersigurdson",
+            "role": "s"
+        },
+        {
+            "name": "Ira Somach",
+            "email": "irasomach@gmail.com",
+            "password": "irasomach",
+            "role": "s"
+        },
+        {
+            "name": "Mohammad Qasimi",
+            "email": "mohammadqasimi@gmail.com",
+            "password": "mohammadqasimi",
+            "role": "s"
+        },
+        {
+            "name": "Horacio R",
+            "email": "horacior@gmail.com",
+            "password": "horacior",
+            "role": "s"
+        },
+        {
+            "name": "Jack Alack",
+            "email": "jackalack@gmail.com",
+            "password": "jackalack",
+            "role": "s"
+        },
+        {
+            "name": "Lamine Gueye",
+            "email": "laminegueye@gmail.com",
+            "password": "laminegueye",
+            "role": "s"
+        }
+    ],
+    "instructor": {
+        "name": "Rob Percival",
+        "email": "robpercival@gmail.com",
+        "password": "robpercival",
+        "role": "i",
+        "briefIntroduction": "<p> Hi! I'm Rob. I have a degree in Mathematics from Cambridge University and you might call me a bit of coding geek. </p>\n<p> After building websites for friends and family for fun, I soon learned that web development was a very lucrative career choice. I gave up my successful (and sometimes stressful) job as a teacher to work part time and today, couldn't be happier. </p>\n<p> I'm passionate about teaching kids to code, so every summer I run Code School in the beautiful city of Cambridge. I also run the popular web hosting and design service, Eco Web Hosting which leaves me free to share my secrets with people like you. </p>\n<p> <strong>You wouldn't believe the freedom that being a web developer offers.</strong> Sign up and find out for yourself why so many people are taking and recommending this course. I genuinely believe it's the best on the market and if you don't agree, I'll happily refund your money. </p>\n<p> Sign up to my courses and join me in this amazing adventure today. </p>"
+    }
+}

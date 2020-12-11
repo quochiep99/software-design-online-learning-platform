@@ -1,0 +1,151 @@
+{
+    "field": {
+        "name": "mobile-development",
+        "courses": []
+    },
+    "course": {
+        "title": "The Complete 2020 Flutter Development Bootcamp with Dart",
+        "subtitle": "Officially created in collaboration with the Google Flutter team.",
+        "descriptions": [],
+        "reviews": [],
+        "students": [],
+        "image1xURL": "https://img-a.udemycdn.com/course/240x135/2259120_305f_6.jpg",
+        "image2xURL": "https://img-a.udemycdn.com/course/480x270/2259120_305f_6.jpg",
+        "image3xURL": "https://img-a.udemycdn.com/course/750x422/2259120_305f_6.jpg",
+        "discountPrice": 11.99,
+        "originalPrice": 129.99,
+        "numViews": 0,
+        "curriculum": []
+    },
+    "reviews": [
+        {
+            "body": "I would like to geniunely thank Dr. Angela for this course, she has really nailed this one. Just from finishing this course, I'm confident with my Flutter skills. I believe some familiarity with OOP would help you with this one though.",
+            "rating": 5
+        },
+        {
+            "body": "This course felt simply amazing! The pacing was spot-on, and I felt the ramp in difficulty was never unfair. Angela does a great job of explaining complex systems and functions for those who are new to computer programming. The only issues I had with this course were with some of the provided app files being outdated, causing some functions to break.",
+            "rating": 4.5
+        },
+        {
+            "body": "I went into this course with zero app development skills, although I had 2 years of experience coding in other languages. It seemed daunting at first learning all the important concepts, but as time passed by I was able to get a hang of it thanks to Angela's unique way of explaining difficult concept. The course is rich in content and I'll advice anyone reading this and is still skeptical on if they should take the course or not to enroll.",
+            "rating": 4.5
+        },
+        {
+            "body": "learned everything that needs to start, before that course I wasn't familiar with Object-Oriented Programing languages but Angela thought me very well so it was a great journey before I was starting the course I thought I will complete it in one or two weeks but it took me two months to complete with constantly learning it was great experience Thank you Angela.",
+            "rating": 4.5
+        },
+        {
+            "body": "Ich war mit dem Kurs sehr zufrieden. Frau Yu versteht es großartig, komplizierte Sachverhalte einfach zu erklären. Möchte mich herzlich für Ihr Engagement bedanken.",
+            "rating": 5
+        },
+        {
+            "body": "I really enjoyed taking this course and have gained much knowledge. I think the simplicity of this course and the way you and the team designed it really work well to help students process the information and maintain it. Overall I had a lot of fun taking this course and I will definitely be taking more online courses from you. Thank you very much Dr. Angela Yu\n\nI RECOMMED THIS COURSE TO ANYONE WHO WANTS TO LEARN WHILE HAVING FUN!!!!!!!!!",
+            "rating": 5
+        },
+        {
+            "body": "This is the first Flutter course as well as the first Coding course and I don't have any experience in coding. Undoubtedly, Dr Angela has done a fantastic job. The analogies she chooses while explaining a new topic are very catchy. Her teaching speed is decent and challenges in between are helpful.\n\nThe best part is her interest in pushing students towards documentation and repetitively explaining topics when they are revisited is very helpful.\n\nBefore buying this course, I have subscribed for some other course on Udemy. No doubt it is good but I couldn't catch up with the tutor. But in this course, there is no such issue.\n\nI totally recommend this course to students with little or no coding experience.",
+            "rating": 5
+        },
+        {
+            "body": "The instructor has done a really good job by using amazing slides and animations to make sure the students understand well. There are challenges where the student will create apps on their own to use what they have learnt to revise the previous modules. Best instructor I have come across so far.",
+            "rating": 5
+        },
+        {
+            "body": "Fantastic mentor and very helpful to learn some topics like animations, providers, and some short cuts with this course. I can easily understand flutter due to Angela. Nice Bootcamp.",
+            "rating": 5
+        },
+        {
+            "body": "Sehr durchdachter und gut strukturierter Kurs. Inhaltlich erhält man auch alles was nötig ist, um programmieren zu können. Zwischendurch erhält man sogar paar Motivationsvideos mit paar allgemeinen Tipps. Das einzige, was ich mir noch wünschen würde wäre mehr Inhalt bzgl. Software-Architekturen und wie diese in Flutter umgesetzt werden.",
+            "rating": 5
+        },
+        {
+            "body": "The overall course was really enjoyable and perfect with Angela who is a very energetic and encouraging person! I really really enjoyed her everyday smile and passion into this course. Some things are outdated but the community is awesome for helping us finding the solution out.",
+            "rating": 5
+        },
+        {
+            "body": "Amazing tutor. Highly recommend. Her voice is the main factor that made me complete this course. Although I don't know her Chinese name, her English name is quite apt. She is indeed an Angel in my life.",
+            "rating": 5
+        }
+    ],
+    "students": [
+        {
+            "name": "Çağrı Yorguner",
+            "email": "çağrıyorguner@gmail.com",
+            "password": "çağrıyorguner",
+            "role": "s"
+        },
+        {
+            "name": "Scott Mullins",
+            "email": "scottmullins@gmail.com",
+            "password": "scottmullins",
+            "role": "s"
+        },
+        {
+            "name": "Emmanuel Sule",
+            "email": "emmanuelsule@gmail.com",
+            "password": "emmanuelsule",
+            "role": "s"
+        },
+        {
+            "name": "Abdul Wajid Thekiya",
+            "email": "abdulwajidthekiya@gmail.com",
+            "password": "abdulwajidthekiya",
+            "role": "s"
+        },
+        {
+            "name": "Ernst Häuslschmid",
+            "email": "ernsthäuslschmid@gmail.com",
+            "password": "ernsthäuslschmid",
+            "role": "s"
+        },
+        {
+            "name": "Nkuna N",
+            "email": "nkunan@gmail.com",
+            "password": "nkunan",
+            "role": "s"
+        },
+        {
+            "name": "Mahesh Madala",
+            "email": "maheshmadala@gmail.com",
+            "password": "maheshmadala",
+            "role": "s"
+        },
+        {
+            "name": "Binaya Magar",
+            "email": "binayamagar@gmail.com",
+            "password": "binayamagar",
+            "role": "s"
+        },
+        {
+            "name": "Mirant",
+            "email": "mirant@gmail.com",
+            "password": "mirant",
+            "role": "s"
+        },
+        {
+            "name": "Eddy Roy Balummel",
+            "email": "eddyroybalummel@gmail.com",
+            "password": "eddyroybalummel",
+            "role": "s"
+        },
+        {
+            "name": "Hafid Boukensous",
+            "email": "hafidboukensous@gmail.com",
+            "password": "hafidboukensous",
+            "role": "s"
+        },
+        {
+            "name": "Saba",
+            "email": "saba@gmail.com",
+            "password": "saba",
+            "role": "s"
+        }
+    ],
+    "instructor": {
+        "name": "Dr. Angela Yu",
+        "email": "dr.angelayu@gmail.com",
+        "password": "dr.angelayu",
+        "role": "i",
+        "briefIntroduction": "<p>I'm Angela, I'm a developer with a passion for teaching. I'm the <strong>lead instructor</strong> at the London App Brewery, London's leading <strong>Programming Bootcamp</strong>. I've helped hundreds of thousands of students learn to code and change their lives by becoming a developer. I've been invited by companies such as Twitter, Facebook and Google to teach their employees.</p><p>My first foray into programming was when I was just 12 years old, wanting to build my own Space Invader game. Since then, I've made <strong>hundred of websites, apps and games</strong>. But most importantly, I realised that my <strong>greatest passion</strong> is teaching. </p><p>I spend most of my time researching how to make <strong>learning to code fun</strong> and make <strong>hard concepts easy to understand</strong>. I apply everything I discover into my bootcamp courses. In my courses, you'll find lots of geeky humour but also lots of <strong>explanations and animations</strong> to make sure everything is easy to understand. </p><p><strong>I'll be there for you every step of the way.</strong></p>"
+    }
+}

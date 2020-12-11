@@ -1,0 +1,151 @@
+{
+    "field": {
+        "name": "mobile-development",
+        "courses": []
+    },
+    "course": {
+        "title": "iOS & Swift - The Complete iOS App Development Bootcamp",
+        "subtitle": "From Beginner to iOS App Developer with Just One Course! Fully Updated with a Comprehensive Module Dedicated to SwiftUI!",
+        "descriptions": [],
+        "reviews": [],
+        "students": [],
+        "image1xURL": "https://img-a.udemycdn.com/course/240x135/1778502_f4b9_12.jpg",
+        "image2xURL": "https://img-a.udemycdn.com/course/480x270/1778502_f4b9_12.jpg",
+        "image3xURL": "https://img-a.udemycdn.com/course/750x422/1778502_f4b9_12.jpg",
+        "discountPrice": 11.99,
+        "originalPrice": 129.99,
+        "numViews": 0,
+        "curriculum": []
+    },
+    "reviews": [
+        {
+            "body": "This is the best course I’ve ever attended so far. Angela has taken so much effort to make this an exhaustive course covering all aspects of app development including minute details like Xcode shortcuts, best practices, useful websites etc… I really liked the way Angela talks with her soothing voice.\n\nI would highly recommend this course.",
+            "rating": 5
+        },
+        {
+            "body": "Oh my God, taking this course was pretty much like giving a glass of water to somebody living in hell, I mean with all these options you got, going to college, books and all that stuff there is no other person as good as a programming teacher as Angela, I've poured thousands of dollars on trying to learn all this stuff in college but it's been just a waste of money and time. 100% recommended, learning iOS development really changed my life in a big way tbh!",
+            "rating": 5
+        },
+        {
+            "body": "Great and simple, will recommend. A lot helper and solution, it teach step by step need to be patience.",
+            "rating": 5
+        },
+        {
+            "body": "I loved taking this course. Angela is a great teacher. The only criticism that I have is many of the sections were slightly outdated. I understand that redoing a whole 60 hour long course every time something changes isn't ideal, but there are a few things that could have been done to fix this issue. Maybe in the sections that were outdated, there could be a final video explaining how to solve any issues that we might have had during the section. Of course there was always the assistance provided by the Q&A, but they didn't always help. Overall, a great course with a wonderful teacher that I will be grateful for.",
+            "rating": 4.5
+        },
+        {
+            "body": "Brilliant pace, very clear and easy to understand. Being a student that is foreign to the computer world, I have found it very easy to follow along with these classes.\n\nMy one and only suggestion would be on each section it might be a good idea to do a summary on everything that has been taught in that particular section to summarise the content to the students.",
+            "rating": 5
+        },
+        {
+            "body": "I loved it! Angela broke down all of the hard concepts that I was struggling with in other courses. The fact that she put in bonus modules such as app design and marketing is incredible. Most courses don't include these topics, so the addition of both modules are very generous of her and her team at App Brewery",
+            "rating": 5
+        },
+        {
+            "body": "Just one of the best learning experiences from Udemy.\n\nI particularly love the analogies used by Angela In order to learn new concepts and techniques.\n\nI also believe this is non native English speaker friendly, most of the courses out there speak very fast English and Angela does at a good pace.\n\nOther things that I've loved about the course.\n\nVery fun projects.\n\nGood practices.\n\nReal technology stack used by companies / startups.\n\nAcceptable length per video.\n\nGreat community.",
+            "rating": 5
+        },
+        {
+            "body": "It was amazing experience for me .The course gave a good refresh of certain aspects of app development . Coming from the android app development background i was able relate and distinguish in most of the sections . It was an all in one package for a beginner in IOS development.",
+            "rating": 5
+        },
+        {
+            "body": "Ce cours correspond tout à fait à mes attentes. Très bien présenté, très interactif et au combien intéressant. La formation prend du temps mais cela en vaut la peine, un débutant peut en apprendre énormément. Beaucoup de ressources sont mises à votre disposition et cela je pense prépare très bien un lancement de projet ou une idée d'application iOS. Merci Angela.",
+            "rating": 5
+        },
+        {
+            "body": "Angela's explanation methods are really good(perfect for me!). She for sure tried her best to create this course. Many thanks for creating this course, Angela! :-)",
+            "rating": 5
+        },
+        {
+            "body": "Amazing course, it doesn’t get much better than this for this price it’s a steal, Angela does a really good job explaining things, worth every cent!",
+            "rating": 5
+        },
+        {
+            "body": "The materials and the coordination of what to learn, work on, improve upon and retain are remarkable. Angela, and whoever else helped put this course together, did an excellent job and truly understands how a person learns and retains challenging material! The additional Bonus material, was just that, a BONUS! The information provided was worth many times more than what I paid to take this iOS course. Angela, thank you so much for sharing your knowledge, efforts and experiences!!",
+            "rating": 5
+        }
+    ],
+    "students": [
+        {
+            "name": "Biju Gopalakrishnan",
+            "email": "bijugopalakrishnan@gmail.com",
+            "password": "bijugopalakrishnan",
+            "role": "s"
+        },
+        {
+            "name": "Felipe Vallejo",
+            "email": "felipevallejo@gmail.com",
+            "password": "felipevallejo",
+            "role": "s"
+        },
+        {
+            "name": "Stephen Goh",
+            "email": "stephengoh@gmail.com",
+            "password": "stephengoh",
+            "role": "s"
+        },
+        {
+            "name": "Pranav Patel",
+            "email": "pranavpatel@gmail.com",
+            "password": "pranavpatel",
+            "role": "s"
+        },
+        {
+            "name": "Nicholas Cattell",
+            "email": "nicholascattell@gmail.com",
+            "password": "nicholascattell",
+            "role": "s"
+        },
+        {
+            "name": "Alexander Ha",
+            "email": "alexanderha@gmail.com",
+            "password": "alexanderha",
+            "role": "s"
+        },
+        {
+            "name": "Eliu Efraín Díaz Bravo",
+            "email": "eliuefraíndíazbravo@gmail.com",
+            "password": "eliuefraíndíazbravo",
+            "role": "s"
+        },
+        {
+            "name": "Harikrishna Sabu",
+            "email": "harikrishnasabu@gmail.com",
+            "password": "harikrishnasabu",
+            "role": "s"
+        },
+        {
+            "name": "Vincent",
+            "email": "vincent@gmail.com",
+            "password": "vincent",
+            "role": "s"
+        },
+        {
+            "name": "Akbarjon Atakhanov",
+            "email": "akbarjonatakhanov@gmail.com",
+            "password": "akbarjonatakhanov",
+            "role": "s"
+        },
+        {
+            "name": "Nathan Woolmore",
+            "email": "nathanwoolmore@gmail.com",
+            "password": "nathanwoolmore",
+            "role": "s"
+        },
+        {
+            "name": "Nathan Slippen",
+            "email": "nathanslippen@gmail.com",
+            "password": "nathanslippen",
+            "role": "s"
+        }
+    ],
+    "instructor": {
+        "name": "Dr. Angela Yu",
+        "email": "dr.angelayu@gmail.com",
+        "password": "dr.angelayu",
+        "role": "i",
+        "briefIntroduction": "<p>I'm Angela, I'm a developer with a passion for teaching. I'm the <strong>lead instructor</strong> at the London App Brewery, London's leading <strong>Programming Bootcamp</strong>. I've helped hundreds of thousands of students learn to code and change their lives by becoming a developer. I've been invited by companies such as Twitter, Facebook and Google to teach their employees.</p><p>My first foray into programming was when I was just 12 years old, wanting to build my own Space Invader game. Since then, I've made <strong>hundred of websites, apps and games</strong>. But most importantly, I realised that my <strong>greatest passion</strong> is teaching. </p><p>I spend most of my time researching how to make <strong>learning to code fun</strong> and make <strong>hard concepts easy to understand</strong>. I apply everything I discover into my bootcamp courses. In my courses, you'll find lots of geeky humour but also lots of <strong>explanations and animations</strong> to make sure everything is easy to understand. </p><p><strong>I'll be there for you every step of the way.</strong></p>"
+    }
+}

@@ -20,7 +20,10 @@ const UserSchema = new Schema({
     // role
     // student, instructor, admin
     // type = s for student, i for instructor and a for admin
-    role: String,
+    role: {
+        type: String,
+        default: "s"
+    },
     
     wishList: [
         {

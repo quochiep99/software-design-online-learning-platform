@@ -1,0 +1,151 @@
+{
+    "field": {
+        "name": "mobile-development",
+        "courses": []
+    },
+    "course": {
+        "title": "The Complete Android Kotlin Developer Course",
+        "subtitle": "Learn how to build 17 online games, and apps for Android Q, like Pokémon , twitter,Tic Tac Toe, and notepad using Kotlin",
+        "descriptions": [],
+        "reviews": [],
+        "students": [],
+        "image1xURL": "https://img-b.udemycdn.com/course/240x135/1207960_a8af_2.jpg",
+        "image2xURL": "https://img-b.udemycdn.com/course/480x270/1207960_a8af_2.jpg",
+        "image3xURL": "https://img-b.udemycdn.com/course/750x422/1207960_a8af_2.jpg",
+        "discountPrice": 11.99,
+        "originalPrice": 129.99,
+        "numViews": 0,
+        "curriculum": []
+    },
+    "reviews": [
+        {
+            "body": "Overall nice experience to learn for first timer. Its quite easy to understand and straightforward information.",
+            "rating": 4.5
+        },
+        {
+            "body": "คอร์สนี้วิทยากรสอนเข้าใจ และนำไปใช้ได้จริงครับ",
+            "rating": 5
+        },
+        {
+            "body": "it was satisfactory",
+            "rating": 5
+        },
+        {
+            "body": "The course was very interesting because of the structure of the topics, however, it is very outdated, and some of the functions/components are no longer used, so I will highly recommend to update it to help the beginners follow more easily the course (in my case I managed to do the hw but I struggle a lot). Also many questions of students are still unanswered. Overall it was a great experience to learn many (or most ) of the features that work in Android. Thanks!",
+            "rating": 3
+        },
+        {
+            "body": "very nice tutorial",
+            "rating": 5
+        },
+        {
+            "body": "Its a good course..but language of speaker is not that fluent some words are not clearly understand ,it should be have a better fluenter so that listener can easily understand..",
+            "rating": 4.5
+        },
+        {
+            "body": "This is more a course about how to do android app in the worst possible way.\n\n- The code is horrible. The author creates methods and attributes as needed, without following any order structure.\n\n- Kotlin? Half. Use kotlin to program and it works. But it constantly uses expressions that it shouldn't use. For example, he uses the second constructor instead of the main one, he is constantly using !! to avoid checking nulls, he doesn't use data classes either ... it's one after another\n\n- Some apps don't even finish them, because they get so confusing that even he doesn't seem to know how to go on. Like the TicTacToe example.\n\n- Many applications do not work, for example the alarm. Or anyone that involves using external services (weather application, Maps application ...)\n\n- He does not answer questions or have someone to answer them. Basically you have access to these videos and code, but nothing else.\n\nI am disappointed with the course.",
+            "rating": 1
+        },
+        {
+            "body": "can't hear the audio well and really hard to understand basic fundamental concepts. not very good but one of the only few Kotlin courses out there ..",
+            "rating": 1
+        },
+        {
+            "body": "+ Instructor's English language : very bad\n\n+ Kotlin explanation from section 1 to 11 : good\n\n+ Android projects implementation from section 12 to 31 : very bad\n\n+ Overall : very bad",
+            "rating": 1
+        },
+        {
+            "body": "This would have been a good match, however the course had technical issues, with poor application of the Kotlin language, especially an overzealous use of the not null assertion operator (!!), which defeats the point of Kotlin's null safety.\n\nThe explanations were not clear in some parts, I replied to 9 questions in the course, 7 of which were to help out other confused students (I also was compelled to re-write some of the applications).\n\nRegarding section 29 and 30:\n\n29 was in effect a duplicate of 24, and both sections (29 and 30) dealt with technologies, outside the remit of this course! This is an Android + Kotlin course, yet, PHP, node.js and C# development was involved, when Kotlin could have been used instead.",
+            "rating": 2.5
+        },
+        {
+            "body": "If you you enjoy debugging ugly chunks of code, look for resources by yourself... trying to understand poorly taken English. This is your course. Kotlin and SDK are so poorly used i am embarrassed. When it comes to PHP and MySQL, steps are skipped. Most of the concepts are poorly and some wrongly explained.",
+            "rating": 1.5
+        },
+        {
+            "body": "Der Kurs gibt eine gute Einführung in Kotlin und welche Möglichkeiten Android-Studio zur App-Programmierung bietet. Es fehlt aber eine grundlegende Einführung in die GUI-Programmierung.\n\nDer Kurs leidet manchmal unter Sound-Problemen (verzerrt) und unscharfen Bildern. Für nicht Englisch-Muttersprachler ist das Englisch manchmal schwierig zu verstehen, da die Aussprache von der normalen abweicht z.B. string - cittering, empty - empeti.",
+            "rating": 3.5
+        }
+    ],
+    "students": [
+        {
+            "name": "Muhammad Hazeeq",
+            "email": "muhammadhazeeq@gmail.com",
+            "password": "muhammadhazeeq",
+            "role": "s"
+        },
+        {
+            "name": "Ausdakorn Khantee",
+            "email": "ausdakornkhantee@gmail.com",
+            "password": "ausdakornkhantee",
+            "role": "s"
+        },
+        {
+            "name": "Aman Raj",
+            "email": "amanraj@gmail.com",
+            "password": "amanraj",
+            "role": "s"
+        },
+        {
+            "name": "Gloria Gonzales",
+            "email": "gloriagonzales@gmail.com",
+            "password": "gloriagonzales",
+            "role": "s"
+        },
+        {
+            "name": "issa Katuga",
+            "email": "issakatuga@gmail.com",
+            "password": "issakatuga",
+            "role": "s"
+        },
+        {
+            "name": "Sneha C R",
+            "email": "snehacr@gmail.com",
+            "password": "snehacr",
+            "role": "s"
+        },
+        {
+            "name": "José María Egea Canales",
+            "email": "josémaríaegeacanales@gmail.com",
+            "password": "josémaríaegeacanales",
+            "role": "s"
+        },
+        {
+            "name": "Nala Alan",
+            "email": "nalaalan@gmail.com",
+            "password": "nalaalan",
+            "role": "s"
+        },
+        {
+            "name": "Michael Magdy",
+            "email": "michaelmagdy@gmail.com",
+            "password": "michaelmagdy",
+            "role": "s"
+        },
+        {
+            "name": "Philip Wainwright",
+            "email": "philipwainwright@gmail.com",
+            "password": "philipwainwright",
+            "role": "s"
+        },
+        {
+            "name": "Manea Valentin Cornel",
+            "email": "maneavalentincornel@gmail.com",
+            "password": "maneavalentincornel",
+            "role": "s"
+        },
+        {
+            "name": "Wolfram Hildebrandt",
+            "email": "wolframhildebrandt@gmail.com",
+            "password": "wolframhildebrandt",
+            "role": "s"
+        }
+    ],
+    "instructor": {
+        "name": "Hussein Alrubaye",
+        "email": "husseinalrubaye@gmail.com",
+        "password": "husseinalrubaye",
+        "role": "i",
+        "briefIntroduction": "<p> I am a Senior Software Engineer at Microsoft<strong>. </strong>I have Ph.D. &amp; Master in&nbsp;Software Engineering from Rochester Institute of Technology in USA. I've helped hundreds of thousands of students learn to code and change their lives by becoming a developer.&nbsp; I&nbsp;have&nbsp;apps in Google Play, Microsoft Store, and &nbsp;Apple Store<strong> </strong>there are more than <strong>million users </strong>who are using my apps. Also, I have many tutorials on YouTube( <strong>500k+ subscribes</strong>). Because of my contribution to teaching programming,&nbsp;I got<strong>&nbsp;Microsoft Most Valuable Professional (17) </strong>. Also, I teach at <strong>Udacity, Udemy, SkillShare, StackSkills, and a local university. </strong>For more see my website</p>"
+    }
+}

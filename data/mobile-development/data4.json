@@ -1,0 +1,151 @@
+{
+    "field": {
+        "name": "mobile-development",
+        "courses": []
+    },
+    "course": {
+        "title": "Flutter & Dart - The Complete Guide [2020 Edition]",
+        "subtitle": "A Complete Guide to the Flutter SDK & Flutter Framework for building native iOS and Android apps",
+        "descriptions": [],
+        "reviews": [],
+        "students": [],
+        "image1xURL": "https://img-a.udemycdn.com/course/240x135/1708340_7108_4.jpg",
+        "image2xURL": "https://img-a.udemycdn.com/course/480x270/1708340_7108_4.jpg",
+        "image3xURL": "https://img-a.udemycdn.com/course/750x422/1708340_7108_4.jpg",
+        "discountPrice": 11.99,
+        "originalPrice": 129.99,
+        "numViews": 0,
+        "curriculum": []
+    },
+    "reviews": [
+        {
+            "body": "This is a perfect flutter course. I took this course last year and it is the only course I have taken on flutter. I got an offer as a flutter developer last month. Max is a perfect teacher. I always go back to his courses whenever I want to learn or refresh my memory.",
+            "rating": 5
+        },
+        {
+            "body": "Excellent course. There were one of two moments I felt the didactic wasn't clear enough, but these were really an exception. Overall, a great course. Highly recommended! Thank you, Maximillian Schwartzmuller!",
+            "rating": 5
+        },
+        {
+            "body": "This course is amazing. It took me from zero to one in Flutter. The way the instructor teaches is so amazing and things were on point. Great course.",
+            "rating": 4.5
+        },
+        {
+            "body": "Very in depth course covering a lot of concepts. the instructor takes time time to go into details and offers great explanations.",
+            "rating": 5
+        },
+        {
+            "body": "i also take other flutter course which give me good flutter understanding but this course is more advance in nature according to me some more effort could be given to clear basic thing like in Map , List and there function which are base for any flutter project but overall it is good course\n\nso THANK YOU SIR for this awesome course",
+            "rating": 4.5
+        },
+        {
+            "body": "Firstly Max is expert and he is always updating the course so i don't have to worry if there is something new and i don't know about it, plus Max always shows us an alternative ways so we can be more into the flutter and dart language.\n\nSecondly sometimes Max speaks too fast when he should say it as slow as he can so we can get what he means in the same time we can understand it .\n\nBut Overall the course is unique :)",
+            "rating": 5
+        },
+        {
+            "body": "Overall course is good and gives complete overview of the flutter app development. This course will give heads up to start app development on your own.",
+            "rating": 5
+        },
+        {
+            "body": "I have taken a few different courses on Flutter now, but I have to say that Max has gone above and beyond. His recent updates have made it an excellent resource and the best course overall for learning Flutter. Be prepared to be challenged, but if you work through the course you will be quite knowledgable by the time you are done.",
+            "rating": 5
+        },
+        {
+            "body": "It' s a good course content however i would suggest you incorporate lesson challenges at each interval instead of just coding all along. It helps challenge we the students",
+            "rating": 5
+        },
+        {
+            "body": "It was really good as I had little knowledge of Java but still, I learnt a lot. I would have loved you to include editing and category in expense planner, and one to one chat in chat app",
+            "rating": 4.5
+        },
+        {
+            "body": "Fantastic course! The videos were incredibly in-depth and covered a breadth of topics that are enough to make one feel confident building their own apps. The only suggestion I would make is to include a short module on automated testing.",
+            "rating": 5
+        },
+        {
+            "body": "Well, I am a pharmacist and i am taking this course because i am interested in this field. The instructor is highly professional in delivering this kind of knowledge. I strongly recommend this course to anyone who wants to be professional at developing mobile apps.",
+            "rating": 5
+        }
+    ],
+    "students": [
+        {
+            "name": "Evi Coach",
+            "email": "evicoach@gmail.com",
+            "password": "evicoach",
+            "role": "s"
+        },
+        {
+            "name": "Bruno Abreu",
+            "email": "brunoabreu@gmail.com",
+            "password": "brunoabreu",
+            "role": "s"
+        },
+        {
+            "name": "Mano Vikram",
+            "email": "manovikram@gmail.com",
+            "password": "manovikram",
+            "role": "s"
+        },
+        {
+            "name": "Byron Kimani",
+            "email": "byronkimani@gmail.com",
+            "password": "byronkimani",
+            "role": "s"
+        },
+        {
+            "name": "Sudhanshu",
+            "email": "sudhanshu@gmail.com",
+            "password": "sudhanshu",
+            "role": "s"
+        },
+        {
+            "name": "Ahmed Amin",
+            "email": "ahmedamin@gmail.com",
+            "password": "ahmedamin",
+            "role": "s"
+        },
+        {
+            "name": "Prasad P",
+            "email": "prasadp@gmail.com",
+            "password": "prasadp",
+            "role": "s"
+        },
+        {
+            "name": "John Martens",
+            "email": "johnmartens@gmail.com",
+            "password": "johnmartens",
+            "role": "s"
+        },
+        {
+            "name": "Emamezi",
+            "email": "emamezi@gmail.com",
+            "password": "emamezi",
+            "role": "s"
+        },
+        {
+            "name": "Praveen Gupta",
+            "email": "praveengupta@gmail.com",
+            "password": "praveengupta",
+            "role": "s"
+        },
+        {
+            "name": "Charbel Antouny",
+            "email": "charbelantouny@gmail.com",
+            "password": "charbelantouny",
+            "role": "s"
+        },
+        {
+            "name": "Ahmed",
+            "email": "ahmed@gmail.com",
+            "password": "ahmed",
+            "role": "s"
+        }
+    ],
+    "instructor": {
+        "name": "Academind by Maximilian Schwarzmüller",
+        "email": "academindbymaximilianschwarzmüller@gmail.com",
+        "password": "academindbymaximilianschwarzmüller",
+        "role": "i",
+        "briefIntroduction": "<p>Bundling the courses and know how of successful instructors, Academind strives to deliver high quality online education.&nbsp;</p>\n\n<p>Online Education, Real-Life Success - that's what Academind stands for. Learn topics like web development, data analyses and more in a fun and engaging way.</p>\n\n\n\n\n\n\n\n<p>Currently, you can find courses published by Maximilian Schwarzmüller and Manuel Lorenz, more instructors to come!</p>\n\n\n\n\n\n\n\n<p>Keep learning!</p>"
+    }
+}

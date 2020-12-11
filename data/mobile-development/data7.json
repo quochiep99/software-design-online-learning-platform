@@ -1,0 +1,151 @@
+{
+    "field": {
+        "name": "mobile-development",
+        "courses": []
+    },
+    "course": {
+        "title": "React Native - The Practical Guide [2020 Edition]",
+        "subtitle": "Use React Native and your React knowledge to build native iOS and Android Apps - incl. Push Notifications, Hooks, Redux",
+        "descriptions": [],
+        "reviews": [],
+        "students": [],
+        "image1xURL": "https://img-a.udemycdn.com/course/240x135/1436092_2024_4.jpg",
+        "image2xURL": "https://img-a.udemycdn.com/course/480x270/1436092_2024_4.jpg",
+        "image3xURL": "https://img-a.udemycdn.com/course/750x422/1436092_2024_4.jpg",
+        "discountPrice": 11.99,
+        "originalPrice": 129.99,
+        "numViews": 0,
+        "curriculum": []
+    },
+    "reviews": [
+        {
+            "body": "Great course for React Native. Learned a lot and the instructor was great. Wish there was a section on working with SQL and bigger structured mobile apps.",
+            "rating": 5
+        },
+        {
+            "body": "Maximilian Schwarzmüller, has been one of my favorite tutors online, through whom I have learned so many amazing things about programming. This course also keeps his standard so well.",
+            "rating": 5
+        },
+        {
+            "body": "Absolutely amazing! I bought this because I wanted to start a company. And my God it was a huge learning curve but I couldn’t ask for a better teacher! Worth every penny",
+            "rating": 5
+        },
+        {
+            "body": "This course is awesome even if you dont know english perfectly. The explanation and examples are so clear. Also I want to say that here you can find good community that covers any special issues that you can get during study process. Big thanks to Max. Great thanks to Academymind.",
+            "rating": 5
+        },
+        {
+            "body": "Detailed and as always highly professional course. I have learned a lot from it. and I did my first Native mobile app !!!",
+            "rating": 5
+        },
+        {
+            "body": "It’s a good course to kick start the react native learning by having fun developing some mobile applications and pushing them to apple and play stores. ‘Code and learn as you go with example apps’ is the approach that Max uses to teach us react native is quite intuitive.",
+            "rating": 4.5
+        },
+        {
+            "body": "I wish to provide 5 star but this course doesn't cover all the API and components of React-Native. Flatlist is the component has been used entirely in this course instead might have applied all other Components at least one place. Also, widely using API is not covered in this course like SMS, audio and video recording and accessing device details through PHONE_STATE is missing. Important missing piece is React-Native CLI developing. This major concept is covered at single video where should have spent at least a section. I have learned most of the concepts of React-Native and will expect that above limitations will be added into course. Thank You Max.",
+            "rating": 3.5
+        },
+        {
+            "body": "The course is perfect! I learned all about react native and I recommend it to everyone! Thanks Max!",
+            "rating": 5
+        },
+        {
+            "body": "This was a great course for learning React Native. Thanks to Max for all his effort and energy in the course. I liked very much the idea of have many different small applications in the course, that helped me a lot in understanding the concepts, ideas, and tricks of React Native. I will use all the knowledge learned here very soon. See you in the next course that I will take. Thank you.",
+            "rating": 5
+        },
+        {
+            "body": "Exceptional course. Where stuff didn't work because syntax changed, the updates were there in the lecture or adjacent, and the explanations were great for all of the content. I also liked how the Shopping App was expanded out more and more throughout the course, because it was a nice way of teaching us new concepts, while allowing us hands-on experience in applying those new concepts to an app we already built.",
+            "rating": 5
+        },
+        {
+            "body": "Excellent Course and Excellent Teacher!!\n\nI really enjoyed learning React Native!\n\nThank you Maximilian for such a detailed and well explained course!!",
+            "rating": 5
+        },
+        {
+            "body": "In general, this course it alright to take if you are completely new to React Native.\n\nHowever instructor overcomplexing things a lot, most of the logic introduced in this course apps could be way more straight forward.\n\nFirebase were not correctly wired to the project, instructor decides to not follow docs recommendations and uses firebase in weird way, which leads to overcomplexity as well.\n\nThat spirit of doing things from rear to top are feels everywhere through the course, a lot of anti-logical approaches and sticks throwing in your own wheels.",
+            "rating": 3.5
+        }
+    ],
+    "students": [
+        {
+            "name": "JM De Ocampo",
+            "email": "jmdeocampo@gmail.com",
+            "password": "jmdeocampo",
+            "role": "s"
+        },
+        {
+            "name": "Niloy Rudra",
+            "email": "niloyrudra@gmail.com",
+            "password": "niloyrudra",
+            "role": "s"
+        },
+        {
+            "name": "Jefferson Daniel",
+            "email": "jeffersondaniel@gmail.com",
+            "password": "jeffersondaniel",
+            "role": "s"
+        },
+        {
+            "name": "Farhad",
+            "email": "farhad@gmail.com",
+            "password": "farhad",
+            "role": "s"
+        },
+        {
+            "name": "Rafal Lis",
+            "email": "rafallis@gmail.com",
+            "password": "rafallis",
+            "role": "s"
+        },
+        {
+            "name": "Pratap Vamsi Guttikonda",
+            "email": "pratapvamsiguttikonda@gmail.com",
+            "password": "pratapvamsiguttikonda",
+            "role": "s"
+        },
+        {
+            "name": "Rajeshkumar Govindaraj",
+            "email": "rajeshkumargovindaraj@gmail.com",
+            "password": "rajeshkumargovindaraj",
+            "role": "s"
+        },
+        {
+            "name": "Obadia TURAHIRWA",
+            "email": "obadiaturahirwa@gmail.com",
+            "password": "obadiaturahirwa",
+            "role": "s"
+        },
+        {
+            "name": "Diego Efraín Salazar Loría",
+            "email": "diegoefraínsalazarloría@gmail.com",
+            "password": "diegoefraínsalazarloría",
+            "role": "s"
+        },
+        {
+            "name": "Tim Thompson",
+            "email": "timthompson@gmail.com",
+            "password": "timthompson",
+            "role": "s"
+        },
+        {
+            "name": "Lia Brachio",
+            "email": "liabrachio@gmail.com",
+            "password": "liabrachio",
+            "role": "s"
+        },
+        {
+            "name": "Artyom Nikolayev",
+            "email": "artyomnikolayev@gmail.com",
+            "password": "artyomnikolayev",
+            "role": "s"
+        }
+    ],
+    "instructor": {
+        "name": "Academind by Maximilian Schwarzmüller",
+        "email": "academindbymaximilianschwarzmüller@gmail.com",
+        "password": "academindbymaximilianschwarzmüller",
+        "role": "i",
+        "briefIntroduction": "<p>Bundling the courses and know how of successful instructors, Academind strives to deliver high quality online education.&nbsp;</p>\n\n<p>Online Education, Real-Life Success - that's what Academind stands for. Learn topics like web development, data analyses and more in a fun and engaging way.</p>\n\n\n\n\n\n\n\n<p>Currently, you can find courses published by Maximilian Schwarzmüller and Manuel Lorenz, more instructors to come!</p>\n\n\n\n\n\n\n\n<p>Keep learning!</p>"
+    }
+}

@@ -1,0 +1,151 @@
+{
+    "field": {
+        "name": "mobile-development",
+        "courses": []
+    },
+    "course": {
+        "title": "iOS 11 & Swift 4 - The Complete iOS App Development Bootcamp",
+        "subtitle": "Learn iOS 11 App Development From Beginning to End. Using Xcode 9 and Swift 4. Includes Full ARKit and CoreML Modules!",
+        "descriptions": [],
+        "reviews": [],
+        "students": [],
+        "image1xURL": "https://img-a.udemycdn.com/course/240x135/1289478_5831_9.jpg",
+        "image2xURL": "https://img-a.udemycdn.com/course/480x270/1289478_5831_9.jpg",
+        "image3xURL": "https://img-a.udemycdn.com/course/750x422/1289478_5831_9.jpg",
+        "discountPrice": 11.99,
+        "originalPrice": 129.99,
+        "numViews": 0,
+        "curriculum": []
+    },
+    "reviews": [
+        {
+            "body": "Good course, Angela is the best online teacher that I've ever found!",
+            "rating": 4.5
+        },
+        {
+            "body": "It was such a fun course! The course covered such a wide base of the foundational tools and concepts that you will be able to expand to develop any app.",
+            "rating": 5
+        },
+        {
+            "body": "While it's now kinda out of date, I took it a few years back and it does an amazing job of introducing beginners to Mobile Application Development. The projects are incredibly helpful and the instructor is engaging.",
+            "rating": 5
+        },
+        {
+            "body": "I was really impressed with not only the programming aspects of this course, but also the design theory, business development and self improvement aspects as well. Angela is a very impressive instructor and after seeing how great this course was, I would not hesitate to take any of her other courses.",
+            "rating": 5
+        },
+        {
+            "body": "Angela explica muy bien y de manera didáctica. El curso está bien estructurado de lo mas simple a lo complejo abarcando un montón de temas. Cualquier persona puede aprender sin importar su nivel de conocimiento en programación. Muy recomendable!",
+            "rating": 5
+        },
+        {
+            "body": "Too much talking about stuff that is not really about the coding. Also sometimes the to do and logic isn't presented in a smooth order, having to redo code is just annoying.\n\nWould be better if there was an overview of the code first, so one knows which steps there will be, not just seeing the end product of the app.",
+            "rating": 3
+        },
+        {
+            "body": "Angela is hands down the best coding instructor I've had on Udemy. Her lessons and course exercises are structured in such a way that it is easy to understand, without being too slow or too fast-paced to follow along with. She breaks down really complex concepts into simple, understandable chunks. As icing on the cake, her sense of humor is delightful!\n\nThis course not only demystifies Swift and XCode, but also teaches really important concepts like the Model/View/Controller pattern and Github. Good lord, THANK YOU Angela for including Git in this tutorial. It's ridiculous how many coding courses Ive taken with no mention of it at all.\n\nMy only problems with this course are that sometimes the audio cuts and repeats, or sometimes she dives into using a concept that she has not yet explained and then goes back to explain it in a later lesson. ALSO- I would recommend grabbing the latest version of the course for iOS 13 if you can, because some things are out of date in this course.\n\nOther than that, I have no complaints. Angela is truly awesome and if you have the discipline to get through the course, you will learn a ton even in the first 20 hours. My only other wish is that there would be some bonus lectures on NFC encoding but I can understand why its omitted since you need an iPhone X or later plus NFC cards/wristbands to read and write NFC with an app.",
+            "rating": 5
+        },
+        {
+            "body": "Keeping the focus on the understanding of the concept and allowing the more technical skills to raise naturally by doing the codes.",
+            "rating": 4.5
+        },
+        {
+            "body": "I am learning a tremendous amount from this course work and have been overall very happy with what I am getting out of it. I have had some difficulty with some of the lessons not working since it looks like I am using Xcode v 11.0 but I have still managed to learn quite a bit. I think Angela is a very clear communicator and I have enjoyed her videos very much! I will plan to take more classes once I have this completed.",
+            "rating": 5
+        },
+        {
+            "body": "I am enjoying the content. Learning here is really interesting and easy to catch. Thank you.",
+            "rating": 5
+        },
+        {
+            "body": "Done till Section 9, so far has been 5 *s. Thank you!",
+            "rating": 5
+        },
+        {
+            "body": "This instructor makes me feel like I’m taking a class in person. She doesn’t just give definitions of concepts but explains them with real world scenarios. She, by far, goes more in-depth then any other online instructions I’ve scene, meaning coding in swift for iOS is just not coding, she dives in to swift UI apple playground API the whole thing and she does it one step at a time. I really love this curse.",
+            "rating": 5
+        }
+    ],
+    "students": [
+        {
+            "name": "Indra Hernandez",
+            "email": "indrahernandez@gmail.com",
+            "password": "indrahernandez",
+            "role": "s"
+        },
+        {
+            "name": "Tom",
+            "email": "tom@gmail.com",
+            "password": "tom",
+            "role": "s"
+        },
+        {
+            "name": "Dennis Reyes",
+            "email": "dennisreyes@gmail.com",
+            "password": "dennisreyes",
+            "role": "s"
+        },
+        {
+            "name": "Clayton Bodine",
+            "email": "claytonbodine@gmail.com",
+            "password": "claytonbodine",
+            "role": "s"
+        },
+        {
+            "name": "Paula Leticia Montero",
+            "email": "paulaleticiamontero@gmail.com",
+            "password": "paulaleticiamontero",
+            "role": "s"
+        },
+        {
+            "name": "Linda Heikkilä",
+            "email": "lindaheikkilä@gmail.com",
+            "password": "lindaheikkilä",
+            "role": "s"
+        },
+        {
+            "name": "Andrew Freire",
+            "email": "andrewfreire@gmail.com",
+            "password": "andrewfreire",
+            "role": "s"
+        },
+        {
+            "name": "Igor Parnadziev",
+            "email": "igorparnadziev@gmail.com",
+            "password": "igorparnadziev",
+            "role": "s"
+        },
+        {
+            "name": "Cindy Rohr",
+            "email": "cindyrohr@gmail.com",
+            "password": "cindyrohr",
+            "role": "s"
+        },
+        {
+            "name": "Ashish Pandey",
+            "email": "ashishpandey@gmail.com",
+            "password": "ashishpandey",
+            "role": "s"
+        },
+        {
+            "name": "Sreekesh Padmanabhan",
+            "email": "sreekeshpadmanabhan@gmail.com",
+            "password": "sreekeshpadmanabhan",
+            "role": "s"
+        },
+        {
+            "name": "Andrew",
+            "email": "andrew@gmail.com",
+            "password": "andrew",
+            "role": "s"
+        }
+    ],
+    "instructor": {
+        "name": "Dr. Angela Yu",
+        "email": "dr.angelayu@gmail.com",
+        "password": "dr.angelayu",
+        "role": "i",
+        "briefIntroduction": "<p>I'm Angela, I'm a developer with a passion for teaching. I'm the <strong>lead instructor</strong> at the London App Brewery, London's leading <strong>Programming Bootcamp</strong>. I've helped hundreds of thousands of students learn to code and change their lives by becoming a developer. I've been invited by companies such as Twitter, Facebook and Google to teach their employees.</p><p>My first foray into programming was when I was just 12 years old, wanting to build my own Space Invader game. Since then, I've made <strong>hundred of websites, apps and games</strong>. But most importantly, I realised that my <strong>greatest passion</strong> is teaching. </p><p>I spend most of my time researching how to make <strong>learning to code fun</strong> and make <strong>hard concepts easy to understand</strong>. I apply everything I discover into my bootcamp courses. In my courses, you'll find lots of geeky humour but also lots of <strong>explanations and animations</strong> to make sure everything is easy to understand. </p><p><strong>I'll be there for you every step of the way.</strong></p>"
+    }
+}

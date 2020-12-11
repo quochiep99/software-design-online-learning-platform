@@ -1,0 +1,175 @@
+{
+    "field": {
+        "name": "mobile-development",
+        "courses": []
+    },
+    "course": {
+        "title": "The Complete Android N Developer Course",
+        "subtitle": "Learn Android App Development with Android 7 Nougat by building real apps including Uber, Whatsapp and Instagram!",
+        "descriptions": [],
+        "reviews": [],
+        "students": [],
+        "image1xURL": "https://img-a.udemycdn.com/course/240x135/951618_0839_2.jpg",
+        "image2xURL": "https://img-a.udemycdn.com/course/480x270/951618_0839_2.jpg",
+        "image3xURL": "https://img-a.udemycdn.com/course/750x422/951618_0839_2.jpg",
+        "discountPrice": 11.99,
+        "originalPrice": 129.99,
+        "numViews": 0,
+        "curriculum": []
+    },
+    "reviews": [
+        {
+            "body": "This is one of the most complex and useful Udemy course for Android development. Even if most of the projects are no more compatible with the actual Android Studio 4.x version, you can still follow the videos with some workaround. For anyone who wants to follow this great course I saved my projects source code fully compatible with Android Studio 4x at this link: https://github.com/mathexa/Complete-Android-N-Udemy-course-for-Android-Studio-4",
+            "rating": 5
+        },
+        {
+            "body": "It was an Amazing course. Just Loved It......??\n\nAt the beginning had not much idea of android. But after this course with confidence i am able to build my android apps.\n\n#Just Android things.\n\nThanks to all the instructors for guiding!!!!",
+            "rating": 4.5
+        },
+        {
+            "body": "awesome experience in learning, highly recommend to any learner across globe :)",
+            "rating": 5
+        },
+        {
+            "body": "This is a best course I have learned on this platform \"Udemy\" thank you so much Rob Percival for your effort and your care\n\n:) شكرا جزيلا",
+            "rating": 5
+        },
+        {
+            "body": "Great course. I actually understand what is presented to me.\n\nI was a total beginner some 95 lectures ago. Now I am confident that I will be able to create the App that I had in mind when taking the course.",
+            "rating": 5
+        },
+        {
+            "body": "Very knowledgeable, Rob's way of teaching is very good, I got to learn a lot of things about Android from this course. Highly recommended for all who are starting their career in Android Development.",
+            "rating": 4
+        },
+        {
+            "body": "So far this course has been great. I waited a little too long to start it, so some of the information is outdated, but with a little extra research I've been able to figure out the current ways to do things. The lessons are relatively simple, but the challenges are fun to figure out, and there's no worry if you can't do it, as the explanations are always clear. Definitely a great starting point for someone who hasn't done app development. It might be harder for someone who hasn't programmed in java before.",
+            "rating": 5
+        },
+        {
+            "body": "This is a horrible app development training. It teaches you all the worst practices in coding. He is con man. He uses big name to promote his class but he never really teaches you anything worth while. For example his \"WhatsApp Clone\" section is just a dial box with no features at all. That goes for everything else. I went though the whole thing and it is not worth a penny. Don't waist your time nor money",
+            "rating": 1
+        },
+        {
+            "body": "It does not include best practices of code and standards. This course is relatively Android N and Location Service upgraded to Fused Location Client. It does not have what are the updated API in the Android N version.",
+            "rating": 1
+        },
+        {
+            "body": "Cons:\n\nAverage, not all concepts are updated, faced many problems with outdated versions.\n\nPros:\n\nMany real life apps are created in this course.",
+            "rating": 2.5
+        },
+        {
+            "body": "There is almost no information on how to build a modern (or any proper) user interface, with smooth transitions and data movement. Applications in the examples are non-scalable :/\n\nSuitable for total beginners only.",
+            "rating": 3
+        },
+        {
+            "body": "If is someone winning at final(the last sign r x y) ... it throw us the draw pop-up.... + we don't recieve any answers to the question we've put ....",
+            "rating": 2.5
+        }
+    ],
+    "students": [
+        {
+            "name": "Alex P.",
+            "email": "alexp.@gmail.com",
+            "password": "alexp.",
+            "role": "s"
+        },
+        {
+            "name": "Dave Kishan Bhandari",
+            "email": "davekishanbhandari@gmail.com",
+            "password": "davekishanbhandari",
+            "role": "s"
+        },
+        {
+            "name": "Mamatha E",
+            "email": "mamathae@gmail.com",
+            "password": "mamathae",
+            "role": "s"
+        },
+        {
+            "name": "Diaa Alkhatib",
+            "email": "diaaalkhatib@gmail.com",
+            "password": "diaaalkhatib",
+            "role": "s"
+        },
+        {
+            "name": "Conny Tångring",
+            "email": "connytångring@gmail.com",
+            "password": "connytångring",
+            "role": "s"
+        },
+        {
+            "name": "GAGAN SARWARA",
+            "email": "gagansarwara@gmail.com",
+            "password": "gagansarwara",
+            "role": "s"
+        },
+        {
+            "name": "Sean Mann",
+            "email": "seanmann@gmail.com",
+            "password": "seanmann",
+            "role": "s"
+        },
+        {
+            "name": "Ramtin Shahrokhshahi",
+            "email": "ramtinshahrokhshahi@gmail.com",
+            "password": "ramtinshahrokhshahi",
+            "role": "s"
+        },
+        {
+            "name": "Rob Percival",
+            "email": "robpercival@gmail.com",
+            "password": "robpercival",
+            "role": "s"
+        },
+        {
+            "name": "Tejas Parikh",
+            "email": "tejasparikh@gmail.com",
+            "password": "tejasparikh",
+            "role": "s"
+        },
+        {
+            "name": "Rob Percival",
+            "email": "robpercival@gmail.com",
+            "password": "robpercival",
+            "role": "s"
+        },
+        {
+            "name": "kushidharreddy chinthala",
+            "email": "kushidharreddychinthala@gmail.com",
+            "password": "kushidharreddychinthala",
+            "role": "s"
+        },
+        {
+            "name": "Rob Percival",
+            "email": "robpercival@gmail.com",
+            "password": "robpercival",
+            "role": "s"
+        },
+        {
+            "name": "Maksud Ganapijev",
+            "email": "maksudganapijev@gmail.com",
+            "password": "maksudganapijev",
+            "role": "s"
+        },
+        {
+            "name": "Onicel Teo",
+            "email": "onicelteo@gmail.com",
+            "password": "onicelteo",
+            "role": "s"
+        },
+        {
+            "name": "Rob Percival",
+            "email": "robpercival@gmail.com",
+            "password": "robpercival",
+            "role": "s"
+        }
+    ],
+    "instructor": {
+        "name": "Rob Percival",
+        "email": "robpercival@gmail.com",
+        "password": "robpercival",
+        "role": "i",
+        "briefIntroduction": "<p>  \t       Hi! I'm Rob. I have a degree in Mathematics from Cambridge University and you might call me a bit of coding geek.  </p>\n\n<p>  \t       After building websites for friends and family for fun, I soon learned that web development was a very lucrative career choice. I gave up my successful (and sometimes stressful) job as a teacher to work part time and today, couldn't be happier.  </p>\n\n<p>  \t       I'm passionate about teaching kids to code, so every summer I run Code School in the beautiful city of Cambridge. I also run the popular web hosting and design service, Eco Web Hosting which leaves me free to share my secrets with people like you.  </p>\n\n<p>  \t<strong>You wouldn't believe the freedom that being a web developer offers.</strong> Sign up and find out for yourself why so many people are taking and recommending this course.  I genuinely believe it's the best on the market and if you don't agree, I'll happily refund your money.  </p>\n\n<p>  \t       Sign up to my courses and join me in this amazing adventure today.  </p>"
+    }
+}

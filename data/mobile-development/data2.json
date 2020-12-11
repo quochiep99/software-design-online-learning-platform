@@ -1,0 +1,151 @@
+{
+    "field": {
+        "name": "mobile-development",
+        "courses": []
+    },
+    "course": {
+        "title": "The Complete React Native + Hooks Course [2020 Edition]",
+        "subtitle": "Understand React Native v0.62.2 with Hooks, Context, and React Navigation.",
+        "descriptions": [],
+        "reviews": [],
+        "students": [],
+        "image1xURL": "https://img-b.udemycdn.com/course/240x135/959700_8bd2_11.jpg",
+        "image2xURL": "https://img-b.udemycdn.com/course/480x270/959700_8bd2_11.jpg",
+        "image3xURL": "https://img-b.udemycdn.com/course/750x422/959700_8bd2_11.jpg",
+        "discountPrice": 18.99,
+        "originalPrice": 94.99,
+        "numViews": 0,
+        "curriculum": []
+    },
+    "reviews": [
+        {
+            "body": "The start of the course was definitely not for a novice. You need to have prior knowledge of react and basic js, html, css and all that. Later on when the course deviates to older version of react-native, which deals with class components and redux, Steven does explain the basics of react-native. So if you are a newbie you should start from there.\n\nLastly I want to say that the Context and useReducer were complicated topics for me. But after doing it 3 - 4 times inside the course, it became clearer. This course was really useful for me and I would highly recommend it. And I would do the advanced version of this course also. ?",
+            "rating": 5
+        },
+        {
+            "body": "Contents are very old from the part where Stephen starts React-Native CLI. Most of the things working good and lots of troubleshooting required. Thanks to discussions and tech helpers. They solved everything.",
+            "rating": 5
+        },
+        {
+            "body": "A must course for any mobile or webdeveloper who is interested to do react native programming.\n\nThe instructor also covered few extra topics including node, express, authentication which were informative. A 38hrs course, but every minute is worth. Also practice while learning.",
+            "rating": 5
+        },
+        {
+            "body": "All the initial tutorials have demo code attached to it. After that there are lots of tutorials which are outdated and don't have tutorials and hard to find a compatible match on the web.",
+            "rating": 4
+        },
+        {
+            "body": "Grider's way of teaching is VERY GOOD for me. He clearly lays out the building blocks of each topic in every step of the way and goes through them clearly and effectively. You'll never feel lost. He also likes to make sure you grasp the reason behind doing certain implementations instead of simply showing a how-to.",
+            "rating": 5
+        },
+        {
+            "body": "This course is not updated. In the last app, I spent most of the time fixing bugs. Its better to go through medium/blogs to build small apps",
+            "rating": 3
+        },
+        {
+            "body": "The question asked in qna are not answered, to be precise they are ignored, After you have asked 3 questions. But Stephen has thought this course really well. He is a good course Instructor.",
+            "rating": 2.5
+        },
+        {
+            "body": "I did this course time ago and was different at that moment. I really appreciate that Stephen constantly updates his course, because the frameworks and tech also constantly changes. And obviously the content is great",
+            "rating": 4.5
+        },
+        {
+            "body": "so detailed in his explanation of concepts.",
+            "rating": 5
+        },
+        {
+            "body": "the course is good the instructor explains things very well but after the expo part when the course move towards native CLI it's a really bad experience we should not buy a course in 2020 which say 2020 in its title and learn some ancient code. I didn't expect it its a horrible experience, if you don't know react.js don't take this course if you know react also you are going to have a very hard time",
+            "rating": 3.5
+        },
+        {
+            "body": "this course is too good, videos are short and to the point. Teaching experience is well and covering every point with detail.",
+            "rating": 5
+        },
+        {
+            "body": "While the first 50% of the course is good, it uses an old version of react-navigation (v4), the other 50% is just an old course recycled and sold as \"the old way you should know about so companies using deprecated libraries find your profile more attractive\".\n\nDespite Stephen is a great teacher and the course content is worth it for the low price you pay for it, I felt a little bit disappointed finding out once you reach 50% progress of the course you are done with it. I think this should be more detailed in the course description, saying that half the course is deprecated.",
+            "rating": 2.5
+        }
+    ],
+    "students": [
+        {
+            "name": "Nishant Yadav",
+            "email": "nishantyadav@gmail.com",
+            "password": "nishantyadav",
+            "role": "s"
+        },
+        {
+            "name": "Shashank Agarwal",
+            "email": "shashankagarwal@gmail.com",
+            "password": "shashankagarwal",
+            "role": "s"
+        },
+        {
+            "name": "Sasikant Bonam",
+            "email": "sasikantbonam@gmail.com",
+            "password": "sasikantbonam",
+            "role": "s"
+        },
+        {
+            "name": "jitender Kumar",
+            "email": "jitenderkumar@gmail.com",
+            "password": "jitenderkumar",
+            "role": "s"
+        },
+        {
+            "name": "Justin Tungul",
+            "email": "justintungul@gmail.com",
+            "password": "justintungul",
+            "role": "s"
+        },
+        {
+            "name": "Atul Lal",
+            "email": "atullal@gmail.com",
+            "password": "atullal",
+            "role": "s"
+        },
+        {
+            "name": "Dhruva Harapanahalli",
+            "email": "dhruvaharapanahalli@gmail.com",
+            "password": "dhruvaharapanahalli",
+            "role": "s"
+        },
+        {
+            "name": "Víctor A. Valentinuzzi N.",
+            "email": "víctora.valentinuzzin.@gmail.com",
+            "password": "víctora.valentinuzzin.",
+            "role": "s"
+        },
+        {
+            "name": "Kalu Chibueze",
+            "email": "kaluchibueze@gmail.com",
+            "password": "kaluchibueze",
+            "role": "s"
+        },
+        {
+            "name": "Suraj Biswas",
+            "email": "surajbiswas@gmail.com",
+            "password": "surajbiswas",
+            "role": "s"
+        },
+        {
+            "name": "Jalal Ahmad Khan",
+            "email": "jalalahmadkhan@gmail.com",
+            "password": "jalalahmadkhan",
+            "role": "s"
+        },
+        {
+            "name": "Luis Barceló",
+            "email": "luisbarceló@gmail.com",
+            "password": "luisbarceló",
+            "role": "s"
+        }
+    ],
+    "instructor": {
+        "name": "Stephen Grider",
+        "email": "stephengrider@gmail.com",
+        "password": "stephengrider",
+        "role": "i",
+        "briefIntroduction": "<p>Stephen Grider has been building complex Javascript front ends for top corporations in the San Francisco Bay Area.&nbsp; With an innate ability to simplify complex topics, Stephen has been mentoring engineers beginning their careers in software development for years, and has now expanded that experience onto Udemy, authoring the highest rated React course. He&nbsp;teaches on Udemy to share the knowledge he&nbsp;has&nbsp;gained with other software engineers.&nbsp; Invest in yourself by learning from Stephen's published courses.</p>"
+    }
+}

@@ -1,0 +1,157 @@
+{
+    "field": {
+        "name": "mobile-development",
+        "courses": []
+    },
+    "course": {
+        "title": "The Complete Android Oreo Developer Course - Build 23 Apps!",
+        "subtitle": "Learn Android O App Development using Java & Kotlin - build real apps including Super Mario Run, Whatsapp and Instagram!",
+        "descriptions": [],
+        "reviews": [],
+        "students": [],
+        "image1xURL": "https://img-a.udemycdn.com/course/240x135/1405812_931d_2.jpg",
+        "image2xURL": "https://img-a.udemycdn.com/course/480x270/1405812_931d_2.jpg",
+        "image3xURL": "https://img-a.udemycdn.com/course/750x422/1405812_931d_2.jpg",
+        "discountPrice": 11.99,
+        "originalPrice": 129.99,
+        "numViews": 0,
+        "curriculum": []
+    },
+    "reviews": [
+        {
+            "body": "please don't buy this course in 2020, I am using android studio 4 and 40% apps from this course are not working because this is very old course and instructors are very good but they are not updating this course, please go with the latest android development course.",
+            "rating": 3
+        },
+        {
+            "body": "It's a pretty good course overall, but projects too old to run.\n\nA lot of projects I need to change some codes, update some tools or do other things. Otherwise, I can't run them.\n\nIf a new version of projects instead of the old, it can help learning a lot.",
+            "rating": 4
+        },
+        {
+            "body": "Thank you Rob, for providing a perfect course for Android O Development.\n\nIt has been a great coding journey!",
+            "rating": 5
+        },
+        {
+            "body": "This Course is not what is shown in the content... They are not cloning actual application its just a duplicate with one or two features and NO UI. UI functionalities are not taught properly. Also, for database they focused on parser which is not used now instead of firebase\n\nWas this review helpful?\n\nReport\n\nRob Percival\n\nInstructor response\n•\n3 months ago\n\nHi Somya, thanks for your comment and I hope you enjoyed the course. The project replicates the app and puts to use all the skills students have learned in the preceding lectures, but I'm sorry if you felt it wasn't comprehensive enough. The course is a little older now, which if why I use parser in database, but I'll take your feedback on board. Thanks, and happy coding.",
+            "rating": 1
+        },
+        {
+            "body": "Nice explanation for each and every line of code, your way of teaching is very excellent. I can easily understand the connection between Android studio and java and how codes operate the application. Now I got the confidence to develop the app.",
+            "rating": 5
+        },
+        {
+            "body": "Great course! I already have some background experience with programming, so I was able to fast forward a little bit. However all lectures were somehow usefull and of course there is a lot you can do on your own after this to improve learning. If you do all the excercises properly it might take a few months to complete, but it would be totally worth it. Thanks to COVID-19 I was able to find the time (and price discount) to finish it.",
+            "rating": 5
+        },
+        {
+            "body": "The course was good,taking it slowly in the beginning so the the students got familiarised with the environment.\n\nHowever, a lot of updates need to be made like teaching to use the new Firebase-Firestore instead of Firebase-RealTime Databse.\n\nAlso a lot of important essential topics related to app development are completely left out in the course like notifications.",
+            "rating": 4.5
+        },
+        {
+            "body": "It's been a great journey for me in android development. In the beginning, I didn't know about a little of it, after a few lectures by consistently following the instructor the things would be going well. In the end, I could be able to design a full flesh android application.",
+            "rating": 4
+        },
+        {
+            "body": "Great course. I did not give full 5 stars, because some things were outdated and presented code did not work. Fortunately other users were helpful in Q&A section. Overall I recommend it for the start of your journey with android development.",
+            "rating": 4.5
+        },
+        {
+            "body": "great course. I know the target is for beginners, even though it would be great if they can avoid silly code, better than that, never show this kind of code. despite this it is very interesting",
+            "rating": 4
+        },
+        {
+            "body": "there have many things which i did not understand because of you explain things too short. you write code but you did not explain that what does this line of code and what does that line of code. i am not satisfy with this course . any way i love this course but if you explained things in details then i love very much..................thank you for the course rob.",
+            "rating": 4
+        },
+        {
+            "body": "Learn Very Well & Good For Begginers But The Course Is Little Bit Outdated And Needs To Updated.",
+            "rating": 3
+        }
+    ],
+    "students": [
+        {
+            "name": "Satyajeetsinh Zala",
+            "email": "satyajeetsinhzala@gmail.com",
+            "password": "satyajeetsinhzala",
+            "role": "s"
+        },
+        {
+            "name": "Connor",
+            "email": "connor@gmail.com",
+            "password": "connor",
+            "role": "s"
+        },
+        {
+            "name": "Atharv Mhatre",
+            "email": "atharvmhatre@gmail.com",
+            "password": "atharvmhatre",
+            "role": "s"
+        },
+        {
+            "name": "Somya Gupta",
+            "email": "somyagupta@gmail.com",
+            "password": "somyagupta",
+            "role": "s"
+        },
+        {
+            "name": "Rob Percival",
+            "email": "robpercival@gmail.com",
+            "password": "robpercival",
+            "role": "s"
+        },
+        {
+            "name": "Gopal",
+            "email": "gopal@gmail.com",
+            "password": "gopal",
+            "role": "s"
+        },
+        {
+            "name": "Sergio Olarte",
+            "email": "sergioolarte@gmail.com",
+            "password": "sergioolarte",
+            "role": "s"
+        },
+        {
+            "name": "Sajjan Kiran",
+            "email": "sajjankiran@gmail.com",
+            "password": "sajjankiran",
+            "role": "s"
+        },
+        {
+            "name": "Rohit Mehta",
+            "email": "rohitmehta@gmail.com",
+            "password": "rohitmehta",
+            "role": "s"
+        },
+        {
+            "name": "Jacek Jachnowicz",
+            "email": "jacekjachnowicz@gmail.com",
+            "password": "jacekjachnowicz",
+            "role": "s"
+        },
+        {
+            "name": "Dario Jose Zubaray",
+            "email": "dariojosezubaray@gmail.com",
+            "password": "dariojosezubaray",
+            "role": "s"
+        },
+        {
+            "name": "Suraj kumar",
+            "email": "surajkumar@gmail.com",
+            "password": "surajkumar",
+            "role": "s"
+        },
+        {
+            "name": "Tanishk Avhad",
+            "email": "tanishkavhad@gmail.com",
+            "password": "tanishkavhad",
+            "role": "s"
+        }
+    ],
+    "instructor": {
+        "name": "Rob Percival",
+        "email": "robpercival@gmail.com",
+        "password": "robpercival",
+        "role": "i",
+        "briefIntroduction": "<p>  \t       Hi! I'm Rob. I have a degree in Mathematics from Cambridge University and you might call me a bit of coding geek.  </p>\n\n<p>  \t       After building websites for friends and family for fun, I soon learned that web development was a very lucrative career choice. I gave up my successful (and sometimes stressful) job as a teacher to work part time and today, couldn't be happier.  </p>\n\n<p>  \t       I'm passionate about teaching kids to code, so every summer I run Code School in the beautiful city of Cambridge. I also run the popular web hosting and design service, Eco Web Hosting which leaves me free to share my secrets with people like you.  </p>\n\n<p>  \t<strong>You wouldn't believe the freedom that being a web developer offers.</strong> Sign up and find out for yourself why so many people are taking and recommending this course.  I genuinely believe it's the best on the market and if you don't agree, I'll happily refund your money.  </p>\n\n<p>  \t       Sign up to my courses and join me in this amazing adventure today.  </p>"
+    }
+}
