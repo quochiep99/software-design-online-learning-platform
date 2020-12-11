@@ -3,13 +3,12 @@ const Course = require("./course");
 
 const Schema = mongoose.Schema;
 
-const reqString = {
-    type: String,
-    required: true
-}
-
 const FieldSchema = new Schema({
-    name: reqString,
+    name: {
+        type: String,
+        required: true,
+        unique: true
+    },
 
     //courses belonging to this field
     courses: [

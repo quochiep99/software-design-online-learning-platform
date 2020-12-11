@@ -1,0 +1,12 @@
+[{
+  "_id": {
+    "$oid": "5fd239d6e34c633a30a63974"
+  },
+  "courses": [
+    {
+      "$oid": "5fd239d6e34c633a30a63975"
+    }
+  ],
+  "name": "web-development",
+  "__v": 1
+}]

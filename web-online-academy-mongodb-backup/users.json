@@ -1,0 +1,210 @@
+[{
+  "_id": {
+    "$oid": "5fd239d6e34c633a30a63982"
+  },
+  "wishList": [],
+  "enrolledCourses": [
+    {
+      "$oid": "5fd239d6e34c633a30a63975"
+    }
+  ],
+  "uploadedCourses": [],
+  "name": "Sunil Krishna Peddamalli",
+  "email": "sunilkrishnapeddamalli@gmail.com",
+  "password": "sunilkrishnapeddamalli",
+  "role": "s",
+  "__v": 1
+},{
+  "_id": {
+    "$oid": "5fd239d6e34c633a30a63983"
+  },
+  "wishList": [],
+  "enrolledCourses": [
+    {
+      "$oid": "5fd239d6e34c633a30a63975"
+    }
+  ],
+  "uploadedCourses": [],
+  "name": "G.Naveen Kumar",
+  "email": "g.naveenkumar@gmail.com",
+  "password": "g.naveenkumar",
+  "role": "s",
+  "__v": 1
+},{
+  "_id": {
+    "$oid": "5fd239d6e34c633a30a63984"
+  },
+  "wishList": [],
+  "enrolledCourses": [
+    {
+      "$oid": "5fd239d6e34c633a30a63975"
+    }
+  ],
+  "uploadedCourses": [],
+  "name": "Brendin Swanepoel",
+  "email": "brendinswanepoel@gmail.com",
+  "password": "brendinswanepoel",
+  "role": "s",
+  "__v": 1
+},{
+  "_id": {
+    "$oid": "5fd239d6e34c633a30a63985"
+  },
+  "wishList": [],
+  "enrolledCourses": [
+    {
+      "$oid": "5fd239d6e34c633a30a63975"
+    }
+  ],
+  "uploadedCourses": [],
+  "name": "Derry Yuen",
+  "email": "derryyuen@gmail.com",
+  "password": "derryyuen",
+  "role": "s",
+  "__v": 1
+},{
+  "_id": {
+    "$oid": "5fd239d6e34c633a30a63986"
+  },
+  "wishList": [],
+  "enrolledCourses": [
+    {
+      "$oid": "5fd239d6e34c633a30a63975"
+    }
+  ],
+  "uploadedCourses": [],
+  "name": "Alexandre Trindade",
+  "email": "alexandretrindade@gmail.com",
+  "password": "alexandretrindade",
+  "role": "s",
+  "__v": 1
+},{
+  "_id": {
+    "$oid": "5fd239d6e34c633a30a63987"
+  },
+  "wishList": [],
+  "enrolledCourses": [
+    {
+      "$oid": "5fd239d6e34c633a30a63975"
+    }
+  ],
+  "uploadedCourses": [],
+  "name": "Jordan Aceves-Foster",
+  "email": "jordanaceves-foster@gmail.com",
+  "password": "jordanaceves-foster",
+  "role": "s",
+  "__v": 1
+},{
+  "_id": {
+    "$oid": "5fd239d6e34c633a30a63988"
+  },
+  "wishList": [],
+  "enrolledCourses": [
+    {
+      "$oid": "5fd239d6e34c633a30a63975"
+    }
+  ],
+  "uploadedCourses": [],
+  "name": "Nigel M",
+  "email": "nigelm@gmail.com",
+  "password": "nigelm",
+  "role": "s",
+  "__v": 1
+},{
+  "_id": {
+    "$oid": "5fd239d6e34c633a30a63989"
+  },
+  "wishList": [],
+  "enrolledCourses": [
+    {
+      "$oid": "5fd239d6e34c633a30a63975"
+    }
+  ],
+  "uploadedCourses": [],
+  "name": "Akhilesh Mankotia",
+  "email": "akhileshmankotia@gmail.com",
+  "password": "akhileshmankotia",
+  "role": "s",
+  "__v": 1
+},{
+  "_id": {
+    "$oid": "5fd239d6e34c633a30a6398a"
+  },
+  "wishList": [],
+  "enrolledCourses": [
+    {
+      "$oid": "5fd239d6e34c633a30a63975"
+    }
+  ],
+  "uploadedCourses": [],
+  "name": "Shahzaib Momin",
+  "email": "shahzaibmomin@gmail.com",
+  "password": "shahzaibmomin",
+  "role": "s",
+  "__v": 1
+},{
+  "_id": {
+    "$oid": "5fd239d6e34c633a30a6398b"
+  },
+  "wishList": [],
+  "enrolledCourses": [
+    {
+      "$oid": "5fd239d6e34c633a30a63975"
+    }
+  ],
+  "uploadedCourses": [],
+  "name": "Brent Zey",
+  "email": "brentzey@gmail.com",
+  "password": "brentzey",
+  "role": "s",
+  "__v": 1
+},{
+  "_id": {
+    "$oid": "5fd239d6e34c633a30a6398c"
+  },
+  "wishList": [],
+  "enrolledCourses": [
+    {
+      "$oid": "5fd239d6e34c633a30a63975"
+    }
+  ],
+  "uploadedCourses": [],
+  "name": "Renato Antunes",
+  "email": "renatoantunes@gmail.com",
+  "password": "renatoantunes",
+  "role": "s",
+  "__v": 1
+},{
+  "_id": {
+    "$oid": "5fd239d6e34c633a30a6398d"
+  },
+  "wishList": [],
+  "enrolledCourses": [
+    {
+      "$oid": "5fd239d6e34c633a30a63975"
+    }
+  ],
+  "uploadedCourses": [],
+  "name": "Francisco M",
+  "email": "franciscom@gmail.com",
+  "password": "franciscom",
+  "role": "s",
+  "__v": 1
+},{
+  "_id": {
+    "$oid": "5fd239d6e34c633a30a6398e"
+  },
+  "wishList": [],
+  "enrolledCourses": [],
+  "uploadedCourses": [
+    {
+      "$oid": "5fd239d6e34c633a30a63975"
+    }
+  ],
+  "name": "Colt Steele",
+  "email": "coltsteele@gmail.com",
+  "password": "coltsteele",
+  "role": "i",
+  "briefIntroduction": "<p>Hi! I'm Colt. I'm a developer with a serious love for teaching. I've spent the last few years teaching people to program at 2 different immersive bootcamps where <strong>I've helped hundreds of people become web developers and change their lives.</strong> My graduates work at companies like Google, Salesforce, and Square.</p><p>Most recently, I led Galvanize's SF's 6 month immersive program as <strong>Lead Instructor</strong> and <strong>Curriculum Director.</strong> After graduating from my class, 94% of my students went on to receive full-time developer roles. I also worked at Udacity as a <strong>Senior Course Developer </strong>on the web development team where I got to reach thousands of students daily. </p><p>I’ve since focused my time on bringing my classroom teaching experience to an online environment. In 2016 I launched my <strong>Web Developer Bootcamp course</strong>, which has since gone on to become one of the best selling and top rated courses on Udemy. I was also voted <strong>Udemy’s Best New Instructor of 2016.</strong> </p><p>I've spent years figuring out the \"formula\" to teaching technical skills in a classroom environment, and I'm really excited to finally share my expertise with you. I can confidently say that my online courses are without a doubt the most comprehensive ones on the market. </p><p><strong>Join me on this crazy adventure!</strong></p>",
+  "__v": 1
+}]

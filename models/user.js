@@ -10,7 +10,11 @@ const reqString = {
 
 const UserSchema = new Schema({
     name: reqString,
-    email: reqString,
+    email: {
+        type: String,
+        required: true,
+        unique: true
+    },
     password: reqString,
 
     // role
