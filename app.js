@@ -56,7 +56,7 @@ app.use(function (req, res, next) {
 
 // ROUTES
 app.use("/", indexRoutes);
-app.use("/courses", courseRoutes);
+app.use("/it/:field/courses", courseRoutes)
 
 // Handle 404 - Keep this as a last route
 app.use(function (req, res, next) {

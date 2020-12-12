@@ -6580,7 +6580,7 @@ div.col-lg-8 > #description > [href] {
     text-transform: uppercase;
     letter-spacing: 2px;
     font-weight: 600;
-    font-size: 0.9rem;
+    font-size: 0.8125rem;
 
     position: relative;
     margin: 0;
@@ -6594,6 +6594,10 @@ div.col-lg-8 > #description > [href] {
   }
 }
 
-.dropdown-toggle.dropdown-item::after {
+.dropdown-toggle.dropdown-item::after {  
   margin-left: 8em;
+}
+
+ul[aria-labelledby="navbarDropdown1"], #navbarDropdown1 {
+  font-size: 0.8125rem;
 }
