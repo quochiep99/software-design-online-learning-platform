@@ -27,6 +27,14 @@ app.engine('.hbs', exphbs({
     runtimeOptions: {
         allowProtoPropertiesByDefault: true,
         allowProtoMethodsByDefault: true
+    },
+    helpers: {
+        calculateDiscountPercentage: (discountPrice, originalPrice) => {
+            return ((100 * (originalPrice - discountPrice)) / originalPrice).toFixed(0);
+        },
+        getFieldName: (fieldName) => {
+            return fieldName.replace("-", " ");
+        }
     }
 }));
 app.set('view engine', '.hbs');

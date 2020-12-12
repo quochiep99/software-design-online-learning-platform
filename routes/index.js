@@ -1,12 +1,23 @@
 const express = require("express");
 const router = express.Router({ mergeParams: true });
 const User = require("../models/user");
+const Course = require("../models/course");
 const bcrypt = require('bcryptjs');
 const passport = require("passport");
 const LocalStrategy = require("passport-local").Strategy;
 // Home page
-router.get("/", (req, res) => {
-    res.render("landing");
+router.get("/", async (req, res) => {
+
+    const courses = await Course.
+        find({}).
+        sort("numViews").
+        limit(10).
+        populate("field").
+        populate("instructor");
+
+    res.render("landing", {
+        courses: courses
+    });
 })
 
 // Register

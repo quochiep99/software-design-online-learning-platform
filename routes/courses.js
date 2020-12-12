@@ -22,9 +22,6 @@ router.get("/", async (req, res) => {
         totalPages: result.totalPages,
         courses: courses,
         helpers: {
-          getFieldName: (fieldName) => {
-            return fieldName.replace("-", " ");
-          },
           generatePagination: (numPages) => {
             var ret = "";
             var previous = `<li class="left-etc"><a>&laquo;</a></li>`;
@@ -86,16 +83,10 @@ router.get("/:id", async (req, res) => {
             // return hour + "h : " + minute + "m : " + second + "s    " + newDate.toDateString();
             return newDate.toTimeString();
           },
-          calculateDiscountPercentage: (discountPrice, originalPrice) => {
-            return (
-              (100 * (originalPrice - discountPrice)) /
-              originalPrice
-            ).toFixed(0);
-          },
           calculateReviewTime: (date) => {
             return moment(date).fromNow();
-          },
-        },
+          }
+        }
       });
     }
   }
