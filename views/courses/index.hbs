@@ -150,7 +150,10 @@
                     <div class="col-lg-7">
                         <div class="wrapper">
                             <a href="#0" class="wish_bt"></a>
-                            <div class="price">${{this.discountPrice}}</div>
+                            <div class="price">
+                                ${{this.discountPrice}}
+                                <span class="original_price"><em>${{this.originalPrice}}</em></span>
+                            </div>
                             <small>{{getFieldName this.field.name}}</small>
                             <h3>{{this.title}}</h3>
                             <p>{{this.instructor.name}}</p>

@@ -6601,3 +6601,19 @@ div.col-lg-8 > #description > [href] {
 ul[aria-labelledby="navbarDropdown1"], #navbarDropdown1 {
   font-size: 0.8125rem;
 }
+
+/* discount price on courses */
+div#list_sidebar > div em {
+  text-decoration: line-through;
+  margin: 0 10px;
+  font-style: normal;
+  -webkit-font-smoothing: antialiased;
+  box-sizing: border-box;
+  color: #3f9fff;
+  font-weight: 400;  
+  font-size: 1rem;
+  line-height: 1;
+  font-family: "Poppins", Helvetica, sans-serif;
+  text-align: left;
+  -webkit-tap-highlight-color: rgba(0,0,0,0)
+}
