@@ -73,15 +73,16 @@ router.get("/:id", async (req, res) => {
       });
 
     if (course) {
+      // increment views as users visit the course
+      course.numViews++;
+      await course.save();
       return res.render("courses/show", {
         course: course,
         helpers: {
           getLastUpdatedString: (date) => {
             const newDate = new Date(date);
             // return newDate.getDate() + "/" + (newDate.getMonth() + 1) + "/" + newDate.getFullYear();
-            const [hour, minute, second] = newDate
-              .toLocaleTimeString("en-US")
-              .split(/:| /);
+            const [hour, minute, second] = newDate.toLocaleTimeString("en-US").split(/:| /);
             // return hour + "h : " + minute + "m : " + second + "s    " + newDate.toDateString();
             return newDate.toTimeString();
           },
