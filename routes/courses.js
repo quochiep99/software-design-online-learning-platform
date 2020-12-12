@@ -32,17 +32,17 @@ router.get("/", async (req, res) => {
 
             // if there is a previous page
             if (result.hasPrevPage) {
-              previous = `<li class="left-etc"><a href="/courses/${field.name}/?page=${result.prevPage}&limit=${result.limit}">&laquo;</a></li>`;
+              previous = `<li class="left-etc"><a href="/it/${field.name}/courses/?page=${result.prevPage}&limit=${result.limit}">&laquo;</a></li>`;
             }
             if (result.hasNextPage) {
-              next = `<li><a href="/courses/${field.name}/?page=${result.nextPage}&limit=${result.limit}">&raquo;</a></li>`;
+              next = `<li><a href="/it/${field.name}/courses/?page=${result.nextPage}&limit=${result.limit}">&raquo;</a></li>`;
             }
             for (var i = 1; i <= numPages; i++) {
               if (i === result.page) {
                 // make the current page active
                 ret += `<li class="active"><span>${result.page}</span></li>\n`;
               } else {
-                ret += `<li><a href="/courses/${field.name}/?page=${i}&limit=${result.limit}">${i}</a></li>\n`;
+                ret += `<li><a href="/it/${field.name}/courses/?page=${i}&limit=${result.limit}">${i}</a></li>\n`;
               }
             }
 
