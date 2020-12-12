@@ -38,6 +38,11 @@
     <!-- YOUR CUSTOM CSS -->
     <link href="/css/custom.css" rel="stylesheet">
 
+
+    <link href="https://www.jqueryscript.net/css/jquerysctipttop.css" rel="stylesheet" type="text/css" />
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/animate.css/3.7.0/animate.min.css" />
+    <link rel="stylesheet" href="/css/bootnavbar.css" />
+
 </head>
 
 <body>
@@ -55,13 +60,13 @@
             <ul id="top_menu">
                 <li><a href="#0" class="search-overlay-menu-btn">Search</a></li>
                 {{#if currentUser}}
-                    <li><a href="#">Hello, {{currentUser.name}}</a></li>
-                    <li class="hidden_tablet">
-                        <a href="/logout" class="btn_1 rounded"><i class="fa fa-fw fa-sign-out"></i>Logout</a>
-                    </li>
+                <li><a href="#">Hello, {{currentUser.name}}</a></li>
+                <li class="hidden_tablet">
+                    <a href="/logout" class="btn_1 rounded"><i class="fa fa-fw fa-sign-out"></i>Logout</a>
+                </li>
                 {{else}}
-                    <li><a href="/login" class="login">Login</a></li>
-                    <li class="hidden_tablet"><a href="/register" class="btn_1 rounded">Register</a></li>
+                <li><a href="/login" class="login">Login</a></li>
+                <li class="hidden_tablet"><a href="/register" class="btn_1 rounded">Register</a></li>
 
                 {{/if}}
 
@@ -138,6 +143,43 @@
                 </form>
             </div><!-- End Search Menu -->
             <!-- End Search Menu -->
+            <nav class="navbar navbar-expand-lg navbar-light" id="main_navbar">
+                <div class="collapse navbar-collapse" id="navbarSupportedContent">
+                    <ul class="navbar-nav mr-auto">
+                        <li class="nav-item dropdown">
+                            <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button"
+                                data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+                                Categories
+                            </a>
+                            <ul class="dropdown-menu" aria-labelledby="navbarDropdown">
+                                <li class="nav-item dropdown">
+                                    <a class="dropdown-item dropdown-toggle" href="#" id="navbarDropdown1" role="button"
+                                        data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+                                        IT
+                                    </a>
+                                    <ul class="dropdown-menu" aria-labelledby="navbarDropdown1">
+                                        <li>
+                                            <a class="dropdown-item" href="#">Web development</a>
+                                        </li>
+                                        <li>
+                                            <a class="dropdown-item" href="#">Data Science</a>
+                                        </li>
+                                        <li>
+                                            <a class="dropdown-item" href="#">Mobile Development</a>
+                                        </li>
+                                        <li>
+                                            <a class="dropdown-item" href="#">Programming Languages</a>
+                                        </li>
+                                        <li>
+                                            <a class="dropdown-item" href="#">Game development</a>
+                                        </li>
+                                    </ul>
+                                </li>
+                            </ul>
+                        </li>
+                    </ul>
+                </div>
+            </nav>
         </header>
         <!-- /header -->
 
@@ -244,6 +286,16 @@
     <script>
         $(document).ready(function () {
             $(".pagination").rPage();
+        });
+    </script>
+
+    <!-- <script src="https://code.jquery.com/jquery-3.3.1.min.js"></script> -->
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.3/umd/popper.min.js"></script>
+    <!-- <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.1.3/js/bootstrap.min.js"></script> -->
+    <script src="/js/bootnavbar.js"></script>
+    <script>
+        $(function () {
+            $("#main_navbar").bootnavbar();
         });
     </script>
 </body>
