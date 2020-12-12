@@ -1,10 +1,10 @@
-const Course = require("./models/course")
-const User = require("./models/user")
-const Review = require("./models/review")
-const Field = require("./models/field")
-const bcrypt = require('bcryptjs');
+const Course = require("./models/course");
+const User = require("./models/user");
+const Review = require("./models/review");
+const Field = require("./models/field");
+const bcrypt = require("bcryptjs");
 const mongoose = require("mongoose");
-const JoinJSON = require('join-json');
+const JoinJSON = require("join-json");
 
 // fetch data from json files and join them
 const joinjson = new JoinJSON();
@@ -34,7 +34,8 @@ const joinjson = new JoinJSON();
 //     joinjson.join([require(`./data/game-development/data${i}.json`)]);
 // }
 // mongodb url
-const url = process.env.DATABASEURL || 'mongodb://localhost:27017/web-online-academy';
+const url =
+    process.env.DATABASEURL || "mongodb://localhost:27017/web-online-academy";
 mongoose.connect(url, { useNewUrlParser: true, useUnifiedTopology: true });
 
 async function seedDB() {
@@ -43,13 +44,11 @@ async function seedDB() {
     // await User.deleteMany({});
     // await Review.deleteMany({});
     // await Field.deleteMany({});
-    // console.log("deleted collections documents.")
+    // console.log("deleted collections documents.");
     console.log("creating collections documents...");
     const data = joinjson.joined;
 
-
     for (var i = 0; i < 16; i++) {
-
         var field = await Field.findOne({ name: data[i].field.name });
         if (!field) {
             field = await Field.create(data[i].field);
@@ -62,16 +61,22 @@ async function seedDB() {
         var students = [];
 
         for (var j = 0; j < data[i].students.length; j++) {
-            if (! await User.findOne({ email: data[i].students[j].email })) {
+            if (!(await User.findOne({ email: data[i].students[j].email }))) {
                 const salt = await bcrypt.genSalt(10);
                 // store the hashed password to db
-                data[i].students[j].password = await bcrypt.hashSync(data[i].students[j].password, salt);
+                data[i].students[j].password = await bcrypt.hashSync(
+                    data[i].students[j].password,
+                    salt
+                );
                 students.push(await new User(data[i].students[j]).save());
             }
         }
 
         var instructor = await User.findOne({ email: data[i].instructor.email });
         if (!instructor) {
+            const salt = await bcrypt.genSalt(10);
+            // store the hashed password to db
+            data[i].instructor.password = await bcrypt.hashSync(data[i].instructor.password, salt);
             instructor = await User.create(data[i].instructor);
         }
 
@@ -82,7 +87,7 @@ async function seedDB() {
         course.field = field;
         course.instructor = instructor;
         course.reviews = reviews;
-        // re-calculate the course's average rating 
+        // re-calculate the course's average rating
         course.calculateAverageRating(() => { });
         course.students = students;
         course = await course.save();
@@ -104,12 +109,9 @@ async function seedDB() {
         reviews = await Review.find({});
 
         console.log(`created ${i + 1}th collections document.`);
-
     }
 
-    console.log("finished !!!")
-
-
+    console.log("finished !!!");
 }
 
 seedDB();
