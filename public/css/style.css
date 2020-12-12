@@ -6533,3 +6533,9 @@ div.margin_30_95>.row>div em {
   text-align: left;
   -webkit-tap-highlight-color: rgba(0, 0, 0, 0);
 }
+
+/* equal height */
+
+div.margin_30_95 div h3 {
+  height: 71px;
+}

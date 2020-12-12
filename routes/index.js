@@ -10,7 +10,7 @@ router.get("/", async (req, res) => {
 
     const courses = await Course.
         find({}).
-        sort("numViews").
+        sort("-numViews").
         limit(10).
         populate("field").
         populate("instructor");
