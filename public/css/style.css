@@ -6539,3 +6539,10 @@ div.margin_30_95>.row>div em {
 div.margin_30_95 div h3 {
   height: 71px;
 }
+main > div:nth-of-type(5) div h3{
+  height: 71px;
+}
+
+main > div:nth-of-type(5) div p {
+  height: 45px;
+}

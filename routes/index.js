@@ -8,15 +8,23 @@ const LocalStrategy = require("passport-local").Strategy;
 // Home page
 router.get("/", async (req, res) => {
 
-    const courses = await Course.
+    const mostViewedCourses = await Course.
         find({}).
         sort("-numViews").
         limit(10).
         populate("field").
         populate("instructor");
 
+    const mostRecentCourses = await Course.
+        find({}).
+        sort("-updatedAt").
+        limit(10).
+        populate("field").
+        populate("instructor");
+
     res.render("landing", {
-        courses: courses
+        mostViewedCourses: mostViewedCourses,
+        mostRecentCourses: mostRecentCourses
     });
 })
 

@@ -251,40 +251,83 @@
 <div class="container margin_30_95">
     <div class="main_title_2">
         <span><em></em></span>
-        <h2>Udema Categories Courses</h2>
-        <p>Cum doctus civibus efficiantur in imperdiet deterruisset.</p>
+        <h2>Most Viewed Courses</h2>
+        <!-- <p>Cum doctus civibus efficiantur in imperdiet deterruisset.</p> -->
     </div>
     <div class="row">
-        {{#each courses as |course|}}
+        {{#each mostViewedCourses}}
         <div class="col-xl-4 col-lg-6 col-md-6">
             <div class="box_grid wow">
                 <figure class="block-reveal">
                     <div class="block-horizzontal"></div>
                     <a href="#0" class="wish_bt"></a>
-                    <a href="/it/{{course.field.name}}/courses/{{course._id}}"><img src="{{course.image3xURL}}"
+                    <a href="/it/{{this.field.name}}/courses/{{this._id}}"><img src="{{this.image3xURL}}"
                             class="img-fluid" alt=""></a>
-                    <!-- <div class="price">${{course.discountPrice}}</div> -->
                     <div class="price">
                         ${{this.discountPrice}}
                         <span class="original_price"><em>${{this.originalPrice}}</em></span>
                     </div>
                 </figure>
                 <div class="wrapper">
-                    <small>{{getFieldName course.field.name}}</small>
-                    <h3>{{course.title}}</h3>
-                    <p>{{course.instructor.name}}</p>
+                    <small>{{getFieldName this.field.name}}</small>
+                    <h3>{{this.title}}</h3>
+                    <p>{{this.instructor.name}}</p>
                     <!-- <div class="rating"><i class="icon_star voted"></i><i class="icon_star voted"></i>
                         <i class="icon_star voted"></i><i class="icon_star"></i><i class="icon_star"></i>
                         <small>(145)</small>
                     </div> -->
                     <div class="rating">
-                        <small>{{course.rating}} stars - ({{course.reviews.length}} students reviewing)</small>
+                        <small>{{this.rating}} stars - ({{this.reviews.length}} students reviewing)</small>
                         <small></small>
                     </div>
                 </div>
                 <ul>
                     <li><i class="icon_clock_alt"></i> 1h 30min</li>
-                    <li><i class="far fa-eye"></i> {{course.numViews}}</li>
+                    <li><i class="far fa-eye"></i> {{this.numViews}}</li>
+                    <li><a href="course-detail.html">Enroll now</a></li>
+                </ul>
+            </div>
+        </div>
+        {{/each}}
+    </div>
+</div>
+
+<div class="container margin_30_95">
+    <div class="main_title_2">
+        <span><em></em></span>
+        <h2>Most Recent Courses</h2>
+        <!-- <p>Cum doctus civibus efficiantur in imperdiet deterruisset.</p> -->
+    </div>
+    <div class="row">
+        {{#each mostRecentCourses}}
+        <div class="col-xl-4 col-lg-6 col-md-6">
+            <div class="box_grid wow">
+                <figure class="block-reveal">
+                    <div class="block-horizzontal"></div>
+                    <a href="#0" class="wish_bt"></a>
+                    <a href="/it/{{this.field.name}}/courses/{{this._id}}"><img src="{{this.image3xURL}}"
+                            class="img-fluid" alt=""></a>
+                    <div class="price">
+                        ${{this.discountPrice}}
+                        <span class="original_price"><em>${{this.originalPrice}}</em></span>
+                    </div>
+                </figure>
+                <div class="wrapper">
+                    <small>{{getFieldName this.field.name}}</small>
+                    <h3>{{this.title}}</h3>
+                    <p>{{this.instructor.name}}</p>
+                    <!-- <div class="rating"><i class="icon_star voted"></i><i class="icon_star voted"></i>
+                        <i class="icon_star voted"></i><i class="icon_star"></i><i class="icon_star"></i>
+                        <small>(145)</small>
+                    </div> -->
+                    <div class="rating">
+                        <small>{{this.rating}} stars - ({{this.reviews.length}} students reviewing)</small>
+                        <small></small>
+                    </div>
+                </div>
+                <ul>
+                    <li><i class="icon_clock_alt"></i> 1h 30min</li>
+                    <li><i class="far fa-eye"></i> {{this.numViews}}</li>
                     <li><a href="course-detail.html">Enroll now</a></li>
                 </ul>
             </div>
