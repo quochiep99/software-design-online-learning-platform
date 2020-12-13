@@ -33,7 +33,7 @@ app.engine('.hbs', exphbs({
             return ((100 * (originalPrice - discountPrice)) / originalPrice).toFixed(0);
         },
         getFieldName: (fieldName) => {
-            return fieldName.replace("-", " ");
+            return fieldName.replace("-", " ").replace(/(^\w{1})|(\s{1}\w{1})/g, match => match.toUpperCase());
         }
     }
 }));

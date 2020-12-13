@@ -6539,10 +6539,45 @@ div.margin_30_95>.row>div em {
 div.margin_30_95 div h3 {
   height: 71px;
 }
-main > div:nth-of-type(5) div h3{
+
+main>div:nth-of-type(5) div h3 {
   height: 71px;
 }
 
-main > div:nth-of-type(5) div p {
+main>div:nth-of-type(5) div p {
   height: 45px;
+}
+
+/* most registered fields */
+
+thead th {
+  color: #212529
+}
+
+tbody>tr>td:nth-of-type(1) {
+  border-top: 1px solid #dee2e6;
+}
+
+tbody>tr>td:nth-of-type(2) {
+  border-top: 1px solid #dee2e6;
+}
+
+tbody>tr>td:nth-of-type(3) {
+  border-top: 1px solid #dee2e6;
+}
+
+tbody>tr>.options {
+  border-top: 1px solid #dee2e6;
+}
+
+.box_cart {
+  background: white;
+}
+
+tbody>tr .item_cart {
+  color: #212529;
+}
+
+tbody>tr>td:nth-of-type(2) {
+  color: #212529;
 }

@@ -90,7 +90,9 @@ async function seedDB() {
         // re-calculate the course's average rating
         course.calculateAverageRating(() => { });
         course.students = students;
+        field.totalStudents += students.length;
         course = await course.save();
+        field = await field.save();
 
         instructor.uploadedCourses.push(course);
         instructor = await instructor.save();

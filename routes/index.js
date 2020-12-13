@@ -2,6 +2,7 @@ const express = require("express");
 const router = express.Router({ mergeParams: true });
 const User = require("../models/user");
 const Course = require("../models/course");
+const Field = require("../models/field");
 const bcrypt = require('bcryptjs');
 const passport = require("passport");
 const LocalStrategy = require("passport-local").Strategy;
@@ -22,9 +23,19 @@ router.get("/", async (req, res) => {
         populate("field").
         populate("instructor");
 
+    // retrieve the most registered fields within the last 7 days
+    const mostRegisteredFields = await Field.
+        find({}).
+        where("updatedAt").
+        gte(new Date(new Date().getTime() - (7 * 24 * 60 * 60 * 1000))).
+        sort("-totalStudents");
+
+
+
     res.render("landing", {
         mostViewedCourses: mostViewedCourses,
-        mostRecentCourses: mostRecentCourses
+        mostRecentCourses: mostRecentCourses,
+        mostRegisteredFields: mostRegisteredFields
     });
 })
 

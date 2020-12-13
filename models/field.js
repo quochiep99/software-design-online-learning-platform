@@ -21,6 +21,8 @@ const FieldSchema = new Schema({
         type: Number,
         default: 0
     }
+}, {
+    timestamps: true
 })
 
 FieldSchema.methods.calculateTotalStudents = async function () {
