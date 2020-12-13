@@ -16,8 +16,19 @@ const FieldSchema = new Schema({
             type: Schema.Types.ObjectId,
             ref: "Course"
         }
-    ]
-
+    ],
+    totalStudents: {
+        type: Number,
+        default: 0
+    }
 })
+
+FieldSchema.methods.calculateTotalStudents = async function () {
+    await this.populate("courses").execPopulate();
+    for (var i = 0; i < this.courses.length; i++) {
+        this.totalStudents += await this.courses[i].students.length;
+    }
+    return this.totalStudents;
+}
 
 module.exports = mongoose.model("Field", FieldSchema);

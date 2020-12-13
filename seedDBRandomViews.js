@@ -11,46 +11,31 @@ const url =
 mongoose.connect(url, { useNewUrlParser: true, useUnifiedTopology: true });
 
 async function seedDB() {
-    const webDevelopmentCourses = await Field.
-        findOne({ name: "web-development" }).
-        populate("courses");
 
-    const dataScienceCourses = await Field.
-        findOne({ name: "data-science" }).
-        populate("courses");
+    const courses = await Course.find({});
+    const fields = await Field.find({});
 
-    const mobileDevelopmentCourses = await Field.
-        findOne({ name: "mobile-development" }).
-        populate("courses");
-
-    const programmingLanguagesCourses = await Field.
-        findOne({ name: "programming-languages" }).
-        populate("courses");
-
-    const gameDevelopmentCourses = await Field.
-        findOne({ name: "game-development" }).
-        populate("courses");
-
-    const courses = [webDevelopmentCourses, dataScienceCourses, mobileDevelopmentCourses, programmingLanguagesCourses, gameDevelopmentCourses];
-
-    // setting all views to 0    
-    // for (var i = 0; i < courses.length; i++) {
-    //     for (var j = 0; j < courses[i].courses.length; j++) {
-    //         courses[i].courses[j].numViews = 0;
-    //         await courses[i].courses[j].save();
-    //     }
+    // setting all views to 0
+    // for (var k = 1; k <= 10; k++) {
+    //     courses[k].numViews = 0;
     // }
-    // console.log("set all views to 0 !!!");
+    // console.log("numViews set to 0");
+    // for (var k = 1; k <= 1000; k++) {
+    //     var i = Math.floor(Math.random() * courses.length);
+    //     courses[i].numViews++;
+    //     await courses[i].save();
+    // }
 
-    for (var k = 1; k <= 10; k++) {
-        var i = Math.floor(Math.random() * courses.length);
-        var j = Math.floor(Math.random() * courses[i].courses.length);
-        courses[i].courses[j].numViews++;
-        await courses[i].courses[j].save();
+    // console.log("finished !!!");
+
+    for (var i = 0; i < fields.length; i++) {
+        fields[i].totalStudents = 0;
+        await fields[i].calculateTotalStudents();
+        await fields[i].save();
     }
-    console.log("random view counts set !!!");
 
-    console.log("finished !!!");
+
+
 }
 
 seedDB();
