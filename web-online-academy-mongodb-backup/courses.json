@@ -83,7 +83,7 @@
   "totalStudents": 12,
   "discountPrice": 11.99,
   "originalPrice": 129.99,
-  "numViews": 0,
+  "numViews": 102,
   "curriculum": [],
   "title": "The Web Developer Bootcamp 2020",
   "subtitle": "JUST COMPLETELY REDONE - The only course you need to learn web development - HTML, CSS, JS, Node, and More!",
@@ -94,7 +94,7 @@
     "$date": "2020-12-13T09:16:53.611Z"
   },
   "updatedAt": {
-    "$date": "2020-12-13T09:16:54.489Z"
+    "$date": "2020-12-13T09:37:08.492Z"
   },
   "__v": 1,
   "field": {
@@ -188,7 +188,7 @@
   "totalStudents": 12,
   "discountPrice": 11.99,
   "originalPrice": 129.99,
-  "numViews": 0,
+  "numViews": 103,
   "curriculum": [],
   "title": "Angular - The Complete Guide (2020 Edition)",
   "subtitle": "Master Angular 10 (formerly \"Angular 2\") and build awesome, reactive web apps with the successor of Angular.js",
@@ -199,7 +199,7 @@
     "$date": "2020-12-13T09:16:54.530Z"
   },
   "updatedAt": {
-    "$date": "2020-12-13T09:16:55.372Z"
+    "$date": "2020-12-13T09:37:08.499Z"
   },
   "__v": 1,
   "field": {
@@ -293,7 +293,7 @@
   "totalStudents": 12,
   "discountPrice": 11.99,
   "originalPrice": 129.99,
-  "numViews": 0,
+  "numViews": 124,
   "curriculum": [],
   "title": "The Complete 2020 Web Development Bootcamp",
   "subtitle": "Become a full-stack web developer with just one course. HTML, CSS, Javascript, Node, React, MongoDB and more!",
@@ -304,7 +304,7 @@
     "$date": "2020-12-13T09:16:55.414Z"
   },
   "updatedAt": {
-    "$date": "2020-12-13T09:16:56.254Z"
+    "$date": "2020-12-13T09:37:08.412Z"
   },
   "__v": 1,
   "field": {
@@ -398,7 +398,7 @@
   "totalStudents": 12,
   "discountPrice": 11.99,
   "originalPrice": 129.99,
-  "numViews": 0,
+  "numViews": 128,
   "curriculum": [],
   "title": "The Complete JavaScript Course 2020: From Zero to Expert!",
   "subtitle": "The modern JavaScript course for everyone! Master JavaScript with projects, challenges and theory. Many courses in one!",
@@ -409,7 +409,7 @@
     "$date": "2020-12-13T09:16:56.297Z"
   },
   "updatedAt": {
-    "$date": "2020-12-13T09:16:57.137Z"
+    "$date": "2020-12-13T09:37:08.445Z"
   },
   "__v": 1,
   "field": {
@@ -503,7 +503,7 @@
   "totalStudents": 12,
   "discountPrice": 11.99,
   "originalPrice": 129.99,
-  "numViews": 0,
+  "numViews": 127,
   "curriculum": [],
   "title": "The Complete Web Developer Course 2.0",
   "subtitle": "Learn Web Development by building 25 websites and mobile apps using HTML, CSS, Javascript, PHP, Python, MySQL & more!",
@@ -514,7 +514,7 @@
     "$date": "2020-12-13T09:16:57.176Z"
   },
   "updatedAt": {
-    "$date": "2020-12-13T09:16:58.016Z"
+    "$date": "2020-12-13T09:37:08.498Z"
   },
   "__v": 1,
   "field": {
@@ -608,7 +608,7 @@
   "totalStudents": 12,
   "discountPrice": 11.99,
   "originalPrice": 129.99,
-  "numViews": 0,
+  "numViews": 133,
   "curriculum": [],
   "title": "Modern React with Redux [2020 Update]",
   "subtitle": "Master React v16.6.3 and Redux with React Router, Webpack, and Create-React-App. Includes Hooks!",
@@ -619,7 +619,7 @@
     "$date": "2020-12-13T09:16:58.052Z"
   },
   "updatedAt": {
-    "$date": "2020-12-13T09:16:58.886Z"
+    "$date": "2020-12-13T09:37:08.445Z"
   },
   "__v": 1,
   "field": {
@@ -713,7 +713,7 @@
   "totalStudents": 12,
   "discountPrice": 12.99,
   "originalPrice": 139.99,
-  "numViews": 0,
+  "numViews": 116,
   "curriculum": [],
   "title": "Build Responsive Real World Websites with HTML5 and CSS3",
   "subtitle": "The easiest way to learn modern web design, HTML5 and CSS3 step-by-step from scratch. Design AND code a huge project.",
@@ -724,7 +724,7 @@
     "$date": "2020-12-13T09:16:58.932Z"
   },
   "updatedAt": {
-    "$date": "2020-12-13T09:16:59.704Z"
+    "$date": "2020-12-13T09:37:08.418Z"
   },
   "__v": 1,
   "field": {
@@ -818,7 +818,7 @@
   "totalStudents": 12,
   "discountPrice": 11.99,
   "originalPrice": 129.99,
-  "numViews": 0,
+  "numViews": 120,
   "curriculum": [],
   "title": "Vue - The Complete Guide (w/ Router, Vuex, Composition API)",
   "subtitle": "Vue.js is an awesome JavaScript Framework for building Frontend Applications! VueJS mixes the Best of Angular + React!",
@@ -829,7 +829,7 @@
     "$date": "2020-12-13T09:16:59.736Z"
   },
   "updatedAt": {
-    "$date": "2020-12-13T09:17:00.506Z"
+    "$date": "2020-12-13T09:37:08.482Z"
   },
   "__v": 1,
   "field": {
@@ -923,7 +923,7 @@
   "totalStudents": 12,
   "discountPrice": 11.99,
   "originalPrice": 129.99,
-  "numViews": 0,
+  "numViews": 130,
   "curriculum": [],
   "title": "The Complete Web Developer in 2021: Zero to Mastery",
   "subtitle": "Learn to code and become a Web Developer in 2021 with HTML, CSS, Javascript, React, Node.js, Machine Learning & more!",
@@ -934,7 +934,7 @@
     "$date": "2020-12-13T09:17:00.536Z"
   },
   "updatedAt": {
-    "$date": "2020-12-13T09:17:01.370Z"
+    "$date": "2020-12-13T09:37:08.504Z"
   },
   "__v": 1,
   "field": {
@@ -1028,7 +1028,7 @@
   "totalStudents": 12,
   "discountPrice": 11.99,
   "originalPrice": 129.99,
-  "numViews": 0,
+  "numViews": 134,
   "curriculum": [],
   "title": "JavaScript: Understanding the Weird Parts",
   "subtitle": "An advanced JavaScript course for everyone! Scope, closures, prototypes, 'this', build your own framework, and more.",
@@ -1039,7 +1039,7 @@
     "$date": "2020-12-13T09:17:01.406Z"
   },
   "updatedAt": {
-    "$date": "2020-12-13T09:17:02.239Z"
+    "$date": "2020-12-13T09:37:08.506Z"
   },
   "__v": 1,
   "field": {
@@ -1133,7 +1133,7 @@
   "totalStudents": 12,
   "discountPrice": 11.99,
   "originalPrice": 129.99,
-  "numViews": 0,
+  "numViews": 108,
   "curriculum": [],
   "title": "Python and Django Full Stack Web Developer Bootcamp",
   "subtitle": "Learn to build websites with HTML , CSS , Bootstrap , Javascript , jQuery , Python 3 , and Django!",
@@ -1144,7 +1144,7 @@
     "$date": "2020-12-13T09:17:02.273Z"
   },
   "updatedAt": {
-    "$date": "2020-12-13T09:17:03.109Z"
+    "$date": "2020-12-13T09:37:08.501Z"
   },
   "__v": 1,
   "field": {
@@ -1238,7 +1238,7 @@
   "totalStudents": 12,
   "discountPrice": 11.99,
   "originalPrice": 129.99,
-  "numViews": 0,
+  "numViews": 123,
   "curriculum": [],
   "title": "Advanced CSS and Sass: Flexbox, Grid, Animations and More!",
   "subtitle": "The most advanced and modern CSS course on the internet: master flexbox, CSS Grid, responsive design, and so much more.",
@@ -1249,7 +1249,7 @@
     "$date": "2020-12-13T09:17:03.145Z"
   },
   "updatedAt": {
-    "$date": "2020-12-13T09:17:03.920Z"
+    "$date": "2020-12-13T09:37:08.522Z"
   },
   "__v": 1,
   "field": {
@@ -1343,7 +1343,7 @@
   "totalStudents": 12,
   "discountPrice": 11.99,
   "originalPrice": 129.99,
-  "numViews": 0,
+  "numViews": 132,
   "curriculum": [],
   "title": "The Complete ASP.NET MVC 5 Course",
   "subtitle": "Learn to build fast and secure web applications with ASP.NET MVC 5 - The most popular course with 40,000+ students!",
@@ -1354,7 +1354,7 @@
     "$date": "2020-12-13T09:17:03.954Z"
   },
   "updatedAt": {
-    "$date": "2020-12-13T09:17:04.790Z"
+    "$date": "2020-12-13T09:37:08.464Z"
   },
   "__v": 1,
   "field": {
@@ -1448,7 +1448,7 @@
   "totalStudents": 12,
   "discountPrice": 11.99,
   "originalPrice": 129.99,
-  "numViews": 0,
+  "numViews": 119,
   "curriculum": [],
   "title": "Learn and Understand NodeJS",
   "subtitle": "Dive deep under the hood of NodeJS. Learn V8, Express, the MEAN stack, core Javascript concepts, and more.",
@@ -1459,7 +1459,7 @@
     "$date": "2020-12-13T09:17:04.824Z"
   },
   "updatedAt": {
-    "$date": "2020-12-13T09:17:05.599Z"
+    "$date": "2020-12-13T09:37:08.520Z"
   },
   "__v": 1,
   "field": {
@@ -1553,7 +1553,7 @@
   "totalStudents": 12,
   "discountPrice": 18.99,
   "originalPrice": 199.99,
-  "numViews": 0,
+  "numViews": 142,
   "curriculum": [],
   "title": "Master Microservices with Spring Boot and Spring Cloud",
   "subtitle": "An awesome journey from Restful Web Services ( REST API ) to Microservices with Java, Spring Boot and Spring Cloud",
@@ -1564,7 +1564,7 @@
     "$date": "2020-12-13T09:17:05.632Z"
   },
   "updatedAt": {
-    "$date": "2020-12-13T09:17:06.463Z"
+    "$date": "2020-12-13T09:37:08.511Z"
   },
   "__v": 1,
   "field": {
@@ -1658,7 +1658,7 @@
   "totalStudents": 12,
   "discountPrice": 11.99,
   "originalPrice": 129.99,
-  "numViews": 0,
+  "numViews": 127,
   "curriculum": [],
   "title": "Modern JavaScript From The Beginning",
   "subtitle": "Learn and build projects with pure JavaScript (No frameworks or libraries)",
@@ -1669,7 +1669,7 @@
     "$date": "2020-12-13T09:17:06.499Z"
   },
   "updatedAt": {
-    "$date": "2020-12-13T09:17:07.331Z"
+    "$date": "2020-12-13T09:37:08.472Z"
   },
   "__v": 1,
   "field": {
@@ -1763,7 +1763,7 @@
   "totalStudents": 12,
   "discountPrice": 11.99,
   "originalPrice": 129.99,
-  "numViews": 0,
+  "numViews": 130,
   "curriculum": [],
   "title": "iOS & Swift - The Complete iOS App Development Bootcamp",
   "subtitle": "From Beginner to iOS App Developer with Just One Course! Fully Updated with a Comprehensive Module Dedicated to SwiftUI!",
@@ -1774,7 +1774,7 @@
     "$date": "2020-12-13T09:17:35.155Z"
   },
   "updatedAt": {
-    "$date": "2020-12-13T09:17:35.967Z"
+    "$date": "2020-12-13T09:37:08.495Z"
   },
   "__v": 1,
   "field": {
@@ -1868,7 +1868,7 @@
   "totalStudents": 12,
   "discountPrice": 18.99,
   "originalPrice": 94.99,
-  "numViews": 0,
+  "numViews": 129,
   "curriculum": [],
   "title": "The Complete React Native + Hooks Course [2020 Edition]",
   "subtitle": "Understand React Native v0.62.2 with Hooks, Context, and React Navigation.",
@@ -1879,7 +1879,7 @@
     "$date": "2020-12-13T09:17:36.056Z"
   },
   "updatedAt": {
-    "$date": "2020-12-13T09:17:36.839Z"
+    "$date": "2020-12-13T09:37:08.488Z"
   },
   "__v": 1,
   "field": {
@@ -1973,7 +1973,7 @@
   "totalStudents": 12,
   "discountPrice": 11.99,
   "originalPrice": 129.99,
-  "numViews": 0,
+  "numViews": 124,
   "curriculum": [],
   "title": "iOS 11 & Swift 4 - The Complete iOS App Development Bootcamp",
   "subtitle": "Learn iOS 11 App Development From Beginning to End. Using Xcode 9 and Swift 4. Includes Full ARKit and CoreML Modules!",
@@ -1984,7 +1984,7 @@
     "$date": "2020-12-13T09:17:36.915Z"
   },
   "updatedAt": {
-    "$date": "2020-12-13T09:17:37.696Z"
+    "$date": "2020-12-13T09:37:08.485Z"
   },
   "__v": 1,
   "field": {
@@ -2078,7 +2078,7 @@
   "totalStudents": 12,
   "discountPrice": 11.99,
   "originalPrice": 129.99,
-  "numViews": 0,
+  "numViews": 112,
   "curriculum": [],
   "title": "Flutter & Dart - The Complete Guide [2020 Edition]",
   "subtitle": "A Complete Guide to the Flutter SDK & Flutter Framework for building native iOS and Android apps",
@@ -2089,7 +2089,7 @@
     "$date": "2020-12-13T09:17:37.756Z"
   },
   "updatedAt": {
-    "$date": "2020-12-13T09:17:38.590Z"
+    "$date": "2020-12-13T09:37:08.300Z"
   },
   "__v": 1,
   "field": {
@@ -2183,7 +2183,7 @@
   "totalStudents": 12,
   "discountPrice": 11.99,
   "originalPrice": 129.99,
-  "numViews": 0,
+  "numViews": 133,
   "curriculum": [],
   "title": "The Complete Android N Developer Course",
   "subtitle": "Learn Android App Development with Android 7 Nougat by building real apps including Uber, Whatsapp and Instagram!",
@@ -2194,7 +2194,7 @@
     "$date": "2020-12-13T09:17:38.641Z"
   },
   "updatedAt": {
-    "$date": "2020-12-13T09:17:39.415Z"
+    "$date": "2020-12-13T09:37:08.446Z"
   },
   "__v": 1,
   "field": {
@@ -2288,7 +2288,7 @@
   "totalStudents": 12,
   "discountPrice": 11.99,
   "originalPrice": 129.99,
-  "numViews": 0,
+  "numViews": 134,
   "curriculum": [],
   "title": "The Complete 2020 Flutter Development Bootcamp with Dart",
   "subtitle": "Officially created in collaboration with the Google Flutter team.",
@@ -2299,7 +2299,7 @@
     "$date": "2020-12-13T09:17:39.466Z"
   },
   "updatedAt": {
-    "$date": "2020-12-13T09:17:40.238Z"
+    "$date": "2020-12-13T09:37:08.458Z"
   },
   "__v": 1,
   "field": {
@@ -2393,7 +2393,7 @@
   "totalStudents": 12,
   "discountPrice": 11.99,
   "originalPrice": 129.99,
-  "numViews": 0,
+  "numViews": 129,
   "curriculum": [],
   "title": "React Native - The Practical Guide [2020 Edition]",
   "subtitle": "Use React Native and your React knowledge to build native iOS and Android Apps - incl. Push Notifications, Hooks, Redux",
@@ -2404,7 +2404,7 @@
     "$date": "2020-12-13T09:17:40.284Z"
   },
   "updatedAt": {
-    "$date": "2020-12-13T09:17:41.054Z"
+    "$date": "2020-12-13T09:37:08.518Z"
   },
   "__v": 1,
   "field": {
@@ -2498,7 +2498,7 @@
   "totalStudents": 12,
   "discountPrice": 11.99,
   "originalPrice": 129.99,
-  "numViews": 0,
+  "numViews": 135,
   "curriculum": [],
   "title": "The Complete Android Oreo Developer Course - Build 23 Apps!",
   "subtitle": "Learn Android O App Development using Java & Kotlin - build real apps including Super Mario Run, Whatsapp and Instagram!",
@@ -2509,7 +2509,7 @@
     "$date": "2020-12-13T09:17:41.100Z"
   },
   "updatedAt": {
-    "$date": "2020-12-13T09:17:41.871Z"
+    "$date": "2020-12-13T09:37:08.429Z"
   },
   "__v": 1,
   "field": {
@@ -2603,7 +2603,7 @@
   "totalStudents": 12,
   "discountPrice": 16.99,
   "originalPrice": 179.99,
-  "numViews": 0,
+  "numViews": 150,
   "curriculum": [],
   "title": "iOS 10 & Swift 3: From Beginner to Paid Professional™",
   "subtitle": "The most comprehensive course on iOS development - become a master of app development",
@@ -2614,7 +2614,7 @@
     "$date": "2020-12-13T09:17:41.914Z"
   },
   "updatedAt": {
-    "$date": "2020-12-13T09:17:42.749Z"
+    "$date": "2020-12-13T09:37:08.470Z"
   },
   "__v": 1,
   "field": {
@@ -2708,7 +2708,7 @@
   "totalStudents": 12,
   "discountPrice": 11.99,
   "originalPrice": 129.99,
-  "numViews": 0,
+  "numViews": 123,
   "curriculum": [],
   "title": "Ionic - Build iOS, Android & Web Apps with Ionic & Angular",
   "subtitle": "Build Native iOS & Android as well as Progressive Web Apps with Angular, Capacitor and the Ionic Framework (Ionic 4+).",
@@ -2719,7 +2719,7 @@
     "$date": "2020-12-13T09:17:42.794Z"
   },
   "updatedAt": {
-    "$date": "2020-12-13T09:17:43.562Z"
+    "$date": "2020-12-13T09:37:08.497Z"
   },
   "__v": 1,
   "field": {
@@ -2813,7 +2813,7 @@
   "totalStudents": 12,
   "discountPrice": 12.99,
   "originalPrice": 139.99,
-  "numViews": 0,
+  "numViews": 138,
   "curriculum": [],
   "title": "The Complete iOS 10 & Swift 3 Developer Course",
   "subtitle": "Learn iOS App Development by building 21 iOS apps using Swift 3 & Xcode 8. Includes free web hosting, assets & ebook.",
@@ -2824,7 +2824,7 @@
     "$date": "2020-12-13T09:17:43.604Z"
   },
   "updatedAt": {
-    "$date": "2020-12-13T09:17:44.376Z"
+    "$date": "2020-12-13T09:37:08.523Z"
   },
   "__v": 1,
   "field": {
@@ -2918,7 +2918,7 @@
   "totalStudents": 12,
   "discountPrice": 11.99,
   "originalPrice": 129.99,
-  "numViews": 0,
+  "numViews": 131,
   "curriculum": [],
   "title": "Xamarin Forms: Build Native Cross-platform Apps with C#",
   "subtitle": "Learn to build native mobile apps for Android, iOS and Windows using your existing C# skills",
@@ -2929,7 +2929,7 @@
     "$date": "2020-12-13T09:17:44.416Z"
   },
   "updatedAt": {
-    "$date": "2020-12-13T09:17:45.187Z"
+    "$date": "2020-12-13T09:37:08.480Z"
   },
   "__v": 1,
   "field": {
@@ -3023,7 +3023,7 @@
   "totalStudents": 12,
   "discountPrice": 11.99,
   "originalPrice": 99.99,
-  "numViews": 0,
+  "numViews": 129,
   "curriculum": [],
   "title": "Android Java Masterclass - Become an App Developer",
   "subtitle": "Improve your career options by learning Android app Development. Master Android Studio and build your first app today",
@@ -3034,7 +3034,7 @@
     "$date": "2020-12-13T09:17:45.228Z"
   },
   "updatedAt": {
-    "$date": "2020-12-13T09:17:46.061Z"
+    "$date": "2020-12-13T09:37:08.522Z"
   },
   "__v": 1,
   "field": {
@@ -3128,7 +3128,7 @@
   "totalStudents": 12,
   "discountPrice": 11.99,
   "originalPrice": 129.99,
-  "numViews": 0,
+  "numViews": 126,
   "curriculum": [],
   "title": "Android O & Java - The Complete Android Development Bootcamp",
   "subtitle": "Learn Android O app development from beginning to end. Learn to code in Java while building fun Android O projects.",
@@ -3139,7 +3139,7 @@
     "$date": "2020-12-13T09:17:46.105Z"
   },
   "updatedAt": {
-    "$date": "2020-12-13T09:17:46.939Z"
+    "$date": "2020-12-13T09:37:08.504Z"
   },
   "__v": 1,
   "field": {
@@ -3233,7 +3233,7 @@
   "totalStudents": 12,
   "discountPrice": 11.99,
   "originalPrice": 129.99,
-  "numViews": 0,
+  "numViews": 127,
   "curriculum": [],
   "title": "The Complete Android Kotlin Developer Course",
   "subtitle": "Learn how to build 17 online games, and apps for Android Q, like Pokémon , twitter,Tic Tac Toe, and notepad using Kotlin",
@@ -3244,7 +3244,7 @@
     "$date": "2020-12-13T09:17:46.982Z"
   },
   "updatedAt": {
-    "$date": "2020-12-13T09:17:47.815Z"
+    "$date": "2020-12-13T09:37:08.515Z"
   },
   "__v": 1,
   "field": {
@@ -3338,7 +3338,7 @@
   "totalStudents": 12,
   "discountPrice": 11.99,
   "originalPrice": 129.99,
-  "numViews": 0,
+  "numViews": 131,
   "curriculum": [],
   "title": "The Complete Android & Java Developer Course - Build 21 Apps",
   "subtitle": "Learn Android Development, Java & Android Studio from Scratch in 5 Weeks. Build a Diary App & more",
@@ -3349,7 +3349,7 @@
     "$date": "2020-12-13T09:17:47.858Z"
   },
   "updatedAt": {
-    "$date": "2020-12-13T09:17:48.693Z"
+    "$date": "2020-12-13T09:37:08.427Z"
   },
   "__v": 1,
   "field": {
@@ -3443,7 +3443,7 @@
   "totalStudents": 12,
   "discountPrice": 11.99,
   "originalPrice": 129.99,
-  "numViews": 0,
+  "numViews": 115,
   "curriculum": [],
   "title": "2020 Complete Python Bootcamp From Zero to Hero in Python",
   "subtitle": "Learn Python like a Professional Start from the basics and go all the way to creating your own applications and games",
@@ -3454,7 +3454,7 @@
     "$date": "2020-12-13T09:19:29.748Z"
   },
   "updatedAt": {
-    "$date": "2020-12-13T09:19:30.560Z"
+    "$date": "2020-12-13T09:37:08.429Z"
   },
   "__v": 1,
   "field": {
@@ -3548,7 +3548,7 @@
   "totalStudents": 12,
   "discountPrice": 11.99,
   "originalPrice": 129.99,
-  "numViews": 0,
+  "numViews": 137,
   "curriculum": [],
   "title": "Java Programming Masterclass for Software Developers",
   "subtitle": "Learn Java In This Course And Become a Computer Programmer. Obtain valuable Core Java Skills And Java Certification",
@@ -3559,7 +3559,7 @@
     "$date": "2020-12-13T09:19:30.687Z"
   },
   "updatedAt": {
-    "$date": "2020-12-13T09:19:31.473Z"
+    "$date": "2020-12-13T09:37:08.519Z"
   },
   "__v": 1,
   "field": {
@@ -3653,7 +3653,7 @@
   "totalStudents": 12,
   "discountPrice": 11.99,
   "originalPrice": 129.99,
-  "numViews": 0,
+  "numViews": 129,
   "curriculum": [],
   "title": "React - The Complete Guide (incl Hooks, React Router, Redux)",
   "subtitle": "Dive in and learn React.js from scratch! Learn Reactjs, Hooks, Redux, React Routing, Animations, Next.js and way more!",
@@ -3664,7 +3664,7 @@
     "$date": "2020-12-13T09:19:31.587Z"
   },
   "updatedAt": {
-    "$date": "2020-12-13T09:19:32.368Z"
+    "$date": "2020-12-13T09:37:08.506Z"
   },
   "__v": 1,
   "field": {
@@ -3758,7 +3758,7 @@
   "totalStudents": 12,
   "discountPrice": 11.99,
   "originalPrice": 49.99,
-  "numViews": 0,
+  "numViews": 121,
   "curriculum": [],
   "title": "Automate the Boring Stuff with Python Programming",
   "subtitle": "A practical programming course for office workers, academics, and administrators who want to improve their productivity.",
@@ -3769,7 +3769,7 @@
     "$date": "2020-12-13T09:19:32.432Z"
   },
   "updatedAt": {
-    "$date": "2020-12-13T09:19:33.267Z"
+    "$date": "2020-12-13T09:37:08.449Z"
   },
   "__v": 1,
   "field": {
@@ -3863,7 +3863,7 @@
   "totalStudents": 12,
   "discountPrice": 11.99,
   "originalPrice": 129.99,
-  "numViews": 0,
+  "numViews": 131,
   "curriculum": [],
   "title": "Learn Python Programming Masterclass",
   "subtitle": "This Python For Beginners Course Teaches You The Python Language Fast. Includes Python Online Training With Python 3",
@@ -3874,7 +3874,7 @@
     "$date": "2020-12-13T09:19:33.336Z"
   },
   "updatedAt": {
-    "$date": "2020-12-13T09:19:34.111Z"
+    "$date": "2020-12-13T09:37:08.510Z"
   },
   "__v": 1,
   "field": {
@@ -3968,7 +3968,7 @@
   "totalStudents": 12,
   "discountPrice": 11.99,
   "originalPrice": 84.99,
-  "numViews": 0,
+  "numViews": 129,
   "curriculum": [],
   "title": "The Complete Node.js Developer Course (3rd Edition)",
   "subtitle": "Learn Node.js by building real-world applications with Node, Express, MongoDB, Jest, and more!",
@@ -3979,7 +3979,7 @@
     "$date": "2020-12-13T09:19:34.169Z"
   },
   "updatedAt": {
-    "$date": "2020-12-13T09:19:35.008Z"
+    "$date": "2020-12-13T09:37:08.508Z"
   },
   "__v": 1,
   "field": {
@@ -4073,7 +4073,7 @@
   "totalStudents": 12,
   "discountPrice": 11.99,
   "originalPrice": 129.99,
-  "numViews": 0,
+  "numViews": 128,
   "curriculum": [],
   "title": "Spring & Hibernate for Beginners (includes Spring Boot)",
   "subtitle": "Spring 5: Learn Spring 5 Core, AOP, Spring MVC, Spring Security, Spring REST, Spring Boot 2, Thymeleaf, JPA & Hibernate",
@@ -4084,7 +4084,7 @@
     "$date": "2020-12-13T09:19:35.067Z"
   },
   "updatedAt": {
-    "$date": "2020-12-13T09:19:35.904Z"
+    "$date": "2020-12-13T09:37:08.434Z"
   },
   "__v": 1,
   "field": {
@@ -4181,7 +4181,7 @@
   "totalStudents": 13,
   "discountPrice": 11.99,
   "originalPrice": 129.99,
-  "numViews": 0,
+  "numViews": 135,
   "curriculum": [],
   "title": "The Python Mega Course: Build 10 Real World Applications",
   "subtitle": "A complete practical Python course for both beginners & intermediates! Master Python 3 by making 10 amazing Python apps.",
@@ -4192,7 +4192,7 @@
     "$date": "2020-12-13T09:19:35.959Z"
   },
   "updatedAt": {
-    "$date": "2020-12-13T09:19:36.795Z"
+    "$date": "2020-12-13T09:37:08.473Z"
   },
   "__v": 1,
   "field": {
@@ -4286,7 +4286,7 @@
   "totalStudents": 12,
   "discountPrice": 15.99,
   "originalPrice": 174.99,
-  "numViews": 0,
+  "numViews": 119,
   "curriculum": [],
   "title": "C# Basics for Beginners: Learn C# Fundamentals by Coding",
   "subtitle": "Master C# fundamentals in 6 hours - The most popular course with 50,000+ students, packed with tips and exercises!",
@@ -4297,7 +4297,7 @@
     "$date": "2020-12-13T09:19:36.858Z"
   },
   "updatedAt": {
-    "$date": "2020-12-13T09:19:37.633Z"
+    "$date": "2020-12-13T09:37:08.484Z"
   },
   "__v": 1,
   "field": {
@@ -4391,7 +4391,7 @@
   "totalStudents": 12,
   "discountPrice": 11.99,
   "originalPrice": 129.99,
-  "numViews": 0,
+  "numViews": 119,
   "curriculum": [],
   "title": "Beginning C++ Programming - From Beginner to Beyond",
   "subtitle": "Obtain Modern C++ Object-Oriented Programming (OOP) and STL skills needed for game, system, and application development.",
@@ -4402,7 +4402,7 @@
     "$date": "2020-12-13T09:19:37.685Z"
   },
   "updatedAt": {
-    "$date": "2020-12-13T09:19:38.519Z"
+    "$date": "2020-12-13T09:37:08.493Z"
   },
   "__v": 1,
   "field": {
@@ -4499,7 +4499,7 @@
   "totalStudents": 13,
   "discountPrice": 11.99,
   "originalPrice": 129.99,
-  "numViews": 0,
+  "numViews": 134,
   "curriculum": [],
   "title": "The Python Bible™ | Everything You Need to Program in Python",
   "subtitle": "Build 11 Projects and go from Beginner to Pro in Python with the World's Most Fun Project-Based Python Course!",
@@ -4510,7 +4510,7 @@
     "$date": "2020-12-13T09:19:38.569Z"
   },
   "updatedAt": {
-    "$date": "2020-12-13T09:19:39.470Z"
+    "$date": "2020-12-13T09:37:08.487Z"
   },
   "__v": 1,
   "field": {
@@ -4604,7 +4604,7 @@
   "totalStudents": 12,
   "discountPrice": 11.99,
   "originalPrice": 129.99,
-  "numViews": 0,
+  "numViews": 130,
   "curriculum": [],
   "title": "Complete Python Developer in 2021: Zero to Mastery",
   "subtitle": "How to become a Python 3 Developer and get hired! Build 12+ projects, learn Web Development, Machine Learning + more!",
@@ -4615,7 +4615,7 @@
     "$date": "2020-12-13T09:19:39.521Z"
   },
   "updatedAt": {
-    "$date": "2020-12-13T09:19:40.294Z"
+    "$date": "2020-12-13T09:37:08.517Z"
   },
   "__v": 1,
   "field": {
@@ -4703,7 +4703,7 @@
   "totalStudents": 10,
   "discountPrice": 11.99,
   "originalPrice": 129.99,
-  "numViews": 0,
+  "numViews": 128,
   "curriculum": [],
   "title": "C# Intermediate: Classes, Interfaces and OOP",
   "subtitle": "An in-depth, step-by-step guide to classes, interfaces and object-oriented programming (OOP) with C#",
@@ -4714,7 +4714,7 @@
     "$date": "2020-12-13T09:19:40.346Z"
   },
   "updatedAt": {
-    "$date": "2020-12-13T09:19:40.988Z"
+    "$date": "2020-12-13T09:37:08.490Z"
   },
   "__v": 1,
   "field": {
@@ -4805,7 +4805,7 @@
   "totalStudents": 11,
   "discountPrice": 11.99,
   "originalPrice": 129.99,
-  "numViews": 0,
+  "numViews": 130,
   "curriculum": [],
   "title": "NodeJS - The Complete Guide (MVC, REST APIs, GraphQL, Deno)",
   "subtitle": "Master Node JS & Deno.js, build REST APIs with Node.js, GraphQL APIs, add Authentication, use MongoDB, SQL & much more!",
@@ -4816,7 +4816,7 @@
     "$date": "2020-12-13T09:19:41.038Z"
   },
   "updatedAt": {
-    "$date": "2020-12-13T09:19:41.746Z"
+    "$date": "2020-12-13T09:37:08.494Z"
   },
   "__v": 1,
   "field": {
@@ -4907,7 +4907,7 @@
   "totalStudents": 11,
   "discountPrice": 11.99,
   "originalPrice": 129.99,
-  "numViews": 0,
+  "numViews": 111,
   "curriculum": [],
   "title": "The Modern Python 3 Bootcamp",
   "subtitle": "A Unique Interactive Python Experience With Nearly 200 Exercises and Quizzes",
@@ -4918,7 +4918,7 @@
     "$date": "2020-12-13T09:19:41.796Z"
   },
   "updatedAt": {
-    "$date": "2020-12-13T09:19:42.511Z"
+    "$date": "2020-12-13T09:37:08.435Z"
   },
   "__v": 1,
   "field": {
@@ -5012,7 +5012,7 @@
   "totalStudents": 12,
   "discountPrice": 13.99,
   "originalPrice": 149.99,
-  "numViews": 0,
+  "numViews": 124,
   "curriculum": [],
   "title": "The Complete Python 3 Course: Beginner to Advanced!",
   "subtitle": "Learn Python with projects covering game & web development, web scraping, MongoDB, Django, PyQt, and data visualization!",
@@ -5023,7 +5023,7 @@
     "$date": "2020-12-13T09:19:42.564Z"
   },
   "updatedAt": {
-    "$date": "2020-12-13T09:19:43.396Z"
+    "$date": "2020-12-13T09:37:08.457Z"
   },
   "__v": 1,
   "field": {
@@ -5117,7 +5117,7 @@
   "totalStudents": 12,
   "discountPrice": 11.99,
   "originalPrice": 129.99,
-  "numViews": 0,
+  "numViews": 111,
   "curriculum": [],
   "title": "Machine Learning A-Z™: Hands-On Python & R In Data Science",
   "subtitle": "Learn to create Machine Learning Algorithms in Python and R from two Data Science experts. Code templates included.",
@@ -5128,7 +5128,7 @@
     "$date": "2020-12-13T09:19:53.193Z"
   },
   "updatedAt": {
-    "$date": "2020-12-13T09:19:54.067Z"
+    "$date": "2020-12-13T09:37:08.513Z"
   },
   "__v": 1,
   "field": {
@@ -5222,7 +5222,7 @@
   "totalStudents": 12,
   "discountPrice": 11.99,
   "originalPrice": 129.99,
-  "numViews": 0,
+  "numViews": 116,
   "curriculum": [],
   "title": "Python for Data Science and Machine Learning Bootcamp",
   "subtitle": "Learn how to use NumPy, Pandas, Seaborn , Matplotlib , Plotly , Scikit-Learn , Machine Learning, Tensorflow , and more!",
@@ -5233,7 +5233,7 @@
     "$date": "2020-12-13T09:19:54.231Z"
   },
   "updatedAt": {
-    "$date": "2020-12-13T09:19:55.020Z"
+    "$date": "2020-12-13T09:37:08.452Z"
   },
   "__v": 1,
   "field": {
@@ -5327,7 +5327,7 @@
   "totalStudents": 12,
   "discountPrice": 11.99,
   "originalPrice": 129.99,
-  "numViews": 0,
+  "numViews": 123,
   "curriculum": [],
   "title": "The Data Science Course 2020: Complete Data Science Bootcamp",
   "subtitle": "Complete Data Science Training: Mathematics, Statistics, Python, Advanced Statistics in Python, Machine & Deep Learning",
@@ -5338,7 +5338,7 @@
     "$date": "2020-12-13T09:19:55.131Z"
   },
   "updatedAt": {
-    "$date": "2020-12-13T09:19:55.975Z"
+    "$date": "2020-12-13T09:37:08.507Z"
   },
   "__v": 1,
   "field": {
@@ -5432,7 +5432,7 @@
   "totalStudents": 12,
   "discountPrice": 11.99,
   "originalPrice": 129.99,
-  "numViews": 0,
+  "numViews": 118,
   "curriculum": [],
   "title": "R Programming A-Z™: R For Data Science With Real Exercises!",
   "subtitle": "Learn Programming In R And R Studio. Data Analytics, Data Science, Statistical Analysis, Packages, Functions, GGPlot2",
@@ -5443,7 +5443,7 @@
     "$date": "2020-12-13T09:19:56.045Z"
   },
   "updatedAt": {
-    "$date": "2020-12-13T09:19:56.827Z"
+    "$date": "2020-12-13T09:37:08.328Z"
   },
   "__v": 1,
   "field": {
@@ -5537,7 +5537,7 @@
   "totalStudents": 12,
   "discountPrice": 11.99,
   "originalPrice": 129.99,
-  "numViews": 0,
+  "numViews": 103,
   "curriculum": [],
   "title": "Deep Learning A-Z™: Hands-On Artificial Neural Networks",
   "subtitle": "Learn to create Deep Learning Algorithms in Python from two Machine Learning & Data Science experts. Templates included.",
@@ -5548,7 +5548,7 @@
     "$date": "2020-12-13T09:19:56.897Z"
   },
   "updatedAt": {
-    "$date": "2020-12-13T09:19:57.679Z"
+    "$date": "2020-12-13T09:37:08.500Z"
   },
   "__v": 1,
   "field": {
@@ -5642,7 +5642,7 @@
   "totalStudents": 12,
   "discountPrice": 11.99,
   "originalPrice": 129.99,
-  "numViews": 0,
+  "numViews": 113,
   "curriculum": [],
   "title": "Data Science A-Z™: Real-Life Data Science Exercises Included",
   "subtitle": "Learn Data Science step by step through real Analytics examples. Data Mining, Modeling, Tableau Visualization and more!",
@@ -5653,7 +5653,7 @@
     "$date": "2020-12-13T09:19:57.742Z"
   },
   "updatedAt": {
-    "$date": "2020-12-13T09:19:58.525Z"
+    "$date": "2020-12-13T09:37:08.491Z"
   },
   "__v": 1,
   "field": {
@@ -5747,7 +5747,7 @@
   "totalStudents": 12,
   "discountPrice": 11.99,
   "originalPrice": 129.99,
-  "numViews": 0,
+  "numViews": 118,
   "curriculum": [],
   "title": "Machine Learning, Data Science and Deep Learning with Python",
   "subtitle": "Complete hands-on machine learning tutorial with data science, Tensorflow, artificial intelligence, and neural networks",
@@ -5758,7 +5758,7 @@
     "$date": "2020-12-13T09:19:58.584Z"
   },
   "updatedAt": {
-    "$date": "2020-12-13T09:19:59.436Z"
+    "$date": "2020-12-13T09:37:08.520Z"
   },
   "__v": 1,
   "field": {
@@ -5852,7 +5852,7 @@
   "totalStudents": 12,
   "discountPrice": 11.99,
   "originalPrice": 129.99,
-  "numViews": 0,
+  "numViews": 128,
   "curriculum": [],
   "title": "Statistics for Data Science and Business Analysis",
   "subtitle": "Statistics you need in the office: Descriptive & Inferential statistics, Hypothesis testing, Regression analysis",
@@ -5863,7 +5863,7 @@
     "$date": "2020-12-13T09:19:59.500Z"
   },
   "updatedAt": {
-    "$date": "2020-12-13T09:20:00.275Z"
+    "$date": "2020-12-13T09:37:08.344Z"
   },
   "__v": 1,
   "field": {
@@ -5954,7 +5954,7 @@
   "totalStudents": 11,
   "discountPrice": 11.99,
   "originalPrice": 129.99,
-  "numViews": 0,
+  "numViews": 116,
   "curriculum": [],
   "title": "Python A-Z™: Python For Data Science With Real Exercises!",
   "subtitle": "Programming In Python For Data Analytics And Data Science. Learn Statistical Analysis, Data Mining And Visualization",
@@ -5965,7 +5965,7 @@
     "$date": "2020-12-13T09:20:00.333Z"
   },
   "updatedAt": {
-    "$date": "2020-12-13T09:20:01.042Z"
+    "$date": "2020-12-13T09:37:08.481Z"
   },
   "__v": 1,
   "field": {
@@ -6059,7 +6059,7 @@
   "totalStudents": 12,
   "discountPrice": 11.99,
   "originalPrice": 129.99,
-  "numViews": 0,
+  "numViews": 130,
   "curriculum": [],
   "title": "Artificial Intelligence A-Z™: Learn How To Build An AI",
   "subtitle": "Combine the power of Data Science, Machine Learning and Deep Learning to create powerful AI for Real-World applications!",
@@ -6070,7 +6070,7 @@
     "$date": "2020-12-13T09:20:01.102Z"
   },
   "updatedAt": {
-    "$date": "2020-12-13T09:20:01.938Z"
+    "$date": "2020-12-13T09:37:08.468Z"
   },
   "__v": 1,
   "field": {
@@ -6164,7 +6164,7 @@
   "totalStudents": 12,
   "discountPrice": 11.99,
   "originalPrice": 129.99,
-  "numViews": 0,
+  "numViews": 134,
   "curriculum": [],
   "title": "Complete Guide to TensorFlow for Deep Learning with Python",
   "subtitle": "Learn how to use Google's Deep Learning Framework - TensorFlow with Python! Solve problems with cutting edge techniques!",
@@ -6175,7 +6175,7 @@
     "$date": "2020-12-13T09:20:01.997Z"
   },
   "updatedAt": {
-    "$date": "2020-12-13T09:20:02.770Z"
+    "$date": "2020-12-13T09:37:08.492Z"
   },
   "__v": 1,
   "field": {
@@ -6269,7 +6269,7 @@
   "totalStudents": 12,
   "discountPrice": 11.99,
   "originalPrice": 129.99,
-  "numViews": 0,
+  "numViews": 152,
   "curriculum": [],
   "title": "Apache Spark with Scala - Hands On with Big Data!",
   "subtitle": "Apache Spark tutorial with 20+ hands-on examples of analyzing large data sets, on your desktop or on Hadoop with Scala!",
@@ -6280,7 +6280,7 @@
     "$date": "2020-12-13T09:20:02.828Z"
   },
   "updatedAt": {
-    "$date": "2020-12-13T09:20:03.603Z"
+    "$date": "2020-12-13T09:37:08.409Z"
   },
   "__v": 1,
   "field": {
@@ -6374,7 +6374,7 @@
   "totalStudents": 12,
   "discountPrice": 11.99,
   "originalPrice": 129.99,
-  "numViews": 0,
+  "numViews": 108,
   "curriculum": [],
   "title": "Data Science and Machine Learning Bootcamp with R",
   "subtitle": "Learn how to use the R programming language for data science and machine learning and data visualization!",
@@ -6385,7 +6385,7 @@
     "$date": "2020-12-13T09:20:03.663Z"
   },
   "updatedAt": {
-    "$date": "2020-12-13T09:20:04.438Z"
+    "$date": "2020-12-13T09:37:08.512Z"
   },
   "__v": 1,
   "field": {
@@ -6479,7 +6479,7 @@
   "totalStudents": 12,
   "discountPrice": 11.99,
   "originalPrice": 129.99,
-  "numViews": 0,
+  "numViews": 133,
   "curriculum": [],
   "title": "Taming Big Data with Apache Spark and Python - Hands On!",
   "subtitle": "Apache Spark tutorial with 20+ hands-on examples of analyzing large data sets on your desktop or on Hadoop with Python!",
@@ -6490,7 +6490,7 @@
     "$date": "2020-12-13T09:20:04.510Z"
   },
   "updatedAt": {
-    "$date": "2020-12-13T09:20:05.289Z"
+    "$date": "2020-12-13T09:37:08.516Z"
   },
   "__v": 1,
   "field": {
@@ -6587,7 +6587,7 @@
   "totalStudents": 13,
   "discountPrice": 11.99,
   "originalPrice": 129.99,
-  "numViews": 0,
+  "numViews": 120,
   "curriculum": [],
   "title": "Data Science: Natural Language Processing (NLP) in Python",
   "subtitle": "Applications: decrypting ciphers, spam detection, sentiment analysis, article spinners, and latent semantic analysis.",
@@ -6598,7 +6598,7 @@
     "$date": "2020-12-13T09:20:05.358Z"
   },
   "updatedAt": {
-    "$date": "2020-12-13T09:20:06.193Z"
+    "$date": "2020-12-13T09:37:08.521Z"
   },
   "__v": 1,
   "field": {
@@ -6692,7 +6692,7 @@
   "totalStudents": 12,
   "discountPrice": 11.99,
   "originalPrice": 129.99,
-  "numViews": 0,
+  "numViews": 131,
   "curriculum": [],
   "title": "Introduction to Machine Learning for Data Science",
   "subtitle": "A primer on Machine Learning for Data Science. Revealed for everyday people, by the Backyard Data Scientist.",
@@ -6703,7 +6703,7 @@
     "$date": "2020-12-13T09:20:06.269Z"
   },
   "updatedAt": {
-    "$date": "2020-12-13T09:20:07.100Z"
+    "$date": "2020-12-13T09:37:08.464Z"
   },
   "__v": 1,
   "field": {
@@ -6800,7 +6800,7 @@
   "totalStudents": 13,
   "discountPrice": 11.99,
   "originalPrice": 129.99,
-  "numViews": 0,
+  "numViews": 122,
   "curriculum": [],
   "title": "Complete C# Unity Game Developer 2D",
   "subtitle": "Learn Unity in C# & Code Your First Seven 2D Video Games for Web, Mac & PC. The Tutorials Cover Tilemap (35 hours)",
@@ -6811,7 +6811,7 @@
     "$date": "2020-12-13T09:20:16.072Z"
   },
   "updatedAt": {
-    "$date": "2020-12-13T09:20:17.022Z"
+    "$date": "2020-12-13T09:37:08.510Z"
   },
   "__v": 1,
   "field": {
@@ -6908,7 +6908,7 @@
   "totalStudents": 13,
   "discountPrice": 11.99,
   "originalPrice": 129.99,
-  "numViews": 0,
+  "numViews": 128,
   "curriculum": [],
   "title": "Unreal Engine C++ Developer: Learn C++ and Make Video Games",
   "subtitle": "Created in collaboration with Epic Games. Learn C++ from basics while making your first 4 video games in Unreal",
@@ -6919,7 +6919,7 @@
     "$date": "2020-12-13T09:20:17.210Z"
   },
   "updatedAt": {
-    "$date": "2020-12-13T09:20:18.065Z"
+    "$date": "2020-12-13T09:37:08.516Z"
   },
   "__v": 1,
   "field": {
@@ -7010,7 +7010,7 @@
   "totalStudents": 11,
   "discountPrice": 11.99,
   "originalPrice": 129.99,
-  "numViews": 0,
+  "numViews": 126,
   "curriculum": [],
   "title": "Complete C# Unity Game Developer 3D",
   "subtitle": "Design & Develop Video Games. Learn C# in Unity Engine. Code Your first 3D Unity games for web, Mac & PC.",
@@ -7021,7 +7021,7 @@
     "$date": "2020-12-13T09:20:18.187Z"
   },
   "updatedAt": {
-    "$date": "2020-12-13T09:20:18.912Z"
+    "$date": "2020-12-13T09:37:08.488Z"
   },
   "__v": 1,
   "field": {
@@ -7115,7 +7115,7 @@
   "totalStudents": 12,
   "discountPrice": 15.99,
   "originalPrice": 174.99,
-  "numViews": 0,
+  "numViews": 131,
   "curriculum": [],
   "title": "The Ultimate Guide to Game Development with Unity 2019",
   "subtitle": "Created in partnership with Unity Technologies: learn C# by developing 2D & 3D games with this comprehensive guide",
@@ -7126,7 +7126,7 @@
     "$date": "2020-12-13T09:20:19.001Z"
   },
   "updatedAt": {
-    "$date": "2020-12-13T09:20:19.838Z"
+    "$date": "2020-12-13T09:37:08.515Z"
   },
   "__v": 1,
   "field": {
@@ -7220,7 +7220,7 @@
   "totalStudents": 12,
   "discountPrice": 11.99,
   "originalPrice": 129.99,
-  "numViews": 0,
+  "numViews": 147,
   "curriculum": [],
   "title": "Unreal Engine 4: How to Develop Your First Two Games",
   "subtitle": "Epic Games-Approved: learn the Unreal Editor, master the gameplay framework, and use Blueprint to program without coding",
@@ -7231,7 +7231,7 @@
     "$date": "2020-12-13T09:20:19.917Z"
   },
   "updatedAt": {
-    "$date": "2020-12-13T09:20:20.762Z"
+    "$date": "2020-12-13T09:37:08.478Z"
   },
   "__v": 1,
   "field": {
@@ -7322,7 +7322,7 @@
   "totalStudents": 11,
   "discountPrice": 11.99,
   "originalPrice": 129.99,
-  "numViews": 0,
+  "numViews": 116,
   "curriculum": [],
   "title": "RPG Core Combat Creator: Learn Intermediate Unity C# Coding",
   "subtitle": "Build Combat for Role Playing Game (RPG) in Unity. Tutorials Cover Code Architecture & Video Game Design.",
@@ -7333,7 +7333,7 @@
     "$date": "2020-12-13T09:20:20.837Z"
   },
   "updatedAt": {
-    "$date": "2020-12-13T09:20:21.548Z"
+    "$date": "2020-12-13T09:37:08.399Z"
   },
   "__v": 1,
   "field": {
@@ -7424,7 +7424,7 @@
   "totalStudents": 11,
   "discountPrice": 11.99,
   "originalPrice": 129.99,
-  "numViews": 0,
+  "numViews": 135,
   "curriculum": [],
   "title": "Unreal Engine 4: The Complete Beginner's Course",
   "subtitle": "Learn Video Game Development & How To Design a Game From Scratch Using UE4",
@@ -7435,7 +7435,7 @@
     "$date": "2020-12-13T09:20:21.622Z"
   },
   "updatedAt": {
-    "$date": "2020-12-13T09:20:22.395Z"
+    "$date": "2020-12-13T09:37:08.486Z"
   },
   "__v": 1,
   "field": {
@@ -7529,7 +7529,7 @@
   "totalStudents": 12,
   "discountPrice": 11.99,
   "originalPrice": 129.99,
-  "numViews": 0,
+  "numViews": 122,
   "curriculum": [],
   "title": "Unreal Engine 4 Mastery: Create Multiplayer Games with C++",
   "subtitle": "Unleash the power of C++ and Blueprint to develop Multiplayer Games with AI in this Epic Games-approved course.",
@@ -7540,7 +7540,7 @@
     "$date": "2020-12-13T09:20:22.469Z"
   },
   "updatedAt": {
-    "$date": "2020-12-13T09:20:23.308Z"
+    "$date": "2020-12-13T09:37:08.509Z"
   },
   "__v": 1,
   "field": {
@@ -7634,7 +7634,7 @@
   "totalStudents": 12,
   "discountPrice": 11.99,
   "originalPrice": 129.99,
-  "numViews": 0,
+  "numViews": 116,
   "curriculum": [],
   "title": "Unity Game Development Build 2D & 3D Games",
   "subtitle": "Learn Unity game design & 2D & 3D game development & make your own C# games in Unity 3D",
@@ -7645,7 +7645,7 @@
     "$date": "2020-12-13T09:20:23.381Z"
   },
   "updatedAt": {
-    "$date": "2020-12-13T09:20:24.155Z"
+    "$date": "2020-12-13T09:37:08.456Z"
   },
   "__v": 1,
   "field": {
@@ -7739,7 +7739,7 @@
   "totalStudents": 12,
   "discountPrice": 11.99,
   "originalPrice": 131.99,
-  "numViews": 0,
+  "numViews": 118,
   "curriculum": [],
   "title": "Master Unity By Building 6 Fully Featured Games From Scratch",
   "subtitle": "Learn How To Plan, Design, Create And Publish Your Games On Any Platform Using Unity Game Engine",
@@ -7750,7 +7750,7 @@
     "$date": "2020-12-13T09:20:24.231Z"
   },
   "updatedAt": {
-    "$date": "2020-12-13T09:20:25.064Z"
+    "$date": "2020-12-13T09:37:08.501Z"
   },
   "__v": 1,
   "field": {
@@ -7844,7 +7844,7 @@
   "totalStudents": 12,
   "discountPrice": 11.99,
   "originalPrice": 99.99,
-  "numViews": 0,
+  "numViews": 121,
   "curriculum": [],
   "title": "Discovering Godot: Make Video Games in Python-like GDScript",
   "subtitle": "Game development with Godot Engine 3.1 :: Learn to code in Python-like GDScript",
@@ -7855,7 +7855,7 @@
     "$date": "2020-12-13T09:20:25.136Z"
   },
   "updatedAt": {
-    "$date": "2020-12-13T09:20:25.918Z"
+    "$date": "2020-12-13T09:37:08.444Z"
   },
   "__v": 1,
   "field": {
@@ -7949,7 +7949,7 @@
   "totalStudents": 12,
   "discountPrice": 11.99,
   "originalPrice": 129.99,
-  "numViews": 0,
+  "numViews": 123,
   "curriculum": [],
   "title": "Unreal Engine Blueprint Game Developer",
   "subtitle": "Code Your First Video Game in 100 minutes with Visual Scripting. Created in collaboration with Epic Games.",
@@ -7960,7 +7960,7 @@
     "$date": "2020-12-13T09:20:25.996Z"
   },
   "updatedAt": {
-    "$date": "2020-12-13T09:20:26.779Z"
+    "$date": "2020-12-13T09:37:08.439Z"
   },
   "__v": 1,
   "field": {
@@ -8051,7 +8051,7 @@
   "totalStudents": 11,
   "discountPrice": 13.99,
   "originalPrice": 149.99,
-  "numViews": 0,
+  "numViews": 122,
   "curriculum": [],
   "title": "The Ultimate Guide to 2D Mobile Game Development with Unity",
   "subtitle": "Created in partnership with Unity Technologies: Master C#, Unity Ads, 2D mobile game development, and publishing",
@@ -8062,7 +8062,7 @@
     "$date": "2020-12-13T09:20:26.852Z"
   },
   "updatedAt": {
-    "$date": "2020-12-13T09:20:27.567Z"
+    "$date": "2020-12-13T09:37:08.349Z"
   },
   "__v": 1,
   "field": {
@@ -8156,7 +8156,7 @@
   "totalStudents": 12,
   "discountPrice": 11.99,
   "originalPrice": 129.99,
-  "numViews": 0,
+  "numViews": 110,
   "curriculum": [],
   "title": "Learn To Create An RPG Game In Unity",
   "subtitle": "Game development made easy. Learn C# using Unity and create your very own classic RPG!",
@@ -8167,7 +8167,7 @@
     "$date": "2020-12-13T09:20:27.649Z"
   },
   "updatedAt": {
-    "$date": "2020-12-13T09:20:28.484Z"
+    "$date": "2020-12-13T09:37:08.483Z"
   },
   "__v": 1,
   "field": {
@@ -8264,7 +8264,7 @@
   "totalStudents": 13,
   "discountPrice": 11.99,
   "originalPrice": 129.99,
-  "numViews": 0,
+  "numViews": 129,
   "curriculum": [],
   "title": "Blender Character Creator v2.0 for Video Games Design",
   "subtitle": "Model Video Game Characters. Use The Sculpt Tool To Shape, Add Texture, Rig & Animate Video Game Characters",
@@ -8275,7 +8275,7 @@
     "$date": "2020-12-13T09:20:28.560Z"
   },
   "updatedAt": {
-    "$date": "2020-12-13T09:20:29.402Z"
+    "$date": "2020-12-13T09:37:08.512Z"
   },
   "__v": 1,
   "field": {
@@ -8369,7 +8369,7 @@
   "totalStudents": 12,
   "discountPrice": 11.99,
   "originalPrice": 34.99,
-  "numViews": 0,
+  "numViews": 111,
   "curriculum": [],
   "title": "Learn To Code By Making a 2D Platformer in Unity",
   "subtitle": "Game development made easy. Learn C# using Unity and create your very own 2D Platformer",
@@ -8380,7 +8380,7 @@
     "$date": "2020-12-13T09:20:29.488Z"
   },
   "updatedAt": {
-    "$date": "2020-12-13T09:20:30.265Z"
+    "$date": "2020-12-13T09:37:08.499Z"
   },
   "__v": 1,
   "field": {

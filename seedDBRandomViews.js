@@ -19,7 +19,7 @@ async function seedDB() {
     // for (var k = 1; k <= 10; k++) {
     //     courses[k].numViews = 0;
     // }
-    // console.log("numViews set to 0");
+    // console.log("Setting numViews to 0.....");
     // for (var k = 1; k <= 10000; k++) {
     //     var i = Math.floor(Math.random() * courses.length);
     //     courses[i].numViews++;
@@ -28,12 +28,12 @@ async function seedDB() {
 
     // console.log("finished !!!");
 
-    const brendinSwanepoel = await User.findOne({ name: "Brendin Swanepoel" });
-    const theModernPython3Bootcamp = await Course.findOne({ title: "The Modern Python 3 Bootcamp" });
-    theModernPython3Bootcamp.students.push(brendinSwanepoel);
-    brendinSwanepoel.enrolledCourses.push(theModernPython3Bootcamp);
-    await theModernPython3Bootcamp.save();
-    await brendinSwanepoel.save();
+    // const brendinSwanepoel = await User.findOne({ name: "Brendin Swanepoel" });
+    // const theModernPython3Bootcamp = await Course.findOne({ title: "The Modern Python 3 Bootcamp" });
+    // theModernPython3Bootcamp.students.push(brendinSwanepoel);
+    // brendinSwanepoel.enrolledCourses.push(theModernPython3Bootcamp);
+    // await theModernPython3Bootcamp.save();
+    // await brendinSwanepoel.save();
 
 }
 
