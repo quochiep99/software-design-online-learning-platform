@@ -18,7 +18,7 @@ router.get("/", async (req, res) => {
     Course.paginate({ field: field._id }, options, (err, result) => {
       const courses = result.docs;
       res.render("courses/index", {
-        result: result        
+        result: result
       });
     });
   } else {
