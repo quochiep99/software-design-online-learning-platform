@@ -18,7 +18,8 @@ router.get("/", async (req, res) => {
         gte(new Date(new Date().getTime() - (7 * 24 * 60 * 60 * 1000))).
         limit(4).
         populate("field").
-        populate("instructor");
+        populate("instructor").
+        populate("students");
 
 
     const mostViewedCourses = await Course.
