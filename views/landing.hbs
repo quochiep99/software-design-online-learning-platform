@@ -355,17 +355,25 @@
                     <th>
                         Total students
                     </th>
+                    <th>
+                        Last Updated
+                    </th>
                 </tr>
             </thead>
             <tbody>
                 {{#each mostRegisteredFields}}
                 <tr>
                     <td class="options">
-                        <a href="/it/{{this.name}}/courses/"><i class="fas fa-graduation-cap"></i></a>
-                        <span class="item_cart">{{getFieldName this.name}}</span>
+                        <a href="/it/{{this.name}}/courses/">
+                            <i class="fas fa-graduation-cap"></i>
+                            <span class="item_cart">{{getFieldName this.name}}</span>
+                        </a>
                     </td>
                     <td>
                         {{this.totalStudents}}
+                    </td>
+                    <td>
+                        {{this.updatedAt}}
                     </td>
                 </tr>
                 {{/each}}
