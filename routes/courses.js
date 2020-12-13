@@ -1,7 +1,6 @@
 const express = require("express");
 const Course = require("../models/course");
 const Field = require("../models/field");
-const moment = require("moment");
 
 const router = express.Router({ mergeParams: true });
 
@@ -74,19 +73,7 @@ router.get("/:id", async (req, res) => {
       course.numViews++;
       await course.save();
       return res.render("courses/show", {
-        course: course,
-        helpers: {
-          getLastUpdatedString: (date) => {
-            const newDate = new Date(date);
-            // return newDate.getDate() + "/" + (newDate.getMonth() + 1) + "/" + newDate.getFullYear();
-            const [hour, minute, second] = newDate.toLocaleTimeString("en-US").split(/:| /);
-            // return hour + "h : " + minute + "m : " + second + "s    " + newDate.toDateString();
-            return newDate.toTimeString();
-          },
-          calculateReviewTime: (date) => {
-            return moment(date).fromNow();
-          }
-        }
+        course: course
       });
     }
   }

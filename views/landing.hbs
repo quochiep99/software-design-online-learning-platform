@@ -96,7 +96,7 @@
                     </div>
                 </div>
                 <ul>
-                    <li><i class="icon_clock_alt"></i> 1h 30min</li>
+                    <!-- <li><i class="icon_clock_alt"></i> 1h 30min</li> -->
                     <li><i class="fas fa-file-signature"></i> {{this.totalStudents}}</li>
                     <li><a href="#">Enroll now</a></li>
                 </ul>
@@ -147,7 +147,7 @@
                     </div>
                 </div>
                 <ul>
-                    <li><i class="icon_clock_alt"></i> 1h 30min</li>
+                    <!-- <li><i class="icon_clock_alt"></i> 1h 30min</li> -->
                     <li><i class="far fa-eye"></i> {{this.numViews}}</li>
                     <li><a href="#">Enroll now</a></li>
                 </ul>
@@ -191,8 +191,8 @@
                     </div>
                 </div>
                 <ul>
-                    <li><i class="icon_clock_alt"></i> 1h 30min</li>
-                    <li><i class="far fa-eye"></i> {{this.numViews}}</li>
+                    <!-- <li><i class="far fa-eye"></i> {{this.numViews}}</li> -->
+                    <li><i class="fas fa-pen-alt"></i> {{getTimeAgo this.updatedAt}}</li>
                     <li><a href="#">Enroll now</a></li>
                 </ul>
             </div>
@@ -238,7 +238,7 @@
                         {{this.totalStudents}}
                     </td>
                     <td>
-                        {{this.updatedAt}}
+                        {{getTimeAgo this.updatedAt}}
                     </td>
                 </tr>
                 {{/each}}

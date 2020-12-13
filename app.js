@@ -4,6 +4,7 @@ const mongoose = require('mongoose');
 const bodyParser = require('body-parser');
 const passport = require("passport");
 const session = require('express-session');
+const moment = require("moment");
 
 //requiring routes
 const courseRoutes = require("./routes/courses");
@@ -29,6 +30,16 @@ app.engine('.hbs', exphbs({
         allowProtoMethodsByDefault: true
     },
     helpers: {
+        getTimeAgo: (date) => {
+            return moment(date).fromNow();
+        },
+        getLastUpdatedString: (date) => {
+            const newDate = new Date(date);
+            // return newDate.getDate() + "/" + (newDate.getMonth() + 1) + "/" + newDate.getFullYear();
+            const [hour, minute, second] = newDate.toLocaleTimeString("en-US").split(/:| /);
+            // return hour + "h : " + minute + "m : " + second + "s    " + newDate.toDateString();
+            return newDate.toTimeString();
+        },
         calculateDiscountPercentage: (discountPrice, originalPrice) => {
             return ((100 * (originalPrice - discountPrice)) / originalPrice).toFixed(0);
         },
