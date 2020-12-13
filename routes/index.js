@@ -6,6 +6,7 @@ const Field = require("../models/field");
 const bcrypt = require('bcryptjs');
 const passport = require("passport");
 const LocalStrategy = require("passport-local").Strategy;
+
 // Home page
 router.get("/", async (req, res) => {
 
@@ -19,8 +20,6 @@ router.get("/", async (req, res) => {
         limit(4).
         populate("field").
         populate("instructor");
-        
-
 
     const mostViewedCourses = await Course.
         find({}).
@@ -133,6 +132,79 @@ router.get("/logout", (req, res) => {
     res.redirect("/");
 })
 
+// Search
+router.get("/search", async (req, res) => {
+    // create indexes for fields courses.title and fields.name to perform a full-text search
+    await Course.createIndexes({ title: "text" });
+    await Field.createIndexes({ name: "text" });
+    const q = req.query.q;
 
+    // find courses
+    // const courses = await Course.find({ $text: { $search: q } });
+
+    // find fields
+    // const fields = await Field.find({ $text: { $search: q } });
+
+
+    const requestedPage = req.query.page || 1;
+    const requestedLimit = parseInt(req.query.limit || 3);
+    const options = {
+        page: requestedPage,
+        limit: requestedLimit,
+        populate: ["field", "instructor", "reviews"],
+    };
+    Course.paginate({ $text: { $search: q } }, options, (err, result) => {
+        const courses = result.docs;
+        res.render("courses/index", {
+            result: result,
+        });
+    });
+
+    // const fieldName = req.params.field;
+    // const field = await Field.findOne({ name: fieldName });
+    // if (field) {
+    //     const requestedPage = req.query.page || 1;
+    //     const requestedLimit = parseInt(req.query.limit || 3);
+    //     const options = {
+    //         page: requestedPage,
+    //         limit: requestedLimit,
+    //         populate: ["field", "instructor", "reviews"],
+    //     };
+    //     Course.paginate({ field: field._id }, options, (err, result) => {
+    //         const courses = result.docs;
+    //         res.render("courses/index", {
+    //             result: result,
+    //             courses: courses,
+    //             helpers: {
+    //                 generatePagination: (numPages) => {
+    //                     var ret = "";
+    //                     var previous = `<li class="left-etc"><a>&laquo;</a></li>`;
+    //                     var next = `<li><a>&raquo;</a></li>`;
+
+    //                     // if there is a previous page
+    //                     if (result.hasPrevPage) {
+    //                         previous = `<li class="left-etc"><a href="/it/${field.name}/courses/?page=${result.prevPage}&limit=${result.limit}">&laquo;</a></li>`;
+    //                     }
+    //                     if (result.hasNextPage) {
+    //                         next = `<li><a href="/it/${field.name}/courses/?page=${result.nextPage}&limit=${result.limit}">&raquo;</a></li>`;
+    //                     }
+    //                     for (var i = 1; i <= numPages; i++) {
+    //                         if (i === result.page) {
+    //                             // make the current page active
+    //                             ret += `<li class="active"><span>${result.page}</span></li>\n`;
+    //                         } else {
+    //                             ret += `<li><a href="/it/${field.name}/courses/?page=${i}&limit=${result.limit}">${i}</a></li>\n`;
+    //                         }
+    //                     }
+
+    //                     return previous + "\n" + ret + next + "\n";
+    //                 },
+    //             },
+    //         });
+    //     });
+    // } else {
+    //     res.redirect("/");
+    // }
+});
 
 module.exports = router;

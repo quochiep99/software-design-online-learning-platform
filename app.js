@@ -43,8 +43,33 @@ app.engine('.hbs', exphbs({
         calculateDiscountPercentage: (discountPrice, originalPrice) => {
             return ((100 * (originalPrice - discountPrice)) / originalPrice).toFixed(0);
         },
+
+        // function to convert i.e. 'web-development' into 'Web Development'
         getFieldName: (fieldName) => {
             return fieldName.replace("-", " ").replace(/(^\w{1})|(\s{1}\w{1})/g, match => match.toUpperCase());
+        },
+        generatePagination: (result) => {
+            var ret = "";
+            var previous = `<li class="left-etc"><a>&laquo;</a></li>`;
+            var next = `<li><a>&raquo;</a></li>`;
+
+            // if there is a previous page
+            if (result.hasPrevPage) {
+                previous = `<li class="left-etc"><a href="/it/${result.docs[0].field.name}/courses/?page=${result.prevPage}&limit=${result.limit}">&laquo;</a></li>`;
+            }
+            if (result.hasNextPage) {
+                next = `<li><a href="/it/${result.docs[0].field.name}/courses/?page=${result.nextPage}&limit=${result.limit}">&raquo;</a></li>`;
+            }
+            for (var i = 1; i <= result.totalPages; i++) {
+                if (i === result.page) {
+                    // make the current page active
+                    ret += `<li class="active"><span>${result.page}</span></li>\n`;
+                } else {
+                    ret += `<li><a href="/it/${result.docs[0].field.name}/courses/?page=${i}&limit=${result.limit}">${i}</a></li>\n`;
+                }
+            }
+
+            return previous + "\n" + ret + next + "\n";
         }
     }
 }));
