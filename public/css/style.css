@@ -6518,10 +6518,10 @@ div#list_sidebar>div em {
   -webkit-tap-highlight-color: rgba(0, 0, 0, 0)
 }
 
-div.margin_30_95>.row>div em {
+div.margin_30_95>.row>div em, div.center em, div.owl-stage>div em {
   text-decoration: line-through;
   margin: 0 10px;
-  font-style: normal;
+  font-style: italic;
   -webkit-font-smoothing: antialiased;
   box-sizing: border-box;
   /* color: #3f9fff; */

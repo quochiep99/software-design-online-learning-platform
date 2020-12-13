@@ -9,6 +9,18 @@ const LocalStrategy = require("passport-local").Strategy;
 // Home page
 router.get("/", async (req, res) => {
 
+    // retrieve the most featured courses within the last 7 days
+    // a course is featured when it has the most students registrations
+    const mostFeaturedCourses = await Course.
+        find({}).
+        sort("-students.length").
+        where("updatedAt").
+        gte(new Date(new Date().getTime() - (7 * 24 * 60 * 60 * 1000))).
+        limit(4).
+        populate("field").
+        populate("instructor");
+
+
     const mostViewedCourses = await Course.
         find({}).
         sort("-numViews").
@@ -21,13 +33,13 @@ router.get("/", async (req, res) => {
         sort("-updatedAt").
         limit(10).
         populate("field").
-        populate("instructor");
+        populate("instructor");        
 
     // retrieve the most registered fields within the last 7 days
     const mostRegisteredFields = await Field.
         find({}).
         where("updatedAt").
-        gte(new Date(new Date().getTime() - (7 * 24 * 60 * 60 * 1000))).
+        gte(new Date(new Date().getTime() - (7 * 24 * 60 * 60 * 1000))).        
         sort("-totalStudents");
 
 
@@ -35,7 +47,8 @@ router.get("/", async (req, res) => {
     res.render("landing", {
         mostViewedCourses: mostViewedCourses,
         mostRecentCourses: mostRecentCourses,
-        mostRegisteredFields: mostRegisteredFields
+        mostRegisteredFields: mostRegisteredFields,
+        mostFeaturedCourses: mostFeaturedCourses
     });
 })
 
