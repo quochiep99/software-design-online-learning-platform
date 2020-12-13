@@ -16,23 +16,23 @@ async function seedDB() {
     const fields = await Field.find({});
 
     // setting all views to 0
-    // for (var k = 1; k <= 10; k++) {
-    //     courses[k].numViews = 0;
-    // }
-    // console.log("numViews set to 0");
-    // for (var k = 1; k <= 1000; k++) {
-    //     var i = Math.floor(Math.random() * courses.length);
-    //     courses[i].numViews++;
-    //     await courses[i].save();
-    // }
-
-    // console.log("finished !!!");
-
-    for (var i = 0; i < fields.length; i++) {
-        fields[i].totalStudents = 0;
-        await fields[i].calculateTotalStudents();
-        await fields[i].save();
+    for (var k = 1; k <= 10; k++) {
+        courses[k].numViews = 0;
     }
+    console.log("numViews set to 0");
+    for (var k = 1; k <= 10000; k++) {
+        var i = Math.floor(Math.random() * courses.length);
+        courses[i].numViews++;
+        await courses[i].save();
+    }
+
+    console.log("finished !!!");
+
+    // for (var i = 0; i < fields.length; i++) {
+    //     fields[i].totalStudents = 0;
+    //     await fields[i].calculateTotalStudents();
+    //     await fields[i].save();
+    // }
 
 
 
