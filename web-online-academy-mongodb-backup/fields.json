@@ -1,281 +1,316 @@
 [{
   "_id": {
-    "$oid": "5fd472d51fd3693bf4381c5b"
+    "$oid": "5fd5dc055c03e7455418d6d1"
   },
   "courses": [
     {
-      "$oid": "5fd472d51fd3693bf4381c5c"
+      "$oid": "5fd5dc055c03e7455418d6d2"
     },
     {
-      "$oid": "5fd472d61fd3693bf4381c84"
+      "$oid": "5fd5dc065c03e7455418d6fa"
     },
     {
-      "$oid": "5fd472d71fd3693bf4381cab"
+      "$oid": "5fd5dc075c03e7455418d721"
     },
     {
-      "$oid": "5fd472d81fd3693bf4381cd2"
+      "$oid": "5fd5dc085c03e7455418d748"
     },
     {
-      "$oid": "5fd472d81fd3693bf4381cf9"
+      "$oid": "5fd5dc095c03e7455418d76f"
     },
     {
-      "$oid": "5fd472d91fd3693bf4381d20"
+      "$oid": "5fd5dc0a5c03e7455418d796"
     },
     {
-      "$oid": "5fd472da1fd3693bf4381d47"
+      "$oid": "5fd5dc0a5c03e7455418d7bd"
     },
     {
-      "$oid": "5fd472db1fd3693bf4381d6c"
+      "$oid": "5fd5dc0b5c03e7455418d7e2"
     },
     {
-      "$oid": "5fd472dc1fd3693bf4381d91"
+      "$oid": "5fd5dc0c5c03e7455418d807"
     },
     {
-      "$oid": "5fd472dd1fd3693bf4381db8"
+      "$oid": "5fd5dc0d5c03e7455418d82e"
     },
     {
-      "$oid": "5fd472de1fd3693bf4381ddf"
+      "$oid": "5fd5dc0e5c03e7455418d855"
     },
     {
-      "$oid": "5fd472df1fd3693bf4381e06"
+      "$oid": "5fd5dc0f5c03e7455418d87c"
     },
     {
-      "$oid": "5fd472e01fd3693bf4381e2b"
+      "$oid": "5fd5dc0f5c03e7455418d8a1"
     },
     {
-      "$oid": "5fd472e11fd3693bf4381e52"
+      "$oid": "5fd5dc105c03e7455418d8c8"
     },
     {
-      "$oid": "5fd472e21fd3693bf4381e77"
+      "$oid": "5fd5dc115c03e7455418d8ed"
     },
     {
-      "$oid": "5fd472e31fd3693bf4381e9e"
+      "$oid": "5fd5dc125c03e7455418d914"
     }
   ],
+  "totalStudents": 192,
   "name": "web-development",
+  "createdAt": {
+    "$date": "2020-12-13T09:16:53.605Z"
+  },
+  "updatedAt": {
+    "$date": "2020-12-13T09:17:07.332Z"
+  },
   "__v": 16
 },{
   "_id": {
-    "$oid": "5fd4730c8643ed1bbc67458f"
+    "$oid": "5fd5dc2f5396d43e985d1cf4"
   },
   "courses": [
     {
-      "$oid": "5fd4730c8643ed1bbc674590"
+      "$oid": "5fd5dc2f5396d43e985d1cf5"
     },
     {
-      "$oid": "5fd4730d8643ed1bbc6745b6"
+      "$oid": "5fd5dc305396d43e985d1d1b"
     },
     {
-      "$oid": "5fd4730e8643ed1bbc6745db"
+      "$oid": "5fd5dc305396d43e985d1d40"
     },
     {
-      "$oid": "5fd4730f8643ed1bbc674600"
+      "$oid": "5fd5dc315396d43e985d1d65"
     },
     {
-      "$oid": "5fd473108643ed1bbc674627"
+      "$oid": "5fd5dc325396d43e985d1d8c"
     },
     {
-      "$oid": "5fd473118643ed1bbc67464c"
+      "$oid": "5fd5dc335396d43e985d1db1"
     },
     {
-      "$oid": "5fd473128643ed1bbc674671"
+      "$oid": "5fd5dc345396d43e985d1dd6"
     },
     {
-      "$oid": "5fd473128643ed1bbc674696"
+      "$oid": "5fd5dc355396d43e985d1dfb"
     },
     {
-      "$oid": "5fd473138643ed1bbc6746bb"
+      "$oid": "5fd5dc355396d43e985d1e20"
     },
     {
-      "$oid": "5fd473148643ed1bbc6746e2"
+      "$oid": "5fd5dc365396d43e985d1e47"
     },
     {
-      "$oid": "5fd473158643ed1bbc674707"
+      "$oid": "5fd5dc375396d43e985d1e6c"
     },
     {
-      "$oid": "5fd473168643ed1bbc67472c"
+      "$oid": "5fd5dc385396d43e985d1e91"
     },
     {
-      "$oid": "5fd473178643ed1bbc674751"
+      "$oid": "5fd5dc395396d43e985d1eb6"
     },
     {
-      "$oid": "5fd473178643ed1bbc674778"
+      "$oid": "5fd5dc3a5396d43e985d1edd"
     },
     {
-      "$oid": "5fd473188643ed1bbc67479f"
+      "$oid": "5fd5dc3a5396d43e985d1f04"
     },
     {
-      "$oid": "5fd473198643ed1bbc6747c6"
+      "$oid": "5fd5dc3b5396d43e985d1f2b"
     }
   ],
+  "totalStudents": 192,
   "name": "mobile-development",
+  "createdAt": {
+    "$date": "2020-12-13T09:17:35.150Z"
+  },
+  "updatedAt": {
+    "$date": "2020-12-13T09:17:48.695Z"
+  },
   "__v": 16
 },{
   "_id": {
-    "$oid": "5fd47327af9d88426486e871"
+    "$oid": "5fd5dca14c343e278c612646"
   },
   "courses": [
     {
-      "$oid": "5fd47327af9d88426486e872"
+      "$oid": "5fd5dca14c343e278c612647"
     },
     {
-      "$oid": "5fd47328af9d88426486e898"
+      "$oid": "5fd5dca24c343e278c61266d"
     },
     {
-      "$oid": "5fd47329af9d88426486e8bd"
+      "$oid": "5fd5dca34c343e278c612692"
     },
     {
-      "$oid": "5fd4732aaf9d88426486e8e2"
+      "$oid": "5fd5dca44c343e278c6126b7"
     },
     {
-      "$oid": "5fd4732baf9d88426486e909"
+      "$oid": "5fd5dca54c343e278c6126de"
     },
     {
-      "$oid": "5fd4732caf9d88426486e92e"
+      "$oid": "5fd5dca64c343e278c612703"
     },
     {
-      "$oid": "5fd4732caf9d88426486e955"
+      "$oid": "5fd5dca74c343e278c61272a"
     },
     {
-      "$oid": "5fd4732daf9d88426486e97c"
+      "$oid": "5fd5dca74c343e278c612751"
     },
     {
-      "$oid": "5fd4732eaf9d88426486e9a4"
+      "$oid": "5fd5dca84c343e278c612779"
     },
     {
-      "$oid": "5fd4732faf9d88426486e9c9"
+      "$oid": "5fd5dca94c343e278c61279e"
     },
     {
-      "$oid": "5fd47330af9d88426486e9f0"
+      "$oid": "5fd5dcaa4c343e278c6127c5"
     },
     {
-      "$oid": "5fd47331af9d88426486ea19"
+      "$oid": "5fd5dcab4c343e278c6127ee"
     },
     {
-      "$oid": "5fd47332af9d88426486ea3e"
+      "$oid": "5fd5dcac4c343e278c612813"
     },
     {
-      "$oid": "5fd47332af9d88426486ea5f"
+      "$oid": "5fd5dcad4c343e278c612834"
     },
     {
-      "$oid": "5fd47333af9d88426486ea82"
+      "$oid": "5fd5dcad4c343e278c612857"
     },
     {
-      "$oid": "5fd47334af9d88426486eaa5"
+      "$oid": "5fd5dcae4c343e278c61287a"
     }
   ],
+  "totalStudents": 190,
   "name": "programming-languages",
+  "createdAt": {
+    "$date": "2020-12-13T09:19:29.743Z"
+  },
+  "updatedAt": {
+    "$date": "2020-12-13T09:19:43.397Z"
+  },
   "__v": 16
 },{
   "_id": {
-    "$oid": "5fd4734df367420938d967f8"
+    "$oid": "5fd5dcb946488b2f200480ce"
   },
   "courses": [
     {
-      "$oid": "5fd4734df367420938d967f9"
+      "$oid": "5fd5dcb946488b2f200480cf"
     },
     {
-      "$oid": "5fd4734ef367420938d96821"
+      "$oid": "5fd5dcba46488b2f200480f7"
     },
     {
-      "$oid": "5fd4734ff367420938d96846"
+      "$oid": "5fd5dcbb46488b2f2004811c"
     },
     {
-      "$oid": "5fd47350f367420938d9686d"
+      "$oid": "5fd5dcbc46488b2f20048143"
     },
     {
-      "$oid": "5fd47351f367420938d96892"
+      "$oid": "5fd5dcbc46488b2f20048168"
     },
     {
-      "$oid": "5fd47352f367420938d968b7"
+      "$oid": "5fd5dcbd46488b2f2004818d"
     },
     {
-      "$oid": "5fd47353f367420938d968dc"
+      "$oid": "5fd5dcbe46488b2f200481b2"
     },
     {
-      "$oid": "5fd47353f367420938d96903"
+      "$oid": "5fd5dcbf46488b2f200481d9"
     },
     {
-      "$oid": "5fd47354f367420938d96928"
+      "$oid": "5fd5dcc046488b2f200481fe"
     },
     {
-      "$oid": "5fd47355f367420938d9694b"
+      "$oid": "5fd5dcc146488b2f20048221"
     },
     {
-      "$oid": "5fd47356f367420938d96972"
+      "$oid": "5fd5dcc146488b2f20048248"
     },
     {
-      "$oid": "5fd47357f367420938d96997"
+      "$oid": "5fd5dcc246488b2f2004826d"
     },
     {
-      "$oid": "5fd47358f367420938d969bc"
+      "$oid": "5fd5dcc346488b2f20048292"
     },
     {
-      "$oid": "5fd47358f367420938d969e1"
+      "$oid": "5fd5dcc446488b2f200482b7"
     },
     {
-      "$oid": "5fd47359f367420938d96a06"
+      "$oid": "5fd5dcc546488b2f200482dc"
     },
     {
-      "$oid": "5fd4735af367420938d96a2e"
+      "$oid": "5fd5dcc646488b2f20048304"
     }
   ],
+  "totalStudents": 192,
   "name": "data-science",
+  "createdAt": {
+    "$date": "2020-12-13T09:19:53.188Z"
+  },
+  "updatedAt": {
+    "$date": "2020-12-13T09:20:07.102Z"
+  },
   "__v": 16
 },{
   "_id": {
-    "$oid": "5fd4736617b2243ec0302437"
+    "$oid": "5fd5dcd0ef47d24b80a15cfa"
   },
   "courses": [
     {
-      "$oid": "5fd4736617b2243ec0302438"
+      "$oid": "5fd5dcd0ef47d24b80a15cfb"
     },
     {
-      "$oid": "5fd4736717b2243ec0302462"
+      "$oid": "5fd5dcd1ef47d24b80a15d25"
     },
     {
-      "$oid": "5fd4736817b2243ec0302489"
+      "$oid": "5fd5dcd2ef47d24b80a15d4c"
     },
     {
-      "$oid": "5fd4736917b2243ec03024ac"
+      "$oid": "5fd5dcd3ef47d24b80a15d6f"
     },
     {
-      "$oid": "5fd4736a17b2243ec03024d3"
+      "$oid": "5fd5dcd3ef47d24b80a15d96"
     },
     {
-      "$oid": "5fd4736b17b2243ec03024fa"
+      "$oid": "5fd5dcd4ef47d24b80a15dbd"
     },
     {
-      "$oid": "5fd4736b17b2243ec030251d"
+      "$oid": "5fd5dcd5ef47d24b80a15de0"
     },
     {
-      "$oid": "5fd4736c17b2243ec0302542"
+      "$oid": "5fd5dcd6ef47d24b80a15e05"
     },
     {
-      "$oid": "5fd4736d17b2243ec0302569"
+      "$oid": "5fd5dcd7ef47d24b80a15e2c"
     },
     {
-      "$oid": "5fd4736e17b2243ec030258e"
+      "$oid": "5fd5dcd8ef47d24b80a15e51"
     },
     {
-      "$oid": "5fd4736f17b2243ec03025b5"
+      "$oid": "5fd5dcd9ef47d24b80a15e78"
     },
     {
-      "$oid": "5fd4737017b2243ec03025da"
+      "$oid": "5fd5dcd9ef47d24b80a15e9d"
     },
     {
-      "$oid": "5fd4737117b2243ec03025ff"
+      "$oid": "5fd5dcdaef47d24b80a15ec2"
     },
     {
-      "$oid": "5fd4737117b2243ec0302622"
+      "$oid": "5fd5dcdbef47d24b80a15ee5"
     },
     {
-      "$oid": "5fd4737217b2243ec0302649"
+      "$oid": "5fd5dcdcef47d24b80a15f0c"
     },
     {
-      "$oid": "5fd4737317b2243ec0302671"
+      "$oid": "5fd5dcddef47d24b80a15f34"
     }
   ],
+  "totalStudents": 191,
   "name": "game-development",
+  "createdAt": {
+    "$date": "2020-12-13T09:20:16.067Z"
+  },
+  "updatedAt": {
+    "$date": "2020-12-13T09:20:30.266Z"
+  },
   "__v": 16
 }]

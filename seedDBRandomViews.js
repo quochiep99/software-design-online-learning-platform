@@ -16,25 +16,24 @@ async function seedDB() {
     const fields = await Field.find({});
 
     // setting all views to 0
-    for (var k = 1; k <= 10; k++) {
-        courses[k].numViews = 0;
-    }
-    console.log("numViews set to 0");
-    for (var k = 1; k <= 10000; k++) {
-        var i = Math.floor(Math.random() * courses.length);
-        courses[i].numViews++;
-        await courses[i].save();
-    }
-
-    console.log("finished !!!");
-
-    // for (var i = 0; i < fields.length; i++) {
-    //     fields[i].totalStudents = 0;
-    //     await fields[i].calculateTotalStudents();
-    //     await fields[i].save();
+    // for (var k = 1; k <= 10; k++) {
+    //     courses[k].numViews = 0;
+    // }
+    // console.log("numViews set to 0");
+    // for (var k = 1; k <= 10000; k++) {
+    //     var i = Math.floor(Math.random() * courses.length);
+    //     courses[i].numViews++;
+    //     await courses[i].save();
     // }
 
+    // console.log("finished !!!");
 
+    const brendinSwanepoel = await User.findOne({ name: "Brendin Swanepoel" });
+    const theModernPython3Bootcamp = await Course.findOne({ title: "The Modern Python 3 Bootcamp" });
+    theModernPython3Bootcamp.students.push(brendinSwanepoel);
+    brendinSwanepoel.enrolledCourses.push(theModernPython3Bootcamp);
+    await theModernPython3Bootcamp.save();
+    await brendinSwanepoel.save();
 
 }
 

@@ -56,6 +56,10 @@ const CourseSchema = new Schema({
             ref: "User"
         }
     ],
+    totalStudents: {
+        type: Number,
+        default: 0
+    },
 
     // course's image    
     image1xURL: String,
