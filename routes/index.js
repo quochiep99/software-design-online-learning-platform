@@ -137,29 +137,38 @@ router.get("/search", async (req, res) => {
     // create indexes for fields courses.title and fields.name to perform a full-text search
     await Course.createIndexes({ title: "text" });
     await Field.createIndexes({ name: "text" });
+
     const q = req.query.q;
-
-    // find courses
-    // const courses = await Course.find({ $text: { $search: q } });
-
-    // find fields
-    // const fields = await Field.find({ $text: { $search: q } });
-
-
     const requestedPage = req.query.page || 1;
     const requestedLimit = parseInt(req.query.limit || 3);
+
     const options = {
         page: requestedPage,
         limit: requestedLimit,
         populate: ["field", "instructor", "reviews"]
     };
-    Course.paginate({ $text: { $search: q } },
-        options, (err, result) => {
-            res.render("courses/index", {
-                result: result,
-                query: q
-            });
-        });
+
+    const result = await Course.paginate({ $text: { $search: q } }, options);
+    const partiallySearchedCourses = await Course.find({ title: { $regex: new RegExp(q) } }).
+            populate("field").
+            populate("instructor").
+            populate("reviews");
+    if (result.docs.length > 0) {
+        for (var i = 0; i < partiallySearchedCourses.length; i++) {
+            if (result.docs.indexOf(partiallySearchedCourses[i] < 0)) {
+                result.docs.push(partiallySearchedCourses[i]);
+            }
+        }
+    } else {        
+        partiallySearchedCourses.forEach((e) => {
+            result.docs.push(e);
+        })
+
+    }
+    res.render("courses/index", {
+        result: result,
+        query: q
+    });
 });
 
 module.exports = router;

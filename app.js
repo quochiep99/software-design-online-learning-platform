@@ -49,53 +49,56 @@ app.engine('.hbs', exphbs({
             return fieldName.replace("-", " ").replace(/(^\w{1})|(\s{1}\w{1})/g, match => match.toUpperCase());
         },
         generatePagination: (result, query) => {
-            var ret = "";
+            if (result.docs.length > 0) {
+                var ret = "";
 
-            var previousHref = "";
-            var previous = `<li class="left-etc"><a>&laquo;</a></li>`;
+                var previousHref = "";
+                var previous = `<li class="left-etc"><a>&laquo;</a></li>`;
 
-            var nextHref = "";
-            var next = `<li><a>&raquo;</a></li>`;
-            if (!query) {
-                // if there is a previous page
-                if (result.hasPrevPage) {
-                    previousHref = `/it/${result.docs[0].field.name}/courses/?page=${result.prevPage}&limit=${result.limit}`;
-                    previous = `<li class="left-etc"><a href="${previousHref}">&laquo;</a></li>`;
-                }
-                if (result.hasNextPage) {
-                    nextHref = `/it/${result.docs[0].field.name}/courses/?page=${result.nextPage}&limit=${result.limit}`;
-                    next = `<li><a href="${nextHref}">&raquo;</a></li>`;
-                }
-                for (var i = 1; i <= result.totalPages; i++) {
-                    if (i === result.page) {
-                        // make the current page active
-                        ret += `<li class="active"><span>${result.page}</span></li>\n`;
-                    } else {
-                        ret += `<li><a href="/it/${result.docs[0].field.name}/courses/?page=${i}&limit=${result.limit}">${i}</a></li>\n`;
+                var nextHref = "";
+                var next = `<li><a>&raquo;</a></li>`;
+                if (!query) {
+                    // if there is a previous page
+                    if (result.hasPrevPage) {
+                        previousHref = `/it/${result.docs[0].field.name}/courses/?page=${result.prevPage}&limit=${result.limit}`;
+                        previous = `<li class="left-etc"><a href="${previousHref}">&laquo;</a></li>`;
+                    }
+                    if (result.hasNextPage) {
+                        nextHref = `/it/${result.docs[0].field.name}/courses/?page=${result.nextPage}&limit=${result.limit}`;
+                        next = `<li><a href="${nextHref}">&raquo;</a></li>`;
+                    }
+                    for (var i = 1; i <= result.totalPages; i++) {
+                        if (i === result.page) {
+                            // make the current page active
+                            ret += `<li class="active"><span>${result.page}</span></li>\n`;
+                        } else {
+                            ret += `<li><a href="/it/${result.docs[0].field.name}/courses/?page=${i}&limit=${result.limit}">${i}</a></li>\n`;
+                        }
+                    }
+                } else {
+                    // if there is a previous page
+                    if (result.hasPrevPage) {
+                        // /search/ ? q = ios & page=2 & limit=3
+                        previousHref = `/search/?q=${query}&page=${result.prevPage}&limit=${result.limit}`;
+                        previous = `<li class="left-etc"><a href="${previousHref}">&laquo;</a></li>`;
+                    }
+                    if (result.hasNextPage) {
+                        previousHref = `/search/?q=${query}&page=${result.nextPage}&limit=${result.limit}`;
+                        next = `<li><a href="${nextHref}">&raquo;</a></li>`;
+                    }
+                    for (var i = 1; i <= result.totalPages; i++) {
+                        if (i === result.page) {
+                            // make the current page active
+                            ret += `<li class="active"><span>${result.page}</span></li>\n`;
+                        } else {
+                            ret += `<li><a href="/search/?q=${query}&page=${i}&limit=${result.limit}">${i}</a></li>\n`;
+                        }
                     }
                 }
-            } else {
-                // if there is a previous page
-                if (result.hasPrevPage) {
-                    // /search/ ? q = ios & page=2 & limit=3
-                    previousHref = `/search/?q=${query}&page=${result.prevPage}&limit=${result.limit}`;
-                    previous = `<li class="left-etc"><a href="${previousHref}">&laquo;</a></li>`;
-                }
-                if (result.hasNextPage) {
-                    previousHref = `/search/?q=${query}&page=${result.nextPage}&limit=${result.limit}`;
-                    next = `<li><a href="${nextHref}">&raquo;</a></li>`;
-                }
-                for (var i = 1; i <= result.totalPages; i++) {
-                    if (i === result.page) {
-                        // make the current page active
-                        ret += `<li class="active"><span>${result.page}</span></li>\n`;
-                    } else {
-                        ret += `<li><a href="/search/?q=${query}&page=${i}&limit=${result.limit}">${i}</a></li>\n`;
-                    }
-                }
+
+                return previous + "\n" + ret + next + "\n";
             }
 
-            return previous + "\n" + ret + next + "\n";
         }
     }
 }));
