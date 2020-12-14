@@ -136,6 +136,7 @@
         <!-- /aside -->
 
         <div class="col-lg-9" id="list_sidebar">
+            {{#if result.docs}}
             {{#each result.docs}}
             <div class="box_list wow">
                 <div class="row no-gutters">
@@ -174,6 +175,13 @@
                 </div>
             </div>
             {{/each}}
+            {{else}}
+            <div class="main_title_2">
+                <span><em></em></span>
+                <h2>No Courses Found</h2>
+                <!-- <p>Cum doctus civibus efficiantur in imperdiet deterruisset.</p> -->
+            </div>
+            {{/if}}
 
             <div class="d-flex justify-content-center">
                 <ul class="pagination">
@@ -183,10 +191,11 @@
         </div>
         <!-- /col -->
     </div>
-    
+
 </div>
 
 <!-- Fields -->
+{{#if query}}
 {{#if fields}}
 <div class="container margin_30_95">
     <div class="main_title_2">
@@ -232,9 +241,16 @@
         </table>
 
     </div>
+    {{else}}
+    <div class="main_title_2">
+        <span><em></em></span>
+        <h2>No Fields Found</h2>
+        <!-- <p>Cum doctus civibus efficiantur in imperdiet deterruisset.</p> -->
+    </div>
 
 
 </div>
+{{/if}}
 {{/if}}
 <div class="bg_color_1">
     <div class="container margin_60_35">
@@ -261,7 +277,7 @@
                 </a>
             </div>
         </div>
-        
+
     </div>
     <!-- /container -->
 </div>

@@ -143,38 +143,45 @@ router.get("/search", async (req, res) => {
         limit: requestedLimit,
         populate: ["field", "instructor", "reviews"]
     };
-    
+
     // Search courses
     const result = await Course.paginate({ $text: { $search: q } }, options);
-    const partiallySearchedCourses = await Course.find({ title: { $regex: new RegExp(q) } }).
+    const partiallySearchedCourses = await Course.find({ title: { $regex: q, $options: "i" } }).
         populate("field").
         populate("instructor").
         populate("reviews");
-    if (result.docs.length > 0) {
-        for (var i = 0; i < partiallySearchedCourses.length; i++) {
-            if (result.docs.indexOf(partiallySearchedCourses[i] < 0)) {
-                result.docs.push(partiallySearchedCourses[i]);
+
+    for (var i = 0; i < partiallySearchedCourses.length; i++) {
+        var isContained = false;
+        for (var j = 0; j < result.docs.length; j++) {
+            // if fields contains partiallySearchedCourses[i]
+            if (result.docs[j].name === partiallySearchedCourses[i].name) {
+                isContained = true;
+                break;
             }
         }
-    } else {
-        partiallySearchedCourses.forEach((e) => {
-            result.docs.push(e);
-        })
+        if (!isContained) {
+            result.docs.push(partiallySearchedCourses[i]);
+        }
     }
     // Search fields
     const fields = await Field.find({ $text: { $search: q } });
     const partiallySearchedFields = await Field.find({ name: { $regex: new RegExp(q) } });
-    if (fields.length > 0) {
-        for (var i = 0; i < partiallySearchedFields.length; i++) {
-            if (fields.indexOf(partiallySearchedFields[i] < 0)) {
-                fields.push(partiallySearchedFields[i]);
+
+    for (var i = 0; i < partiallySearchedFields.length; i++) {
+        var isContained = false;
+        for (var j = 0; j < fields.length; j++) {
+            // if fields contains partiallySearchedFields[i]
+            if (fields[j].name === partiallySearchedFields[i].name) {
+                isContained = true;
+                break;
             }
         }
-    } else {
-        partiallySearchedFields.forEach((e) => {
-            fields.push(e);
-        })
+        if (!isContained) {
+            fields.push(partiallySearchedFields[i]);
+        }
     }
+
     res.render("courses/index", {
         result: result,
         query: q,
