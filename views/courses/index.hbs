@@ -183,9 +183,59 @@
         </div>
         <!-- /col -->
     </div>
-    <!-- /row -->
+    
 </div>
-<!-- /container -->
+
+<!-- Fields -->
+{{#if fields}}
+<div class="container margin_30_95">
+    <div class="main_title_2">
+        <span><em></em></span>
+        <h2>Fields Found</h2>
+        <!-- <p>Cum doctus civibus efficiantur in imperdiet deterruisset.</p> -->
+    </div>
+
+    <div class="box_cart">
+        <table class="table table-striped cart-list">
+            <thead>
+                <tr>
+                    <th>
+                        Fields
+                    </th>
+                    <th>
+                        Total students
+                    </th>
+                    <th>
+                        Last Updated
+                    </th>
+                </tr>
+            </thead>
+            <tbody>
+                {{#each fields}}
+                <tr>
+                    <td class="options">
+                        <a href="/it/{{this.name}}/courses/">
+                            <i class="fas fa-graduation-cap"></i>
+                            <span class="item_cart">{{getFieldName this.name}}</span>
+                        </a>
+                    </td>
+                    <td>
+                        {{this.totalStudents}}
+                    </td>
+                    <td>
+                        {{getTimeAgo this.updatedAt}}
+                    </td>
+                </tr>
+                {{/each}}
+
+            </tbody>
+        </table>
+
+    </div>
+
+
+</div>
+{{/if}}
 <div class="bg_color_1">
     <div class="container margin_60_35">
         <div class="row">
@@ -211,8 +261,7 @@
                 </a>
             </div>
         </div>
-        <!-- /row -->
+        
     </div>
     <!-- /container -->
 </div>
-<!-- /bg_color_1 -->

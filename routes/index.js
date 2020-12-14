@@ -132,12 +132,8 @@ router.get("/logout", (req, res) => {
     res.redirect("/");
 })
 
-// Search
+// Search for fields or courses keywords
 router.get("/search", async (req, res) => {
-    // create indexes for fields courses.title and fields.name to perform a full-text search
-    await Course.createIndexes({ title: "text" });
-    await Field.createIndexes({ name: "text" });
-
     const q = req.query.q;
     const requestedPage = req.query.page || 1;
     const requestedLimit = parseInt(req.query.limit || 3);
@@ -147,27 +143,42 @@ router.get("/search", async (req, res) => {
         limit: requestedLimit,
         populate: ["field", "instructor", "reviews"]
     };
-
+    
+    // Search courses
     const result = await Course.paginate({ $text: { $search: q } }, options);
     const partiallySearchedCourses = await Course.find({ title: { $regex: new RegExp(q) } }).
-            populate("field").
-            populate("instructor").
-            populate("reviews");
+        populate("field").
+        populate("instructor").
+        populate("reviews");
     if (result.docs.length > 0) {
         for (var i = 0; i < partiallySearchedCourses.length; i++) {
             if (result.docs.indexOf(partiallySearchedCourses[i] < 0)) {
                 result.docs.push(partiallySearchedCourses[i]);
             }
         }
-    } else {        
+    } else {
         partiallySearchedCourses.forEach((e) => {
             result.docs.push(e);
         })
-
+    }
+    // Search fields
+    const fields = await Field.find({ $text: { $search: q } });
+    const partiallySearchedFields = await Field.find({ name: { $regex: new RegExp(q) } });
+    if (fields.length > 0) {
+        for (var i = 0; i < partiallySearchedFields.length; i++) {
+            if (fields.indexOf(partiallySearchedFields[i] < 0)) {
+                fields.push(partiallySearchedFields[i]);
+            }
+        }
+    } else {
+        partiallySearchedFields.forEach((e) => {
+            fields.push(e);
+        })
     }
     res.render("courses/index", {
         result: result,
-        query: q
+        query: q,
+        fields: fields
     });
 });
 

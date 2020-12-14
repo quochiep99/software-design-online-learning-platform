@@ -25,6 +25,9 @@ const FieldSchema = new Schema({
     timestamps: true
 })
 
+// create indexes for field.name to perform a full-text search on
+FieldSchema.index({name: "text"});
+
 FieldSchema.methods.calculateTotalStudents = async function () {
     await this.populate("courses").execPopulate();
     for (var i = 0; i < this.courses.length; i++) {

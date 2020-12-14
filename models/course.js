@@ -81,6 +81,9 @@ const CourseSchema = new Schema({
     timestamps: true
 })
 
+// create indexes for course.name to perform a full-text search on
+CourseSchema.index({title: "text"});
+
 CourseSchema.plugin(mongoosePaginate);
 
 CourseSchema.methods.calculateAverageRating = function (cb) {
