@@ -45,90 +45,30 @@
         <aside class="col-lg-3" id="sidebar">
             <div id="filters_col"> <a data-toggle="collapse" href="#collapseFilters" aria-expanded="false"
                     aria-controls="collapseFilters" id="filters_col_bt">Filters </a>
-                <div class="collapse show" id="collapseFilters">
+                <form class="collapse show" id="collapseFilters" action="/it/{{result.docs.0.field.name}}/courses/"
+                    method="GET">
                     <div class="filter_type">
-                        <h6>Category</h6>
+                        <h6>Sort by</h6>
                         <ul>
                             <li>
                                 <label>
-                                    <input type="checkbox" class="icheck" checked>all <small>(945)</small>
+                                    <input name="ratingDescending" type="checkbox" class="icheck">Rating Descending
                                 </label>
                             </li>
                             <li>
                                 <label>
-                                    <input type="checkbox" class="icheck">Architecture <small>(45)</small>
-                                </label>
-                            </li>
-                            <li>
-                                <label>
-                                    <input type="checkbox" class="icheck">Managment <small>(30)</small>
-                                </label>
-                            </li>
-                            <li>
-                                <label>
-                                    <input type="checkbox" class="icheck">Business <small>(25)</small>
-                                </label>
-                            </li>
-                            <li>
-                                <label>
-                                    <input type="checkbox" class="icheck">Litterature <small>(56)</small>
-                                </label>
-                            </li>
-                            <li>
-                                <label>
-                                    <input type="checkbox" class="icheck">Biology <small>(10)</small>
+                                    <input name="priceAscending" type="checkbox" class="icheck">Price Ascending
                                 </label>
                             </li>
                         </ul>
                     </div>
-                    <div class="filter_type">
-                        <h6>Rating</h6>
-                        <ul>
-                            <li>
-                                <label>
-                                    <input type="checkbox" class="icheck">
-                                    <span class="rating"><i class="icon_star voted"></i><i
-                                            class="icon_star voted"></i><i class="icon_star voted"></i><i
-                                            class="icon_star voted"></i><i class="icon_star voted"></i>
-                                        <small>(145)</small></span>
-                                </label>
-                            </li>
-                            <li>
-                                <label>
-                                    <input type="checkbox" class="icheck">
-                                    <span class="rating"><i class="icon_star voted"></i><i
-                                            class="icon_star voted"></i><i class="icon_star voted"></i><i
-                                            class="icon_star voted"></i><i class="icon_star"></i>
-                                        <small>(25)</small></span>
-                                </label>
-                            </li>
-                            <li>
-                                <label>
-                                    <input type="checkbox" class="icheck">
-                                    <span class="rating"><i class="icon_star voted"></i><i
-                                            class="icon_star voted"></i><i class="icon_star voted"></i><i
-                                            class="icon_star"></i><i class="icon_star"></i> <small>(68)</small></span>
-                                </label>
-                            </li>
-                            <li>
-                                <label>
-                                    <input type="checkbox" class="icheck">
-                                    <span class="rating"><i class="icon_star voted"></i><i
-                                            class="icon_star voted"></i><i class="icon_star"></i><i
-                                            class="icon_star"></i><i class="icon_star"></i> <small>(34)</small></span>
-                                </label>
-                            </li>
-                            <li>
-                                <label>
-                                    <input type="checkbox" class="icheck">
-                                    <span class="rating"><i class="icon_star voted"></i><i class="icon_star"></i><i
-                                            class="icon_star"></i><i class="icon_star"></i><i class="icon_star"></i>
-                                        <small>(10)</small></span>
-                                </label>
-                            </li>
-                        </ul>
+
+                    <div class="container">
+                        <p>
+                            <button class="btn_1 rounded" type="submit">Filter</button>
+                        </p>
                     </div>
-                </div>
+                </form>
                 <!--/collapse -->
             </div>
             <!--/filters col-->

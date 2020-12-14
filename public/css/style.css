@@ -6590,3 +6590,13 @@ tbody>tr .item_cart:hover {
 tbody>tr>td {
   color: #212529;
 }
+
+/* Filter button */
+
+button.btn_1 {
+  padding: 15px 40px;
+  background: #662d91;
+}
+button.btn_1:hover {
+  background: purple;
+}

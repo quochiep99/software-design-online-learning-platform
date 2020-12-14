@@ -12,6 +12,7 @@ router.get("/", async (req, res) => {
         name: fieldName
     });
     if (field) {
+        const query = req.query;
         const requestedPage = req.query.page || 1;
         const requestedLimit = parseInt(req.query.limit || 3);
         const options = {
@@ -19,6 +20,23 @@ router.get("/", async (req, res) => {
             limit: requestedLimit,
             populate: ["field", "instructor", "reviews"],
         };
+        if (query.ratingDescending === "on" && query.priceAscending === "on") {
+            options.sort = {
+                rating: -1,
+                discountPrice: 1
+            }
+        } else {
+            if (query.priceAscending === "on") {
+                options.sort = {
+                    discountPrice: 1
+                }
+            } else {
+                options.sort = {
+                    rating: -1
+                }
+            }
+        }
+
         const result = await Course.paginate({ field: field._id }, options);
         res.render("courses/index", {
             result: result
@@ -27,6 +45,7 @@ router.get("/", async (req, res) => {
         res.redirect("/");
     }
 });
+
 
 router.get("/:id", async (req, res) => {
     const fieldName = req.params.field;
