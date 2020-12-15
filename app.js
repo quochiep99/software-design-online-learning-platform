@@ -51,7 +51,7 @@ app.engine('.hbs', exphbs({
         generatePagination: (result, currentURL) => {
             // remove the trailing '/'
             while (currentURL[currentURL.length - 1] === "/") {
-                currentURL = currentURL.slice(0, currentURL.length - 1);
+                currentURL = currentURL.slice(0, -1);
             }
             var ret = "";
             var previous = `<li class="left-etc"><a>&laquo;</a></li>`
@@ -61,12 +61,15 @@ app.engine('.hbs', exphbs({
             ret += previous;
             for (var i = 1; i <= result.totalPages; i++) {
                 var page = "";
+                // if no query has been made then we append ? to the url
                 if (currentURL.indexOf("?") < 0) {
                     page = `<li><a href=${currentURL}/?page=${i}>${i}</a></li>`
                 } else {
+                    // if there's a query but does not contain page=...
                     if (currentURL.indexOf("page") < 0) {
                         page = `<li><a href=${currentURL}&page=${i}>${i}</a></li>`
                     } else {
+                        // if there's a query and it contains page=...
                         page = `<li><a href=${currentURL.replace(`page=${result.page}`, `page=${i}`)}>${i}</a></li>`
                     }
                 }
@@ -83,11 +86,7 @@ app.engine('.hbs', exphbs({
             ret += next;
 
             return ret;
-
         }
-
-
-
     }
 }));
 

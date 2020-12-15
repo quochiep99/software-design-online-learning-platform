@@ -1,51 +1,66 @@
 var ratingDescendingCheckBox = document.querySelectorAll("div.filter_type li .icheckbox_square-grey")[0]
 var priceAscendingCheckBox = document.querySelectorAll("div.filter_type li .icheckbox_square-grey")[1]
 
-var ratingDescending = document.querySelectorAll("div.filter_type li > label")[0]
-var priceAscending = document.querySelectorAll("div.filter_type li > label")[1]
+var ratingDescendingLabel = document.querySelectorAll("div.filter_type li > label")[0]
+var priceAscendingLabel = document.querySelectorAll("div.filter_type li > label")[1]
 
-var isRatingDescendingCheckBoxChecked = false;
-var isPriceAscendingCheckBoxChecked = false;
-
-
-ratingDescendingCheckBox.querySelector("ins").addEventListener("click", () => {
-    if (window.location.href.indexOf("&ratingDescending=on") < 0) {
-        ratingDescendingCheckBox.classList.remove("checked");
-        window.location.href += "&ratingDescending=on"
-    } else {
-        window.location.href = window.location.href.replace("&ratingDescending=on", "");
-    }
-})
-ratingDescending.addEventListener("click", () => {
-    if (window.location.href.indexOf("&ratingDescending=on") < 0) {
-        ratingDescendingCheckBox.classList.remove("checked");
-        window.location.href += "&ratingDescending=on"
-    } else {
-        window.location.href = window.location.href.replace("&ratingDescending=on", "");
-    }
-})
-if (window.location.href.indexOf("&ratingDescending=on") > 0) {
-    ratingDescendingCheckBox.classList.add("checked");    
+var currentURL = window.location.href;
+var newURL = "";
+// remove the trailing '/'
+while (currentURL[currentURL.length - 1] === "/") {
+    currentURL = currentURL.slice(0, -1);
 }
 
-priceAscendingCheckBox.querySelector("ins").addEventListener("click", () => {
-    if (window.location.href.indexOf("&priceAscending=on") < 0) {
-        window.location.href += "&priceAscending=on"        
-        priceAscendingCheckBox.classList.remove("checked");
-    } else {
-        window.location.href = window.location.href.replace("&priceAscending=on", "");
-    }
+[ratingDescendingCheckBox.querySelector("ins"), ratingDescendingLabel].forEach(function (e) {
+    e.addEventListener("click", () => {
+        var query = `${ratingDescendingCheckBox.children[0].name}=on`;
+        // if no query has been made then we append ? to the url
+        if (!currentURL.includes("?")) {
+            newURL = `${currentURL + "?" + query}`
+        } else {
+            // if there's a query but does not contain priceAscending=...
+            if (!currentURL.includes(query)) {
+                ratingDescendingCheckBox.classList.remove("checked");
+                newURL = `${currentURL + "&" + query}`
+            } else {
+                // if there's a query and it contains priceAscending=...
+                newURL = currentURL.replace(query, "").replace("?&", "?");
+                if (newURL[newURL.length - 1] === "&") {
+                    newURL = newURL.slice(0, -1);
+                }
+            }
+        }
+        window.location.href = newURL
+    })
 })
 
-priceAscending.addEventListener("click", () => {
-    if (window.location.href.indexOf("&priceAscending=on") < 0) {
-        window.location.href += "&priceAscending=on"        
-        priceAscendingCheckBox.classList.remove("checked");
-    } else {
-        window.location.href = window.location.href.replace("&priceAscending=on", "");
-    }
+if (currentURL.includes("ratingDescending=on")) {
+    ratingDescendingCheckBox.classList.add("checked");
+}
+
+[priceAscendingCheckBox.querySelector("ins"), priceAscendingLabel].forEach(function (e) {
+    e.addEventListener("click", () => {
+        var query = `${priceAscendingCheckBox.children[0].name}=on`;
+        // if no query has been made then we append ? to the url
+        if (!currentURL.includes("?")) {
+            newURL = `${currentURL + "?" + query}`
+        } else {
+            // if there's a query but does not contain priceAscending=...
+            if (!currentURL.includes(query)) {
+                priceAscendingCheckBox.classList.remove("checked");
+                newURL = `${currentURL + "&" + query}`
+            } else {
+                // if there's a query and it contains priceAscending=...
+                newURL = currentURL.replace(query, "").replace("?&", "?");
+                if (newURL[newURL.length - 1] === "&") {
+                    newURL = newURL.slice(0, -1);
+                }
+            }
+        }
+        window.location.href = newURL
+    })
 })
 
-if (window.location.href.indexOf("&priceAscending=on") > 0) {
+if (currentURL.includes("priceAscending=on")) {
     priceAscendingCheckBox.classList.add("checked");
 }
