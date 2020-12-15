@@ -48,60 +48,49 @@ app.engine('.hbs', exphbs({
         getFieldName: (fieldName) => {
             return fieldName.replace("-", " ").replace(/(^\w{1})|(\s{1}\w{1})/g, match => match.toUpperCase());
         },
-        generatePagination: (result, query) => {
-            if (result.docs.length > 0) {
-                var ret = "";
-
-                var previousHref = "";
-                var previous = `<li class="left-etc"><a>&laquo;</a></li>`;
-
-                var nextHref = "";
-                var next = `<li><a>&raquo;</a></li>`;
-                if (!query) {
-                    // if there is a previous page
-                    if (result.hasPrevPage) {
-                        previousHref = `/it/${result.docs[0].field.name}/courses/?page=${result.prevPage}&limit=${result.limit}`;
-                        previous = `<li class="left-etc"><a href="${previousHref}">&laquo;</a></li>`;
-                    }
-                    if (result.hasNextPage) {
-                        nextHref = `/it/${result.docs[0].field.name}/courses/?page=${result.nextPage}&limit=${result.limit}`;
-                        next = `<li><a href="${nextHref}">&raquo;</a></li>`;
-                    }
-                    for (var i = 1; i <= result.totalPages; i++) {
-                        if (i === result.page) {
-                            // make the current page active
-                            ret += `<li class="active"><span>${result.page}</span></li>\n`;
-                        } else {
-                            ret += `<li><a href="/it/${result.docs[0].field.name}/courses/?page=${i}&limit=${result.limit}">${i}</a></li>\n`;
-                        }
-                    }
+        generatePagination: (result, currentURL) => {
+            // remove the trailing '/'
+            while (currentURL[currentURL.length - 1] === "/") {
+                currentURL = currentURL.slice(0, currentURL.length - 1);
+            }
+            var ret = "";
+            var previous = `<li class="left-etc"><a>&laquo;</a></li>`
+            if (result.hasPrevPage) {
+                previous = `<li class="left-etc"><a href=${currentURL.replace(`page=${result.page}`, `page=${result.prevPage}`)}>&laquo;</a></li>`
+            }
+            ret += previous;
+            for (var i = 1; i <= result.totalPages; i++) {
+                var page = "";
+                if (currentURL.indexOf("?") < 0) {
+                    page = `<li><a href=${currentURL}/?page=${i}>${i}</a></li>`
                 } else {
-                    // if there is a previous page
-                    if (result.hasPrevPage) {
-                        // /search/ ? q = ios & page=2 & limit=3
-                        previousHref = `/search/?q=${query}&page=${result.prevPage}&limit=${result.limit}`;
-                        previous = `<li class="left-etc"><a href="${previousHref}">&laquo;</a></li>`;
-                    }
-                    if (result.hasNextPage) {
-                        previousHref = `/search/?q=${query}&page=${result.nextPage}&limit=${result.limit}`;
-                        next = `<li><a href="${nextHref}">&raquo;</a></li>`;
-                    }
-                    for (var i = 1; i <= result.totalPages; i++) {
-                        if (i === result.page) {
-                            // make the current page active
-                            ret += `<li class="active"><span>${result.page}</span></li>\n`;
-                        } else {
-                            ret += `<li><a href="/search/?q=${query}&page=${i}&limit=${result.limit}">${i}</a></li>\n`;
-                        }
+                    if (currentURL.indexOf("page") < 0) {
+                        page = `<li><a href=${currentURL}&page=${i}>${i}</a></li>`
+                    } else {
+                        page = `<li><a href=${currentURL.replace(`page=${result.page}`, `page=${i}`)}>${i}</a></li>`
                     }
                 }
-
-                return previous + "\n" + ret + next + "\n";
+                // make the current page active
+                if (i === result.page) {
+                    page = page.replace("<li>", `<li class="active">`);
+                }
+                ret += page;
             }
+            var next = `<li><a>&raquo;</a></li>`;
+            if (result.hasNextPage) {
+                next = `<li><a href=${currentURL.replace(`page=${result.page}`, `page=${result.nextPage}`)}>&raquo;</a></li>`;
+            }
+            ret += next;
+
+            return ret;
 
         }
+
+
+
     }
 }));
+
 app.set('view engine', '.hbs');
 
 // serve static files
@@ -124,6 +113,7 @@ app.use(function (req, res, next) {
     if (req.user) {
         res.locals.currentUser = req.user;
     }
+    res.locals.currentURL = req.url;
     next();
 })
 

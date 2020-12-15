@@ -1,18 +1,51 @@
-var filters = document.querySelector("#collapseFilters");
-var ratingDescendingBox = document.querySelectorAll("div.filter_type li .icheckbox_square-grey")[0];
-var priceAscending = document.querySelectorAll("div.filter_type li .icheckbox_square-grey")[1];
+var ratingDescendingCheckBox = document.querySelectorAll("div.filter_type li .icheckbox_square-grey")[0]
+var priceAscendingCheckBox = document.querySelectorAll("div.filter_type li .icheckbox_square-grey")[1]
 
-document.querySelector("button.btn_1").addEventListener("click", () => {
+var ratingDescending = document.querySelectorAll("div.filter_type li > label")[0]
+var priceAscending = document.querySelectorAll("div.filter_type li > label")[1]
 
-    if (ratingDescendingBox.classList.contains("checked") && priceAscending.classList.contains("checked")) {
-        filters.action += "?" + ratingDescendingBox.parentNode.innerText[0].toLowerCase() + ratingDescendingBox.parentNode.innerText.replace(" ", "").slice(1) + "=on"
-            + "&" + priceAscending.parentNode.innerText[0].toLowerCase() + priceAscending.parentNode.innerText.replace(" ", "").slice(1) + "=on"
+var isRatingDescendingCheckBoxChecked = false;
+var isPriceAscendingCheckBoxChecked = false;
+
+
+ratingDescendingCheckBox.querySelector("ins").addEventListener("click", () => {
+    if (window.location.href.indexOf("&ratingDescending=on") < 0) {
+        ratingDescendingCheckBox.classList.remove("checked");
+        window.location.href += "&ratingDescending=on"
     } else {
-        if (ratingDescendingBox.classList.contains("checked")) {
-            filters.action += "?" + ratingDescendingBox.parentNode.innerText[0].toLowerCase() + ratingDescendingBox.parentNode.innerText.replace(" ", "").slice(1) + "=on";
-        } else {
-            filters.action += "?" + priceAscending.parentNode.innerText[0].toLowerCase() + priceAscending.parentNode.innerText.replace(" ", "").slice(1) + "=on";
-        }
+        window.location.href = window.location.href.replace("&ratingDescending=on", "");
     }
-
 })
+ratingDescending.addEventListener("click", () => {
+    if (window.location.href.indexOf("&ratingDescending=on") < 0) {
+        ratingDescendingCheckBox.classList.remove("checked");
+        window.location.href += "&ratingDescending=on"
+    } else {
+        window.location.href = window.location.href.replace("&ratingDescending=on", "");
+    }
+})
+if (window.location.href.indexOf("&ratingDescending=on") > 0) {
+    ratingDescendingCheckBox.classList.add("checked");    
+}
+
+priceAscendingCheckBox.querySelector("ins").addEventListener("click", () => {
+    if (window.location.href.indexOf("&priceAscending=on") < 0) {
+        window.location.href += "&priceAscending=on"        
+        priceAscendingCheckBox.classList.remove("checked");
+    } else {
+        window.location.href = window.location.href.replace("&priceAscending=on", "");
+    }
+})
+
+priceAscending.addEventListener("click", () => {
+    if (window.location.href.indexOf("&priceAscending=on") < 0) {
+        window.location.href += "&priceAscending=on"        
+        priceAscendingCheckBox.classList.remove("checked");
+    } else {
+        window.location.href = window.location.href.replace("&priceAscending=on", "");
+    }
+})
+
+if (window.location.href.indexOf("&priceAscending=on") > 0) {
+    priceAscendingCheckBox.classList.add("checked");
+}

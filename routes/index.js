@@ -134,7 +134,10 @@ router.get("/logout", (req, res) => {
 
 // Search for fields or courses keywords
 router.get("/search", async (req, res) => {
+    // req.session.previousQuery = 
     const q = req.query.q;
+    const ratingDescending = req.query.ratingDescending;
+    const priceAscending = req.query.priceAscending;
     const requestedPage = req.query.page || 1;
     const requestedLimit = parseInt(req.query.limit || 3);
 
@@ -143,6 +146,22 @@ router.get("/search", async (req, res) => {
         limit: requestedLimit,
         populate: ["field", "instructor", "reviews"]
     };
+    if (ratingDescending === "on" && priceAscending === "on") {
+        options.sort = {
+            rating: -1,
+            discountPrice: 1
+        }
+    }
+    else if (priceAscending === "on") {
+        options.sort = {
+            discountPrice: 1
+        }
+    } else if (ratingDescending === "on") {
+        options.sort = {
+            rating: -1
+        }
+    }
+
 
     // Search courses
     const result = await Course.paginate({ $text: { $search: q } }, options);
@@ -185,7 +204,9 @@ router.get("/search", async (req, res) => {
     res.render("courses/index", {
         result: result,
         query: q,
-        fields: fields
+        fields: fields,
+        ratingDescending: ratingDescending,
+        priceAscending: priceAscending
     });
 });
 

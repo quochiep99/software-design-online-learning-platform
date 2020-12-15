@@ -4712,7 +4712,6 @@ input:-webkit-autofill, textarea:-webkit-autofill, select:-webkit-autofill {
 
 #confirm p {
   font-size: 16px !important;
-  font-size: 16px !important/16pxrem;
   margin-bottom: 0;
 }
 
@@ -5489,7 +5488,6 @@ ul.list_3 li:before {
   }
   .fc-header-center .fc-header-title h2 {
     font-size: 16px !important;
-    font-size: 16px !important/16pxrem;
   }
 }
 
@@ -6597,6 +6595,11 @@ button.btn_1 {
   padding: 15px 40px;
   background: #662d91;
 }
+
 button.btn_1:hover {
   background: purple;
+}
+
+div.filter_type li > label {
+  cursor: pointer
 }
