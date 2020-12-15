@@ -1,7 +1,7 @@
-const Course = require("./models/course");
-const User = require("./models/user");
-const Review = require("./models/review");
-const Field = require("./models/field");
+const Course = require("../models/course");
+const User = require("../models/user");
+const Review = require("../models/review");
+const Field = require("../models/field");
 const bcrypt = require("bcryptjs");
 const mongoose = require("mongoose");
 

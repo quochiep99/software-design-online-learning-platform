@@ -5,6 +5,7 @@ const bodyParser = require('body-parser');
 const passport = require("passport");
 const session = require('express-session');
 const moment = require("moment");
+const urlManipulator = require("./utils/url");
 
 //requiring routes
 const courseRoutes = require("./routes/courses");
@@ -48,36 +49,28 @@ app.engine('.hbs', exphbs({
         getFieldName: (fieldName) => {
             return fieldName.replace("-", " ").replace(/(^\w{1})|(\s{1}\w{1})/g, match => match.toUpperCase());
         },
-        generatePagination: (result, currentURL) => {
-            // remove the trailing '/'
-            while (currentURL[currentURL.length - 1] === "/") {
-                currentURL = currentURL.slice(0, -1);
-            }
+        generatePagination: (result, currentURL) => {            
             var ret = "";
             var previous = `<li class="left-etc"><a>&laquo;</a></li>`
             if (result.hasPrevPage) {
                 previous = `<li class="left-etc"><a href=${currentURL.replace(`page=${result.page}`, `page=${result.prevPage}`)}>&laquo;</a></li>`
             }
             ret += previous;
-            for (var i = 1; i <= result.totalPages; i++) {
-                var page = "";
-                // if no query has been made then we append ? to the url
-                if (currentURL.indexOf("?") < 0) {
-                    page = `<li><a href=${currentURL}/?page=${i}>${i}</a></li>`
+            for (var i = 1; i <= result.totalPages; i++) {                
+                var pageHref = ""
+                if (!currentURL.includes("page")) {
+                    // add query string
+                    pageHref = urlManipulator.addParameterToURL(currentURL, "page", i);
                 } else {
-                    // if there's a query but does not contain page=...
-                    if (currentURL.indexOf("page") < 0) {
-                        page = `<li><a href=${currentURL}&page=${i}>${i}</a></li>`
-                    } else {
-                        // if there's a query and it contains page=...
-                        page = `<li><a href=${currentURL.replace(`page=${result.page}`, `page=${i}`)}>${i}</a></li>`
-                    }
+                    pageHref = urlManipulator.removeParameterFromURL(currentURL, "page");
+                    pageHref = urlManipulator.addParameterToURL(pageHref, "page", i);
                 }
                 // make the current page active
                 if (i === result.page) {
-                    page = page.replace("<li>", `<li class="active">`);
+                    ret += `<li class="active"><a href=${pageHref}>${i}</a></li>`
+                } else {
+                    ret += `<li><a href=${pageHref}>${i}</a></li>`
                 }
-                ret += page;
             }
             var next = `<li><a>&raquo;</a></li>`;
             if (result.hasNextPage) {
