@@ -6392,6 +6392,7 @@ h6.lead {
 }
 
 .jumbotron {
+  background-color: #303030;
   margin-top: 4rem;
 }
 
@@ -6488,6 +6489,10 @@ div.col-lg-8>#description>[href] {
     text-decoration: none;
     transition: all 0.3s ease-in-out;
     outline: none;
+  }
+  #navbarDropdown:hover {
+    opacity: 0.7;
+    
   }
 }
 
