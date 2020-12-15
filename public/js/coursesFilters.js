@@ -1,3 +1,15 @@
+function removeParameterFromURL(url, parameter) {
+    return url
+        .replace(new RegExp('[?&]' + parameter + '=[^&#]*(#.*)?$'), '$1')
+        .replace(new RegExp('([?&])' + parameter + '=[^&]*&'), '$1');
+}
+
+function addParameterToURL(url, key, value) {
+    return url += (url.match(/[\?]/g) ? '&' : '?') + `${key + "=" + value}`;
+}
+function containKeyInURL(key) {
+    return new RegExp(`[?&]${key}=`).test(location.search)
+}
 var ratingDescendingCheckBox = document.querySelectorAll("div.filter_type li .icheckbox_square-grey")[0]
 var priceAscendingCheckBox = document.querySelectorAll("div.filter_type li .icheckbox_square-grey")[1]
 
@@ -13,54 +25,37 @@ while (currentURL[currentURL.length - 1] === "/") {
 
 [ratingDescendingCheckBox.querySelector("ins"), ratingDescendingLabel].forEach(function (e) {
     e.addEventListener("click", () => {
-        var query = `${ratingDescendingCheckBox.children[0].name}=on`;
-        // if no query has been made then we append ? to the url
-        if (!currentURL.includes("?")) {
-            newURL = `${currentURL + "?" + query}`
+        if (!currentURL.includes("ratingDescending")) {
+            ratingDescendingCheckBox.classList.remove("checked");
+            // add query string
+            newURL = addParameterToURL(currentURL, "ratingDescending", "on");
         } else {
-            // if there's a query but does not contain priceAscending=...
-            if (!currentURL.includes(query)) {
-                ratingDescendingCheckBox.classList.remove("checked");
-                newURL = `${currentURL + "&" + query}`
-            } else {
-                // if there's a query and it contains priceAscending=...
-                newURL = currentURL.replace(query, "").replace("?&", "?");
-                if (newURL[newURL.length - 1] === "&") {
-                    newURL = newURL.slice(0, -1);
-                }
-            }
+            newURL = removeParameterFromURL(currentURL, "ratingDescending");
         }
         window.location.href = newURL
     })
 })
 
-if (currentURL.includes("ratingDescending=on")) {
+if (currentURL.includes("ratingDescending")) {
     ratingDescendingCheckBox.classList.add("checked");
 }
 
 [priceAscendingCheckBox.querySelector("ins"), priceAscendingLabel].forEach(function (e) {
     e.addEventListener("click", () => {
-        var query = `${priceAscendingCheckBox.children[0].name}=on`;
-        // if no query has been made then we append ? to the url
-        if (!currentURL.includes("?")) {
-            newURL = `${currentURL + "?" + query}`
+        if (!currentURL.includes("priceAscending")) {
+            priceAscendingCheckBox.classList.remove("checked");
+            // add query string
+            newURL = addParameterToURL(currentURL, "priceAscending", "on");
         } else {
-            // if there's a query but does not contain priceAscending=...
-            if (!currentURL.includes(query)) {
-                priceAscendingCheckBox.classList.remove("checked");
-                newURL = `${currentURL + "&" + query}`
-            } else {
-                // if there's a query and it contains priceAscending=...
-                newURL = currentURL.replace(query, "").replace("?&", "?");
-                if (newURL[newURL.length - 1] === "&") {
-                    newURL = newURL.slice(0, -1);
-                }
-            }
+            newURL = removeParameterFromURL(currentURL, "priceAscending");
         }
         window.location.href = newURL
     })
 })
 
-if (currentURL.includes("priceAscending=on")) {
+if (currentURL.includes("priceAscending")) {
     priceAscendingCheckBox.classList.add("checked");
 }
+
+
+
