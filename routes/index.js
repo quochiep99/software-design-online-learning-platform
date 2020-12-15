@@ -152,16 +152,15 @@ router.get("/search", async (req, res) => {
             discountPrice: 1
         }
     }
-    else if (priceAscending === "on") {
+    else if (priceAscending) {
         options.sort = {
             discountPrice: 1
         }
-    } else if (ratingDescending === "on") {
+    } else if (ratingDescending) {
         options.sort = {
             rating: -1
         }
     }
-
 
     // Search courses
     const result = await Course.paginate({ $text: { $search: q } }, options);
@@ -204,9 +203,7 @@ router.get("/search", async (req, res) => {
     res.render("courses/index", {
         result: result,
         query: q,
-        fields: fields,
-        ratingDescending: ratingDescending,
-        priceAscending: priceAscending
+        fields: fields
     });
 });
 

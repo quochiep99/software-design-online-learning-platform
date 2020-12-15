@@ -157,5 +157,4 @@
 }(jQuery));
 
 // disable selection after double click
-document.querySelector(".pagination > .left-etc > a").addEventListener('mousedown', function (e) { e.preventDefault(); }, false);
-document.querySelector(".pagination > li:last-of-type").addEventListener('mousedown', function (e) { e.preventDefault(); }, false)
+document.querySelector(".pagination").addEventListener('mousedown', function (e) { e.preventDefault(); }, false)

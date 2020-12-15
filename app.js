@@ -49,14 +49,14 @@ app.engine('.hbs', exphbs({
         getFieldName: (fieldName) => {
             return fieldName.replace("-", " ").replace(/(^\w{1})|(\s{1}\w{1})/g, match => match.toUpperCase());
         },
-        generatePagination: (result, currentURL) => {            
+        generatePagination: (result, currentURL) => {
             var ret = "";
             var previous = `<li class="left-etc"><a>&laquo;</a></li>`
             if (result.hasPrevPage) {
                 previous = `<li class="left-etc"><a href=${currentURL.replace(`page=${result.page}`, `page=${result.prevPage}`)}>&laquo;</a></li>`
             }
             ret += previous;
-            for (var i = 1; i <= result.totalPages; i++) {                
+            for (var i = 1; i <= result.totalPages; i++) {
                 var pageHref = ""
                 if (!currentURL.includes("page")) {
                     // add query string
@@ -65,9 +65,9 @@ app.engine('.hbs', exphbs({
                     pageHref = urlManipulator.removeParameterFromURL(currentURL, "page");
                     pageHref = urlManipulator.addParameterToURL(pageHref, "page", i);
                 }
-                // make the current page active
+                // make the current page active and remove its href to make it unclickable since we are on this page
                 if (i === result.page) {
-                    ret += `<li class="active"><a href=${pageHref}>${i}</a></li>`
+                    ret += `<li class="active"><a>${i}</a></li>`
                 } else {
                     ret += `<li><a href=${pageHref}>${i}</a></li>`
                 }
@@ -77,7 +77,6 @@ app.engine('.hbs', exphbs({
                 next = `<li><a href=${currentURL.replace(`page=${result.page}`, `page=${result.nextPage}`)}>&raquo;</a></li>`;
             }
             ret += next;
-
             return ret;
         }
     }
