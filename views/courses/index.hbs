@@ -100,8 +100,17 @@
                             </div>
                         </div>
                         <ul>
-                            <li><i class="icon_clock_alt"></i> 1h 30min</li>
-                            <li><i class="icon_like"></i> 890</li>
+                            <li><i class="fas fa-file-signature"></i> {{this.totalStudents}}</li>
+                            <li><i class="fas fa-pen-alt"></i> {{getTimeAgo this.updatedAt}}</li>
+
+                            {{#generateBestSeller this.totalStudents}}
+                            <h5><span id="bestseller" class="badge">Bestseller</span></h5>
+                            {{/generateBestSeller}}
+
+                            {{#generateNew this.updatedAt}}
+                            <h5><span id="new" class="badge">New</span></h5>
+                            {{/generateNew}}
+
                             <li><a href="#">Enroll now</a></li>
                         </ul>
                     </div>

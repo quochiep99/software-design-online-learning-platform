@@ -21,7 +21,17 @@ const PORT = process.env.PORT || 3000;
 
 // mongodb url
 const url = process.env.DATABASEURL || 'mongodb://localhost:27017/web-online-academy';
-mongoose.connect(url, { useNewUrlParser: true, useUnifiedTopology: true });
+mongoose.set('useNewUrlParser', true);
+mongoose.set('useFindAndModify', false);
+mongoose.set('useCreateIndex', true);
+mongoose.set('useUnifiedTopology', true);
+mongoose.connect(url).
+    then(() => {
+        console.log("database connected !!!");
+    }).
+    catch((err) => {
+        console.log(err);
+    });
 
 // express handlebars
 app.engine('.hbs', exphbs({
@@ -78,6 +88,21 @@ app.engine('.hbs', exphbs({
             }
             ret += next;
             return ret;
+        },
+        generateBestSeller: (totalStudents, options) => {
+            if (totalStudents >= 13) {
+                return options.fn();
+            }
+        },
+        generateNew: (updatedAt, options) => {
+            const today = new Date();
+            const date = new Date(updatedAt);
+            const diffTime = Math.abs(today - date);
+            const diffDays = Math.ceil(diffTime / (1000 * 60 * 60 * 24));
+            // if the last updated day is within last 3 days
+            if (diffDays <= 3) {
+                return options.fn();
+            }
         }
     }
 }));

@@ -6600,6 +6600,22 @@ button.btn_1:hover {
   background: purple;
 }
 
-div.filter_type li > label {
+div.filter_type li>label {
   cursor: pointer
+}
+
+/* best seller badge */
+
+div#list_sidebar h5 {
+  display: inline;
+}
+
+#bestseller {
+  color: #593d00;
+  background-color: #ffe799;
+}
+
+#new {
+  color: #003b0f;
+  background: #99dbaa;
 }
