@@ -6522,7 +6522,7 @@ ul[aria-labelledby="navbarDropdown1"], #navbarDropdown1 {
 
 /* discount price on courses */
 
-div#list_sidebar>div em {
+div#list_sidebar>div em, section#recommendedCourses>div em {
   text-decoration: line-through;
   margin: 0 10px;
   font-style: normal;
