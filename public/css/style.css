@@ -6487,12 +6487,10 @@ div.col-lg-8>#description>[href] {
     white-space: nowrap;
     background: transparent;
     text-decoration: none;
-    transition: all 0.3s ease-in-out;
     outline: none;
   }
   #navbarDropdown:hover {
     opacity: 0.7;
-    
   }
 }
 
@@ -6502,6 +6500,24 @@ div.col-lg-8>#description>[href] {
 
 ul[aria-labelledby="navbarDropdown1"], #navbarDropdown1 {
   font-size: 0.8125rem;
+}
+
+#navbarDropdown1+ul {
+  width: 14rem;
+}
+
+#navbarDropdown1 {
+  -webkit-transition: none !important;
+  -moz-transition: none !important;
+  -o-transition: none !important;
+  transition: none !important;
+}
+
+#navbarDropdown1+ul>li>a {
+  -webkit-transition: none !important;
+  -moz-transition: none !important;
+  -o-transition: none !important;
+  transition: none !important;
 }
 
 /* discount price on courses */

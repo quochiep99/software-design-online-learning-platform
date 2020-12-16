@@ -18,44 +18,47 @@ var priceAscendingLabel = document.querySelectorAll("div.filter_type li > label"
 
 var currentURL = window.location.href;
 var newURL = "";
-// remove the trailing '/'
-while (currentURL[currentURL.length - 1] === "/") {
-    currentURL = currentURL.slice(0, -1);
-}
+if (ratingDescendingCheckBox && priceAscendingCheckBox && ratingDescendingLabel && priceAscendingLabel) {
+    // remove the trailing '/'
+    while (currentURL[currentURL.length - 1] === "/") {
+        currentURL = currentURL.slice(0, -1);
+    }
 
-[ratingDescendingCheckBox.querySelector("ins"), ratingDescendingLabel].forEach(function (e) {
-    e.addEventListener("click", () => {
-        if (!currentURL.includes("ratingDescending")) {
-            ratingDescendingCheckBox.classList.remove("checked");
-            // add query string
-            newURL = addParameterToURL(currentURL, "ratingDescending", "on");
-        } else {
-            newURL = removeParameterFromURL(currentURL, "ratingDescending");
-        }
-        window.location.href = newURL
+    [ratingDescendingCheckBox.querySelector("ins"), ratingDescendingLabel].forEach(function (e) {
+        e.addEventListener("click", () => {
+            if (!currentURL.includes("ratingDescending")) {
+                ratingDescendingCheckBox.classList.remove("checked");
+                // add query string
+                newURL = addParameterToURL(currentURL, "ratingDescending", "on");
+            } else {
+                newURL = removeParameterFromURL(currentURL, "ratingDescending");
+            }
+            window.location.href = newURL
+        })
     })
-})
 
-if (currentURL.includes("ratingDescending")) {
-    ratingDescendingCheckBox.classList.add("checked");
-}
+    if (currentURL.includes("ratingDescending")) {
+        ratingDescendingCheckBox.classList.add("checked");
+    }
 
-[priceAscendingCheckBox.querySelector("ins"), priceAscendingLabel].forEach(function (e) {
-    e.addEventListener("click", () => {
-        if (!currentURL.includes("priceAscending")) {
-            priceAscendingCheckBox.classList.remove("checked");
-            // add query string
-            newURL = addParameterToURL(currentURL, "priceAscending", "on");
-        } else {
-            newURL = removeParameterFromURL(currentURL, "priceAscending");
-        }
-        window.location.href = newURL
+    [priceAscendingCheckBox.querySelector("ins"), priceAscendingLabel].forEach(function (e) {
+        e.addEventListener("click", () => {
+            if (!currentURL.includes("priceAscending")) {
+                priceAscendingCheckBox.classList.remove("checked");
+                // add query string
+                newURL = addParameterToURL(currentURL, "priceAscending", "on");
+            } else {
+                newURL = removeParameterFromURL(currentURL, "priceAscending");
+            }
+            window.location.href = newURL
+        })
     })
-})
 
-if (currentURL.includes("priceAscending")) {
-    priceAscendingCheckBox.classList.add("checked");
+    if (currentURL.includes("priceAscending")) {
+        priceAscendingCheckBox.classList.add("checked");
+    }
 }
+
 
 
 
