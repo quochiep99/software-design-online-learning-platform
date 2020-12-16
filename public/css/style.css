@@ -6627,7 +6627,7 @@ div.filter_type li>label {
 
 /* best seller badge */
 
-div#list_sidebar h5 {
+div#list_sidebar h5, section#recommendedCourses>div h5 {
   display: inline;
 }
 

@@ -65,13 +65,18 @@ router.get("/:id", async (req, res) => {
             .populate({
                 path: "instructor",
             });
-
+        const recommendedCourses = await Course.
+            find({ field: field._id }).
+            sort("-totalStudents").
+            limit(5).
+            populate("field");
         if (course) {
             // increment views as users visit the course
             course.numViews++;
             await course.save();
             return res.render("courses/show", {
-                course: course
+                course: course,
+                recommendedCourses: recommendedCourses
             });
         }
     }

@@ -200,7 +200,61 @@
 
                 </section>
 
-                <section id="description">
+                <section id="recommendedCourses">
+                    <h2>You may also like</h2>
+
+                    {{#each recommendedCourses}}
+                    <div class="box_list wow">
+                        <div class="row no-gutters">
+                            <div class="col-lg-5">
+                                <figure class="block-reveal">
+                                    <div class="block-horizzontal"></div>
+                                    <a href="/it/{{this.field.name}}/courses/{{this._id}}"><img
+                                            src="{{this.image3xURL}}" alt=""></a>
+                                </figure>
+                            </div>
+                            <div class="col-lg-7">
+                                <div class="wrapper">
+                                    <a href="#" class="wish_bt"></a>
+                                    <div class="price">
+                                        ${{this.discountPrice}}
+                                        <span class="original_price"><em>${{this.originalPrice}}</em></span>
+                                    </div>
+                                    <small>{{getFieldName this.field.name}}</small>
+                                    <h3>{{this.title}}</h3>
+                                    <p>{{this.instructor.name}}</p>
+                                    <!-- <div class="rating"><i class="icon_star voted"></i><i class="icon_star voted"></i>
+                                <i class="icon_star voted"></i><i class="icon_star"></i><i class="icon_star"></i>
+                                <small>(145)</small>
+                            </div> -->
+                                    <div class="rating">
+                                        <small>{{this.rating}} stars - ({{this.reviews.length}} students
+                                            reviewing)</small>
+                                        <small></small>
+                                    </div>
+                                </div>
+                                <ul>
+                                    <li><i class="fas fa-file-signature"></i> {{this.totalStudents}}</li>
+                                    <li><i class="fas fa-pen-alt"></i> {{getTimeAgo this.updatedAt}}</li>
+
+                                    {{#generateBestSeller this.totalStudents}}
+                                    <h5><span id="bestseller" class="badge">Bestseller</span></h5>
+                                    {{/generateBestSeller}}
+
+                                    {{#generateNew this.updatedAt}}
+                                    <h5><span id="new" class="badge">New</span></h5>
+                                    {{/generateNew}}
+
+                                    <li><a href="#">Enroll now</a></li>
+                                </ul>
+                            </div>
+                        </div>
+                    </div>
+                    {{/each}}
+
+                </section>
+
+                <section id="instructor">
                     <h2>Instructor</h2>
                     <a href="">{{course.instructor.name}}</a>
                     {{{course.instructor.briefIntroduction}}}
