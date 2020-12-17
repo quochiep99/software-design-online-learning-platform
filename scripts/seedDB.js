@@ -64,7 +64,7 @@ async function seedDB() {
             if (!(await User.findOne({ email: data[i].students[j].email }))) {
                 const salt = await bcrypt.genSalt(10);
                 // store the hashed password to db
-                data[i].students[j].password = await bcrypt.hashSync(
+                data[i].students[j].password = await bcrypt.hash(
                     data[i].students[j].password,
                     salt
                 );
@@ -76,7 +76,7 @@ async function seedDB() {
         if (!instructor) {
             const salt = await bcrypt.genSalt(10);
             // store the hashed password to db
-            data[i].instructor.password = await bcrypt.hashSync(data[i].instructor.password, salt);
+            data[i].instructor.password = await bcrypt.hash(data[i].instructor.password, salt);
             instructor = await User.create(data[i].instructor);
         }
 

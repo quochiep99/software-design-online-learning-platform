@@ -6,12 +6,14 @@ const passport = require("passport");
 const session = require('express-session');
 const moment = require("moment");
 const urlManipulator = require("./utils/url");
+const flash = require('connect-flash');
 
-//requiring routes
+
+// Requiring routes
 const courseRoutes = require("./routes/courses");
 const indexRoutes = require("./routes/index")
 
-// load environment variables from .env file into process.env
+// Load environment variables from .env file into process.env
 require('dotenv').config();
 
 const app = express();
@@ -19,7 +21,7 @@ const app = express();
 //PORT
 const PORT = process.env.PORT || 3000;
 
-// mongodb url
+// MONGODB URL
 const url = process.env.DATABASEURL || 'mongodb://localhost:27017/web-online-academy';
 mongoose.set('useNewUrlParser', true);
 mongoose.set('useFindAndModify', false);
@@ -33,7 +35,7 @@ mongoose.connect(url).
         console.log(err);
     });
 
-// express handlebars
+// Express Handlebars
 app.engine('.hbs', exphbs({
     extname: '.hbs',
     runtimeOptions: {
@@ -106,10 +108,11 @@ app.engine('.hbs', exphbs({
         }
     }
 }));
-
 app.set('view engine', '.hbs');
 
-// serve static files
+
+
+// Serve static files
 app.use(express.static("public"));
 app.use(bodyParser.urlencoded({ extended: false }));
 
@@ -122,14 +125,24 @@ app.use(session({
         maxAge: 1000 * 60 * 60 * 24 // Equals 1 day (1 day * 24 hr/1 day * 60 min/1 hr * 60 sec/1 min * 1000 ms / 1 sec)
     }
 }));
+
+// CONNECT-FLASH
+app.use(flash());
+
+// PASSPORT MIDDLEWARES
 app.use(passport.initialize());
 app.use(passport.session());
 
+// Global variables
 app.use(function (req, res, next) {
     if (req.user) {
         res.locals.currentUser = req.user;
     }
     res.locals.currentURL = req.url;
+    res.locals.success_msg = req.flash("success_msg");
+    res.locals.error_msg = req.flash("error_msg");
+    res.locals.passport_error = req.flash("error");
+    res.locals.errors = req.flash("errors");
     next();
 })
 

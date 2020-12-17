@@ -16,6 +16,11 @@ const UserSchema = new Schema({
         unique: true
     },
     password: reqString,
+    emailToken: String,    
+    isConfirmed: {
+        type: Boolean,
+        default: false
+    },
 
     // role
     // student, instructor, admin
@@ -24,7 +29,7 @@ const UserSchema = new Schema({
         type: String,
         default: "s"
     },
-    
+
     wishList: [
         {
             type: Schema.Types.ObjectId,

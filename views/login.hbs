@@ -7,6 +7,9 @@
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
     <title>Log in</title>
 
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css"
+        integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">
+
     <!-- Font Icon -->
     <link rel="stylesheet" href="fonts/material-icon/css/material-design-iconic-font.min.css">
 
@@ -18,11 +21,28 @@
 
     <div class="main">
 
-        <section class="signup">            
+        <section class="signup">
             <div class="container">
                 <div class="signup-content">
                     <form method="POST" id="signup-form" class="signup-form" action="/login">
                         <h2 class="form-title"><img src="/img/logo_black.png" alt=""></h2>
+                        {{#if success_msg}}
+                        <div class="alert alert-success" role="alert">
+                            {{success_msg}}
+                        </div>
+                        {{/if}}
+
+                        {{#if error_msg}}
+                        <div class="alert alert-danger" role="alert">
+                            {{error_msg}}
+                        </div>
+                        {{/if}}
+                        {{#if passport_error}}
+                        <div class="alert alert-danger" role="alert">
+                            {{passport_error}}
+                        </div>
+                        {{/if}}
+
                         <div class="form-group">
                             <input type="email" class="form-input" name="email" id="email" placeholder="Your email" />
                         </div>
@@ -31,14 +51,12 @@
                                 placeholder="Password" />
                         </div>                        
                         <div class="form-group">
-                            <input type="checkbox" name="agree-term" id="agree-term" class="agree-term" />
-                            <label for="agree-term" class="label-agree-term"><span><span></span></span>I agree all
-                                statements in <a href="#" class="term-service">Terms of service</a></label>
-                        </div>
-                        <div class="form-group">
                             <input type="submit" name="submit" id="submit" class="form-submit" value="Log in" />
                         </div>
-                    </form>                    
+                    </form>
+                    <p class="loginhere">
+                        Don't have any account yet ? <a href="/register" class="loginhere-link">Register here</a>
+                    </p>
                 </div>
             </div>
         </section>
