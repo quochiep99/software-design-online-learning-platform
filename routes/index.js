@@ -308,8 +308,7 @@ router.post("/register", async (req, res) => {
                                 <tr>
                                     <td bgcolor="#ffffff" align="left"
                                         style="padding: 0px 30px 20px 30px; color: #666666; font-family: 'Lato', Helvetica, Arial, sans-serif; font-size: 18px; font-weight: 400; line-height: 25px;">
-                                        <p style="margin: 0;">If you have any questions, just reply to this email—we're always
-                                            happy to help out.</p>
+                                        <p style="margin: 0;">Note that the link above is only valid within 20 minutes. If you do not use it then after that your profile will be deleted !</p>
                                     </td>
                                 </tr>
                                 <tr>
@@ -375,19 +374,18 @@ router.post("/register", async (req, res) => {
 })
 router.get("/confirm", async (req, res) => {
     try {
-        const decoded = await jwt.verify(req.query.token, process.env.JWT_SECRET_KEY);
-        // decoded has data
-        if (!Object.keys(decoded).length !== 0 || decoded.constructor !== Object) {
-            const user = await User.findOne({ email: decoded.email });
-            if (user) {
-                // user has been confirmed
-                user.isConfirmed = true;
-                user.emailToken = null;
-                await user.save();
-                req.flash("success_msg", "Congratulations ! Your account has been activated successfully ! You may now login");
-                return res.redirect("/login");
-            }
+        const token = req.query.token;
+        await jwt.verify(token, process.env.JWT_SECRET_KEY);
+        const user = await User.findOne({ emailToken: token });
+        if (user) {
+            // user has been confirmed
+            user.isConfirmed = true;
+            user.emailToken = null;
+            await user.save();
+            req.flash("success_msg", "Congratulations ! Your account has been activated successfully ! You may now login");
+            return res.redirect("/login");
         }
+
         res.render("emailConfirmation", {
             layout: false,
             error_msg: "Token invalid or expired !"
