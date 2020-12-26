@@ -6640,3 +6640,14 @@ div#list_sidebar h5, section#recommendedCourses>div h5 {
   color: #003b0f;
   background: #99dbaa;
 }
+
+/* wishlist button */
+
+div.margin_30_95>.row>div .block-horizzontal + a:after {  
+  content: "\e089";
+  color: #fff;
+}
+
+div[class='main_title_2'] h2 {
+  margin-bottom: 25px;
+}

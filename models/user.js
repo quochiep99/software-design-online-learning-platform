@@ -80,6 +80,16 @@ UserSchema.methods.addToWishList = function (course) {
     this.wishList.push(course);
 }
 
+UserSchema.methods.removeFromWishList = function (course) {
+    // find course to remove from wishList
+    for (var i = 0; i < this.wishList.length; i++) {
+        if (this.wishList[i]._id.equals(course._id)) {
+            this.wishList.splice(i, 1);
+            break;
+        }
+    }
+}
+
 
 
 module.exports = mongoose.model("User", UserSchema);

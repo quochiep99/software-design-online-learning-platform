@@ -13,12 +13,12 @@
             <li>
                 <div class="switch-field">
 
-                    <input type="radio" id="allCourses" name="listing_filter" value="allCourses" checked
-                        onclick="window.location.href='/my-courses/learning'">
+                    <input type="radio" id="allCourses" name="listing_filter" value="allCourses" {{#if enrolledCourses}}
+                        checked {{/if}} onclick="window.location.href='/my-courses/learning'">
                     <label for="allCourses">All courses</label>
 
-                    <input type="radio" id="wishList" name="listing_filter" value="wishList"
-                        onclick="window.location.href='/my-courses/wishlist'">
+                    <input type="radio" id="wishList" name="listing_filter" value="wishList" {{#if wishList}} checked
+                        {{/if}} onclick="window.location.href='/my-courses/wishlist'">
                     <label for="wishList">WishList</label>
 
                 </div>
@@ -103,8 +103,10 @@
             <div class="box_grid wow">
                 <figure class="block-reveal">
                     <div class="block-horizzontal"></div>
-                    <a href="#" class="wish_bt"></a>
-                    <a href="/it/{{this.field.name}}/courses/{{this._id}}"><img src="{{this.image3xURL}}"
+
+                    <a href="/it/{{this.field.name}}/courses/{{this._id}}/unwishlist" class="wish_bt"></a>
+
+                    <a href=" /it/{{this.field.name}}/courses/{{this._id}}"><img src="{{this.image3xURL}}"
                             class="img-fluid" alt=""></a>
                     <!-- <div class="price">
                         ${{this.discountPrice}}
@@ -134,34 +136,11 @@
         {{/each}}
     </div>
 </div>
-{{/if}}
-
-<div class="bg_color_1">
-    <div class="container margin_60_35">
-        <div class="row">
-            <div class="col-md-4">
-                <a href="#" class="boxed_list">
-                    <i class="pe-7s-help2"></i>
-                    <h4>Need Help? Contact us</h4>
-                    <p>Cum appareat maiestatis interpretaris et, et sit.</p>
-                </a>
-            </div>
-            <div class="col-md-4">
-                <a href="#" class="boxed_list">
-                    <i class="pe-7s-wallet"></i>
-                    <h4>Payments and Refunds</h4>
-                    <p>Qui ea nemore eruditi, magna prima possit eu mei.</p>
-                </a>
-            </div>
-            <div class="col-md-4">
-                <a href="#" class="boxed_list">
-                    <i class="pe-7s-note2"></i>
-                    <h4>Quality Standards</h4>
-                    <p>Hinc vituperata sed ut, pro laudem nonumes ex.</p>
-                </a>
-            </div>
-        </div>
-
-    </div>
-    <!-- /container -->
+{{else}}
+<div class="main_title_2">
+    <!-- <span><em></em></span> -->
+    <h2>Wishlist empty </h2>
+    <a href="/" class="btn_1 rounded">View all courses</a>
+    <!-- <p>Cum doctus civibus efficiantur in imperdiet deterruisset.</p> -->
 </div>
+{{/if}}

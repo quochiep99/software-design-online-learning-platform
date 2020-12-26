@@ -166,4 +166,15 @@ router.get("/:id/wishlist", middleware.isLoggedIn, async (req, res) => {
     res.redirect("./");
 });
 
+// Remove course from wishlist
+router.get("/:id/unwishlist", middleware.isLoggedIn, async (req, res) => {
+    const user = req.user;
+    const course = await Course.findById(req.params.id);
+    user.removeFromWishList(course);
+    await user.save();
+    await course.save();
+    res.redirect("/my-courses/wishlist");
+    
+});
+
 module.exports = router;
