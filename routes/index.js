@@ -535,6 +535,7 @@ router.get("/search", async (req, res) => {
 });
 
 
+// All enrolled courses
 router.get("/my-courses/learning", middleware.isLoggedIn, async (req, res) => {
     try {        
         const student = await User.findById(req.user._id).
@@ -551,11 +552,37 @@ router.get("/my-courses/learning", middleware.isLoggedIn, async (req, res) => {
             }            
         });
     
-    res.render("myLearning", {
+    res.render("myCourses", {
         enrolledCourses: student.enrolledCourses
     });
     } catch(e) {
         console.log(err);
+    }
+    
+})
+
+// wishlisted courses
+router.get("/my-courses/wishlist", middleware.isLoggedIn, async (req, res) => {
+    try {        
+        const student = await User.findById(req.user._id).
+        populate({
+            path: "wishList",
+            populate: {
+                path: "field"
+            }            
+        }).
+        populate({
+            path: "wishList",
+            populate: {
+                path: "instructor"
+            }            
+        });
+    
+    res.render("myCourses", {
+        wishList: student.wishList
+    });
+    } catch(e) {
+        console.log(e);
     }
     
 })

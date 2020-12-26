@@ -76,17 +76,23 @@ router.get("/:id", async (req, res) => {
             limit(5).
             populate("field");
         if (course) {
-            var purchase = false;
+            var isPurchased = false;
+            var isWishlisted = false;
             if (req.user) {
                 const student = req.user;
                 for (const enrolledCourse of student.enrolledCourses) {
                     if (enrolledCourse._id.equals(course._id)) {
-                        purchase = true;
+                        isPurchased = true;
+                        break;
+                    }
+                }
+                for (const wishlistedCourse of student.wishList) {
+                    if (wishlistedCourse._id.equals(course._id)) {
+                        isWishlisted = true;
                         break;
                     }
                 }
             }
-
 
             // increment views as users visit the course
             course.numViews++;
@@ -94,13 +100,15 @@ router.get("/:id", async (req, res) => {
             return res.render("courses/show", {
                 course: course,
                 recommendedCourses: recommendedCourses,
-                purchase: purchase
+                isPurchased: isPurchased,
+                isWishlisted: isWishlisted
             });
         }
     }
     res.redirect("/");
 });
 
+// Purchase and learn
 router.get("/:id/learn", middleware.isLoggedIn, async (req, res) => {
     const user = req.user;
     const course = await Course.findById(req.params.id);
@@ -146,6 +154,16 @@ router.get("/:id/learn", middleware.isLoggedIn, async (req, res) => {
         }
     }
     res.redirect("/");
+});
+
+// Add course to wishlist
+router.get("/:id/wishlist", middleware.isLoggedIn, async (req, res) => {
+    const user = req.user;
+    const course = await Course.findById(req.params.id);
+    user.addToWishList(course);
+    await user.save();
+    await course.save();
+    res.redirect("./");
 });
 
 module.exports = router;

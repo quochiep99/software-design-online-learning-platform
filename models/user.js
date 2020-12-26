@@ -60,7 +60,7 @@ UserSchema.methods.enroll = function (course) {
             return;
         }
     }
-    
+
     for (const student of course.students) {
         if (student._id.equals(this._id)) {
             return;
@@ -68,6 +68,16 @@ UserSchema.methods.enroll = function (course) {
     }
     this.enrolledCourses.push(course);
     course.students.push(this);
+}
+UserSchema.methods.addToWishList = function (course) {
+    // avoid course duplicates
+    for (const courseObj of this.wishList) {
+        if (courseObj._id.equals(course._id)) {
+            return;
+        }
+    }
+
+    this.wishList.push(course);
 }
 
 

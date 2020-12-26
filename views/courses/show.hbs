@@ -421,13 +421,21 @@
                             course.discountPrice course.originalPrice}}%
                             off</span>
                     </div>
-                    {{#if purchase}}
+                    {{#if isPurchased}}
                     <a href="/it/{{course.field.name}}/courses/{{course._id}}/learn" class="btn_1 full-width">Go to
                         course</a>
                     {{else}}
-                    <a href="/it/{{course.field.name}}/courses/{{course._id}}/learn" class="btn_1 full-width">Purchase</a>
+                    <a href="/it/{{course.field.name}}/courses/{{course._id}}/learn"
+                        class="btn_1 full-width">Purchase</a>
                     {{/if}}
-                    <a href="#" class="btn_1 full-width outline"><i class="icon_heart"></i> Add to wishlist</a>
+
+                    {{#if isWishlisted}}
+                    <a href="/it/{{course.field.name}}/courses/{{course._id}}/wishlist"
+                        class="btn_1 full-width outline"><i class="icon_heart"></i> Wishlisted</a>
+                    {{else}}
+                    <a href="/it/{{course.field.name}}/courses/{{course._id}}/wishlist"
+                        class="btn_1 full-width outline"><i class="icon_heart"></i> Add to wishlist</a>
+                    {{/if}}
                     <div id="list_feat">
                         <h3>What's includes</h3>
                         <ul>
