@@ -16,7 +16,7 @@ const UserSchema = new Schema({
         unique: true
     },
     password: reqString,
-    emailToken: String,    
+    emailToken: String,
     isConfirmed: {
         type: Boolean,
         default: false
@@ -52,5 +52,24 @@ const UserSchema = new Schema({
     ],
     briefIntroduction: String
 })
+
+UserSchema.methods.enroll = function (course) {
+    // avoid course duplicates
+    for (const courseObj of this.enrolledCourses) {
+        if (courseObj._id.equals(course._id)) {
+            return;
+        }
+    }
+    
+    for (const student of course.students) {
+        if (student._id.equals(this._id)) {
+            return;
+        }
+    }
+    this.enrolledCourses.push(course);
+    course.students.push(this);
+}
+
+
 
 module.exports = mongoose.model("User", UserSchema);
