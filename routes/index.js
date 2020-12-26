@@ -7,6 +7,7 @@ const bcrypt = require('bcryptjs');
 const passport = require("passport");
 const LocalStrategy = require("passport-local").Strategy;
 const nodemailer = require('nodemailer');
+const middleware = require("../middleware");
 
 require('dotenv').config();
 
@@ -532,5 +533,31 @@ router.get("/search", async (req, res) => {
         fields: fields
     });
 });
+
+
+router.get("/my-courses/learning", middleware.isLoggedIn, async (req, res) => {
+    try {        
+        const student = await User.findById(req.user._id).
+        populate({
+            path: "enrolledCourses",
+            populate: {
+                path: "field"
+            }            
+        }).
+        populate({
+            path: "enrolledCourses",
+            populate: {
+                path: "instructor"
+            }            
+        });
+    
+    res.render("myLearning", {
+        enrolledCourses: student.enrolledCourses
+    });
+    } catch(e) {
+        console.log(err);
+    }
+    
+})
 
 module.exports = router;

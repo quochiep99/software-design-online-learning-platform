@@ -118,21 +118,9 @@
                             <li><a href="#">Help</a></li>
                         </ul>
                     </li>
-                    <li><span><a href="#">Extra Pages</a></span>
-                        <ul>
-                            <li><a href="#">Media gallery</a></li>
-                            <li><a href="#">Cart page 1</a></li>
-                            <li><a href="#">Cart page 2</a></li>
-                            <li><a href="#">Cart page 3</a></li>
-                            <li><a href="#">Responsive pricing tables</a></li>
-                            <li><a href="#">Coming soon</a></li>
-                            <li><a href="#">Icon pack 1</a></li>
-                            <li><a href="#">Icon pack 2</a></li>
-                            <li><a href="#">Icon pack 3</a></li>
-                            <li><a href="#">Icon pack 4</a></li>
-                        </ul>
-                    </li>
-
+                    {{#if currentUser}}
+                    <li><span><a href="/my-courses/learning">My learning</a></span></li>
+                    {{/if}}
                 </ul>
             </nav>
             <!-- Search Menu -->
