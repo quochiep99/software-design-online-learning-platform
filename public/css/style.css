@@ -94,7 +94,7 @@ Author URI: http://themeforest.net/user/Ansonika/
     font-size: 0.8125rem;
     font-weight: 600;
     letter-spacing: 2px;
-    text-transform: uppercase;
+    /* text-transform: uppercase; */
   }
   .main-menu>ul>li span:hover>a {
     opacity: 0.7;
