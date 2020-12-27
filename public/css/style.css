@@ -6692,3 +6692,8 @@ div.step>div .input span {
 #profile-bg > div > div > div:nth-child(2) > form > div.step > div:nth-child(n+2):nth-child(-n+5) {
     display:none;
 }
+
+/* Brief introduction */
+[for='briefIntroduction'] {
+    color : white;
+}

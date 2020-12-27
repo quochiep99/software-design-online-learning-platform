@@ -12,7 +12,7 @@
         </div>
         {{/if}}
         <div class="row justify-content-between">
-            <div class="col-lg-5">
+            <div class="col-lg-8">
                 <form action="/profile/basic-information" method="POST">
                     <div class="form_title">
                         <h3><strong>1</strong>Basic Information</h3>
@@ -21,7 +21,7 @@
                         <div class="row">
                             <div class="col-sm-12">
                                 <span class="input">
-                                    <input class="input_field" type="text" name="name" value="{{name}}">
+                                    <input class="input_field" type="text" name="name" value="{{currentUser.name}}">
                                     <label class="input_label">
                                         <span>Name</span>
                                     </label>
@@ -31,13 +31,26 @@
                         <div class="row">
                             <div class="col-sm-12">
                                 <span class="input">
-                                    <input class="input_field" type="email" name="email" value="{{email}}">
+                                    <input class="input_field" type="email" name="email" value="{{currentUser.email}}">
                                     <label class="input_label">
                                         <span>Email</span>
                                     </label>
                                 </span>
                             </div>
                         </div>
+
+                        {{#if isInstructor}}
+                        <div class="row">
+                            <div class="col-sm-12">                                
+                                <span class="input">
+                                    <label for="briefIntroduction">Brief Introduction</label>
+                                    <textarea class="form-control" id="briefIntroduction"
+                                    rows="3" name="briefIntroduction">{{currentUser.briefIntroduction}}</textarea>
+                                </span>
+                            </div>
+                        </div>
+                        {{/if}}
+
                         <div class="row">
                             <div class="col-sm-12">
                                 <button type="submit" class="btn_1 full-width">Save</button>
@@ -47,7 +60,7 @@
                 </form>
             </div>
 
-            <div class="col-lg-5">
+            <div class="col-lg-3">
                 <form action="/profile/account-security" method="POST">
                     <div class="form_title">
                         <h3><strong>2</strong>Account Security</h3>

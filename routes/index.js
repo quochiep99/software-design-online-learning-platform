@@ -592,21 +592,27 @@ router.get("/my-courses/wishlist", middleware.ensureAuthenticated, async (req, r
 
 // Update profile
 router.get("/profile", middleware.ensureAuthenticated, (req, res) => {
+    isInstructor = req.user.role === "i" ? true : false;
     res.render("profile", {
-        // layout:false,
-        name: req.user.name,
-        email: req.user.email
+        isInstructor: isInstructor
     });
 })
 
 router.post("/profile/basic-information", middleware.ensureAuthenticated, async (req, res) => {
     const name = req.body.name;
     const email = req.body.email;
-
+    const isInstructor = req.user.role === "i" ? true : false;
+    var briefIntroduction = "";
+    if (isInstructor) {
+        briefIntroduction = req.body.briefIntroduction;
+    }
     const user = await User.findById(req.user._id);
     if (user) {
         user.name = name || user.name;
         user.email = email || user.email;
+        if (isInstructor) {
+            user.briefIntroduction = briefIntroduction || user.briefIntroduction;
+        }
         await user.save();
         req.flash("success_msg", "Basic information updated !");
         return res.redirect("/profile");
