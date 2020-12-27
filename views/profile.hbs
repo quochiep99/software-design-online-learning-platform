@@ -5,9 +5,15 @@
             {{success_msg}}
         </div>
         {{/if}}
+
+        {{#if error_msg}}
+        <div class="alert alert-danger text-center" role="alert">
+            {{error_msg}}
+        </div>
+        {{/if}}
         <div class="row justify-content-between">
             <div class="col-lg-5">
-                <form action="/profile" method="POST">
+                <form action="/profile/basic-information" method="POST">
                     <div class="form_title">
                         <h3><strong>1</strong>Basic Information</h3>
                     </div>
@@ -34,7 +40,7 @@
                         </div>
                         <div class="row">
                             <div class="col-sm-12">
-                                <button type="submit" href="#" class="btn_1 full-width">Save</button>
+                                <button type="submit" class="btn_1 full-width">Save</button>
                             </div>
                         </div>
                     </div>
@@ -42,7 +48,7 @@
             </div>
 
             <div class="col-lg-5">
-                <form action="/profile" method="POST">
+                <form action="/profile/account-security" method="POST">
                     <div class="form_title">
                         <h3><strong>2</strong>Account Security</h3>
                     </div>
@@ -50,7 +56,7 @@
                         <div class="row">
                             <div class="col-sm-12">
                                 <span class="input">
-                                    <input class="input_field" type="password" name="name" value="password"
+                                    <input class="input_field" type="password" name="password" value="password"
                                         disabled="disabled" readonly="readonly">
                                     <label class="input_label">
                                         <span>Password</span>
@@ -62,7 +68,7 @@
                         <div class="row">
                             <div class="col-sm-12">
                                 <span class="input">
-                                    <input class="input_field" type="password" name="name" value="password">
+                                    <input class="input_field" type="password" name="currentPassword" required>
                                     <label class="input_label">
                                         <span>Current password</span>
                                     </label>
@@ -72,7 +78,7 @@
                         <div class="row">
                             <div class="col-sm-12">
                                 <span class="input">
-                                    <input class="input_field" type="password" name="name" value="password">
+                                    <input class="input_field" type="password" name="newPassword" required>
                                     <label class="input_label">
                                         <span>New password</span>
                                     </label>
@@ -82,7 +88,7 @@
                         <div class="row">
                             <div class="col-sm-12">
                                 <span class="input">
-                                    <input class="input_field" type="password" name="name" value="password">
+                                    <input class="input_field" type="password" name="confirmedPassword" required>
                                     <label class="input_label">
                                         <span>Confirm new password</span>
                                     </label>
@@ -90,16 +96,25 @@
                             </div>
                         </div>
 
+                        <div class="row">
+                            <div class="col-sm-12">
+                                <button type="submit" class="btn_1 full-width">Save</button>
+                            </div>
+                        </div>
+
                         <div class="row" id="change-password">
                             <div class="col-sm-12">
-                                <button type="button" href="#" class="btn_1 full-width">Change password</button>
+                                <button type="button" class="btn_1 full-width">Change password</button>
                             </div>
                         </div>
                     </div>
                 </form>
+
             </div>
 
+
         </div>
+
         <!-- /row -->
     </div>
     <!-- /container -->

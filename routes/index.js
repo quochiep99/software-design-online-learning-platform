@@ -596,17 +596,47 @@ router.get("/profile", middleware.isLoggedIn, (req, res) => {
     });
 })
 
-router.post("/profile", middleware.isLoggedIn, async (req, res) => {
-    const { name, email } = req.body;
+router.post("/profile/basic-information", middleware.isLoggedIn, async (req, res) => {
+    const name = req.body.name;
+    const email = req.body.email;
+
     const user = await User.findById(req.user._id);
     if (user) {
-        user.name = name;
-        user.email = email;
+        user.name = name || user.name;
+        user.email = email || user.email;
         await user.save();
-        req.flash("success_msg", "Your changes have been successfully saved !")
-        res.redirect("/profile");
+        req.flash("success_msg", "Basic information updated !");
+        return res.redirect("/profile");
     }
-    res.send("error");
+    res.redirect("/");
 
+})
+
+router.post("/profile/account-security", middleware.isLoggedIn, async (req, res) => {
+    const currentPassword = req.body.currentPassword;
+    const newPassword = req.body.newPassword;
+    const confirmedPassword = req.body.confirmedPassword;
+
+    const user = await User.findById(req.user._id);
+
+    if (currentPassword) {
+        if (await bcrypt.compare(currentPassword, user.password)) {
+            if (newPassword === confirmedPassword) {
+                const salt = await bcrypt.genSalt(10);
+                const newHashedPassword = await bcrypt.hash(newPassword, salt);
+                user.password = newHashedPassword;
+                await user.save();
+                req.flash("success_msg", "Password changed successfully !")
+                return res.redirect("/profile");
+            } else {
+                req.flash("error_msg", "New passwords do not match !");
+                return res.redirect("/profile");
+            }
+        } else {
+            req.flash("error_msg", "Wrong password. Please try again !");
+            return res.redirect("/profile");
+        }
+    }
+    res.redirect("/profile");
 })
 module.exports = router;
