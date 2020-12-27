@@ -447,7 +447,10 @@ router.get("/login", (req, res) => {
     res.render("login", { layout: false });
 })
 
-router.post("/login", passport.authenticate("local"), (req, res) => {
+router.post("/login", passport.authenticate("local", {
+    failureRedirect: "/login",
+    failureFlash: true
+}), (req, res) => {
     res.redirect(req.session.returnTo || "/");
     delete req.session.returnTo;
 })

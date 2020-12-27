@@ -4,11 +4,8 @@ const mongoose = require('mongoose');
 const bodyParser = require('body-parser');
 const passport = require("passport");
 const session = require('express-session');
-// const moment = require("moment");
-// const urlManipulator = require("./utils/url");
 const helpers = require("./helpers/helpers");
 const flash = require('connect-flash');
-
 
 // Requiring routes
 const courseRoutes = require("./routes/courses");
@@ -56,8 +53,6 @@ app.engine('.hbs', exphbs({
     }
 }));
 app.set('view engine', '.hbs');
-
-
 
 // Serve static files
 app.use(express.static("public"));
