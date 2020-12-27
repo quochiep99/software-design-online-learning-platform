@@ -6671,3 +6671,19 @@ div.step .btn_1 {
   padding-top: 120px;
   padding-bottom: 500px;
 }
+
+#profile-bg>div>div>div>div>div.form_title>h3 {
+  color: white;
+}
+
+#profile-bg>div>div>div>div>div.step {
+  margin-top: 50px;
+}
+
+#profile-bg>div>div>div>div>div.step>div>div>span>input {
+  color: greenyellow;
+}
+
+div.step > div .input span {
+  color: white;
+}
