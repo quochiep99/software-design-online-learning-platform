@@ -67,5 +67,31 @@ helpers.generateNew = (updatedAt, options) => {
         return options.fn();
     }
 }
+helpers.generateProfileOptions = (currentUser) => {
+    if (!currentUser) {
+        return;
+    }
+    // if currentUser is a student
+    if (currentUser.role === "s") {
+        return `
+        <li><span><a href="#">Student</a></span>
+                        <ul>                            
+                            <li><a href="/my-courses/learning">All enrolled courses</a></li>
+                            <li><a href="/my-courses/wishlist">Wishlist</a></li>
+                        </ul>
+                    </li>
+        `
+    } else if (currentUser.role === "i") {
+        // if currentUser is an instructor
+        return `
+        <li><span><a href="#">Instructor</a></span>
+                        <ul>
+                            <li><a href="#">Menu 2</a></li>
+                            <li><a href="#">About</a></li>                            
+                        </ul>
+                    </li>
+        `
+    }
 
+}
 module.exports = helpers;

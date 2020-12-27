@@ -49,7 +49,8 @@ app.engine('.hbs', exphbs({
         getFieldName: helpers.getFieldName,
         generatePagination: helpers.generatePagination,
         generateBestSeller: helpers.generateBestSeller,
-        generateNew: helpers.generateNew
+        generateNew: helpers.generateNew,
+        generateProfileOptions: helpers.generateProfileOptions
     }
 }));
 app.set('view engine', '.hbs');

@@ -118,9 +118,8 @@
                             <li><a href="#">Help</a></li>
                         </ul>
                     </li>
-                    {{#if currentUser}}
-                    <li><span><a href="/my-courses/learning">My learning</a></span></li>
-                    {{/if}}
+                    {{{generateProfileOptions currentUser}}}
+                    
                 </ul>
             </nav>
             <!-- Search Menu -->
