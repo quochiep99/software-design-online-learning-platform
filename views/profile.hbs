@@ -1,5 +1,10 @@
 <div id="profile-bg">
     <div class="container margin_120_500">
+        {{#if success_msg}}
+        <div class="alert alert-success text-center" role="alert">
+            {{success_msg}}
+        </div>
+        {{/if}}
         <div class="row justify-content-between">
             <div class="col-lg-5">
                 <form action="/profile" method="POST">
@@ -9,11 +14,6 @@
                     <div class="step">
                         <div class="row">
                             <div class="col-sm-12">
-                                {{#if success_msg}}
-                                <div class="alert alert-success" role="alert">
-                                    {{success_msg}}
-                                </div>
-                                {{/if}}
                                 <span class="input">
                                     <input class="input_field" type="text" name="name" value="{{name}}">
                                     <label class="input_label">
@@ -49,11 +49,6 @@
                     <div class="step">
                         <div class="row">
                             <div class="col-sm-12">
-                                {{#if success_msg}}
-                                <div class="alert alert-success" role="alert">
-                                    {{success_msg}}
-                                </div>
-                                {{/if}}
                                 <span class="input">
                                     <input class="input_field" type="password" name="name" value="password"
                                         disabled="disabled" readonly="readonly">
@@ -66,7 +61,38 @@
 
                         <div class="row">
                             <div class="col-sm-12">
-                                <button type="submit" href="#" class="btn_1 full-width">Change password</button>
+                                <span class="input">
+                                    <input class="input_field" type="password" name="name" value="password">
+                                    <label class="input_label">
+                                        <span>Current password</span>
+                                    </label>
+                                </span>
+                            </div>
+                        </div>
+                        <div class="row">
+                            <div class="col-sm-12">
+                                <span class="input">
+                                    <input class="input_field" type="password" name="name" value="password">
+                                    <label class="input_label">
+                                        <span>New password</span>
+                                    </label>
+                                </span>
+                            </div>
+                        </div>
+                        <div class="row">
+                            <div class="col-sm-12">
+                                <span class="input">
+                                    <input class="input_field" type="password" name="name" value="password">
+                                    <label class="input_label">
+                                        <span>Confirm new password</span>
+                                    </label>
+                                </span>
+                            </div>
+                        </div>
+
+                        <div class="row" id="change-password">
+                            <div class="col-sm-12">
+                                <button type="button" href="#" class="btn_1 full-width">Change password</button>
                             </div>
                         </div>
                     </div>
