@@ -588,8 +588,25 @@ router.get("/my-courses/wishlist", middleware.isLoggedIn, async (req, res) => {
 })
 
 // Update profile
-router.get("/profile",middleware.isLoggedIn ,(req, res) => {
-    res.render("profile");
+router.get("/profile", middleware.isLoggedIn, (req, res) => {
+    res.render("profile", {
+        // layout:false,
+        name: req.user.name,
+        email: req.user.email
+    });
 })
 
+router.post("/profile", middleware.isLoggedIn, async (req, res) => {
+    const { name, email } = req.body;
+    const user = await User.findById(req.user._id);
+    if (user) {
+        user.name = name;
+        user.email = email;
+        await user.save();
+        req.flash("success_msg", "Your changes have been successfully saved !")
+        res.redirect("/profile");
+    }
+    res.send("error");
+
+})
 module.exports = router;
