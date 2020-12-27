@@ -447,11 +447,11 @@ router.get("/login", (req, res) => {
     res.render("login", { layout: false });
 })
 
-router.post("/login", passport.authenticate("local", {
-    failureRedirect: "/login",
-    successRedirect: "/",
-    failureFlash: true
-}))
+router.post("/login", passport.authenticate("local"), (req, res) => {
+    res.redirect(req.session.returnTo || "/");
+    delete req.session.returnTo;
+})
+
 
 // Log out
 router.get("/logout", (req, res) => {
@@ -536,7 +536,7 @@ router.get("/search", async (req, res) => {
 
 
 // All enrolled courses
-router.get("/my-courses/learning", middleware.isLoggedIn, async (req, res) => {
+router.get("/my-courses/learning", middleware.ensureAuthenticated, async (req, res) => {
     try {
         const student = await User.findById(req.user._id).
             populate({
@@ -562,7 +562,7 @@ router.get("/my-courses/learning", middleware.isLoggedIn, async (req, res) => {
 })
 
 // wishlisted courses
-router.get("/my-courses/wishlist", middleware.isLoggedIn, async (req, res) => {
+router.get("/my-courses/wishlist", middleware.ensureAuthenticated, async (req, res) => {
     try {
         const student = await User.findById(req.user._id).
             populate({
@@ -588,7 +588,7 @@ router.get("/my-courses/wishlist", middleware.isLoggedIn, async (req, res) => {
 })
 
 // Update profile
-router.get("/profile", middleware.isLoggedIn, (req, res) => {
+router.get("/profile", middleware.ensureAuthenticated, (req, res) => {
     res.render("profile", {
         // layout:false,
         name: req.user.name,
@@ -596,7 +596,7 @@ router.get("/profile", middleware.isLoggedIn, (req, res) => {
     });
 })
 
-router.post("/profile/basic-information", middleware.isLoggedIn, async (req, res) => {
+router.post("/profile/basic-information", middleware.ensureAuthenticated, async (req, res) => {
     const name = req.body.name;
     const email = req.body.email;
 
@@ -612,7 +612,7 @@ router.post("/profile/basic-information", middleware.isLoggedIn, async (req, res
 
 })
 
-router.post("/profile/account-security", middleware.isLoggedIn, async (req, res) => {
+router.post("/profile/account-security", middleware.ensureAuthenticated, async (req, res) => {
     const currentPassword = req.body.currentPassword;
     const newPassword = req.body.newPassword;
     const confirmedPassword = req.body.confirmedPassword;

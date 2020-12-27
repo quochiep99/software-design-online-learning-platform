@@ -109,7 +109,7 @@ router.get("/:id", async (req, res) => {
 });
 
 // Purchase and learn
-router.get("/:id/learn", middleware.isLoggedIn, async (req, res) => {
+router.get("/:id/learn", middleware.ensureAuthenticated , async (req, res) => {
     const user = req.user;
     const course = await Course.findById(req.params.id);
     user.enroll(course);
@@ -157,7 +157,7 @@ router.get("/:id/learn", middleware.isLoggedIn, async (req, res) => {
 });
 
 // Add course to wishlist
-router.get("/:id/wishlist", middleware.isLoggedIn, async (req, res) => {
+router.get("/:id/wishlist", middleware.ensureAuthenticated , async (req, res) => {
     const user = req.user;
     const course = await Course.findById(req.params.id);
     user.addToWishList(course);
@@ -167,7 +167,7 @@ router.get("/:id/wishlist", middleware.isLoggedIn, async (req, res) => {
 });
 
 // Remove course from wishlist
-router.get("/:id/unwishlist", middleware.isLoggedIn, async (req, res) => {
+router.get("/:id/unwishlist", middleware.ensureAuthenticated , async (req, res) => {
     const user = req.user;
     const course = await Course.findById(req.params.id);
     user.removeFromWishList(course);
