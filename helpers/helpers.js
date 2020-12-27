@@ -86,8 +86,8 @@ helpers.generateProfileOptions = (currentUser) => {
         return `
         <li><span><a href="#">Instructor</a></span>
                         <ul>
-                            <li><a href="#">Menu 2</a></li>
-                            <li><a href="#">About</a></li>                            
+                            <li><a href="/courses/new">New course</a></li>
+                            <li><a href="#">View uploaded courses</a></li>                            
                         </ul>
                     </li>
         `

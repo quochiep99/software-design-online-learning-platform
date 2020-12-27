@@ -373,6 +373,8 @@ router.post("/register", async (req, res) => {
 
 
 })
+
+// Email confirmation
 router.get("/confirm", async (req, res) => {
     try {
         const token = req.query.token;
@@ -442,11 +444,9 @@ passport.deserializeUser(function (id, cb) {
         cb(null, user);
     })
 })
-
 router.get("/login", (req, res) => {
     res.render("login", { layout: false });
 })
-
 router.post("/login", passport.authenticate("local", {
     failureRedirect: "/login",
     failureFlash: true
@@ -454,7 +454,6 @@ router.post("/login", passport.authenticate("local", {
     res.redirect(req.session.returnTo || "/");
     delete req.session.returnTo;
 })
-
 
 // Log out
 router.get("/logout", (req, res) => {
@@ -650,5 +649,10 @@ router.post("/profile/account-security", middleware.ensureAuthenticated, async (
         }
     }
     res.redirect("/profile");
+})
+
+// Create new courses
+router.get("/courses/new", (req, res) => {
+    res.render("courses/new");
 })
 module.exports = router;
