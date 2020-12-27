@@ -621,7 +621,10 @@ router.post("/profile/account-security", middleware.isLoggedIn, async (req, res)
 
     if (currentPassword) {
         if (await bcrypt.compare(currentPassword, user.password)) {
-            if (newPassword === confirmedPassword) {
+            if (newPassword === currentPassword) {
+                req.flash("error_msg", "You are entering old password. Please enter another one !");
+                return res.redirect("/profile");
+            } else if (newPassword === confirmedPassword) {
                 const salt = await bcrypt.genSalt(10);
                 const newHashedPassword = await bcrypt.hash(newPassword, salt);
                 user.password = newHashedPassword;
