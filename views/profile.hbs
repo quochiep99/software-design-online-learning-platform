@@ -2,7 +2,7 @@
     <div class="container margin_120_500">
         <div class="row">
             <div class="col-lg-8">
-                <div>                    
+                <form action="/profile" method="POST">                    
                     <div class="form_title">
                         <h3><strong>1</strong>Your Details</h3>                        
                     </div>
@@ -10,7 +10,7 @@
                         <div class="row">
                             <div class="col-sm-8">
                                 <span class="input">
-                                    <input class="input_field" type="text" value="hiep">
+                                    <input class="input_field" type="text" name="name" value="hiep">
                                     <label class="input_label">
                                         <span>Name</span>
                                     </label>
@@ -20,7 +20,7 @@
                         <div class="row">
                             <div class="col-sm-8">
                                 <span class="input">
-                                    <input class="input_field" type="email" value="doanquochiep32@gmail.com">
+                                    <input class="input_field" type="email" name="email" value="doanquochiep32@gmail.com">
                                     <label class="input_label">
                                         <span>Email</span>
                                     </label>
@@ -29,11 +29,11 @@
                         </div>
                         <div class="row">
                             <div class="col-sm-8">
-                                <a href="#" class="btn_1 full-width">Save</a>
+                                <button type="submit" href="#" class="btn_1 full-width">Save</button>
                             </div>
                         </div>
                     </div>
-                </div>
+                </form>
             </div>
 
 
