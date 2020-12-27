@@ -40,18 +40,7 @@ app.engine('.hbs', exphbs({
         allowProtoPropertiesByDefault: true,
         allowProtoMethodsByDefault: true
     },
-    helpers: {
-        getTimeAgo: helpers.getTimeAgo,
-        getLastUpdatedString: helpers.getLastUpdatedString,
-        calculateDiscountPercentage: helpers.calculateDiscountPercentage,
-
-        // function to convert i.e. 'web-development' into 'Web Development'
-        getFieldName: helpers.getFieldName,
-        generatePagination: helpers.generatePagination,
-        generateBestSeller: helpers.generateBestSeller,
-        generateNew: helpers.generateNew,
-        generateProfileOptions: helpers.generateProfileOptions
-    }
+    helpers: helpers
 }));
 app.set('view engine', '.hbs');
 
