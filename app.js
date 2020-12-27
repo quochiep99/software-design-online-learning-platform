@@ -151,11 +151,10 @@ app.use("/", indexRoutes);
 app.use("/it/:field/courses", courseRoutes)
 
 // Handle 404 - Keep this as a last route
-app.use(function (req, res, next) {
-    res.status(404);
+app.use(function (req, res, next) {    
     res.render("404");
 });
 
-app.listen(PORT, (req, res) => {
+app.listen(PORT, () => {
     console.log("Server is starting at port " + PORT);
 })

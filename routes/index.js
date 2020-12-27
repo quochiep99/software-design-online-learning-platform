@@ -537,54 +537,59 @@ router.get("/search", async (req, res) => {
 
 // All enrolled courses
 router.get("/my-courses/learning", middleware.isLoggedIn, async (req, res) => {
-    try {        
+    try {
         const student = await User.findById(req.user._id).
-        populate({
-            path: "enrolledCourses",
-            populate: {
-                path: "field"
-            }            
-        }).
-        populate({
-            path: "enrolledCourses",
-            populate: {
-                path: "instructor"
-            }            
+            populate({
+                path: "enrolledCourses",
+                populate: {
+                    path: "field"
+                }
+            }).
+            populate({
+                path: "enrolledCourses",
+                populate: {
+                    path: "instructor"
+                }
+            });
+
+        res.render("myCourses", {
+            enrolledCourses: student.enrolledCourses
         });
-    
-    res.render("myCourses", {
-        enrolledCourses: student.enrolledCourses
-    });
-    } catch(e) {
+    } catch (e) {
         console.log(err);
     }
-    
+
 })
 
 // wishlisted courses
 router.get("/my-courses/wishlist", middleware.isLoggedIn, async (req, res) => {
-    try {        
+    try {
         const student = await User.findById(req.user._id).
-        populate({
-            path: "wishList",
-            populate: {
-                path: "field"
-            }            
-        }).
-        populate({
-            path: "wishList",
-            populate: {
-                path: "instructor"
-            }            
+            populate({
+                path: "wishList",
+                populate: {
+                    path: "field"
+                }
+            }).
+            populate({
+                path: "wishList",
+                populate: {
+                    path: "instructor"
+                }
+            });
+
+        res.render("myCourses", {
+            wishList: student.wishList
         });
-    
-    res.render("myCourses", {
-        wishList: student.wishList
-    });
-    } catch(e) {
+    } catch (e) {
         console.log(e);
     }
-    
+
+})
+
+// Update profile
+router.get("/profile",middleware.isLoggedIn ,(req, res) => {
+    res.render("profile");
 })
 
 module.exports = router;
