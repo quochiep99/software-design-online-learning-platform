@@ -1,7 +1,7 @@
-
 /* ==========================================================================
    #FONT
    ========================================================================== */
+
 .font-robo {
   font-family: "Roboto", "Arial", "Helvetica Neue", sans-serif;
 }
@@ -17,6 +17,7 @@
 /* ==========================================================================
    #GRID
    ========================================================================== */
+
 .row {
   display: -webkit-box;
   display: -webkit-flex;
@@ -44,8 +45,7 @@
   margin: 0 -15px;
 }
 
-.row-refine .col-3 .input-group-desc,
-.row-refine .col-9 .input-group-desc {
+.row-refine .col-3 .input-group-desc, .row-refine .col-9 .input-group-desc {
   margin-bottom: 0;
 }
 
@@ -95,8 +95,7 @@
   .form-row {
     display: block;
   }
-  .form-row .name,
-  .form-row .value {
+  .form-row .name, .form-row .value {
     display: block;
     width: 100%;
   }
@@ -105,8 +104,7 @@
   }
 }
 
-.col-3,
-.col-9 {
+.col-3, .col-9 {
   padding: 0 15px;
   position: relative;
   width: 100%;
@@ -156,10 +154,12 @@
 /* ==========================================================================
    #BOX-SIZING
    ========================================================================== */
+
 /**
  * More sensible default box-sizing:
  * css-tricks.com/inheriting-box-sizing-probably-slightly-better-best-practice
  */
+
 html {
   -webkit-box-sizing: border-box;
   -moz-box-sizing: border-box;
@@ -180,16 +180,12 @@ html {
 /* ==========================================================================
    #RESET
    ========================================================================== */
+
 /**
  * A very simple reset that sits on top of Normalize.css.
  */
-body,
-h1, h2, h3, h4, h5, h6,
-blockquote, p, pre,
-dl, dd, ol, ul,
-figure,
-hr,
-fieldset, legend {
+
+body, h1, h2, h3, h4, h5, h6, blockquote, p, pre, dl, dd, ol, ul, figure, hr, fieldset, legend {
   margin: 0;
   padding: 0;
 }
@@ -197,14 +193,15 @@ fieldset, legend {
 /**
  * Remove trailing margins from nested lists.
  */
-li > ol,
-li > ul {
+
+li>ol, li>ul {
   margin-bottom: 0;
 }
 
 /**
  * Remove default table spacing.
  */
+
 table {
   border-collapse: collapse;
   border-spacing: 0;
@@ -214,6 +211,7 @@ table {
  * 1. Reset Chrome and Firefox behaviour which sets a `min-width: min-content;`
  *    on fieldsets.
  */
+
 fieldset {
   min-width: 0;
   /* [1] */
@@ -229,6 +227,7 @@ button {
 /* ==========================================================================
    #PAGE WRAPPER
    ========================================================================== */
+
 .page-wrapper {
   min-height: 100vh;
 }
@@ -270,6 +269,7 @@ h6 {
 /* ==========================================================================
    #BACKGROUND
    ========================================================================== */
+
 .bg-blue {
   background: #2c6ed5;
 }
@@ -305,6 +305,7 @@ h6 {
 /* ==========================================================================
    #SPACING
    ========================================================================== */
+
 .p-t-100 {
   padding-top: 100px;
 }
@@ -360,6 +361,7 @@ h6 {
 /* ==========================================================================
    #WRAPPER
    ========================================================================== */
+
 .wrapper {
   margin: 0 auto;
 }
@@ -383,6 +385,7 @@ h6 {
 /* ==========================================================================
    #BUTTON
    ========================================================================== */
+
 .btn {
   display: inline-block;
   line-height: 50px;
@@ -444,6 +447,7 @@ h6 {
 /* ==========================================================================
    #DATE PICKER
    ========================================================================== */
+
 td.active {
   background-color: #2c6ed5;
 }
@@ -494,6 +498,7 @@ input[type="date" i] {
 /* ==========================================================================
    #FORM
    ========================================================================== */
+
 input {
   outline: none;
   margin: 0;
@@ -525,11 +530,11 @@ input {
   cursor: pointer;
 }
 
-.radio-container input:checked ~ .checkmark {
+.radio-container input:checked~.checkmark {
   background-color: #e5e5e5;
 }
 
-.radio-container input:checked ~ .checkmark:after {
+.radio-container input:checked~.checkmark:after {
   display: block;
 }
 
@@ -625,6 +630,7 @@ input {
 /* ==========================================================================
    #SELECT2
    ========================================================================== */
+
 .select--no-search .select2-search {
   display: none !important;
 }
@@ -718,6 +724,7 @@ input {
 /* ==========================================================================
    #TITLE
    ========================================================================== */
+
 .title {
   font-size: 24px;
   text-transform: uppercase;
@@ -729,6 +736,7 @@ input {
 /* ==========================================================================
    #CARD
    ========================================================================== */
+
 .card {
   -webkit-border-radius: 3px;
   -moz-border-radius: 3px;
@@ -767,4 +775,10 @@ input {
     padding: 40px 30px;
     padding-bottom: 50px;
   }
+}
+
+/* New course form */
+
+h2[class='form-title'] {
+  text-align: center;
 }
