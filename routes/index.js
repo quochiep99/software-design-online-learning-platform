@@ -680,6 +680,8 @@ router.get("/courses/new", (req, res) => {
 
 // Upload files route
 router.post("/upload", (req, res) => {
+    
+
     upload(req, res, function (err) {
         if (err) {
             res.render("courses/new", {
