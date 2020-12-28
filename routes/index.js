@@ -687,8 +687,17 @@ router.post("/upload", (req, res) => {
                 error_msg: err
             })
         } else {
-            console.log(req.file);
-            res.send("test ok");
+            if (!req.file) {
+                res.render("courses/new", {
+                    layout: false,
+                    error_msg: "Please choose your course avatar first !"
+                })
+            } else {
+                res.render("courses/new", {
+                    layout: false,
+                    error_msg: "File Uploaded !"
+                })
+            }
         }
     })
 })
