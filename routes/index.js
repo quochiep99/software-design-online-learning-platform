@@ -8,10 +8,30 @@ const passport = require("passport");
 const LocalStrategy = require("passport-local").Strategy;
 const nodemailer = require('nodemailer');
 const middleware = require("../middleware");
+const multer = require("multer");
+const path = require("path");
+const checkFileType = require("../utils/checkFileType");
 
 require('dotenv').config();
 
 const jwt = require("jsonwebtoken");
+
+
+// Set Storage Engine
+const storage = multer.diskStorage({
+    destination: "./public/uploads",
+    filename: function (req, file, cb) {
+        cb(null, "course_avatar_" + Date.now() + "_" + file.originalname)
+    }
+})
+
+// Init Upload
+const upload = multer({
+    storage: storage,
+    fileFilter: (req, file, cb) => {
+        checkFileType(file, cb);
+    }
+}).single("courseImage");
 
 // Home page
 router.get("/", async (req, res) => {
@@ -656,5 +676,20 @@ router.get("/courses/new", (req, res) => {
     res.render("courses/new", {
         layout: false
     });
+})
+
+// Upload files route
+router.post("/upload", (req, res) => {
+    upload(req, res, function (err) {
+        if (err) {
+            res.render("courses/new", {
+                layout: false,
+                error_msg: err
+            })
+        } else {
+            console.log(req.file);
+            res.send("test ok");
+        }
+    })
 })
 module.exports = router;

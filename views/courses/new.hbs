@@ -36,7 +36,13 @@
                     <h2 class="form-title"><a href="/"><img src="/img/logo.png" alt=""></a></h2>
                 </div>
                 <div class="card-body">
-                    <form method="POST">
+                    {{#if error_msg}}
+                    <div class="alert alert-danger" role="alert">
+                        {{error_msg}}
+                    </div>
+                    {{/if}}
+
+                    <form method="POST" action="/upload" enctype="multipart/form-data">
                         <div class="form-row">
                             <div class="name">Course title</div>
                             <div class="value">
@@ -80,10 +86,19 @@
                                             <option>Software Testing</option>
                                             <option>Software Engineering</option>
                                             <option>Development Tools</option>
-                                            <option>NoCode Development</option>                                            
+                                            <option>NoCode Development</option>
                                         </select>
                                         <div class="select-dropdown"></div>
                                     </div>
+                                </div>
+                            </div>
+                        </div>
+
+                        <div class="form-row">
+                            <div class="name">Course Image</div>
+                            <div class="value">
+                                <div class="input-group">
+                                    <input class="input--style-5" type="file" name="courseImage">
                                 </div>
                             </div>
                         </div>
