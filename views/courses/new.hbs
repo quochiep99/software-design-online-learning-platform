@@ -56,10 +56,34 @@
                         </div>
 
                         <div class="form-row">
-                            <div class="name">Course description</div>
+                            <div class="name">Description</div>
                             <div class="value">
                                 <div class="input-group">
-                                    <input class="input--style-5" type="text" name="description">
+                                    <input id="description" class="input--style-5" type="text" name="description">
+                                </div>
+                            </div>
+                        </div>
+
+                        <div class="form-row">
+                            <div class="name">Field</div>
+                            <div class="value">
+                                <div class="input-group">
+                                    <div class="rs-select2 js-select-simple select--no-search">
+                                        <select name="subject">
+                                            <option disabled="disabled" selected="selected">Choose field</option>
+                                            <option>Web Development</option>
+                                            <option>Data Science</option>
+                                            <option>Mobile Development</option>
+                                            <option>Programming Languages</option>
+                                            <option>Game Development</option>
+                                            <option>Database Design & Development</option>
+                                            <option>Software Testing</option>
+                                            <option>Software Engineering</option>
+                                            <option>Development Tools</option>
+                                            <option>NoCode Development</option>                                            
+                                        </select>
+                                        <div class="select-dropdown"></div>
+                                    </div>
                                 </div>
                             </div>
                         </div>
@@ -159,7 +183,18 @@
     <!-- Main JS-->
     <script src="/js/global.js"></script>
 
-</body><!-- This templates was made by Colorlib (https://colorlib.com) -->
+    <script src="https://cdn.ckeditor.com/ckeditor5/24.0.0/classic/ckeditor.js"></script>
+    <script>
+        ClassicEditor
+            .create(document.querySelector('#description'))
+            .then(editor => {
+                window.editor = editor;
+            })
+            .catch(error => {
+                console.error('There was a problem initializing the editor.', error);
+            });
+    </script>
+
+</body>
 
 </html>
-<!-- end document-->
