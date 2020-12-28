@@ -653,6 +653,8 @@ router.post("/profile/account-security", middleware.ensureAuthenticated, async (
 
 // Create new courses
 router.get("/courses/new", (req, res) => {
-    res.render("courses/new");
+    res.render("courses/new", {
+        layout: false
+    });
 })
 module.exports = router;
