@@ -14,7 +14,7 @@
             <p>Last updated {{getLastUpdatedString course.updatedAt}}</p>
 
             {{#isInstructor currentUser course}}
-            <a href="/courses/{{course._id}}/edit" class="btn btn-info">Edit this course</a>
+            <a href="/it/{{course.field.name}}/courses/{{course._id}}/edit" class="btn btn-info">Edit this course</a>
             {{/isInstructor}}
 
         </div>

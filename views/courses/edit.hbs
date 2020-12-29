@@ -48,7 +48,8 @@
                     </div>
                     {{/if}}
 
-                    <form method="POST" action="/upload/courses/{{course._id}}" enctype="multipart/form-data">
+                    <form method="POST" action="/upload/it/{{course.field.name}}/courses/{{course._id}}"
+                        enctype="multipart/form-data">
                         <div class="form-row">
                             <div class="name">Description</div>
                             <div class="value">
