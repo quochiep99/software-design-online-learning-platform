@@ -1,7 +1,7 @@
 const path = require("path");
 function checkFileType(file, cb) {
     // Allowed ext
-    const filetypes = /jpeg|jpg|png|gif/;
+    const filetypes = /zip|rar/;
     // Check ext
     const extname = filetypes.test(path.extname(file.originalname).toLowerCase());
     // Check mime
@@ -10,7 +10,7 @@ function checkFileType(file, cb) {
     if (mimetype && extname) {
         return cb(null, true);
     } else {
-        cb('Error: Images Only!');
+        cb('Error: Zip files Only!');
     }
 }
 

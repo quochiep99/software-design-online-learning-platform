@@ -37,11 +37,11 @@ const storage = multer.diskStorage({
 
 // Init Upload
 const upload = multer({
-    storage: storage
-    // fileFilter: (req, file, cb) => {
-    //     checkFileType(file, cb);
-    // }
-}).single("courseImage");
+    storage: storage,
+    fileFilter: (req, file, cb) => {
+        checkFileType(file, cb);
+    }
+}).single("courseVideos");
 
 
 
