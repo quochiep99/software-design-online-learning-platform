@@ -13,13 +13,15 @@ const path = require("path");
 const checkFileType = require("../utils/checkFileType");
 const decompress = require('decompress');
 const fs = require('fs')
-
+const dirTree = require("directory-tree");
+const models = require("../utils/models")
 
 
 
 require('dotenv').config();
 
 const jwt = require("jsonwebtoken");
+const { filter } = require("../middleware");
 
 
 // Set Storage Engine
@@ -697,7 +699,7 @@ router.get("/courses/new", middleware.ensureAuthenticated, (req, res) => {
 
 // Upload files route
 router.post("/upload", (req, res) => {
-    upload(req, res, function (err) {
+    upload(req, res, async function (err) {
         if (err) {
             res.render("courses/new", {
                 layout: false,
@@ -717,6 +719,21 @@ router.post("/upload", (req, res) => {
                 });
                 // Remove the zip file
                 fs.unlinkSync(filePath);
+
+
+                // Get JSON from directory structure
+                const courseVideosPath = `public/uploads/${path.parse(req.file.originalname).name}`;
+                const filteredTree = dirTree(courseVideosPath, { extensions: /\.mp4/ });
+
+                // And save it to json file in same dir as the courseVideoPath
+                const data = JSON.stringify(filteredTree);
+                fs.writeFileSync(`${courseVideosPath}/${path.parse(req.file.originalname).name}.json`, data);
+
+                req.body.instructor = req.user;
+                req.body.curriculum = filteredTree;
+                
+                await models.createCourseSync(req.body);
+
 
                 res.render("courses/new", {
                     layout: false,

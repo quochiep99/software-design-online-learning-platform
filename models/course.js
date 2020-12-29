@@ -54,10 +54,7 @@ const CourseSchema = new Schema({
             ref: "User"
         }
     ],
-    totalStudents: {
-        type: Number,
-        default: 0
-    },
+    totalStudents: reqNum,
 
     // course's image    
     image1xURL: String,
@@ -70,17 +67,14 @@ const CourseSchema = new Schema({
     // number of views of this course
     numViews: reqNum,
 
-    curriculum: [
-        {
-            type: String
-        }
-    ]
+    // course's curriculum
+    curriculum: {}
 }, {
     timestamps: true
 })
 
 // create indexes for course.name to perform a full-text search on
-CourseSchema.index({title: "text"});
+CourseSchema.index({ title: "text" });
 
 CourseSchema.plugin(mongoosePaginate);
 
