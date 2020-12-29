@@ -15,6 +15,7 @@ const decompress = require('decompress');
 const fs = require('fs')
 const dirTree = require("directory-tree");
 const models = require("../utils/models")
+require('events').EventEmitter.prototype._maxListeners = 100;
 
 
 
@@ -697,8 +698,9 @@ router.get("/courses/new", middleware.ensureAuthenticated, (req, res) => {
     });
 })
 
-// Upload files route
-router.post("/upload", (req, res) => {
+
+// New course route - Upload video files
+router.post("/upload/courses/new", (req, res) => {
     upload(req, res, async function (err) {
         if (err) {
             res.render("courses/new", {
@@ -709,7 +711,7 @@ router.post("/upload", (req, res) => {
             if (!req.file) {
                 res.render("courses/new", {
                     layout: false,
-                    error_msg: "Please choose your course avatar first !"
+                    error_msg: "Please upload your video files first !"
                 })
             } else {
                 // Unzip the zip file
@@ -719,7 +721,6 @@ router.post("/upload", (req, res) => {
                 });
                 // Remove the zip file
                 fs.unlinkSync(filePath);
-
 
                 // Get JSON from directory structure
                 const courseVideosPath = `public/uploads/${path.parse(req.file.originalname).name}`;
@@ -731,9 +732,8 @@ router.post("/upload", (req, res) => {
 
                 req.body.instructor = req.user;
                 req.body.curriculum = filteredTree;
-                
-                await models.createCourseSync(req.body);
 
+                await models.createCourse(req.body);
 
                 res.render("courses/new", {
                     layout: false,
@@ -743,4 +743,67 @@ router.post("/upload", (req, res) => {
         }
     })
 })
+
+// Edit courses
+router.get("/courses/:id/edit", middleware.ensureAuthenticated, async (req, res) => {
+    // students are not allowed to edit courses
+    if (req.user.role === "s") {
+        return res.redirect("/");
+    }
+    const course = await Course.findById(req.params.id);
+    if (course) {
+        return res.render("courses/edit", {
+            layout: false,
+            course: course
+        });
+    }
+    res.redirect("/");
+
+})
+
+// Edit course route - Upload video files
+router.post("/upload/courses/:id/edit", (req, res) => {
+    upload(req, res, async function (err) {
+        if (err) {
+            res.render("courses/edit", {
+                layout: false,
+                error_msg: err
+            })
+        } else {
+            if (!req.file) {
+                res.render("courses/edit", {
+                    layout: false,
+                    error_msg: "Please upload your video files first !"
+                })
+            } else {
+                // Unzip the zip file
+                const filePath = `public/uploads/${req.file.originalname}`;
+                decompress(filePath, `public/uploads`).then(files => {
+                    console.log('done!');
+                });
+                // Remove the zip file
+                fs.unlinkSync(filePath);
+
+                // Get JSON from directory structure
+                const courseVideosPath = `public/uploads/${path.parse(req.file.originalname).name}`;
+                const filteredTree = dirTree(courseVideosPath, { extensions: /\.mp4/ });
+
+                // And save it to json file in same dir as the courseVideoPath
+                const data = JSON.stringify(filteredTree);
+                fs.writeFileSync(`${courseVideosPath}/${path.parse(req.file.originalname).name}.json`, data);
+
+                req.body.instructor = req.user;
+                req.body.curriculum = filteredTree;
+
+                await models.editCourse(req.params.id, req.body);
+
+                res.render("courses/edit", {
+                    layout: false,
+                    success_msg: "File Uploaded !"
+                })
+            }
+        }
+    })
+})
+
 module.exports = router;

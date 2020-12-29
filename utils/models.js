@@ -2,7 +2,7 @@ const Course = require("../models/course");
 const Field = require("../models/field");
 const models = [];
 // courseData is an object including { title, subtitle, description, field, instructor, image3xURL, discountPrice, originalPrice,curriculum }
-models.createCourseSync = async function (courseData) {
+models.createCourse = async function (courseData) {
     var { title, subtitle, description, fieldName, instructor, image3xURL, discountPrice, originalPrice, curriculum } = courseData;
 
     fieldName = fieldName.toLowerCase().replace(/ /g, "-");
@@ -33,5 +33,15 @@ models.createCourseSync = async function (courseData) {
     await field.save();
 
 
+}
+
+models.editCourse = async function (courseId, courseData) {
+    var { description, curriculum } = courseData;
+    const course = await Course.findById(courseId);
+    if (course) {
+        course.description = description;
+        course.curriculum = curriculum;
+        await course.save();
+    }
 }
 module.exports = models;

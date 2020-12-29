@@ -138,4 +138,10 @@ helpers.generateCurriculum = (curriculum) => {
     return str;
 }
 
+helpers.isInstructor = (user, course, options) => {
+    if (user && user.role === "i") {
+        return options.fn({course});
+    }
+}
+
 module.exports = helpers;
