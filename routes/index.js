@@ -707,40 +707,38 @@ router.post("/upload/courses/new", (req, res) => {
                 layout: false,
                 error_msg: err
             })
+        } else if (!req.file) {
+            res.render("courses/new", {
+                layout: false,
+                error_msg: "Please upload your video files first !"
+            })
         } else {
-            if (!req.file) {
-                res.render("courses/new", {
-                    layout: false,
-                    error_msg: "Please upload your video files first !"
-                })
-            } else {
-                // Unzip the zip file
-                const filePath = `public/uploads/${req.file.originalname}`;
-                decompress(filePath, `public/uploads`).then(files => {
-                    console.log('done!');
-                });
-                // Remove the zip file
-                fs.unlinkSync(filePath);
+            // Unzip the zip file
+            const filePath = `public/uploads/${req.file.originalname}`;
+            await decompress(filePath, `public/uploads`);
 
-                // Get JSON from directory structure
-                const courseVideosPath = `public/uploads/${path.parse(req.file.originalname).name}`;
-                const filteredTree = dirTree(courseVideosPath, { extensions: /\.mp4/ });
+            // Remove the zip file
+            fs.unlinkSync(filePath);
 
-                // And save it to json file in same dir as the courseVideoPath
-                const data = JSON.stringify(filteredTree);
-                fs.writeFileSync(`${courseVideosPath}/${path.parse(req.file.originalname).name}.json`, data);
+            // Get JSON from directory structure
+            const courseVideosPath = `public/uploads/${path.parse(req.file.originalname).name}`;
+            const filteredTree = dirTree(courseVideosPath, { extensions: /\.mp4/ });
 
-                req.body.instructor = req.user;
-                req.body.curriculum = filteredTree;
+            // And save it to json file in same dir as the courseVideoPath
+            const data = JSON.stringify(filteredTree);
+            fs.writeFileSync(`${courseVideosPath}/${path.parse(req.file.originalname).name}.json`, data);
 
-                await models.createCourse(req.body);
+            req.body.instructor = req.user;
+            req.body.curriculum = filteredTree;
 
-                res.render("courses/new", {
-                    layout: false,
-                    success_msg: "File Uploaded !"
-                })
-            }
+            await models.createCourse(req.body);
+
+            res.render("courses/new", {
+                layout: false,
+                success_msg: "File Uploaded !"
+            })
         }
+
     })
 })
 
@@ -758,50 +756,47 @@ router.get("/courses/:id/edit", middleware.ensureAuthenticated, async (req, res)
         });
     }
     res.redirect("/");
-
 })
 
 // Edit course route - Upload video files
-router.post("/upload/courses/:id/edit", (req, res) => {
-    upload(req, res, async function (err) {
+router.post("/upload/courses/:id/", async (req, res) => {
+    upload(req, res, async (err) => {
         if (err) {
             res.render("courses/edit", {
                 layout: false,
                 error_msg: err
             })
+        } else if (!req.file) {
+            res.render("courses/edit", {
+                layout: false,
+                error_msg: "Please upload your video files first !",
+                course: await Course.findById(req.params.id)
+            })
         } else {
-            if (!req.file) {
-                res.render("courses/edit", {
-                    layout: false,
-                    error_msg: "Please upload your video files first !"
-                })
-            } else {
-                // Unzip the zip file
-                const filePath = `public/uploads/${req.file.originalname}`;
-                decompress(filePath, `public/uploads`).then(files => {
-                    console.log('done!');
-                });
-                // Remove the zip file
-                fs.unlinkSync(filePath);
+            // Unzip the zip file
+            const filePath = `public/uploads/${req.file.originalname}`;
+            await decompress(filePath, `public/uploads`);
 
-                // Get JSON from directory structure
-                const courseVideosPath = `public/uploads/${path.parse(req.file.originalname).name}`;
-                const filteredTree = dirTree(courseVideosPath, { extensions: /\.mp4/ });
+            // Remove the zip file
+            fs.unlinkSync(filePath);
 
-                // And save it to json file in same dir as the courseVideoPath
-                const data = JSON.stringify(filteredTree);
-                fs.writeFileSync(`${courseVideosPath}/${path.parse(req.file.originalname).name}.json`, data);
+            // Get JSON from directory structure
+            const courseVideosPath = `public/uploads/${path.parse(req.file.originalname).name}`;
+            const filteredTree = dirTree(courseVideosPath, { extensions: /\.mp4/ });
 
-                req.body.instructor = req.user;
-                req.body.curriculum = filteredTree;
+            // And save it to json file in same dir as the courseVideoPath
+            const data = JSON.stringify(filteredTree);
+            fs.writeFileSync(`${courseVideosPath}/${path.parse(req.file.originalname).name}.json`, data);
 
-                await models.editCourse(req.params.id, req.body);
+            req.body.instructor = req.user;
+            req.body.curriculum = filteredTree;
 
-                res.render("courses/edit", {
-                    layout: false,
-                    success_msg: "File Uploaded !"
-                })
-            }
+            await models.editCourse(req.params.id, req.body);
+
+            res.render("courses/edit", {
+                layout: false,
+                success_msg: "File Uploaded !"
+            })
         }
     })
 })

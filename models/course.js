@@ -68,7 +68,14 @@ const CourseSchema = new Schema({
     numViews: reqNum,
 
     // course's curriculum
-    curriculum: {}
+    curriculum: {},
+    
+    // Check whether the uploaded course is complete
+    isComplete: {
+        type: Boolean,
+        default: false
+    }
+
 }, {
     timestamps: true
 })

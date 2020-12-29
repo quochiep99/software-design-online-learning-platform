@@ -1,9 +1,11 @@
 const Course = require("../models/course");
 const Field = require("../models/field");
 const models = [];
-// courseData is an object including { title, subtitle, description, field, instructor, image3xURL, discountPrice, originalPrice,curriculum }
+// courseData is an object including { title, subtitle, description, fieldName, instructor, image3xURL, discountPrice, originalPrice, curriculum, isComplete }
 models.createCourse = async function (courseData) {
-    var { title, subtitle, description, fieldName, instructor, image3xURL, discountPrice, originalPrice, curriculum } = courseData;
+    var { title, subtitle, description, fieldName, instructor, image3xURL, discountPrice, originalPrice, curriculum, isComplete } = courseData;
+
+    isComplete = (isComplete === "on") ? true : false;
 
     fieldName = fieldName.toLowerCase().replace(/ /g, "-");
     var field = await Field.findOne({ name: fieldName });
@@ -21,7 +23,8 @@ models.createCourse = async function (courseData) {
         image3xURL,
         discountPrice,
         originalPrice,
-        curriculum
+        curriculum,
+        isComplete
     }).save();
 
     // add course to instructor
@@ -36,11 +39,12 @@ models.createCourse = async function (courseData) {
 }
 
 models.editCourse = async function (courseId, courseData) {
-    var { description, curriculum } = courseData;
+    var { description, curriculum, isComplete } = courseData;
     const course = await Course.findById(courseId);
     if (course) {
         course.description = description;
         course.curriculum = curriculum;
+        course.isComplete = (isComplete === "on") ? true : false;
         await course.save();
     }
 }

@@ -48,7 +48,7 @@
                     </div>
                     {{/if}}
 
-                    <form method="POST" action="/upload/courses/{{course._id}}/edit" enctype="multipart/form-data">
+                    <form method="POST" action="/upload/courses/{{course._id}}" enctype="multipart/form-data">
                         <div class="form-row">
                             <div class="name">Description</div>
                             <div class="value">
@@ -64,6 +64,15 @@
                             <div class="value">
                                 <div class="input-group">
                                     <input class="input--style-5" type="file" name="courseVideos">
+                                </div>
+                            </div>
+                        </div>
+
+                        <div class="form-row">
+                            <div class="name">Check this if the course is complete</div>
+                            <div class="value">
+                                <div class="input-group">
+                                    <input id="c1" type="checkbox" name="isComplete">
                                 </div>
                             </div>
                         </div>
