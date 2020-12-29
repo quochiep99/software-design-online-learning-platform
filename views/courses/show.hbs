@@ -28,10 +28,9 @@
 
                 <section id="description">
                     <h2>Description</h2>
-                    <p>Per consequat adolescens ex, cu nibh commune temporibus vim, ad sumo viris eloquentiam sed. Mea
-                        appareat omittantur eloquentiam ad, nam ei quas oportere democritum. Prima causae admodum id
-                        est, ei timeam inimicus sed. Sit an meis aliquam, cetero inermis vel ut. An sit illum euismod
-                        facilisis, tamquam vulputate pertinacia eum at.</p>
+                    <p>
+                        {{{course.description}}}
+                    </p>
                     <h5>What will you learn</h5>
                     <ul class="list_ok">
                         <li>
@@ -84,7 +83,8 @@
                         </ul>
                     </div>
                     <div id="accordion_lessons" role="tablist" class="add_bottom_45">
-                        <div class="card">
+                        {{{generateCurriculum course.curriculum}}}
+                        <!-- <div class="card">
                             <div class="card-header" role="tab" id="headingOne">
                                 <h5 class="mb-0">
                                     <a data-toggle="collapse" href="#collapseOne" aria-expanded="true"
@@ -106,96 +106,7 @@
                                     </div>
                                 </div>
                             </div>
-                        </div>
-
-                        <div class="card">
-                            <div class="card-header" role="tab" id="headingTwo">
-                                <h5 class="mb-0">
-                                    <a class="collapsed" data-toggle="collapse" href="#collapseTwo"
-                                        aria-expanded="false" aria-controls="collapseTwo">
-                                        <i class="indicator ti-plus"></i>Generative Modeling Review
-                                    </a>
-                                </h5>
-                            </div>
-                            <div id="collapseTwo" class="collapse" role="tabpanel" aria-labelledby="headingTwo"
-                                data-parent="#accordion_lessons">
-                                <div class="card-body">
-                                    <div class="list_lessons">
-                                        <ul>
-                                            <li><a href="https://www.youtube.com/watch?v=LDgd_gUcqCw"
-                                                    class="video">Health Science</a><span>00:59</span></li>
-                                            <li><a href="https://www.youtube.com/watch?v=LDgd_gUcqCw"
-                                                    class="video">Health and Social Care</a><span>00:59</span></li>
-                                            <li><a href="https://www.youtube.com/watch?v=LDgd_gUcqCw"
-                                                    class="video">History</a><span>00:59</span></li>
-                                            <li><a href="https://www.youtube.com/watch?v=LDgd_gUcqCw"
-                                                    class="video">Healthcare Science</a><span>00:59</span></li>
-                                            <li><a href="#" class="txt_doc">Audiology</a><span>00:59</span></li>
-                                        </ul>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-
-                        <div class="card">
-                            <div class="card-header" role="tab" id="headingThree">
-                                <h5 class="mb-0">
-                                    <a class="collapsed" data-toggle="collapse" href="#collapseThree"
-                                        aria-expanded="false" aria-controls="collapseThree">
-                                        <i class="indicator ti-plus"></i>Variational Autoencoders
-                                    </a>
-                                </h5>
-                            </div>
-                            <div id="collapseThree" class="collapse" role="tabpanel" aria-labelledby="headingThree"
-                                data-parent="#accordion_lessons">
-                                <div class="card-body">
-                                    <div class="list_lessons">
-                                        <ul>
-                                            <li><a href="https://www.youtube.com/watch?v=LDgd_gUcqCw"
-                                                    class="video">Health Science</a><span>00:59</span></li>
-                                            <li><a href="https://www.youtube.com/watch?v=LDgd_gUcqCw"
-                                                    class="video">Health and Social Care</a><span>00:59</span></li>
-                                            <li><a href="https://www.youtube.com/watch?v=LDgd_gUcqCw"
-                                                    class="video">History</a><span>00:59</span></li>
-                                            <li><a href="https://www.youtube.com/watch?v=LDgd_gUcqCw"
-                                                    class="video">Healthcare Science</a><span>00:59</span></li>
-                                            <li><a href="#" class="txt_doc">Audiology</a><span>00:59</span></li>
-                                        </ul>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-
-
-                        <div class="card">
-                            <div class="card-header" role="tab" id="headingFourth">
-                                <h5 class="mb-0">
-                                    <a class="collapsed" data-toggle="collapse" href="#collapseFourth"
-                                        aria-expanded="false" aria-controls="collapseFourth">
-                                        <i class="indicator ti-plus"></i>Gaussian Mixture Model Review
-                                    </a>
-                                </h5>
-                            </div>
-                            <div id="collapseFourth" class="collapse" role="tabpanel" aria-labelledby="headingFourth"
-                                data-parent="#accordion_lessons">
-                                <div class="card-body">
-                                    <div class="list_lessons">
-                                        <ul>
-                                            <li><a href="https://www.youtube.com/watch?v=LDgd_gUcqCw"
-                                                    class="video">Health Science</a><span>00:59</span></li>
-                                            <li><a href="https://www.youtube.com/watch?v=LDgd_gUcqCw"
-                                                    class="video">Health and Social Care</a><span>00:59</span></li>
-                                            <li><a href="https://www.youtube.com/watch?v=LDgd_gUcqCw"
-                                                    class="video">History</a><span>00:59</span></li>
-                                            <li><a href="https://www.youtube.com/watch?v=LDgd_gUcqCw"
-                                                    class="video">Healthcare Science</a><span>00:59</span></li>
-                                            <li><a href="#" class="txt_doc">Audiology</a><span>00:59</span></li>
-                                        </ul>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-
+                        </div> -->
                     </div>
 
                 </section>
@@ -422,7 +333,8 @@
                             off</span>
                     </div>
                     {{#if isPurchased}}
-                    <a href="/it/{{course.field.name}}/courses/{{course._id}}/learn" class="btn_1 full-width">Purchased ! Go to
+                    <a href="/it/{{course.field.name}}/courses/{{course._id}}/learn" class="btn_1 full-width">Purchased
+                        ! Go to
                         course</a>
                     {{else}}
                     <a href="/it/{{course.field.name}}/courses/{{course._id}}/learn"
