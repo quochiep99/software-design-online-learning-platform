@@ -674,7 +674,7 @@ router.post("/profile/account-security", middleware.ensureAuthenticated, async (
 // Create new courses
 router.get("/courses/new", middleware.ensureAuthenticated, (req, res) => {
     // students are not allowed to upload courses
-    if (req.user.role==="s") {
+    if (req.user.role === "s") {
         return res.redirect("/");
     }
     res.render("courses/new", {
