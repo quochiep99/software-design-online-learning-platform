@@ -1,7 +1,12 @@
 <section id="hero_in" class="courses">
     <div class="container">
         <div class="jumbotron text-left">
+            {{#if course.isComplete}}
             <h4>{{course.title}}</h4>
+            {{else}}
+            <h4>{{course.title}} (unfinished)</h4>
+            {{/if}}
+
             <h6 class="lead">{{course.subtitle}}</h6>
             <hr class="my-4">
             <p>Rating: {{course.rating}} out of 5 ({{course.reviews.length}} ratings) {{course.students.length}}
