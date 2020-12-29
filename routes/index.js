@@ -11,6 +11,11 @@ const middleware = require("../middleware");
 const multer = require("multer");
 const path = require("path");
 const checkFileType = require("../utils/checkFileType");
+const decompress = require('decompress');
+const fs = require('fs')
+
+
+
 
 require('dotenv').config();
 
@@ -19,19 +24,27 @@ const jwt = require("jsonwebtoken");
 
 // Set Storage Engine
 const storage = multer.diskStorage({
-    destination: "./public/uploads",
+    destination: function (req, file, cb) {
+        // console.log(req.body);
+        // console.log(file);
+        cb(null, 'public/uploads')
+    },
     filename: function (req, file, cb) {
-        cb(null, "course_avatar_" + Date.now() + "_" + file.originalname)
+        // cb(null, "course_avatar_" + Date.now() + "_" + file.originalname)
+        cb(null, file.originalname)
     }
 })
 
 // Init Upload
 const upload = multer({
-    storage: storage,
-    fileFilter: (req, file, cb) => {
-        checkFileType(file, cb);
-    }
+    storage: storage
+    // fileFilter: (req, file, cb) => {
+    //     checkFileType(file, cb);
+    // }
 }).single("courseImage");
+
+
+
 
 // Home page
 router.get("/", async (req, res) => {
@@ -684,8 +697,6 @@ router.get("/courses/new", middleware.ensureAuthenticated, (req, res) => {
 
 // Upload files route
 router.post("/upload", (req, res) => {
-
-
     upload(req, res, function (err) {
         if (err) {
             res.render("courses/new", {
@@ -699,9 +710,17 @@ router.post("/upload", (req, res) => {
                     error_msg: "Please choose your course avatar first !"
                 })
             } else {
+                // Unzip the zip file
+                const filePath = `public/uploads/${req.file.originalname}`;
+                decompress(filePath, `public/uploads`).then(files => {
+                    console.log('done!');
+                });
+                // Remove the zip file
+                fs.unlinkSync(filePath);
+
                 res.render("courses/new", {
                     layout: false,
-                    error_msg: "File Uploaded !"
+                    success_msg: "File Uploaded !"
                 })
             }
         }
