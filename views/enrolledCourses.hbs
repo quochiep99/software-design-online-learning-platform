@@ -49,7 +49,6 @@
     <div class="main_title_2">
         <span><em></em></span>
         <h2>All Courses</h2>
-        <!-- <p>Cum doctus civibus efficiantur in imperdiet deterruisset.</p> -->
     </div>
     <div class="row">
         {{#each enrolledCourses}}
@@ -87,5 +86,10 @@
         </div>
         {{/each}}
     </div>
+</div>
+{{else}}
+<div class="main_title_2">
+    <span><em></em></span>
+    <h2>You have not enrolled in any courses !</h2>
 </div>
 {{/if}}

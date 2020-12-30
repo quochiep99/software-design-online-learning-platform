@@ -325,7 +325,7 @@ router.get("/search", async (req, res) => {
 // All enrolled courses
 router.get("/my-courses/learning", middleware.ensureAuthenticated, async (req, res) => {
     try {
-        const student = await User.findById(req.user._id).
+        const user = await User.findById(req.user._id).
             populate({
                 path: "enrolledCourses",
                 populate: {
@@ -340,7 +340,7 @@ router.get("/my-courses/learning", middleware.ensureAuthenticated, async (req, r
             });
 
         res.render("enrolledCourses", {
-            enrolledCourses: student.enrolledCourses
+            enrolledCourses: user.enrolledCourses
         });
     } catch (e) {
         console.log(err);
