@@ -124,7 +124,9 @@ router.get("/:id/purchase", middleware.ensureAuthenticated, async (req, res) => 
 
 // Learn route
 router.get("/:id/learn", middleware.ensureAuthenticated, middleware.checkEnrolledCourseOwnership, async (req, res) => {
-    res.send("ok");
+    res.render("learn", {
+        layout: false
+    })
 });
 
 // Add course to wishlist

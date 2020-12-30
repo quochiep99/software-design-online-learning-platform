@@ -1,0 +1,27 @@
+/* Show it is fixed to the top */
+
+body {
+    min-height: 75rem;
+    padding-top: 4.5rem;
+}
+
+#player {
+    width: 100%;
+}
+
+#accordionFlushExample {
+    width: 100%;
+}
+
+/* .container {
+    margin-left:0;
+    margin-right: 0;
+} */
+
+div>.accordion-body {
+    padding: 0;
+}
+
+div.col-sm-8>div {
+    text-align: right;
+}

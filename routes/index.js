@@ -339,7 +339,7 @@ router.get("/my-courses/learning", middleware.ensureAuthenticated, async (req, r
                 }
             });
 
-        res.render("studentCourses", {
+        res.render("enrolledCourses", {
             enrolledCourses: student.enrolledCourses
         });
     } catch (e) {
@@ -365,7 +365,7 @@ router.get("/my-courses/wishlist", middleware.ensureAuthenticated, async (req, r
                 }
             });
 
-        res.render("studentCourses", {
+        res.render("wishlistedCourses", {
             wishList: student.wishList
         });
     } catch (e) {
@@ -390,7 +390,7 @@ router.get("/instructor/courses/", middleware.ensureAuthenticated, middleware.is
                 }
             });
 
-        res.render("instructorCourses", {
+        res.render("uploadedCourses", {
             uploadedCourses: instructor.uploadedCourses
         });
     } catch (e) {
