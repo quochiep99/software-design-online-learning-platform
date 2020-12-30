@@ -2,7 +2,6 @@ const express = require("express");
 const Course = require("../models/course");
 const Field = require("../models/field");
 const middleware = require("../middleware");
-const User = require("../models/user");
 
 const router = express.Router({
     mergeParams: true
@@ -124,8 +123,10 @@ router.get("/:id/purchase", middleware.ensureAuthenticated, async (req, res) => 
 
 // Learn route
 router.get("/:id/learn", middleware.ensureAuthenticated, middleware.checkEnrolledCourseOwnership, async (req, res) => {
+    const course = await Course.findById(req.params.id);
     res.render("learn", {
-        layout: false
+        layout: false,
+        course: course
     })
 });
 

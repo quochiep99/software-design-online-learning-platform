@@ -12,8 +12,7 @@ module.exports = (curriculum) => {
 
         var isHiddenClass = "collapse";
         var isCollapsed = "plus"
-        // Show the first lesson
-        // const isCollapsed= (i===0) ? 
+        // Show the first lesson        
 
         if (i === 0) {
             isHiddenClass = "collapse show";

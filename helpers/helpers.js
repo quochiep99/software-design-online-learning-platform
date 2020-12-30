@@ -20,4 +20,6 @@ helpers.generateCurriculum = require("./generateCurriculum");
 
 helpers.checkUploadedCourseOwnership = require("./checkUploadedCourseOwnership");
 
+helpers.generateCourseUnits = require("./generateCourseUnits");
+
 module.exports = helpers;
