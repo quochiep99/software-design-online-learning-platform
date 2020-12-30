@@ -28,7 +28,7 @@ module.exports = (course) => {
                 <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse"
                     data-bs-target="#flush-collapse${sectionNumberInString}" aria-expanded="${ariaExpanded}"
                     aria-controls="flush-collapse${sectionNumberInString}">
-                    ${sectionName}
+                    <b>${sectionName}</b>
                 </button>
             </h2>
             <div id="flush-collapse${sectionNumberInString}" class="accordion-collapse ${isShown}"

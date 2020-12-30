@@ -25,3 +25,7 @@ div>.accordion-body {
 div.col-sm-8>div {
     text-align: right;
 }
+
+button > b {
+    text-align: left;
+}
