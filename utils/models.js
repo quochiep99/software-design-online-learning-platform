@@ -45,6 +45,7 @@ models.editCourse = async function (courseId, courseData) {
         course.description = description;
         course.curriculum = curriculum;
         course.isComplete = (isComplete === "on") ? true : false;
+        course.updatedAt = new Date();
         return await course.save();
     }
 }

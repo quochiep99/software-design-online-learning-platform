@@ -7,6 +7,12 @@
             </div>
             {{/if}}
 
+            {{#if success_msg}}
+            <div class="alert alert-success" role="alert">
+                {{success_msg}}
+            </div>
+            {{/if}}
+
 
             {{#if course.isComplete}}
             <h4>{{course.title}}</h4>
