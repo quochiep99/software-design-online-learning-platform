@@ -340,7 +340,8 @@ router.get("/my-courses/learning", middleware.ensureAuthenticated, async (req, r
             });
 
         res.render("enrolledCourses", {
-            enrolledCourses: user.enrolledCourses
+            enrolledCourses: user.enrolledCourses,
+            isAllCoursesChosen: true
         });
     } catch (e) {
         console.log(err);
@@ -366,7 +367,8 @@ router.get("/my-courses/wishlist", middleware.ensureAuthenticated, async (req, r
             });
 
         res.render("wishlistedCourses", {
-            wishList: student.wishList
+            wishList: student.wishList,
+            isWishListChosen: true
         });
     } catch (e) {
         console.log(e);

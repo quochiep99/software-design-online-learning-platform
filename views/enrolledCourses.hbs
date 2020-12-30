@@ -13,11 +13,11 @@
             <li>
                 <div class="switch-field">
 
-                    <input type="radio" id="allCourses" name="listing_filter" value="allCourses" {{#if enrolledCourses}}
+                    <input type="radio" id="allCourses" name="listing_filter" value="allCourses" {{#if isAllCoursesChosen}}
                         checked {{/if}} onclick="window.location.href='/my-courses/learning'">
                     <label for="allCourses">All courses</label>
 
-                    <input type="radio" id="wishList" name="listing_filter" value="wishList" {{#if wishList}} checked
+                    <input type="radio" id="wishList" name="listing_filter" value="wishList" {{#if isWishListChosen}} checked
                         {{/if}} onclick="window.location.href='/my-courses/wishlist'">
                     <label for="wishList">WishList</label>
 
