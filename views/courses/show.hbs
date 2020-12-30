@@ -26,9 +26,9 @@
                 students</p>
             <p>Last updated {{getLastUpdatedString course.updatedAt}}</p>
 
-            {{#checkCourseOwnership currentUser course}}
+            {{#checkUploadedCourseOwnership currentUser course}}
             <a href="/it/{{course.field.name}}/courses/{{course._id}}/edit" class="btn btn-info">Edit this course</a>
-            {{/checkCourseOwnership}}
+            {{/checkUploadedCourseOwnership}}
 
         </div>
     </div>
@@ -251,7 +251,7 @@
                         ! Go to
                         course</a>
                     {{else}}
-                    <a href="/it/{{course.field.name}}/courses/{{course._id}}/learn"
+                    <a href="/it/{{course.field.name}}/courses/{{course._id}}/purchase"
                         class="btn_1 full-width">Purchase</a>
                     {{/if}}
 

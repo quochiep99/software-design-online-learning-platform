@@ -18,6 +18,6 @@ helpers.generateProfileOptions = require("./generateProfileOptions");
 
 helpers.generateCurriculum = require("./generateCurriculum");
 
-helpers.checkCourseOwnership = require("./checkCourseOwnership");
+helpers.checkUploadedCourseOwnership = require("./checkUploadedCourseOwnership");
 
 module.exports = helpers;

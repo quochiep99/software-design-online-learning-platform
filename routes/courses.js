@@ -111,52 +111,20 @@ router.get("/:id", async (req, res) => {
     res.redirect("/");
 });
 
-// Purchase and learn
-router.get("/:id/learn", middleware.ensureAuthenticated, async (req, res) => {
+// Purchase
+router.get("/:id/purchase", middleware.ensureAuthenticated, async (req, res) => {
     const user = req.user;
     const course = await Course.findById(req.params.id);
     user.enroll(course);
     await user.save();
     await course.save();
+    // Go to course
+    res.redirect(`/it/${req.params.field}/courses/${req.params.id}/learn`);
+});
 
-
-    const fieldName = req.params.field;
-    const field = await Field.findOne({
-        name: fieldName
-    });
-    if (field) {
-        const course = await Course.findById(req.params.id).
-            populate({
-                path: "reviews",
-                populate: {
-                    path: "author",
-                },
-            }).
-            populate({
-                path: "students"
-            }).
-            populate({
-                path: "instructor",
-            }).
-            populate({
-                path: "field"
-            });
-        const recommendedCourses = await Course.
-            find({ field: field._id }).
-            sort("-totalStudents").
-            limit(5).
-            populate("field");
-        if (course) {
-            // increment views as users visit the course
-            course.numViews++;
-            await course.save();
-            return res.render("courses/show", {
-                course: course,
-                recommendedCourses: recommendedCourses
-            });
-        }
-    }
-    res.redirect("/");
+// Learn route
+router.get("/:id/learn", middleware.ensureAuthenticated, middleware.checkEnrolledCourseOwnership, async (req, res) => {
+    res.send("ok");
 });
 
 // Add course to wishlist
