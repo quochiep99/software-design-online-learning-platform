@@ -339,7 +339,7 @@ router.get("/my-courses/learning", middleware.ensureAuthenticated, async (req, r
                 }
             });
 
-        res.render("myCourses", {
+        res.render("studentCourses", {
             enrolledCourses: student.enrolledCourses
         });
     } catch (e) {
@@ -365,11 +365,36 @@ router.get("/my-courses/wishlist", middleware.ensureAuthenticated, async (req, r
                 }
             });
 
-        res.render("myCourses", {
+        res.render("studentCourses", {
             wishList: student.wishList
         });
     } catch (e) {
         console.log(e);
+    }
+
+})
+
+router.get("/instructor/courses/", middleware.ensureAuthenticated, async (req, res) => {
+    try {
+        const instructor = await User.findById(req.user._id).
+            populate({
+                path: "uploadedCourses",
+                populate: {
+                    path: "field"
+                }
+            }).
+            populate({
+                path: "uploadedCourses",
+                populate: {
+                    path: "instructor"
+                }
+            });
+
+        res.render("instructorCourses", {
+            uploadedCourses: instructor.uploadedCourses
+        });
+    } catch (e) {
+        console.log(err);
     }
 
 })

@@ -18,7 +18,7 @@ module.exports = (currentUser) => {
         <li><span><a href="#">Instructor</a></span>
                         <ul>
                             <li><a href="/courses/new">New course</a></li>
-                            <li><a href="#">View uploaded courses</a></li>                            
+                            <li><a href="/instructor/courses/">View uploaded courses</a></li>                            
                         </ul>
                     </li>
         `

@@ -1,0 +1,56 @@
+<section id="hero_in" class="courses">
+    <div class="wrapper">
+        <div class="container">
+            <h1 class="fadeInUp"><span></span>Online courses</h1>
+        </div>
+    </div>
+</section>
+<!--/hero_in-->
+
+
+<!-- All enrolled courses -->
+{{#if uploadedCourses}}
+<div class="container margin_30_95">
+    <div class="main_title_2">
+        <span><em></em></span>
+        <h2>All Courses</h2>
+    </div>
+    <div class="row">
+        {{#each uploadedCourses}}
+        <div class="col-xl-4 col-lg-6 col-md-6">
+            <div class="box_grid wow">
+                <figure class="block-reveal">
+                    <div class="block-horizzontal"></div>
+                    <a href="#" class="wish_bt"></a>
+                    <a href="/it/{{this.field.name}}/courses/{{this._id}}"><img src="{{this.image3xURL}}"
+                            class="img-fluid" alt=""></a>
+                </figure>
+                <div class="wrapper">
+                    <small>{{getFieldName this.field.name}}</small>
+                    <h3>{{this.title}}</h3>
+                    <p>{{this.instructor.name}}</p>
+                    <!-- <div class="rating"><i class="icon_star voted"></i><i class="icon_star voted"></i>
+                        <i class="icon_star voted"></i><i class="icon_star"></i><i class="icon_star"></i>
+                        <small>(145)</small>
+                    </div> -->
+                    <div class="rating">
+                        <small>{{this.rating}} stars - ({{this.reviews.length}} students reviewing)</small>
+                        <small></small>
+                    </div>
+                </div>
+                <ul>
+                    <li><i class="far fa-eye"></i> {{this.numViews}}</li>
+                    <li><a href="#">Enroll now</a></li>
+                </ul>
+            </div>
+        </div>
+        {{/each}}
+    </div>
+</div>
+
+{{else}}
+<div class="main_title_2">
+    <!-- <span><em></em></span> -->
+    <h2>You have not created any courses</h2>
+</div>
+{{/if}}
