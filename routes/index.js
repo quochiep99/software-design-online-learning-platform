@@ -494,8 +494,10 @@ router.post("/login", passport.authenticate("local", {
 
 // Log out
 router.get("/logout", (req, res) => {
+    const returnTo = req.session.returnTo || "/";
     req.logout();
-    res.redirect("/");
+    res.redirect(returnTo);
+    delete returnTo;
 })
 
 // Search for fields or courses keywords
