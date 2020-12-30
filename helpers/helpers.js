@@ -100,6 +100,10 @@ helpers.generateProfileOptions = (currentUser) => {
 }
 
 helpers.generateCurriculum = (curriculum) => {
+    if ((!curriculum) || (Object.keys(curriculum).length === 0 && curriculum.constructor === Object)) {
+        return "No curriculum has been uploaded !!!"
+    }
+
     var str = "";
     for (var i = 0; i < curriculum.children.length; i++) {
         const sectionName = curriculum.children[i].name;
