@@ -374,7 +374,7 @@ router.get("/my-courses/wishlist", middleware.ensureAuthenticated, async (req, r
 
 })
 
-router.get("/instructor/courses/", middleware.ensureAuthenticated, async (req, res) => {
+router.get("/instructor/courses/", middleware.ensureAuthenticated, middleware.isInstructor, async (req, res) => {
     try {
         const instructor = await User.findById(req.user._id).
             populate({
@@ -462,11 +462,7 @@ router.post("/profile/account-security", middleware.ensureAuthenticated, async (
 })
 
 // Create new courses
-router.get("/courses/new", middleware.ensureAuthenticated, (req, res) => {
-    // students are not allowed to upload courses
-    if (req.user.role === "s") {
-        return res.redirect("/");
-    }
+router.get("/courses/new", middleware.ensureAuthenticated, middleware.isInstructor, (req, res) => {
     res.render("courses/new", {
         layout: false
     });
@@ -474,7 +470,7 @@ router.get("/courses/new", middleware.ensureAuthenticated, (req, res) => {
 
 
 // New course route - Upload video files
-router.post("/upload/courses/new", middleware.ensureAuthenticated, (req, res) => {
+router.post("/upload/courses/new", middleware.ensureAuthenticated, middleware.isInstructor, (req, res) => {
     upload(req, res, async function (err) {
         if (err) {
             res.render("courses/new", {
@@ -517,11 +513,7 @@ router.post("/upload/courses/new", middleware.ensureAuthenticated, (req, res) =>
 })
 
 // Edit courses
-router.get("/it/:field/courses/:id/edit", middleware.ensureAuthenticated, async (req, res) => {
-    // students are not allowed to edit courses
-    if (req.user.role === "s") {
-        return res.redirect("/");
-    }
+router.get("/it/:field/courses/:id/edit", middleware.ensureAuthenticated, middleware.isInstructor, middleware.checkCourseOwnership, async (req, res) => {    
     const course = await Course.findById(req.params.id).
         populate("field");
     if (course) {
@@ -534,7 +526,7 @@ router.get("/it/:field/courses/:id/edit", middleware.ensureAuthenticated, async 
 })
 
 // Update course route - Upload video files
-router.post("/upload/it/:field/courses/:id/", async (req, res) => {
+router.post("/upload/it/:field/courses/:id/", middleware.ensureAuthenticated, middleware.isInstructor, middleware.checkCourseOwnership, async (req, res) => {
     upload(req, res, async (err) => {
         if (err) {
             req.flash("error_msg", err);

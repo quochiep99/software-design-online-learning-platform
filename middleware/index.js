@@ -10,4 +10,24 @@ middlewareObj.ensureAuthenticated = (req, res, next) => {
     }
 }
 
+middlewareObj.checkCourseOwnership = (req, res, next) => {
+    for (var i = 0; i < req.user.uploadedCourses.length; i++) {
+        // This is the instructor who actually owns the course
+        if (req.user.uploadedCourses[i]._id.equals(req.params.id)) {
+            return next();
+        }
+    }
+    req.flash("error_msg", "You are not allowed to do that !");
+    const backURL = req.session.returnTo.replace("/edit", "");
+    res.redirect(backURL);
+    delete req.session.returnTo;
+}
+
+middlewareObj.isInstructor = (req, res, next) => {
+    if (req.user.role === "i") {
+        return next();
+    }
+    req.flash("error_msg", "You are not allowed to do that !");
+    res.redirect("/");
+}
 module.exports = middlewareObj;

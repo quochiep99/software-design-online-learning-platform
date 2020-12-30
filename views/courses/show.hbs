@@ -1,6 +1,13 @@
 <section id="hero_in" class="courses">
     <div class="container">
         <div class="jumbotron text-left">
+            {{#if error_msg}}
+            <div class="alert alert-danger" role="alert">
+                {{error_msg}}
+            </div>
+            {{/if}}
+
+
             {{#if course.isComplete}}
             <h4>{{course.title}}</h4>
             {{else}}
@@ -13,9 +20,9 @@
                 students</p>
             <p>Last updated {{getLastUpdatedString course.updatedAt}}</p>
 
-            {{#isInstructor currentUser course}}
+            {{#checkCourseOwnership currentUser course}}
             <a href="/it/{{course.field.name}}/courses/{{course._id}}/edit" class="btn btn-info">Edit this course</a>
-            {{/isInstructor}}
+            {{/checkCourseOwnership}}
 
         </div>
     </div>
