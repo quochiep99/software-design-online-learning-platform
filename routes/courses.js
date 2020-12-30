@@ -132,24 +132,25 @@ router.get("/:id/learn/", middleware.ensureAuthenticated, middleware.checkEnroll
     })
 });
 
-router.get("/:id/learn/:lessonName", middleware.ensureAuthenticated, middleware.checkEnrolledCourseOwnership, async (req, res) => {
+router.get("/:id/learn/:currentLessonName", middleware.ensureAuthenticated, middleware.checkEnrolledCourseOwnership, async (req, res) => {
     const course = await Course.findById(req.params.id);
     const curriculum = course.curriculum;
     for (var i = 0; i < curriculum.children.length; i++) {
 
         for (var j = 0; j < curriculum.children[i].children.length; j++) {
-            if (path.parse(curriculum.children[i].children[j].name).name === req.params.lessonName) {
-                const videoPath = curriculum.children[i].children[j].path.replace("public","").replace(/\\/g,"/");
+            if (path.parse(curriculum.children[i].children[j].name).name === req.params.currentLessonName) {
+                const videoPath = curriculum.children[i].children[j].path.replace("public", "").replace(/\\/g, "/");
                 return res.render("learn", {
                     layout: false,
                     course: course,
-                    videoPath: videoPath
+                    videoPath: videoPath,
+                    currentLessonName: req.params.currentLessonName
                 })
             }
         }
     }
-    
-    
+
+
 });
 
 // Add course to wishlist
