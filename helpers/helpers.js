@@ -134,7 +134,7 @@ helpers.generateCurriculum = (curriculum) => {
             const lessonName = path.parse(curriculum.children[i].children[j].name).name;
             str += `
             <li><a href="https://www.youtube.com/watch?v=LDgd_gUcqCw"
-                            class="video">${lessonName}</a><span>00:59</span></li>
+                            class="video">${lessonName}</a></li>
             `
         }
         str += `
