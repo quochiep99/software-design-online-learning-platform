@@ -1,6 +1,6 @@
 const Course = require("../models/course");
 const Field = require("../models/field");
-const models = [];
+const models = {};
 // courseData is an object including { title, subtitle, description, fieldName, instructor, image3xURL, discountPrice, originalPrice, curriculum, isComplete }
 models.createCourse = async function (courseData) {
     var { title, subtitle, description, fieldName, instructor, image3xURL, discountPrice, originalPrice, curriculum, isComplete } = courseData;

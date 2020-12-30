@@ -1,248 +1,597 @@
 function generateEmailConfirmationHTML(req, emailToken) {
-    return `
-    <!doctype html>
-    <html>
+    return `    
+      <html data-editor-version="2" class="sg-campaigns" xmlns="http://www.w3.org/1999/xhtml">
     
-    <head>
-        <meta charset='utf-8'>
-        <meta name='viewport' content='width=device-width, initial-scale=1'>
-        <title>Snippet - BBBootstrap</title>
-        <link href='https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css' rel='stylesheet'>
-        <link href='' rel='stylesheet'>
-        <style></style>
-        <script type='text/javascript' src='https://cdnjs.cloudflare.com/ajax/libs/jquery/3.2.1/jquery.min.js'></script>
-        <script type='text/javascript'
-            src='https://stackpath.bootstrapcdn.com/bootstrap/4.0.0/js/bootstrap.bundle.min.js'></script>
-        <script type='text/javascript'></script>
-    </head>
+      <head>
+        <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1, minimum-scale=1, maximum-scale=1">
+        <meta http-equiv="X-UA-Compatible" content="IE=Edge">
     
-    <body oncontextmenu='return false' class='snippet-body'>
-        <!DOCTYPE html>
-        <html>
+        <style type="text/css">
+          body,
+          p,
+          div {
+            font - family: inherit;
+            font-size: 14px;
+          }
     
-        <head>
-            <title></title>
-            <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
-            <meta name="viewport" content="width=device-width, initial-scale=1">
-            <meta http-equiv="X-UA-Compatible" content="IE=edge" />
-            <style type="text/css">
-                @media screen {
-                    @font-face {
-                        font-family: 'Lato';
-                        font-style: normal;
-                        font-weight: 400;
-                        src: local('Lato Regular'), local('Lato-Regular'), url(https://fonts.gstatic.com/s/lato/v11/qIIYRU-oROkIk8vfvxw6QvesZW2xOQ-xsNqO47m55DA.woff) format('woff');
-                    }
+          body {
+            color: #000000;
+          }
     
-                    @font-face {
-                        font-family: 'Lato';
-                        font-style: normal;
-                        font-weight: 700;
-                        src: local('Lato Bold'), local('Lato-Bold'), url(https://fonts.gstatic.com/s/lato/v11/qdgUG4U09HnJwhYI-uK18wLUuEpTyoUstqEm5AMlJo4.woff) format('woff');
-                    }
+          body a {
+            color: #000000;
+            text-decoration: none;
+          }
     
-                    @font-face {
-                        font-family: 'Lato';
-                        font-style: italic;
-                        font-weight: 400;
-                        src: local('Lato Italic'), local('Lato-Italic'), url(https://fonts.gstatic.com/s/lato/v11/RYyZNoeFgb0l7W3Vu1aSWOvvDin1pK8aKteLpeZ5c0A.woff) format('woff');
-                    }
+          p {
+            margin: 0;
+            padding: 0;
+          }
     
-                    @font-face {
-                        font-family: 'Lato';
-                        font-style: italic;
-                        font-weight: 700;
-                        src: local('Lato Bold Italic'), local('Lato-BoldItalic'), url(https://fonts.gstatic.com/s/lato/v11/HkF_qI1x_noxlxhrhMQYELO3LdcAZYWl9Si6vvxL-qU.woff) format('woff');
-                    }
-                }
+          table.wrapper {
+            width: 100% !important;
+            table-layout: fixed;
+            -webkit-font-smoothing: antialiased;
+            -webkit-text-size-adjust: 100%;
+            -moz-text-size-adjust: 100%;
+            -ms-text-size-adjust: 100%;
+          }
     
-                /* CLIENT-SPECIFIC STYLES */
-                body,
-                table,
-                td,
-                a {
-                    -webkit-text-size-adjust: 100%;
-                    -ms-text-size-adjust: 100%;
-                }
+          img.max-width {
+            max - width: 100% !important;
+          }
     
-                table,
-                td {
-                    mso-table-lspace: 0pt;
-                    mso-table-rspace: 0pt;
-                }
+          .column.of-2 {
+            width: 50%;
+          }
     
-                img {
-                    -ms-interpolation-mode: bicubic;
-                }
+          .column.of-3 {
+            width: 33.333%;
+          }
     
-                /* RESET STYLES */
-                img {
-                    border: 0;
-                    height: auto;
-                    line-height: 100%;
-                    outline: none;
-                    text-decoration: none;
-                }
+          .column.of-4 {
+            width: 25%;
+          }
     
-                table {
-                    border-collapse: collapse !important;
-                }
+          @media screen and (max-width:480px) {
     
-                body {
-                    height: 100% !important;
-                    margin: 0 !important;
-                    padding: 0 !important;
-                    width: 100% !important;
-                }
+            .preheader.rightColumnContent,
+            .footer.rightColumnContent {
+              text - align: left !important;
+            }
     
-                /* iOS BLUE LINKS */
-                a[x-apple-data-detectors] {
-                    color: inherit !important;
-                    text-decoration: none !important;
-                    font-size: inherit !important;
-                    font-family: inherit !important;
-                    font-weight: inherit !important;
-                    line-height: inherit !important;
-                }
+            .preheader .rightColumnContent div,
+            .preheader .rightColumnContent span,
+            .footer .rightColumnContent div,
+            .footer .rightColumnContent span {
+              text - align: left !important;
+            }
     
-                /* MOBILE STYLES */
-                @media screen and (max-width:600px) {
-                    h1 {
-                        font-size: 32px !important;
-                        line-height: 32px !important;
-                    }
-                }
+            .preheader .rightColumnContent,
+            .preheader .leftColumnContent {
+              font - size: 80% !important;
+              padding: 5px 0;
+            }
     
-                /* ANDROID CENTER FIX */
-                div[style*="margin: 16px 0;"] {
-                    margin: 0 !important;
-                }
-            </style>
-        </head>
+            table.wrapper-mobile {
+              width: 100% !important;
+              table-layout: fixed;
+            }
     
-        <body style="background-color: #f4f4f4; margin: 0 !important; padding: 0 !important;">
-            <!-- HIDDEN PREHEADER TEXT -->
-            <div
-                style="display: none; font-size: 1px; color: #fefefe; line-height: 1px; font-family: 'Lato', Helvetica, Arial, sans-serif; max-height: 0px; max-width: 0px; opacity: 0; overflow: hidden;">
-                We're thrilled to have you here! Get ready to dive into your new account. </div>
-            <table border="0" cellpadding="0" cellspacing="0" width="100%">
-                <!-- LOGO -->
+            img.max-width {
+              height: auto !important;
+              max-width: 100% !important;
+            }
+    
+            a.bulletproof-button {
+              display: block !important;
+              width: auto !important;
+              font-size: 80%;
+              padding-left: 0 !important;
+              padding-right: 0 !important;
+            }
+    
+            .columns {
+              width: 100% !important;
+            }
+    
+            .column {
+              display: block !important;
+              width: 100% !important;
+              padding-left: 0 !important;
+              padding-right: 0 !important;
+              margin-left: 0 !important;
+              margin-right: 0 !important;
+            }
+          }
+        </style>
+        <!--user entered Head Start-->
+        <link href="https://fonts.googleapis.com/css?family=Viga&display=swap" rel="stylesheet">
+        <style>
+          body {
+            font - family: 'Viga', sans-serif;
+          }
+        </style>
+    
+      </head>
+    
+      <body>
+        <center class="wrapper" data-link-color="#000000"
+          data-body-style="font-size:14px; font-family:inherit; color:#000000; background-color:#FFFFFF;">
+          <div class="webkit">
+            <table cellpadding="0" cellspacing="0" border="0" width="100%" class="wrapper" bgcolor="#FFFFFF">
+              <tbody>
                 <tr>
-                    <td bgcolor="#FFA73B" align="center">
-                        <table border="0" cellpadding="0" cellspacing="0" width="100%" style="max-width: 600px;">
-                            <tr>
-                                <td align="center" valign="top" style="padding: 40px 10px 40px 10px;"> </td>
-                            </tr>
-                        </table>
-                    </td>
-                </tr>
-                <tr>
-                    <td bgcolor="#FFA73B" align="center" style="padding: 0px 10px 0px 10px;">
-                        <table border="0" cellpadding="0" cellspacing="0" width="100%" style="max-width: 600px;">
-                            <tr>
-                                <td bgcolor="#ffffff" align="center" valign="top"
-                                    style="padding: 40px 20px 20px 20px; border-radius: 4px 4px 0px 0px; color: #111111; font-family: 'Lato', Helvetica, Arial, sans-serif; font-size: 48px; font-weight: 400; letter-spacing: 4px; line-height: 48px;">
-                                    <h6 style="font-size: 48px; font-weight: 400; margin: 2;">Udema</h6> <img
-                                        src=" https://img.icons8.com/clouds/100/000000/handshake.png" width="125"
-                                        height="120" style="display: block; border: 0px;" />
-                                </td>
-                            </tr>
-                        </table>
-                    </td>
-                </tr>
-                <tr>
-                    <td bgcolor="#f4f4f4" align="center" style="padding: 0px 10px 0px 10px;">
-                        <table border="0" cellpadding="0" cellspacing="0" width="100%" style="max-width: 600px;">
-                            <tr>
-                                <td bgcolor="#ffffff" align="left"
-                                    style="padding: 20px 30px 40px 30px; color: #666666; font-family: 'Lato', Helvetica, Arial, sans-serif; font-size: 18px; font-weight: 400; line-height: 25px;">
-                                    <p style="margin: 0;">We're excited to have you get started. First, you need to confirm
-                                        your account. Just press the button below.</p>
-                                </td>
-                            </tr>
-                            <tr>
-                                <td bgcolor="#ffffff" align="left">
-                                    <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                  <td valign="top" bgcolor="#FFFFFF" width="100%">
+                    <table width="100%" role="content-container" class="outer" align="center" cellpadding="0"
+                      cellspacing="0" border="0">
+                      <tbody>
+                        <tr>
+                          <td width="100%">
+                            <table width="100%" cellpadding="0" cellspacing="0" border="0">
+                              <tbody>
+                                <tr>
+                                  <td>
+                                    <!--[if mso]>
+        <center>
+                                                <table><tr><td width="600">
+                                                  <![endif]-->
+                                    <table width="100%" cellpadding="0" cellspacing="0" border="0"
+                                      style="width:100%; max-width:600px;" align="center">
+                                      <tbody>
                                         <tr>
-                                            <td bgcolor="#ffffff" align="center" style="padding: 20px 30px 60px 30px;">
-                                                <table border="0" cellspacing="0" cellpadding="0">
-                                                    <tr>
-                                                        <td align="center" style="border-radius: 3px;" bgcolor="#FFA73B"><a
-                                                                href=${req.protocol}://${req.get("host")}/confirm?token=${emailToken} target="_blank"
-                                                                style="font-size: 20px; font-family: Helvetica, Arial, sans-serif; color: #ffffff; text-decoration: none; color: #ffffff; text-decoration: none; padding: 15px 25px; border-radius: 2px; border: 1px solid #FFA73B; display: inline-block;">Confirm
-                                                                Account</a></td>
-                                                    </tr>
-                                                </table>
-                                            </td>
+                                          <td role="modules-container"
+                                            style="padding:0px 0px 0px 0px; color:#000000; text-align:left;"
+                                            bgcolor="#FFFFFF" width="100%" align="left">
+                                            <table class="module preheader preheader-hide" role="module"
+                                              data-type="preheader" border="0" cellpadding="0" cellspacing="0" width="100%"
+                                              style="display: none !important; mso-hide: all; visibility: hidden; opacity: 0; color: transparent; height: 0; width: 0;">
+                                              <tbody>
+                                                <tr>
+                                                  <td role="module-content">
+                                                    <p></p>
+                                                  </td>
+                                                </tr>
+                                              </tbody>
+                                            </table>
+                                            <table border="0" cellpadding="0" cellspacing="0" align="center" width="100%"
+                                              role="module" data-type="columns" style="padding:0px 0px 0px 0px;"
+                                              bgcolor="#dde6de">
+                                              <tbody>
+                                                <tr role="module-content">
+                                                  <td height="100%" valign="top">
+                                                    <table class="column" width="580"
+                                                      style="width:580px; border-spacing:0; border-collapse:collapse; margin:0px 10px 0px 10px;"
+                                                      cellpadding="0" cellspacing="0" align="left" border="0" bgcolor="">
+                                                      <tbody>
+                                                        <tr>
+                                                          <td style="padding:0px;margin:0px;border-spacing:0;">
+                                                            <table class="module" role="module" data-type="spacer"
+                                                              border="0" cellpadding="0" cellspacing="0" width="100%"
+                                                              style="table-layout: fixed;"
+                                                              data-muid="10cc50ce-3fd3-4f37-899b-a52a7ad0ccce">
+                                                              <tbody>
+                                                                <tr>
+                                                                  <td style="padding:0px 0px 40px 0px;"
+                                                                    role="module-content" bgcolor="">
+                                                                  </td>
+                                                                </tr>
+                                                              </tbody>
+                                                            </table>
+                                                            <table class="wrapper" role="module" data-type="image"
+                                                              border="0" cellpadding="0" cellspacing="0" width="100%"
+                                                              style="table-layout: fixed;"
+                                                              data-muid="f8665f9c-039e-4b86-a34d-9f6d5d439327">
+                                                              <tbody>
+                                                                <tr>
+                                                                  <td
+                                                                    style="font-size:6px; line-height:10px; padding:0px 0px 0px 0px;"
+                                                                    valign="top" align="center">
+                                                                    <img class="max-width" border="0"
+                                                                      style="display:block; color:#000000; text-decoration:none; font-family:Helvetica, arial, sans-serif; font-size:16px;"
+                                                                      width="130" alt=""
+                                                                      data-proportionally-constrained="true"
+                                                                      data-responsive="false"
+                                                                      src="http://cdn.mcauto-images-production.sendgrid.net/954c252fedab403f/f238a31e-9b8a-40d3-92f9-8a0625437766/130x33.png"
+                                                                      height="33">
+                                                                  </td>
+                                                                </tr>
+                                                              </tbody>
+                                                            </table>
+                                                            <table class="module" role="module" data-type="spacer"
+                                                              border="0" cellpadding="0" cellspacing="0" width="100%"
+                                                              style="table-layout: fixed;"
+                                                              data-muid="10cc50ce-3fd3-4f37-899b-a52a7ad0ccce.1">
+                                                              <tbody>
+                                                                <tr>
+                                                                  <td style="padding:0px 0px 30px 0px;"
+                                                                    role="module-content" bgcolor="">
+                                                                  </td>
+                                                                </tr>
+                                                              </tbody>
+                                                            </table>
+                                                          </td>
+                                                        </tr>
+                                                      </tbody>
+                                                    </table>
+    
+                                                  </td>
+                                                </tr>
+                                              </tbody>
+                                            </table>
+                                            <table class="module" role="module" data-type="text" border="0" cellpadding="0"
+                                              cellspacing="0" width="100%" style="table-layout: fixed;"
+                                              data-muid="bff8ffa1-41a9-4aab-a2ea-52ac3767c6f4">
+                                              <tbody>
+                                                <tr>
+                                                  <td
+                                                    style="padding:18px 30px 18px 30px; line-height:40px; text-align:inherit; background-color:#dde6de;"
+                                                    height="100%" valign="top" bgcolor="#dde6de" role="module-content">
+                                                    <div>
+                                                      <div style="font-family: inherit; text-align: center"><span
+                                                          style="color: #6fab81; font-size: 40px; font-family: inherit">Thank
+                                                          you for your registration</span></div>
+                                                      <div></div>
+                                                    </div>
+                                                  </td>
+                                                </tr>
+                                              </tbody>
+                                            </table>
+                                            <table class="module" role="module" data-type="text" border="0" cellpadding="0"
+                                              cellspacing="0" width="100%" style="table-layout: fixed;"
+                                              data-muid="2f94ef24-a0d9-4e6f-be94-d2d1257946b0">
+                                              <tbody>
+                                                <tr>
+                                                  <td
+                                                    style="padding:18px 50px 18px 50px; line-height:22px; text-align:inherit; background-color:#dde6de;"
+                                                    height="100%" valign="top" bgcolor="#dde6de" role="module-content">
+                                                    <div>
+                                                      <div style="font-family: inherit; text-align: center"><span
+                                                          style="font-size: 16px; font-family: inherit">Confirm your email
+                                                          address to start learning on Udema.&nbsp;</span>
+                                                      </div>
+                                                      <div></div>
+                                                    </div>
+                                                  </td>
+                                                </tr>
+                                              </tbody>
+                                            </table>
+                                            <table border="0" cellpadding="0" cellspacing="0" class="module"
+                                              data-role="module-button" data-type="button" role="module"
+                                              style="table-layout:fixed;" width="100%"
+                                              data-muid="c7bd4768-c1ab-4c64-ba24-75a9fd6daed8">
+                                              <tbody>
+                                                <tr>
+                                                  <td align="center" bgcolor="#dde6de" class="outer-td"
+                                                    style="padding:10px 0px 20px 0px;">
+                                                    <table border="0" cellpadding="0" cellspacing="0" class="wrapper-mobile"
+                                                      style="text-align:center;">
+                                                      <tbody>
+                                                        <tr>
+                                                          <td align="center" bgcolor="#eac96c" class="inner-td"
+                                                            style="border-radius:6px; font-size:16px; text-align:center; background-color:inherit;">
+                                                            <a href=${req.protocol}://${req.get("host")}/confirm?token=${emailToken}
+                                                              style="background-color:#eac96c; border:0px solid #333333; border-color:#333333; border-radius:0px; border-width:0px; color:#000000; display:inline-block; font-size:16px; font-weight:normal; letter-spacing:0px; line-height:normal; padding:20px 30px 20px 30px; text-align:center; text-decoration:none; border-style:solid; font-family:inherit;"
+                                                              target="_blank">Confirm Email</a>
+                                                          </td>
+                                                        </tr>
+                                                      </tbody>
+                                                    </table>
+                                                  </td>
+                                                </tr>
+                                              </tbody>
+                                            </table>
+                                            <table border="0" cellpadding="0" cellspacing="0" align="center" width="100%"
+                                              role="module" data-type="columns" style="padding:30px 0px 0px 0px;"
+                                              bgcolor="#dde6de">
+                                              <tbody>
+                                                <tr role="module-content">
+                                                  <td height="100%" valign="top">
+                                                    <table class="column" width="600"
+                                                      style="width:600px; border-spacing:0; border-collapse:collapse; margin:0px 0px 0px 0px;"
+                                                      cellpadding="0" cellspacing="0" align="left" border="0" bgcolor="">
+                                                      <tbody>
+                                                        <tr>
+                                                          <td style="padding:0px;margin:0px;border-spacing:0;">
+                                                            <table class="wrapper" role="module" data-type="image"
+                                                              border="0" cellpadding="0" cellspacing="0" width="100%"
+                                                              style="table-layout: fixed;"
+                                                              data-muid="ce6dd3be-5ed4-42d2-b304-55a58022cdf0">
+                                                              <tbody>
+                                                                <tr>
+                                                                  <td
+                                                                    style="font-size:6px; line-height:10px; padding:0px 0px 0px 0px;"
+                                                                    valign="top" align="center">
+                                                                    <img class="max-width" border="0"
+                                                                      style="display:block; color:#000000; text-decoration:none; font-family:Helvetica, arial, sans-serif; font-size:16px; max-width:100% !important; width:100%; height:auto !important;"
+                                                                      width="600" alt=""
+                                                                      data-proportionally-constrained="true"
+                                                                      data-responsive="true"
+                                                                      src="http://cdn.mcauto-images-production.sendgrid.net/954c252fedab403f/a8915cf9-9083-4c7b-bf41-dfbe1bdec0f7/600x539.png">
+                                                                  </td>
+                                                                </tr>
+                                                              </tbody>
+                                                            </table>
+                                                          </td>
+                                                        </tr>
+                                                      </tbody>
+                                                    </table>
+    
+                                                  </td>
+                                                </tr>
+                                              </tbody>
+                                            </table>
+                                            <table border="0" cellpadding="0" cellspacing="0" align="center" width="100%"
+                                              role="module" data-type="columns" style="padding:40px 30px 30px 30px;"
+                                              bgcolor="#dde6de">
+                                              <tbody>
+                                                <tr role="module-content">
+                                                  <td height="100%" valign="top">
+                                                    <table class="column" width="166"
+                                                      style="width:166px; border-spacing:0; border-collapse:collapse; margin:0px 10px 0px 0px;"
+                                                      cellpadding="0" cellspacing="0" align="left" border="0" bgcolor="">
+                                                      <tbody>
+                                                        <tr>
+                                                          <td style="padding:0px;margin:0px;border-spacing:0;">
+                                                            <table class="wrapper" role="module" data-type="image"
+                                                              border="0" cellpadding="0" cellspacing="0" width="100%"
+                                                              style="table-layout: fixed;"
+                                                              data-muid="35f4b6e7-fc49-4a6f-a23c-e84ad33abca4">
+                                                              <tbody>
+                                                                <tr>
+                                                                  <td
+                                                                    style="font-size:6px; line-height:10px; padding:0px 0px 0px 0px;"
+                                                                    valign="top" align="center">
+                                                                    <img class="max-width" border="0"
+                                                                      style="display:block; color:#000000; text-decoration:none; font-family:Helvetica, arial, sans-serif; font-size:16px;"
+                                                                      width="80" alt=""
+                                                                      data-proportionally-constrained="true"
+                                                                      data-responsive="false"
+                                                                      src="http://cdn.mcauto-images-production.sendgrid.net/954c252fedab403f/0394b217-16c4-49ae-b696-561adcd513aa/119x119.png"
+                                                                      height="80">
+                                                                  </td>
+                                                                </tr>
+                                                              </tbody>
+                                                            </table>
+                                                            <table class="module" role="module" data-type="text" border="0"
+                                                              cellpadding="0" cellspacing="0" width="100%"
+                                                              style="table-layout: fixed;"
+                                                              data-muid="4f3e6dad-4d49-49b4-b842-97c93e43616f">
+                                                              <tbody>
+                                                                <tr>
+                                                                  <td
+                                                                    style="padding:18px 0px 18px 0px; line-height:22px; text-align:inherit;"
+                                                                    height="100%" valign="top" bgcolor=""
+                                                                    role="module-content">
+                                                                    <div>
+                                                                      <div
+                                                                        style="font-family: inherit; text-align: inherit">
+                                                                        <span style="font-size: 14px">Keep track of your
+                                                                          spending by day, week, month, quarterly or
+                                                                          year!&nbsp;</span>
+                                                                      </div>
+                                                                      <div
+                                                                        style="font-family: inherit; text-align: inherit">
+                                                                        <br>
+                                                                      </div>
+                                                                      <div
+                                                                        style="font-family: inherit; text-align: inherit">
+                                                                        <a href="http://"><span
+                                                                            style="font-size: 14px"><u>Learn
+                                                                              More</u></span></a>
+                                                                      </div>
+                                                                      <div></div>
+                                                                    </div>
+                                                                  </td>
+                                                                </tr>
+                                                              </tbody>
+                                                            </table>
+                                                          </td>
+                                                        </tr>
+                                                      </tbody>
+                                                    </table>
+                                                    <table class="column" width="166"
+                                                      style="width:166px; border-spacing:0; border-collapse:collapse; margin:0px 10px 0px 10px;"
+                                                      cellpadding="0" cellspacing="0" align="left" border="0" bgcolor="">
+                                                      <tbody>
+                                                        <tr>
+                                                          <td style="padding:0px;margin:0px;border-spacing:0;">
+                                                            <table class="wrapper" role="module" data-type="image"
+                                                              border="0" cellpadding="0" cellspacing="0" width="100%"
+                                                              style="table-layout: fixed;"
+                                                              data-muid="0cb2f52e-e1c0-4b42-a114-04aa36fe57f5">
+                                                              <tbody>
+                                                                <tr>
+                                                                  <td
+                                                                    style="font-size:6px; line-height:10px; padding:0px 0px 0px 0px;"
+                                                                    valign="top" align="center">
+                                                                    <img class="max-width" border="0"
+                                                                      style="display:block; color:#000000; text-decoration:none; font-family:Helvetica, arial, sans-serif; font-size:16px;"
+                                                                      width="80" alt=""
+                                                                      data-proportionally-constrained="true"
+                                                                      data-responsive="false"
+                                                                      src="http://cdn.mcauto-images-production.sendgrid.net/954c252fedab403f/461a0641-b2b7-459c-ab49-ea560fc221f7/119x119.png"
+                                                                      height="80">
+                                                                  </td>
+                                                                </tr>
+                                                              </tbody>
+                                                            </table>
+                                                            <table class="module" role="module" data-type="text" border="0"
+                                                              cellpadding="0" cellspacing="0" width="100%"
+                                                              style="table-layout: fixed;"
+                                                              data-muid="9bf90608-97e0-467e-a709-f45d87b0451b">
+                                                              <tbody>
+                                                                <tr>
+                                                                  <td
+                                                                    style="padding:18px 0px 18px 0px; line-height:22px; text-align:inherit;"
+                                                                    height="100%" valign="top" bgcolor=""
+                                                                    role="module-content">
+                                                                    <div>
+                                                                      <div
+                                                                        style="font-family: inherit; text-align: inherit">
+                                                                        <span style="font-size: 14px">Recieve text or email
+                                                                          alerts when you’re close to going above your
+                                                                          limit.</span>
+                                                                      </div>
+                                                                      <div
+                                                                        style="font-family: inherit; text-align: inherit">
+                                                                        <br>
+                                                                      </div>
+                                                                      <div
+                                                                        style="font-family: inherit; text-align: inherit">
+                                                                        <a href="http://"><span
+                                                                            style="font-size: 14px"><u>Learn
+                                                                              More&nbsp;</u></span></a>
+                                                                      </div>
+                                                                      <div></div>
+                                                                    </div>
+                                                                  </td>
+                                                                </tr>
+                                                              </tbody>
+                                                            </table>
+                                                          </td>
+                                                        </tr>
+                                                      </tbody>
+                                                    </table>
+                                                    <table width="166"
+                                                      style="width:166px; border-spacing:0; border-collapse:collapse; margin:0px 0px 0px 10px;"
+                                                      cellpadding="0" cellspacing="0" align="left" border="0" bgcolor=""
+                                                      class="column column-2">
+                                                      <tbody>
+                                                        <tr>
+                                                          <td style="padding:0px;margin:0px;border-spacing:0;">
+                                                            <table class="wrapper" role="module" data-type="image"
+                                                              border="0" cellpadding="0" cellspacing="0" width="100%"
+                                                              style="table-layout: fixed;"
+                                                              data-muid="231c1abd-75e6-4f22-a697-c5f3819b2b07">
+                                                              <tbody>
+                                                                <tr>
+                                                                  <td
+                                                                    style="font-size:6px; line-height:10px; padding:0px 0px 0px 0px;"
+                                                                    valign="top" align="center">
+                                                                    <img class="max-width" border="0"
+                                                                      style="display:block; color:#000000; text-decoration:none; font-family:Helvetica, arial, sans-serif; font-size:16px;"
+                                                                      width="80" alt=""
+                                                                      data-proportionally-constrained="true"
+                                                                      data-responsive="false"
+                                                                      src="http://cdn.mcauto-images-production.sendgrid.net/954c252fedab403f/61f17ba7-b7af-4276-8e61-2501e525e4c3/119x119.png"
+                                                                      height="80">
+                                                                  </td>
+                                                                </tr>
+                                                              </tbody>
+                                                            </table>
+                                                            <table class="module" role="module" data-type="text" border="0"
+                                                              cellpadding="0" cellspacing="0" width="100%"
+                                                              style="table-layout: fixed;"
+                                                              data-muid="e82d5e62-b94c-42bb-a289-4515ec9ecc85">
+                                                              <tbody>
+                                                                <tr>
+                                                                  <td
+                                                                    style="padding:18px 0px 18px 0px; line-height:22px; text-align:inherit;"
+                                                                    height="100%" valign="top" bgcolor=""
+                                                                    role="module-content">
+                                                                    <div>
+                                                                      <div
+                                                                        style="font-family: inherit; text-align: inherit">
+                                                                        <span style="font-size: 14px">Receive special
+                                                                          members-only discounts on over 300
+                                                                          retailers!</span>
+                                                                      </div>
+                                                                      <div
+                                                                        style="font-family: inherit; text-align: inherit">
+                                                                        <br>
+                                                                      </div>
+                                                                      <div
+                                                                        style="font-family: inherit; text-align: inherit">
+                                                                        <a href="http://"><span
+                                                                            style="font-size: 14px"><u>Learn
+                                                                              More&nbsp;</u></span></a>
+                                                                      </div>
+                                                                      <div></div>
+                                                                    </div>
+                                                                  </td>
+                                                                </tr>
+                                                              </tbody>
+                                                            </table>
+                                                          </td>
+                                                        </tr>
+                                                      </tbody>
+                                                    </table>
+                                                  </td>
+                                                </tr>
+                                              </tbody>
+                                            </table>
+                                            <table class="module" role="module" data-type="text" border="0" cellpadding="0"
+                                              cellspacing="0" width="100%" style="table-layout: fixed;"
+                                              data-muid="30d9a68c-ce13-4754-a845-6c3dc22721ee">
+                                              <tbody>
+                                                <tr>
+                                                  <td
+                                                    style="padding:40px 40px 40px 40px; line-height:22px; text-align:inherit; background-color:#fe737c;"
+                                                    height="100%" valign="top" bgcolor="#fe737c" role="module-content">
+                                                    <div>
+                                                      <div style="font-family: inherit; text-align: center"><span
+                                                          style="color: #ffffff; font-size: 16px">Need more help figuring
+                                                          things out? Our support team is here to help!</span></div>
+                                                      <div style="font-family: inherit; text-align: center"><br></div>
+                                                      <div style="font-family: inherit; text-align: center"><a
+                                                          href="http://www.google.com"><span
+                                                            style="color: #ffffff; font-size: 16px"><u>Help
+                                                              Center</u></span></a></div>
+                                                      <div></div>
+                                                    </div>
+                                                  </td>
+                                                </tr>
+                                              </tbody>
+                                            </table>                                            
+                                            <table border="0" cellpadding="0" cellspacing="0" class="module"
+                                              data-role="module-button" data-type="button" role="module"
+                                              style="table-layout:fixed;" width="100%"
+                                              data-muid="188c3d22-338c-4a35-a298-a7d3957f579d">
+                                              <tbody>
+                                                <tr>
+                                                  <td align="center" bgcolor="" class="outer-td"
+                                                    style="padding:0px 0px 20px 0px;">
+                                                    <table border="0" cellpadding="0" cellspacing="0" class="wrapper-mobile"
+                                                      style="text-align:center;">
+                                                      <tbody>
+                                                        <tr>
+                                                          <td align="center" bgcolor="#f5f8fd" class="inner-td"
+                                                            style="border-radius:6px; font-size:16px; text-align:center; background-color:inherit;">
+                                                            <a href="https://www.sendgrid.com/?utm_source=powered-by&utm_medium=email"
+                                                              style="background-color:#f5f8fd; border:1px solid #f5f8fd; border-color:#f5f8fd; border-radius:25px; border-width:1px; color:#a8b9d5; display:inline-block; font-size:10px; font-weight:normal; letter-spacing:0px; line-height:normal; padding:5px 18px 5px 18px; text-align:center; text-decoration:none; border-style:solid; font-family:helvetica,sans-serif;"
+                                                              target="_blank">♥ POWERED BY UDEMA</a>
+                                                          </td>
+                                                        </tr>
+                                                      </tbody>
+                                                    </table>
+                                                  </td>
+                                                </tr>
+                                              </tbody>
+                                            </table>
+                                          </td>
                                         </tr>
+                                      </tbody>
                                     </table>
-                                </td>
-                            </tr> <!-- COPY -->
-                            <tr>
-                                <td bgcolor="#ffffff" align="left"
-                                    style="padding: 0px 30px 0px 30px; color: #666666; font-family: 'Lato', Helvetica, Arial, sans-serif; font-size: 18px; font-weight: 400; line-height: 25px;">
-                                    <p style="margin: 0;">If that doesn't work, copy and paste the following link in your
-                                        browser:</p>
-                                </td>
-                            </tr> <!-- COPY -->
-                            <tr>
-                                <td bgcolor="#ffffff" align="left"
-                                    style="padding: 20px 30px 20px 30px; color: #666666; font-family: 'Lato', Helvetica, Arial, sans-serif; font-size: 18px; font-weight: 400; line-height: 25px;">
-                                    <p style="margin: 0;"><a href=${req.protocol}://${req.get("host")}/confirm?token=${emailToken} target="_blank"
-                                            style="color: #FFA73B;">${req.protocol}://${req.get("host")}/confirm?token=${emailToken}</a></p>
-                                </td>
-                            </tr>
-                            <tr>
-                                <td bgcolor="#ffffff" align="left"
-                                    style="padding: 0px 30px 20px 30px; color: #666666; font-family: 'Lato', Helvetica, Arial, sans-serif; font-size: 18px; font-weight: 400; line-height: 25px;">                                    
-                                </td>
-                            </tr>
-                            <tr>
-                                <td bgcolor="#ffffff" align="left"
-                                    style="padding: 0px 30px 40px 30px; border-radius: 0px 0px 4px 4px; color: #666666; font-family: 'Lato', Helvetica, Arial, sans-serif; font-size: 18px; font-weight: 400; line-height: 25px;">
-                                    <p style="margin: 0;">Cheers,<br>Udema Team</p>
-                                </td>
-                            </tr>
-                        </table>
-                    </td>
+                                  </td>
+                                </tr>
+                              </tbody>
+                            </table>
+                          </td>
+                        </tr>
+                      </tbody>
+                    </table>
+                  </td>
                 </tr>
-                <tr>
-                    <td bgcolor="#f4f4f4" align="center" style="padding: 30px 10px 0px 10px;">
-                        <table border="0" cellpadding="0" cellspacing="0" width="100%" style="max-width: 600px;">
-                            <tr>
-                                <td bgcolor="#FFECD1" align="center"
-                                    style="padding: 30px 30px 30px 30px; border-radius: 4px 4px 4px 4px; color: #666666; font-family: 'Lato', Helvetica, Arial, sans-serif; font-size: 18px; font-weight: 400; line-height: 25px;">
-                                    <h2 style="font-size: 20px; font-weight: 400; color: #111111; margin: 0;">Need more
-                                        help?</h2>
-                                    <p style="margin: 0;"><a href="#" target="_blank" style="color: #FFA73B;">We&rsquo;re
-                                            here to help you out</a></p>
-                                </td>
-                            </tr>
-                        </table>
-                    </td>
-                </tr>
-                <tr>
-                    <td bgcolor="#f4f4f4" align="center" style="padding: 0px 10px 0px 10px;">
-                        <table border="0" cellpadding="0" cellspacing="0" width="100%" style="max-width: 600px;">
-                            <tr>
-                                <td bgcolor="#f4f4f4" align="left"
-                                    style="padding: 0px 30px 30px 30px; color: #666666; font-family: 'Lato', Helvetica, Arial, sans-serif; font-size: 14px; font-weight: 400; line-height: 18px;">
-                                    <br>
-                                    <p style="margin: 0;">If these emails get annoying, please feel free to <a href="#"
-                                            target="_blank" style="color: #111111; font-weight: 700;">unsubscribe</a>.</p>
-                                </td>
-                            </tr>
-                        </table>
-                    </td>
-                </tr>
+              </tbody>
             </table>
-        </body>
+          </div>
+        </center>
+      </body>
     
-        </html>
-    </body>
-    
-    </html>
-    `
+      </html>
+      `
 
 }
 module.exports = generateEmailConfirmationHTML;
