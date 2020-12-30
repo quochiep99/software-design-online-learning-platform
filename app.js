@@ -70,7 +70,7 @@ app.use(function (req, res, next) {
     if (req.user) {
         res.locals.currentUser = req.user;
     }
-    if (!req.url.includes("/login") && !req.url.includes("/logout") && !req.url.includes("/register") && !req.url.includes("/favicon.ico") && !req.url.includes("img/logo@2x.png")) {
+    if (req.url.includes("/it") || req.url.includes("/search") || req.url.includes("/my-courses") || req.url.includes("/profile") || req.url.includes("/courses")) {
         req.session.returnTo = req.url;
     }
     res.locals.currentURL = req.url;
