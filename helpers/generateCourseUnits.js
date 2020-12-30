@@ -1,6 +1,7 @@
 const converter = require('number-to-words');
 const path = require("path");
-module.exports = (curriculum) => {
+module.exports = (course) => {
+    const curriculum = course.curriculum;
     if ((!curriculum) || (Object.keys(curriculum).length === 0 && curriculum.constructor === Object)) {
         return "No curriculum has been uploaded !!!"
     }
@@ -33,19 +34,17 @@ module.exports = (curriculum) => {
             <div id="flush-collapse${sectionNumberInString}" class="accordion-collapse ${isShown}"
                 aria-labelledby="flush-heading${sectionNumberInString}" data-bs-parent="#accordionFlushExample">
                 <div class="accordion-body">
-                    <ul class="list-group">
+                    <div class="list-group">
         `
         for (var j = 0; j < curriculum.children[i].children.length; j++) {
             const lessonName = path.parse(curriculum.children[i].children[j].name).name;
-            str += `
-                        <li class="list-group-item">
-                        <input class="form-check-input me-1" type="checkbox" value="" aria-label="...">
-                        ${lessonName}
-                        </li>
+            str += `                        
+                        <a href="/it/${course.field.name}/courses/${course._id}/learn/${lessonName}" class="list-group-item list-group-item-action">${lessonName}</a>
+
             `
         }
         str += `
-                    </ul>
+                    </div>
                 </div>
             </div>
         </div>

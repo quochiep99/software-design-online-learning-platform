@@ -2,6 +2,7 @@ const express = require("express");
 const Course = require("../models/course");
 const Field = require("../models/field");
 const middleware = require("../middleware");
+const path = require("path");
 
 const router = express.Router({
     mergeParams: true
@@ -122,12 +123,33 @@ router.get("/:id/purchase", middleware.ensureAuthenticated, async (req, res) => 
 });
 
 // Learn route
-router.get("/:id/learn", middleware.ensureAuthenticated, middleware.checkEnrolledCourseOwnership, async (req, res) => {
-    const course = await Course.findById(req.params.id);
+router.get("/:id/learn/", middleware.ensureAuthenticated, middleware.checkEnrolledCourseOwnership, async (req, res) => {
+    const course = await Course.findById(req.params.id).
+        populate("field");
     res.render("learn", {
         layout: false,
         course: course
     })
+});
+
+router.get("/:id/learn/:lessonName", middleware.ensureAuthenticated, middleware.checkEnrolledCourseOwnership, async (req, res) => {
+    const course = await Course.findById(req.params.id);
+    const curriculum = course.curriculum;
+    for (var i = 0; i < curriculum.children.length; i++) {
+
+        for (var j = 0; j < curriculum.children[i].children.length; j++) {
+            if (path.parse(curriculum.children[i].children[j].name).name === req.params.lessonName) {
+                const videoPath = curriculum.children[i].children[j].path.replace("public","").replace(/\\/g,"/");
+                return res.render("learn", {
+                    layout: false,
+                    course: course,
+                    videoPath: videoPath
+                })
+            }
+        }
+    }
+    
+    
 });
 
 // Add course to wishlist
