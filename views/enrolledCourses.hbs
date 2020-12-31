@@ -50,7 +50,7 @@
         <span><em></em></span>
         <h2>All Courses</h2>
     </div>
-    <div class="row">
+    <div id="enrolledCoursesRating" class="row">
         {{#each enrolledCourses}}
         <div class="col-xl-4 col-lg-6 col-md-6">
             <div class="box_grid wow">
@@ -68,9 +68,9 @@
                     <small>{{getFieldName this.field.name}}</small>
                     <h3>{{this.title}}</h3>
                     <p>{{this.instructor.name}}</p>
-                    <div id="enrolledCoursesRating" class="rating">
+                    <div class="rating">
                         <span>{{this.rating}}</span>
-                        <div id="enrolledCoursesRater" class="ratingStar"></div> ({{this.reviews.length}} ratings)
+                        <div class="ratingStar"></div> ({{this.reviews.length}} ratings)
                     </div>
                 </div>
                 <ul>

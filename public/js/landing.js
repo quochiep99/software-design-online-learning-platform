@@ -49,20 +49,6 @@ if (document.querySelector(".jumbotron.text-left span")) {
     });
 }
 
-// enrolledCourses page
-if (document.querySelector("#enrolledCoursesRating span")) {
-    raterJs({
-        starSize: 16,
-        step: 0.1,
-        rating: parseFloat(document.querySelector("#enrolledCoursesRating span").textContent),
-        element: document.querySelector("#enrolledCoursesRater"),
-        readOnly: true,
-        rateCallback: function rateCallback(rating, done) {
-            this.setRating(rating);
-            done();
-        }
-    });
-}
 
 // uploadedCourses page
 if (document.querySelector("#uploadedCoursesRating")) {
@@ -71,6 +57,57 @@ if (document.querySelector("#uploadedCoursesRating")) {
             starSize: 16,
             step: 0.1,
             rating: parseFloat(e.querySelector("span").textContent),
+            element: e.querySelector(".ratingStar"),
+            readOnly: true,
+            rateCallback: function rateCallback(rating, done) {
+                this.setRating(rating);
+                done();
+            }
+        });
+    })
+}
+
+// enrolledCourses page
+if (document.querySelector("#enrolledCoursesRating")) {
+    document.querySelectorAll("#enrolledCoursesRating > div").forEach(e => {
+        raterJs({
+            starSize: 16,
+            step: 0.1,
+            rating: parseFloat(e.querySelector("span").textContent),
+            element: e.querySelector(".ratingStar"),
+            readOnly: true,
+            rateCallback: function rateCallback(rating, done) {
+                this.setRating(rating);
+                done();
+            }
+        });
+    })
+}
+
+// wishlistedCourses page
+if (document.querySelector("#wishlistedCoursesRating")) {
+    document.querySelectorAll("#wishlistedCoursesRating > div").forEach(e => {
+        raterJs({
+            starSize: 16,
+            step: 0.1,
+            rating: parseFloat(e.querySelector("span").textContent),
+            element: e.querySelector(".ratingStar"),
+            readOnly: true,
+            rateCallback: function rateCallback(rating, done) {
+                this.setRating(rating);
+                done();
+            }
+        });
+    })
+}
+
+// courses/index.hbs page
+if (document.querySelector("#list_sidebar")) {
+    document.querySelectorAll("#list_sidebar > div").forEach(e => {
+        raterJs({
+            starSize: 16,
+            step: 0.1,
+            rating: parseFloat(e.querySelector(".rating span").textContent),
             element: e.querySelector(".ratingStar"),
             readOnly: true,
             rateCallback: function rateCallback(rating, done) {

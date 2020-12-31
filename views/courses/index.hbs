@@ -90,13 +90,9 @@
                             <small>{{getFieldName this.field.name}}</small>
                             <h3>{{this.title}}</h3>
                             <p>{{this.instructor.name}}</p>
-                            <!-- <div class="rating"><i class="icon_star voted"></i><i class="icon_star voted"></i>
-                                <i class="icon_star voted"></i><i class="icon_star"></i><i class="icon_star"></i>
-                                <small>(145)</small>
-                            </div> -->
                             <div class="rating">
-                                <small>{{this.rating}} stars - ({{this.reviews.length}} students reviewing)</small>
-                                <small></small>
+                                <span>{{this.rating}}</span>
+                                <div class="ratingStar"></div> ({{this.reviews.length}} ratings)
                             </div>
                         </div>
                         <ul>
