@@ -117,3 +117,20 @@ if (document.querySelector("#list_sidebar")) {
         });
     })
 }
+
+// show.hbs page/recommended courses section
+if (document.querySelector("#recommendedCourses")) {
+    document.querySelectorAll("#recommendedCourses > div").forEach(e => {
+        raterJs({
+            starSize: 16,
+            step: 0.1,
+            rating: parseFloat(e.querySelector(".rating span").textContent),
+            element: e.querySelector(".ratingStar"),
+            readOnly: true,
+            rateCallback: function rateCallback(rating, done) {
+                this.setRating(rating);
+                done();
+            }
+        });
+    })
+}
