@@ -47,94 +47,121 @@ const coursesData = [
 ];
 
 async function seedDB() {
-    // delete db
-    await (async () => {
-        console.log("deleting collections documents...");
-        await Course.deleteMany({});
-        await User.deleteMany({});
-        await Review.deleteMany({});
-        await Field.deleteMany({});
-        console.log("deleted collections documents.");
-    })();
+    // // delete db
+    // await (async () => {
+    //     console.log("deleting collections documents...");
+    //     await Course.deleteMany({});
+    //     await User.deleteMany({});
+    //     await Review.deleteMany({});
+    //     await Field.deleteMany({});
+    //     console.log("deleted collections documents.");
+    // })();
 
 
-    // ef is element function in the array of functions
-    var dataNumber = 0;
-    for (const ef of coursesData) {
-        const joinjson = new JoinJSON();
-        ef(joinjson);
-        dataNumber++;
-        console.log(`creating collections documents ${dataNumber}...`);
-        const data = joinjson.joined;
+    // // ef is element function in the array of functions
+    // var dataNumber = 0;
+    // for (const ef of coursesData) {
+    //     const joinjson = new JoinJSON();
+    //     ef(joinjson);
+    //     dataNumber++;
+    //     console.log(`creating collections documents ${dataNumber}...`);
+    //     const data = joinjson.joined;
 
-        for (var i = 0; i < 16; i++) {
-            var field = await Field.findOne({ name: data[i].field.name });
-            if (!field) {
-                field = await Field.create(data[i].field);
-            }
+    //     for (var i = 0; i < 16; i++) {
+    //         var field = await Field.findOne({ name: data[i].field.name });
+    //         if (!field) {
+    //             field = await Field.create(data[i].field);
+    //         }
 
-            var course = await Course.create(data[i].course);
+    //         var course = await Course.create(data[i].course);
 
-            var reviews = await Review.create(data[i].reviews);
+    //         var reviews = await Review.create(data[i].reviews);
 
-            var students = [];
+    //         var students = [];
 
-            for (var j = 0; j < data[i].students.length; j++) {
-                if (!(await User.findOne({ email: data[i].students[j].email }))) {
-                    const salt = await bcrypt.genSalt(10);
-                    // store the hashed password to db
-                    data[i].students[j].password = await bcrypt.hash(
-                        data[i].students[j].password,
-                        salt
-                    );
-                    students.push(await new User(data[i].students[j]).save());
-                }
-            }
+    //         for (var j = 0; j < data[i].students.length; j++) {
+    //             if (!(await User.findOne({ email: data[i].students[j].email }))) {
+    //                 const salt = await bcrypt.genSalt(10);
+    //                 // store the hashed password to db
+    //                 data[i].students[j].password = await bcrypt.hash(
+    //                     data[i].students[j].password,
+    //                     salt
+    //                 );
+    //                 students.push(await new User(data[i].students[j]).save());
+    //             }
+    //         }
 
-            var instructor = await User.findOne({ email: data[i].instructor.email });
-            if (!instructor) {
-                const salt = await bcrypt.genSalt(10);
-                // store the hashed password to db
-                data[i].instructor.password = await bcrypt.hash(data[i].instructor.password, salt);
-                instructor = await User.create(data[i].instructor);
-            }
+    //         var instructor = await User.findOne({ email: data[i].instructor.email });
+    //         if (!instructor) {
+    //             const salt = await bcrypt.genSalt(10);
+    //             // store the hashed password to db
+    //             data[i].instructor.password = await bcrypt.hash(data[i].instructor.password, salt);
+    //             instructor = await User.create(data[i].instructor);
+    //         }
 
-            // setting relationships between collections
-            field.courses.push(course);
-            field = await field.save();
+    //         // setting relationships between collections
+    //         field.courses.push(course);
+    //         field = await field.save();
 
-            course.field = field;
-            course.instructor = instructor;
-            course.reviews = reviews;
-            // re-calculate the course's average rating
-            course.calculateAverageRating(() => { });
-            course.students = students;
-            course.totalStudents = students.length;
-            field.totalStudents += students.length;
-            course = await course.save();
-            field = await field.save();
+    //         course.field = field;
+    //         course.instructor = instructor;
+    //         course.reviews = reviews;
+    //         // re-calculate the course's average rating
+    //         course.calculateAverageRating(() => { });
+    //         course.students = students;
+    //         course.totalStudents = students.length;
+    //         field.totalStudents += students.length;
+    //         course = await course.save();
+    //         field = await field.save();
 
-            instructor.uploadedCourses.push(course);
-            instructor = await instructor.save();
+    //         instructor.uploadedCourses.push(course);
+    //         instructor = await instructor.save();
 
-            for (var j = 0; j < students.length; j++) {
-                students[j].enrolledCourses.push(course);
-                await students[j].save();
-            }
+    //         for (var j = 0; j < students.length; j++) {
+    //             students[j].enrolledCourses.push(course);
+    //             await students[j].save();
+    //         }
 
-            students = await User.find({ role: "s" });
+    //         students = await User.find({ role: "s" });
 
-            for (var j = 0; j < reviews.length; j++) {
-                reviews[j].author = students[j];
-                await reviews[j].save();
-            }
-            reviews = await Review.find({});
+    //         for (var j = 0; j < reviews.length; j++) {
+    //             reviews[j].author = students[j];
+    //             await reviews[j].save();
+    //         }
+    //         reviews = await Review.find({});
 
-            console.log(`created ${i + 1}th collections document.`);
-        }
+    //         console.log(`created ${i + 1}th collections document.`);
+    //     }
+    // }
+
+    // Generate random prices additions and updated dates
+    const courses = await Course.find({});
+    for (const course of courses) {
+        course.originalPrice = 109.99;
+        course.originalPrice += Math.floor(Math.random() * 110 + 1);
+        course.originalPrice = course.originalPrice.toFixed(2);
+
+        course.discountPrice = 10.99;
+        course.discountPrice += Math.floor(Math.random() * 20 + 1);
+        course.discountPrice = course.discountPrice.toFixed(2);
+
+        course.numViews = Math.floor(Math.random() * 1001)
+        course.updatedAt = new Date();
+        course.updatedAt.setDate(course.updatedAt.getDate() - Math.floor(Math.random() * 11 + 2));
+        await course.save();
     }
+    const fields = await Field.find({});
+    for (const field of fields) {
+        field.updatedAt = new Date();
+        field.updatedAt.setDate(field.updatedAt.getDate() - Math.floor(Math.random() * 11 + 2));
+        await field.save();
+    }
+
+
+
     console.log("finished !!!");
 }
 
 seedDB();
+
 
