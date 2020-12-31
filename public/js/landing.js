@@ -2,7 +2,7 @@ document.querySelectorAll(".owl-stage > div").forEach(e => {
     const courseRating = parseFloat(e.querySelector(".rating span").textContent);
     const element = e.querySelector(".ratingStar");
     var starRatingStep = raterJs({
-        starSize: 32,
+        starSize: 16,
         step: 0.1,
         rating: courseRating,
         element: element,
