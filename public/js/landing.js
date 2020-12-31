@@ -1,8 +1,8 @@
 // Most featured courses
-document.querySelectorAll(".owl-stage > div").forEach(e => {
+document.querySelectorAll("#reccomended .owl-stage > div").forEach(e => {
     const courseRating = parseFloat(e.querySelector(".rating span").textContent);
     const element = e.querySelector(".ratingStar");
-    var starRatingStep = raterJs({
+    raterJs({
         starSize: 16,
         step: 0.1,
         rating: courseRating,
@@ -13,14 +13,14 @@ document.querySelectorAll(".owl-stage > div").forEach(e => {
             done();
         }
     });
-})
+});
 
 // Most viewed and recent courses
-for (var i = 4; i <= 5; i++) {
-    document.querySelectorAll(`div:nth-of-type(${i}) > .row > div`).forEach(e => {
+["#landingMostViewedCourses", "#landingMostRecentCourses"].forEach(elementId => {
+    document.querySelectorAll(`${elementId} > div`).forEach(e => {
         const courseRating = parseFloat(e.querySelector(".rating span").textContent);
         const element = e.querySelector(".ratingStar");
-        var starRatingStep = raterJs({
+        raterJs({
             starSize: 16,
             step: 0.1,
             rating: courseRating,
@@ -32,4 +32,19 @@ for (var i = 4; i <= 5; i++) {
             }
         });
     })
+})
+
+// course show page
+if (document.querySelector(".jumbotron.text-left span")) {
+    raterJs({
+        starSize: 16,
+        step: 0.1,
+        rating: parseFloat(document.querySelector(".jumbotron.text-left span").textContent),
+        element: document.querySelector("#showCourse"),
+        readOnly: true,
+        rateCallback: function rateCallback(rating, done) {
+            this.setRating(rating);
+            done();
+        }
+    });
 }

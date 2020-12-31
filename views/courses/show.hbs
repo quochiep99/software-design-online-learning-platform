@@ -22,8 +22,13 @@
 
             <h6 class="lead">{{course.subtitle}}</h6>
             <hr class="my-4">
-            <p>Rating: {{course.rating}} out of 5 ({{course.reviews.length}} ratings) {{course.students.length}}
-                students</p>
+            <p>
+                <span>
+                    {{course.rating}}
+                </span>
+            </p>
+            <div id="showCourse"></div>
+            ({{course.reviews.length}} ratings) {{course.students.length}} students
             <p>Last updated {{getLastUpdatedString course.updatedAt}}</p>
 
             {{#checkUploadedCourseOwnership currentUser course}}
