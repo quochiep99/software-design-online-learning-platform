@@ -48,3 +48,35 @@ if (document.querySelector(".jumbotron.text-left span")) {
         }
     });
 }
+
+// enrolledCourses page
+if (document.querySelector("#enrolledCoursesRating span")) {
+    raterJs({
+        starSize: 16,
+        step: 0.1,
+        rating: parseFloat(document.querySelector("#enrolledCoursesRating span").textContent),
+        element: document.querySelector("#enrolledCoursesRater"),
+        readOnly: true,
+        rateCallback: function rateCallback(rating, done) {
+            this.setRating(rating);
+            done();
+        }
+    });
+}
+
+// uploadedCourses page
+if (document.querySelector("#uploadedCoursesRating")) {
+    document.querySelectorAll("#uploadedCoursesRating > div").forEach(e => {
+        raterJs({
+            starSize: 16,
+            step: 0.1,
+            rating: parseFloat(e.querySelector("span").textContent),
+            element: e.querySelector(".ratingStar"),
+            readOnly: true,
+            rateCallback: function rateCallback(rating, done) {
+                this.setRating(rating);
+                done();
+            }
+        });
+    })
+}

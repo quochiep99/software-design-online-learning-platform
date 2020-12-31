@@ -13,12 +13,12 @@
             <li>
                 <div class="switch-field">
 
-                    <input type="radio" id="allCourses" name="listing_filter" value="allCourses" {{#if isAllCoursesChosen}}
-                        checked {{/if}} onclick="window.location.href='/my-courses/learning'">
+                    <input type="radio" id="allCourses" name="listing_filter" value="allCourses" {{#if
+                        isAllCoursesChosen}} checked {{/if}} onclick="window.location.href='/my-courses/learning'">
                     <label for="allCourses">All courses</label>
 
-                    <input type="radio" id="wishList" name="listing_filter" value="wishList" {{#if isWishListChosen}} checked
-                        {{/if}} onclick="window.location.href='/my-courses/wishlist'">
+                    <input type="radio" id="wishList" name="listing_filter" value="wishList" {{#if isWishListChosen}}
+                        checked {{/if}} onclick="window.location.href='/my-courses/wishlist'">
                     <label for="wishList">WishList</label>
 
                 </div>
@@ -50,7 +50,7 @@
         <span><em></em></span>
         <h2>All Courses</h2>
     </div>
-    <div class="row">
+    <div id="uploadedCoursesRating" class="row">
         {{#each uploadedCourses}}
         <div class="col-xl-4 col-lg-6 col-md-6">
             <div class="box_grid wow">
@@ -64,13 +64,9 @@
                     <small>{{getFieldName this.field.name}}</small>
                     <h3>{{this.title}}</h3>
                     <p>{{this.instructor.name}}</p>
-                    <!-- <div class="rating"><i class="icon_star voted"></i><i class="icon_star voted"></i>
-                        <i class="icon_star voted"></i><i class="icon_star"></i><i class="icon_star"></i>
-                        <small>(145)</small>
-                    </div> -->
                     <div class="rating">
-                        <small>{{this.rating}} stars - ({{this.reviews.length}} students reviewing)</small>
-                        <small></small>
+                        <span>{{this.rating}}</span>
+                        <div class="ratingStar"></div> ({{this.reviews.length}} ratings)
                     </div>
                 </div>
                 <ul>
