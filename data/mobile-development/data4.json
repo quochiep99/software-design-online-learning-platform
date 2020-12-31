@@ -6,7 +6,7 @@
     "course": {
         "title": "Flutter & Dart - The Complete Guide [2020 Edition]",
         "subtitle": "A Complete Guide to the Flutter SDK & Flutter Framework for building native iOS and Android apps",
-        "descriptions": [],
+        "descriptions":  "",
         "reviews": [],
         "students": [],
         "image1xURL": "https://img-a.udemycdn.com/course/240x135/1708340_7108_4.jpg",
@@ -15,7 +15,7 @@
         "discountPrice": 11.99,
         "originalPrice": 129.99,
         "numViews": 0,
-        "curriculum": []
+        "curriculum": {}
     },
     "reviews": [
         {
@@ -72,73 +72,85 @@
             "name": "Evi Coach",
             "email": "evicoach@gmail.com",
             "password": "evicoach",
-            "role": "s"
+            "role": "s",
+"isConfirmed": true
         },
         {
             "name": "Bruno Abreu",
             "email": "brunoabreu@gmail.com",
             "password": "brunoabreu",
-            "role": "s"
+            "role": "s",
+"isConfirmed": true
         },
         {
             "name": "Mano Vikram",
             "email": "manovikram@gmail.com",
             "password": "manovikram",
-            "role": "s"
+            "role": "s",
+"isConfirmed": true
         },
         {
             "name": "Byron Kimani",
             "email": "byronkimani@gmail.com",
             "password": "byronkimani",
-            "role": "s"
+            "role": "s",
+"isConfirmed": true
         },
         {
             "name": "Sudhanshu",
             "email": "sudhanshu@gmail.com",
             "password": "sudhanshu",
-            "role": "s"
+            "role": "s",
+"isConfirmed": true
         },
         {
             "name": "Ahmed Amin",
             "email": "ahmedamin@gmail.com",
             "password": "ahmedamin",
-            "role": "s"
+            "role": "s",
+"isConfirmed": true
         },
         {
             "name": "Prasad P",
             "email": "prasadp@gmail.com",
             "password": "prasadp",
-            "role": "s"
+            "role": "s",
+"isConfirmed": true
         },
         {
             "name": "John Martens",
             "email": "johnmartens@gmail.com",
             "password": "johnmartens",
-            "role": "s"
+            "role": "s",
+"isConfirmed": true
         },
         {
             "name": "Emamezi",
             "email": "emamezi@gmail.com",
             "password": "emamezi",
-            "role": "s"
+            "role": "s",
+"isConfirmed": true
         },
         {
             "name": "Praveen Gupta",
             "email": "praveengupta@gmail.com",
             "password": "praveengupta",
-            "role": "s"
+            "role": "s",
+"isConfirmed": true
         },
         {
             "name": "Charbel Antouny",
             "email": "charbelantouny@gmail.com",
             "password": "charbelantouny",
-            "role": "s"
+            "role": "s",
+"isConfirmed": true
         },
         {
             "name": "Ahmed",
             "email": "ahmed@gmail.com",
             "password": "ahmed",
-            "role": "s"
+            "role": "s",
+"isConfirmed": true
         }
     ],
     "instructor": {
@@ -146,6 +158,7 @@
         "email": "academindbymaximilianschwarzmüller@gmail.com",
         "password": "academindbymaximilianschwarzmüller",
         "role": "i",
+"isConfirmed": true,
         "briefIntroduction": "<p>Bundling the courses and know how of successful instructors, Academind strives to deliver high quality online education.&nbsp;</p>\n\n<p>Online Education, Real-Life Success - that's what Academind stands for. Learn topics like web development, data analyses and more in a fun and engaging way.</p>\n\n\n\n\n\n\n\n<p>Currently, you can find courses published by Maximilian Schwarzmüller and Manuel Lorenz, more instructors to come!</p>\n\n\n\n\n\n\n\n<p>Keep learning!</p>"
     }
 }

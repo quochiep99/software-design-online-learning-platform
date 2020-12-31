@@ -6,7 +6,7 @@
     "course": {
         "title": "iOS 10 & Swift 3: From Beginner to Paid Professional™",
         "subtitle": "The most comprehensive course on iOS development - become a master of app development",
-        "descriptions": [],
+        "descriptions":  "",
         "reviews": [],
         "students": [],
         "image1xURL": "https://img-a.udemycdn.com/course/240x135/892102_963b.jpg",
@@ -15,7 +15,7 @@
         "discountPrice": 16.99,
         "originalPrice": 179.99,
         "numViews": 0,
-        "curriculum": []
+        "curriculum": {}
     },
     "reviews": [
         {
@@ -72,73 +72,85 @@
             "name": "Andrej",
             "email": "andrej@gmail.com",
             "password": "andrej",
-            "role": "s"
+            "role": "s",
+"isConfirmed": true
         },
         {
             "name": "Mikael Mengistu",
             "email": "mikaelmengistu@gmail.com",
             "password": "mikaelmengistu",
-            "role": "s"
+            "role": "s",
+"isConfirmed": true
         },
         {
             "name": "Saifaldeen",
             "email": "saifaldeen@gmail.com",
             "password": "saifaldeen",
-            "role": "s"
+            "role": "s",
+"isConfirmed": true
         },
         {
             "name": "Cho Sing Kum",
             "email": "chosingkum@gmail.com",
             "password": "chosingkum",
-            "role": "s"
+            "role": "s",
+"isConfirmed": true
         },
         {
             "name": "Jon Preece",
             "email": "jonpreece@gmail.com",
             "password": "jonpreece",
-            "role": "s"
+            "role": "s",
+"isConfirmed": true
         },
         {
             "name": "Benjamin Brandau",
             "email": "benjaminbrandau@gmail.com",
             "password": "benjaminbrandau",
-            "role": "s"
+            "role": "s",
+"isConfirmed": true
         },
         {
             "name": "Johnsonsieu",
             "email": "johnsonsieu@gmail.com",
             "password": "johnsonsieu",
-            "role": "s"
+            "role": "s",
+"isConfirmed": true
         },
         {
             "name": "Barry Garfield",
             "email": "barrygarfield@gmail.com",
             "password": "barrygarfield",
-            "role": "s"
+            "role": "s",
+"isConfirmed": true
         },
         {
             "name": "Norman Cleghorn",
             "email": "normancleghorn@gmail.com",
             "password": "normancleghorn",
-            "role": "s"
+            "role": "s",
+"isConfirmed": true
         },
         {
             "name": "Gustav Pastorino",
             "email": "gustavpastorino@gmail.com",
             "password": "gustavpastorino",
-            "role": "s"
+            "role": "s",
+"isConfirmed": true
         },
         {
             "name": "Hongbo Niu",
             "email": "hongboniu@gmail.com",
             "password": "hongboniu",
-            "role": "s"
+            "role": "s",
+"isConfirmed": true
         },
         {
             "name": "Dollynda McIntosh",
             "email": "dollyndamcintosh@gmail.com",
             "password": "dollyndamcintosh",
-            "role": "s"
+            "role": "s",
+"isConfirmed": true
         }
     ],
     "instructor": {
@@ -146,6 +158,7 @@
         "email": "markwahlbeck@gmail.com",
         "password": "markwahlbeck",
         "role": "i",
+"isConfirmed": true,
         "briefIntroduction": "<p>I am a veteran mobile developer having built over 57 mobile apps for iOS and Android, and I've also build multiple Unity 3D games, including Call of Duty Ghosts mobile.&nbsp;</p><p>I also spend most of my days now as a professional engineering instructor&nbsp; - changing the lives of students throughout the world - helping them make amazing salaries as engineers.</p><p>My passion is helping people reveal hidden talents and guide them into the world of startups and programming. I currently am teaching iOS 10, Apple TV &amp; tvOS, React &amp; Flux web development, Objective-C, Swift 3, Android, Javascript, Node, and Java. I also teach Unity 3D game development.</p>"
     }
 }

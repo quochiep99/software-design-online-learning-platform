@@ -6,7 +6,7 @@
     "course": {
         "title": "The Complete Android Kotlin Developer Course",
         "subtitle": "Learn how to build 17 online games, and apps for Android Q, like Pokémon , twitter,Tic Tac Toe, and notepad using Kotlin",
-        "descriptions": [],
+        "descriptions":  "",
         "reviews": [],
         "students": [],
         "image1xURL": "https://img-b.udemycdn.com/course/240x135/1207960_a8af_2.jpg",
@@ -15,7 +15,7 @@
         "discountPrice": 11.99,
         "originalPrice": 129.99,
         "numViews": 0,
-        "curriculum": []
+        "curriculum": {}
     },
     "reviews": [
         {
@@ -72,73 +72,85 @@
             "name": "Muhammad Hazeeq",
             "email": "muhammadhazeeq@gmail.com",
             "password": "muhammadhazeeq",
-            "role": "s"
+            "role": "s",
+"isConfirmed": true
         },
         {
             "name": "Ausdakorn Khantee",
             "email": "ausdakornkhantee@gmail.com",
             "password": "ausdakornkhantee",
-            "role": "s"
+            "role": "s",
+"isConfirmed": true
         },
         {
             "name": "Aman Raj",
             "email": "amanraj@gmail.com",
             "password": "amanraj",
-            "role": "s"
+            "role": "s",
+"isConfirmed": true
         },
         {
             "name": "Gloria Gonzales",
             "email": "gloriagonzales@gmail.com",
             "password": "gloriagonzales",
-            "role": "s"
+            "role": "s",
+"isConfirmed": true
         },
         {
             "name": "issa Katuga",
             "email": "issakatuga@gmail.com",
             "password": "issakatuga",
-            "role": "s"
+            "role": "s",
+"isConfirmed": true
         },
         {
             "name": "Sneha C R",
             "email": "snehacr@gmail.com",
             "password": "snehacr",
-            "role": "s"
+            "role": "s",
+"isConfirmed": true
         },
         {
             "name": "José María Egea Canales",
             "email": "josémaríaegeacanales@gmail.com",
             "password": "josémaríaegeacanales",
-            "role": "s"
+            "role": "s",
+"isConfirmed": true
         },
         {
             "name": "Nala Alan",
             "email": "nalaalan@gmail.com",
             "password": "nalaalan",
-            "role": "s"
+            "role": "s",
+"isConfirmed": true
         },
         {
             "name": "Michael Magdy",
             "email": "michaelmagdy@gmail.com",
             "password": "michaelmagdy",
-            "role": "s"
+            "role": "s",
+"isConfirmed": true
         },
         {
             "name": "Philip Wainwright",
             "email": "philipwainwright@gmail.com",
             "password": "philipwainwright",
-            "role": "s"
+            "role": "s",
+"isConfirmed": true
         },
         {
             "name": "Manea Valentin Cornel",
             "email": "maneavalentincornel@gmail.com",
             "password": "maneavalentincornel",
-            "role": "s"
+            "role": "s",
+"isConfirmed": true
         },
         {
             "name": "Wolfram Hildebrandt",
             "email": "wolframhildebrandt@gmail.com",
             "password": "wolframhildebrandt",
-            "role": "s"
+            "role": "s",
+"isConfirmed": true
         }
     ],
     "instructor": {
@@ -146,6 +158,7 @@
         "email": "husseinalrubaye@gmail.com",
         "password": "husseinalrubaye",
         "role": "i",
+"isConfirmed": true,
         "briefIntroduction": "<p> I am a Senior Software Engineer at Microsoft<strong>. </strong>I have Ph.D. &amp; Master in&nbsp;Software Engineering from Rochester Institute of Technology in USA. I've helped hundreds of thousands of students learn to code and change their lives by becoming a developer.&nbsp; I&nbsp;have&nbsp;apps in Google Play, Microsoft Store, and &nbsp;Apple Store<strong> </strong>there are more than <strong>million users </strong>who are using my apps. Also, I have many tutorials on YouTube( <strong>500k+ subscribes</strong>). Because of my contribution to teaching programming,&nbsp;I got<strong>&nbsp;Microsoft Most Valuable Professional (17) </strong>. Also, I teach at <strong>Udacity, Udemy, SkillShare, StackSkills, and a local university. </strong>For more see my website</p>"
     }
 }

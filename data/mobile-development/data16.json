@@ -6,7 +6,7 @@
     "course": {
         "title": "The Complete Android & Java Developer Course - Build 21 Apps",
         "subtitle": "Learn Android Development, Java & Android Studio from Scratch in 5 Weeks. Build a Diary App & more",
-        "descriptions": [],
+        "descriptions":  "",
         "reviews": [],
         "students": [],
         "image1xURL": "https://img-a.udemycdn.com/course/240x135/360920_681f_21.jpg",
@@ -15,7 +15,7 @@
         "discountPrice": 11.99,
         "originalPrice": 129.99,
         "numViews": 0,
-        "curriculum": []
+        "curriculum": {}
     },
     "reviews": [
         {
@@ -72,73 +72,85 @@
             "name": "Kiran Baldaniya",
             "email": "kiranbaldaniya@gmail.com",
             "password": "kiranbaldaniya",
-            "role": "s"
+            "role": "s",
+"isConfirmed": true
         },
         {
             "name": "Matheas T",
             "email": "matheast@gmail.com",
             "password": "matheast",
-            "role": "s"
+            "role": "s",
+"isConfirmed": true
         },
         {
             "name": "Ehtesham Ansari",
             "email": "ehteshamansari@gmail.com",
             "password": "ehteshamansari",
-            "role": "s"
+            "role": "s",
+"isConfirmed": true
         },
         {
             "name": "Laszlo Kapronczay",
             "email": "laszlokapronczay@gmail.com",
             "password": "laszlokapronczay",
-            "role": "s"
+            "role": "s",
+"isConfirmed": true
         },
         {
             "name": "Dhyan Gowda",
             "email": "dhyangowda@gmail.com",
             "password": "dhyangowda",
-            "role": "s"
+            "role": "s",
+"isConfirmed": true
         },
         {
             "name": "Javed Ahsan",
             "email": "javedahsan@gmail.com",
             "password": "javedahsan",
-            "role": "s"
+            "role": "s",
+"isConfirmed": true
         },
         {
             "name": "Aditya Mehta",
             "email": "adityamehta@gmail.com",
             "password": "adityamehta",
-            "role": "s"
+            "role": "s",
+"isConfirmed": true
         },
         {
             "name": "Isaak Alejandro Haas Aldape",
             "email": "isaakalejandrohaasaldape@gmail.com",
             "password": "isaakalejandrohaasaldape",
-            "role": "s"
+            "role": "s",
+"isConfirmed": true
         },
         {
             "name": "Osebi Adams",
             "email": "osebiadams@gmail.com",
             "password": "osebiadams",
-            "role": "s"
+            "role": "s",
+"isConfirmed": true
         },
         {
             "name": "Atulya Agrawal",
             "email": "atulyaagrawal@gmail.com",
             "password": "atulyaagrawal",
-            "role": "s"
+            "role": "s",
+"isConfirmed": true
         },
         {
             "name": "Sudhakar Kalwa",
             "email": "sudhakarkalwa@gmail.com",
             "password": "sudhakarkalwa",
-            "role": "s"
+            "role": "s",
+"isConfirmed": true
         },
         {
             "name": "Juned Shaikh",
             "email": "junedshaikh@gmail.com",
             "password": "junedshaikh",
-            "role": "s"
+            "role": "s",
+"isConfirmed": true
         }
     ],
     "instructor": {
@@ -146,6 +158,7 @@
         "email": "paulodichone|android,java,flutterdeveloperandteacher@gmail.com",
         "password": "paulodichone|android,java,flutterdeveloperandteacher",
         "role": "i",
+"isConfirmed": true,
         "briefIntroduction": "<p>Hi, I'm Paulo. </p><p>I&nbsp;am passionate about teaching people Android, Java, and Flutter development.&nbsp; I have taught over<strong> 100,000 students in 175 countries worldwide.</strong></p><p>I have a degree in Computer Science from Whitworth University, and I love programming and teaching.</p><p> I have extensive experience in Mobile App Development (Android and iOS) and Web Development.&nbsp; </p><p>I am also the founder of Build Apps With Paulo, where students are equipped with tools they need to become well-rounded developers - <strong>developers who have soft and technical skills.</strong></p><p> Showing students how to make amazing applications/software is a gratifying experience for me.&nbsp; That's why I have been teaching online for the past 5 years.</p><p><strong><em>My goal is to make you a great developer, no matter your experience.&nbsp; </em></strong>I enjoy spending time with my growing family, playing the guitar, mandolin, and traveling in my spare time. </p><p>I look forward to helping you become the best developer you can be.&nbsp; </p><p> If you are new to <strong>Android development</strong> and my courses, I suggest you start with my most comprehensive Android course: </p><p><strong>&nbsp; 1.</strong> <strong>The Comprehensive 2020 Android Development Masterclass - </strong>You'll learn everything you'll need to know to get started with Android Development - no experience required!</p><p>Next:</p><p>&nbsp; <strong>2. The Complete Intermediate Android Masterclass - </strong>You'll learn intermediate Android topics such as Workmanager API, ROOM Database, and working in the background in Android.</p><p><br></p><p>Cross-platform Development courses &amp; Web-related (Build iOS and Android Mobile Apps):</p><p><strong> 3. Flutter &amp; Dart - The Complete Flutter App Development Course - </strong>Learn the Dart Programming language and build iOS and Android Apps with a single codebase.</p><p> <strong>4. AngularDart - Build Dynamic Web Apps with Angular &amp; Dart </strong>- Unleash the power of one of the most used web development framework Angular, and Dart, to build dynamic web apps.</p><p> <strong>5. TornadoFX - Build JavaFX Applications With Kotlin </strong>- Leverage the modern programming language, Kotlin, and JavaFX libraries to build stunning desktop apps</p><p><br></p><p>Purely Java-based courses:</p><p><strong>6. Java Masterclass - Beginner to Expert Guide - </strong>Want to learn Java from the ground up?&nbsp; Then this is the course you'll need.</p><p><strong>7. Java Design Patterns - The Complete Masterclass </strong>- Learn how to build solid software using well-tested, proven Design Patterns.</p><p><br></p><p>I look forward to seeing you in my courses.</p><p><br></p>"
     }
 }

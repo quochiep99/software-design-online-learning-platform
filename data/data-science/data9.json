@@ -6,7 +6,7 @@
     "course": {
         "title": "Python A-Z™: Python For Data Science With Real Exercises!",
         "subtitle": "Programming In Python For Data Analytics And Data Science. Learn Statistical Analysis, Data Mining And Visualization",
-        "descriptions": [],
+        "descriptions":  "",
         "reviews": [],
         "students": [],
         "image1xURL": "https://img-a.udemycdn.com/course/240x135/913448_e6e2.jpg",
@@ -15,7 +15,7 @@
         "discountPrice": 11.99,
         "originalPrice": 129.99,
         "numViews": 0,
-        "curriculum": []
+        "curriculum": {}
     },
     "reviews": [
         {
@@ -72,73 +72,85 @@
             "name": "Revanth Pokuri",
             "email": "revanthpokuri@gmail.com",
             "password": "revanthpokuri",
-            "role": "s"
+            "role": "s",
+"isConfirmed": true
         },
         {
             "name": "Abdulbasit Abdulsalam",
             "email": "abdulbasitabdulsalam@gmail.com",
             "password": "abdulbasitabdulsalam",
-            "role": "s"
+            "role": "s",
+"isConfirmed": true
         },
         {
             "name": "Roshinder Virdee",
             "email": "roshindervirdee@gmail.com",
             "password": "roshindervirdee",
-            "role": "s"
+            "role": "s",
+"isConfirmed": true
         },
         {
             "name": "Jose Canales",
             "email": "josecanales@gmail.com",
             "password": "josecanales",
-            "role": "s"
+            "role": "s",
+"isConfirmed": true
         },
         {
             "name": "Rashmi Puranik",
             "email": "rashmipuranik@gmail.com",
             "password": "rashmipuranik",
-            "role": "s"
+            "role": "s",
+"isConfirmed": true
         },
         {
             "name": "Jan Hovden Eide",
             "email": "janhovdeneide@gmail.com",
             "password": "janhovdeneide",
-            "role": "s"
+            "role": "s",
+"isConfirmed": true
         },
         {
             "name": "Tanya Grimes",
             "email": "tanyagrimes@gmail.com",
             "password": "tanyagrimes",
-            "role": "s"
+            "role": "s",
+"isConfirmed": true
         },
         {
             "name": "Godswill Oputah",
             "email": "godswilloputah@gmail.com",
             "password": "godswilloputah",
-            "role": "s"
+            "role": "s",
+"isConfirmed": true
         },
         {
             "name": "Velusamy Marimuthan",
             "email": "velusamymarimuthan@gmail.com",
             "password": "velusamymarimuthan",
-            "role": "s"
+            "role": "s",
+"isConfirmed": true
         },
         {
             "name": "Jaidip Jagtap",
             "email": "jaidipjagtap@gmail.com",
             "password": "jaidipjagtap",
-            "role": "s"
+            "role": "s",
+"isConfirmed": true
         },
         {
             "name": "Swati Upadhyay",
             "email": "swatiupadhyay@gmail.com",
             "password": "swatiupadhyay",
-            "role": "s"
+            "role": "s",
+"isConfirmed": true
         },
         {
             "name": "Soham Adla",
             "email": "sohamadla@gmail.com",
             "password": "sohamadla",
-            "role": "s"
+            "role": "s",
+"isConfirmed": true
         }
     ],
     "instructor": {
@@ -146,6 +158,7 @@
         "email": "kirilleremenko@gmail.com",
         "password": "kirilleremenko",
         "role": "i",
+"isConfirmed": true,
         "briefIntroduction": "<p>My name is Kirill Eremenko and I am super-psyched that you are reading this!</p><p>Professionally, I am a Data Science management consultant with over five years of experience in finance, retail, transport and other industries. I was trained by the best analytics mentors at Deloitte Australia and today I leverage Big Data to drive business strategy, revamp customer experience and revolutionize existing operational processes.</p><p>From my courses you will straight away notice how I combine my real-life experience and academic background in Physics and Mathematics to deliver professional step-by-step coaching in the space of Data Science. I am also passionate about public speaking, and regularly present on Big Data at leading Australian universities and industry events.</p><p>To sum up, I am absolutely and utterly passionate about Data Science and I am looking forward to sharing my passion and knowledge with you!</p>"
     }
 }

@@ -6,7 +6,7 @@
     "course": {
         "title": "Android O & Java - The Complete Android Development Bootcamp",
         "subtitle": "Learn Android O app development from beginning to end. Learn to code in Java while building fun Android O projects.",
-        "descriptions": [],
+        "descriptions":  "",
         "reviews": [],
         "students": [],
         "image1xURL": "https://img-a.udemycdn.com/course/240x135/1212244_825c_2.jpg",
@@ -15,7 +15,7 @@
         "discountPrice": 11.99,
         "originalPrice": 129.99,
         "numViews": 0,
-        "curriculum": []
+        "curriculum": {}
     },
     "reviews": [
         {
@@ -72,73 +72,85 @@
             "name": "Shanmugasharma Vijayarangan",
             "email": "shanmugasharmavijayarangan@gmail.com",
             "password": "shanmugasharmavijayarangan",
-            "role": "s"
+            "role": "s",
+"isConfirmed": true
         },
         {
             "name": "Ekaterina Lapenkova",
             "email": "ekaterinalapenkova@gmail.com",
             "password": "ekaterinalapenkova",
-            "role": "s"
+            "role": "s",
+"isConfirmed": true
         },
         {
             "name": "Robert Nilsson",
             "email": "robertnilsson@gmail.com",
             "password": "robertnilsson",
-            "role": "s"
+            "role": "s",
+"isConfirmed": true
         },
         {
             "name": "Stoica Marius Florin",
             "email": "stoicamariusflorin@gmail.com",
             "password": "stoicamariusflorin",
-            "role": "s"
+            "role": "s",
+"isConfirmed": true
         },
         {
             "name": "Александр",
             "email": "александр@gmail.com",
             "password": "александр",
-            "role": "s"
+            "role": "s",
+"isConfirmed": true
         },
         {
             "name": "Mohamad Shaftar",
             "email": "mohamadshaftar@gmail.com",
             "password": "mohamadshaftar",
-            "role": "s"
+            "role": "s",
+"isConfirmed": true
         },
         {
             "name": "Afanah Azam",
             "email": "afanahazam@gmail.com",
             "password": "afanahazam",
-            "role": "s"
+            "role": "s",
+"isConfirmed": true
         },
         {
             "name": "Sourav Naskar",
             "email": "souravnaskar@gmail.com",
             "password": "souravnaskar",
-            "role": "s"
+            "role": "s",
+"isConfirmed": true
         },
         {
             "name": "Bogosi Mabaila",
             "email": "bogosimabaila@gmail.com",
             "password": "bogosimabaila",
-            "role": "s"
+            "role": "s",
+"isConfirmed": true
         },
         {
             "name": "Imad Shams",
             "email": "imadshams@gmail.com",
             "password": "imadshams",
-            "role": "s"
+            "role": "s",
+"isConfirmed": true
         },
         {
             "name": "Dor Perez",
             "email": "dorperez@gmail.com",
             "password": "dorperez",
-            "role": "s"
+            "role": "s",
+"isConfirmed": true
         },
         {
             "name": "Antonios Adraktas",
             "email": "antoniosadraktas@gmail.com",
             "password": "antoniosadraktas",
-            "role": "s"
+            "role": "s",
+"isConfirmed": true
         }
     ],
     "instructor": {
@@ -146,6 +158,7 @@
         "email": "philippmuellauer@gmail.com",
         "password": "philippmuellauer",
         "role": "i",
+"isConfirmed": true,
         "briefIntroduction": "<p>I’m Philipp, I’m a data scientist and mobile developer with a passion for teaching. I’m the lead instructor at the London App Brewery for machine learning and Android development, fluent in Python, Java, Swift, Dart, and VBA. I’ve taught thousands of students in-person in our London classroom and lead our corporate training, used by companies such as Google, Amazon and Twitter. I'm always thinking about how to make difficult concepts easy to understand, what kind of projects would make a fun tutorial, and how I can help you succeed through my courses.</p>"
     }
 }

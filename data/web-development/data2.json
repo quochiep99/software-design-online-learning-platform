@@ -6,7 +6,7 @@
     "course": {
         "title": "Angular - The Complete Guide (2020 Edition)",
         "subtitle": "Master Angular 10 (formerly \"Angular 2\") and build awesome, reactive web apps with the successor of Angular.js",
-        "descriptions": [],
+        "descriptions":  "",
         "reviews": [],
         "students": [],
         "image1xURL": "https://img-a.udemycdn.com/course/240x135/756150_c033_2.jpg",
@@ -15,7 +15,7 @@
         "discountPrice": 11.99,
         "originalPrice": 129.99,
         "numViews": 0,
-        "curriculum": []
+        "curriculum": {}
     },
     "reviews": [
         {
@@ -72,73 +72,85 @@
             "name": "Gulyapas Pkwsr",
             "email": "gulyapaspkwsr@gmail.com",
             "password": "gulyapaspkwsr",
-            "role": "s"
+            "role": "s",
+"isConfirmed": true
         },
         {
             "name": "Garamvölgyi Hajnal",
             "email": "garamvölgyihajnal@gmail.com",
             "password": "garamvölgyihajnal",
-            "role": "s"
+            "role": "s",
+"isConfirmed": true
         },
         {
             "name": "Haim hadad",
             "email": "haimhadad@gmail.com",
             "password": "haimhadad",
-            "role": "s"
+            "role": "s",
+"isConfirmed": true
         },
         {
             "name": "Arvind Nair",
             "email": "arvindnair@gmail.com",
             "password": "arvindnair",
-            "role": "s"
+            "role": "s",
+"isConfirmed": true
         },
         {
             "name": "Tianfu Wang",
             "email": "tianfuwang@gmail.com",
             "password": "tianfuwang",
-            "role": "s"
+            "role": "s",
+"isConfirmed": true
         },
         {
             "name": "Frontend Cognicor",
             "email": "frontendcognicor@gmail.com",
             "password": "frontendcognicor",
-            "role": "s"
+            "role": "s",
+"isConfirmed": true
         },
         {
             "name": "Tomasz Zajac",
             "email": "tomaszzajac@gmail.com",
             "password": "tomaszzajac",
-            "role": "s"
+            "role": "s",
+"isConfirmed": true
         },
         {
             "name": "Sivaprasad Somarouthu",
             "email": "sivaprasadsomarouthu@gmail.com",
             "password": "sivaprasadsomarouthu",
-            "role": "s"
+            "role": "s",
+"isConfirmed": true
         },
         {
             "name": "Jan van Wickern",
             "email": "janvanwickern@gmail.com",
             "password": "janvanwickern",
-            "role": "s"
+            "role": "s",
+"isConfirmed": true
         },
         {
             "name": "Dino Buljubasic",
             "email": "dinobuljubasic@gmail.com",
             "password": "dinobuljubasic",
-            "role": "s"
+            "role": "s",
+"isConfirmed": true
         },
         {
             "name": "Dmitry Stolyarov",
             "email": "dmitrystolyarov@gmail.com",
             "password": "dmitrystolyarov",
-            "role": "s"
+            "role": "s",
+"isConfirmed": true
         },
         {
             "name": "Djabali Tarik",
             "email": "djabalitarik@gmail.com",
             "password": "djabalitarik",
-            "role": "s"
+            "role": "s",
+"isConfirmed": true
         }
     ],
     "instructor": {
@@ -146,6 +158,7 @@
         "email": "maximilianschwarzmüller@gmail.com",
         "password": "maximilianschwarzmüller",
         "role": "i",
+"isConfirmed": true,
         "briefIntroduction": "<p><strong>Experience as (Web) Developer</strong><br></p><p>Starting out at the age of 13 I never stopped learning new programming skills and languages. Early I started creating websites for friends and just for fun as well. Besides web development I also explored Python and other non-web-only&nbsp;languages.&nbsp;This passion has since lasted and lead to my decision of working as a freelance web developer and consultant. The success and fun I have in this job is immense and really keeps that passion burningly alive.</p><p>Starting web development on&nbsp;the backend (PHP with Laravel, NodeJS, Python) I also became more and more of a frontend developer using modern frameworks like React, Angular or VueJS 2 in a lot of projects. I&nbsp;love both worlds nowadays!</p><p>As a self-taught developer I had the chance to broaden my horizon by studying Business Administration where I hold a Master's degree. That enabled me to work in a major strategy consultancy as well as a bank. While learning, that I enjoy development more than these fields, the time in this sector greatly improved my overall experience and skills.</p><p><strong>Experience as Instructor</strong></p><p>As a self-taught professional I really know the hard parts and the difficult topics when learning new or improving on already-known languages. This background and experience enables me to focus on the most relevant key concepts and topics. My track record of many 5-star rated courses, more than 700,000 students on Udemy as well as a successful YouTube channel is the best proof for that.</p><p>Whether working as development instructor or teaching Business Administration I always received great feedback. The most rewarding experience is to see how people find new, better jobs, build awesome web applications, acquire amazing projects or simply enjoy their hobby with the help of my content.</p><p>Together with Manuel Lorenz, I founded Academind to offer the best possible learning experience to our more than 800,000 students.</p>"
     }
 }

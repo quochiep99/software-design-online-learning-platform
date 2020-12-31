@@ -6,7 +6,7 @@
     "course": {
         "title": "The Complete Android Oreo Developer Course - Build 23 Apps!",
         "subtitle": "Learn Android O App Development using Java & Kotlin - build real apps including Super Mario Run, Whatsapp and Instagram!",
-        "descriptions": [],
+        "descriptions":  "",
         "reviews": [],
         "students": [],
         "image1xURL": "https://img-a.udemycdn.com/course/240x135/1405812_931d_2.jpg",
@@ -15,7 +15,7 @@
         "discountPrice": 11.99,
         "originalPrice": 129.99,
         "numViews": 0,
-        "curriculum": []
+        "curriculum": {}
     },
     "reviews": [
         {
@@ -72,79 +72,92 @@
             "name": "Satyajeetsinh Zala",
             "email": "satyajeetsinhzala@gmail.com",
             "password": "satyajeetsinhzala",
-            "role": "s"
+            "role": "s",
+"isConfirmed": true
         },
         {
             "name": "Connor",
             "email": "connor@gmail.com",
             "password": "connor",
-            "role": "s"
+            "role": "s",
+"isConfirmed": true
         },
         {
             "name": "Atharv Mhatre",
             "email": "atharvmhatre@gmail.com",
             "password": "atharvmhatre",
-            "role": "s"
+            "role": "s",
+"isConfirmed": true
         },
         {
             "name": "Somya Gupta",
             "email": "somyagupta@gmail.com",
             "password": "somyagupta",
-            "role": "s"
+            "role": "s",
+"isConfirmed": true
         },
         {
             "name": "Rob Percival",
             "email": "robpercival@gmail.com",
             "password": "robpercival",
-            "role": "s"
+            "role": "s",
+"isConfirmed": true
         },
         {
             "name": "Gopal",
             "email": "gopal@gmail.com",
             "password": "gopal",
-            "role": "s"
+            "role": "s",
+"isConfirmed": true
         },
         {
             "name": "Sergio Olarte",
             "email": "sergioolarte@gmail.com",
             "password": "sergioolarte",
-            "role": "s"
+            "role": "s",
+"isConfirmed": true
         },
         {
             "name": "Sajjan Kiran",
             "email": "sajjankiran@gmail.com",
             "password": "sajjankiran",
-            "role": "s"
+            "role": "s",
+"isConfirmed": true
         },
         {
             "name": "Rohit Mehta",
             "email": "rohitmehta@gmail.com",
             "password": "rohitmehta",
-            "role": "s"
+            "role": "s",
+"isConfirmed": true
         },
         {
             "name": "Jacek Jachnowicz",
             "email": "jacekjachnowicz@gmail.com",
             "password": "jacekjachnowicz",
-            "role": "s"
+            "role": "s",
+"isConfirmed": true
         },
         {
             "name": "Dario Jose Zubaray",
             "email": "dariojosezubaray@gmail.com",
             "password": "dariojosezubaray",
-            "role": "s"
+            "role": "s",
+"isConfirmed": true
         },
         {
             "name": "Suraj kumar",
             "email": "surajkumar@gmail.com",
             "password": "surajkumar",
-            "role": "s"
+            "role": "s",
+"isConfirmed": true
         },
         {
             "name": "Tanishk Avhad",
             "email": "tanishkavhad@gmail.com",
             "password": "tanishkavhad",
-            "role": "s"
+            "role": "s",
+"isConfirmed": true
         }
     ],
     "instructor": {
@@ -152,6 +165,7 @@
         "email": "robpercival@gmail.com",
         "password": "robpercival",
         "role": "i",
+"isConfirmed": true,
         "briefIntroduction": "<p>  \t       Hi! I'm Rob. I have a degree in Mathematics from Cambridge University and you might call me a bit of coding geek.  </p>\n\n<p>  \t       After building websites for friends and family for fun, I soon learned that web development was a very lucrative career choice. I gave up my successful (and sometimes stressful) job as a teacher to work part time and today, couldn't be happier.  </p>\n\n<p>  \t       I'm passionate about teaching kids to code, so every summer I run Code School in the beautiful city of Cambridge. I also run the popular web hosting and design service, Eco Web Hosting which leaves me free to share my secrets with people like you.  </p>\n\n<p>  \t<strong>You wouldn't believe the freedom that being a web developer offers.</strong> Sign up and find out for yourself why so many people are taking and recommending this course.  I genuinely believe it's the best on the market and if you don't agree, I'll happily refund your money.  </p>\n\n<p>  \t       Sign up to my courses and join me in this amazing adventure today.  </p>"
     }
 }

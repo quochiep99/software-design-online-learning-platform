@@ -6,7 +6,7 @@
     "course": {
         "title": "Data Science A-Z™: Real-Life Data Science Exercises Included",
         "subtitle": "Learn Data Science step by step through real Analytics examples. Data Mining, Modeling, Tableau Visualization and more!",
-        "descriptions": [],
+        "descriptions":  "",
         "reviews": [],
         "students": [],
         "image1xURL": "https://img-a.udemycdn.com/course/240x135/513244_b831_2.jpg",
@@ -15,7 +15,7 @@
         "discountPrice": 11.99,
         "originalPrice": 129.99,
         "numViews": 0,
-        "curriculum": []
+        "curriculum": {}
     },
     "reviews": [
         {
@@ -72,73 +72,85 @@
             "name": "Akash Sahar",
             "email": "akashsahar@gmail.com",
             "password": "akashsahar",
-            "role": "s"
+            "role": "s",
+"isConfirmed": true
         },
         {
             "name": "Tal Dekel",
             "email": "taldekel@gmail.com",
             "password": "taldekel",
-            "role": "s"
+            "role": "s",
+"isConfirmed": true
         },
         {
             "name": "Zhana",
             "email": "zhana@gmail.com",
             "password": "zhana",
-            "role": "s"
+            "role": "s",
+"isConfirmed": true
         },
         {
             "name": "Worawit Saetan",
             "email": "worawitsaetan@gmail.com",
             "password": "worawitsaetan",
-            "role": "s"
+            "role": "s",
+"isConfirmed": true
         },
         {
             "name": "Jeff Groover",
             "email": "jeffgroover@gmail.com",
             "password": "jeffgroover",
-            "role": "s"
+            "role": "s",
+"isConfirmed": true
         },
         {
             "name": "Paul Matzelle",
             "email": "paulmatzelle@gmail.com",
             "password": "paulmatzelle",
-            "role": "s"
+            "role": "s",
+"isConfirmed": true
         },
         {
             "name": "Esra Simsek",
             "email": "esrasimsek@gmail.com",
             "password": "esrasimsek",
-            "role": "s"
+            "role": "s",
+"isConfirmed": true
         },
         {
             "name": "Zhezhang Xu",
             "email": "zhezhangxu@gmail.com",
             "password": "zhezhangxu",
-            "role": "s"
+            "role": "s",
+"isConfirmed": true
         },
         {
             "name": "Nitin Sharma",
             "email": "nitinsharma@gmail.com",
             "password": "nitinsharma",
-            "role": "s"
+            "role": "s",
+"isConfirmed": true
         },
         {
             "name": "Duolun Wang",
             "email": "duolunwang@gmail.com",
             "password": "duolunwang",
-            "role": "s"
+            "role": "s",
+"isConfirmed": true
         },
         {
             "name": "Meliana",
             "email": "meliana@gmail.com",
             "password": "meliana",
-            "role": "s"
+            "role": "s",
+"isConfirmed": true
         },
         {
             "name": "Oleksandr Churiumov",
             "email": "oleksandrchuriumov@gmail.com",
             "password": "oleksandrchuriumov",
-            "role": "s"
+            "role": "s",
+"isConfirmed": true
         }
     ],
     "instructor": {
@@ -146,6 +158,7 @@
         "email": "kirilleremenko@gmail.com",
         "password": "kirilleremenko",
         "role": "i",
+"isConfirmed": true,
         "briefIntroduction": "<p>My name is Kirill Eremenko and I am super-psyched that you are reading this!</p><p>Professionally, I am a Data Science management consultant with over five years of experience in finance, retail, transport and other industries. I was trained by the best analytics mentors at Deloitte Australia and today I leverage Big Data to drive business strategy, revamp customer experience and revolutionize existing operational processes.</p><p>From my courses you will straight away notice how I combine my real-life experience and academic background in Physics and Mathematics to deliver professional step-by-step coaching in the space of Data Science. I am also passionate about public speaking, and regularly present on Big Data at leading Australian universities and industry events.</p><p>To sum up, I am absolutely and utterly passionate about Data Science and I am looking forward to sharing my passion and knowledge with you!</p>"
     }
 }

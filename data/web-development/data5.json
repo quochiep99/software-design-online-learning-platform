@@ -6,7 +6,7 @@
     "course": {
         "title": "The Complete Web Developer Course 2.0",
         "subtitle": "Learn Web Development by building 25 websites and mobile apps using HTML, CSS, Javascript, PHP, Python, MySQL & more!",
-        "descriptions": [],
+        "descriptions":  "",
         "reviews": [],
         "students": [],
         "image1xURL": "https://img-a.udemycdn.com/course/240x135/764164_de03_2.jpg",
@@ -15,7 +15,7 @@
         "discountPrice": 11.99,
         "originalPrice": 129.99,
         "numViews": 0,
-        "curriculum": []
+        "curriculum": {}
     },
     "reviews": [
         {
@@ -72,73 +72,85 @@
             "name": "Akash Sehdev",
             "email": "akashsehdev@gmail.com",
             "password": "akashsehdev",
-            "role": "s"
+            "role": "s",
+"isConfirmed": true
         },
         {
             "name": "Aysha Mir",
             "email": "ayshamir@gmail.com",
             "password": "ayshamir",
-            "role": "s"
+            "role": "s",
+"isConfirmed": true
         },
         {
             "name": "Miriam Mutisya",
             "email": "miriammutisya@gmail.com",
             "password": "miriammutisya",
-            "role": "s"
+            "role": "s",
+"isConfirmed": true
         },
         {
             "name": "Easy Scalo",
             "email": "easyscalo@gmail.com",
             "password": "easyscalo",
-            "role": "s"
+            "role": "s",
+"isConfirmed": true
         },
         {
             "name": "Tapan Chakravarty",
             "email": "tapanchakravarty@gmail.com",
             "password": "tapanchakravarty",
-            "role": "s"
+            "role": "s",
+"isConfirmed": true
         },
         {
             "name": "Keith Oliver",
             "email": "keitholiver@gmail.com",
             "password": "keitholiver",
-            "role": "s"
+            "role": "s",
+"isConfirmed": true
         },
         {
             "name": "Suzanne Wood",
             "email": "suzannewood@gmail.com",
             "password": "suzannewood",
-            "role": "s"
+            "role": "s",
+"isConfirmed": true
         },
         {
             "name": "Mahmoud Saadeh",
             "email": "mahmoudsaadeh@gmail.com",
             "password": "mahmoudsaadeh",
-            "role": "s"
+            "role": "s",
+"isConfirmed": true
         },
         {
             "name": "Italo de Souza Silva",
             "email": "italodesouzasilva@gmail.com",
             "password": "italodesouzasilva",
-            "role": "s"
+            "role": "s",
+"isConfirmed": true
         },
         {
             "name": "Brandon Getchel",
             "email": "brandongetchel@gmail.com",
             "password": "brandongetchel",
-            "role": "s"
+            "role": "s",
+"isConfirmed": true
         },
         {
             "name": "Milan Koshy",
             "email": "milankoshy@gmail.com",
             "password": "milankoshy",
-            "role": "s"
+            "role": "s",
+"isConfirmed": true
         },
         {
             "name": "Teddie Liljekvist",
             "email": "teddieliljekvist@gmail.com",
             "password": "teddieliljekvist",
-            "role": "s"
+            "role": "s",
+"isConfirmed": true
         }
     ],
     "instructor": {
@@ -146,6 +158,7 @@
         "email": "robpercival@gmail.com",
         "password": "robpercival",
         "role": "i",
+"isConfirmed": true,
         "briefIntroduction": "<p>  \t       Hi! I'm Rob. I have a degree in Mathematics from Cambridge University and you might call me a bit of coding geek.  </p>\n\n<p>  \t       After building websites for friends and family for fun, I soon learned that web development was a very lucrative career choice. I gave up my successful (and sometimes stressful) job as a teacher to work part time and today, couldn't be happier.  </p>\n\n<p>  \t       I'm passionate about teaching kids to code, so every summer I run Code School in the beautiful city of Cambridge. I also run the popular web hosting and design service, Eco Web Hosting which leaves me free to share my secrets with people like you.  </p>\n\n<p>  \t<strong>You wouldn't believe the freedom that being a web developer offers.</strong> Sign up and find out for yourself why so many people are taking and recommending this course.  I genuinely believe it's the best on the market and if you don't agree, I'll happily refund your money.  </p>\n\n<p>  \t       Sign up to my courses and join me in this amazing adventure today.  </p>"
     }
 }

@@ -6,7 +6,7 @@
     "course": {
         "title": "C# Basics for Beginners: Learn C# Fundamentals by Coding",
         "subtitle": "Master C# fundamentals in 6 hours - The most popular course with 50,000+ students, packed with tips and exercises!",
-        "descriptions": [],
+        "descriptions":  "",
         "reviews": [],
         "students": [],
         "image1xURL": "https://img-a.udemycdn.com/course/240x135/382002_5d4a.jpg",
@@ -15,7 +15,7 @@
         "discountPrice": 15.99,
         "originalPrice": 174.99,
         "numViews": 0,
-        "curriculum": []
+        "curriculum": {}
     },
     "reviews": [
         {
@@ -72,73 +72,85 @@
             "name": "Jean-Paul Ismael",
             "email": "jean-paulismael@gmail.com",
             "password": "jean-paulismael",
-            "role": "s"
+            "role": "s",
+"isConfirmed": true
         },
         {
             "name": "Raymond Kim",
             "email": "raymondkim@gmail.com",
             "password": "raymondkim",
-            "role": "s"
+            "role": "s",
+"isConfirmed": true
         },
         {
             "name": "Lachezar Georgiev",
             "email": "lachezargeorgiev@gmail.com",
             "password": "lachezargeorgiev",
-            "role": "s"
+            "role": "s",
+"isConfirmed": true
         },
         {
             "name": "Doug Gilbert",
             "email": "douggilbert@gmail.com",
             "password": "douggilbert",
-            "role": "s"
+            "role": "s",
+"isConfirmed": true
         },
         {
             "name": "EggHead Team",
             "email": "eggheadteam@gmail.com",
             "password": "eggheadteam",
-            "role": "s"
+            "role": "s",
+"isConfirmed": true
         },
         {
             "name": "kiran kumar",
             "email": "kirankumar@gmail.com",
             "password": "kirankumar",
-            "role": "s"
+            "role": "s",
+"isConfirmed": true
         },
         {
             "name": "Jerome Hyacinth",
             "email": "jeromehyacinth@gmail.com",
             "password": "jeromehyacinth",
-            "role": "s"
+            "role": "s",
+"isConfirmed": true
         },
         {
             "name": "Mukhtar Zotder",
             "email": "mukhtarzotder@gmail.com",
             "password": "mukhtarzotder",
-            "role": "s"
+            "role": "s",
+"isConfirmed": true
         },
         {
             "name": "Csongor Nagy",
             "email": "csongornagy@gmail.com",
             "password": "csongornagy",
-            "role": "s"
+            "role": "s",
+"isConfirmed": true
         },
         {
             "name": "Ahmed SARIMEŞE",
             "email": "ahmedsarimeşe@gmail.com",
             "password": "ahmedsarimeşe",
-            "role": "s"
+            "role": "s",
+"isConfirmed": true
         },
         {
             "name": "Babur Zaman Khan Mughal",
             "email": "baburzamankhanmughal@gmail.com",
             "password": "baburzamankhanmughal",
-            "role": "s"
+            "role": "s",
+"isConfirmed": true
         },
         {
             "name": "Fernando Huamancaja",
             "email": "fernandohuamancaja@gmail.com",
             "password": "fernandohuamancaja",
-            "role": "s"
+            "role": "s",
+"isConfirmed": true
         }
     ],
     "instructor": {
@@ -146,6 +158,7 @@
         "email": "moshhamedani@gmail.com",
         "password": "moshhamedani",
         "role": "i",
+"isConfirmed": true,
         "briefIntroduction": "<p>Hi!&nbsp;My name is Mosh (Moshfegh)&nbsp;Hamedani! I'm a passionate software engineer with two decades of experience and I've taught over 3 million people who to code or how to become professional software engineers through my YouTube channel and online courses. </p><p>My goal is to make software engineering fun and accessible to everyone. That's why my courses are simple, pragmatic and free of BS. </p>"
     }
 }

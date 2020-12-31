@@ -6,7 +6,7 @@
     "course": {
         "title": "The Data Science Course 2020: Complete Data Science Bootcamp",
         "subtitle": "Complete Data Science Training: Mathematics, Statistics, Python, Advanced Statistics in Python, Machine & Deep Learning",
-        "descriptions": [],
+        "descriptions":  "",
         "reviews": [],
         "students": [],
         "image1xURL": "https://img-a.udemycdn.com/course/240x135/1754098_e0df_3.jpg",
@@ -15,7 +15,7 @@
         "discountPrice": 11.99,
         "originalPrice": 129.99,
         "numViews": 0,
-        "curriculum": []
+        "curriculum": {}
     },
     "reviews": [
         {
@@ -72,73 +72,85 @@
             "name": "Hugo Nicolás Quiroga Ortiz",
             "email": "hugonicolásquirogaortiz@gmail.com",
             "password": "hugonicolásquirogaortiz",
-            "role": "s"
+            "role": "s",
+"isConfirmed": true
         },
         {
             "name": "Leandro Marotti",
             "email": "leandromarotti@gmail.com",
             "password": "leandromarotti",
-            "role": "s"
+            "role": "s",
+"isConfirmed": true
         },
         {
             "name": "Rohit Jayaraja Acharya",
             "email": "rohitjayarajaacharya@gmail.com",
             "password": "rohitjayarajaacharya",
-            "role": "s"
+            "role": "s",
+"isConfirmed": true
         },
         {
             "name": "Juan Fernandez",
             "email": "juanfernandez@gmail.com",
             "password": "juanfernandez",
-            "role": "s"
+            "role": "s",
+"isConfirmed": true
         },
         {
             "name": "Duc Hong",
             "email": "duchong@gmail.com",
             "password": "duchong",
-            "role": "s"
+            "role": "s",
+"isConfirmed": true
         },
         {
             "name": "Belinda Nguyen",
             "email": "belindanguyen@gmail.com",
             "password": "belindanguyen",
-            "role": "s"
+            "role": "s",
+"isConfirmed": true
         },
         {
             "name": "Mukul Sharma",
             "email": "mukulsharma@gmail.com",
             "password": "mukulsharma",
-            "role": "s"
+            "role": "s",
+"isConfirmed": true
         },
         {
             "name": "Ebdulmomen Ahmed",
             "email": "ebdulmomenahmed@gmail.com",
             "password": "ebdulmomenahmed",
-            "role": "s"
+            "role": "s",
+"isConfirmed": true
         },
         {
             "name": "Kevin Yang",
             "email": "kevinyang@gmail.com",
             "password": "kevinyang",
-            "role": "s"
+            "role": "s",
+"isConfirmed": true
         },
         {
             "name": "Sreekanth Reddy A",
             "email": "sreekanthreddya@gmail.com",
             "password": "sreekanthreddya",
-            "role": "s"
+            "role": "s",
+"isConfirmed": true
         },
         {
             "name": "Nguyen Cong Danh",
             "email": "nguyencongdanh@gmail.com",
             "password": "nguyencongdanh",
-            "role": "s"
+            "role": "s",
+"isConfirmed": true
         },
         {
             "name": "Gerald Morris",
             "email": "geraldmorris@gmail.com",
             "password": "geraldmorris",
-            "role": "s"
+            "role": "s",
+"isConfirmed": true
         }
     ],
     "instructor": {
@@ -146,6 +158,7 @@
         "email": "365careers@gmail.com",
         "password": "365careers",
         "role": "i",
+"isConfirmed": true,
         "briefIntroduction": "<p><strong>365 Careers is the #1 best-selling provider of finance courses on Udemy. The company’s courses have been taken by more than 1,000,000 students in 210&nbsp;countries. People working at world-class firms like Apple, PayPal, and Citibank have completed 365 Careers trainings.</strong> \n\n&nbsp; </p><p>Currently, the firm focuses on the following topics on Udemy:\n\n&nbsp; </p><p>\n\n<strong>1) Finance</strong> – Finance fundamentals, Financial modeling in Excel, Valuation, Accounting, Capital budgeting, Financial statement analysis (FSA), Investment banking (IB), Leveraged buyout (LBO), Financial planning and analysis (FP&amp;A), Corporate budgeting, applying Python for Finance, Tesla valuation case study, CFA, ACCA, and CPA</p><p><strong>2) Data science</strong> – Statistics, Mathematics, Probability, SQL, Python programming, Python for Finance, Business Intelligence, R, Machine Learning, TensorFlow, Tableau, the integration of SQL&nbsp;and&nbsp;Tableau, the integration of SQL, Python, Tableau, Power&nbsp;BI, Credit Risk Modeling, and Credit Analytics</p><p><strong>3) Entrepreneurship</strong> – Business Strategy, Management and HR Management, Marketing, Decision Making, Negotiation, and Persuasion, Tesla's Strategy and Marketing</p><p><strong>4) Office productivity</strong> – Microsoft Excel, PowerPoint, Microsoft Word, and Microsoft Outlook</p><p><strong>5)</strong> <strong>Blockchain for Business</strong></p><p>All of the company’s courses are:\n\n&nbsp; </p><p>Pre-scripted\n\n&nbsp; </p><p>Hands-on \n\n&nbsp; </p><p>Laser-focused\n\n&nbsp; </p><p>Engaging\n\n&nbsp; </p><p>Real-life tested\n\n&nbsp; </p><p>By choosing 365 Careers, you make sure you will learn from proven experts, who have a passion for teaching, and can take you from beginner to pro in the shortest possible amount of time.\n\n&nbsp; </p><p>If you want to become a financial analyst, a finance manager, an FP&amp;A analyst, an investment banker, a business executive, an entrepreneur, a business intelligence analyst, a data analyst, or a data scientist, <strong>365 Careers’ courses are the perfect place to start.&nbsp;</strong>\n\n</p>"
     }
 }

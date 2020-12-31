@@ -6,7 +6,7 @@
     "course": {
         "title": "The Ultimate Guide to Game Development with Unity 2019",
         "subtitle": "Created in partnership with Unity Technologies: learn C# by developing 2D & 3D games with this comprehensive guide",
-        "descriptions": [],
+        "descriptions":  "",
         "reviews": [],
         "students": [],
         "image1xURL": "https://img-a.udemycdn.com/course/240x135/1328572_b05d_4.jpg",
@@ -15,7 +15,7 @@
         "discountPrice": 15.99,
         "originalPrice": 174.99,
         "numViews": 0,
-        "curriculum": []
+        "curriculum": {}
     },
     "reviews": [
         {
@@ -72,73 +72,85 @@
             "name": "Gilberto Felipe Pinho",
             "email": "gilbertofelipepinho@gmail.com",
             "password": "gilbertofelipepinho",
-            "role": "s"
+            "role": "s",
+"isConfirmed": true
         },
         {
             "name": "Dominik F",
             "email": "dominikf@gmail.com",
             "password": "dominikf",
-            "role": "s"
+            "role": "s",
+"isConfirmed": true
         },
         {
             "name": "Daniel Gómez Alcañiz",
             "email": "danielgómezalcañiz@gmail.com",
             "password": "danielgómezalcañiz",
-            "role": "s"
+            "role": "s",
+"isConfirmed": true
         },
         {
             "name": "Sebastian Rieger",
             "email": "sebastianrieger@gmail.com",
             "password": "sebastianrieger",
-            "role": "s"
+            "role": "s",
+"isConfirmed": true
         },
         {
             "name": "Gabriel Gomez",
             "email": "gabrielgomez@gmail.com",
             "password": "gabrielgomez",
-            "role": "s"
+            "role": "s",
+"isConfirmed": true
         },
         {
             "name": "Jose Garrido",
             "email": "josegarrido@gmail.com",
             "password": "josegarrido",
-            "role": "s"
+            "role": "s",
+"isConfirmed": true
         },
         {
             "name": "Simon Lu",
             "email": "simonlu@gmail.com",
             "password": "simonlu",
-            "role": "s"
+            "role": "s",
+"isConfirmed": true
         },
         {
             "name": "Dennis Thisner",
             "email": "dennisthisner@gmail.com",
             "password": "dennisthisner",
-            "role": "s"
+            "role": "s",
+"isConfirmed": true
         },
         {
             "name": "Brendan Sullivan",
             "email": "brendansullivan@gmail.com",
             "password": "brendansullivan",
-            "role": "s"
+            "role": "s",
+"isConfirmed": true
         },
         {
             "name": "Mesa The Aalfa",
             "email": "mesatheaalfa@gmail.com",
             "password": "mesatheaalfa",
-            "role": "s"
+            "role": "s",
+"isConfirmed": true
         },
         {
             "name": "Samuel Herring",
             "email": "samuelherring@gmail.com",
             "password": "samuelherring",
-            "role": "s"
+            "role": "s",
+"isConfirmed": true
         },
         {
             "name": "Adam Wachter",
             "email": "adamwachter@gmail.com",
             "password": "adamwachter",
-            "role": "s"
+            "role": "s",
+"isConfirmed": true
         }
     ],
     "instructor": {
@@ -146,6 +158,7 @@
         "email": "jonathanweinberger@gmail.com",
         "password": "jonathanweinberger",
         "role": "i",
+"isConfirmed": true,
         "briefIntroduction": "<p>Hi! I'm Jon.&nbsp;I'm a<strong></strong>&nbsp;self-taught software engineer&nbsp;with over&nbsp;eight years&nbsp;of&nbsp;experience,&nbsp;and the author of&nbsp;<em>Learn Unity Programming with C#</em>.&nbsp;I've developed several&nbsp;Unity games for Cartoon Network, Adult Swim, the casino industry, and various indie game companies. I've&nbsp;also developed real world enterprise augmented reality applications&nbsp;for companies like GE, Coca-Cola, and ThyssenKrupp. I got my start in programming when I was 16 years old, developing private game servers for a popular MMO. When I decided to look at game development as a career, I struggled to find content that didn't just spoon-feed me the answers. After countless hours of learning concepts and trying to figure out the logic behind everything myself, I decided to start my own YouTube series that teaches developers to code from scratch through interactive challenges. It quickly became popular within the Unity community, and my educational career became a reality. I have a&nbsp;passion for teaching, and I love watching my students go from zero to hero, with some of them even landing big time game development jobs with companies like Oculus and Cartoon Network! Several of my students have gone on to create their own amazing titles and even start their own indie game studios! My favorite thing about programming is when you're developing a feature and the logic for how to solve a problem just \"clicks.\" That \"eureka\" moment&nbsp;is what I strive to teach all my students!<br></p><p>I am the Authorized Unity Instructor,&nbsp;working in partnership with Unity Technologies to create C# programming courses in the Unity engine for developers&nbsp;of all levels.&nbsp; The goal of this collaboration between Unity and Udemy is to make the learning curve of getting into programming less daunting, and helping experienced developers fine tune their skills.&nbsp; Currently, two courses created in partnership with Unity are available on Udemy, with two more in the works!&nbsp; Stay tuned for the latest and greatest Authorized Unity Courses!</p>"
     }
 }

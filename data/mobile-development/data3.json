@@ -6,7 +6,7 @@
     "course": {
         "title": "iOS 11 & Swift 4 - The Complete iOS App Development Bootcamp",
         "subtitle": "Learn iOS 11 App Development From Beginning to End. Using Xcode 9 and Swift 4. Includes Full ARKit and CoreML Modules!",
-        "descriptions": [],
+        "descriptions":  "",
         "reviews": [],
         "students": [],
         "image1xURL": "https://img-a.udemycdn.com/course/240x135/1289478_5831_9.jpg",
@@ -15,7 +15,7 @@
         "discountPrice": 11.99,
         "originalPrice": 129.99,
         "numViews": 0,
-        "curriculum": []
+        "curriculum": {}
     },
     "reviews": [
         {
@@ -72,73 +72,85 @@
             "name": "Indra Hernandez",
             "email": "indrahernandez@gmail.com",
             "password": "indrahernandez",
-            "role": "s"
+            "role": "s",
+"isConfirmed": true
         },
         {
             "name": "Tom",
             "email": "tom@gmail.com",
             "password": "tom",
-            "role": "s"
+            "role": "s",
+"isConfirmed": true
         },
         {
             "name": "Dennis Reyes",
             "email": "dennisreyes@gmail.com",
             "password": "dennisreyes",
-            "role": "s"
+            "role": "s",
+"isConfirmed": true
         },
         {
             "name": "Clayton Bodine",
             "email": "claytonbodine@gmail.com",
             "password": "claytonbodine",
-            "role": "s"
+            "role": "s",
+"isConfirmed": true
         },
         {
             "name": "Paula Leticia Montero",
             "email": "paulaleticiamontero@gmail.com",
             "password": "paulaleticiamontero",
-            "role": "s"
+            "role": "s",
+"isConfirmed": true
         },
         {
             "name": "Linda Heikkilä",
             "email": "lindaheikkilä@gmail.com",
             "password": "lindaheikkilä",
-            "role": "s"
+            "role": "s",
+"isConfirmed": true
         },
         {
             "name": "Andrew Freire",
             "email": "andrewfreire@gmail.com",
             "password": "andrewfreire",
-            "role": "s"
+            "role": "s",
+"isConfirmed": true
         },
         {
             "name": "Igor Parnadziev",
             "email": "igorparnadziev@gmail.com",
             "password": "igorparnadziev",
-            "role": "s"
+            "role": "s",
+"isConfirmed": true
         },
         {
             "name": "Cindy Rohr",
             "email": "cindyrohr@gmail.com",
             "password": "cindyrohr",
-            "role": "s"
+            "role": "s",
+"isConfirmed": true
         },
         {
             "name": "Ashish Pandey",
             "email": "ashishpandey@gmail.com",
             "password": "ashishpandey",
-            "role": "s"
+            "role": "s",
+"isConfirmed": true
         },
         {
             "name": "Sreekesh Padmanabhan",
             "email": "sreekeshpadmanabhan@gmail.com",
             "password": "sreekeshpadmanabhan",
-            "role": "s"
+            "role": "s",
+"isConfirmed": true
         },
         {
             "name": "Andrew",
             "email": "andrew@gmail.com",
             "password": "andrew",
-            "role": "s"
+            "role": "s",
+"isConfirmed": true
         }
     ],
     "instructor": {
@@ -146,6 +158,7 @@
         "email": "dr.angelayu@gmail.com",
         "password": "dr.angelayu",
         "role": "i",
+"isConfirmed": true,
         "briefIntroduction": "<p>I'm Angela, I'm a developer with a passion for teaching. I'm the <strong>lead instructor</strong> at the London App Brewery, London's leading <strong>Programming Bootcamp</strong>. I've helped hundreds of thousands of students learn to code and change their lives by becoming a developer. I've been invited by companies such as Twitter, Facebook and Google to teach their employees.</p><p>My first foray into programming was when I was just 12 years old, wanting to build my own Space Invader game. Since then, I've made <strong>hundred of websites, apps and games</strong>. But most importantly, I realised that my <strong>greatest passion</strong> is teaching. </p><p>I spend most of my time researching how to make <strong>learning to code fun</strong> and make <strong>hard concepts easy to understand</strong>. I apply everything I discover into my bootcamp courses. In my courses, you'll find lots of geeky humour but also lots of <strong>explanations and animations</strong> to make sure everything is easy to understand. </p><p><strong>I'll be there for you every step of the way.</strong></p>"
     }
 }

@@ -6,7 +6,7 @@
     "course": {
         "title": "Unity Game Development Build 2D & 3D Games",
         "subtitle": "Learn Unity game design & 2D & 3D game development & make your own C# games in Unity 3D",
-        "descriptions": [],
+        "descriptions":  "",
         "reviews": [],
         "students": [],
         "image1xURL": "https://img-a.udemycdn.com/course/240x135/980770_b73d_7.jpg",
@@ -15,7 +15,7 @@
         "discountPrice": 11.99,
         "originalPrice": 129.99,
         "numViews": 0,
-        "curriculum": []
+        "curriculum": {}
     },
     "reviews": [
         {
@@ -72,73 +72,85 @@
             "name": "Christopher Sprague",
             "email": "christophersprague@gmail.com",
             "password": "christophersprague",
-            "role": "s"
+            "role": "s",
+"isConfirmed": true
         },
         {
             "name": "Arkadiy Derevyan",
             "email": "arkadiyderevyan@gmail.com",
             "password": "arkadiyderevyan",
-            "role": "s"
+            "role": "s",
+"isConfirmed": true
         },
         {
             "name": "Aleksey Filippenko",
             "email": "alekseyfilippenko@gmail.com",
             "password": "alekseyfilippenko",
-            "role": "s"
+            "role": "s",
+"isConfirmed": true
         },
         {
             "name": "Obaloluwa Odelana",
             "email": "obaloluwaodelana@gmail.com",
             "password": "obaloluwaodelana",
-            "role": "s"
+            "role": "s",
+"isConfirmed": true
         },
         {
             "name": "T N",
             "email": "tn@gmail.com",
             "password": "tn",
-            "role": "s"
+            "role": "s",
+"isConfirmed": true
         },
         {
             "name": "張惇智",
             "email": "張惇智@gmail.com",
             "password": "張惇智",
-            "role": "s"
+            "role": "s",
+"isConfirmed": true
         },
         {
             "name": "Eduardo Medina",
             "email": "eduardomedina@gmail.com",
             "password": "eduardomedina",
-            "role": "s"
+            "role": "s",
+"isConfirmed": true
         },
         {
             "name": "Cristian Constantin",
             "email": "cristianconstantin@gmail.com",
             "password": "cristianconstantin",
-            "role": "s"
+            "role": "s",
+"isConfirmed": true
         },
         {
             "name": "michael George",
             "email": "michaelgeorge@gmail.com",
             "password": "michaelgeorge",
-            "role": "s"
+            "role": "s",
+"isConfirmed": true
         },
         {
             "name": "Wessel Beulink",
             "email": "wesselbeulink@gmail.com",
             "password": "wesselbeulink",
-            "role": "s"
+            "role": "s",
+"isConfirmed": true
         },
         {
             "name": "Chris Mason",
             "email": "chrismason@gmail.com",
             "password": "chrismason",
-            "role": "s"
+            "role": "s",
+"isConfirmed": true
         },
         {
             "name": "Kawalpreet Ghai",
             "email": "kawalpreetghai@gmail.com",
             "password": "kawalpreetghai",
-            "role": "s"
+            "role": "s",
+"isConfirmed": true
         }
     ],
     "instructor": {
@@ -146,6 +158,7 @@
         "email": "markwahlbeck@gmail.com",
         "password": "markwahlbeck",
         "role": "i",
+"isConfirmed": true,
         "briefIntroduction": "<p>I am a veteran mobile developer having built over 57 mobile apps for iOS and Android, and I've also build multiple Unity 3D games, including Call of Duty Ghosts mobile.&nbsp;</p><p>I also spend most of my days now as a professional engineering instructor&nbsp; - changing the lives of students throughout the world - helping them make amazing salaries as engineers.</p><p>My passion is helping people reveal hidden talents and guide them into the world of startups and programming. I currently am teaching iOS 10, Apple TV &amp; tvOS, React &amp; Flux web development, Objective-C, Swift 3, Android, Javascript, Node, and Java. I also teach Unity 3D game development.</p>"
     }
 }

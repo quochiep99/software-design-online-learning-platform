@@ -6,7 +6,7 @@
     "course": {
         "title": "Automate the Boring Stuff with Python Programming",
         "subtitle": "A practical programming course for office workers, academics, and administrators who want to improve their productivity.",
-        "descriptions": [],
+        "descriptions":  "",
         "reviews": [],
         "students": [],
         "image1xURL": "https://img-a.udemycdn.com/course/240x135/543600_64d1_4.jpg",
@@ -15,7 +15,7 @@
         "discountPrice": 11.99,
         "originalPrice": 49.99,
         "numViews": 0,
-        "curriculum": []
+        "curriculum": {}
     },
     "reviews": [
         {
@@ -72,73 +72,85 @@
             "name": "Victor guerrero",
             "email": "victorguerrero@gmail.com",
             "password": "victorguerrero",
-            "role": "s"
+            "role": "s",
+"isConfirmed": true
         },
         {
             "name": "Andres Albarracin",
             "email": "andresalbarracin@gmail.com",
             "password": "andresalbarracin",
-            "role": "s"
+            "role": "s",
+"isConfirmed": true
         },
         {
             "name": "Al C",
             "email": "alc@gmail.com",
             "password": "alc",
-            "role": "s"
+            "role": "s",
+"isConfirmed": true
         },
         {
             "name": "Onur AKŞAR",
             "email": "onurakşar@gmail.com",
             "password": "onurakşar",
-            "role": "s"
+            "role": "s",
+"isConfirmed": true
         },
         {
             "name": "Ujjwala Nagendra",
             "email": "ujjwalanagendra@gmail.com",
             "password": "ujjwalanagendra",
-            "role": "s"
+            "role": "s",
+"isConfirmed": true
         },
         {
             "name": "Mason Hernandez",
             "email": "masonhernandez@gmail.com",
             "password": "masonhernandez",
-            "role": "s"
+            "role": "s",
+"isConfirmed": true
         },
         {
             "name": "Michael Scott",
             "email": "michaelscott@gmail.com",
             "password": "michaelscott",
-            "role": "s"
+            "role": "s",
+"isConfirmed": true
         },
         {
             "name": "Dariel",
             "email": "dariel@gmail.com",
             "password": "dariel",
-            "role": "s"
+            "role": "s",
+"isConfirmed": true
         },
         {
             "name": "Gilles Solomon",
             "email": "gillessolomon@gmail.com",
             "password": "gillessolomon",
-            "role": "s"
+            "role": "s",
+"isConfirmed": true
         },
         {
             "name": "Lorcan mcfadden",
             "email": "lorcanmcfadden@gmail.com",
             "password": "lorcanmcfadden",
-            "role": "s"
+            "role": "s",
+"isConfirmed": true
         },
         {
             "name": "Sena Sarkaya",
             "email": "senasarkaya@gmail.com",
             "password": "senasarkaya",
-            "role": "s"
+            "role": "s",
+"isConfirmed": true
         },
         {
             "name": "Barbara Gladfelter",
             "email": "barbaragladfelter@gmail.com",
             "password": "barbaragladfelter",
-            "role": "s"
+            "role": "s",
+"isConfirmed": true
         }
     ],
     "instructor": {
@@ -146,6 +158,7 @@
         "email": "alsweigart@gmail.com",
         "password": "alsweigart",
         "role": "i",
+"isConfirmed": true,
         "briefIntroduction": "<p>Al Sweigart is a software developer in San Francisco. He has written four Python programming books, spoken at Python conferences, and has taught both kids and adults how to program. Python is his favorite programming language, and he is the developer of several open source modules for it. He is driven to make programming knowledge available to all, and his books freely available under a Creative Commons license.</p>"
     }
 }

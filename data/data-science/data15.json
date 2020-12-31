@@ -6,7 +6,7 @@
     "course": {
         "title": "Data Science: Natural Language Processing (NLP) in Python",
         "subtitle": "Applications: decrypting ciphers, spam detection, sentiment analysis, article spinners, and latent semantic analysis.",
-        "descriptions": [],
+        "descriptions":  "",
         "reviews": [],
         "students": [],
         "image1xURL": "https://img-b.udemycdn.com/course/240x135/753140_f3f3_2.jpg",
@@ -15,7 +15,7 @@
         "discountPrice": 11.99,
         "originalPrice": 129.99,
         "numViews": 0,
-        "curriculum": []
+        "curriculum": {}
     },
     "reviews": [
         {
@@ -72,97 +72,113 @@
             "name": "shruchin b",
             "email": "shruchinb@gmail.com",
             "password": "shruchinb",
-            "role": "s"
+            "role": "s",
+"isConfirmed": true
         },
         {
             "name": "Neelkanth Mehta",
             "email": "neelkanthmehta@gmail.com",
             "password": "neelkanthmehta",
-            "role": "s"
+            "role": "s",
+"isConfirmed": true
         },
         {
             "name": "Matias Romo",
             "email": "matiasromo@gmail.com",
             "password": "matiasromo",
-            "role": "s"
+            "role": "s",
+"isConfirmed": true
         },
         {
             "name": "Bowen Chen",
             "email": "bowenchen@gmail.com",
             "password": "bowenchen",
-            "role": "s"
+            "role": "s",
+"isConfirmed": true
         },
         {
             "name": "Edward Yim",
             "email": "edwardyim@gmail.com",
             "password": "edwardyim",
-            "role": "s"
+            "role": "s",
+"isConfirmed": true
         },
         {
             "name": "Viktor Semenov",
             "email": "viktorsemenov@gmail.com",
             "password": "viktorsemenov",
-            "role": "s"
+            "role": "s",
+"isConfirmed": true
         },
         {
             "name": "Lazy Programmer Inc.",
             "email": "lazyprogrammerinc.@gmail.com",
             "password": "lazyprogrammerinc.",
-            "role": "s"
+            "role": "s",
+"isConfirmed": true
         },
         {
             "name": "Kumud Raj",
             "email": "kumudraj@gmail.com",
             "password": "kumudraj",
-            "role": "s"
+            "role": "s",
+"isConfirmed": true
         },
         {
             "name": "Lazy Programmer Inc.",
             "email": "lazyprogrammerinc.@gmail.com",
             "password": "lazyprogrammerinc.",
-            "role": "s"
+            "role": "s",
+"isConfirmed": true
         },
         {
             "name": "Suryasatriya Trihandaru",
             "email": "suryasatriyatrihandaru@gmail.com",
             "password": "suryasatriyatrihandaru",
-            "role": "s"
+            "role": "s",
+"isConfirmed": true
         },
         {
             "name": "Lazy Programmer Inc.",
             "email": "lazyprogrammerinc.@gmail.com",
             "password": "lazyprogrammerinc.",
-            "role": "s"
+            "role": "s",
+"isConfirmed": true
         },
         {
             "name": "Ng Gim Pei",
             "email": "nggimpei@gmail.com",
             "password": "nggimpei",
-            "role": "s"
+            "role": "s",
+"isConfirmed": true
         },
         {
             "name": "Ian Lim",
             "email": "ianlim@gmail.com",
             "password": "ianlim",
-            "role": "s"
+            "role": "s",
+"isConfirmed": true
         },
         {
             "name": "Aashish Jha",
             "email": "aashishjha@gmail.com",
             "password": "aashishjha",
-            "role": "s"
+            "role": "s",
+"isConfirmed": true
         },
         {
             "name": "Marina Pliusnina",
             "email": "marinapliusnina@gmail.com",
             "password": "marinapliusnina",
-            "role": "s"
+            "role": "s",
+"isConfirmed": true
         },
         {
             "name": "Lazy Programmer Inc.",
             "email": "lazyprogrammerinc.@gmail.com",
             "password": "lazyprogrammerinc.",
-            "role": "s"
+            "role": "s",
+"isConfirmed": true
         }
     ],
     "instructor": {
@@ -170,6 +186,7 @@
         "email": "lazyprogrammerinc.@gmail.com",
         "password": "lazyprogrammerinc.",
         "role": "i",
+"isConfirmed": true,
         "briefIntroduction": "<p>Today, I spend most of my time as an artificial intelligence and machine learning engineer with a focus on deep learning, although I have also been known as a data scientist, big data engineer, and full stack software engineer.</p><p>I received my masters degree in computer engineering with a specialization in machine learning and pattern recognition.</p><p>Experience includes&nbsp;online advertising and digital media as both a data scientist (optimizing click and conversion rates)&nbsp;and big data engineer (building data processing pipelines). Some big data technologies I frequently use are Hadoop,&nbsp;Pig, Hive,&nbsp;MapReduce, and Spark.</p><p>I've created deep&nbsp;learning models to predict click-through rate and user behavior, as well as for image and signal processing and modeling text.</p><p>My work in recommendation systems has applied Reinforcement Learning and Collaborative Filtering, and we&nbsp;validated the results using A/B testing.</p><p>I have taught undergraduate and graduate students in data science, statistics, machine learning, algorithms, calculus, computer graphics, and physics for students attending universities such as Columbia University, NYU, Hunter College, and The New School.&nbsp;</p><p>Multiple businesses have benefitted from my web programming expertise. I do all the backend (server), frontend (HTML/JS/CSS), and operations/deployment work. Some of the technologies I've used are: Python, Ruby/Rails, PHP, Bootstrap, jQuery (Javascript), Backbone, and Angular. For storage/databases I've used MySQL, Postgres, Redis, MongoDB, and more.</p>"
     }
 }

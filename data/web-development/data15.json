@@ -6,7 +6,7 @@
     "course": {
         "title": "Master Microservices with Spring Boot and Spring Cloud",
         "subtitle": "An awesome journey from Restful Web Services ( REST API ) to Microservices with Java, Spring Boot and Spring Cloud",
-        "descriptions": [],
+        "descriptions":  "",
         "reviews": [],
         "students": [],
         "image1xURL": "https://img-a.udemycdn.com/course/240x135/1352468_3d97_7.jpg",
@@ -15,7 +15,7 @@
         "discountPrice": 18.99,
         "originalPrice": 199.99,
         "numViews": 0,
-        "curriculum": []
+        "curriculum": {}
     },
     "reviews": [
         {
@@ -72,73 +72,85 @@
             "name": "Nikunj Soni",
             "email": "nikunjsoni@gmail.com",
             "password": "nikunjsoni",
-            "role": "s"
+            "role": "s",
+"isConfirmed": true
         },
         {
             "name": "May Pyae Sone Nyein Win",
             "email": "maypyaesonenyeinwin@gmail.com",
             "password": "maypyaesonenyeinwin",
-            "role": "s"
+            "role": "s",
+"isConfirmed": true
         },
         {
             "name": "Jaykumar Shinde",
             "email": "jaykumarshinde@gmail.com",
             "password": "jaykumarshinde",
-            "role": "s"
+            "role": "s",
+"isConfirmed": true
         },
         {
             "name": "Adithya Nadig A R",
             "email": "adithyanadigar@gmail.com",
             "password": "adithyanadigar",
-            "role": "s"
+            "role": "s",
+"isConfirmed": true
         },
         {
             "name": "Dhruthi Nooka",
             "email": "dhruthinooka@gmail.com",
             "password": "dhruthinooka",
-            "role": "s"
+            "role": "s",
+"isConfirmed": true
         },
         {
             "name": "Rahul K Jain",
             "email": "rahulkjain@gmail.com",
             "password": "rahulkjain",
-            "role": "s"
+            "role": "s",
+"isConfirmed": true
         },
         {
             "name": "Pratiek Sanklecha",
             "email": "pratieksanklecha@gmail.com",
             "password": "pratieksanklecha",
-            "role": "s"
+            "role": "s",
+"isConfirmed": true
         },
         {
             "name": "Soumya Mishra",
             "email": "soumyamishra@gmail.com",
             "password": "soumyamishra",
-            "role": "s"
+            "role": "s",
+"isConfirmed": true
         },
         {
             "name": "Kirthan M Puttegowda",
             "email": "kirthanmputtegowda@gmail.com",
             "password": "kirthanmputtegowda",
-            "role": "s"
+            "role": "s",
+"isConfirmed": true
         },
         {
             "name": "Earl Manley",
             "email": "earlmanley@gmail.com",
             "password": "earlmanley",
-            "role": "s"
+            "role": "s",
+"isConfirmed": true
         },
         {
             "name": "Zaryab Saiyadain",
             "email": "zaryabsaiyadain@gmail.com",
             "password": "zaryabsaiyadain",
-            "role": "s"
+            "role": "s",
+"isConfirmed": true
         },
         {
             "name": "Carlo G.",
             "email": "carlog.@gmail.com",
             "password": "carlog.",
-            "role": "s"
+            "role": "s",
+"isConfirmed": true
         }
     ],
     "instructor": {
@@ -146,6 +158,7 @@
         "email": "in28minutesofficial@gmail.com",
         "password": "in28minutesofficial",
         "role": "i",
+"isConfirmed": true,
         "briefIntroduction": "<p>Ranga is an <strong>AWS Certified Solutions Architect Associate, AWS Certified Developer Associate and AWS Certified Cloud Practitioner.</strong></p><p>We are teaching <strong>30+&nbsp;Courses</strong> to <strong>450K&nbsp;Learners </strong>on <strong>DevOps</strong>, Cloud ( <strong>AWS</strong>, PCF, GCP,&nbsp;and Azure ), Full Stack (&nbsp; <strong>React</strong>, <strong>Angular</strong> ), <strong>Java</strong> Programming, and Java Frameworks ( Spring, <strong>Spring Boot</strong>, Spring MVC,&nbsp; Hibernate ). </p><p><strong>[LEARNING&nbsp;PATHS 00 to 06 </strong>for DevOps,&nbsp;Full Stack, Cloud,&nbsp; Spring Boot and Java in the<strong> FAQ&nbsp;</strong>below<strong>]</strong></p><p>We use Problem-Solution based Step-By-Step Hands-on Approach With Practical, Real-World Application Examples.</p><p>We have a wide range of courses focused on Spring Boot -&nbsp; Creating APIs and Microservices, Deploying to&nbsp;Cloud ( AWS, Azure, Docker, Kubernetes, Azure ), and Integrating with Full Stack Front end frameworks ( React &amp;&nbsp;Angular ).</p><p><br></p><p><strong>[LEARNING&nbsp;PATHS]</strong></p><p><br></p><p><strong>[LEARNING&nbsp;PATH 00] - DevOps&nbsp; </strong></p><p>Master DevOps with Docker, Kubernetes and Azure DevOps</p><p><br></p><p><strong>[LEARNING&nbsp;PATH 00] - DevOps&nbsp; </strong></p><p>Master DevOps with Docker, Kubernetes and Azure DevOps</p><p><br></p><p><strong>[LEARNING&nbsp;PATH 01] - Spring and Spring Boot Web Applications &amp; API Developer</strong></p><p>Spring Framework Master Class - Learn Spring the Modern Way!</p><p>Learn Spring Boot in 100 Steps - Beginner to Expert</p><p>Master Java Web Services and RESTful API with Spring Boot</p><p>Master Hibernate and JPA with Spring Boot in 100 Steps</p><p>Master Java Unit Testing with Spring Boot &amp; Mockito</p><p><br></p><p><strong>[LEARNING&nbsp;PATH 02] - Full Stack Developer with Spring Boot, React and Angular</strong></p><p>Go Java Full Stack with Spring Boot and React</p><p>Go Java Full Stack with Spring Boot and Angular</p><p><br></p><p><strong>[LEARNING&nbsp;PATH 03] - Cloud Microservices with Spring Boot, Docker &amp; Kubernetes</strong></p><p>Master Microservices with Spring Boot and Spring Cloud</p><p>Master Docker with Java - DevOps for Spring Microservices</p><p>Master Kubernetes with Docker on Google Cloud, AWS &amp; Azure</p><p><br></p><p><strong>[LEARNING&nbsp;PATH 04] - Cloud Developer with Spring Boot, AWS, Azure, and PCF</strong></p><p>Learn AWS - Deploy Java Spring Boot to AWS Elastic Beanstalk</p><p>Master Azure Web Apps - Take Java Spring Boot Apps to Azure</p><p>Master Pivotal Cloud Foundry with Spring Boot Microservices</p><p><br></p><p><strong>[LEARNING&nbsp;PATH 05] - Learn AWS with Microservices, Docker, and Kubernetes</strong></p><p>Learn AWS - Deploy Java Spring Boot to AWS Elastic Beanstalk</p><p>Master AWS Fargate &amp; ECS with Java Spring Boot Microservices</p><p>Master Kubernetes with Docker on Google Cloud, AWS &amp; Azure</p><p><br></p><p><strong>[LEARNING&nbsp;PATH 06] - GET&nbsp;AWS&nbsp;CERTIFIED</strong></p><p>AWS Certified Cloud Practitioner - Step By Step</p><p>AWS Certified Developer Associate&nbsp; - Step By Step</p><p>AWS Certified Solutions Architect Associate - Step By Step</p><p><br></p><p><strong>[OUR&nbsp;BELIEFS]</strong></p><p>Best Courses are interactive and fun.</p><p>Foundations for building high-quality applications are best laid down while learning.</p><p><br></p><p><strong>[OUR&nbsp;APPROACH]</strong></p><p>We use the 80-20 Rule. We discuss 20% of things used 80% of the time in depth. We touch upon other things briefly equipping you with enough knowledge to find out more on your own.</p><p>Problem Solution based Step by Step Hands-on Learning.</p><p><br></p>"
     }
 }

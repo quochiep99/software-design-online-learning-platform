@@ -6,7 +6,7 @@
     "course": {
         "title": "The Complete 2020 Flutter Development Bootcamp with Dart",
         "subtitle": "Officially created in collaboration with the Google Flutter team.",
-        "descriptions": [],
+        "descriptions":  "",
         "reviews": [],
         "students": [],
         "image1xURL": "https://img-a.udemycdn.com/course/240x135/2259120_305f_6.jpg",
@@ -15,7 +15,7 @@
         "discountPrice": 11.99,
         "originalPrice": 129.99,
         "numViews": 0,
-        "curriculum": []
+        "curriculum": {}
     },
     "reviews": [
         {
@@ -72,73 +72,85 @@
             "name": "Çağrı Yorguner",
             "email": "çağrıyorguner@gmail.com",
             "password": "çağrıyorguner",
-            "role": "s"
+            "role": "s",
+"isConfirmed": true
         },
         {
             "name": "Scott Mullins",
             "email": "scottmullins@gmail.com",
             "password": "scottmullins",
-            "role": "s"
+            "role": "s",
+"isConfirmed": true
         },
         {
             "name": "Emmanuel Sule",
             "email": "emmanuelsule@gmail.com",
             "password": "emmanuelsule",
-            "role": "s"
+            "role": "s",
+"isConfirmed": true
         },
         {
             "name": "Abdul Wajid Thekiya",
             "email": "abdulwajidthekiya@gmail.com",
             "password": "abdulwajidthekiya",
-            "role": "s"
+            "role": "s",
+"isConfirmed": true
         },
         {
             "name": "Ernst Häuslschmid",
             "email": "ernsthäuslschmid@gmail.com",
             "password": "ernsthäuslschmid",
-            "role": "s"
+            "role": "s",
+"isConfirmed": true
         },
         {
             "name": "Nkuna N",
             "email": "nkunan@gmail.com",
             "password": "nkunan",
-            "role": "s"
+            "role": "s",
+"isConfirmed": true
         },
         {
             "name": "Mahesh Madala",
             "email": "maheshmadala@gmail.com",
             "password": "maheshmadala",
-            "role": "s"
+            "role": "s",
+"isConfirmed": true
         },
         {
             "name": "Binaya Magar",
             "email": "binayamagar@gmail.com",
             "password": "binayamagar",
-            "role": "s"
+            "role": "s",
+"isConfirmed": true
         },
         {
             "name": "Mirant",
             "email": "mirant@gmail.com",
             "password": "mirant",
-            "role": "s"
+            "role": "s",
+"isConfirmed": true
         },
         {
             "name": "Eddy Roy Balummel",
             "email": "eddyroybalummel@gmail.com",
             "password": "eddyroybalummel",
-            "role": "s"
+            "role": "s",
+"isConfirmed": true
         },
         {
             "name": "Hafid Boukensous",
             "email": "hafidboukensous@gmail.com",
             "password": "hafidboukensous",
-            "role": "s"
+            "role": "s",
+"isConfirmed": true
         },
         {
             "name": "Saba",
             "email": "saba@gmail.com",
             "password": "saba",
-            "role": "s"
+            "role": "s",
+"isConfirmed": true
         }
     ],
     "instructor": {
@@ -146,6 +158,7 @@
         "email": "dr.angelayu@gmail.com",
         "password": "dr.angelayu",
         "role": "i",
+"isConfirmed": true,
         "briefIntroduction": "<p>I'm Angela, I'm a developer with a passion for teaching. I'm the <strong>lead instructor</strong> at the London App Brewery, London's leading <strong>Programming Bootcamp</strong>. I've helped hundreds of thousands of students learn to code and change their lives by becoming a developer. I've been invited by companies such as Twitter, Facebook and Google to teach their employees.</p><p>My first foray into programming was when I was just 12 years old, wanting to build my own Space Invader game. Since then, I've made <strong>hundred of websites, apps and games</strong>. But most importantly, I realised that my <strong>greatest passion</strong> is teaching. </p><p>I spend most of my time researching how to make <strong>learning to code fun</strong> and make <strong>hard concepts easy to understand</strong>. I apply everything I discover into my bootcamp courses. In my courses, you'll find lots of geeky humour but also lots of <strong>explanations and animations</strong> to make sure everything is easy to understand. </p><p><strong>I'll be there for you every step of the way.</strong></p>"
     }
 }

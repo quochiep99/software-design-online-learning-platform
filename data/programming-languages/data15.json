@@ -6,7 +6,7 @@
     "course": {
         "title": "The Modern Python 3 Bootcamp",
         "subtitle": "A Unique Interactive Python Experience With Nearly 200 Exercises and Quizzes",
-        "descriptions": [],
+        "descriptions":  "",
         "reviews": [],
         "students": [],
         "image1xURL": "https://img-a.udemycdn.com/course/240x135/1350984_2355_6.jpg",
@@ -15,7 +15,7 @@
         "discountPrice": 11.99,
         "originalPrice": 129.99,
         "numViews": 0,
-        "curriculum": []
+        "curriculum": {}
     },
     "reviews": [
         {
@@ -72,73 +72,85 @@
             "name": "Agustín Martínez Figueroa",
             "email": "agustínmartínezfigueroa@gmail.com",
             "password": "agustínmartínezfigueroa",
-            "role": "s"
+            "role": "s",
+"isConfirmed": true
         },
         {
             "name": "Alisha Basdow",
             "email": "alishabasdow@gmail.com",
             "password": "alishabasdow",
-            "role": "s"
+            "role": "s",
+"isConfirmed": true
         },
         {
             "name": "Bartłomiej Wajda",
             "email": "bartłomiejwajda@gmail.com",
             "password": "bartłomiejwajda",
-            "role": "s"
+            "role": "s",
+"isConfirmed": true
         },
         {
             "name": "vikram c.n.",
             "email": "vikramc.n.@gmail.com",
             "password": "vikramc.n.",
-            "role": "s"
+            "role": "s",
+"isConfirmed": true
         },
         {
             "name": "Luisandresap",
             "email": "luisandresap@gmail.com",
             "password": "luisandresap",
-            "role": "s"
+            "role": "s",
+"isConfirmed": true
         },
         {
             "name": "Tony Chun",
             "email": "tonychun@gmail.com",
             "password": "tonychun",
-            "role": "s"
+            "role": "s",
+"isConfirmed": true
         },
         {
             "name": "Sven Mäesalu",
             "email": "svenmäesalu@gmail.com",
             "password": "svenmäesalu",
-            "role": "s"
+            "role": "s",
+"isConfirmed": true
         },
         {
             "name": "Ernesto Burzic",
             "email": "ernestoburzic@gmail.com",
             "password": "ernestoburzic",
-            "role": "s"
+            "role": "s",
+"isConfirmed": true
         },
         {
             "name": "V A",
             "email": "va@gmail.com",
             "password": "va",
-            "role": "s"
+            "role": "s",
+"isConfirmed": true
         },
         {
             "name": "Steven Trang",
             "email": "steventrang@gmail.com",
             "password": "steventrang",
-            "role": "s"
+            "role": "s",
+"isConfirmed": true
         },
         {
             "name": "Vickey Sangwan",
             "email": "vickeysangwan@gmail.com",
             "password": "vickeysangwan",
-            "role": "s"
+            "role": "s",
+"isConfirmed": true
         },
         {
             "name": "Ksenia Kuzina",
             "email": "kseniakuzina@gmail.com",
             "password": "kseniakuzina",
-            "role": "s"
+            "role": "s",
+"isConfirmed": true
         }
     ],
     "instructor": {
@@ -146,6 +158,7 @@
         "email": "coltsteele@gmail.com",
         "password": "coltsteele",
         "role": "i",
+"isConfirmed": true,
         "briefIntroduction": "<p>Hi! I'm Colt. I'm a developer with a serious love for teaching. I've spent the last few years teaching people to program at 2 different immersive bootcamps where <strong>I've helped hundreds of people become web developers and change their lives.</strong> My graduates work at companies like Google, Salesforce, and Square.</p><p>Most recently, I led Galvanize's SF's 6 month immersive program as <strong>Lead Instructor</strong> and <strong>Curriculum Director.</strong> After graduating from my class, 94% of my students went on to receive full-time developer roles. I also worked at Udacity as a <strong>Senior Course Developer </strong>on the web development team where I got to reach thousands of students daily. </p><p>I’ve since focused my time on bringing my classroom teaching experience to an online environment. In 2016 I launched my <strong>Web Developer Bootcamp course</strong>, which has since gone on to become one of the best selling and top rated courses on Udemy. I was also voted <strong>Udemy’s Best New Instructor of 2016.</strong> </p><p>I've spent years figuring out the \"formula\" to teaching technical skills in a classroom environment, and I'm really excited to finally share my expertise with you. I can confidently say that my online courses are without a doubt the most comprehensive ones on the market. </p><p><strong>Join me on this crazy adventure!</strong></p>"
     }
 }

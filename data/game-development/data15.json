@@ -6,7 +6,7 @@
     "course": {
         "title": "Blender Character Creator v2.0 for Video Games Design",
         "subtitle": "Model Video Game Characters. Use The Sculpt Tool To Shape, Add Texture, Rig & Animate Video Game Characters",
-        "descriptions": [],
+        "descriptions":  "",
         "reviews": [],
         "students": [],
         "image1xURL": "https://img-a.udemycdn.com/course/240x135/1356020_2c30_4.jpg",
@@ -15,7 +15,7 @@
         "discountPrice": 11.99,
         "originalPrice": 129.99,
         "numViews": 0,
-        "curriculum": []
+        "curriculum": {}
     },
     "reviews": [
         {
@@ -72,133 +72,155 @@
             "name": "Max Krueger",
             "email": "maxkrueger@gmail.com",
             "password": "maxkrueger",
-            "role": "s"
+            "role": "s",
+"isConfirmed": true
         },
         {
             "name": "GameDev.tv Team",
             "email": "gamedev.tvteam@gmail.com",
             "password": "gamedev.tvteam",
-            "role": "s"
+            "role": "s",
+"isConfirmed": true
         },
         {
             "name": "Nuwan Prabodh",
             "email": "nuwanprabodh@gmail.com",
             "password": "nuwanprabodh",
-            "role": "s"
+            "role": "s",
+"isConfirmed": true
         },
         {
             "name": "GameDev.tv Team",
             "email": "gamedev.tvteam@gmail.com",
             "password": "gamedev.tvteam",
-            "role": "s"
+            "role": "s",
+"isConfirmed": true
         },
         {
             "name": "Kinofrost S",
             "email": "kinofrosts@gmail.com",
             "password": "kinofrosts",
-            "role": "s"
+            "role": "s",
+"isConfirmed": true
         },
         {
             "name": "GameDev.tv Team",
             "email": "gamedev.tvteam@gmail.com",
             "password": "gamedev.tvteam",
-            "role": "s"
+            "role": "s",
+"isConfirmed": true
         },
         {
             "name": "Dominik Göbel",
             "email": "dominikgöbel@gmail.com",
             "password": "dominikgöbel",
-            "role": "s"
+            "role": "s",
+"isConfirmed": true
         },
         {
             "name": "Alberto Scaccianoce",
             "email": "albertoscaccianoce@gmail.com",
             "password": "albertoscaccianoce",
-            "role": "s"
+            "role": "s",
+"isConfirmed": true
         },
         {
             "name": "GameDev.tv Team",
             "email": "gamedev.tvteam@gmail.com",
             "password": "gamedev.tvteam",
-            "role": "s"
+            "role": "s",
+"isConfirmed": true
         },
         {
             "name": "Gabriel Korniejew",
             "email": "gabrielkorniejew@gmail.com",
             "password": "gabrielkorniejew",
-            "role": "s"
+            "role": "s",
+"isConfirmed": true
         },
         {
             "name": "Grant Abbitt",
             "email": "grantabbitt@gmail.com",
             "password": "grantabbitt",
-            "role": "s"
+            "role": "s",
+"isConfirmed": true
         },
         {
             "name": "Mohammed Mosa Mir",
             "email": "mohammedmosamir@gmail.com",
             "password": "mohammedmosamir",
-            "role": "s"
+            "role": "s",
+"isConfirmed": true
         },
         {
             "name": "GameDev.tv Team",
             "email": "gamedev.tvteam@gmail.com",
             "password": "gamedev.tvteam",
-            "role": "s"
+            "role": "s",
+"isConfirmed": true
         },
         {
             "name": "Juhani Kumara",
             "email": "juhanikumara@gmail.com",
             "password": "juhanikumara",
-            "role": "s"
+            "role": "s",
+"isConfirmed": true
         },
         {
             "name": "GameDev.tv Team",
             "email": "gamedev.tvteam@gmail.com",
             "password": "gamedev.tvteam",
-            "role": "s"
+            "role": "s",
+"isConfirmed": true
         },
         {
             "name": "Eduardo Hernandez Ricciarelli",
             "email": "eduardohernandezricciarelli@gmail.com",
             "password": "eduardohernandezricciarelli",
-            "role": "s"
+            "role": "s",
+"isConfirmed": true
         },
         {
             "name": "Samuel Walter",
             "email": "samuelwalter@gmail.com",
             "password": "samuelwalter",
-            "role": "s"
+            "role": "s",
+"isConfirmed": true
         },
         {
             "name": "GameDev.tv Team",
             "email": "gamedev.tvteam@gmail.com",
             "password": "gamedev.tvteam",
-            "role": "s"
+            "role": "s",
+"isConfirmed": true
         },
         {
             "name": "Birhanu Worku",
             "email": "birhanuworku@gmail.com",
             "password": "birhanuworku",
-            "role": "s"
+            "role": "s",
+"isConfirmed": true
         },
         {
             "name": "GameDev.tv Team",
             "email": "gamedev.tvteam@gmail.com",
             "password": "gamedev.tvteam",
-            "role": "s"
+            "role": "s",
+"isConfirmed": true
         },
         {
             "name": "Vinko Roditi",
             "email": "vinkoroditi@gmail.com",
             "password": "vinkoroditi",
-            "role": "s"
+            "role": "s",
+"isConfirmed": true
         },
         {
             "name": "GameDev.tv Team",
             "email": "gamedev.tvteam@gmail.com",
             "password": "gamedev.tvteam",
-            "role": "s"
+            "role": "s",
+"isConfirmed": true
         }
     ],
     "instructor": {
@@ -206,6 +228,7 @@
         "email": "gamedev.tvteam@gmail.com",
         "password": "gamedev.tvteam",
         "role": "i",
+"isConfirmed": true,
         "briefIntroduction": "<p>GameDev&nbsp;tv was created to help anyone learn how to <strong>develop, design and sell indie games</strong>. &nbsp;We have some of the best-selling and highest rating game development courses on Udemy. </p><p>We have more than 600,000 students, and our aim is to make and maintain&nbsp;high quality courses that are <strong>engaging and entertaining</strong> for them.</p><p>GameDev&nbsp;tv offers comprehensive courses on&nbsp;<strong>Unity, Blender, Unreal, coding in C#, C++</strong> and more. &nbsp;Looking to learn about a topic that we don't cover?&nbsp;Get plugged into our communities of amazing developers on Facebook (nearly 20k), in our own TA-curated Community (17k views/day), and our student chat group (10k live at any one time).</p>"
     }
 }

@@ -6,7 +6,7 @@
     "course": {
         "title": "Master Unity By Building 6 Fully Featured Games From Scratch",
         "subtitle": "Learn How To Plan, Design, Create And Publish Your Games On Any Platform Using Unity Game Engine",
-        "descriptions": [],
+        "descriptions":  "",
         "reviews": [],
         "students": [],
         "image1xURL": "https://img-a.udemycdn.com/course/240x135/486628_2b8b_4.jpg",
@@ -15,7 +15,7 @@
         "discountPrice": 11.99,
         "originalPrice": 131.99,
         "numViews": 0,
-        "curriculum": []
+        "curriculum": {}
     },
     "reviews": [
         {
@@ -72,73 +72,85 @@
             "name": "maflo Picasso",
             "email": "maflopicasso@gmail.com",
             "password": "maflopicasso",
-            "role": "s"
+            "role": "s",
+"isConfirmed": true
         },
         {
             "name": "Elias R",
             "email": "eliasr@gmail.com",
             "password": "eliasr",
-            "role": "s"
+            "role": "s",
+"isConfirmed": true
         },
         {
             "name": "Kiran Cyrus Ken",
             "email": "kirancyrusken@gmail.com",
             "password": "kirancyrusken",
-            "role": "s"
+            "role": "s",
+"isConfirmed": true
         },
         {
             "name": "Robert Baxter",
             "email": "robertbaxter@gmail.com",
             "password": "robertbaxter",
-            "role": "s"
+            "role": "s",
+"isConfirmed": true
         },
         {
             "name": "Daniel Gläsner",
             "email": "danielgläsner@gmail.com",
             "password": "danielgläsner",
-            "role": "s"
+            "role": "s",
+"isConfirmed": true
         },
         {
             "name": "Bryan Porter",
             "email": "bryanporter@gmail.com",
             "password": "bryanporter",
-            "role": "s"
+            "role": "s",
+"isConfirmed": true
         },
         {
             "name": "Tom Frakey",
             "email": "tomfrakey@gmail.com",
             "password": "tomfrakey",
-            "role": "s"
+            "role": "s",
+"isConfirmed": true
         },
         {
             "name": "Christopher Romano",
             "email": "christopherromano@gmail.com",
             "password": "christopherromano",
-            "role": "s"
+            "role": "s",
+"isConfirmed": true
         },
         {
             "name": "Johnny",
             "email": "johnny@gmail.com",
             "password": "johnny",
-            "role": "s"
+            "role": "s",
+"isConfirmed": true
         },
         {
             "name": "Ashvin Dalwadi",
             "email": "ashvindalwadi@gmail.com",
             "password": "ashvindalwadi",
-            "role": "s"
+            "role": "s",
+"isConfirmed": true
         },
         {
             "name": "Phil Hind",
             "email": "philhind@gmail.com",
             "password": "philhind",
-            "role": "s"
+            "role": "s",
+"isConfirmed": true
         },
         {
             "name": "James Williams",
             "email": "jameswilliams@gmail.com",
             "password": "jameswilliams",
-            "role": "s"
+            "role": "s",
+"isConfirmed": true
         }
     ],
     "instructor": {
@@ -146,6 +158,7 @@
         "email": "awesometuts@gmail.com",
         "password": "awesometuts",
         "role": "i",
+"isConfirmed": true,
         "briefIntroduction": "<p>Awesome Tuts is a part of Awesome Graphics Company that makes awesome games and provides quality e-learning for people who want to learn game development and programming.</p>\n\n<p>We are focusing on game development and try to teach people how to develop games using practical examples, but you can find other topics as well.</p>\n\n<p>We are a team of 4 people lead by Fahir, main tutor, programmer and leader of the group.</p>\n\n<p>We also started a YouTube channel where we also teach game development so you can check that out and see what we have to offer.</p>\n\n<p>We enjoy teaching people and mostly providing information that is not accessible anywhere else, you can join our Epic 2D Game Development Course and see for yourself… And if you like it, then we have good news for you, this is just a start, more courses are coming so stay tuned.</p>\n\n<p>So what are you waiting for? Why don't you join our Epic 2D Game Development Course And Learn How To Make Awesome Games??</p>"
     }
 }

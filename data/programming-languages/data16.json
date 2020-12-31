@@ -6,7 +6,7 @@
     "course": {
         "title": "The Complete Python 3 Course: Beginner to Advanced!",
         "subtitle": "Learn Python with projects covering game & web development, web scraping, MongoDB, Django, PyQt, and data visualization!",
-        "descriptions": [],
+        "descriptions":  "",
         "reviews": [],
         "students": [],
         "image1xURL": "https://img-a.udemycdn.com/course/240x135/882826_4687_3.jpg",
@@ -15,7 +15,7 @@
         "discountPrice": 13.99,
         "originalPrice": 149.99,
         "numViews": 0,
-        "curriculum": []
+        "curriculum": {}
     },
     "reviews": [
         {
@@ -72,73 +72,85 @@
             "name": "ABDUL HALIM N 8A1",
             "email": "abdulhalimn8a1@gmail.com",
             "password": "abdulhalimn8a1",
-            "role": "s"
+            "role": "s",
+"isConfirmed": true
         },
         {
             "name": "Arnaldo Paredes",
             "email": "arnaldoparedes@gmail.com",
             "password": "arnaldoparedes",
-            "role": "s"
+            "role": "s",
+"isConfirmed": true
         },
         {
             "name": "Luc Rig",
             "email": "lucrig@gmail.com",
             "password": "lucrig",
-            "role": "s"
+            "role": "s",
+"isConfirmed": true
         },
         {
             "name": "Haris Horozovic",
             "email": "harishorozovic@gmail.com",
             "password": "harishorozovic",
-            "role": "s"
+            "role": "s",
+"isConfirmed": true
         },
         {
             "name": "Hitesh Subhash Kalamkar",
             "email": "hiteshsubhashkalamkar@gmail.com",
             "password": "hiteshsubhashkalamkar",
-            "role": "s"
+            "role": "s",
+"isConfirmed": true
         },
         {
             "name": "Frédéric Salvetat",
             "email": "frédéricsalvetat@gmail.com",
             "password": "frédéricsalvetat",
-            "role": "s"
+            "role": "s",
+"isConfirmed": true
         },
         {
             "name": "José Manuel Romero Muelas",
             "email": "josémanuelromeromuelas@gmail.com",
             "password": "josémanuelromeromuelas",
-            "role": "s"
+            "role": "s",
+"isConfirmed": true
         },
         {
             "name": "Pohyen",
             "email": "pohyen@gmail.com",
             "password": "pohyen",
-            "role": "s"
+            "role": "s",
+"isConfirmed": true
         },
         {
             "name": "Daniela Cordova",
             "email": "danielacordova@gmail.com",
             "password": "danielacordova",
-            "role": "s"
+            "role": "s",
+"isConfirmed": true
         },
         {
             "name": "Karin L",
             "email": "karinl@gmail.com",
             "password": "karinl",
-            "role": "s"
+            "role": "s",
+"isConfirmed": true
         },
         {
             "name": "Devaraju.y",
             "email": "devaraju.y@gmail.com",
             "password": "devaraju.y",
-            "role": "s"
+            "role": "s",
+"isConfirmed": true
         },
         {
             "name": "Ali Abdi",
             "email": "aliabdi@gmail.com",
             "password": "aliabdi",
-            "role": "s"
+            "role": "s",
+"isConfirmed": true
         }
     ],
     "instructor": {
@@ -146,6 +158,7 @@
         "email": "josephdelgadillo@gmail.com",
         "password": "josephdelgadillo",
         "role": "i",
+"isConfirmed": true,
         "briefIntroduction": "<p>The digital age is upon us. Would you like to build/protect the systems that shape our future?</p><p>I&nbsp;am here on Udemy to produce valuable educational resources for students who wish to learn skills related to information technology, network security, programming languages and much more. Enroll in one of my courses for a practical, down to earth approach to learning. </p><p><br></p><p><br></p><p>\n</p><p><br></p><p><br></p><p><br></p>"
     }
 }

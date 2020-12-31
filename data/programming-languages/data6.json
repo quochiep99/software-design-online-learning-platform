@@ -6,7 +6,7 @@
     "course": {
         "title": "The Complete Node.js Developer Course (3rd Edition)",
         "subtitle": "Learn Node.js by building real-world applications with Node, Express, MongoDB, Jest, and more!",
-        "descriptions": [],
+        "descriptions":  "",
         "reviews": [],
         "students": [],
         "image1xURL": "https://img-a.udemycdn.com/course/240x135/922484_52a1_8.jpg",
@@ -15,7 +15,7 @@
         "discountPrice": 11.99,
         "originalPrice": 84.99,
         "numViews": 0,
-        "curriculum": []
+        "curriculum": {}
     },
     "reviews": [
         {
@@ -72,73 +72,85 @@
             "name": "Mike",
             "email": "mike@gmail.com",
             "password": "mike",
-            "role": "s"
+            "role": "s",
+"isConfirmed": true
         },
         {
             "name": "Ankit Dubey",
             "email": "ankitdubey@gmail.com",
             "password": "ankitdubey",
-            "role": "s"
+            "role": "s",
+"isConfirmed": true
         },
         {
             "name": "Rendi Rinaldi",
             "email": "rendirinaldi@gmail.com",
             "password": "rendirinaldi",
-            "role": "s"
+            "role": "s",
+"isConfirmed": true
         },
         {
             "name": "Akshit Dhir",
             "email": "akshitdhir@gmail.com",
             "password": "akshitdhir",
-            "role": "s"
+            "role": "s",
+"isConfirmed": true
         },
         {
             "name": "Nga La",
             "email": "ngala@gmail.com",
             "password": "ngala",
-            "role": "s"
+            "role": "s",
+"isConfirmed": true
         },
         {
             "name": "Student104",
             "email": "student104@gmail.com",
             "password": "student104",
-            "role": "s"
+            "role": "s",
+"isConfirmed": true
         },
         {
             "name": "Renan Truppel",
             "email": "renantruppel@gmail.com",
             "password": "renantruppel",
-            "role": "s"
+            "role": "s",
+"isConfirmed": true
         },
         {
             "name": "Ranjan Kumar Rai",
             "email": "ranjankumarrai@gmail.com",
             "password": "ranjankumarrai",
-            "role": "s"
+            "role": "s",
+"isConfirmed": true
         },
         {
             "name": "Devanshu Rana",
             "email": "devanshurana@gmail.com",
             "password": "devanshurana",
-            "role": "s"
+            "role": "s",
+"isConfirmed": true
         },
         {
             "name": "Daniel Vela Jarquin",
             "email": "danielvelajarquin@gmail.com",
             "password": "danielvelajarquin",
-            "role": "s"
+            "role": "s",
+"isConfirmed": true
         },
         {
             "name": "Antonio Vitas",
             "email": "antoniovitas@gmail.com",
             "password": "antoniovitas",
-            "role": "s"
+            "role": "s",
+"isConfirmed": true
         },
         {
             "name": "Stefanita Rusu",
             "email": "stefanitarusu@gmail.com",
             "password": "stefanitarusu",
-            "role": "s"
+            "role": "s",
+"isConfirmed": true
         }
     ],
     "instructor": {
@@ -146,6 +158,7 @@
         "email": "andrewmead@gmail.com",
         "password": "andrewmead",
         "role": "i",
+"isConfirmed": true,
         "briefIntroduction": "<p>I'm Andrew, a full-stack developer living in beautiful Philadelphia!</p>\n<p>I launched my first Udemy course in 2014 and had a blast teaching and helping others.&nbsp;<strong class=\"redactor-inline-converted\">Since then, I've launched 3 courses with over 110,000 students and over 18,000&nbsp;5-star reviews</strong><strong>.</strong></p>\n<p><strong></strong>I currently teach JavaScript, React, and Node.</p>\n<p>Before I ever heard about Udemy or thought about teaching, I created a web app development company. I've helped companies of all sizes launch production web applications to their customers. I've had the honor of working with awesome companies like Siemens, Mixergy, and Parkloco.</p>\n<p>I have a Computer Science degree from Temple University, and I've been programming for just over a decade.&nbsp;I love creating, programming, launching, learning,&nbsp;teaching, and biking.</p>\n<p>I can't wait to see you inside one of my courses!</p>"
     }
 }

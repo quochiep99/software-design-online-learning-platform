@@ -6,7 +6,7 @@
     "course": {
         "title": "React Native - The Practical Guide [2020 Edition]",
         "subtitle": "Use React Native and your React knowledge to build native iOS and Android Apps - incl. Push Notifications, Hooks, Redux",
-        "descriptions": [],
+        "descriptions":  "",
         "reviews": [],
         "students": [],
         "image1xURL": "https://img-a.udemycdn.com/course/240x135/1436092_2024_4.jpg",
@@ -15,7 +15,7 @@
         "discountPrice": 11.99,
         "originalPrice": 129.99,
         "numViews": 0,
-        "curriculum": []
+        "curriculum": {}
     },
     "reviews": [
         {
@@ -72,73 +72,85 @@
             "name": "JM De Ocampo",
             "email": "jmdeocampo@gmail.com",
             "password": "jmdeocampo",
-            "role": "s"
+            "role": "s",
+"isConfirmed": true
         },
         {
             "name": "Niloy Rudra",
             "email": "niloyrudra@gmail.com",
             "password": "niloyrudra",
-            "role": "s"
+            "role": "s",
+"isConfirmed": true
         },
         {
             "name": "Jefferson Daniel",
             "email": "jeffersondaniel@gmail.com",
             "password": "jeffersondaniel",
-            "role": "s"
+            "role": "s",
+"isConfirmed": true
         },
         {
             "name": "Farhad",
             "email": "farhad@gmail.com",
             "password": "farhad",
-            "role": "s"
+            "role": "s",
+"isConfirmed": true
         },
         {
             "name": "Rafal Lis",
             "email": "rafallis@gmail.com",
             "password": "rafallis",
-            "role": "s"
+            "role": "s",
+"isConfirmed": true
         },
         {
             "name": "Pratap Vamsi Guttikonda",
             "email": "pratapvamsiguttikonda@gmail.com",
             "password": "pratapvamsiguttikonda",
-            "role": "s"
+            "role": "s",
+"isConfirmed": true
         },
         {
             "name": "Rajeshkumar Govindaraj",
             "email": "rajeshkumargovindaraj@gmail.com",
             "password": "rajeshkumargovindaraj",
-            "role": "s"
+            "role": "s",
+"isConfirmed": true
         },
         {
             "name": "Obadia TURAHIRWA",
             "email": "obadiaturahirwa@gmail.com",
             "password": "obadiaturahirwa",
-            "role": "s"
+            "role": "s",
+"isConfirmed": true
         },
         {
             "name": "Diego Efraín Salazar Loría",
             "email": "diegoefraínsalazarloría@gmail.com",
             "password": "diegoefraínsalazarloría",
-            "role": "s"
+            "role": "s",
+"isConfirmed": true
         },
         {
             "name": "Tim Thompson",
             "email": "timthompson@gmail.com",
             "password": "timthompson",
-            "role": "s"
+            "role": "s",
+"isConfirmed": true
         },
         {
             "name": "Lia Brachio",
             "email": "liabrachio@gmail.com",
             "password": "liabrachio",
-            "role": "s"
+            "role": "s",
+"isConfirmed": true
         },
         {
             "name": "Artyom Nikolayev",
             "email": "artyomnikolayev@gmail.com",
             "password": "artyomnikolayev",
-            "role": "s"
+            "role": "s",
+"isConfirmed": true
         }
     ],
     "instructor": {
@@ -146,6 +158,7 @@
         "email": "academindbymaximilianschwarzmüller@gmail.com",
         "password": "academindbymaximilianschwarzmüller",
         "role": "i",
+"isConfirmed": true,
         "briefIntroduction": "<p>Bundling the courses and know how of successful instructors, Academind strives to deliver high quality online education.&nbsp;</p>\n\n<p>Online Education, Real-Life Success - that's what Academind stands for. Learn topics like web development, data analyses and more in a fun and engaging way.</p>\n\n\n\n\n\n\n\n<p>Currently, you can find courses published by Maximilian Schwarzmüller and Manuel Lorenz, more instructors to come!</p>\n\n\n\n\n\n\n\n<p>Keep learning!</p>"
     }
 }

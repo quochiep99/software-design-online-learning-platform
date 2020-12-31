@@ -6,7 +6,7 @@
     "course": {
         "title": "Beginning C++ Programming - From Beginner to Beyond",
         "subtitle": "Obtain Modern C++ Object-Oriented Programming (OOP) and STL skills needed for game, system, and application development.",
-        "descriptions": [],
+        "descriptions":  "",
         "reviews": [],
         "students": [],
         "image1xURL": "https://img-a.udemycdn.com/course/240x135/1576854_9aeb.jpg",
@@ -15,7 +15,7 @@
         "discountPrice": 11.99,
         "originalPrice": 129.99,
         "numViews": 0,
-        "curriculum": []
+        "curriculum": {}
     },
     "reviews": [
         {
@@ -72,73 +72,85 @@
             "name": "Aman Verma",
             "email": "amanverma@gmail.com",
             "password": "amanverma",
-            "role": "s"
+            "role": "s",
+"isConfirmed": true
         },
         {
             "name": "Andrew Alagna",
             "email": "andrewalagna@gmail.com",
             "password": "andrewalagna",
-            "role": "s"
+            "role": "s",
+"isConfirmed": true
         },
         {
             "name": "Toby Kliebert",
             "email": "tobykliebert@gmail.com",
             "password": "tobykliebert",
-            "role": "s"
+            "role": "s",
+"isConfirmed": true
         },
         {
             "name": "Viraj Gore",
             "email": "virajgore@gmail.com",
             "password": "virajgore",
-            "role": "s"
+            "role": "s",
+"isConfirmed": true
         },
         {
             "name": "Jeremy Harwood",
             "email": "jeremyharwood@gmail.com",
             "password": "jeremyharwood",
-            "role": "s"
+            "role": "s",
+"isConfirmed": true
         },
         {
             "name": "Bruno Miguel Machado Silva",
             "email": "brunomiguelmachadosilva@gmail.com",
             "password": "brunomiguelmachadosilva",
-            "role": "s"
+            "role": "s",
+"isConfirmed": true
         },
         {
             "name": "Axel Mora",
             "email": "axelmora@gmail.com",
             "password": "axelmora",
-            "role": "s"
+            "role": "s",
+"isConfirmed": true
         },
         {
             "name": "Ajay Singh Dabi",
             "email": "ajaysinghdabi@gmail.com",
             "password": "ajaysinghdabi",
-            "role": "s"
+            "role": "s",
+"isConfirmed": true
         },
         {
             "name": "Mostafa Aladawy",
             "email": "mostafaaladawy@gmail.com",
             "password": "mostafaaladawy",
-            "role": "s"
+            "role": "s",
+"isConfirmed": true
         },
         {
             "name": "Ahmed Lotfy",
             "email": "ahmedlotfy@gmail.com",
             "password": "ahmedlotfy",
-            "role": "s"
+            "role": "s",
+"isConfirmed": true
         },
         {
             "name": "Jorge García Castilla",
             "email": "jorgegarcíacastilla@gmail.com",
             "password": "jorgegarcíacastilla",
-            "role": "s"
+            "role": "s",
+"isConfirmed": true
         },
         {
             "name": "JimmyButcher",
             "email": "jimmybutcher@gmail.com",
             "password": "jimmybutcher",
-            "role": "s"
+            "role": "s",
+"isConfirmed": true
         }
     ],
     "instructor": {
@@ -146,6 +158,7 @@
         "email": "timbuchalka'slearnprogrammingacademy@gmail.com",
         "password": "timbuchalka'slearnprogrammingacademy",
         "role": "i",
+"isConfirmed": true,
         "briefIntroduction": "<p>The Learn Programming Academy was created by Tim Buchalka, a software developer with 35 years experience, who is also an instructor on Udemy, with over 1M+ students in his courses on Java, Python, Android, C# &nbsp;and the Spring framework.&nbsp;</p><p><strong>The Academy’s goal in the next three years, is to teach one million people to learn how to program.</strong></p><p>Apart from Tim’s own courses, which are all available here, we are working with the very best teachers, creating courses to teach the essential skills required by developers, at all levels.</p><p>One other important philosophy is that our courses are taught by real professionals; software developers with real and substantial&nbsp;experience in the industry, who are also great teachers. &nbsp;All our instructors are experienced, software developers!</p><p>Our team is busy creating new courses right now.</p><p>Whether you are a beginner, looking to learn how to program for the very first time, or to brush up on your existing skills, or to learn new languages and frameworks, the Academy has you covered.<br></p>"
     }
 }

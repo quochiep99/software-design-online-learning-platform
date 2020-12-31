@@ -6,7 +6,7 @@
     "course": {
         "title": "The Complete React Native + Hooks Course [2020 Edition]",
         "subtitle": "Understand React Native v0.62.2 with Hooks, Context, and React Navigation.",
-        "descriptions": [],
+        "descriptions":  "",
         "reviews": [],
         "students": [],
         "image1xURL": "https://img-b.udemycdn.com/course/240x135/959700_8bd2_11.jpg",
@@ -15,7 +15,7 @@
         "discountPrice": 18.99,
         "originalPrice": 94.99,
         "numViews": 0,
-        "curriculum": []
+        "curriculum": {}
     },
     "reviews": [
         {
@@ -72,73 +72,85 @@
             "name": "Nishant Yadav",
             "email": "nishantyadav@gmail.com",
             "password": "nishantyadav",
-            "role": "s"
+            "role": "s",
+"isConfirmed": true
         },
         {
             "name": "Shashank Agarwal",
             "email": "shashankagarwal@gmail.com",
             "password": "shashankagarwal",
-            "role": "s"
+            "role": "s",
+"isConfirmed": true
         },
         {
             "name": "Sasikant Bonam",
             "email": "sasikantbonam@gmail.com",
             "password": "sasikantbonam",
-            "role": "s"
+            "role": "s",
+"isConfirmed": true
         },
         {
             "name": "jitender Kumar",
             "email": "jitenderkumar@gmail.com",
             "password": "jitenderkumar",
-            "role": "s"
+            "role": "s",
+"isConfirmed": true
         },
         {
             "name": "Justin Tungul",
             "email": "justintungul@gmail.com",
             "password": "justintungul",
-            "role": "s"
+            "role": "s",
+"isConfirmed": true
         },
         {
             "name": "Atul Lal",
             "email": "atullal@gmail.com",
             "password": "atullal",
-            "role": "s"
+            "role": "s",
+"isConfirmed": true
         },
         {
             "name": "Dhruva Harapanahalli",
             "email": "dhruvaharapanahalli@gmail.com",
             "password": "dhruvaharapanahalli",
-            "role": "s"
+            "role": "s",
+"isConfirmed": true
         },
         {
             "name": "Víctor A. Valentinuzzi N.",
             "email": "víctora.valentinuzzin.@gmail.com",
             "password": "víctora.valentinuzzin.",
-            "role": "s"
+            "role": "s",
+"isConfirmed": true
         },
         {
             "name": "Kalu Chibueze",
             "email": "kaluchibueze@gmail.com",
             "password": "kaluchibueze",
-            "role": "s"
+            "role": "s",
+"isConfirmed": true
         },
         {
             "name": "Suraj Biswas",
             "email": "surajbiswas@gmail.com",
             "password": "surajbiswas",
-            "role": "s"
+            "role": "s",
+"isConfirmed": true
         },
         {
             "name": "Jalal Ahmad Khan",
             "email": "jalalahmadkhan@gmail.com",
             "password": "jalalahmadkhan",
-            "role": "s"
+            "role": "s",
+"isConfirmed": true
         },
         {
             "name": "Luis Barceló",
             "email": "luisbarceló@gmail.com",
             "password": "luisbarceló",
-            "role": "s"
+            "role": "s",
+"isConfirmed": true
         }
     ],
     "instructor": {
@@ -146,6 +158,7 @@
         "email": "stephengrider@gmail.com",
         "password": "stephengrider",
         "role": "i",
+"isConfirmed": true,
         "briefIntroduction": "<p>Stephen Grider has been building complex Javascript front ends for top corporations in the San Francisco Bay Area.&nbsp; With an innate ability to simplify complex topics, Stephen has been mentoring engineers beginning their careers in software development for years, and has now expanded that experience onto Udemy, authoring the highest rated React course. He&nbsp;teaches on Udemy to share the knowledge he&nbsp;has&nbsp;gained with other software engineers.&nbsp; Invest in yourself by learning from Stephen's published courses.</p>"
     }
 }

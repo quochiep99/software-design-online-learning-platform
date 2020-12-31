@@ -6,7 +6,7 @@
     "course": {
         "title": "Introduction to Machine Learning for Data Science",
         "subtitle": "A primer on Machine Learning for Data Science. Revealed for everyday people, by the Backyard Data Scientist.",
-        "descriptions": [],
+        "descriptions":  "",
         "reviews": [],
         "students": [],
         "image1xURL": "https://img-a.udemycdn.com/course/240x135/971154_6799_2.jpg",
@@ -15,7 +15,7 @@
         "discountPrice": 11.99,
         "originalPrice": 129.99,
         "numViews": 0,
-        "curriculum": []
+        "curriculum": {}
     },
     "reviews": [
         {
@@ -72,73 +72,85 @@
             "name": "CAI WEIDE",
             "email": "caiweide@gmail.com",
             "password": "caiweide",
-            "role": "s"
+            "role": "s",
+"isConfirmed": true
         },
         {
             "name": "Smruti Damushte",
             "email": "smrutidamushte@gmail.com",
             "password": "smrutidamushte",
-            "role": "s"
+            "role": "s",
+"isConfirmed": true
         },
         {
             "name": "Palina Karpovich",
             "email": "palinakarpovich@gmail.com",
             "password": "palinakarpovich",
-            "role": "s"
+            "role": "s",
+"isConfirmed": true
         },
         {
             "name": "Smita Verma",
             "email": "smitaverma@gmail.com",
             "password": "smitaverma",
-            "role": "s"
+            "role": "s",
+"isConfirmed": true
         },
         {
             "name": "Venkatasivaram Surampudy",
             "email": "venkatasivaramsurampudy@gmail.com",
             "password": "venkatasivaramsurampudy",
-            "role": "s"
+            "role": "s",
+"isConfirmed": true
         },
         {
             "name": "NG CHONG HERNG",
             "email": "ngchongherng@gmail.com",
             "password": "ngchongherng",
-            "role": "s"
+            "role": "s",
+"isConfirmed": true
         },
         {
             "name": "ANG HIAP SENG",
             "email": "anghiapseng@gmail.com",
             "password": "anghiapseng",
-            "role": "s"
+            "role": "s",
+"isConfirmed": true
         },
         {
             "name": "Mahalakshmi M",
             "email": "mahalakshmim@gmail.com",
             "password": "mahalakshmim",
-            "role": "s"
+            "role": "s",
+"isConfirmed": true
         },
         {
             "name": "Mohammed Siraj",
             "email": "mohammedsiraj@gmail.com",
             "password": "mohammedsiraj",
-            "role": "s"
+            "role": "s",
+"isConfirmed": true
         },
         {
             "name": "LIM YONG HUI, RAYMOND",
             "email": "limyonghui,raymond@gmail.com",
             "password": "limyonghui,raymond",
-            "role": "s"
+            "role": "s",
+"isConfirmed": true
         },
         {
             "name": "Animesh Singhal",
             "email": "animeshsinghal@gmail.com",
             "password": "animeshsinghal",
-            "role": "s"
+            "role": "s",
+"isConfirmed": true
         },
         {
             "name": "Shreeraj Nair",
             "email": "shreerajnair@gmail.com",
             "password": "shreerajnair",
-            "role": "s"
+            "role": "s",
+"isConfirmed": true
         }
     ],
     "instructor": {
@@ -146,6 +158,7 @@
         "email": "davidvalentine@gmail.com",
         "password": "davidvalentine",
         "role": "i",
+"isConfirmed": true,
         "briefIntroduction": "<p>Mr. David Valentine is an decorated Enterprise Architect with over&nbsp;seventeen years of experience in enterprise computing environments.&nbsp; He currently works for the Province of Manitoba, in Canada where he is a responsible for the architecture of the Server and Mainframe compute environment.&nbsp; </p>\n<p>Mr. Valentine has a passion for Data Science, Computer Science, Machine Learning and Data Science.&nbsp; As the \"Backyard Data Scientist\", he bring his experience and ability to simplify challenging technical topics to Data Science.&nbsp; He's delighted to offer the world his first course on the Udemy platform, \"Machine Learning for Data Science\"</p>"
     }
 }

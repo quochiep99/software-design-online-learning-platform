@@ -6,7 +6,7 @@
     "course": {
         "title": "Unreal Engine 4: The Complete Beginner's Course",
         "subtitle": "Learn Video Game Development & How To Design a Game From Scratch Using UE4",
-        "descriptions": [],
+        "descriptions":  "",
         "reviews": [],
         "students": [],
         "image1xURL": "https://img-a.udemycdn.com/course/240x135/660600_39b2_3.jpg",
@@ -15,7 +15,7 @@
         "discountPrice": 11.99,
         "originalPrice": 129.99,
         "numViews": 0,
-        "curriculum": []
+        "curriculum": {}
     },
     "reviews": [
         {
@@ -72,73 +72,85 @@
             "name": "Āditya Gaurānga",
             "email": "ādityagaurānga@gmail.com",
             "password": "ādityagaurānga",
-            "role": "s"
+            "role": "s",
+"isConfirmed": true
         },
         {
             "name": "Vincent Riberdy",
             "email": "vincentriberdy@gmail.com",
             "password": "vincentriberdy",
-            "role": "s"
+            "role": "s",
+"isConfirmed": true
         },
         {
             "name": "Riccardo Tolli",
             "email": "riccardotolli@gmail.com",
             "password": "riccardotolli",
-            "role": "s"
+            "role": "s",
+"isConfirmed": true
         },
         {
             "name": "Konsta Kirkkola",
             "email": "konstakirkkola@gmail.com",
             "password": "konstakirkkola",
-            "role": "s"
+            "role": "s",
+"isConfirmed": true
         },
         {
             "name": "Bradley Shroyer",
             "email": "bradleyshroyer@gmail.com",
             "password": "bradleyshroyer",
-            "role": "s"
+            "role": "s",
+"isConfirmed": true
         },
         {
             "name": "Clay Richey",
             "email": "clayrichey@gmail.com",
             "password": "clayrichey",
-            "role": "s"
+            "role": "s",
+"isConfirmed": true
         },
         {
             "name": "Paweł Adamczyk",
             "email": "paweładamczyk@gmail.com",
             "password": "paweładamczyk",
-            "role": "s"
+            "role": "s",
+"isConfirmed": true
         },
         {
             "name": "Nicholas Deleff",
             "email": "nicholasdeleff@gmail.com",
             "password": "nicholasdeleff",
-            "role": "s"
+            "role": "s",
+"isConfirmed": true
         },
         {
             "name": "Kermo Pukk",
             "email": "kermopukk@gmail.com",
             "password": "kermopukk",
-            "role": "s"
+            "role": "s",
+"isConfirmed": true
         },
         {
             "name": "Tony Mbatia",
             "email": "tonymbatia@gmail.com",
             "password": "tonymbatia",
-            "role": "s"
+            "role": "s",
+"isConfirmed": true
         },
         {
             "name": "Ray Miecznikowski",
             "email": "raymiecznikowski@gmail.com",
             "password": "raymiecznikowski",
-            "role": "s"
+            "role": "s",
+"isConfirmed": true
         },
         {
             "name": "Dustin",
             "email": "dustin@gmail.com",
             "password": "dustin",
-            "role": "s"
+            "role": "s",
+"isConfirmed": true
         }
     ],
     "instructor": {
@@ -146,6 +158,7 @@
         "email": "davidnixon@gmail.com",
         "password": "davidnixon",
         "role": "i",
+"isConfirmed": true,
         "briefIntroduction": "<p>David Nixon is a professional software developer and amateur game developer who holds a degree in Computer Science from Florida Atlantic University. He started his career developing websites and providing SEO services for companies nationwide. He then dove into the world of mobile gaming, developing the game Puzzlers. Recently, he worked as a web developer for a major SaaS company.</p>"
     }
 }

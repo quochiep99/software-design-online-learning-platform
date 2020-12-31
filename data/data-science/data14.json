@@ -6,7 +6,7 @@
     "course": {
         "title": "Taming Big Data with Apache Spark and Python - Hands On!",
         "subtitle": "Apache Spark tutorial with 20+ hands-on examples of analyzing large data sets on your desktop or on Hadoop with Python!",
-        "descriptions": [],
+        "descriptions":  "",
         "reviews": [],
         "students": [],
         "image1xURL": "https://img-a.udemycdn.com/course/240x135/622414_03f5_4.jpg",
@@ -15,7 +15,7 @@
         "discountPrice": 11.99,
         "originalPrice": 129.99,
         "numViews": 0,
-        "curriculum": []
+        "curriculum": {}
     },
     "reviews": [
         {
@@ -72,73 +72,85 @@
             "name": "Jose Mari Escalante",
             "email": "josemariescalante@gmail.com",
             "password": "josemariescalante",
-            "role": "s"
+            "role": "s",
+"isConfirmed": true
         },
         {
             "name": "Cyrus Tata",
             "email": "cyrustata@gmail.com",
             "password": "cyrustata",
-            "role": "s"
+            "role": "s",
+"isConfirmed": true
         },
         {
             "name": "Sanket Sandesh Shahane",
             "email": "sanketsandeshshahane@gmail.com",
             "password": "sanketsandeshshahane",
-            "role": "s"
+            "role": "s",
+"isConfirmed": true
         },
         {
             "name": "Simeon",
             "email": "simeon@gmail.com",
             "password": "simeon",
-            "role": "s"
+            "role": "s",
+"isConfirmed": true
         },
         {
             "name": "Nassir Woumer",
             "email": "nassirwoumer@gmail.com",
             "password": "nassirwoumer",
-            "role": "s"
+            "role": "s",
+"isConfirmed": true
         },
         {
             "name": "Sudesh Rattu",
             "email": "sudeshrattu@gmail.com",
             "password": "sudeshrattu",
-            "role": "s"
+            "role": "s",
+"isConfirmed": true
         },
         {
             "name": "Ashay Shingode",
             "email": "ashayshingode@gmail.com",
             "password": "ashayshingode",
-            "role": "s"
+            "role": "s",
+"isConfirmed": true
         },
         {
             "name": "Ashna jindal",
             "email": "ashnajindal@gmail.com",
             "password": "ashnajindal",
-            "role": "s"
+            "role": "s",
+"isConfirmed": true
         },
         {
             "name": "Shakun Nag",
             "email": "shakunnag@gmail.com",
             "password": "shakunnag",
-            "role": "s"
+            "role": "s",
+"isConfirmed": true
         },
         {
             "name": "Shivaprasad Patil",
             "email": "shivaprasadpatil@gmail.com",
             "password": "shivaprasadpatil",
-            "role": "s"
+            "role": "s",
+"isConfirmed": true
         },
         {
             "name": "Emmanuel",
             "email": "emmanuel@gmail.com",
             "password": "emmanuel",
-            "role": "s"
+            "role": "s",
+"isConfirmed": true
         },
         {
             "name": "Yunshu Liu",
             "email": "yunshuliu@gmail.com",
             "password": "yunshuliu",
-            "role": "s"
+            "role": "s",
+"isConfirmed": true
         }
     ],
     "instructor": {
@@ -146,6 +158,7 @@
         "email": "sundogeducationbyfrankkane@gmail.com",
         "password": "sundogeducationbyfrankkane",
         "role": "i",
+"isConfirmed": true,
         "briefIntroduction": "<p>Sundog Education's mission is to make highly valuable career skills in <strong>big data, data science, and machine learning</strong> accessible to everyone in the world. Our consortium of expert instructors shares our knowledge in these emerging fields with you, at prices anyone can afford.&nbsp;</p><p>Sundog Education is led by Frank Kane and owned by Frank's company, Sundog Software LLC.&nbsp;Frank spent 9 years at <strong>Amazon</strong> and <strong>IMDb</strong>, developing and managing the technology that automatically delivers product and movie recommendations to hundreds of millions of customers, all the time. Frank holds <strong>17 issued patents</strong> in the fields of <strong>distributed computing</strong>, <strong>data mining</strong>, and <strong>machine learning</strong>. In 2012, Frank left to start his own successful company, Sundog Software, which focuses on virtual reality environment technology, and teaching others about big data analysis.</p><p><strong>Due to our volume of students we are unable to respond to private messages; please post your questions within the Q&amp;A of your course. Thanks for understanding.</strong></p>"
     }
 }

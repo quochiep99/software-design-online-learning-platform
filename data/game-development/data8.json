@@ -6,7 +6,7 @@
     "course": {
         "title": "Unreal Engine 4 Mastery: Create Multiplayer Games with C++",
         "subtitle": "Unleash the power of C++ and Blueprint to develop Multiplayer Games with AI in this Epic Games-approved course.",
-        "descriptions": [],
+        "descriptions":  "",
         "reviews": [],
         "students": [],
         "image1xURL": "https://img-a.udemycdn.com/course/240x135/1334868_f4f7_10.jpg",
@@ -15,7 +15,7 @@
         "discountPrice": 11.99,
         "originalPrice": 129.99,
         "numViews": 0,
-        "curriculum": []
+        "curriculum": {}
     },
     "reviews": [
         {
@@ -72,73 +72,85 @@
             "name": "Sander Liivandi",
             "email": "sanderliivandi@gmail.com",
             "password": "sanderliivandi",
-            "role": "s"
+            "role": "s",
+"isConfirmed": true
         },
         {
             "name": "Muhammad Asad",
             "email": "muhammadasad@gmail.com",
             "password": "muhammadasad",
-            "role": "s"
+            "role": "s",
+"isConfirmed": true
         },
         {
             "name": "Harsh Jalutharia",
             "email": "harshjalutharia@gmail.com",
             "password": "harshjalutharia",
-            "role": "s"
+            "role": "s",
+"isConfirmed": true
         },
         {
             "name": "Kieran Latham",
             "email": "kieranlatham@gmail.com",
             "password": "kieranlatham",
-            "role": "s"
+            "role": "s",
+"isConfirmed": true
         },
         {
             "name": "Levan Phirtskhalava",
             "email": "levanphirtskhalava@gmail.com",
             "password": "levanphirtskhalava",
-            "role": "s"
+            "role": "s",
+"isConfirmed": true
         },
         {
             "name": "Chris Hall",
             "email": "chrishall@gmail.com",
             "password": "chrishall",
-            "role": "s"
+            "role": "s",
+"isConfirmed": true
         },
         {
             "name": "Raed Abbas",
             "email": "raedabbas@gmail.com",
             "password": "raedabbas",
-            "role": "s"
+            "role": "s",
+"isConfirmed": true
         },
         {
             "name": "M I",
             "email": "mi@gmail.com",
             "password": "mi",
-            "role": "s"
+            "role": "s",
+"isConfirmed": true
         },
         {
             "name": "Drew",
             "email": "drew@gmail.com",
             "password": "drew",
-            "role": "s"
+            "role": "s",
+"isConfirmed": true
         },
         {
             "name": "Davide Tucci",
             "email": "davidetucci@gmail.com",
             "password": "davidetucci",
-            "role": "s"
+            "role": "s",
+"isConfirmed": true
         },
         {
             "name": "Cristian Fernández Suárez",
             "email": "cristianfernándezsuárez@gmail.com",
             "password": "cristianfernándezsuárez",
-            "role": "s"
+            "role": "s",
+"isConfirmed": true
         },
         {
             "name": "Kieran Grist",
             "email": "kierangrist@gmail.com",
             "password": "kierangrist",
-            "role": "s"
+            "role": "s",
+"isConfirmed": true
         }
     ],
     "instructor": {
@@ -146,6 +158,7 @@
         "email": "tomlooman@gmail.com",
         "password": "tomlooman",
         "role": "i",
+"isConfirmed": true,
         "briefIntroduction": "<p>Hi, my name is Tom. I'm a game developer who has worked with Unreal Engine 4 since day 1, both as an indie developer and as an engineer at Epic Games, the creators of Unreal Engine 4! Over the years I <strong>created 70+ tutorials and samples</strong> for the Unreal Engine community!<br></p><p>Through my courses I hope to teach you some of what I learned over the years and help you get started building your very own games! I enjoy explaining concepts by going hands-on and showing by example. I’m passionate about taking seemingly difficult concepts and boiling them down into simple to follow guides. My goal is to make game development approachable to anyone who is willing to learn. </p><p>Besides teaching and writing about games, I work on games every day, which keeps me up-to-date on Unreal Engine 4, C++, and the game creation process. I learn new things every day, which I then apply to my courses. </p><p><strong>Join me on this game development adventure, and I hope to&nbsp;see you in one of my courses!</strong></p><p><br></p>"
     }
 }

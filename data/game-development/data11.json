@@ -6,7 +6,7 @@
     "course": {
         "title": "Discovering Godot: Make Video Games in Python-like GDScript",
         "subtitle": "Game development with Godot Engine 3.1 :: Learn to code in Python-like GDScript",
-        "descriptions": [],
+        "descriptions":  "",
         "reviews": [],
         "students": [],
         "image1xURL": "https://img-a.udemycdn.com/course/240x135/1647296_44da_3.jpg",
@@ -15,7 +15,7 @@
         "discountPrice": 11.99,
         "originalPrice": 99.99,
         "numViews": 0,
-        "curriculum": []
+        "curriculum": {}
     },
     "reviews": [
         {
@@ -72,115 +72,134 @@
             "name": "Adrian Connolly",
             "email": "adrianconnolly@gmail.com",
             "password": "adrianconnolly",
-            "role": "s"
+            "role": "s",
+"isConfirmed": true
         },
         {
             "name": "James Morris",
             "email": "jamesmorris@gmail.com",
             "password": "jamesmorris",
-            "role": "s"
+            "role": "s",
+"isConfirmed": true
         },
         {
             "name": "GameDev.tv Team",
             "email": "gamedev.tvteam@gmail.com",
             "password": "gamedev.tvteam",
-            "role": "s"
+            "role": "s",
+"isConfirmed": true
         },
         {
             "name": "Gasob Yakumo",
             "email": "gasobyakumo@gmail.com",
             "password": "gasobyakumo",
-            "role": "s"
+            "role": "s",
+"isConfirmed": true
         },
         {
             "name": "GameDev.tv Team",
             "email": "gamedev.tvteam@gmail.com",
             "password": "gamedev.tvteam",
-            "role": "s"
+            "role": "s",
+"isConfirmed": true
         },
         {
             "name": "Matteo Crielesi",
             "email": "matteocrielesi@gmail.com",
             "password": "matteocrielesi",
-            "role": "s"
+            "role": "s",
+"isConfirmed": true
         },
         {
             "name": "GameDev.tv Team",
             "email": "gamedev.tvteam@gmail.com",
             "password": "gamedev.tvteam",
-            "role": "s"
+            "role": "s",
+"isConfirmed": true
         },
         {
             "name": "Rod Hall",
             "email": "rodhall@gmail.com",
             "password": "rodhall",
-            "role": "s"
+            "role": "s",
+"isConfirmed": true
         },
         {
             "name": "Alejandro Saucedo",
             "email": "alejandrosaucedo@gmail.com",
             "password": "alejandrosaucedo",
-            "role": "s"
+            "role": "s",
+"isConfirmed": true
         },
         {
             "name": "Roberta Nagy",
             "email": "robertanagy@gmail.com",
             "password": "robertanagy",
-            "role": "s"
+            "role": "s",
+"isConfirmed": true
         },
         {
             "name": "GameDev.tv Team",
             "email": "gamedev.tvteam@gmail.com",
             "password": "gamedev.tvteam",
-            "role": "s"
+            "role": "s",
+"isConfirmed": true
         },
         {
             "name": "Pedro Balleroni",
             "email": "pedroballeroni@gmail.com",
             "password": "pedroballeroni",
-            "role": "s"
+            "role": "s",
+"isConfirmed": true
         },
         {
             "name": "Cristian",
             "email": "cristian@gmail.com",
             "password": "cristian",
-            "role": "s"
+            "role": "s",
+"isConfirmed": true
         },
         {
             "name": "Ben Tristem",
             "email": "bentristem@gmail.com",
             "password": "bentristem",
-            "role": "s"
+            "role": "s",
+"isConfirmed": true
         },
         {
             "name": "Tyler Connor",
             "email": "tylerconnor@gmail.com",
             "password": "tylerconnor",
-            "role": "s"
+            "role": "s",
+"isConfirmed": true
         },
         {
             "name": "Ben Tristem",
             "email": "bentristem@gmail.com",
             "password": "bentristem",
-            "role": "s"
+            "role": "s",
+"isConfirmed": true
         },
         {
             "name": "Aji Mustofa",
             "email": "ajimustofa@gmail.com",
             "password": "ajimustofa",
-            "role": "s"
+            "role": "s",
+"isConfirmed": true
         },
         {
             "name": "Mario Dupuis",
             "email": "mariodupuis@gmail.com",
             "password": "mariodupuis",
-            "role": "s"
+            "role": "s",
+"isConfirmed": true
         },
         {
             "name": "GameDev.tv Team",
             "email": "gamedev.tvteam@gmail.com",
             "password": "gamedev.tvteam",
-            "role": "s"
+            "role": "s",
+"isConfirmed": true
         }
     ],
     "instructor": {
@@ -188,6 +207,7 @@
         "email": "bentristem@gmail.com",
         "password": "bentristem",
         "role": "i",
+"isConfirmed": true,
         "briefIntroduction": "<p>Hi, I'm Ben. I have a degree in computing from Imperial College London, and a physics diploma from the Open University.&nbsp; </p><p>I started working for myself at the age of 15, and never looked back. I explored careers as varied as being a commercial pilot, stunt-man, rock climbing instructor, and more. None of these provided a continued challenge, and stable income in the same way technology does.&nbsp; </p><p>After building and selling a home computer support business, I became an angel investor and business mentor here in Cambridge UK. I fell in love with teaching game development through one of my investments, and I now spend all of my time sharing my passion with people like you.&nbsp; </p><p>I can't wait to help you experience the fulfilment, and financial freedom, that having a deep understanding of technology brings.&nbsp; </p><p>So why not start learning to make games with me and my team now? </p><p>See you soon!&nbsp; </p><p>Ben</p>"
     }
 }

@@ -6,7 +6,7 @@
     "course": {
         "title": "NodeJS - The Complete Guide (MVC, REST APIs, GraphQL, Deno)",
         "subtitle": "Master Node JS & Deno.js, build REST APIs with Node.js, GraphQL APIs, add Authentication, use MongoDB, SQL & much more!",
-        "descriptions": [],
+        "descriptions":  "",
         "reviews": [],
         "students": [],
         "image1xURL": "https://img-a.udemycdn.com/course/240x135/1879018_95b6_2.jpg",
@@ -15,7 +15,7 @@
         "discountPrice": 11.99,
         "originalPrice": 129.99,
         "numViews": 0,
-        "curriculum": []
+        "curriculum": {}
     },
     "reviews": [
         {
@@ -72,79 +72,92 @@
             "name": "Charles",
             "email": "charles@gmail.com",
             "password": "charles",
-            "role": "s"
+            "role": "s",
+"isConfirmed": true
         },
         {
             "name": "Miłosz Radzyński",
             "email": "miłoszradzyński@gmail.com",
             "password": "miłoszradzyński",
-            "role": "s"
+            "role": "s",
+"isConfirmed": true
         },
         {
             "name": "Minesh Thakrar",
             "email": "mineshthakrar@gmail.com",
             "password": "mineshthakrar",
-            "role": "s"
+            "role": "s",
+"isConfirmed": true
         },
         {
             "name": "Ravi Shankar",
             "email": "ravishankar@gmail.com",
             "password": "ravishankar",
-            "role": "s"
+            "role": "s",
+"isConfirmed": true
         },
         {
             "name": "Mukesh Gupta",
             "email": "mukeshgupta@gmail.com",
             "password": "mukeshgupta",
-            "role": "s"
+            "role": "s",
+"isConfirmed": true
         },
         {
             "name": "Martim Lima",
             "email": "martimlima@gmail.com",
             "password": "martimlima",
-            "role": "s"
+            "role": "s",
+"isConfirmed": true
         },
         {
             "name": "Minh Trinh",
             "email": "minhtrinh@gmail.com",
             "password": "minhtrinh",
-            "role": "s"
+            "role": "s",
+"isConfirmed": true
         },
         {
             "name": "Birpal Singh",
             "email": "birpalsingh@gmail.com",
             "password": "birpalsingh",
-            "role": "s"
+            "role": "s",
+"isConfirmed": true
         },
         {
             "name": "Sudarshan Gosavi",
             "email": "sudarshangosavi@gmail.com",
             "password": "sudarshangosavi",
-            "role": "s"
+            "role": "s",
+"isConfirmed": true
         },
         {
             "name": "Talya Flowers",
             "email": "talyaflowers@gmail.com",
             "password": "talyaflowers",
-            "role": "s"
+            "role": "s",
+"isConfirmed": true
         },
         {
             "name": "Maximilian Schwarzmüller",
             "email": "maximilianschwarzmüller@gmail.com",
             "password": "maximilianschwarzmüller",
-            "role": "s"
+            "role": "s",
+"isConfirmed": true
         },
         {
             "name": "Aman Latkar",
             "email": "amanlatkar@gmail.com",
             "password": "amanlatkar",
-            "role": "s"
+            "role": "s",
+"isConfirmed": true
         },
         {
             "name": "Abdullah Shahin",
             "email": "abdullahshahin@gmail.com",
             "password": "abdullahshahin",
-            "role": "s"
+            "role": "s",
+"isConfirmed": true
         }
     ],
     "instructor": {
@@ -152,6 +165,7 @@
         "email": "academindbymaximilianschwarzmüller@gmail.com",
         "password": "academindbymaximilianschwarzmüller",
         "role": "i",
+"isConfirmed": true,
         "briefIntroduction": "<p>Bundling the courses and know how of successful instructors, Academind strives to deliver high quality online education.&nbsp;</p>\n\n<p>Online Education, Real-Life Success - that's what Academind stands for. Learn topics like web development, data analyses and more in a fun and engaging way.</p>\n\n\n\n\n\n\n\n<p>Currently, you can find courses published by Maximilian Schwarzmüller and Manuel Lorenz, more instructors to come!</p>\n\n\n\n\n\n\n\n<p>Keep learning!</p>"
     }
 }

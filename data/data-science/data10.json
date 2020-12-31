@@ -6,7 +6,7 @@
     "course": {
         "title": "Artificial Intelligence A-Z™: Learn How To Build An AI",
         "subtitle": "Combine the power of Data Science, Machine Learning and Deep Learning to create powerful AI for Real-World applications!",
-        "descriptions": [],
+        "descriptions": "",
         "reviews": [],
         "students": [],
         "image1xURL": "https://img-b.udemycdn.com/course/240x135/1219332_bdd7.jpg",
@@ -15,7 +15,7 @@
         "discountPrice": 11.99,
         "originalPrice": 129.99,
         "numViews": 0,
-        "curriculum": []
+        "curriculum": {}
     },
     "reviews": [
         {
@@ -72,73 +72,85 @@
             "name": "Lerato Mable Mashamaite",
             "email": "leratomablemashamaite@gmail.com",
             "password": "leratomablemashamaite",
-            "role": "s"
+            "role": "s",
+            "isConfirmed": true
         },
         {
             "name": "Harish Ragavendra",
             "email": "harishragavendra@gmail.com",
             "password": "harishragavendra",
-            "role": "s"
+            "role": "s",
+            "isConfirmed": true
         },
         {
             "name": "Louis Smith",
             "email": "louissmith@gmail.com",
             "password": "louissmith",
-            "role": "s"
+            "role": "s",
+            "isConfirmed": true
         },
         {
             "name": "Denis Noah",
             "email": "denisnoah@gmail.com",
             "password": "denisnoah",
-            "role": "s"
+            "role": "s",
+            "isConfirmed": true
         },
         {
             "name": "Sheereen Kallivalappil",
             "email": "sheereenkallivalappil@gmail.com",
             "password": "sheereenkallivalappil",
-            "role": "s"
+            "role": "s",
+            "isConfirmed": true
         },
         {
             "name": "Kishore Kumar R",
             "email": "kishorekumarr@gmail.com",
             "password": "kishorekumarr",
-            "role": "s"
+            "role": "s",
+            "isConfirmed": true
         },
         {
             "name": "Rodolph Sanon",
             "email": "rodolphsanon@gmail.com",
             "password": "rodolphsanon",
-            "role": "s"
+            "role": "s",
+            "isConfirmed": true
         },
         {
             "name": "Shivam Sahil",
             "email": "shivamsahil@gmail.com",
             "password": "shivamsahil",
-            "role": "s"
+            "role": "s",
+            "isConfirmed": true
         },
         {
             "name": "Rushikesh Hadole",
             "email": "rushikeshhadole@gmail.com",
             "password": "rushikeshhadole",
-            "role": "s"
+            "role": "s",
+            "isConfirmed": true
         },
         {
             "name": "Youping Zhang",
             "email": "youpingzhang@gmail.com",
             "password": "youpingzhang",
-            "role": "s"
+            "role": "s",
+            "isConfirmed": true
         },
         {
             "name": "Sias Combrinck",
             "email": "siascombrinck@gmail.com",
             "password": "siascombrinck",
-            "role": "s"
+            "role": "s",
+            "isConfirmed": true
         },
         {
             "name": "Wbert Castro Vera",
             "email": "wbertcastrovera@gmail.com",
             "password": "wbertcastrovera",
-            "role": "s"
+            "role": "s",
+            "isConfirmed": true
         }
     ],
     "instructor": {
@@ -146,6 +158,7 @@
         "email": "hadelindeponteves@gmail.com",
         "password": "hadelindeponteves",
         "role": "i",
+"isConfirmed": true,
         "briefIntroduction": "<p>Hadelin is the co-founder and CEO at BlueLife AI, which leverages the power of cutting edge Artificial Intelligence to empower businesses to make massive profits by innovating, automating processes and maximizing efficiency. Hadelin is also an online entrepreneur who has created 70+ top-rated educational e-courses to the world on topics such as Machine Learning, Deep Learning, Artificial Intelligence and Blockchain, which have reached 1M+ students in 210 countries.</p>"
     }
 }

@@ -6,7 +6,7 @@
     "course": {
         "title": "Xamarin Forms: Build Native Cross-platform Apps with C#",
         "subtitle": "Learn to build native mobile apps for Android, iOS and Windows using your existing C# skills",
-        "descriptions": [],
+        "descriptions":  "",
         "reviews": [],
         "students": [],
         "image1xURL": "https://img-a.udemycdn.com/course/240x135/951684_9c1a_2.jpg",
@@ -15,7 +15,7 @@
         "discountPrice": 11.99,
         "originalPrice": 129.99,
         "numViews": 0,
-        "curriculum": []
+        "curriculum": {}
     },
     "reviews": [
         {
@@ -72,73 +72,85 @@
             "name": "Devubha Manek",
             "email": "devubhamanek@gmail.com",
             "password": "devubhamanek",
-            "role": "s"
+            "role": "s",
+"isConfirmed": true
         },
         {
             "name": "KaRon Scott",
             "email": "karonscott@gmail.com",
             "password": "karonscott",
-            "role": "s"
+            "role": "s",
+"isConfirmed": true
         },
         {
             "name": "Anil K",
             "email": "anilk@gmail.com",
             "password": "anilk",
-            "role": "s"
+            "role": "s",
+"isConfirmed": true
         },
         {
             "name": "Abigail",
             "email": "abigail@gmail.com",
             "password": "abigail",
-            "role": "s"
+            "role": "s",
+"isConfirmed": true
         },
         {
             "name": "Vikas Sharma",
             "email": "vikassharma@gmail.com",
             "password": "vikassharma",
-            "role": "s"
+            "role": "s",
+"isConfirmed": true
         },
         {
             "name": "Ondřej Man",
             "email": "ondřejman@gmail.com",
             "password": "ondřejman",
-            "role": "s"
+            "role": "s",
+"isConfirmed": true
         },
         {
             "name": "Paulo Augusto Sovienski",
             "email": "pauloaugustosovienski@gmail.com",
             "password": "pauloaugustosovienski",
-            "role": "s"
+            "role": "s",
+"isConfirmed": true
         },
         {
             "name": "Abdoulie Tamba",
             "email": "abdoulietamba@gmail.com",
             "password": "abdoulietamba",
-            "role": "s"
+            "role": "s",
+"isConfirmed": true
         },
         {
             "name": "Abhishek Drolia",
             "email": "abhishekdrolia@gmail.com",
             "password": "abhishekdrolia",
-            "role": "s"
+            "role": "s",
+"isConfirmed": true
         },
         {
             "name": "Rayan Ralile",
             "email": "rayanralile@gmail.com",
             "password": "rayanralile",
-            "role": "s"
+            "role": "s",
+"isConfirmed": true
         },
         {
             "name": "Polibio Lins Costa Neto",
             "email": "polibiolinscostaneto@gmail.com",
             "password": "polibiolinscostaneto",
-            "role": "s"
+            "role": "s",
+"isConfirmed": true
         },
         {
             "name": "Sandrine Burdairon",
             "email": "sandrineburdairon@gmail.com",
             "password": "sandrineburdairon",
-            "role": "s"
+            "role": "s",
+"isConfirmed": true
         }
     ],
     "instructor": {
@@ -146,6 +158,7 @@
         "email": "moshhamedani@gmail.com",
         "password": "moshhamedani",
         "role": "i",
+"isConfirmed": true,
         "briefIntroduction": "<p>Hi!&nbsp;My name is Mosh (Moshfegh)&nbsp;Hamedani! I'm a passionate software engineer with two decades of experience and I've taught over 3 million people who to code or how to become professional software engineers through my YouTube channel and online courses. </p><p>My goal is to make software engineering fun and accessible to everyone. That's why my courses are simple, pragmatic and free of BS. </p>"
     }
 }

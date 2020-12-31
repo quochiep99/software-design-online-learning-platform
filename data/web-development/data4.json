@@ -6,7 +6,7 @@
     "course": {
         "title": "The Complete JavaScript Course 2020: From Zero to Expert!",
         "subtitle": "The modern JavaScript course for everyone! Master JavaScript with projects, challenges and theory. Many courses in one!",
-        "descriptions": [],
+        "descriptions":  "",
         "reviews": [],
         "students": [],
         "image1xURL": "https://img-a.udemycdn.com/course/240x135/851712_fc61_6.jpg",
@@ -15,7 +15,7 @@
         "discountPrice": 11.99,
         "originalPrice": 129.99,
         "numViews": 0,
-        "curriculum": []
+        "curriculum": {}
     },
     "reviews": [
         {
@@ -72,73 +72,85 @@
             "name": "Aakash",
             "email": "aakash@gmail.com",
             "password": "aakash",
-            "role": "s"
+            "role": "s",
+"isConfirmed": true
         },
         {
             "name": "Shashank Jain",
             "email": "shashankjain@gmail.com",
             "password": "shashankjain",
-            "role": "s"
+            "role": "s",
+"isConfirmed": true
         },
         {
             "name": "Sahil Pathania",
             "email": "sahilpathania@gmail.com",
             "password": "sahilpathania",
-            "role": "s"
+            "role": "s",
+"isConfirmed": true
         },
         {
             "name": "Learning Development",
             "email": "learningdevelopment@gmail.com",
             "password": "learningdevelopment",
-            "role": "s"
+            "role": "s",
+"isConfirmed": true
         },
         {
             "name": "Kundan Thakur",
             "email": "kundanthakur@gmail.com",
             "password": "kundanthakur",
-            "role": "s"
+            "role": "s",
+"isConfirmed": true
         },
         {
             "name": "Medlife Dev",
             "email": "medlifedev@gmail.com",
             "password": "medlifedev",
-            "role": "s"
+            "role": "s",
+"isConfirmed": true
         },
         {
             "name": "Mounir Belhniyene",
             "email": "mounirbelhniyene@gmail.com",
             "password": "mounirbelhniyene",
-            "role": "s"
+            "role": "s",
+"isConfirmed": true
         },
         {
             "name": "Rainer Nocos",
             "email": "rainernocos@gmail.com",
             "password": "rainernocos",
-            "role": "s"
+            "role": "s",
+"isConfirmed": true
         },
         {
             "name": "Daniel Tanyi",
             "email": "danieltanyi@gmail.com",
             "password": "danieltanyi",
-            "role": "s"
+            "role": "s",
+"isConfirmed": true
         },
         {
             "name": "Chimebere Madukwe",
             "email": "chimeberemadukwe@gmail.com",
             "password": "chimeberemadukwe",
-            "role": "s"
+            "role": "s",
+"isConfirmed": true
         },
         {
             "name": "Sartaj Faizi",
             "email": "sartajfaizi@gmail.com",
             "password": "sartajfaizi",
-            "role": "s"
+            "role": "s",
+"isConfirmed": true
         },
         {
             "name": "Angella Mabwe",
             "email": "angellamabwe@gmail.com",
             "password": "angellamabwe",
-            "role": "s"
+            "role": "s",
+"isConfirmed": true
         }
     ],
     "instructor": {
@@ -146,6 +158,7 @@
         "email": "jonasschmedtmann@gmail.com",
         "password": "jonasschmedtmann",
         "role": "i",
+"isConfirmed": true,
         "briefIntroduction": "<p>Hi, I'm Jonas! I have been identified as one of Udemy's Top Instructors and all my premium courses have recently earned the best-selling status for outstanding performance and student satisfaction.</p><p>I'm a full-stack web developer and designer with a passion for building beautiful things from scratch. I've been building websites and apps since 2007 and also have a Master's degree in Engineering.</p><p>It was in college where I first discovered my passion for teaching and helping others by sharing all I knew. And that passion brought me to Udemy in 2015, where my students love the fact that I take the time to explain important concepts in a way that everyone can easily understand.</p><p><strong><em>Do you want to learn how to build awesome websites with advanced HTML&nbsp;and CSS?</em></strong></p><p><strong><em>Looking for a complete JavaScript course that takes you from beginner to advanced developer?</em></strong></p><p><strong><em>Or maybe you want to build modern and fast back-end applications with Node.js?</em></strong></p><p>Then don't waste your time with random tutorials or incomplete videos. All my courses are easy-to-follow, all-in-one packages that will take your skills to the next level.</p><p><em>These courses are exactly the courses I wish I had when I was first getting into web development!</em></p><p>So see for yourself, enroll in one of my courses (or all of them :D) and join my 500,000+ happy students today.</p>"
     }
 }

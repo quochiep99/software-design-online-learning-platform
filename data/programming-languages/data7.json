@@ -6,7 +6,7 @@
     "course": {
         "title": "Spring & Hibernate for Beginners (includes Spring Boot)",
         "subtitle": "Spring 5: Learn Spring 5 Core, AOP, Spring MVC, Spring Security, Spring REST, Spring Boot 2, Thymeleaf, JPA & Hibernate",
-        "descriptions": [],
+        "descriptions":  "",
         "reviews": [],
         "students": [],
         "image1xURL": "https://img-a.udemycdn.com/course/240x135/647428_be28_6.jpg",
@@ -15,7 +15,7 @@
         "discountPrice": 11.99,
         "originalPrice": 129.99,
         "numViews": 0,
-        "curriculum": []
+        "curriculum": {}
     },
     "reviews": [
         {
@@ -72,73 +72,85 @@
             "name": "Łukasz Czapraga",
             "email": "łukaszczapraga@gmail.com",
             "password": "łukaszczapraga",
-            "role": "s"
+            "role": "s",
+"isConfirmed": true
         },
         {
             "name": "Cosmic Sound",
             "email": "cosmicsound@gmail.com",
             "password": "cosmicsound",
-            "role": "s"
+            "role": "s",
+"isConfirmed": true
         },
         {
             "name": "Kevin Noon",
             "email": "kevinnoon@gmail.com",
             "password": "kevinnoon",
-            "role": "s"
+            "role": "s",
+"isConfirmed": true
         },
         {
             "name": "Rajani",
             "email": "rajani@gmail.com",
             "password": "rajani",
-            "role": "s"
+            "role": "s",
+"isConfirmed": true
         },
         {
             "name": "Varun Sharma",
             "email": "varunsharma@gmail.com",
             "password": "varunsharma",
-            "role": "s"
+            "role": "s",
+"isConfirmed": true
         },
         {
             "name": "Pradeep Panda",
             "email": "pradeeppanda@gmail.com",
             "password": "pradeeppanda",
-            "role": "s"
+            "role": "s",
+"isConfirmed": true
         },
         {
             "name": "Tessa",
             "email": "tessa@gmail.com",
             "password": "tessa",
-            "role": "s"
+            "role": "s",
+"isConfirmed": true
         },
         {
             "name": "Rano Zulfikar",
             "email": "ranozulfikar@gmail.com",
             "password": "ranozulfikar",
-            "role": "s"
+            "role": "s",
+"isConfirmed": true
         },
         {
             "name": "Saddam",
             "email": "saddam@gmail.com",
             "password": "saddam",
-            "role": "s"
+            "role": "s",
+"isConfirmed": true
         },
         {
             "name": "David Clarke",
             "email": "davidclarke@gmail.com",
             "password": "davidclarke",
-            "role": "s"
+            "role": "s",
+"isConfirmed": true
         },
         {
             "name": "Navin",
             "email": "navin@gmail.com",
             "password": "navin",
-            "role": "s"
+            "role": "s",
+"isConfirmed": true
         },
         {
             "name": "Naveen Kumar",
             "email": "naveenkumar@gmail.com",
             "password": "naveenkumar",
-            "role": "s"
+            "role": "s",
+"isConfirmed": true
         }
     ],
     "instructor": {
@@ -146,6 +158,7 @@
         "email": "chaddarby@gmail.com",
         "password": "chaddarby",
         "role": "i",
+"isConfirmed": true,
         "briefIntroduction": "<p>Chád (shod) Darby is an author, instructor and speaker in the Java development world.&nbsp; </p><p>Chád is a contributing author to several Java books, including&nbsp; Professional Java E-Commerce (Wrox Press), Beginning Java Networking&nbsp; (Wrox Press), and XML and Web Services Unleashed (Sams Publishing).&nbsp; </p><p>Chád has Java certifications from Oracle and IBM.&nbsp;</p><p>He holds a B.S. in Computer Science from Carnegie Mellon University.&nbsp; </p>"
     }
 }

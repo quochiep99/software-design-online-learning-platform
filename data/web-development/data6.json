@@ -6,7 +6,7 @@
     "course": {
         "title": "Modern React with Redux [2020 Update]",
         "subtitle": "Master React v16.6.3 and Redux with React Router, Webpack, and Create-React-App. Includes Hooks!",
-        "descriptions": [],
+        "descriptions":  "",
         "reviews": [],
         "students": [],
         "image1xURL": "https://img-a.udemycdn.com/course/240x135/705264_caa9_11.jpg",
@@ -15,7 +15,7 @@
         "discountPrice": 11.99,
         "originalPrice": 129.99,
         "numViews": 0,
-        "curriculum": []
+        "curriculum": {}
     },
     "reviews": [
         {
@@ -72,73 +72,85 @@
             "name": "Strand LS",
             "email": "strandls@gmail.com",
             "password": "strandls",
-            "role": "s"
+            "role": "s",
+"isConfirmed": true
         },
         {
             "name": "Jamaal",
             "email": "jamaal@gmail.com",
             "password": "jamaal",
-            "role": "s"
+            "role": "s",
+"isConfirmed": true
         },
         {
             "name": "Kiran Peramareddy",
             "email": "kiranperamareddy@gmail.com",
             "password": "kiranperamareddy",
-            "role": "s"
+            "role": "s",
+"isConfirmed": true
         },
         {
             "name": "Juan Esteban Lopez Tamayo",
             "email": "juanestebanlopeztamayo@gmail.com",
             "password": "juanestebanlopeztamayo",
-            "role": "s"
+            "role": "s",
+"isConfirmed": true
         },
         {
             "name": "Yuvin Ha",
             "email": "yuvinha@gmail.com",
             "password": "yuvinha",
-            "role": "s"
+            "role": "s",
+"isConfirmed": true
         },
         {
             "name": "Wenting Li",
             "email": "wentingli@gmail.com",
             "password": "wentingli",
-            "role": "s"
+            "role": "s",
+"isConfirmed": true
         },
         {
             "name": "Niall Mahford",
             "email": "niallmahford@gmail.com",
             "password": "niallmahford",
-            "role": "s"
+            "role": "s",
+"isConfirmed": true
         },
         {
             "name": "Kevin Law",
             "email": "kevinlaw@gmail.com",
             "password": "kevinlaw",
-            "role": "s"
+            "role": "s",
+"isConfirmed": true
         },
         {
             "name": "Marjan Ralevski",
             "email": "marjanralevski@gmail.com",
             "password": "marjanralevski",
-            "role": "s"
+            "role": "s",
+"isConfirmed": true
         },
         {
             "name": "Mohammed Salihu Bukar",
             "email": "mohammedsalihubukar@gmail.com",
             "password": "mohammedsalihubukar",
-            "role": "s"
+            "role": "s",
+"isConfirmed": true
         },
         {
             "name": "Angela Paola Garay",
             "email": "angelapaolagaray@gmail.com",
             "password": "angelapaolagaray",
-            "role": "s"
+            "role": "s",
+"isConfirmed": true
         },
         {
             "name": "igor col",
             "email": "igorcol@gmail.com",
             "password": "igorcol",
-            "role": "s"
+            "role": "s",
+"isConfirmed": true
         }
     ],
     "instructor": {
@@ -146,6 +158,7 @@
         "email": "stephengrider@gmail.com",
         "password": "stephengrider",
         "role": "i",
+"isConfirmed": true,
         "briefIntroduction": "<p>Stephen Grider has been building complex Javascript front ends for top corporations in the San Francisco Bay Area.&nbsp; With an innate ability to simplify complex topics, Stephen has been mentoring engineers beginning their careers in software development for years, and has now expanded that experience onto Udemy, authoring the highest rated React course. He&nbsp;teaches on Udemy to share the knowledge he&nbsp;has&nbsp;gained with other software engineers.&nbsp; Invest in yourself by learning from Stephen's published courses.</p>"
     }
 }

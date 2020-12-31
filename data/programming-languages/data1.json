@@ -6,7 +6,7 @@
     "course": {
         "title": "2020 Complete Python Bootcamp From Zero to Hero in Python",
         "subtitle": "Learn Python like a Professional Start from the basics and go all the way to creating your own applications and games",
-        "descriptions": [],
+        "descriptions":  "",
         "reviews": [],
         "students": [],
         "image1xURL": "https://img-b.udemycdn.com/course/240x135/567828_67d0.jpg",
@@ -15,7 +15,7 @@
         "discountPrice": 11.99,
         "originalPrice": 129.99,
         "numViews": 0,
-        "curriculum": []
+        "curriculum": {}
     },
     "reviews": [
         {
@@ -72,73 +72,85 @@
             "name": "Debora Durek",
             "email": "deboradurek@gmail.com",
             "password": "deboradurek",
-            "role": "s"
+            "role": "s",
+"isConfirmed": true
         },
         {
             "name": "MOHAMMED HARES SHAIKH",
             "email": "mohammedharesshaikh@gmail.com",
             "password": "mohammedharesshaikh",
-            "role": "s"
+            "role": "s",
+"isConfirmed": true
         },
         {
             "name": "Flavio Liviero",
             "email": "flavioliviero@gmail.com",
             "password": "flavioliviero",
-            "role": "s"
+            "role": "s",
+"isConfirmed": true
         },
         {
             "name": "Giri Ram A/L Sreeramlu",
             "email": "girirama/lsreeramlu@gmail.com",
             "password": "girirama/lsreeramlu",
-            "role": "s"
+            "role": "s",
+"isConfirmed": true
         },
         {
             "name": "Akhil Krishnakumar",
             "email": "akhilkrishnakumar@gmail.com",
             "password": "akhilkrishnakumar",
-            "role": "s"
+            "role": "s",
+"isConfirmed": true
         },
         {
             "name": "Robert Thompson",
             "email": "robertthompson@gmail.com",
             "password": "robertthompson",
-            "role": "s"
+            "role": "s",
+"isConfirmed": true
         },
         {
             "name": "Pratik Mahajan",
             "email": "pratikmahajan@gmail.com",
             "password": "pratikmahajan",
-            "role": "s"
+            "role": "s",
+"isConfirmed": true
         },
         {
             "name": "Abdul Basit Dost",
             "email": "abdulbasitdost@gmail.com",
             "password": "abdulbasitdost",
-            "role": "s"
+            "role": "s",
+"isConfirmed": true
         },
         {
             "name": "Md Mamunur Rahman",
             "email": "mdmamunurrahman@gmail.com",
             "password": "mdmamunurrahman",
-            "role": "s"
+            "role": "s",
+"isConfirmed": true
         },
         {
             "name": "Dennis Münchehofe",
             "email": "dennismünchehofe@gmail.com",
             "password": "dennismünchehofe",
-            "role": "s"
+            "role": "s",
+"isConfirmed": true
         },
         {
             "name": "Kieran Arul",
             "email": "kieranarul@gmail.com",
             "password": "kieranarul",
-            "role": "s"
+            "role": "s",
+"isConfirmed": true
         },
         {
             "name": "Pradeepakumara K R",
             "email": "pradeepakumarakr@gmail.com",
             "password": "pradeepakumarakr",
-            "role": "s"
+            "role": "s",
+"isConfirmed": true
         }
     ],
     "instructor": {
@@ -146,6 +158,7 @@
         "email": "joseportilla@gmail.com",
         "password": "joseportilla",
         "role": "i",
+"isConfirmed": true,
         "briefIntroduction": "<p>&nbsp; Jose Marcial Portilla has a BS and MS in Mechanical Engineering from Santa Clara University and&nbsp;years of&nbsp;experience as a professional instructor and trainer for Data Science and programming. He has publications and patents in various fields such as microfluidics,&nbsp;materials science, and data science technologies. Over the course of his career he has developed a skill set in analyzing data and he hopes to use his experience in teaching and data science to help other people learn the power of programming the&nbsp;ability to analyze data, as well as present the data in clear and beautiful visualizations. Currently he works as the Head of Data Science for Pierian Data Inc.&nbsp;and provides in-person data science and python programming training courses to employees working at top companies, including General Electric, Cigna, The New York Times, Credit Suisse, McKinsey and many more.&nbsp;Feel free to contact him on LinkedIn for more information on in-person training sessions or group training sessions in Las Vegas, NV.</p>"
     }
 }

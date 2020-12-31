@@ -6,7 +6,7 @@
     "course": {
         "title": "Learn and Understand NodeJS",
         "subtitle": "Dive deep under the hood of NodeJS. Learn V8, Express, the MEAN stack, core Javascript concepts, and more.",
-        "descriptions": [],
+        "descriptions":  "",
         "reviews": [],
         "students": [],
         "image1xURL": "https://img-a.udemycdn.com/course/240x135/461160_8d87_6.jpg",
@@ -15,7 +15,7 @@
         "discountPrice": 11.99,
         "originalPrice": 129.99,
         "numViews": 0,
-        "curriculum": []
+        "curriculum": {}
     },
     "reviews": [
         {
@@ -72,73 +72,85 @@
             "name": "Source Fuse",
             "email": "sourcefuse@gmail.com",
             "password": "sourcefuse",
-            "role": "s"
+            "role": "s",
+"isConfirmed": true
         },
         {
             "name": "Zohar Suslovich",
             "email": "zoharsuslovich@gmail.com",
             "password": "zoharsuslovich",
-            "role": "s"
+            "role": "s",
+"isConfirmed": true
         },
         {
             "name": "Ananda Pratim Sengupta",
             "email": "anandapratimsengupta@gmail.com",
             "password": "anandapratimsengupta",
-            "role": "s"
+            "role": "s",
+"isConfirmed": true
         },
         {
             "name": "Bernhard Paolo Cena",
             "email": "bernhardpaolocena@gmail.com",
             "password": "bernhardpaolocena",
-            "role": "s"
+            "role": "s",
+"isConfirmed": true
         },
         {
             "name": "Lorenzo Granna",
             "email": "lorenzogranna@gmail.com",
             "password": "lorenzogranna",
-            "role": "s"
+            "role": "s",
+"isConfirmed": true
         },
         {
             "name": "Chandra Kiran Narava",
             "email": "chandrakirannarava@gmail.com",
             "password": "chandrakirannarava",
-            "role": "s"
+            "role": "s",
+"isConfirmed": true
         },
         {
             "name": "Vinicius Rodrigues de Moraes",
             "email": "viniciusrodriguesdemoraes@gmail.com",
             "password": "viniciusrodriguesdemoraes",
-            "role": "s"
+            "role": "s",
+"isConfirmed": true
         },
         {
             "name": "Derek LaMeux",
             "email": "dereklameux@gmail.com",
             "password": "dereklameux",
-            "role": "s"
+            "role": "s",
+"isConfirmed": true
         },
         {
             "name": "Harshvardhan Purohit",
             "email": "harshvardhanpurohit@gmail.com",
             "password": "harshvardhanpurohit",
-            "role": "s"
+            "role": "s",
+"isConfirmed": true
         },
         {
             "name": "Jeffrey McIntyre",
             "email": "jeffreymcintyre@gmail.com",
             "password": "jeffreymcintyre",
-            "role": "s"
+            "role": "s",
+"isConfirmed": true
         },
         {
             "name": "Aashinya",
             "email": "aashinya@gmail.com",
             "password": "aashinya",
-            "role": "s"
+            "role": "s",
+"isConfirmed": true
         },
         {
             "name": "Luke Ayaefu",
             "email": "lukeayaefu@gmail.com",
             "password": "lukeayaefu",
-            "role": "s"
+            "role": "s",
+"isConfirmed": true
         }
     ],
     "instructor": {
@@ -146,6 +158,7 @@
         "email": "anthonyalicea@gmail.com",
         "password": "anthonyalicea",
         "role": "i",
+"isConfirmed": true,
         "briefIntroduction": "<p style=\"\"> Newly married in Cleveland Ohio, Tony is primarily focused these days on trying to be a good husband. While inexperienced at that, he's quite experienced in all things web. </p> <p style=\"\"> Tony has been programming since he was 12 years old, and got into web sites and web application development at 16. After graduating with a Computer Science degree from Case Western Reserve University, Tony continued with that interest as a Microsoft certified software application developer and architect, database designer, and user interface designer. </p> <p style=\"\"> His experience has ranged across technologies such as HTML5, CSS3, ASP .NET MVC, JavaScript, jQuery, KnockoutJS, AngularJS, NodeJS, LESS, Bootstrap, SQL, Entity Framework and more. </p> <p style=\"\"> He believes strongly that deeply understanding any topic allows you to properly learn it and, even more importantly in a real-world environment, quickly overcome problems. </p> <p style=\"\"> He also has a deep interest in human nature and behavior, and how that impacts human-computer interaction. This interest translated into extending his career into user experience design and usability research. </p> <p style=\"\"> Another link in the chain is his 25 years of experience in public speaking and teaching, both in front of large groups and as a one-on-one private instructor. </p> <p style=\"\"> Putting all these pieces together, he has spent his career listening to a client need, designing a database and software to meet that need, building it, testing it, teaching others how to use it, then improving user experience by watching people actually use it and adjusting accordingly. </p> <p style=\"\"> Tony loves teaching every aspect of what he does, and even more loves teaching in a way that imparts understanding, as opposed to just examples intended to be parroted. He loves that moment when a student 'gets it', and that's what he wants for you when you take one of his courses. </p> <p style=\"\"> He has found that those that learn purely by example, and not by understanding, end up much more limited than they need to be. </p> <p style=\"\"> \"Examples need to be built on top of context, and once you have context, you can not only copy the examples you find, but adjust and improve upon them.\" </p> <p style=\"\"> <strong style=\"\"> He firmly believes that everyone has the ability to develop software, if they are just taught properly. Including you.</strong> </p> <p style=\"\"> <em style=\"\"> \"It is my pleasure and privilege to teach you. I hope you'll come away knowing something you didn't before, understanding at a level deeper than before, and feeling positive that you can accomplish what you've set out to accomplish. Thank you!\"</em> <strong style=\"\">- Tony Alicea</strong> </p> <p style=\"\"> <strong style=\"\">Ask Tony a question, read a post, or follow him around internet.</strong> </p>"
     }
 }

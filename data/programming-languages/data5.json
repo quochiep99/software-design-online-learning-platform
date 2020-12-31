@@ -6,7 +6,7 @@
     "course": {
         "title": "Learn Python Programming Masterclass",
         "subtitle": "This Python For Beginners Course Teaches You The Python Language Fast. Includes Python Online Training With Python 3",
-        "descriptions": [],
+        "descriptions":  "",
         "reviews": [],
         "students": [],
         "image1xURL": "https://img-b.udemycdn.com/course/240x135/629302_8a2d_2.jpg",
@@ -15,7 +15,7 @@
         "discountPrice": 11.99,
         "originalPrice": 129.99,
         "numViews": 0,
-        "curriculum": []
+        "curriculum": {}
     },
     "reviews": [
         {
@@ -72,73 +72,85 @@
             "name": "Sean Santiago",
             "email": "seansantiago@gmail.com",
             "password": "seansantiago",
-            "role": "s"
+            "role": "s",
+"isConfirmed": true
         },
         {
             "name": "Neve Chamberlain",
             "email": "nevechamberlain@gmail.com",
             "password": "nevechamberlain",
-            "role": "s"
+            "role": "s",
+"isConfirmed": true
         },
         {
             "name": "Garret Johnson",
             "email": "garretjohnson@gmail.com",
             "password": "garretjohnson",
-            "role": "s"
+            "role": "s",
+"isConfirmed": true
         },
         {
             "name": "Abiy Belachew",
             "email": "abiybelachew@gmail.com",
             "password": "abiybelachew",
-            "role": "s"
+            "role": "s",
+"isConfirmed": true
         },
         {
             "name": "Mohammed Alkhelaiwy",
             "email": "mohammedalkhelaiwy@gmail.com",
             "password": "mohammedalkhelaiwy",
-            "role": "s"
+            "role": "s",
+"isConfirmed": true
         },
         {
             "name": "Suresh Uthirapathy",
             "email": "sureshuthirapathy@gmail.com",
             "password": "sureshuthirapathy",
-            "role": "s"
+            "role": "s",
+"isConfirmed": true
         },
         {
             "name": "Priyanka Patel",
             "email": "priyankapatel@gmail.com",
             "password": "priyankapatel",
-            "role": "s"
+            "role": "s",
+"isConfirmed": true
         },
         {
             "name": "Igor Belczewski",
             "email": "igorbelczewski@gmail.com",
             "password": "igorbelczewski",
-            "role": "s"
+            "role": "s",
+"isConfirmed": true
         },
         {
             "name": "211460-Thilaga Lakshmi",
             "email": "211460-thilagalakshmi@gmail.com",
             "password": "211460-thilagalakshmi",
-            "role": "s"
+            "role": "s",
+"isConfirmed": true
         },
         {
             "name": "Maxwell Nganyadi",
             "email": "maxwellnganyadi@gmail.com",
             "password": "maxwellnganyadi",
-            "role": "s"
+            "role": "s",
+"isConfirmed": true
         },
         {
             "name": "Ran Bahadur B.K.",
             "email": "ranbahadurb.k.@gmail.com",
             "password": "ranbahadurb.k.",
-            "role": "s"
+            "role": "s",
+"isConfirmed": true
         },
         {
             "name": "Harish",
             "email": "harish@gmail.com",
             "password": "harish",
-            "role": "s"
+            "role": "s",
+"isConfirmed": true
         }
     ],
     "instructor": {
@@ -146,6 +158,7 @@
         "email": "timbuchalka@gmail.com",
         "password": "timbuchalka",
         "role": "i",
+"isConfirmed": true,
         "briefIntroduction": "<p>Tim's been a professional software developer for over 35 years.&nbsp; During his career, he has worked for major companies such as Fujitsu, Mitsubishi, and Saab.<br><br>His video courses are used to train developers in major companies such as Mercedes-Benz, Paypal, VW, Pitney Bowes, IBM, and T-Mobile just to name a few (via the Udemy for Business program).<br><br>What makes Tim unique is his professional programming career - many instructors have never programmed professionally, let alone had a distinguished professional development career like Tim.<br><br>Tim has trained over 847,000 students how to program, way more than a typical IT&nbsp;Professor at a college does in a lifetime.<br><br>In fact, Tim's courses are often purchased by students struggling to get through college programming courses.</p><p>\"I am learning a lot about Java very quickly. I wish my college courses worked this way, they drag the same amount of material out over months.\" - Thomas Neal<br><br>\"I love this guy. I'm in school for java right now at a local college and I bought this course hoping it would help clarify the fuzzy areas of my coursework. There's no comparison. Every time I get lost in my textbook, I watch a couple more of these videos and I'm right back on track. He explains everything so perfectly. It sinks right in.\" - Kristen Andreani<br><br>\"Tim is a great instructor, I have more courses from him and all are great. This one really helped me with my understanding of Java from the very beginnings. In fact, I was able to find a job as Java developer with the knowledge gained from this course, so I basically owe Mr. Buchalka my career\" - Daniel KubÃ¡nyi<br><br>Tim's mission is simple:&nbsp; to make a difference in your life by helping you to become a software developer. &nbsp;Tim does that through his Java, Python, C#, Spring Framework, and Android development courses.</p><p>When Tim started programming over thirty-five years ago, there was no online&nbsp;video training. &nbsp;</p><p>There was no \"easy\" way to learn. &nbsp;The Internet, in its current form, didn't exist, and as a result, Tim&nbsp;couldn't \"Google\" for help, or watch videos on Youtube.</p><p>After learning the hard way, Tim&nbsp;was determined to become the best teacher he could, and to make his training&nbsp;as painless as possible, so that you, or anyone else with the desire to&nbsp;become a software developer, could become one.</p><p>In between doing that, Tim&nbsp;spent the best part of those years as a professional software developer writing applications in Java and a variety of other languages. &nbsp;In addition, he spent many years with J2EE&nbsp;(as it was then known), now known as Java Enterprise Edition (JEE), designing and developing enterprise applications.</p><p>Tim is&nbsp;relatively unique, in that<strong>&nbsp;he is&nbsp;a professional, experienced software developer </strong>who also has <strong>exceptional teaching skills</strong>. &nbsp;<br><br>Many instructors have no work experience in the field. &nbsp;Make sure the person you trust with your education is a real expert with substantial previous professional experience.<br></p><p><strong>The bottom line for you is, when taking any of Tim's&nbsp;courses, is that&nbsp;you will learn the right way to do things from an expert, in the shortest possible amount of time.</strong></p><p>Tim's Java, Android, and Python courses, here on Udemy are of the highest quality as reviewed by his students. &nbsp;<strong> Ten's of thousands of students, just like you,&nbsp;have taken his&nbsp;classes,</strong> <strong>thousands have left glowing reviews,</strong> and many&nbsp;have gone on to full-time jobs, or consulting/freelancing opportunities after completing one of his&nbsp;courses.</p><p>Tim&nbsp;recently placed in the top ten Udemy instructors as voted for by his students and&nbsp;Udemy themselves. &nbsp;</p><p><strong>What does all of this mean for you?</strong></p><p>You can have full confidence that Tim's courses are of exceptional quality, and that he<strong>&nbsp;can teach you to become a software developer</strong> if you have the desire to become one.</p><p>Are you ready to start? &nbsp;You can get started today. &nbsp;No previous experience is necessary.</p><p>In 2020, video training is the quickest way to learn, and with Tim's experience and training, it is possible for you to become a software developer. &nbsp;You can do this.</p><p>Why not start today? &nbsp;Click one of his&nbsp;courses below, and watch his&nbsp;introductory video, to find out more about who he is&nbsp;and what he&nbsp;can offer you.</p>"
     }
 }

@@ -6,7 +6,7 @@
     "course": {
         "title": "Ionic - Build iOS, Android & Web Apps with Ionic & Angular",
         "subtitle": "Build Native iOS & Android as well as Progressive Web Apps with Angular, Capacitor and the Ionic Framework (Ionic 4+).",
-        "descriptions": [],
+        "descriptions":  "",
         "reviews": [],
         "students": [],
         "image1xURL": "https://img-a.udemycdn.com/course/240x135/1070124_3a0f_4.jpg",
@@ -15,7 +15,7 @@
         "discountPrice": 11.99,
         "originalPrice": 129.99,
         "numViews": 0,
-        "curriculum": []
+        "curriculum": {}
     },
     "reviews": [
         {
@@ -72,73 +72,85 @@
             "name": "Tjandra Putra",
             "email": "tjandraputra@gmail.com",
             "password": "tjandraputra",
-            "role": "s"
+            "role": "s",
+"isConfirmed": true
         },
         {
             "name": "Andrey Pearce",
             "email": "andreypearce@gmail.com",
             "password": "andreypearce",
-            "role": "s"
+            "role": "s",
+"isConfirmed": true
         },
         {
             "name": "Thirupathi Dontharavena",
             "email": "thirupathidontharavena@gmail.com",
             "password": "thirupathidontharavena",
-            "role": "s"
+            "role": "s",
+"isConfirmed": true
         },
         {
             "name": "Ramin Khakzad",
             "email": "raminkhakzad@gmail.com",
             "password": "raminkhakzad",
-            "role": "s"
+            "role": "s",
+"isConfirmed": true
         },
         {
             "name": "Ajay Kumar Singh",
             "email": "ajaykumarsingh@gmail.com",
             "password": "ajaykumarsingh",
-            "role": "s"
+            "role": "s",
+"isConfirmed": true
         },
         {
             "name": "Giacomo Maccanti",
             "email": "giacomomaccanti@gmail.com",
             "password": "giacomomaccanti",
-            "role": "s"
+            "role": "s",
+"isConfirmed": true
         },
         {
             "name": "Alexander Immanuel D",
             "email": "alexanderimmanueld@gmail.com",
             "password": "alexanderimmanueld",
-            "role": "s"
+            "role": "s",
+"isConfirmed": true
         },
         {
             "name": "Jaikumar",
             "email": "jaikumar@gmail.com",
             "password": "jaikumar",
-            "role": "s"
+            "role": "s",
+"isConfirmed": true
         },
         {
             "name": "Henry Tang",
             "email": "henrytang@gmail.com",
             "password": "henrytang",
-            "role": "s"
+            "role": "s",
+"isConfirmed": true
         },
         {
             "name": "Kishan Chaudhary",
             "email": "kishanchaudhary@gmail.com",
             "password": "kishanchaudhary",
-            "role": "s"
+            "role": "s",
+"isConfirmed": true
         },
         {
             "name": "Tristan",
             "email": "tristan@gmail.com",
             "password": "tristan",
-            "role": "s"
+            "role": "s",
+"isConfirmed": true
         },
         {
             "name": "Darren Madasekera",
             "email": "darrenmadasekera@gmail.com",
             "password": "darrenmadasekera",
-            "role": "s"
+            "role": "s",
+"isConfirmed": true
         }
     ],
     "instructor": {
@@ -146,6 +158,7 @@
         "email": "maximilianschwarzmüller@gmail.com",
         "password": "maximilianschwarzmüller",
         "role": "i",
+"isConfirmed": true,
         "briefIntroduction": "<p><strong>Experience as (Web) Developer</strong><br></p><p>Starting out at the age of 13 I never stopped learning new programming skills and languages. Early I started creating websites for friends and just for fun as well. Besides web development I also explored Python and other non-web-only&nbsp;languages.&nbsp;This passion has since lasted and lead to my decision of working as a freelance web developer and consultant. The success and fun I have in this job is immense and really keeps that passion burningly alive.</p><p>Starting web development on&nbsp;the backend (PHP with Laravel, NodeJS, Python) I also became more and more of a frontend developer using modern frameworks like React, Angular or VueJS 2 in a lot of projects. I&nbsp;love both worlds nowadays!</p><p>As a self-taught developer I had the chance to broaden my horizon by studying Business Administration where I hold a Master's degree. That enabled me to work in a major strategy consultancy as well as a bank. While learning, that I enjoy development more than these fields, the time in this sector greatly improved my overall experience and skills.</p><p><strong>Experience as Instructor</strong></p><p>As a self-taught professional I really know the hard parts and the difficult topics when learning new or improving on already-known languages. This background and experience enables me to focus on the most relevant key concepts and topics. My track record of many 5-star rated courses, more than 700,000 students on Udemy as well as a successful YouTube channel is the best proof for that.</p><p>Whether working as development instructor or teaching Business Administration I always received great feedback. The most rewarding experience is to see how people find new, better jobs, build awesome web applications, acquire amazing projects or simply enjoy their hobby with the help of my content.</p><p>Together with Manuel Lorenz, I founded Academind to offer the best possible learning experience to our more than 800,000 students.</p>"
     }
 }

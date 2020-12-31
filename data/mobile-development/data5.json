@@ -6,7 +6,7 @@
     "course": {
         "title": "The Complete Android N Developer Course",
         "subtitle": "Learn Android App Development with Android 7 Nougat by building real apps including Uber, Whatsapp and Instagram!",
-        "descriptions": [],
+        "descriptions":  "",
         "reviews": [],
         "students": [],
         "image1xURL": "https://img-a.udemycdn.com/course/240x135/951618_0839_2.jpg",
@@ -15,7 +15,7 @@
         "discountPrice": 11.99,
         "originalPrice": 129.99,
         "numViews": 0,
-        "curriculum": []
+        "curriculum": {}
     },
     "reviews": [
         {
@@ -72,97 +72,113 @@
             "name": "Alex P.",
             "email": "alexp.@gmail.com",
             "password": "alexp.",
-            "role": "s"
+            "role": "s",
+"isConfirmed": true
         },
         {
             "name": "Dave Kishan Bhandari",
             "email": "davekishanbhandari@gmail.com",
             "password": "davekishanbhandari",
-            "role": "s"
+            "role": "s",
+"isConfirmed": true
         },
         {
             "name": "Mamatha E",
             "email": "mamathae@gmail.com",
             "password": "mamathae",
-            "role": "s"
+            "role": "s",
+"isConfirmed": true
         },
         {
             "name": "Diaa Alkhatib",
             "email": "diaaalkhatib@gmail.com",
             "password": "diaaalkhatib",
-            "role": "s"
+            "role": "s",
+"isConfirmed": true
         },
         {
             "name": "Conny Tångring",
             "email": "connytångring@gmail.com",
             "password": "connytångring",
-            "role": "s"
+            "role": "s",
+"isConfirmed": true
         },
         {
             "name": "GAGAN SARWARA",
             "email": "gagansarwara@gmail.com",
             "password": "gagansarwara",
-            "role": "s"
+            "role": "s",
+"isConfirmed": true
         },
         {
             "name": "Sean Mann",
             "email": "seanmann@gmail.com",
             "password": "seanmann",
-            "role": "s"
+            "role": "s",
+"isConfirmed": true
         },
         {
             "name": "Ramtin Shahrokhshahi",
             "email": "ramtinshahrokhshahi@gmail.com",
             "password": "ramtinshahrokhshahi",
-            "role": "s"
+            "role": "s",
+"isConfirmed": true
         },
         {
             "name": "Rob Percival",
             "email": "robpercival@gmail.com",
             "password": "robpercival",
-            "role": "s"
+            "role": "s",
+"isConfirmed": true
         },
         {
             "name": "Tejas Parikh",
             "email": "tejasparikh@gmail.com",
             "password": "tejasparikh",
-            "role": "s"
+            "role": "s",
+"isConfirmed": true
         },
         {
             "name": "Rob Percival",
             "email": "robpercival@gmail.com",
             "password": "robpercival",
-            "role": "s"
+            "role": "s",
+"isConfirmed": true
         },
         {
             "name": "kushidharreddy chinthala",
             "email": "kushidharreddychinthala@gmail.com",
             "password": "kushidharreddychinthala",
-            "role": "s"
+            "role": "s",
+"isConfirmed": true
         },
         {
             "name": "Rob Percival",
             "email": "robpercival@gmail.com",
             "password": "robpercival",
-            "role": "s"
+            "role": "s",
+"isConfirmed": true
         },
         {
             "name": "Maksud Ganapijev",
             "email": "maksudganapijev@gmail.com",
             "password": "maksudganapijev",
-            "role": "s"
+            "role": "s",
+"isConfirmed": true
         },
         {
             "name": "Onicel Teo",
             "email": "onicelteo@gmail.com",
             "password": "onicelteo",
-            "role": "s"
+            "role": "s",
+"isConfirmed": true
         },
         {
             "name": "Rob Percival",
             "email": "robpercival@gmail.com",
             "password": "robpercival",
-            "role": "s"
+            "role": "s",
+"isConfirmed": true
         }
     ],
     "instructor": {
@@ -170,6 +186,7 @@
         "email": "robpercival@gmail.com",
         "password": "robpercival",
         "role": "i",
+"isConfirmed": true,
         "briefIntroduction": "<p>  \t       Hi! I'm Rob. I have a degree in Mathematics from Cambridge University and you might call me a bit of coding geek.  </p>\n\n<p>  \t       After building websites for friends and family for fun, I soon learned that web development was a very lucrative career choice. I gave up my successful (and sometimes stressful) job as a teacher to work part time and today, couldn't be happier.  </p>\n\n<p>  \t       I'm passionate about teaching kids to code, so every summer I run Code School in the beautiful city of Cambridge. I also run the popular web hosting and design service, Eco Web Hosting which leaves me free to share my secrets with people like you.  </p>\n\n<p>  \t<strong>You wouldn't believe the freedom that being a web developer offers.</strong> Sign up and find out for yourself why so many people are taking and recommending this course.  I genuinely believe it's the best on the market and if you don't agree, I'll happily refund your money.  </p>\n\n<p>  \t       Sign up to my courses and join me in this amazing adventure today.  </p>"
     }
 }

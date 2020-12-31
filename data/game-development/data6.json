@@ -6,7 +6,7 @@
     "course": {
         "title": "RPG Core Combat Creator: Learn Intermediate Unity C# Coding",
         "subtitle": "Build Combat for Role Playing Game (RPG) in Unity. Tutorials Cover Code Architecture & Video Game Design.",
-        "descriptions": [],
+        "descriptions":  "",
         "reviews": [],
         "students": [],
         "image1xURL": "https://img-b.udemycdn.com/course/240x135/1110626_255b_2.jpg",
@@ -15,7 +15,7 @@
         "discountPrice": 11.99,
         "originalPrice": 129.99,
         "numViews": 0,
-        "curriculum": []
+        "curriculum": {}
     },
     "reviews": [
         {
@@ -72,121 +72,141 @@
             "name": "Theodoros Sphikas",
             "email": "theodorossphikas@gmail.com",
             "password": "theodorossphikas",
-            "role": "s"
+            "role": "s",
+"isConfirmed": true
         },
         {
             "name": "GameDev.tv Team",
             "email": "gamedev.tvteam@gmail.com",
             "password": "gamedev.tvteam",
-            "role": "s"
+            "role": "s",
+"isConfirmed": true
         },
         {
             "name": "Ritvik Upadhyay",
             "email": "ritvikupadhyay@gmail.com",
             "password": "ritvikupadhyay",
-            "role": "s"
+            "role": "s",
+"isConfirmed": true
         },
         {
             "name": "Ron Green",
             "email": "rongreen@gmail.com",
             "password": "rongreen",
-            "role": "s"
+            "role": "s",
+"isConfirmed": true
         },
         {
             "name": "GameDev.tv Team",
             "email": "gamedev.tvteam@gmail.com",
             "password": "gamedev.tvteam",
-            "role": "s"
+            "role": "s",
+"isConfirmed": true
         },
         {
             "name": "Ahingsaka Samsenesena",
             "email": "ahingsakasamsenesena@gmail.com",
             "password": "ahingsakasamsenesena",
-            "role": "s"
+            "role": "s",
+"isConfirmed": true
         },
         {
             "name": "GameDev.tv Team",
             "email": "gamedev.tvteam@gmail.com",
             "password": "gamedev.tvteam",
-            "role": "s"
+            "role": "s",
+"isConfirmed": true
         },
         {
             "name": "Tikokito",
             "email": "tikokito@gmail.com",
             "password": "tikokito",
-            "role": "s"
+            "role": "s",
+"isConfirmed": true
         },
         {
             "name": "Valentin Gurkov",
             "email": "valentingurkov@gmail.com",
             "password": "valentingurkov",
-            "role": "s"
+            "role": "s",
+"isConfirmed": true
         },
         {
             "name": "Nicolas Gerard",
             "email": "nicolasgerard@gmail.com",
             "password": "nicolasgerard",
-            "role": "s"
+            "role": "s",
+"isConfirmed": true
         },
         {
             "name": "Justin Schmidt",
             "email": "justinschmidt@gmail.com",
             "password": "justinschmidt",
-            "role": "s"
+            "role": "s",
+"isConfirmed": true
         },
         {
             "name": "GameDev.tv Team",
             "email": "gamedev.tvteam@gmail.com",
             "password": "gamedev.tvteam",
-            "role": "s"
+            "role": "s",
+"isConfirmed": true
         },
         {
             "name": "Laurent Dresselaers",
             "email": "laurentdresselaers@gmail.com",
             "password": "laurentdresselaers",
-            "role": "s"
+            "role": "s",
+"isConfirmed": true
         },
         {
             "name": "GameDev.tv Team",
             "email": "gamedev.tvteam@gmail.com",
             "password": "gamedev.tvteam",
-            "role": "s"
+            "role": "s",
+"isConfirmed": true
         },
         {
             "name": "Kanishk Dhindsa",
             "email": "kanishkdhindsa@gmail.com",
             "password": "kanishkdhindsa",
-            "role": "s"
+            "role": "s",
+"isConfirmed": true
         },
         {
             "name": "GameDev.tv Team",
             "email": "gamedev.tvteam@gmail.com",
             "password": "gamedev.tvteam",
-            "role": "s"
+            "role": "s",
+"isConfirmed": true
         },
         {
             "name": "Ron Hatfield",
             "email": "ronhatfield@gmail.com",
             "password": "ronhatfield",
-            "role": "s"
+            "role": "s",
+"isConfirmed": true
         },
         {
             "name": "GameDev.tv Team",
             "email": "gamedev.tvteam@gmail.com",
             "password": "gamedev.tvteam",
-            "role": "s"
+            "role": "s",
+"isConfirmed": true
         },
         {
             "name": "Vittorio",
             "email": "vittorio@gmail.com",
             "password": "vittorio",
-            "role": "s"
+            "role": "s",
+"isConfirmed": true
         },
         {
             "name": "GameDev.tv Team",
             "email": "gamedev.tvteam@gmail.com",
             "password": "gamedev.tvteam",
-            "role": "s"
+            "role": "s",
+"isConfirmed": true
         }
     ],
     "instructor": {
@@ -194,6 +214,7 @@
         "email": "bentristem@gmail.com",
         "password": "bentristem",
         "role": "i",
+"isConfirmed": true,
         "briefIntroduction": "<p>Hi, I'm Ben. I have a degree in computing from Imperial College London, and a physics diploma from the Open University.&nbsp; </p><p>I started working for myself at the age of 15, and never looked back. I explored careers as varied as being a commercial pilot, stunt-man, rock climbing instructor, and more. None of these provided a continued challenge, and stable income in the same way technology does.&nbsp; </p><p>After building and selling a home computer support business, I became an angel investor and business mentor here in Cambridge UK. I fell in love with teaching game development through one of my investments, and I now spend all of my time sharing my passion with people like you.&nbsp; </p><p>I can't wait to help you experience the fulfilment, and financial freedom, that having a deep understanding of technology brings.&nbsp; </p><p>So why not start learning to make games with me and my team now? </p><p>See you soon!&nbsp; </p><p>Ben</p>"
     }
 }

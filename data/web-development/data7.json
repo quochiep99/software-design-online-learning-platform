@@ -6,7 +6,7 @@
     "course": {
         "title": "Build Responsive Real World Websites with HTML5 and CSS3",
         "subtitle": "The easiest way to learn modern web design, HTML5 and CSS3 step-by-step from scratch. Design AND code a huge project.",
-        "descriptions": [],
+        "descriptions":  "",
         "reviews": [],
         "students": [],
         "image1xURL": "https://img-a.udemycdn.com/course/240x135/437398_46c3_9.jpg",
@@ -15,7 +15,7 @@
         "discountPrice": 12.99,
         "originalPrice": 139.99,
         "numViews": 0,
-        "curriculum": []
+        "curriculum": {}
     },
     "reviews": [
         {
@@ -72,73 +72,85 @@
             "name": "Itamar Rosenblum",
             "email": "itamarrosenblum@gmail.com",
             "password": "itamarrosenblum",
-            "role": "s"
+            "role": "s",
+"isConfirmed": true
         },
         {
             "name": "Dean Lauvina",
             "email": "deanlauvina@gmail.com",
             "password": "deanlauvina",
-            "role": "s"
+            "role": "s",
+"isConfirmed": true
         },
         {
             "name": "Soumya Kundu",
             "email": "soumyakundu@gmail.com",
             "password": "soumyakundu",
-            "role": "s"
+            "role": "s",
+"isConfirmed": true
         },
         {
             "name": "Dhishna Mahmud",
             "email": "dhishnamahmud@gmail.com",
             "password": "dhishnamahmud",
-            "role": "s"
+            "role": "s",
+"isConfirmed": true
         },
         {
             "name": "Khoi Nguyen",
             "email": "khoinguyen@gmail.com",
             "password": "khoinguyen",
-            "role": "s"
+            "role": "s",
+"isConfirmed": true
         },
         {
             "name": "Scott Kaiser",
             "email": "scottkaiser@gmail.com",
             "password": "scottkaiser",
-            "role": "s"
+            "role": "s",
+"isConfirmed": true
         },
         {
             "name": "Pramod Salunke",
             "email": "pramodsalunke@gmail.com",
             "password": "pramodsalunke",
-            "role": "s"
+            "role": "s",
+"isConfirmed": true
         },
         {
             "name": "Sothy Kettya Kohl",
             "email": "sothykettyakohl@gmail.com",
             "password": "sothykettyakohl",
-            "role": "s"
+            "role": "s",
+"isConfirmed": true
         },
         {
             "name": "Prince Sidharth",
             "email": "princesidharth@gmail.com",
             "password": "princesidharth",
-            "role": "s"
+            "role": "s",
+"isConfirmed": true
         },
         {
             "name": "Fraser Lock-Macardy",
             "email": "fraserlock-macardy@gmail.com",
             "password": "fraserlock-macardy",
-            "role": "s"
+            "role": "s",
+"isConfirmed": true
         },
         {
             "name": "Gavin Lief",
             "email": "gavinlief@gmail.com",
             "password": "gavinlief",
-            "role": "s"
+            "role": "s",
+"isConfirmed": true
         },
         {
             "name": "Jenniffer Montoya",
             "email": "jenniffermontoya@gmail.com",
             "password": "jenniffermontoya",
-            "role": "s"
+            "role": "s",
+"isConfirmed": true
         }
     ],
     "instructor": {
@@ -146,6 +158,7 @@
         "email": "jonasschmedtmann@gmail.com",
         "password": "jonasschmedtmann",
         "role": "i",
+"isConfirmed": true,
         "briefIntroduction": "<p>Hi, I'm Jonas! I have been identified as one of Udemy's Top Instructors and all my premium courses have recently earned the best-selling status for outstanding performance and student satisfaction.</p><p>I'm a full-stack web developer and designer with a passion for building beautiful things from scratch. I've been building websites and apps since 2007 and also have a Master's degree in Engineering.</p><p>It was in college where I first discovered my passion for teaching and helping others by sharing all I knew. And that passion brought me to Udemy in 2015, where my students love the fact that I take the time to explain important concepts in a way that everyone can easily understand.</p><p><strong><em>Do you want to learn how to build awesome websites with advanced HTML&nbsp;and CSS?</em></strong></p><p><strong><em>Looking for a complete JavaScript course that takes you from beginner to advanced developer?</em></strong></p><p><strong><em>Or maybe you want to build modern and fast back-end applications with Node.js?</em></strong></p><p>Then don't waste your time with random tutorials or incomplete videos. All my courses are easy-to-follow, all-in-one packages that will take your skills to the next level.</p><p><em>These courses are exactly the courses I wish I had when I was first getting into web development!</em></p><p>So see for yourself, enroll in one of my courses (or all of them :D) and join my 500,000+ happy students today.</p>"
     }
 }

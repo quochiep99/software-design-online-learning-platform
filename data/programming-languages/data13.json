@@ -6,7 +6,7 @@
     "course": {
         "title": "C# Intermediate: Classes, Interfaces and OOP",
         "subtitle": "An in-depth, step-by-step guide to classes, interfaces and object-oriented programming (OOP) with C#",
-        "descriptions": [],
+        "descriptions":  "",
         "reviews": [],
         "students": [],
         "image1xURL": "https://img-a.udemycdn.com/course/240x135/383576_fd27_3.jpg",
@@ -15,7 +15,7 @@
         "discountPrice": 11.99,
         "originalPrice": 129.99,
         "numViews": 0,
-        "curriculum": []
+        "curriculum": {}
     },
     "reviews": [
         {
@@ -72,73 +72,85 @@
             "name": "Marius Turcu",
             "email": "mariusturcu@gmail.com",
             "password": "mariusturcu",
-            "role": "s"
+            "role": "s",
+"isConfirmed": true
         },
         {
             "name": "Kyle Lee",
             "email": "kylelee@gmail.com",
             "password": "kylelee",
-            "role": "s"
+            "role": "s",
+"isConfirmed": true
         },
         {
             "name": "Shankar Narayana P",
             "email": "shankarnarayanap@gmail.com",
             "password": "shankarnarayanap",
-            "role": "s"
+            "role": "s",
+"isConfirmed": true
         },
         {
             "name": "Mina Tavangar",
             "email": "minatavangar@gmail.com",
             "password": "minatavangar",
-            "role": "s"
+            "role": "s",
+"isConfirmed": true
         },
         {
             "name": "Fernando Huamancaja",
             "email": "fernandohuamancaja@gmail.com",
             "password": "fernandohuamancaja",
-            "role": "s"
+            "role": "s",
+"isConfirmed": true
         },
         {
             "name": "Dushyanth BR",
             "email": "dushyanthbr@gmail.com",
             "password": "dushyanthbr",
-            "role": "s"
+            "role": "s",
+"isConfirmed": true
         },
         {
             "name": "Raymond Kim",
             "email": "raymondkim@gmail.com",
             "password": "raymondkim",
-            "role": "s"
+            "role": "s",
+"isConfirmed": true
         },
         {
             "name": "Andy",
             "email": "andy@gmail.com",
             "password": "andy",
-            "role": "s"
+            "role": "s",
+"isConfirmed": true
         },
         {
             "name": "Anirudh Yendamuri",
             "email": "anirudhyendamuri@gmail.com",
             "password": "anirudhyendamuri",
-            "role": "s"
+            "role": "s",
+"isConfirmed": true
         },
         {
             "name": "Galen Casstevens",
             "email": "galencasstevens@gmail.com",
             "password": "galencasstevens",
-            "role": "s"
+            "role": "s",
+"isConfirmed": true
         },
         {
             "name": "John Gellert",
             "email": "johngellert@gmail.com",
             "password": "johngellert",
-            "role": "s"
+            "role": "s",
+"isConfirmed": true
         },
         {
             "name": "Leif",
             "email": "leif@gmail.com",
             "password": "leif",
-            "role": "s"
+            "role": "s",
+"isConfirmed": true
         }
     ],
     "instructor": {
@@ -146,6 +158,7 @@
         "email": "moshhamedani@gmail.com",
         "password": "moshhamedani",
         "role": "i",
+"isConfirmed": true,
         "briefIntroduction": "<p>Hi!&nbsp;My name is Mosh (Moshfegh)&nbsp;Hamedani! I'm a passionate software engineer with two decades of experience and I've taught over 3 million people who to code or how to become professional software engineers through my YouTube channel and online courses. </p><p>My goal is to make software engineering fun and accessible to everyone. That's why my courses are simple, pragmatic and free of BS. </p>"
     }
 }

@@ -6,7 +6,7 @@
     "course": {
         "title": "Machine Learning, Data Science and Deep Learning with Python",
         "subtitle": "Complete hands-on machine learning tutorial with data science, Tensorflow, artificial intelligence, and neural networks",
-        "descriptions": [],
+        "descriptions":  "",
         "reviews": [],
         "students": [],
         "image1xURL": "https://img-a.udemycdn.com/course/240x135/671576_a272_4.jpg",
@@ -15,7 +15,7 @@
         "discountPrice": 11.99,
         "originalPrice": 129.99,
         "numViews": 0,
-        "curriculum": []
+        "curriculum": {}
     },
     "reviews": [
         {
@@ -72,73 +72,85 @@
             "name": "217439 - Nidhal M Mansoor",
             "email": "217439-nidhalmmansoor@gmail.com",
             "password": "217439-nidhalmmansoor",
-            "role": "s"
+            "role": "s",
+"isConfirmed": true
         },
         {
             "name": "Kaan Yiğitsoy",
             "email": "kaanyiğitsoy@gmail.com",
             "password": "kaanyiğitsoy",
-            "role": "s"
+            "role": "s",
+"isConfirmed": true
         },
         {
             "name": "Sergei Akopov",
             "email": "sergeiakopov@gmail.com",
             "password": "sergeiakopov",
-            "role": "s"
+            "role": "s",
+"isConfirmed": true
         },
         {
             "name": "Shruti G",
             "email": "shrutig@gmail.com",
             "password": "shrutig",
-            "role": "s"
+            "role": "s",
+"isConfirmed": true
         },
         {
             "name": "Kanishk Jha",
             "email": "kanishkjha@gmail.com",
             "password": "kanishkjha",
-            "role": "s"
+            "role": "s",
+"isConfirmed": true
         },
         {
             "name": "Kenny Rachuonyo",
             "email": "kennyrachuonyo@gmail.com",
             "password": "kennyrachuonyo",
-            "role": "s"
+            "role": "s",
+"isConfirmed": true
         },
         {
             "name": "Siddharth Sharma",
             "email": "siddharthsharma@gmail.com",
             "password": "siddharthsharma",
-            "role": "s"
+            "role": "s",
+"isConfirmed": true
         },
         {
             "name": "James Johnson",
             "email": "jamesjohnson@gmail.com",
             "password": "jamesjohnson",
-            "role": "s"
+            "role": "s",
+"isConfirmed": true
         },
         {
             "name": "Paolo Buccigrossi",
             "email": "paolobuccigrossi@gmail.com",
             "password": "paolobuccigrossi",
-            "role": "s"
+            "role": "s",
+"isConfirmed": true
         },
         {
             "name": "Marvin Gießing",
             "email": "marvingießing@gmail.com",
             "password": "marvingießing",
-            "role": "s"
+            "role": "s",
+"isConfirmed": true
         },
         {
             "name": "Keith Martin",
             "email": "keithmartin@gmail.com",
             "password": "keithmartin",
-            "role": "s"
+            "role": "s",
+"isConfirmed": true
         },
         {
             "name": "Boris B",
             "email": "borisb@gmail.com",
             "password": "borisb",
-            "role": "s"
+            "role": "s",
+"isConfirmed": true
         }
     ],
     "instructor": {
@@ -146,6 +158,7 @@
         "email": "sundogeducationbyfrankkane@gmail.com",
         "password": "sundogeducationbyfrankkane",
         "role": "i",
+"isConfirmed": true,
         "briefIntroduction": "<p>Sundog Education's mission is to make highly valuable career skills in <strong>big data, data science, and machine learning</strong> accessible to everyone in the world. Our consortium of expert instructors shares our knowledge in these emerging fields with you, at prices anyone can afford.&nbsp;</p><p>Sundog Education is led by Frank Kane and owned by Frank's company, Sundog Software LLC.&nbsp;Frank spent 9 years at <strong>Amazon</strong> and <strong>IMDb</strong>, developing and managing the technology that automatically delivers product and movie recommendations to hundreds of millions of customers, all the time. Frank holds <strong>17 issued patents</strong> in the fields of <strong>distributed computing</strong>, <strong>data mining</strong>, and <strong>machine learning</strong>. In 2012, Frank left to start his own successful company, Sundog Software, which focuses on virtual reality environment technology, and teaching others about big data analysis.</p><p><strong>Due to our volume of students we are unable to respond to private messages; please post your questions within the Q&amp;A of your course. Thanks for understanding.</strong></p>"
     }
 }

@@ -6,7 +6,7 @@
     "course": {
         "title": "Unreal Engine Blueprint Game Developer",
         "subtitle": "Code Your First Video Game in 100 minutes with Visual Scripting. Created in collaboration with Epic Games.",
-        "descriptions": [],
+        "descriptions":  "",
         "reviews": [],
         "students": [],
         "image1xURL": "https://img-a.udemycdn.com/course/240x135/1946104_668a_2.jpg",
@@ -15,7 +15,7 @@
         "discountPrice": 11.99,
         "originalPrice": 129.99,
         "numViews": 0,
-        "curriculum": []
+        "curriculum": {}
     },
     "reviews": [
         {
@@ -72,139 +72,162 @@
             "name": "Markus Petz",
             "email": "markuspetz@gmail.com",
             "password": "markuspetz",
-            "role": "s"
+            "role": "s",
+"isConfirmed": true
         },
         {
             "name": "GameDev.tv Team",
             "email": "gamedev.tvteam@gmail.com",
             "password": "gamedev.tvteam",
-            "role": "s"
+            "role": "s",
+"isConfirmed": true
         },
         {
             "name": "Mihir Modak",
             "email": "mihirmodak@gmail.com",
             "password": "mihirmodak",
-            "role": "s"
+            "role": "s",
+"isConfirmed": true
         },
         {
             "name": "GameDev.tv Team",
             "email": "gamedev.tvteam@gmail.com",
             "password": "gamedev.tvteam",
-            "role": "s"
+            "role": "s",
+"isConfirmed": true
         },
         {
             "name": "Murányi Gábor",
             "email": "murányigábor@gmail.com",
             "password": "murányigábor",
-            "role": "s"
+            "role": "s",
+"isConfirmed": true
         },
         {
             "name": "GameDev.tv Team",
             "email": "gamedev.tvteam@gmail.com",
             "password": "gamedev.tvteam",
-            "role": "s"
+            "role": "s",
+"isConfirmed": true
         },
         {
             "name": "Arend Westdorp",
             "email": "arendwestdorp@gmail.com",
             "password": "arendwestdorp",
-            "role": "s"
+            "role": "s",
+"isConfirmed": true
         },
         {
             "name": "GameDev.tv Team",
             "email": "gamedev.tvteam@gmail.com",
             "password": "gamedev.tvteam",
-            "role": "s"
+            "role": "s",
+"isConfirmed": true
         },
         {
             "name": "Nicholas McCullough",
             "email": "nicholasmccullough@gmail.com",
             "password": "nicholasmccullough",
-            "role": "s"
+            "role": "s",
+"isConfirmed": true
         },
         {
             "name": "GameDev.tv Team",
             "email": "gamedev.tvteam@gmail.com",
             "password": "gamedev.tvteam",
-            "role": "s"
+            "role": "s",
+"isConfirmed": true
         },
         {
             "name": "Yumnam Dimitra Singh",
             "email": "yumnamdimitrasingh@gmail.com",
             "password": "yumnamdimitrasingh",
-            "role": "s"
+            "role": "s",
+"isConfirmed": true
         },
         {
             "name": "GameDev.tv Team",
             "email": "gamedev.tvteam@gmail.com",
             "password": "gamedev.tvteam",
-            "role": "s"
+            "role": "s",
+"isConfirmed": true
         },
         {
             "name": "Tanner brown",
             "email": "tannerbrown@gmail.com",
             "password": "tannerbrown",
-            "role": "s"
+            "role": "s",
+"isConfirmed": true
         },
         {
             "name": "GameDev.tv Team",
             "email": "gamedev.tvteam@gmail.com",
             "password": "gamedev.tvteam",
-            "role": "s"
+            "role": "s",
+"isConfirmed": true
         },
         {
             "name": "Stanislav Shcherbakov",
             "email": "stanislavshcherbakov@gmail.com",
             "password": "stanislavshcherbakov",
-            "role": "s"
+            "role": "s",
+"isConfirmed": true
         },
         {
             "name": "GameDev.tv Team",
             "email": "gamedev.tvteam@gmail.com",
             "password": "gamedev.tvteam",
-            "role": "s"
+            "role": "s",
+"isConfirmed": true
         },
         {
             "name": "Yuhao Jian",
             "email": "yuhaojian@gmail.com",
             "password": "yuhaojian",
-            "role": "s"
+            "role": "s",
+"isConfirmed": true
         },
         {
             "name": "Andrew Hofman",
             "email": "andrewhofman@gmail.com",
             "password": "andrewhofman",
-            "role": "s"
+            "role": "s",
+"isConfirmed": true
         },
         {
             "name": "GameDev.tv Team",
             "email": "gamedev.tvteam@gmail.com",
             "password": "gamedev.tvteam",
-            "role": "s"
+            "role": "s",
+"isConfirmed": true
         },
         {
             "name": "Said Abugattas Abusada",
             "email": "saidabugattasabusada@gmail.com",
             "password": "saidabugattasabusada",
-            "role": "s"
+            "role": "s",
+"isConfirmed": true
         },
         {
             "name": "GameDev.tv Team",
             "email": "gamedev.tvteam@gmail.com",
             "password": "gamedev.tvteam",
-            "role": "s"
+            "role": "s",
+"isConfirmed": true
         },
         {
             "name": "Bobby Cobb",
             "email": "bobbycobb@gmail.com",
             "password": "bobbycobb",
-            "role": "s"
+            "role": "s",
+"isConfirmed": true
         },
         {
             "name": "GameDev.tv Team",
             "email": "gamedev.tvteam@gmail.com",
             "password": "gamedev.tvteam",
-            "role": "s"
+            "role": "s",
+"isConfirmed": true
         }
     ],
     "instructor": {
@@ -212,6 +235,7 @@
         "email": "bentristem@gmail.com",
         "password": "bentristem",
         "role": "i",
+"isConfirmed": true,
         "briefIntroduction": "<p>Hi, I'm Ben. I have a degree in computing from Imperial College London, and a physics diploma from the Open University.&nbsp; </p><p>I started working for myself at the age of 15, and never looked back. I explored careers as varied as being a commercial pilot, stunt-man, rock climbing instructor, and more. None of these provided a continued challenge, and stable income in the same way technology does.&nbsp; </p><p>After building and selling a home computer support business, I became an angel investor and business mentor here in Cambridge UK. I fell in love with teaching game development through one of my investments, and I now spend all of my time sharing my passion with people like you.&nbsp; </p><p>I can't wait to help you experience the fulfilment, and financial freedom, that having a deep understanding of technology brings.&nbsp; </p><p>So why not start learning to make games with me and my team now? </p><p>See you soon!&nbsp; </p><p>Ben</p>"
     }
 }

@@ -6,7 +6,7 @@
     "course": {
         "title": "Learn To Create An RPG Game In Unity",
         "subtitle": "Game development made easy. Learn C# using Unity and create your very own classic RPG!",
-        "descriptions": [],
+        "descriptions":  "",
         "reviews": [],
         "students": [],
         "image1xURL": "https://img-a.udemycdn.com/course/240x135/1974404_c458.jpg",
@@ -15,7 +15,7 @@
         "discountPrice": 11.99,
         "originalPrice": 129.99,
         "numViews": 0,
-        "curriculum": []
+        "curriculum": {}
     },
     "reviews": [
         {
@@ -72,73 +72,85 @@
             "name": "Mauricio Portillo",
             "email": "mauricioportillo@gmail.com",
             "password": "mauricioportillo",
-            "role": "s"
+            "role": "s",
+"isConfirmed": true
         },
         {
             "name": "Ryan Porter",
             "email": "ryanporter@gmail.com",
             "password": "ryanporter",
-            "role": "s"
+            "role": "s",
+"isConfirmed": true
         },
         {
             "name": "Axel Rodriguez",
             "email": "axelrodriguez@gmail.com",
             "password": "axelrodriguez",
-            "role": "s"
+            "role": "s",
+"isConfirmed": true
         },
         {
             "name": "Jan Schmidtke",
             "email": "janschmidtke@gmail.com",
             "password": "janschmidtke",
-            "role": "s"
+            "role": "s",
+"isConfirmed": true
         },
         {
             "name": "Jeremy Toh Hong Hing",
             "email": "jeremytohhonghing@gmail.com",
             "password": "jeremytohhonghing",
-            "role": "s"
+            "role": "s",
+"isConfirmed": true
         },
         {
             "name": "Chris Lewandowski",
             "email": "chrislewandowski@gmail.com",
             "password": "chrislewandowski",
-            "role": "s"
+            "role": "s",
+"isConfirmed": true
         },
         {
             "name": "Noureddine Saidana",
             "email": "noureddinesaidana@gmail.com",
             "password": "noureddinesaidana",
-            "role": "s"
+            "role": "s",
+"isConfirmed": true
         },
         {
             "name": "Rich H",
             "email": "richh@gmail.com",
             "password": "richh",
-            "role": "s"
+            "role": "s",
+"isConfirmed": true
         },
         {
             "name": "Allen B. Herrera",
             "email": "allenb.herrera@gmail.com",
             "password": "allenb.herrera",
-            "role": "s"
+            "role": "s",
+"isConfirmed": true
         },
         {
             "name": "Juan Molinar",
             "email": "juanmolinar@gmail.com",
             "password": "juanmolinar",
-            "role": "s"
+            "role": "s",
+"isConfirmed": true
         },
         {
             "name": "Hernan Sagastume",
             "email": "hernansagastume@gmail.com",
             "password": "hernansagastume",
-            "role": "s"
+            "role": "s",
+"isConfirmed": true
         },
         {
             "name": "Amin Khan",
             "email": "aminkhan@gmail.com",
             "password": "aminkhan",
-            "role": "s"
+            "role": "s",
+"isConfirmed": true
         }
     ],
     "instructor": {
@@ -146,6 +158,7 @@
         "email": "jamesdoyle@gmail.com",
         "password": "jamesdoyle",
         "role": "i",
+"isConfirmed": true,
         "briefIntroduction": "<p>Hi, I'm James. I have helped thousands of people learn how to develop their own games in Unity, and whether you're a first-time developer, or need to refresh your skills, I can help you learn to make the games you want to make.</p><p>With a bachelors degree in Computer Science and a background working in independent game development, I have been helping others to create their own games and release them on multiple platforms.</p><p>I believe in helping you learn by teaching code in context, so rather than having to memorize a bunch of stuff you've never seen before, you learn how each coding concept can be applied to real working problems in your games.</p><p><strong>I can't wait to help you learn all about making your own games and how to make them a success.</strong></p><p>So why not start learning to make games with me now?</p><p>See you soon!</p><p>James</p>"
     }
 }

@@ -6,7 +6,7 @@
     "course": {
         "title": "The Python Mega Course: Build 10 Real World Applications",
         "subtitle": "A complete practical Python course for both beginners & intermediates! Master Python 3 by making 10 amazing Python apps.",
-        "descriptions": [],
+        "descriptions":  "",
         "reviews": [],
         "students": [],
         "image1xURL": "https://img-a.udemycdn.com/course/240x135/692188_9da7_15.jpg",
@@ -15,7 +15,7 @@
         "discountPrice": 11.99,
         "originalPrice": 129.99,
         "numViews": 0,
-        "curriculum": []
+        "curriculum": {}
     },
     "reviews": [
         {
@@ -72,115 +72,134 @@
             "name": "Mustafa Vadnagarwala",
             "email": "mustafavadnagarwala@gmail.com",
             "password": "mustafavadnagarwala",
-            "role": "s"
+            "role": "s",
+"isConfirmed": true
         },
         {
             "name": "Ardit Sulce",
             "email": "arditsulce@gmail.com",
             "password": "arditsulce",
-            "role": "s"
+            "role": "s",
+"isConfirmed": true
         },
         {
             "name": "Kevin Hanslo",
             "email": "kevinhanslo@gmail.com",
             "password": "kevinhanslo",
-            "role": "s"
+            "role": "s",
+"isConfirmed": true
         },
         {
             "name": "Ardit Sulce",
             "email": "arditsulce@gmail.com",
             "password": "arditsulce",
-            "role": "s"
+            "role": "s",
+"isConfirmed": true
         },
         {
             "name": "Edgar Tomic",
             "email": "edgartomic@gmail.com",
             "password": "edgartomic",
-            "role": "s"
+            "role": "s",
+"isConfirmed": true
         },
         {
             "name": "W. S.",
             "email": "w.s.@gmail.com",
             "password": "w.s.",
-            "role": "s"
+            "role": "s",
+"isConfirmed": true
         },
         {
             "name": "Ardit Sulce",
             "email": "arditsulce@gmail.com",
             "password": "arditsulce",
-            "role": "s"
+            "role": "s",
+"isConfirmed": true
         },
         {
             "name": "Minna",
             "email": "minna@gmail.com",
             "password": "minna",
-            "role": "s"
+            "role": "s",
+"isConfirmed": true
         },
         {
             "name": "Ardit Sulce",
             "email": "arditsulce@gmail.com",
             "password": "arditsulce",
-            "role": "s"
+            "role": "s",
+"isConfirmed": true
         },
         {
             "name": "Phil Parkin",
             "email": "philparkin@gmail.com",
             "password": "philparkin",
-            "role": "s"
+            "role": "s",
+"isConfirmed": true
         },
         {
             "name": "Ardit Sulce",
             "email": "arditsulce@gmail.com",
             "password": "arditsulce",
-            "role": "s"
+            "role": "s",
+"isConfirmed": true
         },
         {
             "name": "Jonathan Ressler",
             "email": "jonathanressler@gmail.com",
             "password": "jonathanressler",
-            "role": "s"
+            "role": "s",
+"isConfirmed": true
         },
         {
             "name": "Navdeep Gupta",
             "email": "navdeepgupta@gmail.com",
             "password": "navdeepgupta",
-            "role": "s"
+            "role": "s",
+"isConfirmed": true
         },
         {
             "name": "Sasikumar Sivaraman",
             "email": "sasikumarsivaraman@gmail.com",
             "password": "sasikumarsivaraman",
-            "role": "s"
+            "role": "s",
+"isConfirmed": true
         },
         {
             "name": "Vasamsette Shanmukha Raju",
             "email": "vasamsetteshanmukharaju@gmail.com",
             "password": "vasamsetteshanmukharaju",
-            "role": "s"
+            "role": "s",
+"isConfirmed": true
         },
         {
             "name": "Ardit Sulce",
             "email": "arditsulce@gmail.com",
             "password": "arditsulce",
-            "role": "s"
+            "role": "s",
+"isConfirmed": true
         },
         {
             "name": "Cobus Opperman",
             "email": "cobusopperman@gmail.com",
             "password": "cobusopperman",
-            "role": "s"
+            "role": "s",
+"isConfirmed": true
         },
         {
             "name": "Ardit Sulce",
             "email": "arditsulce@gmail.com",
             "password": "arditsulce",
-            "role": "s"
+            "role": "s",
+"isConfirmed": true
         },
         {
             "name": "Anders Viklund",
             "email": "andersviklund@gmail.com",
             "password": "andersviklund",
-            "role": "s"
+            "role": "s",
+"isConfirmed": true
         }
     ],
     "instructor": {
@@ -188,6 +207,7 @@
         "email": "arditsulce@gmail.com",
         "password": "arditsulce",
         "role": "i",
+"isConfirmed": true,
         "briefIntroduction": "<p>Hi, I am Ardit! I am a Python programmer and a Python teacher. I have worked with companies from many countries both as an employee and as self-employed. I have used Python as a data science tool and a language to develop both desktop and web applications. Some of the projects I have worked on have been using Python together with the Center for Conservation Geography to map and understand the Australian ecosystems, process drone land images with the Swiss in-Terra, and performing data mining to gain business insights with the Australian Rapid Intelligence.</p><p><br></p><p>I will teach you how you can use Python, just like I do. I take care to explain the programming concepts assuming my students don't have a computer science background. Indeed, you don't need a computer science degree to become a programmer. </p><p>I was graduated with a Master of Science in Geospatial Technologies from the University of Muenster in Germany. I am also the founder and author of PythonHow, a Python learning resource designed particularly for people with no previous programming experience. Try out one of my courses, and you will be on for an exciting ride.</p>"
     }
 }
