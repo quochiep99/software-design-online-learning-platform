@@ -99,7 +99,7 @@
                                         <span>{{this.rating}}</span>
                                         <div class="ratingStar"></div> ({{this.reviews.length}} ratings)
                                     </div>
-                                    
+
                                 </div>
                                 <ul>
                                     <li><i class="fas fa-file-signature"></i> {{this.totalStudents}}</li>
@@ -201,25 +201,21 @@
 
                     <hr>
 
-                    <div class="reviews-container">
+                    <div id="reviewRatings" class="reviews-container">
                         {{#each course.reviews as |review|}}
                         <div class="review-box clearfix">
                             <figure class="rev-thumb"><img src="http://via.placeholder.com/150x150/ccc/fff/avatar3.jpg"
                                     alt="">
                             </figure>
                             <div class="rev-content">
-                                <div class="rating">
-                                    <i class="icon-star voted"></i><i class="icon_star voted"></i><i
-                                        class="icon_star voted"></i><i class="icon_star voted"></i><i
-                                        class="icon_star"></i>
-                                </div>
                                 <div class="rev-info">
-                                    {{review.author.name}} – {{getTimeAgo review.createdAt}}
+                                    <b>{{review.author.name}}</b> – {{getTimeAgo review.createdAt}}
                                 </div>
                                 <div class="rev-text">
-                                    <p>
-                                        {{review.rating}}
-                                    </p>
+                                    <div class="rating">
+                                        <span>{{review.rating}}</span>
+                                        <div class="ratingStar"></div>
+                                    </div>
                                     <p>
                                         {{review.body}}
                                     </p>
