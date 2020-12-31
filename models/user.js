@@ -68,6 +68,7 @@ UserSchema.methods.enroll = function (course) {
     }
     this.enrolledCourses.push(course);
     course.students.push(this);
+    course.totalStudents++;
 }
 UserSchema.methods.addToWishList = function (course) {
     // avoid course duplicates
@@ -76,7 +77,6 @@ UserSchema.methods.addToWishList = function (course) {
             return;
         }
     }
-
     this.wishList.push(course);
 }
 

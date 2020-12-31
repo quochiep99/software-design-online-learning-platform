@@ -97,65 +97,65 @@ router.get("/register", (req, res) => {
     res.render("register", { layout: false });
 })
 router.post("/register", async (req, res) => {
-    const { name, email, password, re_password } = req.body;
-    const errors = [];
+    try {
+        const { name, email, password, re_password } = req.body;
+        const errors = [];
 
-    // Input validation
-    if (!name || !email || !password || !re_password) {
-        errors.push("Please fill in all fields !");
-    }
-    if (password !== re_password) {
-        errors.push("Passwords do not match !");
-    }
-
-    if (await User.findOne({ email })) {
-        errors.push("This email already exists !");
-    }
-    // if errors exist
-    if (errors.length) {
-        req.flash("errors", errors);
-        return res.redirect("/register");
-    }
-    // Validation passed !
-    const salt = await bcrypt.genSalt(10);
-    // we store the hashed version of user's password to DB
-    const hashedPassword = await bcrypt.hash(password, salt);
-
-    const emailToken = jwt.sign({ email, password }, process.env.JWT_SECRET_KEY);
-    const newUser = await User.create({
-        name: name,
-        email: email,
-        password: hashedPassword,
-        emailToken: emailToken
-    })
-
-    const transporter = nodemailer.createTransport({
-        service: process.env.SERVICE,
-        auth: {
-            user: process.env.USER,
-            pass: process.env.PASS
+        // Input validation
+        if (!name || !email || !password || !re_password) {
+            errors.push("Please fill in all fields !");
         }
-    });
+        if (password !== re_password) {
+            errors.push("Passwords do not match !");
+        }
 
-    const mailOptions = {
-        from: process.env.USER,
-        to: newUser.email,
-        subject: "Udema - Email Confirmation",
-        html: require("../utils/emailConfirmation.js")(req, emailToken)
-    };
+        if (await User.findOne({ email })) {
+            errors.push("This email already exists !");
+        }
+        // if errors exist
+        if (errors.length) {
+            req.flash("errors", errors);
+            return res.redirect("/register");
+        }
+        // Validation passed !
+        const salt = await bcrypt.genSalt(10);
+        // we store the hashed version of user's password to DB
+        const hashedPassword = await bcrypt.hash(password, salt);
 
-    const info = await transporter.sendMail(mailOptions);
-    if (info) {
-        console.log("Email sent: " + info.response);
-        return res.render("emailConfirmation", {
-            layout: false,
-            success_msg: "We have sent you a confirmation link to your email. Please check it out and activate your account"
+        const emailToken = jwt.sign({ email, password }, process.env.JWT_SECRET_KEY);
+        const newUser = await User.create({
+            name: name,
+            email: email,
+            password: hashedPassword,
+            emailToken: emailToken
+        })
+
+        const transporter = nodemailer.createTransport({
+            service: process.env.SERVICE,
+            auth: {
+                user: process.env.USER,
+                pass: process.env.PASS
+            }
         });
+
+        const mailOptions = {
+            from: process.env.USER,
+            to: newUser.email,
+            subject: "Udema - Email Confirmation",
+            html: require("../utils/emailConfirmation.js")(req, emailToken)
+        };
+
+        const info = await transporter.sendMail(mailOptions);
+        if (info) {
+            console.log("Email sent: " + info.response);
+            req.flash("success_msg", "We have sent you a confirmation link to your email. Please check it out and activate your account");
+            res.redirect("/login");
+        }
+    } catch (err) {
+        console.log(err);
+        // error happens
+        res.redirect("/");
     }
-    // error happens
-    res.redirect("/");
-
-
 })
 
 // Email confirmation
@@ -515,7 +515,7 @@ router.post("/upload/courses/new", middleware.ensureAuthenticated, middleware.is
 })
 
 // Edit courses
-router.get("/it/:field/courses/:id/edit", middleware.ensureAuthenticated, middleware.isInstructor, middleware.checkUploadedCourseOwnership, async (req, res) => {    
+router.get("/it/:field/courses/:id/edit", middleware.ensureAuthenticated, middleware.isInstructor, middleware.checkUploadedCourseOwnership, async (req, res) => {
     const course = await Course.findById(req.params.id).
         populate("field");
     if (course) {
