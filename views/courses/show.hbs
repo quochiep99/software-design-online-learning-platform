@@ -22,14 +22,14 @@
 
             <h6 class="lead">{{course.subtitle}}</h6>
             <hr class="my-4">
-            <p>
-                <span>
-                    {{course.rating}}
-                </span>
-            </p>
+            <span>
+                {{course.rating}}
+            </span>
             <div id="showCourse"></div>
             ({{course.reviews.length}} ratings) {{course.students.length}} students
-            <p>Last updated {{getLastUpdatedString course.updatedAt}}</p>
+
+            <p class="my-1">Created by {{course.instructor.name}}</p>
+            <p class="my-1">Last updated {{getLastUpdatedString course.updatedAt}}</p>
 
             {{#checkUploadedCourseOwnership currentUser course}}
             <a href="/it/{{course.field.name}}/courses/{{course._id}}/edit" class="btn btn-info">Edit this course</a>
