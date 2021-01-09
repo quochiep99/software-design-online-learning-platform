@@ -122,13 +122,44 @@ router.get("/:id/purchase", middleware.ensureAuthenticated, async (req, res) => 
     res.redirect(`/it/${req.params.field}/courses/${req.params.id}/learn`);
 });
 
+// Preview route
+router.get("/:id/preview/", async (req, res) => {
+    const course = await Course.findById(req.params.id).
+        populate("field");
+    res.render("learn", {
+        layout: false,
+        course: course,
+        isPreviewMode: true
+    })
+});
+
+router.get("/:id/preview/:currentLessonName", async (req, res) => {
+    const course = await Course.findById(req.params.id);
+    const curriculum = course.curriculum;
+    for (var i = 0; i < curriculum.children.length; i++) {
+        for (var j = 0; j < curriculum.children[i].children.length; j++) {
+            if (path.parse(curriculum.children[i].children[j].name).name === req.params.currentLessonName) {
+                const videoPath = curriculum.children[i].children[j].path.replace("public", "").replace(/\\/g, "/");
+                return res.render("learn", {
+                    layout: false,
+                    course: course,
+                    videoPath: videoPath,
+                    currentLessonName: req.params.currentLessonName,
+                    isPreviewMode: true
+                })
+            }
+        }
+    }
+});
+
 // Learn route
 router.get("/:id/learn/", middleware.ensureAuthenticated, middleware.checkEnrolledCourseOwnership, async (req, res) => {
     const course = await Course.findById(req.params.id).
         populate("field");
     res.render("learn", {
         layout: false,
-        course: course
+        course: course,
+        isPreviewMode: false
     })
 });
 
@@ -149,8 +180,6 @@ router.get("/:id/learn/:currentLessonName", middleware.ensureAuthenticated, midd
             }
         }
     }
-
-
 });
 
 // Add course to wishlist

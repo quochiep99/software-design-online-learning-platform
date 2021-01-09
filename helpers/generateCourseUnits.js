@@ -1,6 +1,6 @@
 const converter = require('number-to-words');
 const path = require("path");
-module.exports = (course, currentLessonName) => {
+module.exports = (course, currentLessonName, isPreviewMode) => {
     const curriculum = course.curriculum;
     if ((!curriculum) || (Object.keys(curriculum).length === 0 && curriculum.constructor === Object)) {
         return "No curriculum has been uploaded !!!"
@@ -8,7 +8,7 @@ module.exports = (course, currentLessonName) => {
 
     var str = "";
 
-    for (var i = 0; i < curriculum.children.length; i++) {
+    for (var i = 0; i < curriculum.children.length; i++) {        
         const sectionName = curriculum.children[i].name;
         const sectionNumberInString = converter.toWords(i + 1);
 
@@ -46,7 +46,7 @@ module.exports = (course, currentLessonName) => {
                 str += `                        
                 <a href="/it/${course.field.name}/courses/${course._id}/learn/${lessonName}" class="list-group-item list-group-item-action">${lessonName}</a>
                 `
-            }
+            }            
         }
         str += `
                     </div>
@@ -54,6 +54,10 @@ module.exports = (course, currentLessonName) => {
             </div>
         </div>
         `
+        if (isPreviewMode) {
+            str = str.replace(/learn/g, "preview");
+            break;
+        }
     };
     return str;
 }

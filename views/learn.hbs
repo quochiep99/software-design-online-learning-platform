@@ -32,13 +32,14 @@
     </nav>
 
     <div class="container">
+        {{#if isPreviewMode}}
+        <h2>Preview Sections</h2>
+        {{/if}}
         <div class="row">
             <div class="col-sm-8">
                 <video id="player" playsinline controls
                     data-poster="https://images.unsplash.com/photo-1556760485-7cf177437ac1?ixlib=rb-1.2.1&ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&auto=format&fit=crop&w=900&q=80">
-                    <source
-                        src="{{videoPath}}"
-                        type="video/mp4" />
+                    <source src="{{videoPath}}" type="video/mp4" />
                 </video>
                 <div class="pt-3">
                     <button type="button" class="btn btn-success btn-lg">Save progress</button>
@@ -46,7 +47,7 @@
             </div>
             <div class="col-sm-4">
                 <div class="accordion accordion-flush" id="accordionFlushExample">
-                    {{{generateCourseUnits course currentLessonName}}}
+                    {{{generateCourseUnits course currentLessonName isPreviewMode}}}
                 </div>
             </div>
         </div>
