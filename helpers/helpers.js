@@ -22,6 +22,6 @@ helpers.checkUploadedCourseOwnership = require("./checkUploadedCourseOwnership")
 
 helpers.generateCourseUnits = require("./generateCourseUnits");
 
-helpers.generateFieldsList = require("./generateFieldsList");
+helpers.generateNavFieldsList = require("./generateNavFieldsList");
 
 module.exports = helpers;

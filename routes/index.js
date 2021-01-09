@@ -464,9 +464,20 @@ router.post("/profile/account-security", middleware.ensureAuthenticated, async (
 })
 
 // Create new courses
-router.get("/courses/new", middleware.ensureAuthenticated, middleware.isInstructor, (req, res) => {
+router.get("/courses/new", middleware.ensureAuthenticated, middleware.isInstructor, async (req, res) => {
+    const fields = await Field.find({});
     res.render("courses/new", {
-        layout: false
+        layout: false,
+        fields: fields,
+        helpers: {
+            generateFieldNames: (fields) => {
+                var ret = "";
+                for (const field of fields) {
+                    ret += `<option>${require("../helpers/getFieldName")(field.name)}</option>`
+                }
+                return ret;
+            }
+        }        
     });
 })
 
