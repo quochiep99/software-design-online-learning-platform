@@ -84,7 +84,12 @@
                                     <div class="rs-select2 js-select-simple select--no-search">
                                         <select name="fieldName">
                                             <option disabled="disabled" selected="selected">Choose field</option>
-                                            {{{generateFieldNames fields}}}                                            
+                                            {{#if fields}}
+                                            {{#each fields as |field|}}
+                                            <option>{{getFieldName field.name}}</option>
+                                            {{/each}}
+                                            {{/if}}
+
                                         </select>
                                         <div class="select-dropdown"></div>
                                     </div>
@@ -133,7 +138,7 @@
                         <div class="form-row">
                             <div class="name">Check this if the course is complete</div>
                             <div class="value">
-                                <div class="input-group">                                    
+                                <div class="input-group">
                                     <input id="c1" type="checkbox" name="isComplete">
                                 </div>
                             </div>

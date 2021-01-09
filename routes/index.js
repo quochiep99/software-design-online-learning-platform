@@ -468,16 +468,7 @@ router.get("/courses/new", middleware.ensureAuthenticated, middleware.isInstruct
     const fields = await Field.find({});
     res.render("courses/new", {
         layout: false,
-        fields: fields,
-        helpers: {
-            generateFieldNames: (fields) => {
-                var ret = "";
-                for (const field of fields) {
-                    ret += `<option>${require("../helpers/getFieldName")(field.name)}</option>`
-                }
-                return ret;
-            }
-        }        
+        fields: fields
     });
 })
 
@@ -486,15 +477,11 @@ router.get("/courses/new", middleware.ensureAuthenticated, middleware.isInstruct
 router.post("/upload/courses/new", middleware.ensureAuthenticated, middleware.isInstructor, (req, res) => {
     upload(req, res, async function (err) {
         if (err) {
-            res.render("courses/new", {
-                layout: false,
-                error_msg: err
-            })
+            req.flash("error_msg", err);
+            res.redirect("/courses/new")
         } else if (!req.file) {
-            res.render("courses/new", {
-                layout: false,
-                error_msg: "Please upload your video files first !"
-            })
+            req.flash("error_msg", "Please upload your video files first !");
+            res.redirect("/courses/new")
         } else {
             // Unzip the zip file
             const filePath = `public/uploads/${req.file.originalname}`;
@@ -516,10 +503,9 @@ router.post("/upload/courses/new", middleware.ensureAuthenticated, middleware.is
 
             await models.createCourse(req.body);
 
-            res.render("courses/new", {
-                layout: false,
-                success_msg: "File Uploaded !"
-            })
+            req.flash("success_msg", "Files Uploaded Successfully!");
+            res.redirect("/courses/new")
+
         }
 
     })
