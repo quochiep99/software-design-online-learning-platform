@@ -84,8 +84,10 @@
             <nav id="menu" class="main-menu">
                 <ul>
                     <li><span><a href="#">Categories</a></span>
-                        {{{generateFieldsList navFields}}}
-                    </li>                    
+                        <ul>
+                            {{{generateFieldsList navFields}}}
+                        </ul>
+                    </li>
                     {{{generateProfileOptions currentUser}}}
 
                 </ul>
@@ -115,25 +117,7 @@
                                         IT
                                     </a>
                                     <ul class="dropdown-menu" aria-labelledby="navbarDropdown1">
-                                        <li>
-                                            <a class="dropdown-item" href="/it/web-development/courses">Web
-                                                Development</a>
-                                        </li>
-                                        <li>
-                                            <a class="dropdown-item" href="/it/data-science/courses">Data Science</a>
-                                        </li>
-                                        <li>
-                                            <a class="dropdown-item" href="/it/mobile-development/courses">Mobile
-                                                Development</a>
-                                        </li>
-                                        <li>
-                                            <a class="dropdown-item"
-                                                href="/it/programming-languages/courses">Programming Languages</a>
-                                        </li>
-                                        <li>
-                                            <a class="dropdown-item" href="/it/game-development/courses">Game
-                                                Development</a>
-                                        </li>
+                                        {{{generateFieldsList navFields}}}
                                     </ul>
                                 </li>
                             </ul>

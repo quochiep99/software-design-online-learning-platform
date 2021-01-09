@@ -1,11 +1,11 @@
 module.exports = (navFields) => {
-    var ret = "<ul>";
+    var ret = "";
     for (const navField of navFields) {
         ret += `
-            <li><a href="/it/${navField.name}/courses/">
+            <li><a class="dropdown-item" href="/it/${navField.name}/courses/">
             ${require("./getFieldName")(navField.name)}</a></li>
             `
     }
-    ret += "</ul>";
+
     return ret;
 }
