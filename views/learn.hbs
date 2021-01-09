@@ -41,6 +41,8 @@
                     data-poster="https://images.unsplash.com/photo-1556760485-7cf177437ac1?ixlib=rb-1.2.1&ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&auto=format&fit=crop&w=900&q=80">
                     <source src="{{videoPath}}" type="video/mp4" />
                 </video>
+
+                {{#unless isPreviewMode}}
                 <div class="pt-3">
                     <button type="button" class="btn btn-success btn-lg">Save progress</button>
                 </div>
@@ -53,18 +55,21 @@
                 <div class="collapse" id="collapseExample">
                     <form>
                         <div class="mb-3">
-                            <label for="exampleInputEmail1" class="form-label">Rating</label>
-                            <input type="email" class="form-control" id="exampleInputEmail1"
-                                aria-describedby="emailHelp">                            
+                            <div>
+                                <h2><span class="live-rating"></span></h2>
+                                <span id="rater-step"></span>
+                            </div>
                         </div>
                         <div class="mb-3">
                             <label for="exampleFormControlTextarea1" class="form-label">Your feedback</label>
                             <textarea class="form-control" id="exampleFormControlTextarea1" rows="3"></textarea>
                         </div>
 
-                        <div class="text-center"><button type="submit" class="btn btn-primary">Rate</button></div>
+                        <div class="text-center"><button type="submit" class="btn btn-success">Rate</button></div>
                     </form>
                 </div>
+                {{/unless}}
+
             </div>
             <div class="col-sm-4">
                 <div class="accordion accordion-flush" id="accordionFlushExample">
@@ -79,6 +84,8 @@
         integrity="sha384-ygbV9kiqUc6oa4msXn9868pTtWMgiQaeYH7/t7LECLbyPA2x65Kgf80OJFdroafW"
         crossorigin="anonymous"></script>
 
+    <script src="https://cdn.jsdelivr.net/npm/rater-js@1.0.1/index.min.js"></script>
+    <script src="/learn/learn.js"></script>
 </body>
 
 </html>
