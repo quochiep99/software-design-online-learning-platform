@@ -35,6 +35,12 @@
         {{#if isPreviewMode}}
         <h2>Preview Sections</h2>
         {{/if}}
+        {{#if success_msg}}
+        <div class="alert alert-success alert-dismissible fade show" role="alert">
+            <strong>{{success_msg}}</strong>
+            <button type="button" class="btn-close" data-bs-dismiss="alert" aria-label="Close"></button>
+        </div>
+        {{/if}}
         <div class="row">
             <div class="col-sm-8">
                 <video id="player" playsinline controls

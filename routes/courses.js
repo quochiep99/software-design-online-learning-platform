@@ -242,6 +242,7 @@ router.post("/:id/users", middleware.ensureAuthenticated, middleware.checkEnroll
     user.updateProgress(courseName, req.body);
     user.markModified("progress");
     await user.save();
+    req.flash("success_msg", "Progress saved successfully !")
     res.redirect(`/it/${course.field.name}/courses/${course._id}/learn`);
 });
 
