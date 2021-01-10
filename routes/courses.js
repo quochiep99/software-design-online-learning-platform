@@ -219,6 +219,11 @@ router.post("/:id/reviews/", middleware.ensureAuthenticated, middleware.checkEnr
     res.redirect(`/it/${course.field.name}/courses/${course._id}`);
 })
 
+// Track course progress
+router.post("/:id/users", middleware.ensureAuthenticated, middleware.checkEnrolledCourseOwnership, async (req, res) => {
+    res.send("ok");
+});
+
 // Add course to wishlist
 router.get("/:id/wishlist", middleware.ensureAuthenticated, async (req, res) => {
     const user = req.user;

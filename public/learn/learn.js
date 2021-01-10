@@ -1,3 +1,4 @@
+// Rating system
 var starRatingStep = raterJs({
     starSize: 32,
     step: 0.1,
@@ -13,3 +14,9 @@ var starRatingStep = raterJs({
         document.querySelector('#rating').value = currentRating.toFixed(1);
     }
 });
+
+// Save progress
+
+document.querySelector("#saveProgressBtn").addEventListener("click", () => {
+    document.querySelector("#progress").submit();
+})
