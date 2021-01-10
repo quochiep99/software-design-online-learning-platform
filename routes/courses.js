@@ -2,6 +2,7 @@ const express = require("express");
 const Course = require("../models/course");
 const Field = require("../models/field");
 const Review = require("../models/review");
+const User = require("../models/user");
 const middleware = require("../middleware");
 const path = require("path");
 
@@ -221,7 +222,14 @@ router.post("/:id/reviews/", middleware.ensureAuthenticated, middleware.checkEnr
 
 // Track course progress
 router.post("/:id/users", middleware.ensureAuthenticated, middleware.checkEnrolledCourseOwnership, async (req, res) => {
-    res.send("ok");
+    const course = await Course.findById(req.params.id).
+        populate("field");
+    const courseName = course.title;
+    const user = req.user;
+    user.updateProgress(courseName, req.body);
+    user.markModified("progress");
+    await user.save();
+    res.redirect(`/it/${course.field.name}/courses/${course._id}/learn`);
 });
 
 // Add course to wishlist

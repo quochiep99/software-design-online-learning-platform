@@ -1,7 +1,9 @@
 const mongoose = require("mongoose");
 const Course = require("./course");
 const Field = require("./field");
+const path = require("path");
 const Schema = mongoose.Schema;
+
 
 const reqString = {
     type: String,
@@ -97,6 +99,28 @@ UserSchema.methods.removeFromWishList = function (course) {
     for (var i = 0; i < this.wishList.length; i++) {
         if (this.wishList[i]._id.equals(course._id)) {
             this.wishList.splice(i, 1);
+            break;
+        }
+    }
+}
+
+UserSchema.methods.updateProgress = function (courseName, progress) {
+    for (var i = 0; i < this.progress.length; i++) {
+        // course name
+        if (this.progress[i].name === courseName) {
+            for (var j = 0; j < this.progress[i].children.length; j++) {
+                // course section
+                for (var k = 0; k < this.progress[i].children[j].children.length; k++) {
+                    // course unit 
+                    // unit name
+                    const unitName = path.parse(this.progress[i].children[j].children[k].name).name;
+                    if (unitName in progress) {
+                        this.progress[i].children[j].children[k].isWatched = true;
+                    } else {
+                        this.progress[i].children[j].children[k].isWatched = false;
+                    }
+                }
+            }
             break;
         }
     }
