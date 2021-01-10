@@ -1,6 +1,6 @@
 const mongoose = require("mongoose");
 const Course = require("./course");
-
+const Field = require("./field");
 const Schema = mongoose.Schema;
 
 const reqString = {
@@ -69,6 +69,14 @@ UserSchema.methods.enroll = function (course) {
     this.enrolledCourses.push(course);
     course.students.push(this);
     course.totalStudents++;
+    Field.findById(course.field)
+        .then((field) => {
+            field.totalStudents++;
+            field.save()
+                .then(() => {
+                    console.log("Field's total students updated !!!");
+                })
+        })
 }
 UserSchema.methods.addToWishList = function (course) {
     // avoid course duplicates
