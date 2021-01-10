@@ -37,7 +37,7 @@ module.exports = (course, curriculum, currentLessonName, isPreviewMode) => {
         `
         for (var j = 0; j < curriculum.children[i].children.length; j++) {
             const lessonName = path.parse(curriculum.children[i].children[j].name).name;
-            const isChecked = (curriculum.children[i].children[j].isWatched === true) ? "checked" : "";
+            const isChecked = (curriculum.children[i].children[j].isWatched === true) ? `checked="checked"` : ``;
             if (currentLessonName === lessonName) {
                 str += `                        
                 <a href="/it/${course.field.name}/courses/${course._id}/learn/${lessonName}" class="list-group-item list-group-item-action list-group-item-success">                
