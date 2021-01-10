@@ -1,6 +1,7 @@
 const express = require("express");
 const Course = require("../models/course");
 const Field = require("../models/field");
+const Review = require("../models/review");
 const middleware = require("../middleware");
 const path = require("path");
 
@@ -181,6 +182,31 @@ router.get("/:id/learn/:currentLessonName", middleware.ensureAuthenticated, midd
         }
     }
 });
+
+// Leave a Review route
+router.post("/:id/reviews/", middleware.ensureAuthenticated, middleware.checkEnrolledCourseOwnership, async (req, res) => {
+    // The person making the review
+    const user = req.user;
+
+    const { rating, body } = req.body;
+
+    // Create review
+    var review = await Review.create({
+        rating,
+        body
+    });
+    review.author = user;
+    review = await review.save();
+
+    var course = await Course.findById(req.params.id).
+        populate("field");
+    course.reviews.push(review);
+    // Re-calculate the average rating
+    course.calculateAverageRating(() => { });
+    course = await course.save();
+
+    res.redirect(`/it/${course.field.name}/courses/${course._id}`);
+})
 
 // Add course to wishlist
 router.get("/:id/wishlist", middleware.ensureAuthenticated, async (req, res) => {
