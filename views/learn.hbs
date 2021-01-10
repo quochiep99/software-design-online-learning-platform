@@ -75,7 +75,7 @@
             </div>
             <div class="col-sm-4">
 
-                <form>
+                <form action="/it/{{course.field.name}}/courses/{{course._id}}/users/" method="POST">
                     <div class="accordion accordion-flush" id="accordionFlushExample">
                         {{{generateCourseUnits course currentLessonName isPreviewMode}}}
                     </div>

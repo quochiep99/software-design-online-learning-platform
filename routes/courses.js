@@ -173,7 +173,8 @@ router.get("/:id/learn/", middleware.ensureAuthenticated, middleware.checkEnroll
 });
 
 router.get("/:id/learn/:currentLessonName", middleware.ensureAuthenticated, middleware.checkEnrolledCourseOwnership, async (req, res) => {
-    const course = await Course.findById(req.params.id);
+    const course = await Course.findById(req.params.id).
+        populate("field");
     const curriculum = course.curriculum;
     for (var i = 0; i < curriculum.children.length; i++) {
 

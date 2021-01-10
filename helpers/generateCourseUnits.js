@@ -40,14 +40,14 @@ module.exports = (course, currentLessonName, isPreviewMode) => {
             const lessonName = path.parse(curriculum.children[i].children[j].name).name;
             if (currentLessonName === lessonName) {
                 str += `                        
-                <a href="/it/${course.field.name}/courses/${course._id}/learn/${lessonName}" class="list-group-item list-group-item-action list-group-item-success">
-                    <input type="checkbox" class="form-check-input" id="exampleCheck1">
+                <a href="/it/${course.field.name}/courses/${course._id}/learn/${lessonName}" class="list-group-item list-group-item-action list-group-item-success">                
+                <input type="checkbox" class="form-check-input" id="exampleCheck1" name="${lessonName}">
                 ${lessonName}</a>
                 `
             } else {
                 str += `                        
-                <a href="/it/${course.field.name}/courses/${course._id}/learn/${lessonName}" class="list-group-item list-group-item-action">
-                    <input type="checkbox" class="form-check-input" id="exampleCheck1">
+                <a href="/it/${course.field.name}/courses/${course._id}/learn/${lessonName}" class="list-group-item list-group-item-action">                
+                <input type="checkbox" class="form-check-input" id="exampleCheck1" name="${lessonName}">
                 ${lessonName}</a>
                 `
             }
@@ -59,7 +59,9 @@ module.exports = (course, currentLessonName, isPreviewMode) => {
         </div>
         `
         if (isPreviewMode) {
-            str = str.replace(/learn/g, "preview");
+            str = str.
+                replace(/learn/g, "preview").
+                replace(/class="form-check-input" id="exampleCheck1"/g, `class="form-check-input" id="exampleCheck1" style="display:none"`);
             break;
         }
     };
