@@ -189,20 +189,27 @@ router.get("/:id/learn/", middleware.ensureAuthenticated, middleware.checkEnroll
 router.get("/:id/learn/:currentLessonName", middleware.ensureAuthenticated, middleware.checkEnrolledCourseOwnership, async (req, res) => {
     const course = await Course.findById(req.params.id).
         populate("field");
-    const curriculum = course.curriculum;
-    for (var i = 0; i < curriculum.children.length; i++) {
-
-        for (var j = 0; j < curriculum.children[i].children.length; j++) {
-            if (path.parse(curriculum.children[i].children[j].name).name === req.params.currentLessonName) {
-                const videoPath = curriculum.children[i].children[j].path.replace("public", "").replace(/\\/g, "/");
-                return res.render("learn", {
-                    layout: false,
-                    course: course,
-                    videoPath: videoPath,
-                    currentLessonName: req.params.currentLessonName
-                })
+    const progress = req.user.progress;
+    for (var i = 0; i < progress.length; i++) {
+        if (progress[i].name === course.title) {
+            const curriculum = progress[i];
+            for (var i = 0; i < curriculum.children.length; i++) {
+                for (var j = 0; j < curriculum.children[i].children.length; j++) {
+                    if (path.parse(curriculum.children[i].children[j].name).name === req.params.currentLessonName) {
+                        const videoPath = curriculum.children[i].children[j].path.replace("public", "").replace(/\\/g, "/");
+                        return res.render("learn", {
+                            layout: false,
+                            course: course,
+                            videoPath: videoPath,
+                            currentLessonName: req.params.currentLessonName,
+                            isPreviewMode: false,
+                            curriculum: curriculum
+                        })
+                    }
+                }
             }
         }
+        break;
     }
     // error happens
     res.render("404");
