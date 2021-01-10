@@ -74,6 +74,14 @@ router.get("/:id", async (req, res) => {
             populate({
                 path: "field"
             });
+        course.reviews.sort((review1, review2) => {
+            if (review1.updatedAt > review2.updatedAt) {
+                return -1;
+            } else if (review1.updatedAt < review2.updatedAt) {
+                return 1;
+            }
+            return 0;
+        });
         const recommendedCourses = await Course.
             find({ field: field._id }).
             sort("-totalStudents").
