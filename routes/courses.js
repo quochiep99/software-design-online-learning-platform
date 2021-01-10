@@ -207,10 +207,12 @@ router.post("/:id/reviews/", middleware.ensureAuthenticated, middleware.checkEnr
     review = await review.save();
 
     var course = await Course.findById(req.params.id).
-        populate("field");    
+        populate("field").
+        populate("reviews");
     course.addReview(review);
     await course.save();
 
+    req.flash("success_msg", "Thank you for your feedback !");
     res.redirect(`/it/${course.field.name}/courses/${course._id}`);
 })
 

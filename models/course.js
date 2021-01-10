@@ -101,8 +101,12 @@ CourseSchema.methods.calculateAverageRating = function (cb) {
 }
 
 CourseSchema.methods.addReview = function (review) {
+    var avg = 0;
     this.reviews.push(review);
-    this.rating = ((this.rating * this.reviews.length + review.rating) / (this.reviews.length + 1)).toFixed(1);
+    for (const review of this.reviews) {
+        avg += review.rating;
+    }
+    this.rating = (avg / (this.reviews.length)).toFixed(1);
 }
 
 module.exports = mongoose.model("Course", CourseSchema);
