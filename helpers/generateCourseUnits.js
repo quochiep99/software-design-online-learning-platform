@@ -14,7 +14,7 @@ module.exports = (course, curriculum, currentLessonName, isPreviewMode) => {
         var isHiddenClass = "accordion-button collapsed";
         var ariaExpanded = "false";
         var isShown = "collapse"
-        // Show the first lesson
+        // Show the first section
 
         if (i === 0) {
             isHiddenClass = "accordion-button";
@@ -39,6 +39,9 @@ module.exports = (course, curriculum, currentLessonName, isPreviewMode) => {
             const lessonName = path.parse(curriculum.children[i].children[j].name).name;
             const isChecked = (curriculum.children[i].children[j].isWatched === true) ? `checked="checked"` : ``;
             if (currentLessonName === lessonName) {
+                str = str.replace(`<div id="flush-collapse${sectionNumberInString}" class="accordion-collapse ${isShown}"`,
+                    `<div id="flush-collapse${sectionNumberInString}" class="accordion-collapse collapse show"`);
+
                 str += `                        
                 <a href="/it/${course.field.name}/courses/${course._id}/learn/${lessonName}" class="list-group-item list-group-item-action list-group-item-success">                
                 <input type="checkbox" class="form-check-input" id="exampleCheck1" name="${lessonName}" ${isChecked}>
