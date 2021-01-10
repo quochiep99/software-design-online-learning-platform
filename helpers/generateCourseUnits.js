@@ -8,7 +8,7 @@ module.exports = (course, currentLessonName, isPreviewMode) => {
 
     var str = "";
 
-    for (var i = 0; i < curriculum.children.length; i++) {        
+    for (var i = 0; i < curriculum.children.length; i++) {
         const sectionName = curriculum.children[i].name;
         const sectionNumberInString = converter.toWords(i + 1);
 
@@ -40,13 +40,17 @@ module.exports = (course, currentLessonName, isPreviewMode) => {
             const lessonName = path.parse(curriculum.children[i].children[j].name).name;
             if (currentLessonName === lessonName) {
                 str += `                        
-                <a href="/it/${course.field.name}/courses/${course._id}/learn/${lessonName}" class="list-group-item list-group-item-action list-group-item-success">${lessonName}</a>
+                <a href="/it/${course.field.name}/courses/${course._id}/learn/${lessonName}" class="list-group-item list-group-item-action list-group-item-success">
+                    <input type="checkbox" class="form-check-input" id="exampleCheck1">
+                ${lessonName}</a>
                 `
             } else {
                 str += `                        
-                <a href="/it/${course.field.name}/courses/${course._id}/learn/${lessonName}" class="list-group-item list-group-item-action">${lessonName}</a>
+                <a href="/it/${course.field.name}/courses/${course._id}/learn/${lessonName}" class="list-group-item list-group-item-action">
+                    <input type="checkbox" class="form-check-input" id="exampleCheck1">
+                ${lessonName}</a>
                 `
-            }            
+            }
         }
         str += `
                     </div>
