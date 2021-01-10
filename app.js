@@ -70,7 +70,7 @@ app.use(async function (req, res, next) {
     if (req.user) {
         res.locals.currentUser = req.user;
     }
-    if (req.url.includes("/it") || req.url.includes("/search") || req.url.includes("/my-courses") || req.url.includes("/courses")) {
+    if ((req.url.includes("/") && req.url.length===1) || req.url.includes("/it") || req.url.includes("/search") || req.url.includes("/my-courses") || req.url.includes("/courses")) {
         req.session.returnTo = req.url;
     }
     res.locals.navFields = await require("./models/field").find({});
