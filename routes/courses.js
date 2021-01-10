@@ -166,11 +166,24 @@ router.get("/:id/preview/:currentLessonName", async (req, res) => {
 router.get("/:id/learn/", middleware.ensureAuthenticated, middleware.checkEnrolledCourseOwnership, async (req, res) => {
     const course = await Course.findById(req.params.id).
         populate("field");
+    const progress = req.user.progress;
+    for (var i = 0; i < progress.length; i++) {
+        if (progress[i].name === course.title) {
+            return res.render("learn", {
+                layout: false,
+                course: course,
+                isPreviewMode: false,
+                curriculum: progress[i]
+            })
+        }
+    }
+    // error happens
     res.render("learn", {
         layout: false,
         course: course,
         isPreviewMode: false
     })
+    // res.redirect("/");
 });
 
 router.get("/:id/learn/:currentLessonName", middleware.ensureAuthenticated, middleware.checkEnrolledCourseOwnership, async (req, res) => {

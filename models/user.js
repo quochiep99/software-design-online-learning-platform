@@ -72,7 +72,9 @@ UserSchema.methods.enroll = function (course) {
         }
     }
     this.enrolledCourses.push(course);
-    this.progress.push(course.curriculum);
+    if (course.curriculum) {
+        this.progress.push(course.curriculum);
+    }
     course.students.push(this);
     course.totalStudents++;
     Field.findById(course.field)

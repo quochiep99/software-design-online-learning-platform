@@ -1,7 +1,6 @@
 const converter = require('number-to-words');
 const path = require("path");
-module.exports = (course, currentLessonName, isPreviewMode) => {
-    const curriculum = course.curriculum;
+module.exports = (course, curriculum, currentLessonName, isPreviewMode) => {
     if ((!curriculum) || (Object.keys(curriculum).length === 0 && curriculum.constructor === Object)) {
         return "No curriculum has been uploaded !!!"
     }
@@ -38,16 +37,17 @@ module.exports = (course, currentLessonName, isPreviewMode) => {
         `
         for (var j = 0; j < curriculum.children[i].children.length; j++) {
             const lessonName = path.parse(curriculum.children[i].children[j].name).name;
+            const isChecked = (curriculum.children[i].children[j].isWatched === true) ? "checked" : "";
             if (currentLessonName === lessonName) {
                 str += `                        
                 <a href="/it/${course.field.name}/courses/${course._id}/learn/${lessonName}" class="list-group-item list-group-item-action list-group-item-success">                
-                <input type="checkbox" class="form-check-input" id="exampleCheck1" name="${lessonName}">
+                <input type="checkbox" class="form-check-input" id="exampleCheck1" name="${lessonName}" ${isChecked}>
                 ${lessonName}</a>
                 `
             } else {
                 str += `                        
                 <a href="/it/${course.field.name}/courses/${course._id}/learn/${lessonName}" class="list-group-item list-group-item-action">                
-                <input type="checkbox" class="form-check-input" id="exampleCheck1" name="${lessonName}">
+                <input type="checkbox" class="form-check-input" id="exampleCheck1" name="${lessonName}" ${isChecked}>
                 ${lessonName}</a>
                 `
             }
