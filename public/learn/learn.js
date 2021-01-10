@@ -7,9 +7,9 @@ var starRatingStep = raterJs({
         done();
     },
     onHover: function (currentIndex, currentRating) {
-        document.querySelector('.live-rating').textContent = currentIndex.toFixed(1);
+        document.querySelector('#rating').value = currentIndex.toFixed(1);
     },
     onLeave: function (currentIndex, currentRating) {
-        document.querySelector('.live-rating').textContent = currentRating.toFixed(1);
+        document.querySelector('#rating').value = currentRating.toFixed(1);
     }
 });

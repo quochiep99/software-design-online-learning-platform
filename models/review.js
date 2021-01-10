@@ -10,7 +10,7 @@ const reqString = {
 
 const reqNum = {
     type: Number,
-    required: true
+    default: 0.5
 }
 
 const ReviewSchema = new Schema({

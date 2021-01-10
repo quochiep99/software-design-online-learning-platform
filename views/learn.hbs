@@ -55,14 +55,16 @@
                 <div class="collapse" id="collapseExample">
                     <form>
                         <div class="mb-3">
-                            <div>
-                                <h2><span class="live-rating"></span></h2>
+                            <div class="mb-3">
+                                <label for="rating" class="form-label">Rating</label>
+                                <input type="text" class="form-control text-right" id="rating" name="rating">
                                 <span id="rater-step"></span>
-                            </div>
+                            </div>                            
                         </div>
                         <div class="mb-3">
                             <label for="exampleFormControlTextarea1" class="form-label">Your feedback</label>
-                            <textarea class="form-control" id="exampleFormControlTextarea1" rows="3"></textarea>
+                            <textarea class="form-control" id="exampleFormControlTextarea1" rows="3" name="body"
+                                required></textarea>
                         </div>
 
                         <div class="text-center"><button type="submit" class="btn btn-success">Rate</button></div>

@@ -13,19 +13,18 @@ body {
     width: 100%;
 }
 
-/* .container {
-    margin-left:0;
-    margin-right: 0;
-} */
-
 div>.accordion-body {
     padding: 0;
 }
 
-div.col-sm-8>div {
+/* Save progress */
+
+div[class='pt-3'] {
     text-align: right;
 }
 
-button > b {
+/* Section title */
+
+button>b {
     text-align: left;
 }
