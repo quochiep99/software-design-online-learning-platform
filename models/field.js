@@ -34,12 +34,4 @@ const FieldSchema = new Schema({
 // create indexes for field.name to perform a full-text search on
 FieldSchema.index({ name: "text" });
 
-FieldSchema.methods.calculateTotalStudents = async function () {
-    await this.populate("courses").execPopulate();
-    for (var i = 0; i < this.courses.length; i++) {
-        this.totalStudents += await this.courses[i].students.length;
-    }
-    return this.totalStudents;
-}
-
 module.exports = mongoose.model("Field", FieldSchema);
