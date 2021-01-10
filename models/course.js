@@ -17,7 +17,11 @@ const reqNum = {
 
 const CourseSchema = new Schema({
     // course's title
-    title: reqString,
+    title: {
+        type: String,
+        required: true,
+        unique: true
+    },
 
     // the subtitle or short description of the course
     subtitle: reqString,

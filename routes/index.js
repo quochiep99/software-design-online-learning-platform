@@ -501,13 +501,16 @@ router.post("/upload/courses/new", middleware.ensureAuthenticated, middleware.is
             req.body.instructor = req.user;
             req.body.curriculum = filteredTree;
 
-            await models.createCourse(req.body);
-
-            req.flash("success_msg", "Files Uploaded Successfully!");
-            res.redirect("/courses/new")
-
+            // Check if the course name already exists
+            if (await Course.findOne({ title: req.body.title })) {
+                req.flash("error_msg", "Course name already exists. Please choose a different name !");
+            } else {
+                // valid course name
+                await models.createCourse(req.body);
+                req.flash("success_msg", "Files Uploaded Successfully!");
+            }
+            res.redirect("/courses/new");
         }
-
     })
 })
 

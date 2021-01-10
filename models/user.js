@@ -43,6 +43,9 @@ const UserSchema = new Schema({
             ref: "Course"
         }
     ],
+
+    // Track student's course progress
+    progress: [],
     // for instructors
     uploadedCourses: [
         {
@@ -67,6 +70,7 @@ UserSchema.methods.enroll = function (course) {
         }
     }
     this.enrolledCourses.push(course);
+    this.progress.push(course.curriculum);
     course.students.push(this);
     course.totalStudents++;
     Field.findById(course.field)
