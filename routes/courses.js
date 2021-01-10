@@ -189,6 +189,8 @@ router.get("/:id/learn/:currentLessonName", middleware.ensureAuthenticated, midd
             }
         }
     }
+    // error happens
+    res.render("404");
 });
 
 // Leave a Review route
