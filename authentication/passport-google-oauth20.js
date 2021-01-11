@@ -1,7 +1,6 @@
 const passport = require("passport");
 const GoogleStrategy = require('passport-google-oauth20').Strategy;
 const User = require("../models/user");
-const mongoose = require('mongoose');
 
 require('dotenv').config();
 
@@ -14,7 +13,6 @@ passport.deserializeUser(function (id, done) {
         done(err, user);
     });
 });
-
 
 passport.use(new GoogleStrategy({
     clientID: process.env.GOOGLE_CLIENT_ID,

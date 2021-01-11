@@ -5,7 +5,6 @@ const Course = require("../models/course");
 const Field = require("../models/field");
 const bcrypt = require('bcryptjs');
 const passport = require("passport");
-const LocalStrategy = require("passport-local").Strategy;
 const nodemailer = require('nodemailer');
 const middleware = require("../middleware");
 const multer = require("multer");
@@ -18,12 +17,9 @@ const dirTree = require("directory-tree");
 const models = require("../utils/models")
 require('events').EventEmitter.prototype._maxListeners = 100;
 
-
-
 require('dotenv').config();
 
 const jwt = require("jsonwebtoken");
-
 
 // Set Storage Engine
 const storage = multer.diskStorage({
@@ -45,9 +41,6 @@ const upload = multer({
         checkFileType(file, cb);
     }
 }).single("courseVideos");
-
-
-
 
 // Home page
 router.get("/", async (req, res) => {
@@ -186,51 +179,11 @@ router.get("/confirm", async (req, res) => {
     }
 })
 
-// Log in
-passport.use(new LocalStrategy({
-    usernameField: "email",
-    passwordField: "password"
-},
-    async function (email, password, cb) {
-        try {
-            const user = await User.findOne({ email: email });
-            if (!user) {
-                return cb(null, false, { message: "Incorrect email." });
-            }
 
-            // if user has not confirmed their emails then we prevent their login
-            if (!user.isConfirmed) {
-                return cb(null, false, { message: "You must confirm your email first before login !" });
-            }
+require("../authentication/passport-local");
+require("../authentication/passport-google-oauth20");
 
-            // user exists, check for password 
-            const isValid = await bcrypt.compare(password, user.password);
-            if (!isValid) {
-                return cb(null, false, { message: "Incorrect password." });
-            }
-
-            //now user has been verified
-            return cb(null, user);
-
-        } catch (err) {
-            console.log(err);
-        }
-    }
-));
-
-require("../OAuth/passport-google-setup");
-
-passport.serializeUser(function (user, cb) {
-    cb(null, user.id);
-});
-passport.deserializeUser(function (id, cb) {
-    User.findById(id, function (err, user) {
-        if (err) {
-            return cb(err);
-        }
-        cb(null, user);
-    })
-})
+// Local authentication route
 router.get("/login", (req, res) => {
     res.render("login", { layout: false });
 })
@@ -242,7 +195,7 @@ router.post("/login", passport.authenticate("local", {
     delete req.session.returnTo;
 })
 
-// Google OAuth
+// Google OAuth authentication route
 router.get('/auth/google', passport.authenticate('google', { scope: ['profile', 'email'] }));
 
 router.get('/auth/google/callback', passport.authenticate('google', { failureRedirect: '/login' }),
