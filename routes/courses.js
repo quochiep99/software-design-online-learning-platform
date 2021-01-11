@@ -139,7 +139,8 @@ router.get("/:id/preview/", async (req, res) => {
     res.render("learn", {
         layout: false,
         course: course,
-        isPreviewMode: true
+        isPreviewMode: true,
+        curriculum: course.curriculum
     })
 });
 
@@ -155,7 +156,8 @@ router.get("/:id/preview/:currentLessonName", async (req, res) => {
                     course: course,
                     videoPath: videoPath,
                     currentLessonName: req.params.currentLessonName,
-                    isPreviewMode: true
+                    isPreviewMode: true,
+                    curriculum: curriculum
                 })
             }
         }
