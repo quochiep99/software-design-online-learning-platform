@@ -37,8 +37,7 @@ module.exports = (curriculum) => {
         for (var j = 0; j < curriculum.children[i].children.length; j++) {
             const lessonName = path.parse(curriculum.children[i].children[j].name).name;
             str += `
-            <li><a href="https://www.youtube.com/watch?v=LDgd_gUcqCw"
-                            class="video">${lessonName}</a></li>
+            <li><a class="video">${lessonName}</a></li>
             `
         }
         str += `
