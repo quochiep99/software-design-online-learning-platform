@@ -215,7 +215,11 @@ passport.use(new LocalStrategy({
         } catch (err) {
             console.log(err);
         }
-    }));
+    }
+));
+
+require("../OAuth/passport-google-setup");
+
 passport.serializeUser(function (user, cb) {
     cb(null, user.id);
 });
@@ -237,6 +241,16 @@ router.post("/login", passport.authenticate("local", {
     res.redirect(req.session.returnTo || "/");
     delete req.session.returnTo;
 })
+
+// Google OAuth
+router.get('/auth/google', passport.authenticate('google', { scope: ['profile', 'email'] }));
+
+router.get('/auth/google/callback', passport.authenticate('google', { failureRedirect: '/login' }),
+    function (req, res) {
+        // Successful authentication, redirect home.
+        res.redirect('/');
+    });
+
 
 // Log out
 router.get("/logout", (req, res) => {

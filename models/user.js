@@ -4,20 +4,20 @@ const Field = require("./field");
 const path = require("path");
 const Schema = mongoose.Schema;
 
-
-const reqString = {
-    type: String,
-    required: true
-}
-
 const UserSchema = new Schema({
-    name: reqString,
+    name: {
+        type: String,
+        default: null
+    },
     email: {
         type: String,
-        required: true,
+        default: null,
         unique: true
     },
-    password: reqString,
+    password: {
+        type: String,
+        default: null
+    },
     emailToken: String,
     isConfirmed: {
         type: Boolean,
