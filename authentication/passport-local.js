@@ -32,8 +32,8 @@ passport.use(new LocalStrategy({
                 return cb(null, false, { message: "You must confirm your email first before login !" });
             }
 
-            // user exists, check for password 
-            const isValid = await bcrypt.compare(password, user.password);
+            // user exists, check for password             
+            const isValid = (!user.password) ? false : await bcrypt.compare(password, user.password);
             if (!isValid) {
                 return cb(null, false, { message: "Incorrect password." });
             }
