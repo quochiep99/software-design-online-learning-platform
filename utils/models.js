@@ -71,6 +71,7 @@ models.editCourse = async function (courseId, courseData) {
             if (!alreadyExist) {
                 student.progress.push(curriculum);
             }
+            student.markModified("progress");
             await student.save();
         }
         course.description = description;
