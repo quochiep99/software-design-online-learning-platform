@@ -83,8 +83,11 @@ router.get("/:id", async (req, res) => {
             }
             return 0;
         });
+        
+        // Fetch 5 different courses in the same field
         const recommendedCourses = await Course.
             find({ field: field._id }).
+            where("title").ne(course.title).
             sort("-totalStudents").
             limit(5).
             populate("field");
