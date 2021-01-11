@@ -7,6 +7,10 @@
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
     <title>Log in</title>
 
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.1/css/all.min.css"
+        integrity="sha512-+4zCK9k+qNFUR5X+cKL9EIR+ZOhtIloNl9GIKS57V1MyNsYpYcUrUeQc9vNfzsWfV28IaLL3i96P9sdNyeRssA=="
+        crossorigin="anonymous" />
+
     <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css"
         integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">
 
@@ -43,13 +47,19 @@
                         </div>
                         {{/if}}
 
+                        <!-- Google OAuth -->
+                        <a href="#" class="google btn">
+                            <i class="fab fa-google"></i> Continue with Google
+                        </a>
+
+
                         <div class="form-group">
                             <input type="email" class="form-input" name="email" id="email" placeholder="Your email" />
                         </div>
                         <div class="form-group">
                             <input type="password" class="form-input" name="password" id="password"
                                 placeholder="Password" />
-                        </div>                        
+                        </div>
                         <div class="form-group">
                             <input type="submit" name="submit" id="submit" class="form-submit" value="Log in" />
                         </div>
