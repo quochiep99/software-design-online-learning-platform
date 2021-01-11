@@ -455,7 +455,7 @@ input[type=checkbox]:not(old):checked+label>span:before {
 
 .btn {
   width: 100%;
-  padding: 12px;
+  padding: 17px 20px;
   border: none;
   border-radius: 4px;
   margin: 5px 0;
