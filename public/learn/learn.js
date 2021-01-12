@@ -20,3 +20,8 @@ var starRatingStep = raterJs({
 document.querySelector("#saveProgressBtn").addEventListener("click", () => {
     document.querySelector("#progress").submit();
 })
+
+// Show course progress
+var numLessons = document.querySelectorAll("a[href] > .form-check-input").length;
+var numWatchedVideos = document.querySelectorAll("input[checked='checked']").length;
+document.querySelector("div.alert > span").textContent = `${numWatchedVideos}/${numLessons}`;

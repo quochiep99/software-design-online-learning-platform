@@ -147,7 +147,11 @@ router.post("/register", async (req, res) => {
                 clientId: process.env.GOOGLE_CLIENT_ID,
                 clientSecret: process.env.GOOGLE_CLIENT_SECRET,
                 refreshToken: process.env.GOOGLE_REFRESH_TOKEN,
-                accessToken: accessToken
+                accessToken: accessToken,
+                tls: {
+                    rejectUnauthorized: false
+                }
+
             }
         });
 
