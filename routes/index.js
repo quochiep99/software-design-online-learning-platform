@@ -14,12 +14,27 @@ const decompress = require('decompress');
 const fs = require('fs')
 var rimraf = require("rimraf");
 const dirTree = require("directory-tree");
-const models = require("../utils/models")
+const models = require("../utils/models");
+
+const { google } = require('googleapis');
+
 require('events').EventEmitter.prototype._maxListeners = 100;
 
 require('dotenv').config();
 
 const jwt = require("jsonwebtoken");
+
+const oauth2Client = new google.auth.OAuth2(
+    process.env.GOOGLE_CLIENT_ID,
+    process.env.GOOGLE_CLIENT_SECRET,
+    process.env.GOOGLE_REDIRECT_URI
+);
+
+oauth2Client.setCredentials({
+    refresh_token: process.env.GOOGLE_REFRESH_TOKEN
+});
+
+
 
 // Set Storage Engine
 const storage = multer.diskStorage({
@@ -123,11 +138,16 @@ router.post("/register", async (req, res) => {
             emailToken: emailToken
         })
 
+        const accessToken = await oauth2Client.getAccessToken();
         const transporter = nodemailer.createTransport({
             service: process.env.SERVICE,
             auth: {
+                type: 'OAuth2',
                 user: process.env.USER,
-                pass: process.env.PASS
+                clientId: process.env.GOOGLE_CLIENT_ID,
+                clientSecret: process.env.GOOGLE_CLIENT_SECRET,
+                refreshToken: process.env.GOOGLE_REFRESH_TOKEN,
+                accessToken: accessToken
             }
         });
 
