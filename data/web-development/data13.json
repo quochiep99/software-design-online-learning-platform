@@ -6,7 +6,7 @@
     "course": {
         "title": "The Complete ASP.NET MVC 5 Course",
         "subtitle": "Learn to build fast and secure web applications with ASP.NET MVC 5 - The most popular course with 40,000+ students!",
-        "descriptions":  "",
+        "descriptions": [],
         "reviews": [],
         "students": [],
         "image1xURL": "https://img-a.udemycdn.com/course/240x135/806922_6310_3.jpg",
@@ -15,27 +15,23 @@
         "discountPrice": 11.99,
         "originalPrice": 129.99,
         "numViews": 0,
-        "curriculum": {}
+        "curriculum": []
     },
     "reviews": [
         {
-            "body": "The thing made me like this course most is your specify exercise, you are so amazming, I am learning and try my best to complete this course, thank you so much!",
-            "rating": 5
-        },
-        {
-            "body": "This has been a really challenging course where I've had to push myself to learn and bridge the gaps.\n\nI would say it isn't exactly a beginner course, it's more of a high level beginner low level intermediate course.",
-            "rating": 4.5
-        },
-        {
-            "body": "An excellent course with a lot of knowledge to share and with a good explanation I like Mosh tutorials because he programs focusing on develop extensible applications including a lot of resources. I hope you put the advanced course in udemy and one of blazor.",
-            "rating": 5
-        },
-        {
-            "body": "The working with Data section was frustrating. EF should not be introduced at this stage. In my opinion this was bad decision to put EF in this course.",
+            "body": "I teeter between a 3.5 and 4. Mosh was very engaging. He did a great job presenting while keeping the information useful. There were niche items mentioned that are valuable despite not being used frequently. The problem I had with this course is that it's using VS2013. Taking the course in 2020 meant that I had to web search the modern way to do so many things. This greatly increased the 7.5 hours of the course. I would still recommend it, but with the caveat that you either use VS2013 or prepare for a lot of due diligence.",
             "rating": 3.5
         },
         {
-            "body": "Great explanations!!! Enjoyed. I also use this as a reference.",
+            "body": "The course is really packed with good information. The instructor is definitely a master in the subject and I learned a lot of useful MVC information. However, in many lectures I feel that the instructor is rushing through the topic. I think the course would be perfect if he can slow down a little and give more thorough explanation. Being concise and not not wasting time in unnecessary details is good but not at the expense of providing good explanation.",
+            "rating": 4
+        },
+        {
+            "body": "Great: I am going slow but very happy with my progress. I have filling many gaps I have in my knowledge. Even though I am using visual studio 2019 this course still valid.",
+            "rating": 5
+        },
+        {
+            "body": "An excellent course with a lot of knowledge to share and with a good explanation I like Mosh tutorials because he programs focusing on develop extensible applications including a lot of resources. I hope you put the advanced course in udemy and one of blazor.",
             "rating": 5
         },
         {
@@ -47,110 +43,114 @@
             "rating": 5
         },
         {
-            "body": "It was extremely good course in terms of content and exercises and material full of technical hands on.",
+            "body": "The problem with this course is that he gives you exercises and tells you to go to the github to check the solutions. The exercises are not optional. You have to do them so you can follow along with the application that he is making. He doesen't go over the exercises. This is really not a smart thing to do. Shame on him.",
+            "rating": 1
+        },
+        {
+            "body": "The working with Data section was frustrating. EF should not be introduced at this stage. In my opinion this was bad decision to put EF in this course.",
+            "rating": 3.5
+        },
+        {
+            "body": "The course is great in terms of content. But very poor in terms of support.\n\nAfter an exercise a solution with explanation should be provided to make understanding easier.\n\nSometimes, it's quite frustrating to spend so much time in just researching the internet without later having a thorough explanation from the trainer.\n\nThe assistant teacher that replies to posted questions, very rarely, gives a plausible answer to the questions posted.",
+            "rating": 2.5
+        },
+        {
+            "body": "The course is excellent as it provides the basic foundations need needed to develop an MVC application with practical examples.",
             "rating": 5
         },
         {
-            "body": "Thank you so much, Guru G :). It was an amazing course. The contents and presentations are impressive. Just want to say that deployment section could be better with a live example. thanks again!!!",
-            "rating": 4
-        },
-        {
-            "body": "I feel the course started with high quality details on every step taken, and ended with poor details and lots of concepts taken for granted. The two final sections were very hard to follow for an ASP.NET MVC course thats starts with the basics.",
+            "body": "This course is very much outdated, which makes it almost impossible to code along. The exercises given were not discussed and explained. However information and knowledge explained was good enough.",
             "rating": 3
         },
         {
-            "body": "Very good for beginners, I gave 4.5 - there are minor confusions with what is presented after exercises in later videos and source on github and also there was no lecture addressing fixing previous migrations (meaning those in development), since a newbie can spend a lot of time googling \"I ran update-database on my broken new migration, help\".",
-            "rating": 4.5
-        },
-        {
-            "body": "I think Mosh is a great instructor and like his presentation style as well as his outline of the big topic, MVC in this case. I would caution others that following his examples step by step can lead to some mistakes on the student's part. For example, I had a leftover @model statement specifying the random movie view model, and when I first tried to do the section 2 exercise, I got a blizzard of errors that were hard to understand. He should give people a basic setup or send-off for exercises with a \"don't forget\" piece of advice or two. That would not compromise the challenge that he wants the student to face.",
-            "rating": 4
+            "body": "Another great course by Mosh, that I really enjoyed and I can't wait to use the knowledge in real-world use.",
+            "rating": 5
         }
     ],
     "students": [
         {
-            "name": "Doan Ngoc Khanh",
-            "email": "doanngockhanh@gmail.com",
-            "password": "doanngockhanh",
+            "name": "Carlos A Garcia",
+            "email": "carlosagarcia@gmail.com",
+            "password": "carlosagarcia",
             "role": "s",
-"isConfirmed": true
+            "isConfirmed": true
         },
         {
-            "name": "Robert Sullivan",
-            "email": "robertsullivan@gmail.com",
-            "password": "robertsullivan",
+            "name": "Tarig",
+            "email": "tarig@gmail.com",
+            "password": "tarig",
             "role": "s",
-"isConfirmed": true
+            "isConfirmed": true
+        },
+        {
+            "name": "Manuel Guerrero",
+            "email": "manuelguerrero@gmail.com",
+            "password": "manuelguerrero",
+            "role": "s",
+            "isConfirmed": true
         },
         {
             "name": "Luis Fernando Zarazua Aguilar",
             "email": "luisfernandozarazuaaguilar@gmail.com",
             "password": "luisfernandozarazuaaguilar",
             "role": "s",
-"isConfirmed": true
-        },
-        {
-            "name": "Xen",
-            "email": "xen@gmail.com",
-            "password": "xen",
-            "role": "s",
-"isConfirmed": true
-        },
-        {
-            "name": "Gregory Howard",
-            "email": "gregoryhoward@gmail.com",
-            "password": "gregoryhoward",
-            "role": "s",
-"isConfirmed": true
+            "isConfirmed": true
         },
         {
             "name": "Ceren Yaşar",
             "email": "cerenyaşar@gmail.com",
             "password": "cerenyaşar",
             "role": "s",
-"isConfirmed": true
+            "isConfirmed": true
         },
         {
             "name": "Balajeeraj R",
             "email": "balajeerajr@gmail.com",
             "password": "balajeerajr",
             "role": "s",
-"isConfirmed": true
+            "isConfirmed": true
         },
         {
-            "name": "Kalyani Shelar",
-            "email": "kalyanishelar@gmail.com",
-            "password": "kalyanishelar",
+            "name": "Prince NIloy",
+            "email": "princeniloy@gmail.com",
+            "password": "princeniloy",
             "role": "s",
-"isConfirmed": true
+            "isConfirmed": true
         },
         {
-            "name": "Gaurav narula",
-            "email": "gauravnarula@gmail.com",
-            "password": "gauravnarula",
+            "name": "Xen",
+            "email": "xen@gmail.com",
+            "password": "xen",
             "role": "s",
-"isConfirmed": true
+            "isConfirmed": true
         },
         {
-            "name": "Juan Mateo Decurgez",
-            "email": "juanmateodecurgez@gmail.com",
-            "password": "juanmateodecurgez",
+            "name": "Hedmilson P. Azevedo",
+            "email": "hedmilsonp.azevedo@gmail.com",
+            "password": "hedmilsonp.azevedo",
             "role": "s",
-"isConfirmed": true
+            "isConfirmed": true
         },
         {
-            "name": "HexBlock",
-            "email": "hexblock@gmail.com",
-            "password": "hexblock",
+            "name": "Akute Azu",
+            "email": "akuteazu@gmail.com",
+            "password": "akuteazu",
             "role": "s",
-"isConfirmed": true
+            "isConfirmed": true
         },
         {
-            "name": "Tom Diaz",
-            "email": "tomdiaz@gmail.com",
-            "password": "tomdiaz",
+            "name": "Asyrul Ahmad",
+            "email": "asyrulahmad@gmail.com",
+            "password": "asyrulahmad",
             "role": "s",
-"isConfirmed": true
+            "isConfirmed": true
+        },
+        {
+            "name": "Stefan Papanikolaou",
+            "email": "stefanpapanikolaou@gmail.com",
+            "password": "stefanpapanikolaou",
+            "role": "s",
+            "isConfirmed": true
         }
     ],
     "instructor": {
@@ -158,7 +158,204 @@
         "email": "moshhamedani@gmail.com",
         "password": "moshhamedani",
         "role": "i",
-"isConfirmed": true,
-        "briefIntroduction": "<p>Hi!&nbsp;My name is Mosh (Moshfegh)&nbsp;Hamedani! I'm a passionate software engineer with two decades of experience and I've taught over 3 million people who to code or how to become professional software engineers through my YouTube channel and online courses. </p><p>My goal is to make software engineering fun and accessible to everyone. That's why my courses are simple, pragmatic and free of BS. </p>"
-    }
+        "briefIntroduction": "<p>Hi!&nbsp;My name is Mosh (Moshfegh)&nbsp;Hamedani! I'm a passionate software engineer with two decades of experience and I've taught over 3 million people who to code or how to become professional software engineers through my YouTube channel and online courses. </p><p>My goal is to make software engineering fun and accessible to everyone. That's why my courses are simple, pragmatic and free of BS. </p>",
+        "isConfirmed": true
+    },
+    "curriculum": [
+        {
+            "sectionName": "Getting Started",
+            "unitNames": [
+                "Introduction",
+                "MVC Architectural Pattern",
+                "Setting Up the Development Environment",
+                "Your First ASP.NET MVC App",
+                "MVC in Action",
+                "Adding a Theme",
+                "Quiz",
+                "Course Layout",
+                "Asking Questions"
+            ]
+        },
+        {
+            "sectionName": "ASP.NET MVC Fundamentals",
+            "unitNames": [
+                "Introduction",
+                "Action Results",
+                "Action Parameters",
+                "Convention-based Routing",
+                "Attribute Routing",
+                "Passing Data to Views",
+                "View Models",
+                "Razor Syntax",
+                "Partial Views",
+                "Cheat Sheet",
+                "Exercise",
+                "Solution",
+                "Summary"
+            ]
+        },
+        {
+            "sectionName": "Working with Data",
+            "unitNames": [
+                "Introduction",
+                "Entity Framework",
+                "Database-first vs Code-first",
+                "Code-first Migrations",
+                "Changing the Model",
+                "Seeding the Database",
+                "Overriding Conventions",
+                "Querying Objects",
+                "Eager Loading",
+                "Shortcut to Package Manager Console",
+                "Cheat Sheet",
+                "Exercise 1: Add membership type to list of customers",
+                "Exercise 2: Add birthdate to customer",
+                "Exercise 3: Display the list of movies and their details",
+                "Summary"
+            ]
+        },
+        {
+            "sectionName": "Building Forms",
+            "unitNames": [
+                "Introduction",
+                "The Markup",
+                "Labels",
+                "Drop-down Lists",
+                "Model Binding",
+                "Saving Data",
+                "Edit Form",
+                "Updating Data",
+                "Cheat Sheet",
+                "Exercise",
+                "Troubleshooting Entity Validation Errors",
+                "Summary"
+            ]
+        },
+        {
+            "sectionName": "Implementing Validation",
+            "unitNames": [
+                "Introduction",
+                "Adding Validation",
+                "Styling Validation Errors",
+                "Data Annotations",
+                "Custom Validation",
+                "Refactoring Magic Numbers",
+                "Validation Summary",
+                "Client-side Validation",
+                "Anti-forgery Tokens",
+                "Cheat Sheet",
+                "Exercise",
+                "Code Review",
+                "Summary"
+            ]
+        },
+        {
+            "sectionName": "Building RESTful Services with ASP.NET Web API",
+            "unitNames": [
+                "Introduction",
+                "What is a Web API?",
+                "RESTful Convention",
+                "Building an API",
+                "Testing an API",
+                "Data Transfer Objects",
+                "Auto Mapper",
+                "Using Camel Notation",
+                "IHttpActionResult",
+                "Cheat Sheet",
+                "Exercise",
+                "Summary"
+            ]
+        },
+        {
+            "sectionName": "Client-side Development",
+            "unitNames": [
+                "Introduction",
+                "Calling an API Using jQuery",
+                "Bootbox Plug-in",
+                "Optimizing jQuery Code",
+                "DataTables Plug-in",
+                "DataTables with Ajax Source",
+                "Returning Hierarchical Data",
+                "DataTables: Removing Records",
+                "DataTables: Discussion Points",
+                "Single Page Applications (SPAs)",
+                "Cheat Sheet",
+                "Exercise",
+                "Summary"
+            ]
+        },
+        {
+            "sectionName": "Authentication and Authorization",
+            "unitNames": [
+                "Introduction",
+                "The Problem",
+                "Authentication Options",
+                "ASP.NET Identity",
+                "Restricting Access",
+                "Seeding Users and Roles",
+                "Working with Roles",
+                "Adding Profile Data",
+                "OAuth",
+                "Social Logins",
+                "Cheat Sheet",
+                "Exercise",
+                "Summary"
+            ]
+        },
+        {
+            "sectionName": "Performance Optimization",
+            "unitNames": [
+                "Introduction",
+                "Overview",
+                "Data Tier",
+                "Glimpse",
+                "Output Cache",
+                "Data Cache",
+                "Async",
+                "Release Builds",
+                "Disabling Session",
+                "Client Tier",
+                "Chrome Developer Tools Tip",
+                "Cheat Sheet",
+                "Summary"
+            ]
+        },
+        {
+            "sectionName": "Building a Feature End-to-End Systematically",
+            "unitNames": [
+                "Introduction",
+                "Understanding the Problem",
+                "Domain Modelling",
+                "Building the Simplest API",
+                "Adding the Details",
+                "Edge Cases",
+                "Building the Front-end",
+                "Adding Auto-completion",
+                "Updating the DOM",
+                "Improving the Look and Feel",
+                "Filtering Records",
+                "Submitting the Form",
+                "Displaying Toast Notifications",
+                "Implementing Client-side Validation",
+                "Code Review",
+                "Summary"
+            ]
+        },
+        {
+            "sectionName": "Deployment",
+            "unitNames": [
+                "Introduction",
+                "Deploying the Application",
+                "Deploying the Database",
+                "Build Configurations",
+                "Application Settings",
+                "Securing Configuration Settings",
+                "Custom Error Pages",
+                "Logging Unhandled Exceptions",
+                "Final Touch",
+                "What's Next?",
+                "Bonus Lecture"
+            ]
+        }
+    ]
 }

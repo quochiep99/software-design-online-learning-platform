@@ -111,6 +111,9 @@ async function seedDB() {
             course.students = students;
             course.totalStudents = students.length;
             field.totalStudents += students.length;
+            course.curriculum = {
+                "defaultCurriculum": data[i].curriculum
+            }
             course = await course.save();
             field = await field.save();
 
@@ -145,6 +148,7 @@ async function seedDB() {
         course.discountPrice += Math.floor(Math.random() * 20 + 1);
         course.discountPrice = course.discountPrice.toFixed(2);
 
+        // random views
         course.numViews = Math.floor(Math.random() * 1001)
         course.updatedAt = new Date();
         course.updatedAt.setDate(course.updatedAt.getDate() - Math.floor(Math.random() * 11 + 2));

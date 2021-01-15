@@ -6,24 +6,28 @@
     "course": {
         "title": "Modern JavaScript From The Beginning",
         "subtitle": "Learn and build projects with pure JavaScript (No frameworks or libraries)",
-        "descriptions":  "",
+        "descriptions": [],
         "reviews": [],
         "students": [],
-        "image1xURL": "https://img-a.udemycdn.com/course/240x135/1463348_52a4_2.jpg",
-        "image2xURL": "https://img-a.udemycdn.com/course/480x270/1463348_52a4_2.jpg",
-        "image3xURL": "https://img-a.udemycdn.com/course/750x422/1463348_52a4_2.jpg",
+        "image1xURL": "https://img-b.udemycdn.com/course/240x135/1463348_52a4_2.jpg",
+        "image2xURL": "https://img-b.udemycdn.com/course/480x270/1463348_52a4_2.jpg",
+        "image3xURL": "https://img-b.udemycdn.com/course/750x422/1463348_52a4_2.jpg",
         "discountPrice": 11.99,
         "originalPrice": 129.99,
         "numViews": 0,
-        "curriculum": {}
+        "curriculum": []
     },
     "reviews": [
         {
-            "body": "I really enjoyed this course, especially for its practical setting. After this course, you can do a lot independently.",
+            "body": "Brad does an astounding job in this course. His teaching style is objective and clear, and the projects enable the student to have a glimpse of professional applications and practices. Highly recommended!",
             "rating": 5
         },
         {
-            "body": "Another great class from Brad Traversy. This is the second class of Brad's that I have taken and I have no doubts about taking another. Thanks.",
+            "body": "Well explained concepts as Usual with Brad. To fully appreciate this content and get the desired knowledge you need to repeat some of the videos and exercises. Persistence is key. Brad still remains my best friend on the web",
+            "rating": 4.5
+        },
+        {
+            "body": "I really enjoyed this course, especially for its practical setting. After this course, you can do a lot independently.",
             "rating": 5
         },
         {
@@ -31,31 +35,23 @@
             "rating": 5
         },
         {
-            "body": "I purchased this course 2 years ago but finally commited to sitting through it from the beginning to the end. I really wanted to sharpen up my JavaScript skills before learning a framework and I'm glad that I took the time to do it. Brad is a great instructor and he explains things very well.",
-            "rating": 5
-        },
-        {
-            "body": "This course was great overall. I didn't go for five stars though because there are some areas that I thought were badly explained and I had to go elsewhere for a lot of information (particularly around what prototypes actually are and how promises actually work). Also, it seems that so much of JS is passing parameters into functions, and defining those parameters using arguments wherever that function is called. This distinction between parameters and arguments never actually gets explained on this course: you have to figure it out for yourself. The final two projects were EXTREMELY well explained, and it would have been great if the whole course was explained to this level. Overall though, I'm really happy with what I got out of it.",
-            "rating": 4
-        },
-        {
-            "body": "The course is very well executed. It was helpful to me as a beginner, it gave me a better understanding of Javascript. Following the mini-projects in the course gave me the confidence to tackle more complex Javascript projects.",
-            "rating": 4.5
-        },
-        {
-            "body": "Brad is a really great instructor. He explains everything so well. I loved this course. Thank you so much for taking time to make this course.",
-            "rating": 5
-        },
-        {
-            "body": "Brad knows this material well, and it shows. I'm impressed with his level of knowledge and his innate ability to teach. I'm a professional dev brushing up on my skills, and I can't say enough good things about this instructor. Thank you.",
-            "rating": 5
-        },
-        {
             "body": "Positives:\n\nThis course is pretty extensive in terms of the number of topics covered.\n\nSupport provided for this course is pretty decent.\n\nI like Brad's code along approach, because if you write even 10 lines of code just to test out a concept (and save it), then you are more likely to remember it and you can always come back to it for revisions.\n\nWeaknesses:\n\nToo many loose ends, too much googling and mdn browsing in a course i paid for.\n\nSmall errors in explanation here and there can lead to hours (in one case days) wasted on googling\n\nWhats more, Brad very cunningly tiptoes past the topics he wouldn't or couldn't explain like closures. Yeah a JavaScript course without a mention of closures.\n\nNo word about apply, bind or call functions.\n\nHe used filter function late in lecture 98 in a wrong manner which just by luck worked for the example he was working on. So cannot even expect the explanation there.\n\nIncomplete coverage of the the spread operator.\n\nFor...of loop (without any introduction) was used for the first time in the lecture on sets in section 10.\n\nIn the last section, he just tells to download the webpack+babel setup from his GitHub profile without explaining how he created it.\n\nThe list is too long.",
             "rating": 3.5
         },
         {
-            "body": "I struggled learning Javascript coming from a career with no programming skills needed or experience. I tried other videos and online courses and to me, it seemed like they were made from the perspective that people had previous programming experience and wanted to learn how to program with Javascript. The focus was mainly on just how to write functions, arrays, and objects and not seeing any results of this outside of logging things on a console. These lessons for the first time showed me how JS can manipulate the DOM, methods for targeting HTML in a webpage, creating OOP, modules, patterns, and lots more so I finally could see what JS was doing when related to working on webpages for front-end work. The small projects are super helpful, and helped me to really understand the language while both coming together and in the final product. I will definitely be revisiting these videos for practice and test how much more I can do independently as I progress.",
+            "body": "This was amazing and so in-depth. I've learnt so much. I wish it went more into generators and iterators but otherwise, it was an amazing approach to teaching JS. Big ups to Brad!",
+            "rating": 5
+        },
+        {
+            "body": "There is a lot of good information in this course. I am giving this course 4 stars due to the fact that the weather project is out of date. But I would say the information is delivered in a way that can be easily understood.",
+            "rating": 4
+        },
+        {
+            "body": "Another great class from Brad Traversy. This is the second class of Brad's that I have taken and I have no doubts about taking another. Thanks.",
+            "rating": 5
+        },
+        {
+            "body": "Brad is a really great instructor. He explains everything so well. I loved this course. Thank you so much for taking time to make this course.",
             "rating": 5
         },
         {
@@ -63,94 +59,98 @@
             "rating": 5
         },
         {
-            "body": "It is very good course to learn modern javascript. If you don't know anything about js then you can definitely go with this course.",
+            "body": "I like that there are several full projects in this course. It lets you start typing JavaScript and practicing what you've learned. It's a good feeling to see the results of some cool projects that you finished coding. Some other cool gems in this course are the use of CSS frameworks like Materialize, Skeleton, and Bootswatch, when putting together the UI for the projects. The weather app project needs to be updated since the Weather Underground api is no more. The OpenWeather api website/docs aren't as easy to navigate as others, and can be confusing for complete beginners. Brad's a great teacher especially for beginners that have no experience whatsoever. His YouTube channel is an EXCELLENT resource/supplement as well. I like how in many of his videos he explains the simplest of things because they are things that true beginners with no experience would have known. Overall, a great course for learning and putting into practice some JavaScript.",
+            "rating": 5
+        },
+        {
+            "body": "First, this course is very fit for me, I have medium-level JS knowledge, but very fragmented; this course helped me to integrate my knowledge, so that I can better understand and use it. Another good part for me is Brad's courses are very straightforward, no waste the time, no accent. I will continue to learn his other courses.",
             "rating": 5
         }
     ],
     "students": [
         {
+            "name": "Rafael Correa de Lima Nisgoski",
+            "email": "rafaelcorreadelimanisgoski@gmail.com",
+            "password": "rafaelcorreadelimanisgoski",
+            "role": "s",
+            "isConfirmed": true
+        },
+        {
+            "name": "Ngasa Raphael Nomie",
+            "email": "ngasaraphaelnomie@gmail.com",
+            "password": "ngasaraphaelnomie",
+            "role": "s",
+            "isConfirmed": true
+        },
+        {
             "name": "Adnan Ali",
             "email": "adnanali@gmail.com",
             "password": "adnanali",
             "role": "s",
-"isConfirmed": true
-        },
-        {
-            "name": "Sean Berry",
-            "email": "seanberry@gmail.com",
-            "password": "seanberry",
-            "role": "s",
-"isConfirmed": true
+            "isConfirmed": true
         },
         {
             "name": "ronald nats",
             "email": "ronaldnats@gmail.com",
             "password": "ronaldnats",
             "role": "s",
-"isConfirmed": true
-        },
-        {
-            "name": "James Young",
-            "email": "jamesyoung@gmail.com",
-            "password": "jamesyoung",
-            "role": "s",
-"isConfirmed": true
-        },
-        {
-            "name": "Banfi Music",
-            "email": "banfimusic@gmail.com",
-            "password": "banfimusic",
-            "role": "s",
-"isConfirmed": true
-        },
-        {
-            "name": "Morenike Kolawole",
-            "email": "morenikekolawole@gmail.com",
-            "password": "morenikekolawole",
-            "role": "s",
-"isConfirmed": true
-        },
-        {
-            "name": "Parvathyvd",
-            "email": "parvathyvd@gmail.com",
-            "password": "parvathyvd",
-            "role": "s",
-"isConfirmed": true
-        },
-        {
-            "name": "Mike K",
-            "email": "mikek@gmail.com",
-            "password": "mikek",
-            "role": "s",
-"isConfirmed": true
+            "isConfirmed": true
         },
         {
             "name": "Tarun Singh",
             "email": "tarunsingh@gmail.com",
             "password": "tarunsingh",
             "role": "s",
-"isConfirmed": true
+            "isConfirmed": true
         },
         {
-            "name": "Roeh Y Lewit",
-            "email": "roehylewit@gmail.com",
-            "password": "roehylewit",
+            "name": "Aron Weston",
+            "email": "aronweston@gmail.com",
+            "password": "aronweston",
             "role": "s",
-"isConfirmed": true
+            "isConfirmed": true
+        },
+        {
+            "name": "Ramon Carrillo",
+            "email": "ramoncarrillo@gmail.com",
+            "password": "ramoncarrillo",
+            "role": "s",
+            "isConfirmed": true
+        },
+        {
+            "name": "Sean Berry",
+            "email": "seanberry@gmail.com",
+            "password": "seanberry",
+            "role": "s",
+            "isConfirmed": true
+        },
+        {
+            "name": "Parvathyvd",
+            "email": "parvathyvd@gmail.com",
+            "password": "parvathyvd",
+            "role": "s",
+            "isConfirmed": true
         },
         {
             "name": "Jonathan Taft",
             "email": "jonathantaft@gmail.com",
             "password": "jonathantaft",
             "role": "s",
-"isConfirmed": true
+            "isConfirmed": true
         },
         {
-            "name": "Ayush Sahu",
-            "email": "ayushsahu@gmail.com",
-            "password": "ayushsahu",
+            "name": "Herman",
+            "email": "herman@gmail.com",
+            "password": "herman",
             "role": "s",
-"isConfirmed": true
+            "isConfirmed": true
+        },
+        {
+            "name": "Sienna Hui",
+            "email": "siennahui@gmail.com",
+            "password": "siennahui",
+            "role": "s",
+            "isConfirmed": true
         }
     ],
     "instructor": {
@@ -158,7 +158,201 @@
         "email": "bradtraversy@gmail.com",
         "password": "bradtraversy",
         "role": "i",
-"isConfirmed": true,
-        "briefIntroduction": "<p>Brad Traversy has been&nbsp;programming for around 12 years and teaching for almost 5 years. He is the owner of Traversy Media which is a successful web development YouTube channel and specializes in everything from HTML5 to front end frameworks like Angular as well as server side technologies like Node.js, PHP and Python. Brad has mastered explaining very complex topics in a simple manner that is very understandable. Invest in your knowledge by watching Brad's courses.</p>"
-    }
+        "briefIntroduction": "<p>Brad Traversy has been&nbsp;programming for around 12 years and teaching for almost 5 years. He is the owner of Traversy Media which is a successful web development YouTube channel and specializes in everything from HTML5 to front end frameworks like Angular as well as server side technologies like Node.js, PHP and Python. Brad has mastered explaining very complex topics in a simple manner that is very understandable. Invest in your knowledge by watching Brad's courses.</p>",
+        "isConfirmed": true
+    },
+    "curriculum": [
+        {
+            "sectionName": "Intro & Getting Started",
+            "unitNames": [
+                "Welcome To The Course",
+                "Project Files & Questions",
+                "Projects Github Repo",
+                "Visual Studio Code Setup"
+            ]
+        },
+        {
+            "sectionName": "JavaScript Language Fundamentals",
+            "unitNames": [
+                "Section Intro & File Setup",
+                "Using The Console",
+                "Variables - var, let & const",
+                "Data Types in JavaScript",
+                "Type Conversion",
+                "Numbers & The Math Object",
+                "String Methods & Concatenation",
+                "Template Literals",
+                "Arrays & Array Methods",
+                "Object Literals",
+                "Dates & Times",
+                "If Statements & Comparison Operators",
+                "Switches",
+                "Function Declarations & Expressions",
+                "General Loops",
+                "A Look At The Window Object",
+                "Block Scope With let & const"
+            ]
+        },
+        {
+            "sectionName": "DOM Manipulation & Events",
+            "unitNames": [
+                "What Is The DOM?",
+                "Examining The Document Object",
+                "DOM Selectors For Single Elements",
+                "DOM Selectors For Multiple Elements",
+                "Traversing The DOM",
+                "Creating Elements",
+                "Removing & Replacing Elements",
+                "Event Listeners & The Event Object",
+                "Mouse Events",
+                "Keyboard & Input Events",
+                "Event Bubbling & Delegation",
+                "Local & Session Storage"
+            ]
+        },
+        {
+            "sectionName": "DOM Projects",
+            "unitNames": [
+                "Task List [Part 1] - UI & Add Task Items",
+                "Task List [Part 2] - Delete & Filter Tasks",
+                "Task List [Part 3] - Persist To Local Storage",
+                "Loan Calculator [Part 1] - Build The UI",
+                "Loan Calculator [Part 2] - Calculate & Error",
+                "Loan Calculator [Part 3] - Loader & User Experience",
+                "Number Guesser [Part 1] - Build The UI",
+                "Number Guesser [Part 2] - Validation & Winning Case",
+                "Number Guesser [Part 3] - Lose Case & Game Over",
+                "Number Guesser [Part 4] - Play Again"
+            ]
+        },
+        {
+            "sectionName": "Object Oriented JavaScript - ES5 & ES2015",
+            "unitNames": [
+                "Constructors & the 'this' Keyword",
+                "Built In Constructors",
+                "Prototypes Explained",
+                "Prototypal Inheritance",
+                "Using Object.create",
+                "ES6 Classes",
+                "Sub Classes"
+            ]
+        },
+        {
+            "sectionName": "OOP Book List Project",
+            "unitNames": [
+                "Build The Book List UI",
+                "Add Book To List",
+                "Validation & Alert",
+                "Delete Book From List",
+                "Convert to ES6 Classes",
+                "Bonus - Add Local Storage"
+            ]
+        },
+        {
+            "sectionName": "Asynchronous JavaScript, Ajax & Fetch API",
+            "unitNames": [
+                "What Is Asynchronous Programming?",
+                "Ajax & XHR Introduction",
+                "XHR Object Methods & Working With Text",
+                "Working With Ajax & JSON",
+                "Data From an External API - Chuck Norris Project",
+                "REST APIs & HTTP Requests",
+                "Callback Functions",
+                "Custom HTTP Library (Ajax With Callbacks) - Part 1",
+                "Custom HTTP Library (Ajax With Callbacks) - Part 2",
+                "ES6 Promises",
+                "The Fetch API",
+                "Error Handling With Fetch",
+                "Arrow Functions",
+                "Custom HTTP Library (Fetch With Promises) - Part 3",
+                "Async & Await",
+                "Custom HTTP Library (Fetch With Async Await) - Part 4"
+            ]
+        },
+        {
+            "sectionName": "API Projects",
+            "unitNames": [
+                "Github Finder [Part 1] - Intro & UI",
+                "Github Finder [Part 2] - Fetching Profile Data",
+                "Github Finder [Part 3] -  Display The Profile",
+                "Github Finder [Part 4] - Show Alert Message",
+                "Github Finder [Part 5] - Fetch & Display Repos",
+                "WeatherJS [Part 1] - Intro & UI",
+                "WeatherJS [Part 2] - Fetch Weather From API",
+                "WeatherJS [Part 3] - Display The Weather",
+                "WeatherJS [Part 4] - Save Location To Local Storage"
+            ]
+        },
+        {
+            "sectionName": "Error Handling & Regular Expressions",
+            "unitNames": [
+                "Error Handling with Try...Catch",
+                "Regular Expressions [Part 1] - Evaluation Functions",
+                "Regular Expressions [Part 2] - Metacharacter Symbols",
+                "Regular Expressions [Part 3] - Character Sets & Quantifiers",
+                "Regular Expressions [Part 4] - Shorthand Character Classes",
+                "Regular Expressions - Form Validation Project"
+            ]
+        },
+        {
+            "sectionName": "Other Newer Features - ES2015+",
+            "unitNames": [
+                "Iterators & Generators",
+                "Profile Scroller - Iterator Mini Project",
+                "Symbols",
+                "Destructuring",
+                "ES6 Maps",
+                "ES6 Sets"
+            ]
+        },
+        {
+            "sectionName": "JavaScript Patterns",
+            "unitNames": [
+                "What Are Patterns?",
+                "Module & Revealing Module Pattern",
+                "Singleton Pattern",
+                "Factory Pattern",
+                "Observer Pattern",
+                "Mediator Pattern",
+                "State Pattern - Small Project"
+            ]
+        },
+        {
+            "sectionName": "Tracalorie Project (Using The Module Pattern)",
+            "unitNames": [
+                "Project Introduction",
+                "Creating The UI With Materialize CSS",
+                "Controllers & Data Structure",
+                "Get & Populate Items",
+                "Add Item To Data Structure",
+                "Add Item To The UI",
+                "Add Total Calories",
+                "Working With The Edit State",
+                "Updating Items & Total Calories",
+                "Delete & Clear Items",
+                "Add & Get From Local Storage",
+                "Delete & Clear From Local Storage"
+            ]
+        },
+        {
+            "sectionName": "Microposts Project - CRUD Front End (Webpack & Babel)",
+            "unitNames": [
+                "Babel & Webpack Environment Setup",
+                "Intro To ES2015 Modules",
+                "Create The UI",
+                "Create a fake REST API Using JSON Server",
+                "Get & Display Posts",
+                "Add Posts & Show Alert",
+                "Removing Posts",
+                "Post Edit State & Update [1]",
+                "Post Edit State & Update [2]"
+            ]
+        },
+        {
+            "sectionName": "Wrap Up",
+            "unitNames": [
+                "Wrap Up & Where To Go From Here"
+            ]
+        }
+    ]
 }

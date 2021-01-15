@@ -4,23 +4,27 @@
         "courses": []
     },
     "course": {
-        "title": "The Complete 2020 Web Development Bootcamp",
+        "title": "The Complete 2021 Web Development Bootcamp",
         "subtitle": "Become a full-stack web developer with just one course. HTML, CSS, Javascript, Node, React, MongoDB and more!",
-        "descriptions":  "",
+        "descriptions": [],
         "reviews": [],
         "students": [],
-        "image1xURL": "https://img-b.udemycdn.com/course/240x135/1565838_e54e_11.jpg",
-        "image2xURL": "https://img-b.udemycdn.com/course/480x270/1565838_e54e_11.jpg",
-        "image3xURL": "https://img-b.udemycdn.com/course/750x422/1565838_e54e_11.jpg",
+        "image1xURL": "https://img-a.udemycdn.com/course/240x135/1565838_e54e_12.jpg",
+        "image2xURL": "https://img-a.udemycdn.com/course/480x270/1565838_e54e_12.jpg",
+        "image3xURL": "https://img-a.udemycdn.com/course/750x422/1565838_e54e_12.jpg",
         "discountPrice": 11.99,
         "originalPrice": 129.99,
         "numViews": 0,
-        "curriculum": {}
+        "curriculum": []
     },
     "reviews": [
         {
-            "body": "The way how Angela explained topics is fantastic, at the same time understandable but also very interesting, this is the reason what kept me not only on topics that are new for me but also on topics on which I'm familiar.",
-            "rating": 4.5
+            "body": "It was an amazing experience learning new stuffs in this course as a beginner. Angela makes hard concepts look pretty easy to grasp. I truly loved the way she taught each topic. Thank you so much for all the hard work you put in to make this course.",
+            "rating": 5
+        },
+        {
+            "body": "Very comprehensive course, you'll learn a lot of things. The React module is very interesting but need just the last step, integrate back-end in React App.",
+            "rating": 4
         },
         {
             "body": "This course is one of the best for everyone (beginners, intermediates, advance ), Dr.Angela is a good tutor. This course is well designed, taught and explained. I don't have any idea about coding but this course enlightened me. I have also purchased the ios 13 and swift 5, and the complete 2020 flutter development Bootcamp. Just to tell you how much I enjoyed the way she teaches, explains and solves problems/challenges.",
@@ -31,126 +35,122 @@
             "rating": 5
         },
         {
-            "body": "In this course I get more experiences in web development. If I get down, this course gave you motivation to let you get up again and ready to the new journey. Don't let your dream to be web developer down!",
-            "rating": 4.5
+            "body": "This was an excellent course. The best part was all the different challenges that get you to really think about the problem and try your own solution before heading for Angela's answer.\n\nThe course is well structured and has been specifically designed to actually teach specific web technologies, rather than just copy code.\n\nWell done Angela.\n\nPaul",
+            "rating": 5
+        },
+        {
+            "body": "Great Course, Angela is a wonderful instructor!\n\nThe course covers a lot of subjects and most of the videos are up to date and well explained:)",
+            "rating": 5
         },
         {
             "body": "\"I got a magic stick from an angel now I think I am ready to use\". The magic stick is \"The Complete 2020 Web Development Bootcamp\" and the angel is \"Dr. Angela Yu\". You are one of the best teachers in my life, Thank you.",
             "rating": 5
         },
         {
-            "body": "I've completed the course and hands down by far one of the best courses on Udemy ❤ .\n\nIt offers all you could expect from a Bootcamp course and more.",
+            "body": "I just finished this course yay! it was a crazy adventure, it was not easy for me to create a time to study with a 2-year-old hyper baby! But I did it!!! Thank you so much, Angela, loved the way how you teach. Wish you the best and keep going!!",
             "rating": 5
         },
         {
-            "body": "This is my first web development course and this course has introduced me to a ton of information that I would definitely use in my career as a software developer and engineer",
+            "body": "Thank you Angela Yu! I finally finished the course and have a clear grasp on things. A lot of things you’ve mentioned really resonate with the teachings in Christianity especially the discipline and not dwell on what others have to say. We often judge ourselves and others so much we forget who we are, in reality we are nobody and in my Christian faith which I’ve found 2 years ago after perineal bad experiences, if we stop judging and playing God, all we have left is Love. With faith and understanding we can accomplish all things. Let’s stay out of our heads and into seeking and learning, with understanding we will prevail.",
             "rating": 5
         },
         {
-            "body": "Angela is an amazing instructor. Explains wonderfully. I've learned so much over the course's time. So many useful information takes a little bit of time to soak in, but Angela does a great job at destructuring it into small pieces so it gets easily received by us. Only the best I can say about this whole experience. Keep it up, Angela!",
+            "body": "Loved this course, this was my gateway to the world of Web Development. Thank you Angela for being such an amazing Instructor. Would love to see more advanced concepts in JS and React in your future courses. Then again, I will not wait since I don't want to be stuck in tutorial hell. Time to build my own web apps. Thank you soo much.",
+            "rating": 4.5
+        },
+        {
+            "body": "Curso muito bom, além de entregar um conteúdo didático e atual, tive um overview de quase todas as áreas da web. Esse curso foi essencial para que poucos meses depois conseguisse o meu trabalho atual.",
             "rating": 5
         },
         {
-            "body": "Este curso desarrollado por Angela es implemente excelente . Su forma de enseñar es muy efectiva. Es una de las mejores instructores que conozco. Felicitaciones a Angela por compartirnos su conocimiento de forma extraordinaria y a Udemy por tenerla como instructora.",
-            "rating": 5
-        },
-        {
-            "body": "This course is absolutely amazing! It is fantastic value for money and easily the best course on the subject that I have found. I would absolutely recommend this course to anyone thinking about learning web development. I didn't write this review until after I had completed all 50+ hours of the course and I can absolutely say that, from beginning to end, it is extraordinary. You'll be a little amazed at what you can do after completing it.",
-            "rating": 5
-        },
-        {
-            "body": "Amazing, during this lockdown period I have managed to cover a lot of e-learning and I will without a doubt be purchasing more content from Angela. Thank you",
-            "rating": 5
-        },
-        {
-            "body": "I learned a lot of new technical stuff and the most importantly I got to know about online resources that Angela refers to and encourages us to use to make web development more productive. Moreover, Angela your are an amazing instructor. I didn't find a single chapter in the whole course boring, thanks to your teaching skills!",
-            "rating": 5
+            "body": "it has to be (if not the best) one of the best ways to start your web development journey! I learned so many things during this course\n\nkudos to Angela and the App Brewery team :)",
+            "rating": 4.5
         }
     ],
     "students": [
         {
-            "name": "Ekrem Okanovic",
-            "email": "ekremokanovic@gmail.com",
-            "password": "ekremokanovic",
+            "name": "Sanah",
+            "email": "sanah@gmail.com",
+            "password": "sanah",
             "role": "s",
-"isConfirmed": true
+            "isConfirmed": true
+        },
+        {
+            "name": "Gaspare Monte",
+            "email": "gasparemonte@gmail.com",
+            "password": "gasparemonte",
+            "role": "s",
+            "isConfirmed": true
         },
         {
             "name": "Michael Ohaegbu",
             "email": "michaelohaegbu@gmail.com",
             "password": "michaelohaegbu",
             "role": "s",
-"isConfirmed": true
+            "isConfirmed": true
         },
         {
-            "name": "Winter Crypto",
-            "email": "wintercrypto@gmail.com",
-            "password": "wintercrypto",
+            "name": "Kimaon Ali",
+            "email": "kimaonali@gmail.com",
+            "password": "kimaonali",
             "role": "s",
-"isConfirmed": true
+            "isConfirmed": true
         },
         {
-            "name": "Aulia Asha Normawati",
-            "email": "auliaashanormawati@gmail.com",
-            "password": "auliaashanormawati",
+            "name": "Paul Penfold",
+            "email": "paulpenfold@gmail.com",
+            "password": "paulpenfold",
             "role": "s",
-"isConfirmed": true
+            "isConfirmed": true
+        },
+        {
+            "name": "Amit Tur Sinai",
+            "email": "amittursinai@gmail.com",
+            "password": "amittursinai",
+            "role": "s",
+            "isConfirmed": true
         },
         {
             "name": "Sreenath kp",
             "email": "sreenathkp@gmail.com",
             "password": "sreenathkp",
             "role": "s",
-"isConfirmed": true
+            "isConfirmed": true
         },
         {
-            "name": "Mohammed Adnan",
-            "email": "mohammedadnan@gmail.com",
-            "password": "mohammedadnan",
+            "name": "Dinara Koikelova",
+            "email": "dinarakoikelova@gmail.com",
+            "password": "dinarakoikelova",
             "role": "s",
-"isConfirmed": true
+            "isConfirmed": true
         },
         {
-            "name": "Mark Jonathan G. Maiztegui",
-            "email": "markjonathang.maiztegui@gmail.com",
-            "password": "markjonathang.maiztegui",
+            "name": "Duvan",
+            "email": "duvan@gmail.com",
+            "password": "duvan",
             "role": "s",
-"isConfirmed": true
+            "isConfirmed": true
         },
         {
-            "name": "Nikola Sipetic",
-            "email": "nikolasipetic@gmail.com",
-            "password": "nikolasipetic",
+            "name": "Mohammed Zaki Attaulla",
+            "email": "mohammedzakiattaulla@gmail.com",
+            "password": "mohammedzakiattaulla",
             "role": "s",
-"isConfirmed": true
+            "isConfirmed": true
         },
         {
-            "name": "Luis Garcia",
-            "email": "luisgarcia@gmail.com",
-            "password": "luisgarcia",
+            "name": "Jonathan Anthony Silva Souza",
+            "email": "jonathananthonysilvasouza@gmail.com",
+            "password": "jonathananthonysilvasouza",
             "role": "s",
-"isConfirmed": true
+            "isConfirmed": true
         },
         {
-            "name": "Philip Stuttard",
-            "email": "philipstuttard@gmail.com",
-            "password": "philipstuttard",
+            "name": "Kashba",
+            "email": "kashba@gmail.com",
+            "password": "kashba",
             "role": "s",
-"isConfirmed": true
-        },
-        {
-            "name": "Luigi Lupini",
-            "email": "luigilupini@gmail.com",
-            "password": "luigilupini",
-            "role": "s",
-"isConfirmed": true
-        },
-        {
-            "name": "Pratik Raodeo",
-            "email": "pratikraodeo@gmail.com",
-            "password": "pratikraodeo",
-            "role": "s",
-"isConfirmed": true
+            "isConfirmed": true
         }
     ],
     "instructor": {
@@ -158,7 +158,636 @@
         "email": "dr.angelayu@gmail.com",
         "password": "dr.angelayu",
         "role": "i",
-"isConfirmed": true,
-        "briefIntroduction": "<p>I'm Angela, I'm a developer with a passion for teaching. I'm the <strong>lead instructor</strong> at the London App Brewery, London's leading <strong>Programming Bootcamp</strong>. I've helped hundreds of thousands of students learn to code and change their lives by becoming a developer. I've been invited by companies such as Twitter, Facebook and Google to teach their employees.</p><p>My first foray into programming was when I was just 12 years old, wanting to build my own Space Invader game. Since then, I've made <strong>hundred of websites, apps and games</strong>. But most importantly, I realised that my <strong>greatest passion</strong> is teaching. </p><p>I spend most of my time researching how to make <strong>learning to code fun</strong> and make <strong>hard concepts easy to understand</strong>. I apply everything I discover into my bootcamp courses. In my courses, you'll find lots of geeky humour but also lots of <strong>explanations and animations</strong> to make sure everything is easy to understand. </p><p><strong>I'll be there for you every step of the way.</strong></p>"
-    }
+        "briefIntroduction": "<p>I'm Angela, I'm a developer with a passion for teaching. I'm the <strong>lead instructor</strong> at the London App Brewery, London's leading <strong>Programming Bootcamp</strong>. I've helped hundreds of thousands of students learn to code and change their lives by becoming a developer. I've been invited by companies such as Twitter, Facebook and Google to teach their employees.</p><p>My first foray into programming was when I was just 12 years old, wanting to build my own Space Invader game. Since then, I've made <strong>hundred of websites, apps and games</strong>. But most importantly, I realised that my <strong>greatest passion</strong> is teaching. </p><p>I spend most of my time researching how to make <strong>learning to code fun</strong> and make <strong>hard concepts easy to understand</strong>. I apply everything I discover into my bootcamp courses. In my courses, you'll find lots of geeky humour but also lots of <strong>explanations and animations</strong> to make sure everything is easy to understand. </p><p><strong>I'll be there for you every step of the way.</strong></p>",
+        "isConfirmed": true
+    },
+    "curriculum": [
+        {
+            "sectionName": "Front-End Web Development",
+            "unitNames": [
+                "What You'll Get in This Course",
+                "Syllabus Download",
+                "Bookmark the Course Resources",
+                "How to Get the Most Out of the Course",
+                "Download the 12 Rules to Learn to Code eBook",
+                "How Does the Internet Actually Work?",
+                "How Do Websites Actually Work?",
+                "What You'll Need to Get Started - Setup Your Local Web Development Environment",
+                "How to Get Help When You're Stuck",
+                "Pathfinder"
+            ]
+        },
+        {
+            "sectionName": "Introduction to HTML",
+            "unitNames": [
+                "Introduction to HTML",
+                "The Anatomy of an HTML Tag",
+                "What we're building - HTML Personal Site",
+                "What is The HTML Boilerplate?",
+                "How to Structure Text in HTML",
+                "HTML Lists",
+                "HTML Image Elements",
+                "HTML Links and Anchor Tags",
+                "How to Ace this Course"
+            ]
+        },
+        {
+            "sectionName": "Intermediate HTML",
+            "unitNames": [
+                "HTML Tables",
+                "Using HTML Tables for Layout",
+                "HTML Tables Code Challenge",
+                "How to Type Emojis",
+                "HTML Tables Solution Walkthrough",
+                "HTML Forms",
+                "Forms in Practice - Create a Contact Me Form",
+                "HTML Challenge",
+                "Publish Your Website!",
+                "Tip from Angela - Habit Building with the Calendar Trick",
+                "Get Monthly Tips and Tools to  Level Up as a Developer"
+            ]
+        },
+        {
+            "sectionName": "Introduction to CSS",
+            "unitNames": [
+                "Introduction to CSS",
+                "Inline CSS",
+                "A Quick Note About the Next Lesson",
+                "Internal CSS",
+                "External CSS",
+                "How to Debug CSS Code",
+                "The Anatomy of CSS Syntax",
+                "CSS Selectors",
+                "Classes vs. Ids",
+                "CSS Quiz",
+                "Tip from Angela - Dealing with Distractions",
+                "Join the Student Community"
+            ]
+        },
+        {
+            "sectionName": "Intermediate CSS",
+            "unitNames": [
+                "What We'll Make - Stylised Personal Site",
+                "What Are Favicons?",
+                "HTML Divs",
+                "The Box Model of Website Styling",
+                "CSS Display Property",
+                "Learn More About Web Design",
+                "CSS Static and Relative Positioning",
+                "Absolute positioning",
+                "The Dark Art of Centering Elements with CSS",
+                "Font Styling in Our Personal Site",
+                "Learn More About Typography",
+                "Adding Content to Our Website",
+                "CSS Sizing",
+                "Font Properties Challenge 1 - Change the Font Colour",
+                "Font Properties Challenge 2 - Change the Font Weight",
+                "Font Properties Challenge 3 - Change the Line Height",
+                "CSS Font Property Challenge Solutions",
+                "CSS Float and Clear",
+                "CSS Challenge",
+                "Stylised Personal Site Solution Walkthrough",
+                "[Optional] Get More Practice HTML and CSS",
+                "Tip from Angela - Nothing Easy is Worth Doing!"
+            ]
+        },
+        {
+            "sectionName": "Introduction to Bootstrap 4",
+            "unitNames": [
+                "What is Bootstrap?",
+                "Installing Bootstrap",
+                "Web Design 101 - Wireframing",
+                "The Bootstrap Navigation Bar",
+                "What We'll Make: TinDog",
+                "Download the Starting Files",
+                "Setting Up Our New Project",
+                "Bootstrap Grid Layout System",
+                "Getting Montserrat Black and other Font Weights",
+                "Adding Grid Layouts to Our Website",
+                "A Note About CSS Link Order",
+                "Bootstrap Containers",
+                "Bootstrap Buttons & Font Awesome",
+                "Styling Our Website Challenges and Solutions",
+                "Bootstrap Challenge 1",
+                "Solution to Bootstrap Challenge 1",
+                "Tip from Angela - How to Deal with Procrastination"
+            ]
+        },
+        {
+            "sectionName": "Intermediate Bootstrap",
+            "unitNames": [
+                "The Bootstrap Carousel Part 1",
+                "The Bootstrap Carousel Part 2",
+                "Bootstrap Cards",
+                "The CSS Z-Index and Stacking Order",
+                "Media Query Breakpoints",
+                "Bootstrap Challenge 2",
+                "Bootstrap Challenge 2 Solution",
+                "How to become a Better Programmer - Code Refactoring",
+                "Put it into Practice - Refactor our Website Part 1",
+                "Advanced CSS - Combining Selectors",
+                "Refactoring our Website Part 2",
+                "Advanced CSS - Selector Priority",
+                "Completing the Website",
+                "Download the Completed Website",
+                "Tip from Angela - Building a Programming Habit"
+            ]
+        },
+        {
+            "sectionName": "Web Design School - Create a Website that People Love",
+            "unitNames": [
+                "Introduction to Web Design",
+                "Understanding Colour Theory",
+                "Understanding Typography and How to Choose a Font",
+                "Manage ATTENTION with effective User Interface (UI) Design",
+                "User Experience (UX) Design",
+                "Web Design in Practice - Let's apply what we've learnt!"
+            ]
+        },
+        {
+            "sectionName": "Introduction to Javascript ES6",
+            "unitNames": [
+                "Introduction to Javascript",
+                "Javascript Alerts - Adding Behaviour to Websites",
+                "Data Types",
+                "Javascript Variables",
+                "Javascript Variables Exercise Start",
+                "Javascript Variables Exercise",
+                "Javascript Variables Exercise Solution",
+                "Naming and Naming Conventions for Javascript Variables",
+                "Javascript Variable Naming Quiz",
+                "String Concatenation",
+                "String Lengths and Retrieving the Number of Characters",
+                "Slicing and Extracting Parts of a String",
+                "Challenge: Changing Casing in Text",
+                "Challenge: Changing String Casing Solution",
+                "Basic Arithmetic and the Modulo Operator in Javascript",
+                "Increment and Decrement Expressions",
+                "Javascript Numbers Quiz",
+                "Functions Part 1: Creating and Calling Functions",
+                "Functions Part 1 Challenge - The Karel Robot",
+                "The Karel Chess Board Solution",
+                "A Quick Note About the Next Lesson",
+                "Functions Part 2: Parameters and Arguments",
+                "Life in Weeks Coding Exercise",
+                "Life in Weeks Solution",
+                "Functions Part 3: Outputs & Return Values",
+                "Challenge: Create a BMI Calculator",
+                "BMI Calculator Challenge",
+                "Challenge: BMI Calculator Solution",
+                "JavaScript Functions Quiz",
+                "Tip from Angela - Set Your Expectations"
+            ]
+        },
+        {
+            "sectionName": "Intermediate Javascript",
+            "unitNames": [
+                "Random Number Generation in Javascript: Building a Love Calculator",
+                "Control Statements: Using If-Else Conditionals & Logic",
+                "Comparators and Equality",
+                "Combining Comparators",
+                "BMI Calculator Advanced (IF/ELSE)",
+                "Introducing the Leap Year Code Challenge",
+                "Leap Year Challenge Exercise",
+                "Leap Year Solution",
+                "Collections: Working with Javascript Arrays",
+                "Adding Elements and Intermediate Array Techniques",
+                "Who's Buying Lunch? Code Challenge",
+                "Who's Buying Lunch Solution",
+                "Control Statements: While Loops",
+                "Solution to the 99 Bottles Challenge",
+                "Control Statements: For Loops",
+                "Introducing the Fibonacci Code Challenge",
+                "The Fibonacci Exercise",
+                "Fibonacci Solution",
+                "Tip from Angela - Retrieval is How You Learn"
+            ]
+        },
+        {
+            "sectionName": "The Document Object Model (DOM)",
+            "unitNames": [
+                "Adding Javascript to Websites",
+                "Introduction to the Document Object Model (DOM)",
+                "Solution to the DOM Challenge",
+                "Selecting HTML Elements with Javascript",
+                "Manipulating and Changing Styles of HTML Elements with Javascript",
+                "The Separation of Concerns: Structure vs Style vs Behaviour",
+                "Text Manipulation and the Text Content Property",
+                "Manipulating HTML Element Attributes",
+                "Tip from Angela - The 20 Minute Method"
+            ]
+        },
+        {
+            "sectionName": "Boss Level Challenge 1 - The Dicee Game",
+            "unitNames": [
+                "Challenge: The Dicee Challenge",
+                "Dicee Challenge Step 0 - Download the Skeleton Project",
+                "Dicee Challenge Step 1 - Create an External Javascript File",
+                "Dicee Challenge Step 2 - Add Dice Images",
+                "Dicee Challenge Step 3 - Create a Random Number",
+                "Dicee Challenge Step 4 - Change the <img>  to a Random Dice",
+                "Dicee Challenge Step 5 - Change both <img> Elements",
+                "Dicee Challenge Step 6 - Change the Title to Display a Winner",
+                "The Solution to the Dicee Challenge",
+                "Download the Completed Website",
+                "Tip from Angela - Learning Before you Eat"
+            ]
+        },
+        {
+            "sectionName": "Advanced Javascript and DOM Manipulation",
+            "unitNames": [
+                "What We'll Make: Drum Kit",
+                "Download the Starting Files",
+                "Adding Event Listeners to a Button",
+                "Higher Order Functions and Passing Functions as Arguments",
+                "Higher Order Function Challenge Solution",
+                "How to Play Sounds on a Website",
+                "A Deeper Understanding of Javascript Objects",
+                "How to Use Switch Statements in Javascript",
+                "Objects, their Methods and the Dot Notation",
+                "A Quick Note About the Next Lesson",
+                "Using Keyboard Event Listeners to Check for Key Presses",
+                "Understanding Callbacks and How to Respond to Events",
+                "Adding Animation to Websites",
+                "Download the Completed Website",
+                "Tip from Angela - Dealing with Lack of Progress"
+            ]
+        },
+        {
+            "sectionName": "jQuery",
+            "unitNames": [
+                "What is jQuery?",
+                "How to Incorporate jQuery into Websites",
+                "How Minification Works to Reduce File Size",
+                "Selecting Elements with jQuery",
+                "Manipulating Styles with jQuery",
+                "Manipulating Text with jQuery",
+                "Manipulating Attributes with jQuery",
+                "Adding Event Listeners with jQuery",
+                "Adding and Removing Elements with jQuery",
+                "Website Animations with jQuery",
+                "Tip from Angela - Mixing Knowledge"
+            ]
+        },
+        {
+            "sectionName": "Boss Level Challenge 2 - The Simon Game",
+            "unitNames": [
+                "What You'll Make: The Simon Game",
+                "Play the Game",
+                "Step 0 - Download the Starting Files",
+                "Step 1 - Add Javascript and jQuery",
+                "Step 1 - Answer",
+                "Step 2 - Create A New Pattern",
+                "Step 2 - Answer",
+                "Step 3 - Show the Sequence to the User with Animations and Sounds",
+                "Step 3 - Answer",
+                "Step 4 - Check Which Button is Pressed",
+                "Step 4 - Answer",
+                "Step 5 - Add Sounds to Button Clicks",
+                "Step 5 - Answer",
+                "Step 6 - Add Animations to User Clicks",
+                "Step 6 - Answer",
+                "Step 7 - Start the Game",
+                "Step 7 - Answer",
+                "Step 8 - Check the User's Answer Against the Game Sequence8",
+                "Step 8 - Answer",
+                "Step 9 - Game Over",
+                "Step 9 - Answer",
+                "Step 10 - Restart the Game",
+                "Step 10 - Answer",
+                "Download the Completed Project Code",
+                "Tip from Angela - Dealing with Frustration"
+            ]
+        },
+        {
+            "sectionName": "The Unix Command Line",
+            "unitNames": [
+                "Installing the Hyper Terminal",
+                "Command Line Hyper Setup",
+                "Understanding the Command Line. Long Live the Command Line!",
+                "Command Line Techniques and Directory Navigation",
+                "Creating, Opening, and Removing Files through the Command Line",
+                "Tip from Angela - Sleep is My Secret Weapon"
+            ]
+        },
+        {
+            "sectionName": "Backend Web Development",
+            "unitNames": [
+                "Backend Web Development Explained"
+            ]
+        },
+        {
+            "sectionName": "Node.js",
+            "unitNames": [
+                "What is Node.js?",
+                "Install Node.js on Mac",
+                "Install Node.js on Windows",
+                "The Power of the Command Line and How to Use Node",
+                "The Node REPL (Read Evaluation Print Loops)",
+                "How to Use the Native Node Modules",
+                "The NPM Package Manager and Installing External Node Modules",
+                "Tip from Angela - Step Up to the Challenge"
+            ]
+        },
+        {
+            "sectionName": "Express.js with Node.js",
+            "unitNames": [
+                "What is Express?",
+                "Creating Our First Server with Express",
+                "Handling Requests and Responses: the GET Request",
+                "Nodemon Installation",
+                "Understanding and Working with Routes",
+                "What We'll Make: A Calculator",
+                "Calculator Setup Challenge",
+                "Calculator Setup: Challenge Solution",
+                "Responding to Requests with HTML Files",
+                "Processing Post Requests with Body Parser",
+                "BMI Routing Challenge",
+                "Solution to the BMI Routing Challenge",
+                "Tip from Angela - How to Solidify Your Knowledge"
+            ]
+        },
+        {
+            "sectionName": "APIs - Application Programming Interfaces",
+            "unitNames": [
+                "Why Do We Need APIs?",
+                "API Endpoints, Paths and Parameters.",
+                "API Authentication and Postman",
+                "What is JSON?",
+                "Making GET Requests with the Node HTTPS Module",
+                "How to Parse JSON",
+                "Using Express to Render a Website with Live API Data",
+                "Using Body Parser to Parse POST Requests to the Server",
+                "The Mailchimp API - What You'll Make",
+                "Setting Up the Sign Up Page",
+                "Posting Data to Mailchimp's Servers via their API",
+                "Adding Success and Failure Pages",
+                "Deploying Your Server with Heroku",
+                "Tip from Angela - Location, Location, Location!"
+            ]
+        },
+        {
+            "sectionName": "Git, Github and Version Control",
+            "unitNames": [
+                "Introduction to Version Control and Git",
+                "Version Control Using Git and the Command Line",
+                "GitHub and Remote Repositories",
+                "GitHub Private Repos are now Free! ?",
+                "Gitignore",
+                "Cloning",
+                "Branching and Merging",
+                "Optional Git Challenge",
+                "Forking and Pull Requests",
+                "Tip from Angela - Spaced Repetition"
+            ]
+        },
+        {
+            "sectionName": "EJS",
+            "unitNames": [
+                "What We'll Make: A ToDoList",
+                "Linter Errors with EJS",
+                "Templates? Why Do We Need Templates?",
+                "Creating Your First EJS Templates",
+                "Running Code Inside the EJS Template",
+                "Passing Data from Your Webpage to Your Server",
+                "The Concept of Scope in the Context of Javascript",
+                "Adding Pre-Made CSS Stylesheets to Your Website",
+                "Understanding Templating vs. Layouts",
+                "Understanding Node Module Exports: How to Pass Functions and Data between Files",
+                "Tip from Angela - Use Accountability in your Favour"
+            ]
+        },
+        {
+            "sectionName": "Boss Level Challenge 3 - Blog Website",
+            "unitNames": [
+                "A New Challenge Format and What We'll Make: A Blog",
+                "Setting Up the Blog Project",
+                "Challenge 1",
+                "Challenge 1 Solution",
+                "Challenge 2",
+                "Challenge 2 Solution",
+                "Challenge 3",
+                "Challenge 3 Solution",
+                "Challenge 4",
+                "Challenge 4 Solution",
+                "Challenge 5",
+                "Challenge 5 Solution",
+                "Challenge 6",
+                "Challenge 6 Solution",
+                "Challenge 7",
+                "Challenge 7 Solution",
+                "Challenge 8",
+                "Challenge 8 Solution",
+                "Challenge 9",
+                "Challenge 9 Solution",
+                "Challenge 10",
+                "Challenge 10 Solution",
+                "Challenge 11",
+                "Challenge 11 Solution",
+                "Challenge 12",
+                "Challenge 12 Solution",
+                "Challenge 13",
+                "Challenge 13 Solution",
+                "Challenge 14 and Solution",
+                "Challenge 15",
+                "Challenge 15 Solution",
+                "Express Routing Parameters",
+                "Challenge 16",
+                "Challenge 16 Solution",
+                "Challenge 17",
+                "Challenge 17 Solution",
+                "Challenge 18",
+                "Challenge 18 Solution",
+                "Challenge 19",
+                "Challenge 19 Solution",
+                "Challenge 20",
+                "Challenge 20 Solution",
+                "Challenge 21",
+                "Challenge 21 Solution",
+                "Tip from Angela - When Life Gives You Lemons"
+            ]
+        },
+        {
+            "sectionName": "Databases",
+            "unitNames": [
+                "Databases Explained: SQL vs. NOSQL"
+            ]
+        },
+        {
+            "sectionName": "SQL",
+            "unitNames": [
+                "SQL Commands: CREATE Table and INSERT Data",
+                "SQL Commands: READ, SELECT, and WHERE",
+                "Updating Single Values and Adding Columns in SQL",
+                "SQL Commands: DELETE",
+                "Understanding SQL Relationships, Foreign Keys and Inner Joins",
+                "Tip from Angela - Find All the Hard Working People"
+            ]
+        },
+        {
+            "sectionName": "MongoDB",
+            "unitNames": [
+                "Installing MongoDB on Mac",
+                "Installing MongoDB on Windows",
+                "MongoDB CRUD Operations in the Shell: Create",
+                "MongoDB CRUD Operations in the Shell: Reading & Queries",
+                "MongoDB CRUD Operations in the Shell: Update",
+                "MongoDB CRUD Operations in the Shell: Delete",
+                "Relationships in MongoDB",
+                "Working with The Native MongoDB Driver",
+                "If You Have Forgotten to Quit the Mongod Server",
+                "Tip from Angela - Daily Routines"
+            ]
+        },
+        {
+            "sectionName": "Mongoose",
+            "unitNames": [
+                "Introduction to Mongoose",
+                "Reading from Your Database with Mongoose",
+                "Data Validation with Mongoose",
+                "Updating and Deleting Data Using Mongoose",
+                "Establishing Relationships and Embedding Documents using Mongoose",
+                "Tip from Angela - Deep Work"
+            ]
+        },
+        {
+            "sectionName": "Putting Everything Together",
+            "unitNames": [
+                "Let's take the ToDoList Project to the Next Level and Connect it with Mongoose",
+                "Rendering Database Items in the ToDoList App",
+                "Adding New Items to our ToDoList Database",
+                "Deleting Items from our ToDoList Database",
+                "Creating Custom Lists using Express Route Parameters",
+                "Adding New Items to the Custom ToDo Lists",
+                "Revisiting Lodash and Deleting Items from Custom ToDo Lists",
+                "Tip from Angela - One Step at a Time"
+            ]
+        },
+        {
+            "sectionName": "Deploying Your Web Application",
+            "unitNames": [
+                "How to Deploy Web Apps with a Database",
+                "How to Setup MongoDB Atlas",
+                "Deploying an App with a Database to Heroku",
+                "Tip from Angela - Discipline Breeds Discipline"
+            ]
+        },
+        {
+            "sectionName": "Boss Level Challenge 4 - Blog Website Upgrade",
+            "unitNames": [
+                "Challenge: Give your Blog a Database",
+                "Step 0 - Download the Starting Files",
+                "Step 1 - Save Composed Posts with MongoDB",
+                "Step 2 - Get the Home Page to Render the Posts",
+                "Step 3 - Fix the bug",
+                "Step 4 - Render the correct blog post based on post _id",
+                "Completed Blog with Database Solution",
+                "Tip from Angela - Dealing with Limitations"
+            ]
+        },
+        {
+            "sectionName": "Build Your Own RESTful API From Scratch",
+            "unitNames": [
+                "What is REST?",
+                "Creating a Database with Robo 3T",
+                "Set Up Server Challenge",
+                "Set Up Server Solution",
+                "GET All Articles",
+                "POST a New Article",
+                "DELTE All Articles",
+                "Chained Route Handlers Using Express",
+                "GET a Specific Article",
+                "PUT a Specific Article",
+                "PATCH a Specific Article",
+                "DELETE a Specific Article",
+                "Download the Completed Project Code",
+                "Tip from Angela - How to Get a Job as Programmer"
+            ]
+        },
+        {
+            "sectionName": "Authentication & Security",
+            "unitNames": [
+                "Introduction to Authentication",
+                "Getting Set Up",
+                "Level 1 - Register Users with Username and Password",
+                "How to Review the Source Code",
+                "Level 2 - Database Encryption",
+                "Using Environment Variables to Keep Secrets Safe",
+                "Level 3 - Hashing Passwords",
+                "Hacking 101 ☣️",
+                "Level 4 - Salting and Hashing Passwords with bcrypt",
+                "What are Cookies and Sessions?",
+                "Using Passport.js to Add Cookies and Sessions",
+                "Level 6 - OAuth 2.0 & How to Implement Sign In with Google",
+                "Finishing Up the App - Letting Users Submit Secrets",
+                "Download the Completed Project Code",
+                "Tip from Angela - How to Work as a Freelancer"
+            ]
+        },
+        {
+            "sectionName": "React.js",
+            "unitNames": [
+                "What is React?",
+                "What we will make in this React module",
+                "Introduction to Code Sandbox and the Structure of the Module",
+                "Introduction to JSX and Babel",
+                "JSX Code Practice",
+                "Javascript Expressions in JSX & ES6 Template Literals",
+                "Javascript Expressions in JSX Practice",
+                "JSX Attributes & Styling React Elements",
+                "Inline Styling for React Elements",
+                "React Styling Practice",
+                "React Components",
+                "React Components Practice",
+                "Javascript ES6 - Import, Export and Modules",
+                "Javascript ES6 Import, Export and Modules Practice",
+                "[Windows]​ Local Environment Setup for React Development",
+                "[Mac] Local Environment Setup for React Development​",
+                "Keeper App Project - Part 1 Challenge",
+                "Keeper App Part 1 Solution",
+                "React Props",
+                "React Props Practice",
+                "React DevTools",
+                "Mapping Data to Components",
+                "Mapping Data to Components​ Practice",
+                "Javascript ES6 Map/Filter/Reduce",
+                "Javascript ES6 Arrow functions",
+                "Keeper App Project - Part 2",
+                "React Conditional Rendering with the Ternary Operator & AND Operator",
+                "Conditional Rendering Practice",
+                "State in React - Declarative vs. Imperative Programming",
+                "React Hooks - useState",
+                "useState Hook Practice",
+                "Javascript ES6 Object & Array Destructuring",
+                "Javascript ​ES6 Destructuring Challenge Solution",
+                "Event Handling in React",
+                "React Forms",
+                "Class Components vs. Functional Components",
+                "Changing Complex State",
+                "Changing Complex State Practice",
+                "Javascript ES6 Spread Operator",
+                "Javascript ES6 Spread Operator Practice",
+                "Managing a Component Tree",
+                "Managing a Component Tree Practice",
+                "Keeper App Project - Part 3",
+                "React Dependencies & Styling the Keeper App",
+                "Tip from Angela - How to Build Your Own Product"
+            ]
+        },
+        {
+            "sectionName": "Bonus Module: Ask Angela Anything",
+            "unitNames": [
+                "AAA 1 - How to Soak in Programming Concepts and more...",
+                "AAA 2 - Schedule for Learning to Code and more...",
+                "AAA 3 - How to Start Freelancing and more...",
+                "AAA 4 - The Live AMA"
+            ]
+        },
+        {
+            "sectionName": "Next Steps",
+            "unitNames": [
+                "Vote for the Next Module!"
+            ]
+        }
+    ]
 }

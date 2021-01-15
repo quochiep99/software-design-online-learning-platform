@@ -6,44 +6,56 @@
     "course": {
         "title": "Python and Django Full Stack Web Developer Bootcamp",
         "subtitle": "Learn to build websites with HTML , CSS , Bootstrap , Javascript , jQuery , Python 3 , and Django!",
-        "descriptions":  "",
+        "descriptions": [],
         "reviews": [],
         "students": [],
-        "image1xURL": "https://img-b.udemycdn.com/course/240x135/822444_a6db.jpg",
-        "image2xURL": "https://img-b.udemycdn.com/course/480x270/822444_a6db.jpg",
-        "image3xURL": "https://img-b.udemycdn.com/course/750x422/822444_a6db.jpg",
+        "image1xURL": "https://img-a.udemycdn.com/course/240x135/822444_a6db.jpg",
+        "image2xURL": "https://img-a.udemycdn.com/course/480x270/822444_a6db.jpg",
+        "image3xURL": "https://img-a.udemycdn.com/course/750x422/822444_a6db.jpg",
         "discountPrice": 11.99,
         "originalPrice": 129.99,
         "numViews": 0,
-        "curriculum": {}
+        "curriculum": []
     },
     "reviews": [
         {
-            "body": "Thanks Jose for the in-deep walkthrough web development with Django in python.\n\nI can only provide positive appreciations for this course. well structured, lots of relevant examples and excellent explanation. I recommend this course although further development of skills is needed to be a complete full-stack. Farewell.",
+            "body": "One of the best courses in Udemy by far! Great course content with lots of walk through examples and hands-on. And on top of that it has an excellent instructor!",
             "rating": 5
         },
         {
-            "body": "This course gave me a good grasp on Django and kept me engaged the entire time. Jose is an excellent instructor. Highly recommended for anyone interested in Django.",
-            "rating": 4.5
+            "body": "Great Course! I surely could understand every topics and enjoy it. I just suggest one thing: The course is not for total beginners because it can be frustrated for most of them to read the official documentation of Django. Why?, because the course is outdated.",
+            "rating": 4
         },
         {
-            "body": "Very good course, shame it movies are not updated with new versions of django and python, but it actually forces you to search for yourself through the documentation and webpages, to fix some issues, therefor makes you remember and understand more. Well done and thank you! And this is not a big issue, just few minor changes, so it is pretty awsome to encourage to update yourself with new knowledge",
-            "rating": 4.5
+            "body": "The lecture was very good but many packages details were missed may be bacause they require separate expalnation and would have made course long. But if that was included would have helped to get the content more easily yes time consuming but more relevent.",
+            "rating": 4
+        },
+        {
+            "body": "Thanks Jose for the in-deep walkthrough web development with Django in python.\n\nI can only provide positive appreciations for this course. well structured, lots of relevant examples and excellent explanation. I recommend this course although further development of skills is needed to be a complete full-stack. Farewell.",
+            "rating": 5
         },
         {
             "body": "There is a lot in this course and he covered them all very well. The good part is ,everything he live coded and that make things clear .I feel this course gave me way more knowledge than i paid for this.Thanks a lot jose for publishing this course.",
             "rating": 5
         },
         {
-            "body": "With this course i can make my own site, with a lot of tools and options.\n\nThe didactics of the classes are easy to understand, being a great django course.",
-            "rating": 5
+            "body": "The course has many vital subjects which are treated too hastily giving only poor explanations. This course is also very outdated since django was updated a lot already. This is hardly more than an introdutory course.",
+            "rating": 2
         },
         {
-            "body": "Covered all the basics of django And front end components and also touched some of the advanced topics in Django. After taking this course I was able to do anything in django. I made a video blogging website with help of statckoverflow and my django knowledge and also I made a web app for weather by using Apis. After that I took the courses to advance my django Skills like using rest framework. Rest is not included in this course but ITts the basics you require of django. Its filmed on django 1 but I used Django 3 in my time and there was literally no difference except some minor hiccups which is also covered in course notes.",
-            "rating": 5
+            "body": "This course is actually good and easy to understand. However, this course is outdated. I had a lot of problems understanding the second half of the course. I don't recommend you to take this course at least by the time you read this review unless the course is updated in the future.",
+            "rating": 3
         },
         {
-            "body": "I was able to get a front to back site up and running on PythonAnywhere. So there is a lot of amazing material. However, since the course is old the tech versions are old and it's in the Django part that it becomes a problem. Many frustrating hours spent trying to figure out syntax.\n\nNow it seems that the Django_Course_2.xx has corrected syntax! Especially URL mappings, Bootstrap versions, Glyphicon classes, django import modules, etc.",
+            "body": "Covers a lot of content so that's good but needs to update to Django 3. I watched this while trying to create a project in Django 3 and was very confused. Would also be better if there was more explanation into how the code works instead of just teaching the \"hows\".",
+            "rating": 3
+        },
+        {
+            "body": "The course contains a lot of new and useful concepts for me and I'm grateful to Jose for creating the course. And after the course I feel I can make a simple Django project of my own, but of course I am not confident in Django.\n\nBut I would like there would be more explanations in the Social Media Site Clone Project not just retyping the code, but make the detail explanation of each method and concept with a link to documentation for self studying. Some questions about the course content remained unanswered.\n\nAlso, I wish the course contained more Home Work especially in the Django section of the course and It would be great if Jose update the course. The course was created in 2017 and some methods and concepts are obsolete in it.\n\nI recommend the course for studying the basic concept of the web development with the Django framework",
+            "rating": 4
+        },
+        {
+            "body": "A little bit out of the last version of Django, still is good to learn how to handle the documentation, good exercises to practice",
             "rating": 4
         },
         {
@@ -51,106 +63,94 @@
             "rating": 2
         },
         {
-            "body": "Material is outdated for newer versions of Django and rest of stuff. There should be clear notifications in videos when the method or working procedure has changed. Also the games programmed in this course like connect four and war card game have major flaws in their code. For some reason the author of this course chooses not to answer any of the questions in Q&A regarding those games so students have to figure out the answer themselves.",
-            "rating": 2
-        },
-        {
-            "body": "Lack of explanation in many ways. It's really tedious to watch the tutor type each word during the coding without high level structural guidance. The logic is not clear to me especially in the projects part.\n\nThe Django version is also outdated. There are a lot of updates on the usage but you won't know when you learn along with the course. Not recommend beginner to choice this course.",
-            "rating": 1
-        },
-        {
-            "body": "Thanks Jose! The best part is, the course content is well structured and advanced topics were also covered and the explanation was just WOW!!.",
-            "rating": 5
-        },
-        {
-            "body": "So, It was both challenging and exiting, Jose an amazing teacher and he and people what responsible for help in Q&A form really doing great job, especially Abu Sayeed!\n\nAnswering to someone question you sad \"Don't lose your patience. Programming means all of problem and problem needed the patience to solve it.\" - what are great words? ... after that, you and some people started to help with solution of that God Damn it Misaka installation problem! That words really helped me out, to stand up and keep going!\n\nSo guys, I am honestly thankful for support, and help!\n\nYou are my heroes!\n\nReally great course full of knowledges and details!",
-            "rating": 5
+            "body": "This was an excellent course.\n\nThe only problem is it's severely out of date and no attempts have been made to provide any supplemental materials to bridge the gap from Django 1 to Django 3.\n\nIf I have any criticisms of the teaching style it's mostly that in the latter Django projects the teacher goes through long stretches without running code or debugging. Combine that with the fact that he's using a much older version of Django and it's difficult to follow along.\n\nOn the plus side, if it were up to date, it's a very thorough course with detailed explanations and all the code is downloadable.\n\nIf the teacher updates it to Django 3, I'd certainly take it again.",
+            "rating": 3.5
         }
     ],
     "students": [
+        {
+            "name": "Dana",
+            "email": "dana@gmail.com",
+            "password": "dana",
+            "role": "s",
+            "isConfirmed": true
+        },
+        {
+            "name": "Hernán Romano",
+            "email": "hernánromano@gmail.com",
+            "password": "hernánromano",
+            "role": "s",
+            "isConfirmed": true
+        },
+        {
+            "name": "Deepak Shukla",
+            "email": "deepakshukla@gmail.com",
+            "password": "deepakshukla",
+            "role": "s",
+            "isConfirmed": true
+        },
         {
             "name": "Michael Keumatio Lontsie",
             "email": "michaelkeumatiolontsie@gmail.com",
             "password": "michaelkeumatiolontsie",
             "role": "s",
-"isConfirmed": true
-        },
-        {
-            "name": "Micky Baeza",
-            "email": "mickybaeza@gmail.com",
-            "password": "mickybaeza",
-            "role": "s",
-"isConfirmed": true
-        },
-        {
-            "name": "Jakub Łabowicz",
-            "email": "jakubłabowicz@gmail.com",
-            "password": "jakubłabowicz",
-            "role": "s",
-"isConfirmed": true
+            "isConfirmed": true
         },
         {
             "name": "Raksha Yadav",
             "email": "rakshayadav@gmail.com",
             "password": "rakshayadav",
             "role": "s",
-"isConfirmed": true
+            "isConfirmed": true
         },
         {
-            "name": "Lucas Búrigo",
-            "email": "lucasbúrigo@gmail.com",
-            "password": "lucasbúrigo",
+            "name": "Rafael Castro",
+            "email": "rafaelcastro@gmail.com",
+            "password": "rafaelcastro",
             "role": "s",
-"isConfirmed": true
+            "isConfirmed": true
         },
         {
-            "name": "Drishtant Rai",
-            "email": "drishtantrai@gmail.com",
-            "password": "drishtantrai",
+            "name": "Purbasari Cahyaning Suwandi",
+            "email": "purbasaricahyaningsuwandi@gmail.com",
+            "password": "purbasaricahyaningsuwandi",
             "role": "s",
-"isConfirmed": true
+            "isConfirmed": true
         },
         {
-            "name": "Joe Joe",
-            "email": "joejoe@gmail.com",
-            "password": "joejoe",
+            "name": "Amanda Chua",
+            "email": "amandachua@gmail.com",
+            "password": "amandachua",
             "role": "s",
-"isConfirmed": true
+            "isConfirmed": true
+        },
+        {
+            "name": "Yuriy Naumov",
+            "email": "yuriynaumov@gmail.com",
+            "password": "yuriynaumov",
+            "role": "s",
+            "isConfirmed": true
+        },
+        {
+            "name": "Judith Plascencia",
+            "email": "judithplascencia@gmail.com",
+            "password": "judithplascencia",
+            "role": "s",
+            "isConfirmed": true
         },
         {
             "name": "Xiang REN",
             "email": "xiangren@gmail.com",
             "password": "xiangren",
             "role": "s",
-"isConfirmed": true
+            "isConfirmed": true
         },
         {
-            "name": "Jani Seppälä",
-            "email": "janiseppälä@gmail.com",
-            "password": "janiseppälä",
+            "name": "Stanley W Rogouski",
+            "email": "stanleywrogouski@gmail.com",
+            "password": "stanleywrogouski",
             "role": "s",
-"isConfirmed": true
-        },
-        {
-            "name": "Aijie Zhao",
-            "email": "aijiezhao@gmail.com",
-            "password": "aijiezhao",
-            "role": "s",
-"isConfirmed": true
-        },
-        {
-            "name": "Rohit Tandlay",
-            "email": "rohittandlay@gmail.com",
-            "password": "rohittandlay",
-            "role": "s",
-"isConfirmed": true
-        },
-        {
-            "name": "Nikolay Rudenko",
-            "email": "nikolayrudenko@gmail.com",
-            "password": "nikolayrudenko",
-            "role": "s",
-"isConfirmed": true
+            "isConfirmed": true
         }
     ],
     "instructor": {
@@ -158,7 +158,342 @@
         "email": "joseportilla@gmail.com",
         "password": "joseportilla",
         "role": "i",
-"isConfirmed": true,
-        "briefIntroduction": "<p>&nbsp; Jose Marcial Portilla has a BS and MS in Mechanical Engineering from Santa Clara University and&nbsp;years of&nbsp;experience as a professional instructor and trainer for Data Science and programming. He has publications and patents in various fields such as microfluidics,&nbsp;materials science, and data science technologies. Over the course of his career he has developed a skill set in analyzing data and he hopes to use his experience in teaching and data science to help other people learn the power of programming the&nbsp;ability to analyze data, as well as present the data in clear and beautiful visualizations. Currently he works as the Head of Data Science for Pierian Data Inc.&nbsp;and provides in-person data science and python programming training courses to employees working at top companies, including General Electric, Cigna, The New York Times, Credit Suisse, McKinsey and many more.&nbsp;Feel free to contact him on LinkedIn for more information on in-person training sessions or group training sessions in Las Vegas, NV.</p>"
-    }
+        "briefIntroduction": "<p>&nbsp; Jose Marcial Portilla has a BS and MS in Mechanical Engineering from Santa Clara University and&nbsp;years of&nbsp;experience as a professional instructor and trainer for Data Science and programming. He has publications and patents in various fields such as microfluidics,&nbsp;materials science, and data science technologies. Over the course of his career he has developed a skill set in analyzing data and he hopes to use his experience in teaching and data science to help other people learn the power of programming the&nbsp;ability to analyze data, as well as present the data in clear and beautiful visualizations. Currently he works as the Head of Data Science for Pierian Data Inc.&nbsp;and provides in-person data science and python programming training courses to employees working at top companies, including General Electric, Cigna, The New York Times, Credit Suisse, McKinsey and many more.&nbsp;Feel free to contact him on LinkedIn for more information on in-person training sessions or group training sessions in Las Vegas, NV.</p>",
+        "isConfirmed": true
+    },
+    "curriculum": [
+        {
+            "sectionName": "Course Introduction",
+            "unitNames": [
+                "Introduction",
+                "Course Overview Don't Skip this Lecture!",
+                "FAQ - Frequently Asked Questions",
+                "Course Set-Up and Installation",
+                "Notes on Updates Versions of Django"
+            ]
+        },
+        {
+            "sectionName": "Front-End Introduction",
+            "unitNames": [
+                "What is the Web?"
+            ]
+        },
+        {
+            "sectionName": "HTML Level One - Basics",
+            "unitNames": [
+                "HTML Level One Introduction",
+                "HTML Part One Basics",
+                "HTML Level One - Part Two -Basic Tagging",
+                "HTML Level One -Part Three - Lists",
+                "HTML Level One -Part Four - Divs and Spans",
+                "HTML Level One - Part Five - Attributes",
+                "HTML Level One Assessment - Overview",
+                "HTML Level One Assessment Solutions"
+            ]
+        },
+        {
+            "sectionName": "HTML Level Two - Advanced",
+            "unitNames": [
+                "HTML Level Two Introduction",
+                "HTML Level Two - Part One - Tables",
+                "HTML Level Two - Part Two Tables Quiz",
+                "HTML Level Two - Part Three Table Quiz Solutions",
+                "HTML Level Two Part Four - Forms Basics",
+                "HTML Level Two - Part Five Forms and Labels",
+                "HTML Level Two - Part Six Forms and Selections",
+                "HTML Level Two - Assessment",
+                "HTML Level Two - Assessment Solutions"
+            ]
+        },
+        {
+            "sectionName": "CSS Level One - Basics",
+            "unitNames": [
+                "CSS Level One Intro",
+                "CSS Level One Part One",
+                "CSS Level One Part Two",
+                "Quick Note about next lecture",
+                "CSS Level One Part Three",
+                "CSS Level One Part Four",
+                "CSS Level One Part Five",
+                "CSS Level One Assessment",
+                "CSS Level One Assessment Solutions"
+            ]
+        },
+        {
+            "sectionName": "CSS Level Two - Advanced",
+            "unitNames": [
+                "CSS Level Two Introduction",
+                "CSS Level Two - Part One Fonts",
+                "CSS Level Two - Part One (Fonts) Continued",
+                "CSS Level Two - Part Two Box Model",
+                "CSS Level Two Spectrum Project Overview",
+                "CSS Level Two Spectrum Project Solutions"
+            ]
+        },
+        {
+            "sectionName": "Capstone Project One",
+            "unitNames": [
+                "Capstone Project One Overview",
+                "Capstone Project One Solutions",
+                "Capstone Project One Solutions (Continued)"
+            ]
+        },
+        {
+            "sectionName": "Bootstrap Overview",
+            "unitNames": [
+                "Bootstrap Introduction",
+                "Bootstrap Part One - Buttons",
+                "Bootstrap Part Two Forms",
+                "Bootstrap Part Three Navbars",
+                "Bootstrap Part Four - Grids",
+                "Bootstrap Project",
+                "Bootstrap Project Solutions"
+            ]
+        },
+        {
+            "sectionName": "Javascript Level One - Basics",
+            "unitNames": [
+                "JS Level One Introduction",
+                "JS Level One - Part One Basics",
+                "JS Level One - Part Two Connecting Javascript",
+                "JS Level One - Part Three Exercise",
+                "JS Level One - Part Three Solutions",
+                "JS Level One - Part Four - Operators",
+                "JS Level One - Part Five - Control Flow",
+                "JS Level One - Part Six While Loops",
+                "JS Level One - Part Seven For Loops",
+                "JS Level One Part Eight Loop Exercises",
+                "JS Level One - Part Eight Solutions",
+                "JS Level One - Project Overview",
+                "JS Level One - Part Nine Project Solutions"
+            ]
+        },
+        {
+            "sectionName": "Javascript Level Two",
+            "unitNames": [
+                "JS Level Two - Introduction",
+                "JS Level Two - Part One - Functions",
+                "JS Level Two - Part Two Function Exercises",
+                "JS Level Two - Part Two Function Solutions",
+                "JS Level Two - Part Three Arrays",
+                "JS Level Two - Part  Four Array Exercise Overview",
+                "JS Level Two - Part Four Array Solutions",
+                "JS Level Two Part Five Objects",
+                "JS Level Two Part Five Objects Continued",
+                "JS Level Two Part Six Object Exercises",
+                "JS Level Two Part Six Object Exercise Solutions"
+            ]
+        },
+        {
+            "sectionName": "Document Object Model",
+            "unitNames": [
+                "Document Object Model Introduction",
+                "Document Object Model - Part One - DOM Interaction",
+                "Document Object Model Part Two Content Interaction",
+                "Document Object Model Part Three - Events",
+                "Document Object Model - Game Project Overview",
+                "DOM Game Project Solutions - Part One",
+                "DOM Game Project Solutions - Part Two"
+            ]
+        },
+        {
+            "sectionName": "jQuery",
+            "unitNames": [
+                "jQuery Introduction",
+                "jQuery Part One Basics",
+                "jQuery Part Two Events",
+                "jQuery Project Overview",
+                "jQuery Project Solutions Part One",
+                "jQuery Project Solutions Part Two",
+                "jQuery Project Solutions Part Three"
+            ]
+        },
+        {
+            "sectionName": "Back-End Introduction",
+            "unitNames": [
+                "Introduction to the Back-End",
+                "Command Line and Terminal Overview"
+            ]
+        },
+        {
+            "sectionName": "Python - Level One",
+            "unitNames": [
+                "Introduction to Python Level One",
+                "Python Installation and Set-Up",
+                "Part One Numbers",
+                "Part Two Strings",
+                "Part Three Lists",
+                "Part Four Dictionaries",
+                "Part 5 - Tuples, Sets, and Booleans",
+                "Part 6 - Exercise Overview",
+                "Part 6 - Exercise Solutions",
+                "Part 7 - Control Flow",
+                "Part Eight Functions",
+                "Part Nine Function Exercises",
+                "Function Exercises Solutions",
+                "Part Ten Simple Game Project Overview",
+                "Simple Game Project Solutions"
+            ]
+        },
+        {
+            "sectionName": "Python - Level Two",
+            "unitNames": [
+                "Introduction to Python Level Two",
+                "Scope",
+                "Object Oriented Programming - Part One",
+                "Object Oriented Programming - Part Two",
+                "Object Oriented Programming - Part Three",
+                "OOP Project",
+                "OOP Project Solutions",
+                "Errors and Exceptions",
+                "Regular Expressions",
+                "Modules and Packages",
+                "Decorators",
+                "Name and Main"
+            ]
+        },
+        {
+            "sectionName": "Django Level One - Basics",
+            "unitNames": [
+                "Django Level One - Part One - Django Setup",
+                "Django Level One - Part Two - Django Project",
+                "Django Level One - Part Three - Django Application",
+                "Django Level One - Part Four - Challenge Task",
+                "Django Level One - Part Five - Challenge Solutions",
+                "Django Level One - Part Six - URL Mappings",
+                "Django Level One - Part Seven - Templates",
+                "Django Level One - Part Eight Templates Challenge",
+                "Django Level One - Part Nine - Templates Solutions",
+                "Django Level One - Part Ten - Static Files"
+            ]
+        },
+        {
+            "sectionName": "Django Level Two",
+            "unitNames": [
+                "Introduction to Django Level Two",
+                "Django Models Overview",
+                "Creating Models",
+                "Population Scripts",
+                "Models-Templates-Views Paradigm",
+                "Django Level Two Project Exercise",
+                "Django Level Two Project Solutions"
+            ]
+        },
+        {
+            "sectionName": "Django Level Three",
+            "unitNames": [
+                "Introduction to Django Level Three",
+                "Django Forms",
+                "Form Basics Code Along",
+                "Form Validation",
+                "Model Forms",
+                "Model Forms Exercise"
+            ]
+        },
+        {
+            "sectionName": "Django Level Four",
+            "unitNames": [
+                "Introduction to Django Level Four",
+                "Relative URLs with Templates",
+                "Relative URLs Coding Examples",
+                "URL Template Inheritance",
+                "Template Inheritance Coding Example",
+                "Quick Note on Custom Template Filters",
+                "Template Filters and Custom Filters",
+                "Template Filters Coding Examples"
+            ]
+        },
+        {
+            "sectionName": "Django Level Five",
+            "unitNames": [
+                "Introduction to Django Level Five",
+                "Django Passwords",
+                "User Models",
+                "Quick note about forms!",
+                "Coding User Models and Forms Part One",
+                "Coding User Models and Forms Part Two",
+                "Registration",
+                "Logins"
+            ]
+        },
+        {
+            "sectionName": "Django Deployment",
+            "unitNames": [
+                "Introduction to Django Deployment",
+                "Setting up GitHub",
+                "Full Deployment Walkthrough on Python Anywhere"
+            ]
+        },
+        {
+            "sectionName": "Advanced Topics - CBVs",
+            "unitNames": [
+                "Introduction to CBVs",
+                "Hello World with CBVs",
+                "Template Views with CBV",
+                "Detail View and List View Part One",
+                "Detail View and List View Part Two",
+                "CRUD Views"
+            ]
+        },
+        {
+            "sectionName": "First Clone Project",
+            "unitNames": [
+                "Introduction to First Clone Project",
+                "Blog Clone Project Part One",
+                "Blog Clone Project Part Two",
+                "Blog Clone Project Part Three",
+                "Blog Clone Project Part Four",
+                "Blog Project Part Five",
+                "Blog Project Part Six",
+                "Blog Project Part Seven",
+                "Blog Post Project Part Eight",
+                "Blog Project Part Nine",
+                "Blog Project Part Ten"
+            ]
+        },
+        {
+            "sectionName": "Social Media Site Clone Project",
+            "unitNames": [
+                "Introduction to Social Media Clone Project",
+                "Social Clone Part One",
+                "Social Clone Part Two",
+                "Social Clone Part Three",
+                "Social Clone Part Four",
+                "Social Clone Part Five",
+                "Social Clone Part Six",
+                "Social Clone Part Seven",
+                "Social Clone Part Eight",
+                "Social Clone Part Nine",
+                "Social Clone Part Ten",
+                "Social Clone Part Eleven",
+                "Social Clone Part Twelve",
+                "Social Clone Final Part"
+            ]
+        },
+        {
+            "sectionName": "Advanced Topics Lecture - Debug Toolbar",
+            "unitNames": [
+                "Introduction to Debug Toolbar",
+                "Debug Toolbar Overview"
+            ]
+        },
+        {
+            "sectionName": "Advanced Topics - Customizing the Django Admin",
+            "unitNames": [
+                "Introduction to Admin",
+                "Admin Templates",
+                "Ordering Fields",
+                "Adding Search",
+                "Adding Filters",
+                "Adding Fields",
+                "Editable List View"
+            ]
+        },
+        {
+            "sectionName": "BONUS SECTION: THANK YOU!",
+            "unitNames": [
+                "Bonus Lecture"
+            ]
+        }
+    ]
 }

@@ -6,7 +6,7 @@
     "course": {
         "title": "Modern React with Redux [2020 Update]",
         "subtitle": "Master React v16.6.3 and Redux with React Router, Webpack, and Create-React-App. Includes Hooks!",
-        "descriptions":  "",
+        "descriptions": [],
         "reviews": [],
         "students": [],
         "image1xURL": "https://img-a.udemycdn.com/course/240x135/705264_caa9_11.jpg",
@@ -15,15 +15,23 @@
         "discountPrice": 11.99,
         "originalPrice": 129.99,
         "numViews": 0,
-        "curriculum": {}
+        "curriculum": []
     },
     "reviews": [
         {
-            "body": "It's an amazingly well organized detailed course. It would be great if this course also adds a way typescript is used in building react applications for the basic libraries used here.",
+            "body": "This is really one of the best courses that I found about React and Redux since I started my learning journey. So you're going to dive into React and Redux and understand every step that you do. Stephen is explaining all the behind the scenes stuff. The projects are really cool, they have a lot of functionalities that you need to be able later to build Web Apps on your own. I highly recommend taking this course if you want to learn \"React and Redux\" the proper way.",
             "rating": 5
         },
         {
-            "body": "This is a pretty thorough explanation of react. Mr Grider doesn't only help you understand what is happening he also answers the question why.",
+            "body": "Stephen is the best. The most outdated part of the course is reduxForm which is a form library not used by anyone any more. if that section replaced/updated to use final form or formik, there won't be the possibility to make a better course on earth for react",
+            "rating": 4.5
+        },
+        {
+            "body": "This course was a BEAST. Stephen is one of the best online instructors I've come across.\n\nPros:\n\nThe comments section appears to be actively maintained.\n\nHe tells you what you're going to do, tells you how to do it, and recaps what you've done at the end of each section.\n\nHe explains everything thoroughly so that you will actually\n\nunderstand the cause and effect relationships in your react/redux project - this is real teaching.\n\nI finally feel comfortable with Redux thanks to this course.\n\nCons:\n\nAlthough there is a very informative section on hooks, lot of the material uses classes instead of hooks. However, if your goal is to actually understand how react and redux work together, then this course absolutely gives you that.\n\nYou can easily switch out the classes for hooks on your own based on what he teaches you about them.\n\nThanks Stephen & Bobby!",
+            "rating": 5
+        },
+        {
+            "body": "Stephen always has the best quality courses on Udemy. Simple in depth explanations leave you with a knowledge base that is deep. Plenty of deep examples as well which help solidify the great content.",
             "rating": 5
         },
         {
@@ -31,126 +39,118 @@
             "rating": 5
         },
         {
-            "body": "Excelente explicación para las personas que disfrutan estar como \"en una clase\" donde hay una ruta pero no se siente robotizado. Excelentes explicaciones con aplicaciones diversas. Sólo sería conveniente mover parte del material antiguo a otro curso para que no fuera necesario verlo/saltarlo",
+            "body": "Modern React with Redux is an excellent course. It introduces concepts thoroughly and is packed with exercises to practise the skills that you acquire.",
+            "rating": 5
+        },
+        {
+            "body": "It's an amazingly well organized detailed course. It would be great if this course also adds a way typescript is used in building react applications for the basic libraries used here.",
+            "rating": 5
+        },
+        {
+            "body": "Excellent. He is very good at explaining the concepts and how they work. I highly recommended this course for people who are interesting in React.",
+            "rating": 5
+        },
+        {
+            "body": "This class is an incredible value, it's in-depth and covers a breadth of topics. I especially appreciated the helpful and responsive Q & A. I learned a ton from other people's questions, too. If you're looking for a quick overview, this is not it.",
+            "rating": 5
+        },
+        {
+            "body": "Loving this course. I've learned everything I need to know about how to use React with Redux and I like how the instructor makes sure he explains everything that goes on 'under the hood'.",
             "rating": 4.5
         },
         {
-            "body": "I completed the course except for the legacy parts. This was my first React + Redux course, so I can't compare this to others, but as proven by many other reviews, this was an amazing course. All aspects of react and redux were explained so well I was able to understand the fundamental ideas and advanced knowledge. Also, throughout the course, we built around 10 projects, in which we focused on the react and redux part, not on stylings, which I loved it since we had enough time to discuss all details of react and redux. Thanks so much Stephen and please keep updating the course with the newest content, so that it can be the one top of the React course on Udemy.",
+            "body": "I am a beginner and found this course very helpful, all concepts were cleared with clarity.",
             "rating": 5
         },
         {
-            "body": "In one sentence: this is the best React and Redux course you can find on Udemy. I've purchased more than 10 courses this year. This is the best of the best!! If you can only learn one course on ReactJS, look no far, this is it! Stephen is also the best instructor on web development (actually on computer science, I'd say). The course is super organized. And the pace of the course is very comfortable. You can follow him step by step with no problem. I'll purchase more courses from Stephen for sure! 100000/100 Recommend!!!",
-            "rating": 5
-        },
-        {
-            "body": "Stephen is an experienced teacher. The coarse starts with the basics, requiring almost no prior experience with JS or React, yet quickly and efficiently builds in complexity. The lessons are pragmatic, yet layered with theory and real-world experience; he explains both the right and wrong way of doing things and hammers it in with repetition. It really includes everything, even free-tier hosting to help get your portfolio started. Highly recommended, I look forward to Stephen's other classes!",
-            "rating": 5
-        },
-        {
-            "body": "The best course I have enrolled on Udemy! Stephen explained not only React but also modern Javascript concepts. The sample projects are funny and good for learning.",
-            "rating": 5
-        },
-        {
-            "body": "This course contains really detailed clarification of different React concepts. Moreover, the explanations provided by Stephen contain bonus content gained from his experience. I would only criticize the repetitiveness of few topics which were mentioned throughout the course. Although some of them were focused on different versions of the same library, a few of them were simply repeated too many times for the same version of a given library (at least too many times in my opinion). But overall, an amazing course!",
-            "rating": 4.5
-        },
-        {
-            "body": "A well detailed react course beyond any I've ever watched. If you want a complete react course, this is the best option I've seen so far.",
-            "rating": 5
-        },
-        {
-            "body": "This course is fantastic! Stephen presents the topics by using diagrams that are super easy to understand and gives the details of each topic in a deep way. I really recommend this course.",
-            "rating": 4.5
-        },
-        {
-            "body": "course is good, too detailed at times, instructor is good, i would improve it by adding more testing and exercises, also could be of shorter length",
-            "rating": 5
+            "body": "This is a great course. I remembered more than halve of the content, but the course could be better if react with typescript is also explained instead of an old version of react.",
+            "rating": 3.5
         }
     ],
     "students": [
         {
-            "name": "Strand LS",
-            "email": "strandls@gmail.com",
-            "password": "strandls",
+            "name": "Mohannad Zitoun",
+            "email": "mohannadzitoun@gmail.com",
+            "password": "mohannadzitoun",
             "role": "s",
-"isConfirmed": true
+            "isConfirmed": true
         },
         {
-            "name": "Jamaal",
-            "email": "jamaal@gmail.com",
-            "password": "jamaal",
+            "name": "Osmancakir",
+            "email": "osmancakir@gmail.com",
+            "password": "osmancakir",
             "role": "s",
-"isConfirmed": true
+            "isConfirmed": true
+        },
+        {
+            "name": "J P",
+            "email": "jp@gmail.com",
+            "password": "jp",
+            "role": "s",
+            "isConfirmed": true
+        },
+        {
+            "name": "Asim Sheikh",
+            "email": "asimsheikh@gmail.com",
+            "password": "asimsheikh",
+            "role": "s",
+            "isConfirmed": true
         },
         {
             "name": "Kiran Peramareddy",
             "email": "kiranperamareddy@gmail.com",
             "password": "kiranperamareddy",
             "role": "s",
-"isConfirmed": true
+            "isConfirmed": true
         },
         {
-            "name": "Juan Esteban Lopez Tamayo",
-            "email": "juanestebanlopeztamayo@gmail.com",
-            "password": "juanestebanlopeztamayo",
+            "name": "Edward John Steere",
+            "email": "edwardjohnsteere@gmail.com",
+            "password": "edwardjohnsteere",
             "role": "s",
-"isConfirmed": true
+            "isConfirmed": true
         },
         {
-            "name": "Yuvin Ha",
-            "email": "yuvinha@gmail.com",
-            "password": "yuvinha",
+            "name": "Strand LS",
+            "email": "strandls@gmail.com",
+            "password": "strandls",
             "role": "s",
-"isConfirmed": true
+            "isConfirmed": true
         },
         {
-            "name": "Wenting Li",
-            "email": "wentingli@gmail.com",
-            "password": "wentingli",
+            "name": "Anıl Akgüneş",
+            "email": "anılakgüneş@gmail.com",
+            "password": "anılakgüneş",
             "role": "s",
-"isConfirmed": true
+            "isConfirmed": true
         },
         {
-            "name": "Niall Mahford",
-            "email": "niallmahford@gmail.com",
-            "password": "niallmahford",
+            "name": "Kirsten Lund",
+            "email": "kirstenlund@gmail.com",
+            "password": "kirstenlund",
             "role": "s",
-"isConfirmed": true
+            "isConfirmed": true
         },
         {
-            "name": "Kevin Law",
-            "email": "kevinlaw@gmail.com",
-            "password": "kevinlaw",
+            "name": "Clayton Smith",
+            "email": "claytonsmith@gmail.com",
+            "password": "claytonsmith",
             "role": "s",
-"isConfirmed": true
+            "isConfirmed": true
         },
         {
-            "name": "Marjan Ralevski",
-            "email": "marjanralevski@gmail.com",
-            "password": "marjanralevski",
+            "name": "Ayush Singh",
+            "email": "ayushsingh@gmail.com",
+            "password": "ayushsingh",
             "role": "s",
-"isConfirmed": true
+            "isConfirmed": true
         },
         {
-            "name": "Mohammed Salihu Bukar",
-            "email": "mohammedsalihubukar@gmail.com",
-            "password": "mohammedsalihubukar",
+            "name": "Thom Kok",
+            "email": "thomkok@gmail.com",
+            "password": "thomkok",
             "role": "s",
-"isConfirmed": true
-        },
-        {
-            "name": "Angela Paola Garay",
-            "email": "angelapaolagaray@gmail.com",
-            "password": "angelapaolagaray",
-            "role": "s",
-"isConfirmed": true
-        },
-        {
-            "name": "igor col",
-            "email": "igorcol@gmail.com",
-            "password": "igorcol",
-            "role": "s",
-"isConfirmed": true
+            "isConfirmed": true
         }
     ],
     "instructor": {
@@ -158,7 +158,778 @@
         "email": "stephengrider@gmail.com",
         "password": "stephengrider",
         "role": "i",
-"isConfirmed": true,
-        "briefIntroduction": "<p>Stephen Grider has been building complex Javascript front ends for top corporations in the San Francisco Bay Area.&nbsp; With an innate ability to simplify complex topics, Stephen has been mentoring engineers beginning their careers in software development for years, and has now expanded that experience onto Udemy, authoring the highest rated React course. He&nbsp;teaches on Udemy to share the knowledge he&nbsp;has&nbsp;gained with other software engineers.&nbsp; Invest in yourself by learning from Stephen's published courses.</p>"
-    }
+        "briefIntroduction": "<p>Stephen Grider has been building complex Javascript front ends for top corporations in the San Francisco Bay Area.&nbsp; With an innate ability to simplify complex topics, Stephen has been mentoring engineers beginning their careers in software development for years, and has now expanded that experience onto Udemy, authoring the highest rated React course. He&nbsp;teaches on Udemy to share the knowledge he&nbsp;has&nbsp;gained with other software engineers.&nbsp; Invest in yourself by learning from Stephen's published courses.</p>",
+        "isConfirmed": true
+    },
+    "curriculum": [
+        {
+            "sectionName": "Let's Dive In!",
+            "unitNames": [
+                "How to Get Help",
+                "Our First App",
+                "Critical Questions!",
+                "Installing Node JS",
+                "Important Update About React App Generation",
+                "Generating a React Project",
+                "Why Create React App?",
+                "Exploring a Create-React-App Project",
+                "Starting and Stopping a React App",
+                "Javascript Module Systems",
+                "Important Note about Live Reloading",
+                "Displaying Content with Functional Components",
+                "Course Resources",
+                "Common Questions About My Environment"
+            ]
+        },
+        {
+            "sectionName": "Building Content with JSX",
+            "unitNames": [
+                "What is JSX?",
+                "Converting HTML to JSX",
+                "Inline Styling with JSX",
+                "Converting Styling to JSX Format",
+                "Class vs ClassName",
+                "Referencing JS Variables in JSX",
+                "Values JSX Can't Show",
+                "Finding Forbidden Property Names",
+                "Exercise Introduction",
+                "Test Your Knowledge: JSX Interpolation",
+                "JSX Exercise Solution"
+            ]
+        },
+        {
+            "sectionName": "Communicating with Props",
+            "unitNames": [
+                "Three Tenets of Components",
+                "Application Overview",
+                "Semantic UI CDN Link",
+                "Getting Some Free Styling",
+                "Naive Component Approach",
+                "Important Note about Faker Images",
+                "Specifying Images in JSX",
+                "Duplicating a Single Component",
+                "Extracting JSX to New Components",
+                "Component Nesting",
+                "React's Props System",
+                "Passing and Receiving Props",
+                "Passing Multiple Props",
+                "Passing Props - Solutions",
+                "Component Reuse",
+                "Implementing an Approval Card",
+                "Showing Custom Children",
+                "Component Reuse",
+                "Exercise - Props",
+                "Test Your Knowledge: Props",
+                "Props Exercise Solution",
+                "Exercise - Children",
+                "Test Your Knowledge: Children Through Props",
+                "Children Exercise Solution"
+            ]
+        },
+        {
+            "sectionName": "Structuring Apps with Class-Based Components",
+            "unitNames": [
+                "Class-Based Components",
+                "Application Overview",
+                "Scaffolding the App",
+                "Getting a Users Physical Location",
+                "Resetting Geolocation Preferences",
+                "Handling Async Operations with Functional Components",
+                "Refactoring from Functional to Class Components"
+            ]
+        },
+        {
+            "sectionName": "State in React Components",
+            "unitNames": [
+                "The Rules of State",
+                "Important Note About super(props) Deprecation",
+                "Initializing State Through Constructors",
+                "Updating State Properties",
+                "App Lifecycle Walkthrough",
+                "Handling Errors Gracefully",
+                "Conditionally Rendering Content"
+            ]
+        },
+        {
+            "sectionName": "Understanding Lifecycle Methods",
+            "unitNames": [
+                "Introducing Lifecycle Methods",
+                "Why Lifecycle Methods?",
+                "Refactoring Data Loading to Lifecycle Methods",
+                "Alternate State Initialization",
+                "Passing State as Props",
+                "Determining Season",
+                "Ternary Expressions in JSX",
+                "Icons Not Loading and CORS errors",
+                "Showing Icons",
+                "Extracting Options to Config Objects",
+                "Adding Some Styling",
+                "Showing a Loading Spinner",
+                "Specifying Default Props",
+                "Avoiding Conditionals in Render",
+                "Breather and Review",
+                "Class-Based Components",
+                "Exercise Solution - Class-Based Components",
+                "Updating Components with State",
+                "Updating Components with State"
+            ]
+        },
+        {
+            "sectionName": "Handling User Input with Forms and Events",
+            "unitNames": [
+                "App Overview",
+                "Component Design",
+                "Adding Some Project Structure",
+                "Showing Forms to the User",
+                "Adding a Touch of Style",
+                "Creating Event Handlers",
+                "Alternate Event Handler Syntax",
+                "Uncontrolled vs Controlled Elements",
+                "More on Controlled Elements",
+                "Exercise Overview - Receiving Values",
+                "Receiving Values From Controlled Elements",
+                "Exercise Solution",
+                "Handling Form Submittal",
+                "Understanding 'this' In Javascript",
+                "Solving Context Issues",
+                "Communicating Child to Parent",
+                "Invoking Callbacks in Children"
+            ]
+        },
+        {
+            "sectionName": "Making API Requests with React",
+            "unitNames": [
+                "Fetching Data",
+                "Axios vs Fetch",
+                "Viewing Request Results",
+                "Handling Requests with Async Await",
+                "Setting State After Async Requests",
+                "Binding Callbacks",
+                "Creating Custom Clients"
+            ]
+        },
+        {
+            "sectionName": "Building Lists of Records",
+            "unitNames": [
+                "Rendering Lists",
+                "Review of Map Statements",
+                "Rendering Lists of Components",
+                "The Purpose of Keys in Lists",
+                "Implementing Keys in Lists",
+                "Exercise Overview - List Building",
+                "Practicing List Building",
+                "Exercise Solution"
+            ]
+        },
+        {
+            "sectionName": "Using Ref's for DOM Access",
+            "unitNames": [
+                "Grid CSS",
+                "Issues with Grid CSS",
+                "Creating an Image Card Component",
+                "Accessing the DOM with Refs",
+                "Accessing Image Height",
+                "Callbacks on Image Load",
+                "Dynamic Spans",
+                "App Review"
+            ]
+        },
+        {
+            "sectionName": "Let's Test Your React Mastery!",
+            "unitNames": [
+                "App Overview",
+                "Component Design",
+                "Scaffolding the App",
+                "Reminder on Event Handlers",
+                "Handling Form Submittal",
+                "Accessing the Youtube API",
+                "Axios Version Bug & 400 \"Required Parameter: part\" Error",
+                "Searching for Videos",
+                "Adding a Video Type",
+                "Putting it All Together",
+                "Updating State with Fetched Data",
+                "Passing State as Props",
+                "Rendering a List of Videos",
+                "Rendering Video Thumbnails",
+                "Styling a List",
+                "Communicating from Child to Parent",
+                "Deeply Nested Callbacks",
+                "Conditional Rendering",
+                "Styling the VideoDetail",
+                "Displaying a Video Player",
+                "Fixing a Few Warnings",
+                "Defaulting Video Selection"
+            ]
+        },
+        {
+            "sectionName": "Understanding Hooks in React",
+            "unitNames": [
+                "React Hooks",
+                "Important Note",
+                "App Architecture",
+                "Communicating the Items Prop",
+                "Building and Styling the Accordion",
+                "Helper Functions in Function Components",
+                "Introducing useState",
+                "Understanding useState",
+                "Setter Functions",
+                "Expanding the Accordion",
+                "Exercise Overview",
+                "UseState Exercise",
+                "Exercise Solution",
+                "Creating Additional Widgets",
+                "The Search Widget Architecture",
+                "Scaffolding the Widget",
+                "Text Inputs with Hooks",
+                "When do we Search?",
+                "The useEffect Hook",
+                "Testing Execution",
+                "When Does It Run?",
+                "Async Code in useEffect",
+                "Executing the Request from useEffect",
+                "Default Search Terms",
+                "List Building!",
+                "XSS Attacks in React",
+                "XSS Server Code",
+                "Linking to a Wikipedia Page",
+                "Only Search with a Term",
+                "Throttling API Requests",
+                "Reminder on setTimeout",
+                "useEffect's Cleanup Function",
+                "Implementing a Delayed Request",
+                "Searching on Initial Render",
+                "Edge Case When Clearing Out Input Form",
+                "Optional Video - Fixing a Warning",
+                "Dropdown Architecture",
+                "Scaffolding the Dropdown",
+                "A Lot of JSX",
+                "Selection State",
+                "Filtering the Option List",
+                "Hiding and Showing the Option List",
+                "Err... Why is this Hard?",
+                "Reminder on Event Bubbling",
+                "Applying What We've Learned",
+                "Binding an Event Handler",
+                "Why Stay Open!?",
+                "Which Element Was Clicked?",
+                "Important Update for React v17",
+                "Making use of useRef",
+                "Body Event Listener Cleanup",
+                "The Translate Widget",
+                "Scaffolding the Translate Component",
+                "Adding the Language Input",
+                "Understanding the Convert Component",
+                "Google Translate API Key",
+                "Building the Convert Component",
+                "Using the Google Translate API",
+                "Displaying Translated Text",
+                "Debouncing Translation Updates",
+                "Reviewing UseState and UseEffect",
+                "Practicing With UseState and UseEffect",
+                "Exercise Solution"
+            ]
+        },
+        {
+            "sectionName": "Navigation From Scratch",
+            "unitNames": [
+                "Navigation in React",
+                "Basic Component Routing",
+                "Building a Reusable Route Component",
+                "Implementing a Header for Navigation",
+                "Handling Navigation",
+                "Building a Link",
+                "Changing the URL",
+                "Detecting Navigation",
+                "Updating the Route",
+                "Handling Command Clicks"
+            ]
+        },
+        {
+            "sectionName": "Hooks in Practice",
+            "unitNames": [
+                "Project Overview",
+                "Refactoring the SearchBar",
+                "Refactoring the App",
+                "Removing a Callback",
+                "Overview on Custom Hooks",
+                "Process for Building Custom Hooks",
+                "Extracting Video Logic",
+                "Using the Custom Hook",
+                "Exercise Overview - Custom Hooks",
+                "Another Use of Custom Hooks",
+                "Exercise Solution"
+            ]
+        },
+        {
+            "sectionName": "Deploying a React App",
+            "unitNames": [
+                "Deployment Overview",
+                "Deployment with Vercel",
+                "Deployment with Netlify"
+            ]
+        },
+        {
+            "sectionName": "On We Go...To Redux!",
+            "unitNames": [
+                "Introduction to Redux",
+                "Redux by Analogy",
+                "A Bit More Analogy",
+                "Finishing the Analogy",
+                "Mapping the Analogy to Redux",
+                "Modeling with Redux",
+                "Creating Reducers",
+                "Rules of Reducers",
+                "Testing Our Example",
+                "Important Redux Notes",
+                "Finished Insurance Policy Code"
+            ]
+        },
+        {
+            "sectionName": "Integrating React with Redux",
+            "unitNames": [
+                "React Cooperating with Redux",
+                "React, Redux, and...React-Redux!?",
+                "Design of the Redux App",
+                "How React-Redux Works",
+                "Redux Project Structure",
+                "Named vs Default Exports",
+                "Building Reducers",
+                "Wiring Up the Provider",
+                "The Connect Function",
+                "Configuring Connect with MapStateToProps",
+                "Building a List with Redux Data",
+                "Extracting More Data From Redux",
+                "Solution to Extracting More Data",
+                "Calling Action Creators from Components",
+                "Redux is Not Magic!",
+                "Functional Components with Connect",
+                "Conditional Rendering",
+                "Connecting Components to Redux",
+                "Exercise Solution - Connecting Components to Redux"
+            ]
+        },
+        {
+            "sectionName": "Async Actions with Redux Thunk",
+            "unitNames": [
+                "App Overview and Goals",
+                "Initial App Setup",
+                "Tricking Redux with Dummy Reducers",
+                "A Touch More Setup",
+                "How to Fetch Data in a Redux App",
+                "Wiring Up an Action Creator",
+                "Making a Request From an Action Creator",
+                "Understanding Async Action Creators",
+                "More on Async Action Creators",
+                "Middlewares in Redux",
+                "Behind the Scenes of Redux Thunk",
+                "Shortened Syntax with Redux Thunk"
+            ]
+        },
+        {
+            "sectionName": "Redux Store Design",
+            "unitNames": [
+                "Rules of Reducers",
+                "Return Values from Reducers",
+                "Argument Values",
+                "Pure Reducers",
+                "Mutations in Javascript",
+                "Equality of Arrays and Objects",
+                "A Misleading Rule",
+                "Safe State Updates in Reducers",
+                "Switch Statements in Reducers",
+                "Adding a Reducer Case",
+                "Reducer Case Solution",
+                "Dispatching Correct Values",
+                "List Building!",
+                "Displaying Users",
+                "Fetching Singular Records",
+                "Displaying the User Header",
+                "Finding Relevant Users",
+                "Extracting Logic to MapStateToProps",
+                "That's the Issue!",
+                "Memoizing Functions",
+                "Memoization Issues",
+                "One Time Memoization",
+                "Alternate Overfetching Solution",
+                "Action Creators in Action Creators!",
+                "Finding Unique User Ids",
+                "Quick Refactor with Chain",
+                "App Wrapup"
+            ]
+        },
+        {
+            "sectionName": "Navigation with React Router",
+            "unitNames": [
+                "App Outline",
+                "Mockups in Detail",
+                "App Challenges",
+                "Initial Setup",
+                "Introducing React Router",
+                "How React Router Works",
+                "How Paths Get Matched",
+                "How to *Not* Navigate with React Router",
+                "Navigating with React Router",
+                "[Optional] - Different Router Types",
+                "Component Scaffolding",
+                "Wiring Up Routes",
+                "Always Visible Components",
+                "Connecting the Header",
+                "Links Inside Routers",
+                "Exercise Overview - Additional Routes",
+                "Adding Another Route",
+                "Exercise Solution"
+            ]
+        },
+        {
+            "sectionName": "Handling Authentication with React",
+            "unitNames": [
+                "OAuth-Based Authentication",
+                "OAuth for Servers vs Browser Apps",
+                "Creating OAuth Credentials",
+                "Wiring Up the Google API Library",
+                "Sending a User Into the OAuth Flow",
+                "Rendering Authentication Status",
+                "Updating Auth State",
+                "Displaying Sign In and Sign Out Buttons",
+                "On-Demand Sign In and Sign Out",
+                "Redux Architecture Design",
+                "Redux Setup",
+                "Connecting Auth with Action Creators",
+                "Building the Auth Reducer",
+                "Handling Auth Status Through Redux",
+                "Fixed Action Types",
+                "Recording the User's ID"
+            ]
+        },
+        {
+            "sectionName": "Redux Dev Tools",
+            "unitNames": [
+                "Using Redux Dev Tools to Inspect the Store",
+                "Debug Sessions with Redux Dev Tools"
+            ]
+        },
+        {
+            "sectionName": "Handling Forms with Redux Form",
+            "unitNames": [
+                "Important Note about Redux Form Installation",
+                "Forms with Redux Form",
+                "Useful Redux Form Examples",
+                "Connecting Redux Form",
+                "Creating Forms",
+                "Automatically Handling Events",
+                "Customizing Form Fields",
+                "Handling Form Submission",
+                "Validation of Form Inputs",
+                "Displaying Validation Messages",
+                "Showing Errors on Touch",
+                "Highlighting Errored Fields"
+            ]
+        },
+        {
+            "sectionName": "REST-Based React Apps",
+            "unitNames": [
+                "Creating Streams",
+                "REST-ful Conventions",
+                "Setting Up an API Server",
+                "Creating Streams Through Action Creators",
+                "Creating a Stream with REST Conventions",
+                "Dispatching Actions After Stream Creation",
+                "Bulk Action Creators",
+                "Object-Based Reducers",
+                "Key Interpolation Syntax",
+                "Handling Fetching, Creating, and Updating",
+                "Deleting Properties with Omit",
+                "Merging Lists of Records",
+                "Fetching a List of All Streams",
+                "Rendering All Streams",
+                "Associating Streams with Users",
+                "Conditionally Showing Edit and Delete",
+                "Linking to Stream Creation",
+                "When to Navigate Users",
+                "History References",
+                "History Object Deprecation Warning",
+                "Creating a Browser History Object",
+                "Implementing Programmatic Navigation",
+                "Manually Changing API Records",
+                "URL-Based Selection",
+                "Wildcard Navigation",
+                "More on Route Params",
+                "Selecting Records from State",
+                "Component Isolation with React Router",
+                "Fetching a Stream for Edit Stream",
+                "Real Code Reuse!",
+                "Refactoring Stream Creation",
+                "Setting Initial Values",
+                "Avoiding Changes to Properties",
+                "Edit Form Submission",
+                "PUT vs PATCH Requests"
+            ]
+        },
+        {
+            "sectionName": "Using React Portals",
+            "unitNames": [
+                "Why Use Portals?",
+                "More on Using Portals",
+                "Creating a Portal",
+                "Hiding a Modal",
+                "Making the Modal Reusable",
+                "React Fragments",
+                "OnDismiss From the Parent",
+                "Reminder on Path Params",
+                "Fetching the Deletion Stream",
+                "Conditionally Showing Stream Details",
+                "Deleting a Stream",
+                "Exercise Overview - Closing the Modal",
+                "Closing the Modal",
+                "Exercise Solution"
+            ]
+        },
+        {
+            "sectionName": "Implementing Streaming Video",
+            "unitNames": [
+                "Viewing a Stream",
+                "Switches with React-Router",
+                "Showing a Stream",
+                "RTMP NodeMediaServer is not a constructor error fix",
+                "RTMP Server Setup",
+                "OBS Installation",
+                "OBS Scene Setup",
+                "Video Player Setup",
+                "Implementing FLV JS",
+                "Creating a FLV Player",
+                "Optional Player Building",
+                "It Works!",
+                "Cleaning Up with ComponentWillUnmount",
+                "Exercise Overview - Adding Some Filtering",
+                "Filtering the Stream List",
+                "Exercise Solution"
+            ]
+        },
+        {
+            "sectionName": "The Context System with React",
+            "unitNames": [
+                "The Context System",
+                "An App with Context",
+                "App Generation",
+                "Selecting a Language",
+                "A Touch More Setup",
+                "Getting Data Out of Context",
+                "Creating Context Objects",
+                "Consuming the Context Value",
+                "The Context Provider",
+                "Gotchas Around Providers",
+                "Accessing Data with Consumers",
+                "Pulling From Multiple Contexts",
+                "Exercise Overview - Consuming Context Values From Providers",
+                "Creating and Consuming Context",
+                "Exercise Solution"
+            ]
+        },
+        {
+            "sectionName": "Replacing Redux with Context",
+            "unitNames": [
+                "Replacing Redux with Context?",
+                "Creating a Store Component",
+                "Implementing a Language Store",
+                "Rendering the Language Store",
+                "Connecting the Selector to the Store",
+                "Connecting the Field and Button to the Store",
+                "Context vs Redux Recap",
+                "That's All For Now"
+            ]
+        },
+        {
+            "sectionName": "Working with Older Versions of React",
+            "unitNames": [
+                "Note on the Following Videos",
+                "Introduction - Github Links for Project Files!",
+                "Completed Projects - Github Links",
+                "Project Setup",
+                "A Taste of JSX",
+                "More on JSX",
+                "Quick Note - Getting Different Error Messages",
+                "ES6 Import Statements",
+                "ReactDOM vs React",
+                "Differences Between Component Instances and Component Classes",
+                "Render Targets",
+                "Component Structure",
+                "Youtube Search API Signup",
+                "Export Statements",
+                "Class-Based Components",
+                "Handling User Events",
+                "Introduction to State",
+                "More on State",
+                "Controlled Components",
+                "Breather and Review"
+            ]
+        },
+        {
+            "sectionName": "Ajax Requests with React",
+            "unitNames": [
+                "Youtube Search Response",
+                "Refactoring Functional Components to Class Components",
+                "Props",
+                "Building Lists with Map",
+                "List Item Keys",
+                "Video List Items",
+                "Detail Component and Template Strings",
+                "Handling Null Props",
+                "Video Selection",
+                "Styling with CSS",
+                "Searching for Videos",
+                "Throttling Search Term Input",
+                "React Wrapup"
+            ]
+        },
+        {
+            "sectionName": "Modeling Application State",
+            "unitNames": [
+                "Foreword on Redux",
+                "What is Redux?",
+                "More on Redux",
+                "Even More on Redux!"
+            ]
+        },
+        {
+            "sectionName": "Managing App State with Redux",
+            "unitNames": [
+                "Putting Redux to Practice",
+                "Reducers",
+                "Containers - Connecting Redux to React",
+                "Containers Continued",
+                "Implementation of a Container Class",
+                "Containers and Reducers Review",
+                "Actions and Action Creators",
+                "Binding Action Creators",
+                "Creating an Action",
+                "Consuming Actions in Reducers",
+                "Consuming Actions in Reducers Continued",
+                "Conditional Rendering",
+                "Reducers and Actions Review"
+            ]
+        },
+        {
+            "sectionName": "Intermediate Redux: Middleware",
+            "unitNames": [
+                "App Overview and Planning",
+                "Component Setup",
+                "Controlled Components and Binding Context",
+                "Form Elements in React",
+                "Working with API's",
+                "Introduction to Middleware",
+                "Ajax Requests with Axios",
+                "Redux-Promise in Practice",
+                "Redux-Promise Continued",
+                "Avoiding State Mutations in Reducers",
+                "Building a List Container",
+                "Mapping Props to a Render Helper",
+                "Adding Sparkline Charts",
+                "Making a Reusable Chart Component",
+                "Labeling of Units",
+                "Google not Defined Errors",
+                "Google Maps Integration",
+                "Google Maps Integration Continued",
+                "Project Review"
+            ]
+        },
+        {
+            "sectionName": "React Router + Redux Form v6",
+            "unitNames": [
+                "App Overview and Goals",
+                "Posts API",
+                "Quick Note",
+                "Installing React Router",
+                "What React Router Does",
+                "The Basics of React Router",
+                "Route Design",
+                "Our First Route Definition",
+                "State as an Object",
+                "Back to Redux - Index Action",
+                "Implementing Posts Reducer",
+                "Action Creator Shortcuts",
+                "Rendering a List of Posts",
+                "Creating New Posts",
+                "A React Router Gotcha",
+                "Navigation with the Link Component",
+                "Redux Form",
+                "Setting Up Redux Form",
+                "The Field Component",
+                "Generalizing Fields",
+                "Validating Forms",
+                "Showing Errors to Users",
+                "Handling Form Submittal",
+                "Form and Field States",
+                "Conditional Styling",
+                "More on Navigation",
+                "Create Post Action Creator",
+                "Navigation Through Callbacks",
+                "The Posts Show Component",
+                "Receiving New Posts",
+                "Selecting from OwnProps",
+                "Data Dependencies",
+                "Caching Records",
+                "Deleting a Post",
+                "Wrapup"
+            ]
+        },
+        {
+            "sectionName": "Bonus Topics",
+            "unitNames": [
+                "Basics of Redux Thunk",
+                "Combining Redux and Firebase",
+                "Dynamic Forms with Redux Form",
+                "Logicless Components with Reselect",
+                "Data Loading Methods with Redux",
+                "Animation of React Components",
+                "The Best Way to Store Redux Data",
+                "Four Most Common Errors with React and Redux",
+                "Modals in React and Redux Apps",
+                "Deployment of React/Webpack Apps",
+                "BrowserHistory in Production",
+                "React Integration with 3rd Party Libraries",
+                "Introducing JSPlaygrounds for Rapid Prototyping"
+            ]
+        },
+        {
+            "sectionName": "React Router + Redux Form v4",
+            "unitNames": [
+                "Important Note - Do Not Skip!",
+                "App Overview and Goals",
+                "Exploring the Posts Api",
+                "Installing React Router",
+                "React Router - What is It?",
+                "Setting Up React Router",
+                "Route Configuration",
+                "Nesting Of Routes",
+                "IndexRoutes with React Router",
+                "Back To Redux - Index Action",
+                "Catching Data with Posts Reducer",
+                "Catching Data with Posts Reducer Continued",
+                "Fetching Data with Lifecycle Methods",
+                "Fetching Data with Lifecycle Methods Continued",
+                "Creating New Posts",
+                "Navigation with the Link Component",
+                "Forms and Form Submission",
+                "More on Forms and Form Submission",
+                "Passing Control to Redux Form",
+                "CreatePost Action Creator",
+                "Form Validation",
+                "Form Validation Continued",
+                "Navigating on Submit",
+                "Posts Index",
+                "Dynamic Route Params",
+                "Loading Data on Render",
+                "Handling Null Props",
+                "Delete Action Creator",
+                "Navigate on Delete",
+                "ReactRouter and ReduxForm Wrapup"
+            ]
+        },
+        {
+            "sectionName": "Extras",
+            "unitNames": [
+                "Bonus!"
+            ]
+        }
+    ]
 }

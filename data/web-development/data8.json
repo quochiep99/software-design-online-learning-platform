@@ -4,161 +4,703 @@
         "courses": []
     },
     "course": {
-        "title": "Vue - The Complete Guide (w/ Router, Vuex, Composition API)",
-        "subtitle": "Vue.js is an awesome JavaScript Framework for building Frontend Applications! VueJS mixes the Best of Angular + React!",
-        "descriptions":  "",
+        "title": "The Complete Web Developer in 2021: Zero to Mastery",
+        "subtitle": "Learn to code and become a Web Developer in 2021 with HTML, CSS, Javascript, React, Node.js, Machine Learning & more!",
+        "descriptions": [],
         "reviews": [],
         "students": [],
-        "image1xURL": "https://img-b.udemycdn.com/course/240x135/995016_ebf4_2.jpg",
-        "image2xURL": "https://img-b.udemycdn.com/course/480x270/995016_ebf4_2.jpg",
-        "image3xURL": "https://img-b.udemycdn.com/course/750x422/995016_ebf4_2.jpg",
+        "image1xURL": "https://img-a.udemycdn.com/course/240x135/1430746_2f43_10.jpg",
+        "image2xURL": "https://img-a.udemycdn.com/course/480x270/1430746_2f43_10.jpg",
+        "image3xURL": "https://img-a.udemycdn.com/course/750x422/1430746_2f43_10.jpg",
         "discountPrice": 11.99,
         "originalPrice": 129.99,
         "numViews": 0,
-        "curriculum": {}
+        "curriculum": []
     },
     "reviews": [
         {
-            "body": "Je ne peux que recommander ce cours : tant sur le fond que sur la forme.\n\nMaximilian est très compréhensible et son cours est très complet : au niveau théorique c'est parfait, mais les occasions de mettre les connaissances en pratique ne manquent pas.",
+            "body": "This course is really an ideally course for the beginners like me. I've learned a lot. I will highly recommend this course because Andrei Neagoie has explained well every topic.",
             "rating": 5
         },
         {
-            "body": "Holy moly, I really thought I need to brush up when Vue 3 is released. But Max updated the course... for FREE!\n\nThis is top-notch education right here!",
-            "rating": 5
-        },
-        {
-            "body": "¡Excelente curso, excelente instructor! Se nota muchísimo la experiencia y conocimiento del instructor, sabe explicar de forma clara y precisa.",
-            "rating": 5
-        },
-        {
-            "body": "Your efforts are incredible. Thanks",
-            "rating": 4
-        },
-        {
-            "body": "Maximilian Schwarzmüller is a great teacher to learn. He has amazing knowledge about Web Development and next-gen technologies in Software Development.\n\nHis course is easy to understand and catch up not only by his deep knowledge but also explaining very mindfully.\n\nDespite of some lessons is confused to me, it is not a big deal. I can still handle in my company projects",
+            "body": "Best course for learning web development. Everything about web development is explained in this course. Andrei is so good at explaining things in detail. Before starting this course, I didn't know what is web development, how we build websites. Now, I am very confident about web development. Learned many new things from this course. Highly recommended if anyone is really interested in learning Full Stack Web Development.",
             "rating": 4.5
         },
         {
-            "body": "This course is excellent! It coveres Vue.js theory in full. Information in all modules is well explained and structured. Though some videos should be updated so to keep the course up to date from the very beginning.\n\nMax is really a great, skilled and experienced instructor explaining everything in a very detailed and understandable way! Thanks! :)",
+            "body": "This course is awesome. It is packed full of comprehensive instruction, but also includes links to extensive additional resources. It is continually updated with information about changes in the field and in response to struggles actual students have experienced. Don't forget to read the Q & A when you're stuck!",
             "rating": 5
         },
         {
-            "body": "Mr. S is an absolutely amazing teacher. He goes in depth into even the smallest details and delves deep into the information, all while keeping the topics interesting and and the lectures engaging. 5/5 stars for sure. PS. His accent is also super cool.",
+            "body": "Thank you Andrei's! I've enjoyed all of his courses and his style of teaching.\n\nThis course is highly recommended for anyone to have enough hands-on projects on different tools web backend or frontend.\n\nHaving said that, Andrei is still a super star amongst teachers and I hugely respect him & his contributions to web development.",
             "rating": 5
         },
         {
-            "body": "As the title of the course already says: it is a very complete dive into Vue. The sections are split up into small and easy to follow lectures. Every section is accompanied by good example applications and one big application that can be very useful as a reference project.\n\nI bought this course a few days before the Vue 3 content was released which was added to the same course.",
+            "body": "It a good course that touches almost all the fields that is required to be a professional web developer. This course will not give you complete knowledge about everything that is required by the employers, but it will show you the path to reach your destination.",
             "rating": 5
         },
         {
-            "body": "Max explain the material with great patience and detail.\n\nThis course is very professional and deserves only 5 starts!! no less :)",
+            "body": "Everything is perfect. Andrei is a great instructor.\n\nThe only thing there is a little more of self-teach topics than is needed to be.\n\nSo, it can be confusing for absolute beginners though I'm not among them.\n\nAnyway thanks for this great journey. I recapped all the basics and ready to go on to become a senior developer with Andrei and his course which I bought already ;)",
+            "rating": 4
+        },
+        {
+            "body": "This course is excellent. It has everything you need to get started in the web developer world.\n\nI do think it needs a basic CRUD web application to add to a Junior portfolio but I think this is one of best Andrei courses.\n\nFor beginners to programming it can be overwhelming, I recommend re-watching the sections 1 to 18 until you are 100% confident before moving one.\n\nUpdate January 9th, 2021: The code and some practices are getting a little old BUT the course keeps getting updated. For example, the code for the projects are still using classes but there is a new Hooks section.",
             "rating": 5
         },
         {
-            "body": "easy understanding, great mentor, gud exercises, useful assignments, and a good start for beginners",
+            "body": "The best course to understand how the internet and web applications work, without a doubt Andrei is the best teacher I have known throughout this wonderful world of web development.",
             "rating": 5
         },
         {
-            "body": "Very in depth look at Vue 2/3 a as well as Vue Router and Vuex. I love how the course was updated as soon as Vue 3 was released.",
+            "body": "this course can change my whole life. so many question i have before purchase this course but at the end i found so much valuable skills that so much expensive than what we pay .\n\nAndrew are really really number one Teacher . Thank you so much",
             "rating": 5
         },
         {
-            "body": "In the updated course I miss the assignments with each lecture. All the explanations are to the point and well structured. Just as a side note, do not expect Max to teach you everything, try and do stuff on your own!",
+            "body": "Great course that covers all the topics you will need to grasp to get into the world of web development. Great instructor that knows how to teach so that we as the students can take out from it as much as we can!!! <3",
+            "rating": 4.5
+        },
+        {
+            "body": "I tried to get into Web Development for a while back, I watched other courses before, but was never able to finish them due to some inconveniences. I actually bought Zero to Mastery course last year, but finally decided to follow it a couple months ago. I think this course is really good for someone wanting to create websites and don’t have any background knowledge of coding. You just need discipline and dedication. Also, I like the fact it’s being updated frequently with the most important tools and technologies used nowadays.",
             "rating": 5
+        },
+        {
+            "body": "It's a really great tutorial, I have learned basic of full stack development and many things to prettify front end. Now I know I can implement things whenever I see a cool website or YouTube video regarding web design. At last I personally think it would be better if some cool features like web-rtc, gsap animation were included but still it’s a great tutorial, Thank you",
+            "rating": 4.5
         }
     ],
     "students": [
         {
-            "name": "Laurent Bernabe",
-            "email": "laurentbernabe@gmail.com",
-            "password": "laurentbernabe",
+            "name": "John John Buyacao",
+            "email": "johnjohnbuyacao@gmail.com",
+            "password": "johnjohnbuyacao",
             "role": "s",
-"isConfirmed": true
+            "isConfirmed": true
         },
         {
-            "name": "Von Yu",
-            "email": "vonyu@gmail.com",
-            "password": "vonyu",
+            "name": "Devender Singh Rathore",
+            "email": "devendersinghrathore@gmail.com",
+            "password": "devendersinghrathore",
             "role": "s",
-"isConfirmed": true
+            "isConfirmed": true
         },
         {
-            "name": "Agustín Bollati",
-            "email": "agustínbollati@gmail.com",
-            "password": "agustínbollati",
+            "name": "Jackie Stiles",
+            "email": "jackiestiles@gmail.com",
+            "password": "jackiestiles",
             "role": "s",
-"isConfirmed": true
+            "isConfirmed": true
         },
         {
-            "name": "IT- Vinove",
-            "email": "it-vinove@gmail.com",
-            "password": "it-vinove",
+            "name": "Thierno Amadou Diallo",
+            "email": "thiernoamadoudiallo@gmail.com",
+            "password": "thiernoamadoudiallo",
             "role": "s",
-"isConfirmed": true
+            "isConfirmed": true
         },
         {
-            "name": "Dat Tran",
-            "email": "dattran@gmail.com",
-            "password": "dattran",
+            "name": "Sulav Khadka",
+            "email": "sulavkhadka@gmail.com",
+            "password": "sulavkhadka",
             "role": "s",
-"isConfirmed": true
+            "isConfirmed": true
         },
         {
-            "name": "Татьяна",
-            "email": "татьяна@gmail.com",
-            "password": "татьяна",
+            "name": "Almaz Kairat",
+            "email": "almazkairat@gmail.com",
+            "password": "almazkairat",
             "role": "s",
-"isConfirmed": true
+            "isConfirmed": true
         },
         {
-            "name": "Martin Carberry",
-            "email": "martincarberry@gmail.com",
-            "password": "martincarberry",
+            "name": "Maria Vla",
+            "email": "mariavla@gmail.com",
+            "password": "mariavla",
             "role": "s",
-"isConfirmed": true
+            "isConfirmed": true
         },
         {
-            "name": "Patrick Angevare",
-            "email": "patrickangevare@gmail.com",
-            "password": "patrickangevare",
+            "name": "Marcos Antonio",
+            "email": "marcosantonio@gmail.com",
+            "password": "marcosantonio",
             "role": "s",
-"isConfirmed": true
+            "isConfirmed": true
         },
         {
-            "name": "Oren Sampson",
-            "email": "orensampson@gmail.com",
-            "password": "orensampson",
+            "name": "Dev Shrimali",
+            "email": "devshrimali@gmail.com",
+            "password": "devshrimali",
             "role": "s",
-"isConfirmed": true
+            "isConfirmed": true
         },
         {
-            "name": "Raju Moni Borah",
-            "email": "rajumoniborah@gmail.com",
-            "password": "rajumoniborah",
+            "name": "Lukasz Pytel",
+            "email": "lukaszpytel@gmail.com",
+            "password": "lukaszpytel",
             "role": "s",
-"isConfirmed": true
+            "isConfirmed": true
         },
         {
-            "name": "Judy-lyly Pham",
-            "email": "judy-lylypham@gmail.com",
-            "password": "judy-lylypham",
+            "name": "Valmy Saint-Louis",
+            "email": "valmysaint-louis@gmail.com",
+            "password": "valmysaint-louis",
             "role": "s",
-"isConfirmed": true
+            "isConfirmed": true
         },
         {
-            "name": "Kiro Gradovchanski",
-            "email": "kirogradovchanski@gmail.com",
-            "password": "kirogradovchanski",
+            "name": "Ayan Koley",
+            "email": "ayankoley@gmail.com",
+            "password": "ayankoley",
             "role": "s",
-"isConfirmed": true
+            "isConfirmed": true
         }
     ],
     "instructor": {
-        "name": "Maximilian Schwarzmüller",
-        "email": "maximilianschwarzmüller@gmail.com",
-        "password": "maximilianschwarzmüller",
+        "name": "Andrei Neagoie",
+        "email": "andreineagoie@gmail.com",
+        "password": "andreineagoie",
         "role": "i",
-"isConfirmed": true,
-        "briefIntroduction": "<p><strong>Experience as (Web) Developer</strong><br></p><p>Starting out at the age of 13 I never stopped learning new programming skills and languages. Early I started creating websites for friends and just for fun as well. Besides web development I also explored Python and other non-web-only&nbsp;languages.&nbsp;This passion has since lasted and lead to my decision of working as a freelance web developer and consultant. The success and fun I have in this job is immense and really keeps that passion burningly alive.</p><p>Starting web development on&nbsp;the backend (PHP with Laravel, NodeJS, Python) I also became more and more of a frontend developer using modern frameworks like React, Angular or VueJS 2 in a lot of projects. I&nbsp;love both worlds nowadays!</p><p>As a self-taught developer I had the chance to broaden my horizon by studying Business Administration where I hold a Master's degree. That enabled me to work in a major strategy consultancy as well as a bank. While learning, that I enjoy development more than these fields, the time in this sector greatly improved my overall experience and skills.</p><p><strong>Experience as Instructor</strong></p><p>As a self-taught professional I really know the hard parts and the difficult topics when learning new or improving on already-known languages. This background and experience enables me to focus on the most relevant key concepts and topics. My track record of many 5-star rated courses, more than 700,000 students on Udemy as well as a successful YouTube channel is the best proof for that.</p><p>Whether working as development instructor or teaching Business Administration I always received great feedback. The most rewarding experience is to see how people find new, better jobs, build awesome web applications, acquire amazing projects or simply enjoy their hobby with the help of my content.</p><p>Together with Manuel Lorenz, I founded Academind to offer the best possible learning experience to our more than 800,000 students.</p>"
-    }
+        "briefIntroduction": "<p>Andrei is the instructor of the <strong>highest rated Development courses on Udemy as well as&nbsp;one of the fastest&nbsp;growing.&nbsp;</strong>His graduates have&nbsp;moved&nbsp;on to work for&nbsp;some of the biggest tech&nbsp;companies around the world like Apple, Google, Tesla, Amazon, JP Morgan, IBM, UNIQLO etc...&nbsp;He&nbsp;has&nbsp;been working as a senior software developer in&nbsp;Silicon Valley and Toronto for many years,&nbsp;and&nbsp;is now taking all that he has learned,&nbsp;to teach&nbsp;programming skills and&nbsp;to help you&nbsp;discover the amazing career opportunities that being a developer allows in&nbsp;life.&nbsp;</p><p>Having been&nbsp;a self taught programmer,&nbsp;he understands that there is an&nbsp;overwhelming number of online courses, tutorials and books&nbsp;that are overly verbose and inadequate at teaching proper skills.&nbsp;Most people feel paralyzed and don't know where to start when learning a complex subject matter, or even worse, most people don't have $20,000 to spend on a coding bootcamp.&nbsp;<strong>Programming skills should be affordable and open to all. An education material&nbsp;should teach real life skills that are current and&nbsp;they should not waste a student's valuable time.</strong>&nbsp;\n\nHaving learned important&nbsp;lessons from working for Fortune 500 companies, tech startups, to even&nbsp;founding his own business, he is now dedicating 100% of his time to&nbsp;teaching others valuable&nbsp;software development skills&nbsp;in order to take control of their life and work in an exciting industry with infinite possibilities.&nbsp;</p><p>Andrei promises you that there are no other courses out there as comprehensive and as well explained.&nbsp;<strong>He believes that in order to learn anything of value, you need to start with the foundation and develop the roots of the tree. Only from there will you be able to learn concepts and specific skills(leaves) that connect to the foundation. Learning becomes exponential when structured in this way.</strong>&nbsp;</p><p>Taking his experience in educational psychology and coding, Andrei's courses will take you on an understanding of complex subjects that you never thought would be possible.&nbsp;&nbsp;\n</p><p><strong>See you inside the courses!</strong></p><p><br></p>",
+        "isConfirmed": true
+    },
+    "curriculum": [
+        {
+            "sectionName": "Introduction",
+            "unitNames": [
+                "Course Outline",
+                "Join Our Online Classroom!",
+                "Exercise: Meet The Community",
+                "Join Our Open Source Projects!"
+            ]
+        },
+        {
+            "sectionName": "How The Internet Works",
+            "unitNames": [
+                "Browsing the Web",
+                "Breaking Google",
+                "Exercise: Break Google Yourself",
+                "The Internet Backbone",
+                "Traceroute",
+                "Exercise: Running traceroute",
+                "DEVELOPER FUNDAMENTALS: I",
+                "What Does A Developer Do?",
+                "Optional: The Article Which Inspired This Course",
+                "Web Developer Monthly"
+            ]
+        },
+        {
+            "sectionName": "History Of The Web",
+            "unitNames": [
+                "WWW vs Internet",
+                "HTML, CSS, Javascript",
+                "DEVELOPER FUNDAMENTALS: II",
+                "Developer History",
+                "Exercise: Adding CSS and JavaScript to Tim's website",
+                "Optional Resource: More About the History of the Web"
+            ]
+        },
+        {
+            "sectionName": "HTML 5",
+            "unitNames": [
+                "Build Your First Website",
+                "Resources: Your Text Editor",
+                "DEVELOPER FUNDAMENTALS: III",
+                "Quick Note About w3schools",
+                "How To Ask Questions",
+                "HTML Tags",
+                "HTML Tags 2",
+                "Self Closing HTML Tags",
+                "Anchor Tag",
+                "Q&A: index.html",
+                "Q&A: Relative vs Absolute Path"
+            ]
+        },
+        {
+            "sectionName": "Advanced HTML 5",
+            "unitNames": [
+                "HTML Forms",
+                "HTML Forms 2",
+                "Submitting A Form",
+                "HTML Tags 3",
+                "HTML vs HTML 5",
+                "Copy A Website",
+                "HTML Challenge",
+                "HTML Lesson Files",
+                "Exercise: HTML Quiz",
+                "Optional Exercise: More HTML"
+            ]
+        },
+        {
+            "sectionName": "CSS",
+            "unitNames": [
+                "Exercise Files: Code-Along",
+                "Your First CSS",
+                "CSS Properties",
+                "CSS Selectors",
+                "Optional Exercise: CSS Selectors",
+                "Text and Font",
+                "Images In CSS",
+                "Box Model",
+                "px vs em vs rem",
+                "Exercise: CSS Quiz"
+            ]
+        },
+        {
+            "sectionName": "Advanced CSS",
+            "unitNames": [
+                "Critical Render Path",
+                "Exercise File: Code-Along Images",
+                "Flexbox",
+                "Optional Exercise: Flexbox Froggy",
+                "CSS 3",
+                "Optional Exercise: Mastering Transitions and Transforms",
+                "Responsive UI",
+                "Image Gallery Files",
+                "Exercise: Robot Animation",
+                "Exercise: Robot Animation Starter Files",
+                "Solution: Robot Animation",
+                "Optional Exercise: CSS"
+            ]
+        },
+        {
+            "sectionName": "Bootstrap, Templates, And Building Your Startup Landing Page",
+            "unitNames": [
+                "Bootstrap Introduction",
+                "Bootstrap",
+                "Bootstrap Grid",
+                "Free Resources For Our Project",
+                "Exercise: Startup Landing Page",
+                "Exercise: Startup Landing Page 2",
+                "Exercise: Startup Landing Page 3",
+                "Exercise: Startup Landing Page 4",
+                "Exercise: Startup Landing Page 5",
+                "Quick Note: Mailchimp",
+                "Exercise: Adding Email Subscribe Form With MailChimp",
+                "Quick Note: Upcoming Videos",
+                "Exercise: Putting Your Website Online",
+                "Exercise: Putting Your Website Online 2",
+                "Quick Note: Upcoming Video",
+                "DEVELOPER FUNDAMENTALS: IV",
+                "Using Templates",
+                "Resources for FREE Templates",
+                "Startup Landing Pages by Students"
+            ]
+        },
+        {
+            "sectionName": "CSS Grid + CSS Layout",
+            "unitNames": [
+                "Section Overview",
+                "CSS Grid vs Flexbox vs Bootstrap",
+                "Quick Note: grid-gap to gap",
+                "CSS Grid 1",
+                "CSS Grid 2",
+                "CSS Grid 3",
+                "CSS Grid 4",
+                "CSS Grid 5",
+                "Optional Exercise: CSS Grid",
+                "Exercise: CSS Layout",
+                "Solution: Navigation Bar",
+                "Solution: Navigation Bar 2",
+                "Solution: Cover",
+                "Solution: Project Grid + Footer",
+                "Quick Note: Upcoming Video",
+                "Solution: Prettify",
+                "The Truth About CSS"
+            ]
+        },
+        {
+            "sectionName": "Career Of A Web Developer",
+            "unitNames": [
+                "Career Of A Web Developer",
+                "2021 Updated Statistics",
+                "Web Developer Roadmap This Year",
+                "Endorsements On LinkedIN",
+                "Quick Note: Upcoming Video",
+                "What If I Don't Have Enough Experience?",
+                "Learning Guideline",
+                "New: DEVELOPER FUNDAMENTALS"
+            ]
+        },
+        {
+            "sectionName": "Javascript",
+            "unitNames": [
+                "Introduction To Javascript",
+                "What Is Javascript?",
+                "Your First Javascript",
+                "Exercise: Number, String, Boolean, Comparisons",
+                "Variables",
+                "Exercise: Variables",
+                "Exercise: Make A Calculator",
+                "Control Flow",
+                "Exercise: Make A Keyless Car",
+                "Javascript On Our Webpage",
+                "Functions",
+                "Exercise: Make A Keyless Car Even Better",
+                "Data Structures: Arrays",
+                "Exercise: Arrays",
+                "Data Structures: Objects",
+                "Exercise: Objects And Arrays  For Facebook App",
+                "Exercise: Build Facebook",
+                "Javascript Terminology",
+                "Loops",
+                "Exercise: Build Facebook 2",
+                "Javascript Keywords",
+                "Section Outline Document"
+            ]
+        },
+        {
+            "sectionName": "DOM Manipulation",
+            "unitNames": [
+                "Document Object Model",
+                "DOM Selectors",
+                "Exercise: DOM Selectors",
+                "DOM Events",
+                "Note: Callback Functions",
+                "Exercise: DOM Events",
+                "Solution: DOM Events",
+                "Exercise: Background Generator",
+                "Background Generator Files",
+                "jQuery",
+                "DEVELOPER FUNDAMENTALS: V"
+            ]
+        },
+        {
+            "sectionName": "Advanced Javascript",
+            "unitNames": [
+                "Scope",
+                "Exercise: Scope",
+                "Advanced Control Flow",
+                "Exercise: Advanced Control Flow",
+                "ES5 and ES6",
+                "Exercise: ES5 and ES6",
+                "Advanced Functions",
+                "Exercise: Advanced Functions",
+                "Advanced Arrays",
+                "Exercise: Advanced Arrays",
+                "Advanced Objects",
+                "Quick Note: Upcoming Videos",
+                "Pass By Value vs Pass By Reference",
+                "Type Coercion",
+                "Exercise: Advanced Objects",
+                "ES7 (ES2016)",
+                "Exercise: ES7",
+                "ES8 (ES2017)",
+                "Exercise: ES8",
+                "Note: ES9 + ES8 Async Await",
+                "ES10 (ES2019)",
+                "Exercise: ES10",
+                "Advanced Loops",
+                "Exercise: Advanced Loops",
+                "ES2020 Part 1",
+                "ES2020 Part 2",
+                "ES2020 Part 3",
+                "Exercise: ES2020",
+                "Debugging",
+                "How Javascript Works",
+                "Modules",
+                "Resources: Modules",
+                "Extra Javascript Practice",
+                "Optional Exercise: Javascript Logic"
+            ]
+        },
+        {
+            "sectionName": "Command Line",
+            "unitNames": [
+                "For WINDOWS Users ONLY",
+                "Quick Note: For Windows Users",
+                "Using The Terminal",
+                "Exercise: Practice Using The Terminal"
+            ]
+        },
+        {
+            "sectionName": "Developer Environment",
+            "unitNames": [
+                "Sublime Text 3",
+                "Resources: Customizing Sublime Text 3",
+                "VS Code",
+                "Resources: Customizing VS Code",
+                "Terminal",
+                "Resources: Customizing Terminal",
+                "For Windows: Customizing Git Bash"
+            ]
+        },
+        {
+            "sectionName": "Git + Github + Open Source Projects",
+            "unitNames": [
+                "Installing Git",
+                "Git + Github Part 1",
+                "Github Update: Master --> Main",
+                "Git + Github Part 2",
+                "My Terminal Setup",
+                "Contributing To Open Source",
+                "Contributing To Open Source 2",
+                "Exercise: Contribute To Our Open Source",
+                "Keeping Your Fork Up To Date",
+                "Portfolio Website for Recruiters",
+                "Student Generated Top Resources"
+            ]
+        },
+        {
+            "sectionName": "A Day In The Life Of A Developer",
+            "unitNames": [
+                "A Typical Day",
+                "Exercise: Helping A Developer",
+                "A Developer's Morning Routine"
+            ]
+        },
+        {
+            "sectionName": "NPM + NPM Scripts",
+            "unitNames": [
+                "Introduction To NPM",
+                "Setting Up NPM and package.json",
+                "Update: Latest Node.js and NPM",
+                "Troubleshoot: Installing NPM and Node.js",
+                "Installing And Using Packages",
+                "Why Update Packages?",
+                "Quick Note About Packages",
+                "Exercise: Create A Portfolio"
+            ]
+        },
+        {
+            "sectionName": "React.js, React Hooks, Redux (Hooks and Redux videos moved to end of course!)",
+            "unitNames": [
+                "Introduction To React.js",
+                "Quick Note: CRA Growing Pains",
+                "create-react-app",
+                "create-react-app 2",
+                "create-react-app 3",
+                "Quick Note: Class vs Functional App.js",
+                "Code From Previous Video",
+                "Quick Note: CRA 4",
+                "Your First React Component",
+                "Building A React App 1",
+                "React.Fragment and Semantic HTML",
+                "Building A React App 2",
+                "Building A React App 3",
+                "Styling Your React App",
+                "Building A React App 4",
+                "Building A React App 5",
+                "Building A React App 6",
+                "Project Files",
+                "Keeping Your Projects Up To Date",
+                "Exercise: React 17",
+                "Solution: React 17",
+                "React Review",
+                "Error Boundary In React",
+                "Deploying Our React App",
+                "React Hooks + Redux (Saved For End Of The Course)"
+            ]
+        },
+        {
+            "sectionName": "HTTP/JSON/AJAX + Asynchronous Javascript",
+            "unitNames": [
+                "HTTP/HTTPS",
+                "JSON",
+                "JSON vs Form Data",
+                "AJAX",
+                "Promises",
+                "Exercise: Promises",
+                "ES8 - Async Await",
+                "Exercise: ES8 - Async Await",
+                "ES9 (ES2018)",
+                "ES9 (ES2018) - Async",
+                "ES2020: allSettled()",
+                "Reviewing ES6, ES7, ES8, ES9, ES10, ES11 Features"
+            ]
+        },
+        {
+            "sectionName": "Backend Introduction",
+            "unitNames": [
+                "Backend Basics"
+            ]
+        },
+        {
+            "sectionName": "APIs",
+            "unitNames": [
+                "Getting Ready For This Section",
+                "Introduction to APIs",
+                "Exercise: Web App APIs",
+                "Optional Exercise: Speech Recognition",
+                "Resources: Public APIs"
+            ]
+        },
+        {
+            "sectionName": "FINAL PROJECT: SmartBrain Front-End",
+            "unitNames": [
+                "What We Are Building",
+                "Building Our Components",
+                "Quick Note: Updated API",
+                "Image Recognition API",
+                "Clarifai API Updates, Models and Troubleshooting",
+                "Resource: Clarifai API Docs",
+                "Optional: Advanced setState()",
+                "Face Detection Box",
+                "Sign In Form And Routing",
+                "Project Files: Github"
+            ]
+        },
+        {
+            "sectionName": "Node.js + Express.js",
+            "unitNames": [
+                "Introduction To Node.js",
+                "Latest Version of Node.js",
+                "For Windows Users",
+                "Running script.js In Node",
+                "ES2020: globalThis",
+                "Modules In Node",
+                "ES6 Modules??",
+                "ES6 Modules In Node",
+                "Types of Modules",
+                "Building a Server",
+                "Introduction to Express.js",
+                "Express Middleware",
+                "Express Version Update",
+                "Postman",
+                "Quick Note: req.header",
+                "RESTful APIs",
+                "Node File System Module",
+                "Exercise: Santa's Node Helper",
+                "Exercise Resources: Santa's Node Helper",
+                "Solution: Santa's Node Helper"
+            ]
+        },
+        {
+            "sectionName": "FINAL PROJECT: SmartBrain Back-End -- Server",
+            "unitNames": [
+                "Setting Up Our Server",
+                "/signin and /register",
+                "/profile/:id and /image",
+                "Quick Note: Bcrypt",
+                "Storing User Passwords",
+                "Resource: Storing User Passwords Securely",
+                "Connecting To Our Front-End",
+                "Resource: CORS",
+                "Registering Users",
+                "Exercise: Load User Feature",
+                "User Profile Update",
+                "Project Files: Github"
+            ]
+        },
+        {
+            "sectionName": "Databases",
+            "unitNames": [
+                "Introduction To Databases",
+                "Installing PostgreSQL",
+                "For Windows Users",
+                "Resources: Installing PostgreSQL",
+                "SQL: Create Table",
+                "SQL: Insert Into + Select",
+                "SQL: Alter Table + Update",
+                "SQL: Conditional Selections",
+                "SQL: Functions",
+                "Joining Tables Part 1",
+                "Joining Tables Part 2",
+                "SQL: Delete From + Drop Table",
+                "Exercises: SQL Commands"
+            ]
+        },
+        {
+            "sectionName": "FINAL PROJECT: SmartBrain Back-End -- Database",
+            "unitNames": [
+                "Setting Up Your Database",
+                "Connecting To The Database",
+                "Registering A User Part 1",
+                "Troubleshooting: Connecting Knex",
+                "Registering A User Part 2",
+                "Getting User Profiles",
+                "Updating Entries",
+                "Sign In",
+                "Quick Note: Removing Unused Variables",
+                "Putting It All Together",
+                "What's Next?"
+            ]
+        },
+        {
+            "sectionName": "Production + Deployment",
+            "unitNames": [
+                "Deploying Our Files",
+                "Code Review",
+                "Quick Note: Updated API",
+                "Security Review",
+                "Environment Variables",
+                "Exercise: Deploying To Production",
+                "Deploying On Heroku",
+                "Quick Note: Troubleshooting Next Video",
+                "Deploying To Heroku Part 2",
+                "Deploying To Heroku Part 3",
+                "Npm Serve",
+                "Deploying To Heroku Part 4",
+                "Project Files: Github"
+            ]
+        },
+        {
+            "sectionName": "Where To Go From Here?",
+            "unitNames": [
+                "Become an Alumni",
+                "Resource: Interviewing",
+                "My Advice On Interviewing",
+                "My Advice On Getting Hired",
+                "My Advice On Resume/Portfolio/LinkedIn",
+                "My Advice On Being a Junior Developer",
+                "My Advice On How To Become A Senior Developer",
+                "Thank you"
+            ]
+        },
+        {
+            "sectionName": "Bonus: Extra Bits",
+            "unitNames": [
+                "Ask Me Anything - 1,000 Students",
+                "AMA - 100,000 Students!!",
+                "Coding Challenges"
+            ]
+        },
+        {
+            "sectionName": "Extra Learning: React Hooks",
+            "unitNames": [
+                "React Hooks",
+                "React Hooks 2",
+                "React Hooks 3",
+                "React Hooks 4",
+                "React Hooks 5",
+                "React Hooks 6",
+                "React Hooks 7",
+                "React Hooks 8",
+                "Project Files - Hooks",
+                "React Hooks 9"
+            ]
+        },
+        {
+            "sectionName": "Extra Learning: Redux",
+            "unitNames": [
+                "Quick Note About Redux",
+                "State management",
+                "Why Redux?",
+                "Installing Redux",
+                "Redux Toolkit",
+                "Redux Actions and Reducers",
+                "Redux Store and Provider",
+                "Redux connect()",
+                "Redux Middleware",
+                "Redux Async Actions",
+                "Redux Project Structures",
+                "Popular Tools For React + Redux",
+                "Project Files - Redux"
+            ]
+        },
+        {
+            "sectionName": "Extra: For Windows Users",
+            "unitNames": [
+                "Introduction From Wolfgang",
+                "Quick Note: Upcoming Video",
+                "Installing Git for Windows",
+                "Installing NodeJs for Windows",
+                "Installing PostgreSQL for Windows",
+                "Set Up PostgreSQL for CMD, Using PgAdmin"
+            ]
+        },
+        {
+            "sectionName": "BONUS SECTION",
+            "unitNames": [
+                "Bonus Lecture"
+            ]
+        }
+    ]
 }

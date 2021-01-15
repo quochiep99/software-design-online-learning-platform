@@ -5,152 +5,152 @@
     },
     "course": {
         "title": "Master Microservices with Spring Boot and Spring Cloud",
-        "subtitle": "An awesome journey from Restful Web Services ( REST API ) to Microservices with Java, Spring Boot and Spring Cloud",
-        "descriptions":  "",
+        "subtitle": "Go from Restful Web Services ( REST API ) to Microservices - Java , Spring Boot , Spring Cloud , Docker and Kubernetes",
+        "descriptions": [],
         "reviews": [],
         "students": [],
-        "image1xURL": "https://img-a.udemycdn.com/course/240x135/1352468_3d97_7.jpg",
-        "image2xURL": "https://img-a.udemycdn.com/course/480x270/1352468_3d97_7.jpg",
-        "image3xURL": "https://img-a.udemycdn.com/course/750x422/1352468_3d97_7.jpg",
+        "image1xURL": "https://img-b.udemycdn.com/course/240x135/1352468_3d97_7.jpg",
+        "image2xURL": "https://img-b.udemycdn.com/course/480x270/1352468_3d97_7.jpg",
+        "image3xURL": "https://img-b.udemycdn.com/course/750x422/1352468_3d97_7.jpg",
         "discountPrice": 18.99,
         "originalPrice": 199.99,
         "numViews": 0,
-        "curriculum": {}
+        "curriculum": []
     },
     "reviews": [
         {
-            "body": "Learn lots of things regarding micro services and spring cloud. Thanks Ranga! for this excellent tutorial",
-            "rating": 4.5
+            "body": "I loved this course. I am expecting this course to get updated to latest springboot version and with real time deployment on cloud platforms.\n\nI believe author had already promised this. Once the course is updated.\n\nI will go with 5 Star rating.",
+            "rating": 3.5
         },
         {
-            "body": "I would like to say thank you for this course. Especially, up to date modification section for updated version. Actually, I have joined for this course because my new project using API at my work place, and this course really helpful to me.",
+            "body": "Hi ranga, first of all thank you for sharing knowledge in simple way. i am going to follow your tutorials here after. You are making me to complex concepts in simpler way. This is very interesting course, nice handson experience, good issue resolutions through Q&A, course is for beginners who wants quick start of spring boot, spring cloud, in memory database and microservices concepts.\n\npractised all examples and concepts explained by ranga, during the course i faced only issues with spring boot jar dependency compatabilities.\n\nsuggestion: spring security initially added in projects, later on removed due to some constraints, please add those concepts with security on.\n\nsleuth,rabbitmq, zipkin concept explained well,but it will be useful if production related settings explained.\n\nthank you",
+            "rating": 4
+        },
+        {
+            "body": "It was a great experience going through this course . Things were explained in very simple manner .",
+            "rating": 4
+        },
+        {
+            "body": "the course videos were very well arranged , to the point and the tutor made the concepts very easy to understand.",
             "rating": 5
-        },
-        {
-            "body": "Many Spring cloud topics are not covered. The course name should be Spring cloud basics and not - \"Mastering\" microservices with cloud. Also, asked few questions but did not receive any response.",
-            "rating": 3
         },
         {
             "body": "I was anxious when I took the course at the beginning thinking I would understand it intact. But the course exceeds my expectation with hands-on coding and understanding from the elementary to important concepts. Thanks for the course and I really enjoyed studying the course.",
             "rating": 5
         },
         {
-            "body": "Trainer had very well explained through out the course and the course content was also helpful. It helped me a lot to get more knowledge on Spring Boot and Spring Cloud Course. I'm grateful to the trainers Mahi, Ranga,Helen for all your assistance whenever i raised a query. Especially, many many Thanks to Ranga for the great course especially to assist me and providing with an exposure on lot of concepts.",
-            "rating": 4.5
-        },
-        {
-            "body": "Very good explanations , would recommend anybody looking to get started with spring microservices / jpa",
-            "rating": 4
-        },
-        {
-            "body": "Instructor is has a good teaching skill and is well versed with spring framework. Video's are short and upto the point.\n\nTitle is misleading... The course is mere introduction to microservices, the core microservices concepts were taught for less than 2 hours. So it lacks depth.\n\nWe can call this course a great introduction to microservices nothing more. Failed to explain different architecture patterns eg. event driven architecture, etc.\n\nFailed to explain the configuration of components like rabbitmq, zuul,etc.\n\nits incomplete, most of the course content appears to be re-purposed videos from previous courses.\n\nYou wouldn't be able to deploy any real world project after this course.",
-            "rating": 2.5
-        },
-        {
-            "body": "Examples are good. but need to explain why each component designed in spring boot and what are advantages and what components it replaces currently in market",
-            "rating": 3.5
+            "body": "I would like to say thank you for this course. Especially, up to date modification section for updated version. Actually, I have joined for this course because my new project using API at my work place, and this course really helpful to me.",
+            "rating": 5
         },
         {
             "body": "It was a great learning experience. I enjoyed the course, it was very detailing. Though I had experience in developing microservices using spring boot, this course helped me to understand the basics in detail. I would recommend this course if you want to understand the basics of spring boot and spring cloud. Thanks Ranga for the amazing course. From my side it is a 5 star.",
             "rating": 5
         },
         {
-            "body": "Straight forward lectures. Well presented. Use the dependencies he is using even though it is a little out dated. It will make the course easier to follow.",
+            "body": "This is best course I have completed for Microservices. There were a lot of things to learn and Ranga has simplified all the principals which fits into mind without effort.",
             "rating": 5
         },
         {
-            "body": "All the concepts together at one place helps us a lot. One issue is that all the codes are not fully updated like few codes are deprecated and not working and giving error and we are clueless how to fix it easily. Needs updated code in Notes section would have been great.",
-            "rating": 4
+            "body": "It was an amazing experience leaning this course. It was really a smooth journey. I thoroughly enjoyed learning and understanding the concepts of Microservices. The explaination of all the concepts involved in this course was quite simple and easy to understand. One must really go for this course if you are looking to go deep into Microservices.",
+            "rating": 5
         },
         {
-            "body": "I have attended this course after having already studied on my own and worked on most of the topics. The course was very useful to put order in what I have studied and to acquire more confidence in applying this knowledge in the practice and to compare my experience with that of the trainer and other students. I have appreciated the way the course has been prepared, the sequence of the topics, the completeness and the way it is updated following the evolution of the frameworks.",
+            "body": "This is awesome course, help me lot to understand the Microservice with Spring boot concept even the way of presenting concept is well connected.",
+            "rating": 5
+        },
+        {
+            "body": "It was very good but all the version got changed. So getting lot of errors when we follow exact same. needs to be updated a bit accordingly,",
+            "rating": 4.5
+        },
+        {
+            "body": "Basic course but good enough to explain all the problems with Microservices architecture and how they are being solved. Good simple example to understand.",
             "rating": 4.5
         }
     ],
     "students": [
         {
-            "name": "Nikunj Soni",
-            "email": "nikunjsoni@gmail.com",
-            "password": "nikunjsoni",
+            "name": "Naresh Raj Natarajan",
+            "email": "nareshrajnatarajan@gmail.com",
+            "password": "nareshrajnatarajan",
             "role": "s",
-"isConfirmed": true
+            "isConfirmed": true
         },
         {
-            "name": "May Pyae Sone Nyein Win",
-            "email": "maypyaesonenyeinwin@gmail.com",
-            "password": "maypyaesonenyeinwin",
+            "name": "Chaitanya Varma Madiraju",
+            "email": "chaitanyavarmamadiraju@gmail.com",
+            "password": "chaitanyavarmamadiraju",
             "role": "s",
-"isConfirmed": true
+            "isConfirmed": true
         },
         {
-            "name": "Jaykumar Shinde",
-            "email": "jaykumarshinde@gmail.com",
-            "password": "jaykumarshinde",
+            "name": "Prakash Pandey",
+            "email": "prakashpandey@gmail.com",
+            "password": "prakashpandey",
             "role": "s",
-"isConfirmed": true
+            "isConfirmed": true
+        },
+        {
+            "name": "Deependra Thagunna",
+            "email": "deependrathagunna@gmail.com",
+            "password": "deependrathagunna",
+            "role": "s",
+            "isConfirmed": true
         },
         {
             "name": "Adithya Nadig A R",
             "email": "adithyanadigar@gmail.com",
             "password": "adithyanadigar",
             "role": "s",
-"isConfirmed": true
+            "isConfirmed": true
         },
         {
-            "name": "Dhruthi Nooka",
-            "email": "dhruthinooka@gmail.com",
-            "password": "dhruthinooka",
+            "name": "May Pyae Sone Nyein Win",
+            "email": "maypyaesonenyeinwin@gmail.com",
+            "password": "maypyaesonenyeinwin",
             "role": "s",
-"isConfirmed": true
-        },
-        {
-            "name": "Rahul K Jain",
-            "email": "rahulkjain@gmail.com",
-            "password": "rahulkjain",
-            "role": "s",
-"isConfirmed": true
-        },
-        {
-            "name": "Pratiek Sanklecha",
-            "email": "pratieksanklecha@gmail.com",
-            "password": "pratieksanklecha",
-            "role": "s",
-"isConfirmed": true
-        },
-        {
-            "name": "Soumya Mishra",
-            "email": "soumyamishra@gmail.com",
-            "password": "soumyamishra",
-            "role": "s",
-"isConfirmed": true
+            "isConfirmed": true
         },
         {
             "name": "Kirthan M Puttegowda",
             "email": "kirthanmputtegowda@gmail.com",
             "password": "kirthanmputtegowda",
             "role": "s",
-"isConfirmed": true
+            "isConfirmed": true
         },
         {
-            "name": "Earl Manley",
-            "email": "earlmanley@gmail.com",
-            "password": "earlmanley",
+            "name": "Amit Anand",
+            "email": "amitanand@gmail.com",
+            "password": "amitanand",
             "role": "s",
-"isConfirmed": true
+            "isConfirmed": true
         },
         {
-            "name": "Zaryab Saiyadain",
-            "email": "zaryabsaiyadain@gmail.com",
-            "password": "zaryabsaiyadain",
+            "name": "Jaykumar Bhati",
+            "email": "jaykumarbhati@gmail.com",
+            "password": "jaykumarbhati",
             "role": "s",
-"isConfirmed": true
+            "isConfirmed": true
         },
         {
-            "name": "Carlo G.",
-            "email": "carlog.@gmail.com",
-            "password": "carlog.",
+            "name": "Ranjit Soni",
+            "email": "ranjitsoni@gmail.com",
+            "password": "ranjitsoni",
             "role": "s",
-"isConfirmed": true
+            "isConfirmed": true
+        },
+        {
+            "name": "Sudha Madhulika Vecha",
+            "email": "sudhamadhulikavecha@gmail.com",
+            "password": "sudhamadhulikavecha",
+            "role": "s",
+            "isConfirmed": true
+        },
+        {
+            "name": "Mehul Patel",
+            "email": "mehulpatel@gmail.com",
+            "password": "mehulpatel",
+            "role": "s",
+            "isConfirmed": true
         }
     ],
     "instructor": {
@@ -158,7 +158,306 @@
         "email": "in28minutesofficial@gmail.com",
         "password": "in28minutesofficial",
         "role": "i",
-"isConfirmed": true,
-        "briefIntroduction": "<p>Ranga is an <strong>AWS Certified Solutions Architect Associate, AWS Certified Developer Associate and AWS Certified Cloud Practitioner.</strong></p><p>We are teaching <strong>30+&nbsp;Courses</strong> to <strong>450K&nbsp;Learners </strong>on <strong>DevOps</strong>, Cloud ( <strong>AWS</strong>, PCF, GCP,&nbsp;and Azure ), Full Stack (&nbsp; <strong>React</strong>, <strong>Angular</strong> ), <strong>Java</strong> Programming, and Java Frameworks ( Spring, <strong>Spring Boot</strong>, Spring MVC,&nbsp; Hibernate ). </p><p><strong>[LEARNING&nbsp;PATHS 00 to 06 </strong>for DevOps,&nbsp;Full Stack, Cloud,&nbsp; Spring Boot and Java in the<strong> FAQ&nbsp;</strong>below<strong>]</strong></p><p>We use Problem-Solution based Step-By-Step Hands-on Approach With Practical, Real-World Application Examples.</p><p>We have a wide range of courses focused on Spring Boot -&nbsp; Creating APIs and Microservices, Deploying to&nbsp;Cloud ( AWS, Azure, Docker, Kubernetes, Azure ), and Integrating with Full Stack Front end frameworks ( React &amp;&nbsp;Angular ).</p><p><br></p><p><strong>[LEARNING&nbsp;PATHS]</strong></p><p><br></p><p><strong>[LEARNING&nbsp;PATH 00] - DevOps&nbsp; </strong></p><p>Master DevOps with Docker, Kubernetes and Azure DevOps</p><p><br></p><p><strong>[LEARNING&nbsp;PATH 00] - DevOps&nbsp; </strong></p><p>Master DevOps with Docker, Kubernetes and Azure DevOps</p><p><br></p><p><strong>[LEARNING&nbsp;PATH 01] - Spring and Spring Boot Web Applications &amp; API Developer</strong></p><p>Spring Framework Master Class - Learn Spring the Modern Way!</p><p>Learn Spring Boot in 100 Steps - Beginner to Expert</p><p>Master Java Web Services and RESTful API with Spring Boot</p><p>Master Hibernate and JPA with Spring Boot in 100 Steps</p><p>Master Java Unit Testing with Spring Boot &amp; Mockito</p><p><br></p><p><strong>[LEARNING&nbsp;PATH 02] - Full Stack Developer with Spring Boot, React and Angular</strong></p><p>Go Java Full Stack with Spring Boot and React</p><p>Go Java Full Stack with Spring Boot and Angular</p><p><br></p><p><strong>[LEARNING&nbsp;PATH 03] - Cloud Microservices with Spring Boot, Docker &amp; Kubernetes</strong></p><p>Master Microservices with Spring Boot and Spring Cloud</p><p>Master Docker with Java - DevOps for Spring Microservices</p><p>Master Kubernetes with Docker on Google Cloud, AWS &amp; Azure</p><p><br></p><p><strong>[LEARNING&nbsp;PATH 04] - Cloud Developer with Spring Boot, AWS, Azure, and PCF</strong></p><p>Learn AWS - Deploy Java Spring Boot to AWS Elastic Beanstalk</p><p>Master Azure Web Apps - Take Java Spring Boot Apps to Azure</p><p>Master Pivotal Cloud Foundry with Spring Boot Microservices</p><p><br></p><p><strong>[LEARNING&nbsp;PATH 05] - Learn AWS with Microservices, Docker, and Kubernetes</strong></p><p>Learn AWS - Deploy Java Spring Boot to AWS Elastic Beanstalk</p><p>Master AWS Fargate &amp; ECS with Java Spring Boot Microservices</p><p>Master Kubernetes with Docker on Google Cloud, AWS &amp; Azure</p><p><br></p><p><strong>[LEARNING&nbsp;PATH 06] - GET&nbsp;AWS&nbsp;CERTIFIED</strong></p><p>AWS Certified Cloud Practitioner - Step By Step</p><p>AWS Certified Developer Associate&nbsp; - Step By Step</p><p>AWS Certified Solutions Architect Associate - Step By Step</p><p><br></p><p><strong>[OUR&nbsp;BELIEFS]</strong></p><p>Best Courses are interactive and fun.</p><p>Foundations for building high-quality applications are best laid down while learning.</p><p><br></p><p><strong>[OUR&nbsp;APPROACH]</strong></p><p>We use the 80-20 Rule. We discuss 20% of things used 80% of the time in depth. We touch upon other things briefly equipping you with enough knowledge to find out more on your own.</p><p>Problem Solution based Step by Step Hands-on Learning.</p><p><br></p>"
-    }
+        "briefIntroduction": "<p>Ranga is an <strong>AWS Certified Solutions Architect Associate, AWS Certified Developer Associate and AWS Certified Cloud Practitioner.</strong></p><p>We are teaching <strong>30+&nbsp;Courses</strong> to <strong>450K&nbsp;Learners </strong>on <strong>DevOps</strong>, Cloud ( <strong>AWS</strong>, PCF, GCP,&nbsp;and Azure ), Full Stack (&nbsp; <strong>React</strong>, <strong>Angular</strong> ), <strong>Java</strong> Programming, and Java Frameworks ( Spring, <strong>Spring Boot</strong>, Spring MVC,&nbsp; Hibernate ). </p><p><strong>[LEARNING&nbsp;PATHS 00 to 06 </strong>for DevOps,&nbsp;Full Stack, Cloud,&nbsp; Spring Boot and Java in the<strong> FAQ&nbsp;</strong>below<strong>]</strong></p><p>We use Problem-Solution based Step-By-Step Hands-on Approach With Practical, Real-World Application Examples.</p><p>We have a wide range of courses focused on Spring Boot -&nbsp; Creating APIs and Microservices, Deploying to&nbsp;Cloud ( AWS, Azure, Docker, Kubernetes, Azure ), and Integrating with Full Stack Front end frameworks ( React &amp;&nbsp;Angular ).</p><p><br></p><p><strong>[LEARNING&nbsp;PATHS]</strong></p><p><br></p><p><strong>[LEARNING&nbsp;PATH 00] - DevOps&nbsp; </strong></p><p>Master DevOps with Docker, Kubernetes and Azure DevOps</p><p><br></p><p><strong>[LEARNING&nbsp;PATH 00] - DevOps&nbsp; </strong></p><p>Master DevOps with Docker, Kubernetes and Azure DevOps</p><p><br></p><p><strong>[LEARNING&nbsp;PATH 01] - Spring and Spring Boot Web Applications &amp; API Developer</strong></p><p>Spring Framework Master Class - Learn Spring the Modern Way!</p><p>Learn Spring Boot in 100 Steps - Beginner to Expert</p><p>Master Java Web Services and RESTful API with Spring Boot</p><p>Master Hibernate and JPA with Spring Boot in 100 Steps</p><p>Master Java Unit Testing with Spring Boot &amp; Mockito</p><p><br></p><p><strong>[LEARNING&nbsp;PATH 02] - Full Stack Developer with Spring Boot, React and Angular</strong></p><p>Go Java Full Stack with Spring Boot and React</p><p>Go Java Full Stack with Spring Boot and Angular</p><p><br></p><p><strong>[LEARNING&nbsp;PATH 03] - Cloud Microservices with Spring Boot, Docker &amp; Kubernetes</strong></p><p>Master Microservices with Spring Boot and Spring Cloud</p><p>Master Docker with Java - DevOps for Spring Microservices</p><p>Master Kubernetes with Docker on Google Cloud, AWS &amp; Azure</p><p><br></p><p><strong>[LEARNING&nbsp;PATH 04] - Cloud Developer with Spring Boot, AWS, Azure, and PCF</strong></p><p>Learn AWS - Deploy Java Spring Boot to AWS Elastic Beanstalk</p><p>Master Azure Web Apps - Take Java Spring Boot Apps to Azure</p><p>Master Pivotal Cloud Foundry with Spring Boot Microservices</p><p><br></p><p><strong>[LEARNING&nbsp;PATH 05] - Learn AWS with Microservices, Docker, and Kubernetes</strong></p><p>Learn AWS - Deploy Java Spring Boot to AWS Elastic Beanstalk</p><p>Master AWS Fargate &amp; ECS with Java Spring Boot Microservices</p><p>Master Kubernetes with Docker on Google Cloud, AWS &amp; Azure</p><p><br></p><p><strong>[LEARNING&nbsp;PATH 06] - GET&nbsp;AWS&nbsp;CERTIFIED</strong></p><p>AWS Certified Cloud Practitioner - Step By Step</p><p>AWS Certified Developer Associate&nbsp; - Step By Step</p><p>AWS Certified Solutions Architect Associate - Step By Step</p><p><br></p><p><strong>[OUR&nbsp;BELIEFS]</strong></p><p>Best Courses are interactive and fun.</p><p>Foundations for building high-quality applications are best laid down while learning.</p><p><br></p><p><strong>[OUR&nbsp;APPROACH]</strong></p><p>We use the 80-20 Rule. We discuss 20% of things used 80% of the time in depth. We touch upon other things briefly equipping you with enough knowledge to find out more on your own.</p><p>Problem Solution based Step by Step Hands-on Learning.</p><p><br></p>",
+        "isConfirmed": true
+    },
+    "curriculum": [
+        {
+            "sectionName": "Introduction",
+            "unitNames": [
+                "Microservices and RESTful APIs with Spring Boot and Spring Cloud - Preview",
+                "Congratulations",
+                "Introduction to the Course & Course Guide",
+                "A surprise! New Course Updates"
+            ]
+        },
+        {
+            "sectionName": "Introduction To Web Services",
+            "unitNames": [
+                "What is a Web Service?",
+                "Important How Questions related to Web Services",
+                "Web Services - Key Terminology",
+                "Introduction to SOAP Web Services",
+                "Introduction to RESTful Web Services",
+                "SOAP vs RESTful Web Services"
+            ]
+        },
+        {
+            "sectionName": "Restful Web Services with Spring Boot",
+            "unitNames": [
+                "Section Introduction - RESTful Web Services with Spring Boot",
+                "Step 01 - Initializing a RESTful Services Project with Spring Boot",
+                "Fastest Approach to Solve All Your Exceptions",
+                "Step 02 - Understanding the RESTful Services we would create in this course",
+                "Step 03 - Creating a Hello World Service",
+                "Step 04 - Enhancing the Hello World Service to return a Bean",
+                "Step 05 - Quick Review of Spring Boot Auto Configuration and Dispatcher Servlet",
+                "Step 06 - Enhancing the Hello World Service with a Path Variable",
+                "Step 07 - Creating User Bean and User Service",
+                "Step 08 - Implementing GET Methods for User Resource",
+                "Step 09 - Implementing POST Method to create User Resource",
+                "CODE BACKUP FILE : For Reference",
+                "Step 10 - Enhancing POST Method to return correct HTTP Status Code and Location",
+                "Step 11 - Implementing Exception Handling - 404 Resource Not Found",
+                "Step 12 - Implementing Generic Exception Handling for all Resources",
+                "Step 13 - Exercise : User Post Resource and Exception Handling",
+                "Step 14 - Implementing DELETE Method to delete a User Resource",
+                "COURSE UPDATE : Add dependency spring-boot-starter-validation",
+                "Step 15 - Implementing Validations for RESTful Services",
+                "COURSE UPDATE : HATEOAS Updates",
+                "Step 16 - Implementing HATEOAS for RESTful Services",
+                "Step 17 - Overview of Advanced RESTful Service Features",
+                "Step 18 - Internationalization for RESTful Services",
+                "Step 18 Part 2 - Internationalization for RESTful Services",
+                "Step 19 - Content Negotiation - Implementing Support for XML",
+                "COURSE UPDATE : Disable XML Format Support",
+                "COURSE UPDATE : USE SWAGGER 3.0.0 for Spring Boot 2.2+",
+                "Step 20 - Configuring Auto Generation of Swagger Documentation",
+                "Step 21 - Introduction to Swagger Documentation Format",
+                "Step 22 - Enhancing Swagger Documentation with Custom Annotations",
+                "COURSE UPDATE : Use spring-data-rest-hal-explorer",
+                "Step 23 - Monitoring APIs with Spring Boot Actuator",
+                "Step 24 - Implementing Static Filtering for RESTful Service",
+                "Step 25 - Implementing Dynamic Filtering for RESTful Service",
+                "Step 26 - Versioning RESTful Services - Basic Approach with URIs",
+                "Step 27 - Versioning RESTful Services - Header and Content Negotiation Approach",
+                "Step 28 - Implementing Basic Authentication with Spring Security",
+                "Step 29 - Overview of Connecting RESTful Service to JPA",
+                "COURSE UPDATE : H2 Database URL",
+                "Step 30 - Creating User Entity and some test data",
+                "Step 31 - Updating GET methods on User Resource to use JPA",
+                "Step 32 - Updating POST and DELETE methods on User Resource to use JPA",
+                "Step 33 - Creating Post Entity and Many to One Relationship with User Entity",
+                "Step 34 - Implementing a GET service to retrieve all Posts of a User",
+                "Step 35 - Implementing a POST service to create a Post for a User",
+                "Step 36 - Richardson Maturity Model",
+                "Step 37 - RESTful Web Services - Best Practices"
+            ]
+        },
+        {
+            "sectionName": "Quick Introduction to Microservices",
+            "unitNames": [
+                "Section Introduction - Microservices with Spring Cloud",
+                "Step 00 - 01 - Introduction to Microservices",
+                "Step 00 - 02 - Challenges with Microservices",
+                "Step 00 - 03 - Introduction to Spring Cloud",
+                "Step 00 - 04 - Advantages of Microservices Architectures",
+                "Step 00 - 05 - Microservice Components - Standardizing Ports and URL"
+            ]
+        },
+        {
+            "sectionName": "Microservices with Spring Cloud - V1",
+            "unitNames": [
+                "Next Section uses Latest Version of Spring Boot",
+                "Step 01 - Part 1 - Intro to Limits Microservice and Spring Cloud Config Server",
+                "IMPORTANT : SPRING BOOT AND SPRING CLOUD VERSIONS",
+                "Step 01 - Part 2 - Setting up Limits Microservice",
+                "Step 02 - Creating a hard coded limits service",
+                "Step 03 -Enhance limits service to get configuration from application properties",
+                "Step 04 - Setting up Spring Cloud Config Server",
+                "Step 05 - Installing Git",
+                "Step 06 - Creating Local Git Repository",
+                "Step 07 - Connect Spring Cloud Config Server to Local Git Repository",
+                "Step 08 - Configuration for Multiple Environments in Git Repository",
+                "COURSE UPDATE : Limits service with >=2.4.0 of SPRING BOOT",
+                "Step 09 - Connect Limits Service to Spring Cloud Config Server",
+                "Debugging problems with Spring Cloud Config Server",
+                "Step 10 - Configuring Profiles for Limits Service",
+                "Step 11 - A review of Spring Cloud Config Server",
+                "Step 12 - Introduction to Currency Conversion and Currency Exchange Microservice",
+                "IMPORTANT : SPRING BOOT AND SPRING CLOUD VERSIONS",
+                "Step 13 - Setting up Currency Exchange Microservice",
+                "Step 14 - Create a simple hard coded currency exchange service",
+                "Step 15 - Setting up Dynamic Port in the the Response",
+                "Step 16 - Configure JPA and Initialized Data",
+                "Step 17 - Create a JPA Repository",
+                "Step 18 - Setting up Currency Conversion Microservice",
+                "Step 19 - Creating a service for currency conversion",
+                "Step 20 - Invoking Currency Exchange Microservice from Currency Conversion Micro",
+                "Step 21 - Using Feign REST Client for Service Invocation",
+                "Step 22 - Setting up client side load balancing with Ribbon",
+                "COURSE UPDATE : Ribbon DOES NOT work with Spring Boot 2.4",
+                "Step 23 - Running client side load balancing with Ribbon",
+                "Debugging problems with Feign and Ribbon",
+                "Step 24 - Understand the need for a Naming Server",
+                "Step 25 - Setting up Eureka Naming Server",
+                "Step 26 - Connecting Currency Conversion Microservice to Eureka",
+                "Step 27 - Connecting Currency Exchange Microservice to Eureka",
+                "COURSE UPDATE : Exclude dependency on jackson-dataformat-xml",
+                "Step 28 - Distributing calls using Eureka and Ribbon",
+                "Debugging Problems with Naming Server ( Eureka ) and Ribbon",
+                "Step 29 - A review of implementing Eureka, Ribbon and Feign",
+                "Step 30 - Introduction to API Gateways",
+                "Step 31 - Setting up Zuul API Gateway",
+                "Step 32 - Implementing Zuul Logging Filter",
+                "Step 33 - Executing a request through Zuul API Gateway",
+                "Step 34 - Setting up Zuul API Gateway between microservice invocations",
+                "Debugging Problems with Zuul API Gateway",
+                "Step 35 - Introduction to Distributed Tracing",
+                "Step 36 - Implementing Spring Cloud Sleuth",
+                "Step 37 - Introduction to Distributed Tracing with Zipkin",
+                "Step 38 - Installing Rabbit MQ",
+                "Updates to Step 39 - Running Zipkin on Windows",
+                "Step 39 - Setting up Distributed Tracing with Zipkin",
+                "Step 40 - Connecting microservices to Zipkin",
+                "Updates to Step 40 : Use spring-cloud-starter-zipkin and spring-rabbit",
+                "Step 41 - Using Zipkin UI Dashboard to trace requests",
+                "Debugging Problems with Zipkin",
+                "Step 42 - Understanding the need for Spring Cloud Bus",
+                "Step 43 - Implementing Spring Cloud Bus",
+                "Step 44 - Fault Tolerance with Hystrix"
+            ]
+        },
+        {
+            "sectionName": "Microservices with Spring Cloud - V2",
+            "unitNames": [
+                "What's NEW in V2?",
+                "Have you already completed V1?",
+                "Course Downloads",
+                "Step 01 - Setting up Limits Microservice - V2",
+                "Step 02 - Creating a hard coded limits service - V2",
+                "Step 03 - Enhance limits service - Get configuration from application props - V2",
+                "Step 04 - Setting up Spring Cloud Config Server - V2",
+                "Step 05 - Installing Git and Creating Local Git Repository - V2",
+                "Debugging problems with Spring Cloud Config Server - V2",
+                "Step 06 - Connect Spring Cloud Config Server to Local Git Repository - V2",
+                "Step 07 - Connect Limits Service to Spring Cloud Config Server - V2",
+                "CODE BACKUP FILES and STEP BY STEP CHANGES : For Reference",
+                "Step 08 - Configuring Profiles for Limits Service - V2",
+                "Step 09 - Introduction to Currency Conversion & Exchange Microservices  - V2",
+                "Step 10 - Setting up Currency Exchange Microservice - V2",
+                "URL and Response Structure for Currency Exchange Service",
+                "Step 11 - Create a simple hard coded currency exchange service - V2",
+                "Step 12 - Setting up Dynamic Port in the the Response - V2",
+                "Step 13 - Configure JPA and Initialized Data - V2",
+                "CODE BACKUP FILES and STEP BY STEP CHANGES : For Reference",
+                "Step 14 - Create a JPA Repository - V2",
+                "Step 15 - Setting up Currency Conversion Microservice - V2",
+                "URL and Response Structure for Currency Conversion Service",
+                "Step 16 - Creating a service for currency conversion - V2",
+                "Step 17 - Invoking Currency Exchange from Currency Conversion Microservice - V2",
+                "Step 18 - Using Feign REST Client for Service Invocation - V2",
+                "Step 19 - Understand Naming Server and Setting up Eureka Naming Server - V2",
+                "Debugging Problems with Eureka - V2",
+                "Step 20 - Connect Currency Conversion & Currency Exchange Microservices - V2",
+                "Step 21 - QuickStart by Importing Microservices",
+                "Step 22 - Load Balancing with Eureka, Feign & Spring Cloud LoadBalancer - V2",
+                "Step 22 - Setting up Spring Cloud API Gateway",
+                "URLs for next Lecture",
+                "Step 23 - Enabling Discovery Locator with Eureka for Spring Cloud Gateway",
+                "Debugging Problems with Spring Cloud Gateway - V2",
+                "Step 24 - Exploring Routes with Spring Cloud Gateway",
+                "Step 25 - Implementing Spring Cloud Gateway Logging Filter",
+                "Step 26 - Getting started with Circuit Breaker - Resilience4j",
+                "Step 27 - Playing with Resilience4j - Retry and Fallback Methods",
+                "Step 28 - Playing with Circuit Breaker Features of Resilience4j",
+                "Step 29 - Exploring Rate Limiting and BulkHead Features of Resilience4j - V2"
+            ]
+        },
+        {
+            "sectionName": "Docker with Microservices using Spring Boot and Spring Cloud - V2",
+            "unitNames": [
+                "Step 00 - Match made in Heaven - Docker and Microservices",
+                "Step 01 - Installing Docker - Docker",
+                "RECOMMENDATION : Use PowerShell in Windows!",
+                "Step 02 - Your First Docker Usecase - Deploy a Spring Boot Application",
+                "Step 03 - Docker Concepts - Registry, Repository, Tag, Image and Containers",
+                "Step 04 - Playing with Docker Images and Containers",
+                "Step 05 - Understanding Docker Architecture - Docker Client, Docker Engine",
+                "Step 06 - Why is Docker Popular",
+                "Step 07 - Playing with Docker Images",
+                "Step 08 - Playing with Docker Containers",
+                "Step 09 - Playing with Docker Commands - stats, system",
+                "Step 10 - Introduction to Distributed Tracing",
+                "Step 11 - Launching Zipkin Container using Docker",
+                "Step 12 - Connecting Currency Exchange Microservice with Zipkin",
+                "Step 13 - Connecting Currency Conversion Microservice & API Gateway with Zipkin",
+                "Link for the Next Lecture",
+                "Step 14 - Getting Setup with Microservices for Creating Container Images",
+                "Step 15 - Creating Container Image for Currency Exchange Microservice",
+                "Step 16 - Getting Started with Docker Compose - Currency Exchange Microservice",
+                "Step 17 - Running Eureka Naming Server with Docker Compose",
+                "Step 18 - Running Currency Conversion Microservice with Docker Compose",
+                "Step 19 - Running Spring Cloud API Gateway with Docker Compose",
+                "Step 20 - Running Zipkin with Docker Compose",
+                "Step 21 - Running Zipkin and RabbitMQ with Docker Compose"
+            ]
+        },
+        {
+            "sectionName": "Kubernetes with Microservices using Docker, Spring Boot and Spring Cloud - V2",
+            "unitNames": [
+                "Step 00 - Docker, Kubernetes and Microservices - Made for each other",
+                "Step 01 - Getting Started with Docker, Kubernetes and Google Kubernetes Engine",
+                "Step 02 - Creating Google Cloud Account",
+                "Step 03 - Creating Kubernetes Cluster with Google Kubernete Engine (GKE)",
+                "Step 04 - Review Kubernetes Cluster and Learn Few Fun Facts about Kubernetes",
+                "Step 05 - Deploy Your First Spring Boot Application to Kubernetes Cluster",
+                "Commands executed in this section",
+                "Step 06 - Quick Look at Kubernetes Concepts - Pods, Replica Sets and Deployment",
+                "Step 07 - Understanding Pods in Kubernetes",
+                "Step 08 - Understanding ReplicaSets in Kubernetes",
+                "Step 09 - Understanding Deployment in Kubernetes",
+                "Step 10 - Quick Review of Kubernetes Concepts - Pods, Replica Sets & Deployments",
+                "Step 11 - Understanding Services in Kubernetes",
+                "Step 12 - Quick Review of GKE on Google Cloud Console",
+                "Step 13 - Understanding Kubernetes Architecture - Master Node and Nodes",
+                "Link for the Next Lecture",
+                "Step 14 - Setup Currency Exchange & Conversion Microservices - Kubernetes",
+                "Step 15 - Container images for Exchange & Currency Conversion Microservices",
+                "Step 16 - Deploy Microservices to Kubernetes & Understand Service Discovery",
+                "Step 17 - Creating Declarative Configuration Kubernetes YAML for Microservices",
+                "Step 18 - Clean up Kubernetes YAML for Microservices",
+                "Step 19 - Enable Logging and Tracing APIs in Google Cloud Platform",
+                "Step 20 - Deploying Microservices using Kubernetes YAML Configuration",
+                "Step 21 - Playing with Kubernetes Declarative YAML Configuration",
+                "Step 22 - Creating Environment Variables to enable Microservice Communication",
+                "Step 23 - Understanding Centralized Configuration in Kubernetes - Config Maps",
+                "Step 24 - Exploring Centralized Logging and Monitoring in GKE",
+                "Step 25 - Exploring Microservices Deployments with Kubernetes",
+                "Step 26 - Configuring Liveness and Readiness Probes for Microservices with K8S",
+                "Step 27 - Autoscaling Microservices with Kubernetes",
+                "Step 28 - Delete Kubernetes Cluster and Thank You!"
+            ]
+        },
+        {
+            "sectionName": "Thanks",
+            "unitNames": [
+                "Bonus Lecture",
+                "Thank You"
+            ]
+        },
+        {
+            "sectionName": "Appendix - Introduction to Spring Boot in 10 Steps",
+            "unitNames": [
+                "0005 - Section Introduction 04 - Introduction to Spring Boot in 10 Steps",
+                "Step 1 : Introduction to Spring Boot - Goals and Important Features",
+                "Step 2 : Developing Spring Applications before Spring Boot",
+                "Step 3 : Using Spring Initializr to create a project",
+                "Step 4 : Creating a Simple REST Controller",
+                "Step 5 : What is Spring Boot Auto Configuration?",
+                "Step 6 : Spring Boot vs Spring vs Spring MVC",
+                "Step 7 : Spring Boot Starter Projects - Starter Web and Starter JPA",
+                "Step 8 : Overview of different Spring Boot Starter Projects",
+                "Step 9 : Spring Boot Actuator",
+                "Step 10 : Spring Boot Developer Tools"
+            ]
+        },
+        {
+            "sectionName": "Appendix - Introduction to JPA in 10 Steps",
+            "unitNames": [
+                "Section Introduction - Introduction to JPA in 10 Steps",
+                "Step 1 : Object Relational Impedence Mismatch",
+                "Step 2 : World before JPA - JDBC, Spring JDBC and myBatis",
+                "Step 3 : Introduction to JPA",
+                "Step 4 : Creating a JPA Project using Spring Initializr",
+                "COURSE UPDATE : H2 Database URL",
+                "Step 5 : Defining a JPA Entity - User",
+                "Step 6 : Defining a Service to manage the Entity - UserService and EntityManager",
+                "Step 7 : Using a Command Line Runner to save the User to database.",
+                "Step 8 : Magic of Spring Boot and In Memory Database H2",
+                "Step 9 : Introduction to Spring Data JPA",
+                "Step 10 : More JPA Repository : findById and findAll"
+            ]
+        }
+    ]
 }
