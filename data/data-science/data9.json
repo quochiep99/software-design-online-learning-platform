@@ -6,7 +6,7 @@
     "course": {
         "title": "Python A-Z™: Python For Data Science With Real Exercises!",
         "subtitle": "Programming In Python For Data Analytics And Data Science. Learn Statistical Analysis, Data Mining And Visualization",
-        "descriptions":  "",
+        "descriptions": [],
         "reviews": [],
         "students": [],
         "image1xURL": "https://img-a.udemycdn.com/course/240x135/913448_e6e2.jpg",
@@ -15,142 +15,142 @@
         "discountPrice": 11.99,
         "originalPrice": 129.99,
         "numViews": 0,
-        "curriculum": {}
+        "curriculum": []
     },
     "reviews": [
+        {
+            "body": "Excellent course for someone to learn Python from scratch! The last exercise was very good but lacked explanation in the homework solution tutorials. Nonetheless, I highly recommend this course for someone who wants to enter into the field of data analysis.",
+            "rating": 5
+        },
+        {
+            "body": "its a wonderful course I have enrolled for this course when recommended by an unknown person blindly and at end its awesome and looking forward to complete the datascience A-Z by kiril sir and I think Kiril is the best at datascience and ML",
+            "rating": 5
+        },
+        {
+            "body": "This is a great intro class to understand the key functions of Python. The hands-on exercises help me better practice this language.",
+            "rating": 4
+        },
+        {
+            "body": "Great course with a very passionate lecturer, Thank you Kirill. The only thing that the author needs to polish up to make the course even better is on the explanation of some of the homework solutions by the tutors.",
+            "rating": 5
+        },
         {
             "body": "The overall course experience was good but in the bonus lecture, the audio isn't quite good enough. I think it's not your voice krill. Please update it.\n\nThank you",
             "rating": 4.5
         },
         {
-            "body": "Its an awesome start to data science in my opinion. However, I would add that for people without prior python and statistics knowledge, it would be advisable to take some basic courses in them before starting out on this one.\n\nKudos Kirill!",
+            "body": "I am new to Python. This course is exactly what I needed! The basics applied to real life situations. Kirill is amazing! He is a master in sharing his knowledge. This is the third Kirill course that I followed and I must say that the journey is delightful. Cannot wait to start the R course!",
             "rating": 5
         },
         {
-            "body": "The best python data science course on udemy...all basics, advanced topics and practical data set exercises are covered in this course.",
+            "body": "This course is good......but the homework sums are not clear",
+            "rating": 3
+        },
+        {
+            "body": "I really enjoyed the course and learned a lot about data analysis. The topics were simply prepared in small sections and it was possible to program everything on the side and gain experience.",
             "rating": 5
         },
         {
-            "body": "Doing a masters in college. This guy helps so much!!! Very easy intuitive approach! Second time time doing this class. Everything is just clicking now!!!",
+            "body": "This course will get you what needed to start with Python programming to play with data & visualizations for data science. The good thing is this course builds some basic on Python programming before starting with DataFrame concepts which really helps. After this course I jumped on to python document site (https://docs.python.org/3/tutorial/) to check my knowledge, was surprised to see most of topics were covered by this course, I was comfortable extending my knowledge to know more about functions/packages. Loved this course, hope you would too.",
             "rating": 5
         },
         {
-            "body": "This is just beginning of learning programming,easy to understand.\n\nI appreciate the effort taken by the Instructor and team to make us understand this course wonderfully! I'm happy!!",
-            "rating": 4.5
+            "body": "All the courses from Kirill Eremenko and the SuperDataScience team are excellent and this one is no exception. Highly recommended if you are interested in learning more about the topic.",
+            "rating": 5
         },
         {
-            "body": "Interesting and useful. Solution should be placed just after the challenges just to make the course more streamlined. All in all I'm very happy with the course.",
+            "body": "The end-of-section assignments are videos where the narrator is impossible to understand and is obviously recording these sessions on the fly with NO practice. The rest of the tutorial will give you the code/information needed to learn, but again, the narrator has maybe rehearsed this once and seems to narrate on the fly. If that narrator simply created a script to read off of, this would have been so much better. But it comes off like a high-school book report.",
+            "rating": 2
+        },
+        {
+            "body": "The tutorials by Kiril Elemenco were thorough with useful tips and explanatory clarifications. Section 6 was particularly interesting with useful material for data analysis and eye-catching presentations. However, I expected that the homework challenges for each section should be more relevant to the tutorials of the section. The homework solutions video did not provide sufficient explanations on the method which was selected. The method per se was not always relevant to the tutorials of the section, rather based on the trainer's knowledge and expertise. As a result, it was not made clear for the attendees why they should choose the proposed methodology.\n\nOverall it was definitely a beneficial course and the trainer, Kiril, provided detailed and complete explanation of every line of code.",
             "rating": 4
-        },
-        {
-            "body": "Great course. One suggestion would be to remove the 'With Real Exercises' from the certificate name, so that it can be displayed comfortably.",
-            "rating": 5
-        },
-        {
-            "body": "I'm new to coding so course was cool and challenging. Observed that some aspect of solutions to homework weren't discussed in tutorial.\n\nIt can be better as everything in life.\n\nPls advice on certification.\n\nRegards.",
-            "rating": 5
-        },
-        {
-            "body": "I enjoyed the way Kirill introduced various concepts one after the other! It helped me learn the language step by step and practice the exercises along the way. I had no prior knowledge about Python when I started this course and I am confident that I can code better in Python now! I took both R and Python. I enjoyed both courses. It is better to take both courses together so that we can compare and contrast both languages.\n\nThank you, Kirill. Great work.",
-            "rating": 5
-        },
-        {
-            "body": "This was a really good course to start Python. I like Kiril enthusiasm and activity throughout the course to keep learning active. I only not liked the lengthiness in Section 6: Advanced Visualization. I wish to cut down it to 1-1.30hrs. Though visualization looks good to the eyes, too much makes boring. Section 7 can also cut by 30min. I would like love to devote those 2hrs to scikit-learn or something else. Overall good course for beginers.",
-            "rating": 4.5
-        },
-        {
-            "body": "course was okay, came to know about amazing plots for data visualizations, should include a section on object-oriented programming concepts",
-            "rating": 4
-        },
-        {
-            "body": "Engaging narrative and explanations, nicely packaged exercises, some new visualizations that I didn't know about. I had a lot of fun doing this course!",
-            "rating": 4.5
         }
     ],
     "students": [
+        {
+            "name": "Yash Ahuja",
+            "email": "yashahuja@gmail.com",
+            "password": "yashahuja",
+            "role": "s",
+            "isConfirmed": true
+        },
+        {
+            "name": "Gangishetty Ranadeep",
+            "email": "gangishettyranadeep@gmail.com",
+            "password": "gangishettyranadeep",
+            "role": "s",
+            "isConfirmed": true
+        },
+        {
+            "name": "Sisie Nong",
+            "email": "sisienong@gmail.com",
+            "password": "sisienong",
+            "role": "s",
+            "isConfirmed": true
+        },
+        {
+            "name": "Alfred Sevidzem Yenwong Fai",
+            "email": "alfredsevidzemyenwongfai@gmail.com",
+            "password": "alfredsevidzemyenwongfai",
+            "role": "s",
+            "isConfirmed": true
+        },
         {
             "name": "Revanth Pokuri",
             "email": "revanthpokuri@gmail.com",
             "password": "revanthpokuri",
             "role": "s",
-"isConfirmed": true
+            "isConfirmed": true
         },
         {
-            "name": "Abdulbasit Abdulsalam",
-            "email": "abdulbasitabdulsalam@gmail.com",
-            "password": "abdulbasitabdulsalam",
+            "name": "ROBERT GAUTHIER",
+            "email": "robertgauthier@gmail.com",
+            "password": "robertgauthier",
             "role": "s",
-"isConfirmed": true
+            "isConfirmed": true
         },
         {
-            "name": "Roshinder Virdee",
-            "email": "roshindervirdee@gmail.com",
-            "password": "roshindervirdee",
+            "name": "N.Nageswari",
+            "email": "n.nageswari@gmail.com",
+            "password": "n.nageswari",
             "role": "s",
-"isConfirmed": true
+            "isConfirmed": true
         },
         {
-            "name": "Jose Canales",
-            "email": "josecanales@gmail.com",
-            "password": "josecanales",
+            "name": "Alexander Hiesinger",
+            "email": "alexanderhiesinger@gmail.com",
+            "password": "alexanderhiesinger",
             "role": "s",
-"isConfirmed": true
+            "isConfirmed": true
         },
         {
-            "name": "Rashmi Puranik",
-            "email": "rashmipuranik@gmail.com",
-            "password": "rashmipuranik",
+            "name": "Niraj Kumar",
+            "email": "nirajkumar@gmail.com",
+            "password": "nirajkumar",
             "role": "s",
-"isConfirmed": true
+            "isConfirmed": true
         },
         {
-            "name": "Jan Hovden Eide",
-            "email": "janhovdeneide@gmail.com",
-            "password": "janhovdeneide",
+            "name": "Darren Ferguson",
+            "email": "darrenferguson@gmail.com",
+            "password": "darrenferguson",
             "role": "s",
-"isConfirmed": true
+            "isConfirmed": true
         },
         {
-            "name": "Tanya Grimes",
-            "email": "tanyagrimes@gmail.com",
-            "password": "tanyagrimes",
+            "name": "Brent Henchen",
+            "email": "brenthenchen@gmail.com",
+            "password": "brenthenchen",
             "role": "s",
-"isConfirmed": true
+            "isConfirmed": true
         },
         {
-            "name": "Godswill Oputah",
-            "email": "godswilloputah@gmail.com",
-            "password": "godswilloputah",
+            "name": "Ioanna-Maria Gerostathi",
+            "email": "ioanna-mariagerostathi@gmail.com",
+            "password": "ioanna-mariagerostathi",
             "role": "s",
-"isConfirmed": true
-        },
-        {
-            "name": "Velusamy Marimuthan",
-            "email": "velusamymarimuthan@gmail.com",
-            "password": "velusamymarimuthan",
-            "role": "s",
-"isConfirmed": true
-        },
-        {
-            "name": "Jaidip Jagtap",
-            "email": "jaidipjagtap@gmail.com",
-            "password": "jaidipjagtap",
-            "role": "s",
-"isConfirmed": true
-        },
-        {
-            "name": "Swati Upadhyay",
-            "email": "swatiupadhyay@gmail.com",
-            "password": "swatiupadhyay",
-            "role": "s",
-"isConfirmed": true
-        },
-        {
-            "name": "Soham Adla",
-            "email": "sohamadla@gmail.com",
-            "password": "sohamadla",
-            "role": "s",
-"isConfirmed": true
+            "isConfirmed": true
         }
     ],
     "instructor": {
@@ -158,7 +158,129 @@
         "email": "kirilleremenko@gmail.com",
         "password": "kirilleremenko",
         "role": "i",
-"isConfirmed": true,
-        "briefIntroduction": "<p>My name is Kirill Eremenko and I am super-psyched that you are reading this!</p><p>Professionally, I am a Data Science management consultant with over five years of experience in finance, retail, transport and other industries. I was trained by the best analytics mentors at Deloitte Australia and today I leverage Big Data to drive business strategy, revamp customer experience and revolutionize existing operational processes.</p><p>From my courses you will straight away notice how I combine my real-life experience and academic background in Physics and Mathematics to deliver professional step-by-step coaching in the space of Data Science. I am also passionate about public speaking, and regularly present on Big Data at leading Australian universities and industry events.</p><p>To sum up, I am absolutely and utterly passionate about Data Science and I am looking forward to sharing my passion and knowledge with you!</p>"
-    }
+        "briefIntroduction": "<p>My name is Kirill Eremenko and I am super-psyched that you are reading this!</p><p>Professionally, I am a Data Science management consultant with over five years of experience in finance, retail, transport and other industries. I was trained by the best analytics mentors at Deloitte Australia and today I leverage Big Data to drive business strategy, revamp customer experience and revolutionize existing operational processes.</p><p>From my courses you will straight away notice how I combine my real-life experience and academic background in Physics and Mathematics to deliver professional step-by-step coaching in the space of Data Science. I am also passionate about public speaking, and regularly present on Big Data at leading Australian universities and industry events.</p><p>To sum up, I am absolutely and utterly passionate about Data Science and I am looking forward to sharing my passion and knowledge with you!</p>",
+        "isConfirmed": true
+    },
+    "curriculum": [
+        {
+            "sectionName": "Welcome To The Course",
+            "unitNames": [
+                "Installing Python (Windows & MAC)",
+                "BONUS: Learning Paths",
+                "Get the materials",
+                "Some Additional Resources!!",
+                "FAQBot!",
+                "Your Shortcut To Becoming A Better Data Scientist!"
+            ]
+        },
+        {
+            "sectionName": "Core Programming Principles",
+            "unitNames": [
+                "Updates on Udemy Reviews",
+                "Types of variables",
+                "Using Variables",
+                "Boolean Variables and Operators",
+                "The \"While\" Loop",
+                "The \"For\" Loop",
+                "The \"If\" statement",
+                "Code indentation in Python",
+                "Section recap",
+                "HOMEWORK: Law of Large Numbers",
+                "Core Programming Principles"
+            ]
+        },
+        {
+            "sectionName": "Fundamentals Of Python",
+            "unitNames": [
+                "What is a List?",
+                "Let's create some lists",
+                "Using the [] brackets",
+                "Slicing",
+                "Tuples in Python",
+                "Functions in Python",
+                "Packages in Python",
+                "Numpy and Arrays in Python",
+                "Slicing Arrays",
+                "Section Recap",
+                "HOMEWORK: Financial Statement Analysis",
+                "Fundamentals of Python"
+            ]
+        },
+        {
+            "sectionName": "Matrices",
+            "unitNames": [
+                "Project Brief: Basketball Trends",
+                "Matrices",
+                "Building Your First Matrix",
+                "Dictionaries in Python",
+                "Matrix Operations",
+                "Your first visualization",
+                "Expanded Visualization",
+                "Creating Your First Function",
+                "Advanced Function Design",
+                "Basketball Insights",
+                "Section Recap",
+                "HOMEWORK: Basketball free throws",
+                "Matrices"
+            ]
+        },
+        {
+            "sectionName": "Data Frames",
+            "unitNames": [
+                "Importing data into Python",
+                "Exploring your dataset",
+                "Renaming Columns of a Dataframe",
+                "Subsetting dataframes in Pandas",
+                "Basic operations with a Data Frame",
+                "Filtering a Data Frame",
+                "Using .at() and .iat() (advanced tutorial)",
+                "Introduction to Seaborn",
+                "Visualizing With Seaborn: Part 1",
+                "Keyword Arguments in Python (advanced tutorial)",
+                "Section Recap",
+                "HOMEWORK: World Trends",
+                "Data Frames"
+            ]
+        },
+        {
+            "sectionName": "Advanced Visualization",
+            "unitNames": [
+                "What is a Category data type?",
+                "Working with JointPlots",
+                "Histograms",
+                "Stacked histograms in Python",
+                "Creating a KDE Plot",
+                "Working with Subplots()",
+                "Violinplots vs Boxplots",
+                "Creating a Facet Grid",
+                "Coordinates and Diagonals",
+                "BONUS: Building Dashboards in Python",
+                "BONUS: Styling Tips",
+                "BONUS: Finishing Touches",
+                "Section Recap",
+                "HOMEWORK: Movie Domestic % Gross",
+                "Advanced Visualization"
+            ]
+        },
+        {
+            "sectionName": "Homework Solutions",
+            "unitNames": [
+                "Homework Solution Section 2: Law Of Large Numbers",
+                "Homework Solution Section 3: Financial Statement Analysis (Part 1)",
+                "Homework Solution Section 3: Financial Statement Analysis (Part 2)",
+                "Homework Solution Section 4: Basketball Free Throws",
+                "Homework Solution Section 5: World Trends (Part 1)",
+                "Homework Solution Section 5: World Trends (Part 2)",
+                "Homework Solution Section 6: Movie Domestic % Gross (Part 1)",
+                "Homework Solution Section 6: Movie Domestic % Gross (Part 2)",
+                "THANK YOU bonus video"
+            ]
+        },
+        {
+            "sectionName": "Bonus Lectures",
+            "unitNames": [
+                "***YOUR SPECIAL BONUS***"
+            ]
+        }
+    ]
 }

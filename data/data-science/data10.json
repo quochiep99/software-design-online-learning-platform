@@ -6,93 +6,93 @@
     "course": {
         "title": "Artificial Intelligence A-Z™: Learn How To Build An AI",
         "subtitle": "Combine the power of Data Science, Machine Learning and Deep Learning to create powerful AI for Real-World applications!",
-        "descriptions": "",
+        "descriptions": [],
         "reviews": [],
         "students": [],
-        "image1xURL": "https://img-b.udemycdn.com/course/240x135/1219332_bdd7.jpg",
-        "image2xURL": "https://img-b.udemycdn.com/course/480x270/1219332_bdd7.jpg",
-        "image3xURL": "https://img-b.udemycdn.com/course/750x422/1219332_bdd7.jpg",
+        "image1xURL": "https://img-a.udemycdn.com/course/240x135/1219332_bdd7.jpg",
+        "image2xURL": "https://img-a.udemycdn.com/course/480x270/1219332_bdd7.jpg",
+        "image3xURL": "https://img-a.udemycdn.com/course/750x422/1219332_bdd7.jpg",
         "discountPrice": 11.99,
         "originalPrice": 129.99,
         "numViews": 0,
-        "curriculum": {}
+        "curriculum": []
     },
     "reviews": [
         {
-            "body": "The course is amazing!!! It has content that is amazing and great. I am really new in Artificial Intelligence and yet through the course I was able to grasp as much as I could. I am very excited to be on this adventure in the space of AI, things are very interesting. I look forward to learn many other interesting AIs. Great course, thank you . Keep it up.",
+            "body": "In spite there is some problems with using some of the packages of this course (like gym) and the A3C:s codes are little bit broken (I could not run the main.py file without errors even with the original shared files) which might be a problem of python version (I used python 3.6). Otherwise it was a great course which teaches a lot of new things about AI.",
             "rating": 5
         },
         {
-            "body": "This gave me some knowledge in artificial intelligence and helped me to know some concepts in it .. :-)",
-            "rating": 4.5
-        },
-        {
-            "body": "A great overview and examples of what AI can be used for - and what it can do. A lot of external references are given to expand your learning opportunities.",
+            "body": "The amount of research papers mentioned and examples of AI working is amazing! Other courses go into the theory only, no examples that what they're teaching can be carried out. I also liked that it wasn't just one person teaching the course; you'd hear Kirill for a while and then Hadelin. Five stars for an exceptional course!",
             "rating": 5
         },
         {
-            "body": "WELL, TOO LITTLE INFORMATION\n\nLESSONS PLACED IN WRONG ORDER\n\nTHE DEEP LEARNING CHAPTER SHOULD HAVE COME BEFORE THE PRACTICES",
-            "rating": 1.5
+            "body": "Not a full five due to non notice of need for Ubuntu or VM with Ubuntu. Hope you find this a constructive criticism, good explanation of AI concepts, but a bit too repetitive, and could use a more thorough explanation of the pytorch tool",
+            "rating": 4
+        },
+        {
+            "body": "Doom project is built on the game of gym that is no longer maintained. The project should have been updated with latest example that can be setup. Also the explanation in some parts are not very clear. Somone need to research on many supporting materials. Like n-step Deep Q learning is not very clear. How the algorithm is implemeneted in the code. I guess more visualization should have been a better approach instead of only code walkthrough",
+            "rating": 3
         },
         {
             "body": "This is a good course. The theory part is especially very good and the tutor exactly knows what he is doing. The first AI, to build the self-driving car, was quite a difficult one to start with, considering no experience in the field. But eventually, you'll get along. The second one, Doom, was absolutely awesome and that is the one I enjoyed the most. That feeling when I saw my AI beat Doom is unexplainable :D. The third one, Breakout, is way too difficult, even the tutor mentioned that it is a bonus.\n\nOne feedback I'd like to give is that u could include a small intro to Pytorch and the functions of the same used to make the AIs in the course. Since this course has no requirements (but actually requires knowing PyTorch basics), the above could have been included.\n\nAnd explaining the structure of the AI beforehand dramatically before moving on to coding can make the coding part more intuitive, especially when starting off and not having any idea of what's ahead.\n\nAnd this course has a good support team. Never had to wait for more than a day for a reply. There are many topics that more than 20 people are equally doubtful about, so rather than asking the same question again and replying for the same, I'd recommend including the same in the course.\n\nNevertheless, the course was good overall. I took this course as a starter, and now I know the key areas I have to focus on to get a strong foundation in the field. And can boast about making an AI beat Doom. :D",
             "rating": 4
         },
         {
-            "body": "Had lot of takeway from this course. Thank you guys!!..The way theory and coding part explained was understand-full.\n\nHighlight part was \"A3C\" you guys made it very simple to understand. Thanks again!..",
-            "rating": 5
+            "body": "WELL, TOO LITTLE INFORMATION\n\nLESSONS PLACED IN WRONG ORDER\n\nTHE DEEP LEARNING CHAPTER SHOULD HAVE COME BEFORE THE PRACTICES",
+            "rating": 1.5
         },
         {
-            "body": "The course breaks down the concepts and applications at a level a beginner can understand. However, the programming is outdated and becomes very frustrating to learn how to implement the code when you encounter so many problems and need to troubleshoot constantly to make it work.",
-            "rating": 2
-        },
-        {
-            "body": "I would say this course is fine but not that amazing. It will give you the right intuition and kickstart about understanding and working of AI but it won't make you confident enough on using or building your own AI. It has really good in detail theory part but implementation could have made simpler and easy. At some points so many concepts come up and you just lose interest and try to pace up with the code without understanding what's actually happening. I will consider it as more of a guide than a course to learn AI. But instructor has actually put a lot of efforts that can be seen. Secondly in Doom game project, if you're running windows 10 then probably either you have to go for a dual boot or use a virtual machine to run your training model which is something I actually don't like... There should have been something which should be compatible with all kinds or not if all atleast (Windows+Mac+Linux) OS. Thank you very much for this course!",
-            "rating": 3
+            "body": "This gave me some knowledge in artificial intelligence and helped me to know some concepts in it .. :-)",
+            "rating": 4.5
         },
         {
             "body": "The theory part was absolutely wonderful, I grasped every concept properly. I didn't like the coding part very much since it felt kind of rushed and also too complicated. Also, the course needs updating since many packages used in the course are outdated, especially for Doom module since it is no more available in the package. Maybe replace it with other game. But overall, I liked the course but I would really like to see it being updated.",
             "rating": 3
         },
         {
-            "body": "This is a great course. The last part of CNN is more enlightening than the rest. But this course helped me to understand AI. Thank you.",
+            "body": "I would say this course is fine but not that amazing. It will give you the right intuition and kickstart about understanding and working of AI but it won't make you confident enough on using or building your own AI. It has really good in detail theory part but implementation could have made simpler and easy. At some points so many concepts come up and you just lose interest and try to pace up with the code without understanding what's actually happening. I will consider it as more of a guide than a course to learn AI. But instructor has actually put a lot of efforts that can be seen. Secondly in Doom game project, if you're running windows 10 then probably either you have to go for a dual boot or use a virtual machine to run your training model which is something I actually don't like... There should have been something which should be compatible with all kinds or not if all atleast (Windows+Mac+Linux) OS. Thank you very much for this course!",
+            "rating": 3
+        },
+        {
+            "body": "Very easy to follow the tutorials and the delivery, while touching on complex subjects, are given simplistically with well thought through explanations.",
+            "rating": 5
+        },
+        {
+            "body": "The course was great. Clear explanations, good diction. As a newcomer to this field, for me was especially valuable the first part with all the theory behind what is happening in the ANNs. Although I do not have programing skills (yet), I also enjoyed the second part to see how it actually works. Granted, that seemed rather complicated for a non-programmer but that's fine as the value for me was to see how the theory becomes reality. My plan is to come back to this course after learning Python/Pytorch and go through that second section one more time to get all the value it provides. Congrats on how you put together this course and how you delivered the content!",
             "rating": 4.5
         },
         {
-            "body": "Good introduction and thorough code, but would have liked more details explained, specifically the math involved. Also would have liked a better explanation on back propagation.",
-            "rating": 3.5
-        },
-        {
-            "body": "Starting the course you learn a lot because they explain everything, but in the second module they just explain the code. The code matter but right those libraries and call don't work anymore.\n\nI had a lot of issues trying to run the code. Pls update the course or provide us with ready to work virtual machines for every module",
-            "rating": 3.5
+            "body": "The course is amazing!!! It has content that is amazing and great. I am really new in Artificial Intelligence and yet through the course I was able to grasp as much as I could. I am very excited to be on this adventure in the space of AI, things are very interesting. I look forward to learn many other interesting AIs. Great course, thank you . Keep it up.",
+            "rating": 5
         }
     ],
     "students": [
         {
-            "name": "Lerato Mable Mashamaite",
-            "email": "leratomablemashamaite@gmail.com",
-            "password": "leratomablemashamaite",
+            "name": "Mikko Malinen",
+            "email": "mikkomalinen@gmail.com",
+            "password": "mikkomalinen",
             "role": "s",
             "isConfirmed": true
         },
         {
-            "name": "Harish Ragavendra",
-            "email": "harishragavendra@gmail.com",
-            "password": "harishragavendra",
+            "name": "Dawson Anderson",
+            "email": "dawsonanderson@gmail.com",
+            "password": "dawsonanderson",
             "role": "s",
             "isConfirmed": true
         },
         {
-            "name": "Louis Smith",
-            "email": "louissmith@gmail.com",
-            "password": "louissmith",
+            "name": "David Boultinghouse",
+            "email": "davidboultinghouse@gmail.com",
+            "password": "davidboultinghouse",
             "role": "s",
             "isConfirmed": true
         },
         {
-            "name": "Denis Noah",
-            "email": "denisnoah@gmail.com",
-            "password": "denisnoah",
+            "name": "Ajay Hazra",
+            "email": "ajayhazra@gmail.com",
+            "password": "ajayhazra",
             "role": "s",
             "isConfirmed": true
         },
@@ -104,23 +104,16 @@
             "isConfirmed": true
         },
         {
-            "name": "Kishore Kumar R",
-            "email": "kishorekumarr@gmail.com",
-            "password": "kishorekumarr",
+            "name": "Denis Noah",
+            "email": "denisnoah@gmail.com",
+            "password": "denisnoah",
             "role": "s",
             "isConfirmed": true
         },
         {
-            "name": "Rodolph Sanon",
-            "email": "rodolphsanon@gmail.com",
-            "password": "rodolphsanon",
-            "role": "s",
-            "isConfirmed": true
-        },
-        {
-            "name": "Shivam Sahil",
-            "email": "shivamsahil@gmail.com",
-            "password": "shivamsahil",
+            "name": "Harish Ragavendra",
+            "email": "harishragavendra@gmail.com",
+            "password": "harishragavendra",
             "role": "s",
             "isConfirmed": true
         },
@@ -132,23 +125,30 @@
             "isConfirmed": true
         },
         {
-            "name": "Youping Zhang",
-            "email": "youpingzhang@gmail.com",
-            "password": "youpingzhang",
+            "name": "Shivam Sahil",
+            "email": "shivamsahil@gmail.com",
+            "password": "shivamsahil",
             "role": "s",
             "isConfirmed": true
         },
         {
-            "name": "Sias Combrinck",
-            "email": "siascombrinck@gmail.com",
-            "password": "siascombrinck",
+            "name": "Dayyan James",
+            "email": "dayyanjames@gmail.com",
+            "password": "dayyanjames",
             "role": "s",
             "isConfirmed": true
         },
         {
-            "name": "Wbert Castro Vera",
-            "email": "wbertcastrovera@gmail.com",
-            "password": "wbertcastrovera",
+            "name": "Yavor Mihov",
+            "email": "yavormihov@gmail.com",
+            "password": "yavormihov",
+            "role": "s",
+            "isConfirmed": true
+        },
+        {
+            "name": "Lerato Mable Mashamaite",
+            "email": "leratomablemashamaite@gmail.com",
+            "password": "leratomablemashamaite",
             "role": "s",
             "isConfirmed": true
         }
@@ -158,7 +158,224 @@
         "email": "hadelindeponteves@gmail.com",
         "password": "hadelindeponteves",
         "role": "i",
-"isConfirmed": true,
-        "briefIntroduction": "<p>Hadelin is the co-founder and CEO at BlueLife AI, which leverages the power of cutting edge Artificial Intelligence to empower businesses to make massive profits by innovating, automating processes and maximizing efficiency. Hadelin is also an online entrepreneur who has created 70+ top-rated educational e-courses to the world on topics such as Machine Learning, Deep Learning, Artificial Intelligence and Blockchain, which have reached 1M+ students in 210 countries.</p>"
-    }
+        "briefIntroduction": "<p>Hadelin is the co-founder and CEO at BlueLife AI, which leverages the power of cutting edge Artificial Intelligence to empower businesses to make massive profits by innovating, automating processes and maximizing efficiency. Hadelin is also an online entrepreneur who has created 70+ top-rated educational e-courses to the world on topics such as Machine Learning, Deep Learning, Artificial Intelligence and Blockchain, which have reached 1M+ students in 210 countries.</p>",
+        "isConfirmed": true
+    },
+    "curriculum": [
+        {
+            "sectionName": "Welcome to the course!",
+            "unitNames": [
+                "Why AI?",
+                "Course Structure",
+                "BONUS: Learning Paths",
+                "Installing Anaconda",
+                "BONUS: Meet Your Instructors",
+                "This PDF resource will help you a lot!",
+                "FAQBot!",
+                "Updates on Udemy Reviews",
+                "Your Shortcut To Becoming A Better Data Scientist!"
+            ]
+        },
+        {
+            "sectionName": "---------- Part 0 - Fundamentals Of Reinforcement Learning ----------",
+            "unitNames": [
+                "Welcome to Part 0 - Fundamentals of Reinforcement Learning"
+            ]
+        },
+        {
+            "sectionName": "Q-Learning Intuition",
+            "unitNames": [
+                "Plan of Attack",
+                "What is reinforcement learning?",
+                "The Bellman Equation",
+                "The \"Plan\"",
+                "Markov Decision Process",
+                "Policy vs Plan",
+                "Adding a \"Living Penalty\"",
+                "Q-Learning Intuition",
+                "Temporal Difference"
+            ]
+        },
+        {
+            "sectionName": "Q-Learning Visualization",
+            "unitNames": [
+                "Q-Learning Visualization"
+            ]
+        },
+        {
+            "sectionName": "---------- Part 1 - Deep Q-Learning ----------",
+            "unitNames": [
+                "Welcome to Part 1 - Deep Q-Learning"
+            ]
+        },
+        {
+            "sectionName": "Deep Q-Learning Intuition",
+            "unitNames": [
+                "Plan of Attack",
+                "Deep Q-Learning Intuition - Learning",
+                "Deep Q-Learning Intuition - Acting",
+                "Experience Replay",
+                "Action Selection Policies"
+            ]
+        },
+        {
+            "sectionName": "Deep Q-Learning Implementation",
+            "unitNames": [
+                "Plan of Attack",
+                "Where to get the Materials",
+                "Getting Started",
+                "Self Driving Car - Step 1",
+                "Self Driving Car - Step 2",
+                "Self Driving Car - Step 3",
+                "Self Driving Car - Step 4",
+                "Self Driving Car - Step 5",
+                "Self Driving Car - Step 6",
+                "Self Driving Car - Step 7",
+                "Self Driving Car - Step 8",
+                "Self Driving Car - Step 9",
+                "Self Driving Car - Step 10",
+                "Self Driving Car - Step 11",
+                "Self Driving Car - Step 12",
+                "Self Driving Car - Step 13",
+                "Self Driving Car - Step 14",
+                "Self Driving Car - Step 15",
+                "Self Driving Car - Step 16"
+            ]
+        },
+        {
+            "sectionName": "Deep Q-Learning Visualization",
+            "unitNames": [
+                "Self Driving Car - Level 1",
+                "Self Driving Car - Level 2",
+                "Self Driving Car - Level 3",
+                "Self Driving Car - Level 4",
+                "Challenge Solutions"
+            ]
+        },
+        {
+            "sectionName": "---------- Part 2 - Deep Convolutional Q-Learning ----------",
+            "unitNames": [
+                "Welcome to Part 2 - Deep Convolutional Q-Learning"
+            ]
+        },
+        {
+            "sectionName": "Deep Convolutional Q-Learning Intuition",
+            "unitNames": [
+                "Plan of Attack",
+                "Deep Convolutional Q-Learning Intuition",
+                "Eligibility Trace"
+            ]
+        },
+        {
+            "sectionName": "Deep Convolutional Q-Learning Implementation",
+            "unitNames": [
+                "Plan of Attack",
+                "Where to get the Materials",
+                "Doom - Step 1",
+                "Doom - Step 2",
+                "Doom - Step 3",
+                "Doom - Step 4",
+                "Doom - Step 5",
+                "Doom - Step 6",
+                "Doom - Step 7",
+                "Doom - Step 8",
+                "Doom - Step 9",
+                "Doom - Step 10",
+                "Doom - Step 11",
+                "Doom - Step 12",
+                "Doom - Step 13",
+                "Doom - Step 14",
+                "Doom - Step 15",
+                "Doom - Step 16"
+            ]
+        },
+        {
+            "sectionName": "Deep Convolutional Q-Learning Visualization",
+            "unitNames": [
+                "Doom - Step 17",
+                "Doom - Step 18",
+                "Doom - Step 19",
+                "Doom - Step 20"
+            ]
+        },
+        {
+            "sectionName": "---------- Part 3 - A3C ----------",
+            "unitNames": [
+                "Welcome to Part 3 - A3C"
+            ]
+        },
+        {
+            "sectionName": "A3C Intuition",
+            "unitNames": [
+                "Plan of Attack",
+                "The three A's in A3C",
+                "Actor-Critic",
+                "Asynchronous",
+                "Advantage",
+                "LSTM Layer"
+            ]
+        },
+        {
+            "sectionName": "A3C Implementation",
+            "unitNames": [
+                "Plan of Attack",
+                "Where to get the Materials",
+                "Breakout - Step 1",
+                "Breakout - Step 2",
+                "Breakout - Step 3",
+                "Breakout - Step 4",
+                "Breakout - Step 5",
+                "Breakout - Step 6",
+                "Breakout - Step 7",
+                "Breakout - Step 8",
+                "Breakout - Step 9",
+                "Breakout - Step 10",
+                "Breakout - Step 11",
+                "Breakout - Step 12",
+                "Breakout - Step 13",
+                "Breakout - Step 14"
+            ]
+        },
+        {
+            "sectionName": "A3C Visualization",
+            "unitNames": [
+                "Watching our AI play Breakout",
+                "THANK YOU Bonus Video"
+            ]
+        },
+        {
+            "sectionName": "Annex 1: Artificial Neural Networks",
+            "unitNames": [
+                "What is Deep Learning?",
+                "Plan of Attack",
+                "The Neuron",
+                "The Activation Function",
+                "How do Neural Networks work?",
+                "How do Neural Networks learn?",
+                "Gradient Descent",
+                "Stochastic Gradient Descent",
+                "Backpropagation"
+            ]
+        },
+        {
+            "sectionName": "Annex 2: Convolutional Neural Networks",
+            "unitNames": [
+                "Plan of Attack",
+                "What are convolutional neural networks?",
+                "Step 1 - Convolution Operation",
+                "Step 1(b) - ReLU Layer",
+                "Step 2 - Pooling",
+                "Step 3 - Flattening",
+                "Step 4 - Full Connection",
+                "Summary",
+                "Softmax & Cross-Entropy"
+            ]
+        },
+        {
+            "sectionName": "Bonus Lectures",
+            "unitNames": [
+                "***YOUR SPECIAL BONUS***"
+            ]
+        }
+    ]
 }

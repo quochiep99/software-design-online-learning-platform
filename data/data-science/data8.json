@@ -6,151 +6,151 @@
     "course": {
         "title": "Statistics for Data Science and Business Analysis",
         "subtitle": "Statistics you need in the office: Descriptive & Inferential statistics, Hypothesis testing, Regression analysis",
-        "descriptions":  "",
+        "descriptions": [],
         "reviews": [],
         "students": [],
-        "image1xURL": "https://img-b.udemycdn.com/course/240x135/1298780_731f_4.jpg",
-        "image2xURL": "https://img-b.udemycdn.com/course/480x270/1298780_731f_4.jpg",
-        "image3xURL": "https://img-b.udemycdn.com/course/750x422/1298780_731f_4.jpg",
+        "image1xURL": "https://img-a.udemycdn.com/course/240x135/1298780_731f_4.jpg",
+        "image2xURL": "https://img-a.udemycdn.com/course/480x270/1298780_731f_4.jpg",
+        "image3xURL": "https://img-a.udemycdn.com/course/750x422/1298780_731f_4.jpg",
         "discountPrice": 11.99,
         "originalPrice": 129.99,
         "numViews": 0,
-        "curriculum": {}
+        "curriculum": []
     },
     "reviews": [
         {
-            "body": "This is the best course for introduction of Statistics which is very important for Data Science and ML. The course is very clear and understandable. It will definitely tough for the newbie in the starting. But I am sure that you will be in the track at the end. The way the instructor explains, increases the interest and drives you crazy to learn more about these concept.",
+            "body": "The content is definitely what I want learn about. The presentation are very clear and attractive. It drives me to keep watching. The course notes and the the exercises are also very helpful.\n\nThe only minus is the explanation of some of the later topics, such as the F-statistics, are too fast. If the instructor can include some more materials for the students for further reading will be great.",
+            "rating": 4.5
+        },
+        {
+            "body": "This course is very useful to the people who wants to learn statistics for datascience.Professor Illiya had explained all the statistics concepts in a clear and organized manner,the animations made course very interesting",
             "rating": 5
         },
         {
-            "body": "The Course Is good, good for the people who want to know basics, the basics are explained very effectively with good examples, I can say is the best one can deliver.",
-            "rating": 4
+            "body": "I've been working with large datasets for some time in Excel and R. This was a much-needed foundation I am happy to now have in place!!",
+            "rating": 5
         },
         {
             "body": "Overall it is a very good course for people wanting to brush up on their previous statistics knowledge . However, for any one brand new to statistics the sections from inferential statistics to the end will be more challenging without additional external resources, especially if you want to master the ideas and concepts.",
             "rating": 4.5
         },
         {
-            "body": "The last part for regression analysis went a bit too fast on the explanation, but overall a very good beginner's Statistic course!",
-            "rating": 5
-        },
-        {
             "body": "I liked the variety of topics covered in this course and it has been extremely helpful to me in forming a foundational knowledge of statistical concepts. However, there have been times when the topic wasn't clear in the definition. My suggestion would be to add some extensive reading material in this course that one could read to solidify their understanding and enhance on it.",
             "rating": 3.5
+        },
+        {
+            "body": "The Course Is good, good for the people who want to know basics, the basics are explained very effectively with good examples, I can say is the best one can deliver.",
+            "rating": 4
+        },
+        {
+            "body": "The Course was good but I wish there could be more examples for Regression Analysis in the course. At the end all the Assumptions are not covered and that leaves lack clarity on the subject. At the start of regression, the session started of saying it is based on ANOVA. It is not that every person has idea on ANOVA. The coach could have given some clarity on what ANOVA is about. Apart from that till Hypothesis testing the course was great but after that it was a bit fast and lillte hard to understand for a person who is not from Statistic background. Thanks a lot sir for the great explanation of all the topics and I personally wish there could be more examples for regression analysis at the end of the session covering all the assumption and interpretation of the data. Thank you.",
+            "rating": 3
+        },
+        {
+            "body": "I was searching for a good course that gives me the basics for stats without confusing me, this is the 'go to' course for it! I am glad I found this course!",
+            "rating": 5
         },
         {
             "body": "I like how they have presented the subject of statistics as an interesting field which can be applied in many aspects of life, including when making business decisions. However, there is room for improvement in terms of making your explanations even clearer with more exercises, and practicals especially in the Regression Analysis section. All in all, well done guys.",
             "rating": 4
         },
         {
-            "body": "Because this course is good, even very good. I like it, it could help me for learning many things about statistics.",
-            "rating": 4.5
-        },
-        {
-            "body": "Thoroughly enjoyed the course. Never thought statistics can be so interesting. Wish I had access to this course during my college time. A big thank you !",
-            "rating": 5
-        },
-        {
-            "body": "It would be better if the course is included how to carried out regression analysis in excel not just solely on understanding.",
-            "rating": 4.5
-        },
-        {
-            "body": "The course is really good for a beginner in statistics. However, I was expecting more examples to help us think more. I also would have appreciated them discussing regression further in detail.",
-            "rating": 3.5
-        },
-        {
-            "body": "Clear instruction and lots of exercises. There is much more to do than the the relatively short length (in contrast to some other classes) may suggest. Yet, the class mostly only covers fundamentals, and regression is not really possible practically in Excel, as the description may suggest. Still, great class!",
-            "rating": 4.5
-        },
-        {
-            "body": "The course was great but seemed like a crash course.\n\nMore practice exercises could have been given to get a hang of every topic. However, I really enjoyed the course.",
+            "body": "Good and simple explanation of all the concepts. One of the best course for beginner and intermediate learners.\n\nBut the course literature is not available which can be used at any time to go through the basics or for revision.\n\nAlso if possible please include lectures on probability or is there a separate course on that.",
             "rating": 4
+        },
+        {
+            "body": "At the end I felt like some topics of statistics are left out. And more focussed on regression. Continuity is good but I feel some voidness",
+            "rating": 4
+        },
+        {
+            "body": "Why did the exercises stop around Section 14? The exercises what allowed us to really learn the content, suddenly the course switched from an interactive course to a lecture. I can watch videos on youtube for free if that was the content I was after. Everything before Section 14 was great, and then suddenly it felt like the course just wanted to wrap things up quickly.",
+            "rating": 3
         }
     ],
     "students": [
         {
-            "name": "Harsha Tadavarthy",
-            "email": "harshatadavarthy@gmail.com",
-            "password": "harshatadavarthy",
+            "name": "Anabela Cheong",
+            "email": "anabelacheong@gmail.com",
+            "password": "anabelacheong",
             "role": "s",
-"isConfirmed": true
+            "isConfirmed": true
         },
         {
-            "name": "Anubhav Gupta",
-            "email": "anubhavgupta@gmail.com",
-            "password": "anubhavgupta",
+            "name": "Prem Sai Kanigalpula",
+            "email": "premsaikanigalpula@gmail.com",
+            "password": "premsaikanigalpula",
             "role": "s",
-"isConfirmed": true
+            "isConfirmed": true
+        },
+        {
+            "name": "Duncan Campbell",
+            "email": "duncancampbell@gmail.com",
+            "password": "duncancampbell",
+            "role": "s",
+            "isConfirmed": true
         },
         {
             "name": "Alfred Sevidzem Yenwong Fai",
             "email": "alfredsevidzemyenwongfai@gmail.com",
             "password": "alfredsevidzemyenwongfai",
             "role": "s",
-"isConfirmed": true
-        },
-        {
-            "name": "CarmenPaphu",
-            "email": "carmenpaphu@gmail.com",
-            "password": "carmenpaphu",
-            "role": "s",
-"isConfirmed": true
+            "isConfirmed": true
         },
         {
             "name": "Noni Gulati",
             "email": "nonigulati@gmail.com",
             "password": "nonigulati",
             "role": "s",
-"isConfirmed": true
+            "isConfirmed": true
+        },
+        {
+            "name": "Anubhav Gupta",
+            "email": "anubhavgupta@gmail.com",
+            "password": "anubhavgupta",
+            "role": "s",
+            "isConfirmed": true
+        },
+        {
+            "name": "Joshua Uttej Kaki",
+            "email": "joshuauttejkaki@gmail.com",
+            "password": "joshuauttejkaki",
+            "role": "s",
+            "isConfirmed": true
+        },
+        {
+            "name": "Sandhya Sivasankaran",
+            "email": "sandhyasivasankaran@gmail.com",
+            "password": "sandhyasivasankaran",
+            "role": "s",
+            "isConfirmed": true
         },
         {
             "name": "Osagie Aibangbee",
             "email": "osagieaibangbee@gmail.com",
             "password": "osagieaibangbee",
             "role": "s",
-"isConfirmed": true
+            "isConfirmed": true
         },
         {
-            "name": "Irena Staneva",
-            "email": "irenastaneva@gmail.com",
-            "password": "irenastaneva",
+            "name": "Anand Khare",
+            "email": "anandkhare@gmail.com",
+            "password": "anandkhare",
             "role": "s",
-"isConfirmed": true
+            "isConfirmed": true
         },
         {
-            "name": "T. S. Kavita Rajeshwari",
-            "email": "t.s.kavitarajeshwari@gmail.com",
-            "password": "t.s.kavitarajeshwari",
+            "name": "Sudheer Kopparapu",
+            "email": "sudheerkopparapu@gmail.com",
+            "password": "sudheerkopparapu",
             "role": "s",
-"isConfirmed": true
+            "isConfirmed": true
         },
         {
-            "name": "Lim Carmen",
-            "email": "limcarmen@gmail.com",
-            "password": "limcarmen",
+            "name": "Blake Thielmann",
+            "email": "blakethielmann@gmail.com",
+            "password": "blakethielmann",
             "role": "s",
-"isConfirmed": true
-        },
-        {
-            "name": "Bhawana Bindal",
-            "email": "bhawanabindal@gmail.com",
-            "password": "bhawanabindal",
-            "role": "s",
-"isConfirmed": true
-        },
-        {
-            "name": "Christopher Koch",
-            "email": "christopherkoch@gmail.com",
-            "password": "christopherkoch",
-            "role": "s",
-"isConfirmed": true
-        },
-        {
-            "name": "Vibhu Jhamb",
-            "email": "vibhujhamb@gmail.com",
-            "password": "vibhujhamb",
-            "role": "s",
-"isConfirmed": true
+            "isConfirmed": true
         }
     ],
     "instructor": {
@@ -158,7 +158,232 @@
         "email": "365careers@gmail.com",
         "password": "365careers",
         "role": "i",
-"isConfirmed": true,
-        "briefIntroduction": "<p><strong>365 Careers is the #1 best-selling provider of finance courses on Udemy. The company’s courses have been taken by more than 1,000,000 students in 210&nbsp;countries. People working at world-class firms like Apple, PayPal, and Citibank have completed 365 Careers trainings.</strong>\n&nbsp; </p><p>Currently, the firm focuses on the following topics on Udemy:\n&nbsp; </p><p>\n<strong>1) Finance</strong> – Finance fundamentals, Financial modeling in Excel, Valuation, Accounting, Capital budgeting, Financial statement analysis (FSA), Investment banking (IB), Leveraged buyout (LBO), Financial planning and analysis (FP&amp;A), Corporate budgeting, applying Python for Finance, Tesla valuation case study, CFA, ACCA, and CPA</p><p><strong>2) Data science</strong> – Statistics, Mathematics, Probability, SQL, Python programming, Python for Finance, Business Intelligence, R, Machine Learning, TensorFlow, Tableau, the integration of SQL&nbsp;and&nbsp;Tableau, the integration of SQL, Python, Tableau, Power&nbsp;BI, Credit Risk Modeling, and Credit Analytics</p><p><strong>3) Entrepreneurship</strong> – Business Strategy, Management and HR Management, Marketing, Decision Making, Negotiation, and Persuasion, Tesla's Strategy and Marketing</p><p><strong>4) Office productivity</strong> – Microsoft Excel, PowerPoint, Microsoft Word, and Microsoft Outlook</p><p><strong>5)</strong> <strong>Blockchain for Business</strong></p><p>All of the company’s courses are:\n&nbsp; </p><p>Pre-scripted\n&nbsp; </p><p>Hands-on\n&nbsp; </p><p>Laser-focused\n&nbsp; </p><p>Engaging\n&nbsp; </p><p>Real-life tested\n&nbsp; </p><p>By choosing 365 Careers, you make sure you will learn from proven experts, who have a passion for teaching, and can take you from beginner to pro in the shortest possible amount of time.\n&nbsp; </p><p>If you want to become a financial analyst, a finance manager, an FP&amp;A analyst, an investment banker, a business executive, an entrepreneur, a business intelligence analyst, a data analyst, or a data scientist, <strong>365 Careers’ courses are the perfect place to start.&nbsp;</strong>\n</p>"
-    }
+        "briefIntroduction": "<p><strong>365 Careers is the #1 best-selling provider of finance courses on Udemy. The company’s courses have been taken by more than 1,000,000 students in 210&nbsp;countries. People working at world-class firms like Apple, PayPal, and Citibank have completed 365 Careers trainings.</strong>\n&nbsp; </p><p>Currently, the firm focuses on the following topics on Udemy:\n&nbsp; </p><p>\n<strong>1) Finance</strong> – Finance fundamentals, Financial modeling in Excel, Valuation, Accounting, Capital budgeting, Financial statement analysis (FSA), Investment banking (IB), Leveraged buyout (LBO), Financial planning and analysis (FP&amp;A), Corporate budgeting, applying Python for Finance, Tesla valuation case study, CFA, ACCA, and CPA</p><p><strong>2) Data science</strong> – Statistics, Mathematics, Probability, SQL, Python programming, Python for Finance, Business Intelligence, R, Machine Learning, TensorFlow, Tableau, the integration of SQL&nbsp;and&nbsp;Tableau, the integration of SQL, Python, Tableau, Power&nbsp;BI, Credit Risk Modeling, and Credit Analytics</p><p><strong>3) Entrepreneurship</strong> – Business Strategy, Management and HR Management, Marketing, Decision Making, Negotiation, and Persuasion, Tesla's Strategy and Marketing</p><p><strong>4) Office productivity</strong> – Microsoft Excel, PowerPoint, Microsoft Word, and Microsoft Outlook</p><p><strong>5)</strong> <strong>Blockchain for Business</strong></p><p>All of the company’s courses are:\n&nbsp; </p><p>Pre-scripted\n&nbsp; </p><p>Hands-on\n&nbsp; </p><p>Laser-focused\n&nbsp; </p><p>Engaging\n&nbsp; </p><p>Real-life tested\n&nbsp; </p><p>By choosing 365 Careers, you make sure you will learn from proven experts, who have a passion for teaching, and can take you from beginner to pro in the shortest possible amount of time.\n&nbsp; </p><p>If you want to become a financial analyst, a finance manager, an FP&amp;A analyst, an investment banker, a business executive, an entrepreneur, a business intelligence analyst, a data analyst, or a data scientist, <strong>365 Careers’ courses are the perfect place to start.&nbsp;</strong>\n</p>",
+        "isConfirmed": true
+    },
+    "curriculum": [
+        {
+            "sectionName": "Introduction",
+            "unitNames": [
+                "What does the course cover?",
+                "Download all resources"
+            ]
+        },
+        {
+            "sectionName": "Sample or population data?",
+            "unitNames": [
+                "Understanding the difference between a population and a sample",
+                "Population vs sample"
+            ]
+        },
+        {
+            "sectionName": "The fundamentals of descriptive statistics",
+            "unitNames": [
+                "The various types of data we can work with",
+                "Types of data",
+                "Levels of measurement",
+                "Levels of measurement",
+                "Categorical variables. Visualization techniques for categorical variables",
+                "Categorical variables. Visualization Techniques",
+                "Categorical variables. Visualization techniques. Exercise",
+                "Numerical variables. Using a frequency distribution table",
+                "Numerical variables. Using a frequency distribution table",
+                "Numerical variables. Using a frequency distribution table. Exercise",
+                "Histogram charts",
+                "Histogram charts",
+                "Histogram charts. Exercise",
+                "Cross tables and scatter plots",
+                "Cross Tables and Scatter Plots",
+                "Cross tables and scatter plots. Exercise"
+            ]
+        },
+        {
+            "sectionName": "Measures of central tendency, asymmetry, and variability",
+            "unitNames": [
+                "The main measures of central tendency: mean, median and mode",
+                "Mean, median and mode. Exercise",
+                "Measuring skewness",
+                "Skewness",
+                "Skewness. Exercise",
+                "Measuring how data is spread out: calculating variance",
+                "Variance. Exercise",
+                "Standard deviation and coefficient of variation",
+                "Standard deviation",
+                "Standard deviation and coefficient of variation. Exercise",
+                "Calculating and understanding covariance",
+                "Covariance. Exercise",
+                "The correlation coefficient",
+                "Correlation",
+                "Correlation coefficient"
+            ]
+        },
+        {
+            "sectionName": "Practical example: descriptive statistics",
+            "unitNames": [
+                "Practical example",
+                "Practical example: descriptive statistics"
+            ]
+        },
+        {
+            "sectionName": "Distributions",
+            "unitNames": [
+                "Introduction to inferential statistics",
+                "What is a distribution?",
+                "What is a distribution",
+                "The Normal distribution",
+                "The Normal distribution",
+                "The standard normal distribution",
+                "The standard normal distribution",
+                "Standard Normal Distribution. Exercise",
+                "Understanding the central limit theorem",
+                "The central limit theorem",
+                "Standard error",
+                "Standard error"
+            ]
+        },
+        {
+            "sectionName": "Estimators and estimates",
+            "unitNames": [
+                "Working with estimators and estimates",
+                "Estimators and estimates",
+                "Confidence intervals - an invaluable tool for decision making",
+                "Confidence intervals",
+                "Calculating confidence intervals within a population with a known variance",
+                "Confidence intervals. Population variance known. Exercise",
+                "Confidence interval clarifications",
+                "Student's T distribution",
+                "Student's T distribution",
+                "Calculating confidence intervals within a population with an unknown variance",
+                "Population variance unknown. T-score. Exercise",
+                "What is a margin of error and why is it important in Statistics?",
+                "Margin of error"
+            ]
+        },
+        {
+            "sectionName": "Confidence intervals: advanced topics",
+            "unitNames": [
+                "Calculating confidence intervals for two means with dependent samples",
+                "Confidence intervals. Two means. Dependent samples. Exercise",
+                "Calculating confidence intervals for two means with independent samples (part 1)",
+                "Confidence intervals. Two means. Independent samples (Part 1). Exercise",
+                "Calculating confidence intervals for two means with independent samples (part 2)",
+                "Confidence intervals. Two means. Independent samples (Part 2). Exercise",
+                "Calculating confidence intervals for two means with independent samples (part 3)"
+            ]
+        },
+        {
+            "sectionName": "Practical example: inferential statistics",
+            "unitNames": [
+                "Practical example: inferential statistics",
+                "Practical example: inferential statistics"
+            ]
+        },
+        {
+            "sectionName": "Hypothesis testing: Introduction",
+            "unitNames": [
+                "The null and the alternative hypothesis",
+                "Further reading on null and alternative hypotheses",
+                "Null vs alternative",
+                "Establishing a rejection region and a significance level",
+                "Rejection region and significance level",
+                "Type I error vs Type II error",
+                "Type I error vs type II error"
+            ]
+        },
+        {
+            "sectionName": "Hypothesis testing: Let's start testing!",
+            "unitNames": [
+                "Test for the mean. Population variance known",
+                "Test for the mean. Population variance known. Exercise",
+                "What is the p-value and why is it one of the most useful tools for statisticians",
+                "p-value",
+                "Test for the mean. Population variance unknown",
+                "Test for the mean. Population variance unknown. Exercise",
+                "Test for the mean. Dependent samples",
+                "Test for the mean. Dependent samples. Exercise",
+                "Test for the mean. Independent samples (Part 1)",
+                "Test for the mean. Independent samples (Part 1)",
+                "Test for the mean. Independent samples (Part 2)",
+                "Test for the mean. Independent samples (Part 2)",
+                "Test for the mean. Independent samples (Part 2). Exercise"
+            ]
+        },
+        {
+            "sectionName": "Practical example: hypothesis testing",
+            "unitNames": [
+                "Practical example: hypothesis testing",
+                "Practical example: hypothesis testing"
+            ]
+        },
+        {
+            "sectionName": "The fundamentals of regression analysis",
+            "unitNames": [
+                "Introduction to regression analysis",
+                "Introduction",
+                "Correlation and causation",
+                "Correlation and causation",
+                "The linear regression model made easy",
+                "The linear regression model",
+                "What is the difference between correlation and regression?",
+                "Correlation vs regression",
+                "A geometrical representation of the linear regression model",
+                "A geometrical representation of the linear regression model",
+                "A practical example - Reinforced learning"
+            ]
+        },
+        {
+            "sectionName": "Subtleties of regression analysis",
+            "unitNames": [
+                "Decomposing the linear regression model - understanding its nuts and bolts",
+                "Decomposition",
+                "What is R-squared and how does it help us?",
+                "R-squared",
+                "The ordinary least squares setting and its practical applications",
+                "The ordinary least squares setting and its practical applications",
+                "Studying regression tables",
+                "Studying regression tables",
+                "Regression tables. Exercise",
+                "The multiple linear regression model",
+                "The multiple linear regression model",
+                "The adjusted R-squared",
+                "The adjusted R-squared",
+                "What does the F-statistic show us and why do we need to understand it?"
+            ]
+        },
+        {
+            "sectionName": "Assumptions for linear regression analysis",
+            "unitNames": [
+                "OLS assumptions",
+                "OLS assumptions",
+                "A1. Linearity",
+                "A1. Linearity",
+                "A2. No endogeneity",
+                "A2. No endogeneity",
+                "A3. Normality and homoscedasticity",
+                "A3. Normality and homoscedasticity",
+                "A4. No autocorrelation",
+                "A4. No autocorrelation",
+                "A5. No multicollinearity",
+                "A5. No multicollinearity"
+            ]
+        },
+        {
+            "sectionName": "Dealing with categorical data",
+            "unitNames": [
+                "Dummy variables"
+            ]
+        },
+        {
+            "sectionName": "Practical example: regression analysis",
+            "unitNames": [
+                "Practical example: regression analysis"
+            ]
+        },
+        {
+            "sectionName": "Bonus lecture",
+            "unitNames": [
+                "Bonus lecture: Next steps"
+            ]
+        }
+    ]
 }

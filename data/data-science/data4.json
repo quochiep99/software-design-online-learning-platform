@@ -6,24 +6,36 @@
     "course": {
         "title": "R Programming A-Z™: R For Data Science With Real Exercises!",
         "subtitle": "Learn Programming In R And R Studio. Data Analytics, Data Science, Statistical Analysis, Packages, Functions, GGPlot2",
-        "descriptions": "",
+        "descriptions": [],
         "reviews": [],
         "students": [],
-        "image1xURL": "https://img-b.udemycdn.com/course/240x135/765242_2578.jpg",
-        "image2xURL": "https://img-b.udemycdn.com/course/480x270/765242_2578.jpg",
-        "image3xURL": "https://img-b.udemycdn.com/course/750x422/765242_2578.jpg",
+        "image1xURL": "https://img-a.udemycdn.com/course/240x135/765242_2578.jpg",
+        "image2xURL": "https://img-a.udemycdn.com/course/480x270/765242_2578.jpg",
+        "image3xURL": "https://img-a.udemycdn.com/course/750x422/765242_2578.jpg",
         "discountPrice": 11.99,
         "originalPrice": 129.99,
         "numViews": 0,
-        "curriculum": {}
+        "curriculum": []
     },
     "reviews": [
         {
-            "body": "This is a great intro class for someone like me who has little coding background. It took me about 2 weeks to complete the course. By the end of the course. I was able to do looping, processing data and make beautiful ggplots! Well worth the $14 investment.",
+            "body": "El curso es lo que promete ser, la introduccion BASICA al mundo de R, explicado de manera amena, estructurada y ordenada, en secuencia lógica.\n\nusa datos reales para los ejercicios y al final de cada sección refuerzan los conceptos básicos que deben quedar mapeados. R es un hueso duro de roer así que luego de este debes estar preparado para más y más.",
+            "rating": 5
+        },
+        {
+            "body": "I thought the course was useful. This course was the right speed and the instructor did a good job explaining the R programming concepts. It was a basic course and a good starter course. The graphing section was very interesting and I can see where I could use that in a small company that needs the details, but doesn't want to fork out cash for out of the box reporting capabilities.\n\nI have taken other online R courses in the past and the pace was a bit to fast or the ideas were abstract.",
+            "rating": 4
+        },
+        {
+            "body": "It's a great game, but the gameplay is too short, probably 2 in a bundle are more balanced to the price.\n\nThis guy knows teaching and learning.",
             "rating": 4.5
         },
         {
-            "body": "I started the course, had to leave it for a while to actually work with R, and took it again, finding it extremely useful, learning many things yet. 100% recommended.",
+            "body": "Awesome Expwerience great learnig from basic to intermidiate.. definately advice to friends... thanks for such a wonderful knwoledge sharing Huge respect Sir Thanks a lot",
+            "rating": 5
+        },
+        {
+            "body": "Well presented. Clear and concise. Only thing I would have liked to see was a range of exercises to go through after the course, to just keep practising everything learnt.",
             "rating": 5
         },
         {
@@ -31,54 +43,63 @@
             "rating": 5
         },
         {
-            "body": "It's my first time learning R and the experience of the whole course was very good, I have learned many things about R, how it's useful for Data Science and use cases in real-time. Thank you for the course Krill and thank you Alex for clarifying my doubts.",
-            "rating": 4.5
+            "body": "This course was amazing! Kirill explained really complex concepts in a very concise manner that was easy to understand. I really appreciated how he provided many real-life examples and exercises as well. So glad I took this course!",
+            "rating": 5
         },
         {
             "body": "So far, it has been very basic but as someone really struggling at been thrown in at the deep end I found the explanations really helpful and clear. As the course went on, I got more confident with R and became better skilled for my research needs.",
             "rating": 5
         },
         {
-            "body": "Kirill takes his time to teach the material methodically and overall did a good job. However, the time could have been utilized better in some sections. Additionally, for a course that is portrayed as 'R for Data Science', it is definitely lacking.\n\nThe section on 'ggplot' was done very well but perhaps could be improved further.\n\nOverall, I like Kirill's style and I do highly recommend this course for someone starting out in R.",
-            "rating": 3.5
-        },
-        {
-            "body": "This course is simply amazing, the level of dedication and relevance is beyond my expectation!\n\nThe visualizations with ggplot were the most fun and engaging part, inspired me to try more of such visualizations\n\nI have taught like this very few times. Thanks to Kirril Eremenko and Udemy for the course.",
+            "body": "Great course content! Helps understand the important features of R Programming. Really helpful for beginners who wish to understand the use of R programming in the data science field. I made use of this course to visualize and compare RNA-seq data. Overall, great course !!",
             "rating": 5
         },
         {
-            "body": "I feel it is a gentle introduction to R and well contextualized. Would wish more example and projects to help develop experience. Thanks.",
+            "body": "I was looking for a good intro to R with examples and exercises. The teacher is really good at explaining also some stats concepts and how to interpret for example data vis .",
+            "rating": 4
+        },
+        {
+            "body": "I finished the course and I have to say it was beyond awesome... one of the very few courses that I have actually finished! Kirill is an awesome instructor and very engaging and makes studying fun. would recommend this course for anyone starting out R",
             "rating": 5
         },
         {
-            "body": "The flow is very systematic from basic to ggplot2 and gives the platform to build big & complex codes . The explanation is very logical & clear .",
-            "rating": 5
-        },
-        {
-            "body": "I took Kirrel's Tableau course. I am currently taking a masters degree course in Data Science and Analytics where R is being taught. I need to take this to supplement class instruction. Kirrel you ROCK!!!!! I learned the foundations that were needed to be active. This is the best Thank you!",
-            "rating": 5
-        },
-        {
-            "body": "This course was a great way to learn what R Studio is capable of and a great way to learn the basics in an applicable way.",
-            "rating": 5
-        },
-        {
-            "body": "I have very high expectations already. I am new to R and Python, and have been getting through some UDEMY Power BI training, and one of the last ones on using GGPLOT2 halted my progress. I tried installing R and getting the chart to load, but to no avail. I uninstalled, and installed different times, but I though in the towel, and searched UDEMY for R training, and found 3 courses by you, and after the very first chapter R and R Studio was installed. I am going to complete Python, Deep Learning, and another one of his courses before getting back to finishing the Power BI training. I like your method of training too much to stop right now. I am hoping to get R plots to work in Power BI at the end of this course. I love it.\n\nThank you.",
-            "rating": 5
+            "body": "Amazing course, got to learn so much and it was all very easy to follow. Would recommend to anyone keen on getting a feel of R and all the visualisation it can provide.",
+            "rating": 4
         }
     ],
     "students": [
         {
-            "name": "Yi Wang",
-            "email": "yiwang@gmail.com",
-            "password": "yiwang",
+            "name": "Jose Gabriel St Bernard",
+            "email": "josegabrielstbernard@gmail.com",
+            "password": "josegabrielstbernard",
             "role": "s",
             "isConfirmed": true
         },
         {
-            "name": "DavidGVillena",
-            "email": "davidgvillena@gmail.com",
-            "password": "davidgvillena",
+            "name": "Karl Petersen",
+            "email": "karlpetersen@gmail.com",
+            "password": "karlpetersen",
+            "role": "s",
+            "isConfirmed": true
+        },
+        {
+            "name": "Alvin_oy Zhang",
+            "email": "alvin_oyzhang@gmail.com",
+            "password": "alvin_oyzhang",
+            "role": "s",
+            "isConfirmed": true
+        },
+        {
+            "name": "Rohit Sharma",
+            "email": "rohitsharma@gmail.com",
+            "password": "rohitsharma",
+            "role": "s",
+            "isConfirmed": true
+        },
+        {
+            "name": "Travis Smit",
+            "email": "travissmit@gmail.com",
+            "password": "travissmit",
             "role": "s",
             "isConfirmed": true
         },
@@ -90,9 +111,9 @@
             "isConfirmed": true
         },
         {
-            "name": "Revanth Pokuri",
-            "email": "revanthpokuri@gmail.com",
-            "password": "revanthpokuri",
+            "name": "Akshaya Suresh",
+            "email": "akshayasuresh@gmail.com",
+            "password": "akshayasuresh",
             "role": "s",
             "isConfirmed": true
         },
@@ -104,51 +125,30 @@
             "isConfirmed": true
         },
         {
-            "name": "Raman Vishwanathan",
-            "email": "ramanvishwanathan@gmail.com",
-            "password": "ramanvishwanathan",
+            "name": "Sujit Silas",
+            "email": "sujitsilas@gmail.com",
+            "password": "sujitsilas",
             "role": "s",
             "isConfirmed": true
         },
         {
-            "name": "Khyati Chouksey",
-            "email": "khyatichouksey@gmail.com",
-            "password": "khyatichouksey",
+            "name": "Ioana Mihai",
+            "email": "ioanamihai@gmail.com",
+            "password": "ioanamihai",
             "role": "s",
             "isConfirmed": true
         },
         {
-            "name": "Peter Ehwerhemuepha",
-            "email": "peterehwerhemuepha@gmail.com",
-            "password": "peterehwerhemuepha",
+            "name": "Mohammad Hamza Laghari",
+            "email": "mohammadhamzalaghari@gmail.com",
+            "password": "mohammadhamzalaghari",
             "role": "s",
             "isConfirmed": true
         },
         {
-            "name": "Swapan Banerjee",
-            "email": "swapanbanerjee@gmail.com",
-            "password": "swapanbanerjee",
-            "role": "s",
-            "isConfirmed": true
-        },
-        {
-            "name": "Joseph Charves",
-            "email": "josephcharves@gmail.com",
-            "password": "josephcharves",
-            "role": "s",
-            "isConfirmed": true
-        },
-        {
-            "name": "Ben Walk",
-            "email": "benwalk@gmail.com",
-            "password": "benwalk",
-            "role": "s",
-            "isConfirmed": true
-        },
-        {
-            "name": "Kevin Murphy",
-            "email": "kevinmurphy@gmail.com",
-            "password": "kevinmurphy",
+            "name": "Nainika Singh",
+            "email": "nainikasingh@gmail.com",
+            "password": "nainikasingh",
             "role": "s",
             "isConfirmed": true
         }
@@ -158,7 +158,136 @@
         "email": "kirilleremenko@gmail.com",
         "password": "kirilleremenko",
         "role": "i",
-        "isConfirmed": true,
-        "briefIntroduction": "<p>My name is Kirill Eremenko and I am super-psyched that you are reading this!</p><p>Professionally, I am a Data Science management consultant with over five years of experience in finance, retail, transport and other industries. I was trained by the best analytics mentors at Deloitte Australia and today I leverage Big Data to drive business strategy, revamp customer experience and revolutionize existing operational processes.</p><p>From my courses you will straight away notice how I combine my real-life experience and academic background in Physics and Mathematics to deliver professional step-by-step coaching in the space of Data Science. I am also passionate about public speaking, and regularly present on Big Data at leading Australian universities and industry events.</p><p>To sum up, I am absolutely and utterly passionate about Data Science and I am looking forward to sharing my passion and knowledge with you!</p>"
-    }
+        "briefIntroduction": "<p>My name is Kirill Eremenko and I am super-psyched that you are reading this!</p><p>Professionally, I am a Data Science management consultant with over five years of experience in finance, retail, transport and other industries. I was trained by the best analytics mentors at Deloitte Australia and today I leverage Big Data to drive business strategy, revamp customer experience and revolutionize existing operational processes.</p><p>From my courses you will straight away notice how I combine my real-life experience and academic background in Physics and Mathematics to deliver professional step-by-step coaching in the space of Data Science. I am also passionate about public speaking, and regularly present on Big Data at leading Australian universities and industry events.</p><p>To sum up, I am absolutely and utterly passionate about Data Science and I am looking forward to sharing my passion and knowledge with you!</p>",
+        "isConfirmed": true
+    },
+    "curriculum": [
+        {
+            "sectionName": "Hit The Ground Running",
+            "unitNames": [
+                "Welcome to the R Programming Course!",
+                "Updates on Udemy Reviews",
+                "Installing R and R Studio (MAC & Windows)",
+                "BONUS: Learning Paths",
+                "Exercise - Get Excited!",
+                "Get the materials",
+                "Some Additional Resources!!",
+                "BONUS: Interview with Hadley Wickham",
+                "Your Shortcut To Becoming A Better Data Scientist!"
+            ]
+        },
+        {
+            "sectionName": "Core Programming Principles",
+            "unitNames": [
+                "Welcome to this section. This is what you will learn!",
+                "Types of variables",
+                "Using Variables",
+                "Logical Variables and Operators",
+                "The \"While\" Loop",
+                "Using the console",
+                "The \"For\" Loop",
+                "The \"If\" statement",
+                "Section Recap",
+                "HOMEWORK: Law of Large Numbers",
+                "Core Programming Principles"
+            ]
+        },
+        {
+            "sectionName": "Fundamentals Of R",
+            "unitNames": [
+                "Welcome to this section. This is what you will learn!",
+                "What is a Vector?",
+                "Let's create some vectors",
+                "Using the [] brackets",
+                "Vectorized operations",
+                "The power of vectorized operations",
+                "Functions in R",
+                "Packages in R",
+                "Section Recap",
+                "HOMEWORK: Financial Statement Analysis",
+                "Fundamentals of R"
+            ]
+        },
+        {
+            "sectionName": "Matrices",
+            "unitNames": [
+                "Welcome to this section. This is what you will learn!",
+                "Project Brief: Basketball Trends",
+                "Matrices",
+                "Building Your First Matrix",
+                "Naming Dimensions",
+                "Colnames() and Rownames()",
+                "Matrix Operations",
+                "Visualizing With Matplot()",
+                "Subsetting",
+                "Visualizing Subsets",
+                "Creating Your First Function",
+                "Basketball Insights",
+                "Section Recap",
+                "HOMEWORK: Basketball Free Throws",
+                "Matrices"
+            ]
+        },
+        {
+            "sectionName": "Data Frames",
+            "unitNames": [
+                "Welcome to this section. This is what you will learn!",
+                "Project Brief: Demographic Analysis",
+                "Importing data into R",
+                "Exploring your dataset",
+                "Using the $ sign",
+                "Basic operations with a Data Frame",
+                "Filtering a Data Frame",
+                "Introduction to qplot",
+                "Visualizing With Qplot: Part I",
+                "Building Dataframes",
+                "Merging Data Frames",
+                "Visualizing With Qplot: Part II",
+                "Section Recap",
+                "HOMEWORK: World Trends",
+                "Data Frames"
+            ]
+        },
+        {
+            "sectionName": "Advanced Visualization With GGPlot2",
+            "unitNames": [
+                "Welcome to this section. This is what you will learn!",
+                "Project Brief: Movie Ratings",
+                "Grammar Of Graphics - GGPlot2",
+                "What is a Factor?",
+                "Aesthetics",
+                "Plotting With Layers",
+                "Overriding Aesthetics",
+                "Mapping vs Setting",
+                "Histograms and Density Charts",
+                "Starting Layer Tips",
+                "Statistical Transformations",
+                "Using Facets",
+                "Coordinates",
+                "Perfecting By Adding Themes",
+                "Section Recap",
+                "HOMEWORK: Movie Domestic % Gross",
+                "Advanced Visualization With GGPlot2"
+            ]
+        },
+        {
+            "sectionName": "Homework Solutions",
+            "unitNames": [
+                "Homework Solution Section 2: Law Of Large Numbers",
+                "Homework Solution Section 3: Financial Statement Analysis",
+                "Homework Solution Section 4: Basketball Free Throws",
+                "Homework Solution Section 5: World Trends",
+                "Homework Solution Section 6: Movie Domestic % Gross (Part 1)",
+                "Homework Solution Section 6: Movie Domestic % Gross (Part 2)",
+                "THANK YOU bonus video"
+            ]
+        },
+        {
+            "sectionName": "Bonus Tutorials",
+            "unitNames": [
+                "BoxPlots",
+                "**YOUR SPECIAL BONUS**"
+            ]
+        }
+    ]
 }

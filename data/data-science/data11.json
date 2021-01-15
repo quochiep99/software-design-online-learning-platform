@@ -6,7 +6,7 @@
     "course": {
         "title": "Complete Guide to TensorFlow for Deep Learning with Python",
         "subtitle": "Learn how to use Google's Deep Learning Framework - TensorFlow with Python! Solve problems with cutting edge techniques!",
-        "descriptions":  "",
+        "descriptions": [],
         "reviews": [],
         "students": [],
         "image1xURL": "https://img-a.udemycdn.com/course/240x135/1326292_4dcf.jpg",
@@ -15,9 +15,21 @@
         "discountPrice": 11.99,
         "originalPrice": 129.99,
         "numViews": 0,
-        "curriculum": {}
+        "curriculum": []
     },
     "reviews": [
+        {
+            "body": "I liked the flow of training course and the simple way of explaining such complicated topics. Kudos to Jose!!",
+            "rating": 5
+        },
+        {
+            "body": "Good Samples could add something with large dataset to show the power of tensorflow",
+            "rating": 5
+        },
+        {
+            "body": "the explanation/ teaching is not good, and valid question have not been answered since past 2 years. Even few of the question I had asked was not answered.\n\nIf the explanation was good enough , no one would have questions in the first place.",
+            "rating": 3
+        },
         {
             "body": "It is a good match to me.\n\nSome feedback:\n\n1. I would have spent more time on basic mathematical background (e.g. - matrix multiplication, some other pillars in linear algebra, etc...)\n\n2. The time it takes to exercise is at least twice, more likely thrice or even more the time it takes to just play the lectures. It could be useful if you ask for users feedback for the time it takes them to exercise each lecture, and then provide some data for the average (e.g. - the course is 14 hours, most users who exercise all parts, complete it in 55 hours (or, whatever the average is)",
             "rating": 4
@@ -27,130 +39,118 @@
             "rating": 5
         },
         {
-            "body": "I liked the course and its content. Do understand that this course needs a pre-qualification or atleast familiarity with the technical language. I come with a business background, so for me to come to speed i may have a needed a beginner's, intermediate and an advanced learning curriculum. But i love the instructors narration flow and technical expertise of flowing through the content. Thank you!!",
-            "rating": 5
-        },
-        {
-            "body": "There are theoretical gaps in his explanations. Some code along examples are fine but there are some topics that could go quicker as they were previously introduced during the lectures.",
-            "rating": 3.5
-        },
-        {
             "body": "A great introduction to TensorFlow and the various types of deep learning networks available. Different APIs are explained to generate the models. The course gives you the foundation to build and experiment on your own models and projects.",
             "rating": 4.5
         },
         {
-            "body": "Great match for my skillsets. The teacher is super knowledgeably. I love the udemy brand (and price) so much that I have bought more than 10 classes.",
-            "rating": 5
+            "body": "The code along uses tf1 which is already outdated so will need some effort to alter the codes to tf2.",
+            "rating": 3.5
+        },
+        {
+            "body": "The good thing about this course is that it contains a lot of material and the theoretical part is well explained. The main drawback however is that it is based on TensorFlow 1 and therefore many elements used in the exercises are obsolete. Some steps in practical sessions aren't properly explained.",
+            "rating": 3
+        },
+        {
+            "body": "TF version used is outdated but the content is still very relevant, it would be better if it examples were shown in Keras in TF2",
+            "rating": 3
+        },
+        {
+            "body": "The tutor MISSES ALOOOOT of content non explained Last time Ill take a course with you sir",
+            "rating": 1
         },
         {
             "body": "Some things were really hard to understand watching these videos. I needed more pictures and real cases.\n\nBut there were a lot of various code examples, that I can return to later, when I start to work with my own projects.",
             "rating": 3.5
         },
         {
-            "body": "The tutor should take more care to explain key parts of the tensorflow code. Ideally by writing comments where the code is not obvious during the codealong.",
-            "rating": 3
-        },
-        {
-            "body": "it would have been great of more details about actual evaluation of tensorflow model + issues solutions with tensorflow trained models was discussed",
+            "body": "There are theoretical gaps in his explanations. Some code along examples are fine but there are some topics that could go quicker as they were previously introduced during the lectures.",
             "rating": 3.5
-        },
-        {
-            "body": "there was some bad coding and a couple of times the explanations didn't match what was actually being done.\n\nlearned a lot, but i think that my experience allowed me to spot mistakes and bad practices, so for a less experienced person the course could create problems",
-            "rating": 3
-        },
-        {
-            "body": "Nice course. Really appreciate the hard work he has done.\n\nBut in the CNN section the instructor has skipped many important things ,hence changing my review from 4.5 to 3.",
-            "rating": 3
-        },
-        {
-            "body": "The exercise files help and is taught at a good pace. Questions are answered pretty fast as well!",
-            "rating": 5
         }
     ],
     "students": [
+        {
+            "name": "Nandini Kalita",
+            "email": "nandinikalita@gmail.com",
+            "password": "nandinikalita",
+            "role": "s",
+            "isConfirmed": true
+        },
+        {
+            "name": "Aman Singh",
+            "email": "amansingh@gmail.com",
+            "password": "amansingh",
+            "role": "s",
+            "isConfirmed": true
+        },
+        {
+            "name": "Ashray Pai",
+            "email": "ashraypai@gmail.com",
+            "password": "ashraypai",
+            "role": "s",
+            "isConfirmed": true
+        },
         {
             "name": "Timor Israeli",
             "email": "timorisraeli@gmail.com",
             "password": "timorisraeli",
             "role": "s",
-"isConfirmed": true
+            "isConfirmed": true
         },
         {
             "name": "Joed Henrique Paes",
             "email": "joedhenriquepaes@gmail.com",
             "password": "joedhenriquepaes",
             "role": "s",
-"isConfirmed": true
-        },
-        {
-            "name": "Sangeetha Sahu",
-            "email": "sangeethasahu@gmail.com",
-            "password": "sangeethasahu",
-            "role": "s",
-"isConfirmed": true
-        },
-        {
-            "name": "Damian Campo",
-            "email": "damiancampo@gmail.com",
-            "password": "damiancampo",
-            "role": "s",
-"isConfirmed": true
+            "isConfirmed": true
         },
         {
             "name": "Markus Auf der Mauer",
             "email": "markusaufdermauer@gmail.com",
             "password": "markusaufdermauer",
             "role": "s",
-"isConfirmed": true
+            "isConfirmed": true
         },
         {
-            "name": "Jonny McWilliams",
-            "email": "jonnymcwilliams@gmail.com",
-            "password": "jonnymcwilliams",
+            "name": "Stephen Cheang",
+            "email": "stephencheang@gmail.com",
+            "password": "stephencheang",
             "role": "s",
-"isConfirmed": true
+            "isConfirmed": true
+        },
+        {
+            "name": "Alexander Ossipov",
+            "email": "alexanderossipov@gmail.com",
+            "password": "alexanderossipov",
+            "role": "s",
+            "isConfirmed": true
+        },
+        {
+            "name": "A.Sadeghi",
+            "email": "a.sadeghi@gmail.com",
+            "password": "a.sadeghi",
+            "role": "s",
+            "isConfirmed": true
+        },
+        {
+            "name": "Tarek Ahmed Radwan",
+            "email": "tarekahmedradwan@gmail.com",
+            "password": "tarekahmedradwan",
+            "role": "s",
+            "isConfirmed": true
         },
         {
             "name": "Dennis Meißel",
             "email": "dennismeißel@gmail.com",
             "password": "dennismeißel",
             "role": "s",
-"isConfirmed": true
+            "isConfirmed": true
         },
         {
-            "name": "Thomas Gmeinder",
-            "email": "thomasgmeinder@gmail.com",
-            "password": "thomasgmeinder",
+            "name": "Damian Campo",
+            "email": "damiancampo@gmail.com",
+            "password": "damiancampo",
             "role": "s",
-"isConfirmed": true
-        },
-        {
-            "name": "Niloofar Hosseinidadras",
-            "email": "niloofarhosseinidadras@gmail.com",
-            "password": "niloofarhosseinidadras",
-            "role": "s",
-"isConfirmed": true
-        },
-        {
-            "name": "Nikos Karaliolios",
-            "email": "nikoskaraliolios@gmail.com",
-            "password": "nikoskaraliolios",
-            "role": "s",
-"isConfirmed": true
-        },
-        {
-            "name": "Nikhil yadav",
-            "email": "nikhilyadav@gmail.com",
-            "password": "nikhilyadav",
-            "role": "s",
-"isConfirmed": true
-        },
-        {
-            "name": "Amir Khan",
-            "email": "amirkhan@gmail.com",
-            "password": "amirkhan",
-            "role": "s",
-"isConfirmed": true
+            "isConfirmed": true
         }
     ],
     "instructor": {
@@ -158,7 +158,170 @@
         "email": "joseportilla@gmail.com",
         "password": "joseportilla",
         "role": "i",
-"isConfirmed": true,
-        "briefIntroduction": "<p>&nbsp; Jose Marcial Portilla has a BS and MS in Mechanical Engineering from Santa Clara University and&nbsp;years of&nbsp;experience as a professional instructor and trainer for Data Science and programming. He has publications and patents in various fields such as microfluidics,&nbsp;materials science, and data science technologies. Over the course of his career he has developed a skill set in analyzing data and he hopes to use his experience in teaching and data science to help other people learn the power of programming the&nbsp;ability to analyze data, as well as present the data in clear and beautiful visualizations. Currently he works as the Head of Data Science for Pierian Data Inc.&nbsp;and provides in-person data science and python programming training courses to employees working at top companies, including General Electric, Cigna, The New York Times, Credit Suisse, McKinsey and many more.&nbsp;Feel free to contact him on LinkedIn for more information on in-person training sessions or group training sessions in Las Vegas, NV.</p>"
-    }
+        "briefIntroduction": "<p>&nbsp; Jose Marcial Portilla has a BS and MS in Mechanical Engineering from Santa Clara University and&nbsp;years of&nbsp;experience as a professional instructor and trainer for Data Science and programming. He has publications and patents in various fields such as microfluidics,&nbsp;materials science, and data science technologies. Over the course of his career he has developed a skill set in analyzing data and he hopes to use his experience in teaching and data science to help other people learn the power of programming the&nbsp;ability to analyze data, as well as present the data in clear and beautiful visualizations. Currently he works as the Head of Data Science for Pierian Data Inc.&nbsp;and provides in-person data science and python programming training courses to employees working at top companies, including General Electric, Cigna, The New York Times, Credit Suisse, McKinsey and many more.&nbsp;Feel free to contact him on LinkedIn for more information on in-person training sessions or group training sessions in Las Vegas, NV.</p>",
+        "isConfirmed": true
+    },
+    "curriculum": [
+        {
+            "sectionName": "Introduction",
+            "unitNames": [
+                "Introduction",
+                "Course Overview -- PLEASE DON'T SKIP THIS LECTURE! Thanks :)",
+                "FAQ - Frequently Asked Questions"
+            ]
+        },
+        {
+            "sectionName": "Installation and Setup",
+            "unitNames": [
+                "Quick Note for MacOS and Linux Users",
+                "Installing TensorFlow and Environment Setup"
+            ]
+        },
+        {
+            "sectionName": "What is Machine Learning?",
+            "unitNames": [
+                "Machine Learning Overview"
+            ]
+        },
+        {
+            "sectionName": "Crash Course Overview",
+            "unitNames": [
+                "Crash Course Section Introduction",
+                "NumPy Crash Course",
+                "Pandas Crash Course",
+                "Data Visualization Crash Course",
+                "SciKit Learn Preprocessing Overview",
+                "Crash Course Review Exercise",
+                "Crash Course Review Exercise - Solutions"
+            ]
+        },
+        {
+            "sectionName": "Introduction to Neural Networks",
+            "unitNames": [
+                "Introduction to Neural Networks",
+                "Introduction to Perceptron",
+                "Neural Network Activation Functions",
+                "Cost Functions",
+                "Gradient Descent Backpropagation",
+                "TensorFlow Playground",
+                "Manual Creation of Neural Network - Part One",
+                "Manual Creation of Neural Network - Part Two - Operations",
+                "Manual Creation of Neural Network - Part Three - Placeholders and Variables",
+                "Manual Creation of Neural Network - Part Four - Session",
+                "Manual Neural Network Classification Task"
+            ]
+        },
+        {
+            "sectionName": "TensorFlow Basics",
+            "unitNames": [
+                "Introduction to TensorFlow",
+                "TensorFlow Basic Syntax",
+                "TensorFlow Graphs",
+                "Variables and Placeholders",
+                "TensorFlow - A Neural Network - Part One",
+                "TensorFlow - A Neural Network - Part Two",
+                "TensorFlow Regression Example - Part One",
+                "TensorFlow Regression Example _ Part Two",
+                "TensorFlow Classification Example - Part One",
+                "TensorFlow Classification Example - Part Two",
+                "TF Regression Exercise",
+                "TF Regression Exercise Solution Walkthrough",
+                "TF Classification Exercise",
+                "TF Classification Exercise Solution Walkthrough",
+                "Saving and Restoring Models"
+            ]
+        },
+        {
+            "sectionName": "Convolutional Neural Networks",
+            "unitNames": [
+                "Introduction to Convolutional Neural Network Section",
+                "Review of Neural Networks",
+                "New Theory Topics",
+                "Quick note on MNIST lecture",
+                "MNIST Data Overview",
+                "MNIST Basic Approach Part One",
+                "MNIST Basic Approach Part Two",
+                "CNN Theory Part One",
+                "CNN Theory Part Two",
+                "CNN MNIST Code Along - Part One",
+                "CNN MNIST Code Along - Part Two",
+                "Introduction to CNN Project",
+                "CNN Project Exercise Solution - Part One",
+                "CNN Project Exercise Solution - Part Two"
+            ]
+        },
+        {
+            "sectionName": "Recurrent Neural Networks",
+            "unitNames": [
+                "Introduction to RNN Section",
+                "RNN Theory",
+                "Manual Creation of RNN",
+                "Vanishing Gradients",
+                "LSTM and GRU Theory",
+                "Introduction to RNN with TensorFlow API",
+                "RNN with TensorFlow - Part One",
+                "RNN with TensorFlow - Part Two",
+                "Quick Note on RNN Plotting Part 3",
+                "RNN with TensorFlow - Part Three",
+                "Time Series Exercise Overview",
+                "Time Series Exercise Solution",
+                "Quick Note on Word2Vec",
+                "Word2Vec Theory",
+                "Word2Vec Code Along - Part One",
+                "Word2Vec Part Two"
+            ]
+        },
+        {
+            "sectionName": "Miscellaneous Topics",
+            "unitNames": [
+                "Intro to Miscellaneous Topics",
+                "Deep Nets with Tensorflow Abstractions API - Part One",
+                "Deep Nets with Tensorflow Abstractions API  - Estimator API",
+                "Deep Nets with Tensorflow Abstractions API  - Keras",
+                "Deep Nets with Tensorflow Abstractions API  - Layers",
+                "Tensorboard"
+            ]
+        },
+        {
+            "sectionName": "AutoEncoders",
+            "unitNames": [
+                "Autoencoder Basics",
+                "Dimensionality Reduction with Linear Autoencoder",
+                "Linear Autoencoder PCA Exercise Overview",
+                "Linear Autoencoder PCA Exercise Solutions",
+                "Stacked Autoencoder"
+            ]
+        },
+        {
+            "sectionName": "Reinforcement Learning with OpenAI Gym",
+            "unitNames": [
+                "Introduction to Reinforcement Learning with OpenAI Gym",
+                "Extra Resources for Reinforcement Learning",
+                "Introduction to OpenAI Gym",
+                "OpenAI Gym Steup",
+                "Open AI Gym Env Basics",
+                "Open AI Gym Observations",
+                "OpenAI Gym Actions",
+                "Simple Neural Network Game",
+                "Policy Gradient Theory",
+                "Policy Gradient Code Along Part One",
+                "Policy Gradient Code Along Part Two"
+            ]
+        },
+        {
+            "sectionName": "GAN - Generative Adversarial Networks",
+            "unitNames": [
+                "Introduction to GANs",
+                "GAN Code Along - Part One",
+                "GAN Code Along - Part Two",
+                "GAN Code Along - Part Three"
+            ]
+        },
+        {
+            "sectionName": "BONUS",
+            "unitNames": [
+                "Bonus Lecture"
+            ]
+        }
+    ]
 }

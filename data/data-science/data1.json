@@ -6,151 +6,151 @@
     "course": {
         "title": "Machine Learning A-Z™: Hands-On Python & R In Data Science",
         "subtitle": "Learn to create Machine Learning Algorithms in Python and R from two Data Science experts. Code templates included.",
-        "descriptions":  "",
+        "descriptions": [],
         "reviews": [],
         "students": [],
-        "image1xURL": "https://img-a.udemycdn.com/course/240x135/950390_270f_3.jpg",
-        "image2xURL": "https://img-a.udemycdn.com/course/480x270/950390_270f_3.jpg",
-        "image3xURL": "https://img-a.udemycdn.com/course/750x422/950390_270f_3.jpg",
+        "image1xURL": "https://img-b.udemycdn.com/course/240x135/950390_270f_3.jpg",
+        "image2xURL": "https://img-b.udemycdn.com/course/480x270/950390_270f_3.jpg",
+        "image3xURL": "https://img-b.udemycdn.com/course/750x422/950390_270f_3.jpg",
         "discountPrice": 11.99,
         "originalPrice": 129.99,
         "numViews": 0,
-        "curriculum": {}
+        "curriculum": []
     },
     "reviews": [
         {
-            "body": "Behind complex mathematics and statistics, this course gives a very intuitive and comprehensive explanation about all of the subjects and gives some blueprints to analyze several problems. Really good set of tools! Thank you!",
-            "rating": 4
+            "body": "This course delivers what it promises (hands-on approach) and more (in the form of bonuses and additional references). Recommended for people who know the theory but seriously lack the implementation practice.",
+            "rating": 4.5
         },
         {
-            "body": "I knew nothing about ML and AI before starting this course. Now, I am very confident in solving problems. Looking for an advanced course now. Kirill and Hadelin are awesome",
+            "body": "Absolutely Fantastic course. I appreciate the patience that Kirill and Hadelin ha shown in explaining such difficult concepts step by step. Kudos to them !!. Absolutely must for beginners.\n\n2 areas which I felt should have been included\n\n1. The mathematical concepts behind each of the models. While Kirill and Hadelin have touched upon those but detailed explanation would have enhanced the value further.\n\n2. Some real life case studies for each of the models.\n\nBoth of the above would have made the course a little more longer but could have transformed this course into a PG diploma equivalent.",
             "rating": 5
         },
         {
-            "body": "This course is really good. I've learned how machine learning and Deep learning work with nice examples. There is no much mathematical derivations and explanations. But this course is very fruitful for beginners.",
-            "rating": 4
-        },
-        {
-            "body": "After going through courses on other platforms I realized that this course builds your foundation in Machine learning and not just tells you how to use the libs.",
+            "body": "First and Foremost, Thanks alot to UDEMY and excellent faculty members. You folks are amazingly admirable. Either Class room teaching or computer based online trainings at affordable price is truly gift of god to aspirants who believe in education and knowledge sharing. Keep up spreading the education across the globe as much more as you can! with great Respect and Love, Subhash Raghu Pabbineedi :-)",
             "rating": 5
         },
         {
-            "body": "I think it's a good overview of a huge topic. I feel I am very far from being a Data Scientist, but at least I can understands the big picture and discuss AI/ML/NN in polite company without looking stupid ;)",
-            "rating": 5
-        },
-        {
-            "body": "Lots of content and that part is great. Sometimes I was not able to match the results shown in the tutorial. Many people had the same problems but getting a clear response back in the Q&A section seems to be an issue.",
-            "rating": 3.5
+            "body": "Hadelin's speech style (frequent hard pauses after every few words) makes it very difficult to focus on and absorb the content. His excessive and needless repetition of words/terms/concepts makes the narration unnecessarily bulky and quite distracting. The delivery needs to be more crisp, concise, and easy flowing.\n\nMore importantly, in many cases, this narrator simply brushes aside the difference between a prediction and an actual value, and calls any model output as good without much, if any, substantiation!\n\nOn the good side, the course provides just enough sample code to get going and practicing the algorithm on larger, real-life datasets. Both presenters are energetic and seem adequately knowledgeable to deliver the content. I hope that Hadelin adjusts his speech style to make the course more engaging and enjoyable.",
+            "rating": 2
         },
         {
             "body": "This course is superb. Having completed the earlier R Programming courses from Kirill Eremenko, I obtained a fairly basic handle on the core R language (having no experience beforehand), and felt ML would be a good next challenge. I committed to complete the entire course - which is quite comprehensive - and I'm quite glad I did as I now feel as if I have enough of a handle on building up these models and can at least speak intelligently about them. The coding skills of Hadelin de Ponteves are quite impressive and there were many little tricks and takeaways that can be applied elsewhere in your work. I do have one important complaint and that is regarding working with the H2o platform in the ANN lecture. There are many, many complaints on this topic which have not been addressed by the author(s). I came to the solution after much research and it involves installing a compatible version of Java JDK on your machine. The documentation is found on the H2o website. As of today, H2o does not support the most recent version of Java (15) so you will need to download an earlier version from the Java archive. Installing/uninstalling is a bit of a pain, but good luck.",
             "rating": 5
         },
         {
-            "body": "I think this is the best value for money I have ever received in my Life till now. The course price was so ridiculously low compared to the amazing classes it had. Great work guys. Kudos to Hadelin I noticed that in the entire course he has not uttered a tentative ummmm or stumbled anywhere. Simply unbelievable stamina from him and the concept explanation by Kirill!!! Thanks a million.",
+            "body": "It was a good introduction, though I wished that there were more things that it could have been more clear about. I wished it covered more interesting stuff, but I suppose that would be for their Deep Learning Course.",
+            "rating": 4
+        },
+        {
+            "body": "This was amazing journey. I spend over 40 hours learn how implement AI algorithm in Python and R. Great job. Thank you Mr. Hadelin and Mr. Kirill so much. Enjoy machine learning!",
             "rating": 5
         },
         {
-            "body": "It was very insightful and extensive. The only problems that i faced were that my queries weren't solved when i posted them. So if you could work on that, it would be perfect!!!\n\nThank You",
+            "body": "Loved the Intuitions part, really helped to dive into the course and understand well.\n\nA good coding example also to learn to implement both in R and Python. Great tips and tricks all along the course.",
+            "rating": 5
+        },
+        {
+            "body": "I would say this is a long journey for me to finish this course even during the COVID period! But!!! I literally enjoy the course content and the way of teaching by the instructor! Thanks, @Kirill Eremenko! I like your teaching tempo as well as a clear explanation! You will definitely learn many toolkits for machine learning as a data scientist especially for the beginner who has the intention to proceed with a data scientist career in the future like me!",
             "rating": 4.5
         },
         {
-            "body": "I really enjoyed this course. This course is really good for learning how to write machine learning codes in python and R. Especially, I liked how the instructors explained each and every part of the code.",
+            "body": "What a great course for starting my machine learning journey. I am a mechanical engineer and have found a love for software engineering/ data science. this course was perfect for me because i have a background in math and computer science already and was able to absorb and learn a lot from this course quickly. Also, the structure and organization of this course with the coding templates is GOLD!\n\nThank you for your hard work on making this course.",
             "rating": 5
         },
         {
-            "body": "Highly Recommended,\n\nHonestly, this is an amazing course. I had limited knowledge of coding but I did not feel much difficulty in understanding the concepts. All the models are explained properly to the point which is needed for application.\n\nGreat resources, good explanation.\n\nI have taken 3 more courses in addition to this. Hope it will be as amazing as this course.\n\nThank you SDS. Krill and Hadlin :)",
+            "body": "After going through courses on other platforms I realized that this course builds your foundation in Machine learning and not just tells you how to use the libs.",
             "rating": 5
         },
         {
-            "body": "I have no words. This is probably the best course I've ever taken on Udemy so far. The instructors are great and they always manage to make complex topics simple.\n\nShout out to them and thanks for this course.",
-            "rating": 5
+            "body": "I really enjoy how there was more emphasis on the theory part than the programming part. But I think a more in-depth knowledge of maths behind all the theory would help us understand and learn more. Overall, great course, would definitely recommend it.",
+            "rating": 4
         }
     ],
     "students": [
         {
-            "name": "José Guillermo Obando Maradiaga",
-            "email": "joséguillermoobandomaradiaga@gmail.com",
-            "password": "joséguillermoobandomaradiaga",
+            "name": "Abhilash Nair",
+            "email": "abhilashnair@gmail.com",
+            "password": "abhilashnair",
             "role": "s",
-"isConfirmed": true
+            "isConfirmed": true
         },
         {
-            "name": "Prasanth Nutheti",
-            "email": "prasanthnutheti@gmail.com",
-            "password": "prasanthnutheti",
+            "name": "Shomik Bhattacharyya",
+            "email": "shomikbhattacharyya@gmail.com",
+            "password": "shomikbhattacharyya",
             "role": "s",
-"isConfirmed": true
+            "isConfirmed": true
         },
         {
-            "name": "Solai Nesan",
-            "email": "solainesan@gmail.com",
-            "password": "solainesan",
+            "name": "Subhash Raghu Pabbineedi",
+            "email": "subhashraghupabbineedi@gmail.com",
+            "password": "subhashraghupabbineedi",
             "role": "s",
-"isConfirmed": true
+            "isConfirmed": true
         },
         {
-            "name": "Anuj Gupta",
-            "email": "anujgupta@gmail.com",
-            "password": "anujgupta",
+            "name": "Rahul Alawani",
+            "email": "rahulalawani@gmail.com",
+            "password": "rahulalawani",
             "role": "s",
-"isConfirmed": true
-        },
-        {
-            "name": "Luca Passani",
-            "email": "lucapassani@gmail.com",
-            "password": "lucapassani",
-            "role": "s",
-"isConfirmed": true
-        },
-        {
-            "name": "Jeff Colbeck",
-            "email": "jeffcolbeck@gmail.com",
-            "password": "jeffcolbeck",
-            "role": "s",
-"isConfirmed": true
+            "isConfirmed": true
         },
         {
             "name": "Andre Munoz",
             "email": "andremunoz@gmail.com",
             "password": "andremunoz",
             "role": "s",
-"isConfirmed": true
+            "isConfirmed": true
         },
         {
-            "name": "Kamal Acharya",
-            "email": "kamalacharya@gmail.com",
-            "password": "kamalacharya",
+            "name": "Jason Chan",
+            "email": "jasonchan@gmail.com",
+            "password": "jasonchan",
             "role": "s",
-"isConfirmed": true
+            "isConfirmed": true
         },
         {
-            "name": "Adarsh Tripathy",
-            "email": "adarshtripathy@gmail.com",
-            "password": "adarshtripathy",
+            "name": "Grzegorz Woźny",
+            "email": "grzegorzwoźny@gmail.com",
+            "password": "grzegorzwoźny",
             "role": "s",
-"isConfirmed": true
+            "isConfirmed": true
         },
         {
-            "name": "Barsha Thakur",
-            "email": "barshathakur@gmail.com",
-            "password": "barshathakur",
+            "name": "Akash Chowdhury",
+            "email": "akashchowdhury@gmail.com",
+            "password": "akashchowdhury",
             "role": "s",
-"isConfirmed": true
+            "isConfirmed": true
         },
         {
-            "name": "Maniteja Mujigela",
-            "email": "manitejamujigela@gmail.com",
-            "password": "manitejamujigela",
+            "name": "Huan Zhang",
+            "email": "huanzhang@gmail.com",
+            "password": "huanzhang",
             "role": "s",
-"isConfirmed": true
+            "isConfirmed": true
         },
         {
-            "name": "Thergiakis Eftychios",
-            "email": "thergiakiseftychios@gmail.com",
-            "password": "thergiakiseftychios",
+            "name": "Jeremy Tapia",
+            "email": "jeremytapia@gmail.com",
+            "password": "jeremytapia",
             "role": "s",
-"isConfirmed": true
+            "isConfirmed": true
+        },
+        {
+            "name": "Anuj Gupta",
+            "email": "anujgupta@gmail.com",
+            "password": "anujgupta",
+            "role": "s",
+            "isConfirmed": true
+        },
+        {
+            "name": "Shaswat Dharaiya",
+            "email": "shaswatdharaiya@gmail.com",
+            "password": "shaswatdharaiya",
+            "role": "s",
+            "isConfirmed": true
         }
     ],
     "instructor": {
@@ -158,7 +158,562 @@
         "email": "kirilleremenko@gmail.com",
         "password": "kirilleremenko",
         "role": "i",
-"isConfirmed": true,
-        "briefIntroduction": "<p>My name is Kirill Eremenko and I am super-psyched that you are reading this!</p><p>Professionally, I am a Data Science management consultant with over five years of experience in finance, retail, transport and other industries. I was trained by the best analytics mentors at Deloitte Australia and today I leverage Big Data to drive business strategy, revamp customer experience and revolutionize existing operational processes.</p><p>From my courses you will straight away notice how I combine my real-life experience and academic background in Physics and Mathematics to deliver professional step-by-step coaching in the space of Data Science. I am also passionate about public speaking, and regularly present on Big Data at leading Australian universities and industry events.</p><p>To sum up, I am absolutely and utterly passionate about Data Science and I am looking forward to sharing my passion and knowledge with you!</p>"
-    }
+        "briefIntroduction": "<p>My name is Kirill Eremenko and I am super-psyched that you are reading this!</p><p>Professionally, I am a Data Science management consultant with over five years of experience in finance, retail, transport and other industries. I was trained by the best analytics mentors at Deloitte Australia and today I leverage Big Data to drive business strategy, revamp customer experience and revolutionize existing operational processes.</p><p>From my courses you will straight away notice how I combine my real-life experience and academic background in Physics and Mathematics to deliver professional step-by-step coaching in the space of Data Science. I am also passionate about public speaking, and regularly present on Big Data at leading Australian universities and industry events.</p><p>To sum up, I am absolutely and utterly passionate about Data Science and I am looking forward to sharing my passion and knowledge with you!</p>",
+        "isConfirmed": true
+    },
+    "curriculum": [
+        {
+            "sectionName": "Welcome to the course!",
+            "unitNames": [
+                "Applications of Machine Learning",
+                "BONUS #1: Learning Paths",
+                "BONUS #2: ML vs. DL vs. AI - What’s the Difference?",
+                "BONUS #3: Regression Types",
+                "Why Machine Learning is the Future",
+                "Important notes, tips & tricks for this course",
+                "This PDF resource will help you a lot!",
+                "GET ALL THE CODES AND DATASETS HERE!",
+                "Presentation of the ML A-Z folder, Colaboratory, Jupyter Notebook and Spyder",
+                "Installing R and R Studio (Mac, Linux & Windows)",
+                "BONUS: Meet your instructors",
+                "Some Additional Resources",
+                "FAQBot!",
+                "Your Shortcut To Becoming A Better Data Scientist!"
+            ]
+        },
+        {
+            "sectionName": "-------------------- Part 1: Data Preprocessing --------------------",
+            "unitNames": [
+                "Welcome to Part 1 - Data Preprocessing"
+            ]
+        },
+        {
+            "sectionName": "Data Preprocessing in Python",
+            "unitNames": [
+                "Make sure you have your Machine Learning A-Z folder ready",
+                "Getting Started",
+                "Importing the Libraries",
+                "Importing the Dataset",
+                "For Python learners, summary of Object-oriented programming: classes & objects",
+                "Taking care of Missing Data",
+                "Encoding Categorical Data",
+                "Splitting the dataset into the Training set and Test set",
+                "Feature Scaling"
+            ]
+        },
+        {
+            "sectionName": "Data Preprocessing in R",
+            "unitNames": [
+                "Welcome",
+                "Getting Started",
+                "Make sure you have your dataset ready",
+                "Dataset Description",
+                "Importing the Dataset",
+                "Taking care of Missing Data",
+                "Encoding Categorical Data",
+                "Splitting the dataset into the Training set and Test set",
+                "Feature Scaling",
+                "Data Preprocessing Template"
+            ]
+        },
+        {
+            "sectionName": "-------------------- Part 2: Regression --------------------",
+            "unitNames": [
+                "Welcome to Part 2 - Regression"
+            ]
+        },
+        {
+            "sectionName": "Simple Linear Regression",
+            "unitNames": [
+                "Simple Linear Regression Intuition - Step 1",
+                "Simple Linear Regression Intuition - Step 2",
+                "Make sure you have your Machine Learning A-Z folder ready",
+                "Simple Linear Regression in Python - Step 1",
+                "Simple Linear Regression in Python - Step 2",
+                "Simple Linear Regression in Python - Step 3",
+                "Simple Linear Regression in Python - Step 4",
+                "Simple Linear Regression in Python - BONUS",
+                "Simple Linear Regression in R - Step 1",
+                "Simple Linear Regression in R - Step 2",
+                "Simple Linear Regression in R - Step 3",
+                "Simple Linear Regression in R - Step 4",
+                "Simple Linear Regression"
+            ]
+        },
+        {
+            "sectionName": "Multiple Linear Regression",
+            "unitNames": [
+                "Dataset + Business Problem Description",
+                "Multiple Linear Regression Intuition - Step 1",
+                "Multiple Linear Regression Intuition - Step 2",
+                "Multiple Linear Regression Intuition - Step 3",
+                "Multiple Linear Regression Intuition - Step 4",
+                "Understanding the P-Value",
+                "Multiple Linear Regression Intuition - Step 5",
+                "Make sure you have your Machine Learning A-Z folder ready",
+                "Multiple Linear Regression in Python - Step 1",
+                "Multiple Linear Regression in Python - Step 2",
+                "Multiple Linear Regression in Python - Step 3",
+                "Multiple Linear Regression in Python - Step 4",
+                "Multiple Linear Regression in Python - Backward Elimination",
+                "Multiple Linear Regression in Python - BONUS",
+                "Multiple Linear Regression in R - Step 1",
+                "Multiple Linear Regression in R - Step 2",
+                "Multiple Linear Regression in R - Step 3",
+                "Multiple Linear Regression in R - Backward Elimination - HOMEWORK !",
+                "Multiple Linear Regression in R - Backward Elimination - Homework Solution",
+                "Multiple Linear Regression in R - Automatic Backward Elimination",
+                "Multiple Linear Regression"
+            ]
+        },
+        {
+            "sectionName": "Polynomial Regression",
+            "unitNames": [
+                "Polynomial Regression Intuition",
+                "Make sure you have your Machine Learning A-Z folder ready",
+                "Polynomial Regression in Python - Step 1",
+                "Polynomial Regression in Python - Step 2",
+                "Polynomial Regression in Python - Step 3",
+                "Polynomial Regression in Python - Step 4",
+                "Polynomial Regression in R - Step 1",
+                "Polynomial Regression in R - Step 2",
+                "Polynomial Regression in R - Step 3",
+                "Polynomial Regression in R - Step 4",
+                "R Regression Template"
+            ]
+        },
+        {
+            "sectionName": "Support Vector Regression (SVR)",
+            "unitNames": [
+                "SVR Intuition (Updated!)",
+                "Heads-up on non-linear SVR",
+                "Make sure you have your Machine Learning A-Z folder ready",
+                "SVR in Python - Step 1",
+                "SVR in Python - Step 2",
+                "SVR in Python - Step 3",
+                "SVR in Python - Step 4",
+                "SVR in Python - Step 5",
+                "SVR in R"
+            ]
+        },
+        {
+            "sectionName": "Decision Tree Regression",
+            "unitNames": [
+                "Decision Tree Regression Intuition",
+                "Make sure you have your Machine Learning A-Z folder ready",
+                "Decision Tree Regression in Python - Step 1",
+                "Decision Tree Regression in Python - Step 2",
+                "Decision Tree Regression in Python - Step 3",
+                "Decision Tree Regression in Python - Step 4",
+                "Decision Tree Regression in R"
+            ]
+        },
+        {
+            "sectionName": "Random Forest Regression",
+            "unitNames": [
+                "Random Forest Regression Intuition",
+                "Make sure you have your Machine Learning A-Z folder ready",
+                "Random Forest Regression in Python",
+                "Random Forest Regression in R"
+            ]
+        },
+        {
+            "sectionName": "Evaluating Regression Models Performance",
+            "unitNames": [
+                "R-Squared Intuition",
+                "Adjusted R-Squared Intuition"
+            ]
+        },
+        {
+            "sectionName": "Regression Model Selection in Python",
+            "unitNames": [
+                "Make sure you have this Model Selection folder ready",
+                "Preparation of the Regression Code Templates",
+                "THE ULTIMATE DEMO OF THE POWERFUL REGRESSION CODE TEMPLATES IN ACTION!",
+                "Conclusion of Part 2 - Regression"
+            ]
+        },
+        {
+            "sectionName": "Regression Model Selection in R",
+            "unitNames": [
+                "Evaluating Regression Models Performance - Homework's Final Part",
+                "Interpreting Linear Regression Coefficients",
+                "Conclusion of Part 2 - Regression"
+            ]
+        },
+        {
+            "sectionName": "-------------------- Part 3: Classification --------------------",
+            "unitNames": [
+                "Welcome to Part 3 - Classification"
+            ]
+        },
+        {
+            "sectionName": "Logistic Regression",
+            "unitNames": [
+                "Logistic Regression Intuition",
+                "Make sure you have your Machine Learning A-Z folder ready",
+                "Logistic Regression in Python - Step 1",
+                "Logistic Regression in Python - Step 2",
+                "Logistic Regression in Python - Step 3",
+                "Logistic Regression in Python - Step 4",
+                "Logistic Regression in Python - Step 5",
+                "Logistic Regression in Python - Step 6",
+                "Logistic Regression in Python - Step 7",
+                "Logistic Regression in R - Step 1",
+                "Logistic Regression in R - Step 2",
+                "Logistic Regression in R - Step 3",
+                "Logistic Regression in R - Step 4",
+                "Warning - Update",
+                "Logistic Regression in R - Step 5",
+                "R Classification Template",
+                "Machine Learning Regression and Classification BONUS",
+                "Logistic Regression",
+                "BONUS: Logistic Regression Practical Case Study"
+            ]
+        },
+        {
+            "sectionName": "K-Nearest Neighbors (K-NN)",
+            "unitNames": [
+                "K-Nearest Neighbor Intuition",
+                "Make sure you have your Machine Learning A-Z folder ready",
+                "K-NN in Python",
+                "K-NN in R"
+            ]
+        },
+        {
+            "sectionName": "Support Vector Machine (SVM)",
+            "unitNames": [
+                "K-Nearest Neighbor",
+                "SVM Intuition",
+                "Make sure you have your Machine Learning A-Z folder ready",
+                "SVM in Python",
+                "SVM in R"
+            ]
+        },
+        {
+            "sectionName": "Kernel SVM",
+            "unitNames": [
+                "Kernel SVM Intuition",
+                "Mapping to a higher dimension",
+                "The Kernel Trick",
+                "Types of Kernel Functions",
+                "Non-Linear Kernel SVR (Advanced)",
+                "Make sure you have your Machine Learning A-Z folder ready",
+                "Kernel SVM in Python",
+                "Kernel SVM in R"
+            ]
+        },
+        {
+            "sectionName": "Naive Bayes",
+            "unitNames": [
+                "Bayes Theorem",
+                "Naive Bayes Intuition",
+                "Naive Bayes Intuition (Challenge Reveal)",
+                "Naive Bayes Intuition (Extras)",
+                "Make sure you have your Machine Learning A-Z folder ready",
+                "Naive Bayes in Python",
+                "Naive Bayes in R"
+            ]
+        },
+        {
+            "sectionName": "Decision Tree Classification",
+            "unitNames": [
+                "Decision Tree Classification Intuition",
+                "Make sure you have your Machine Learning A-Z folder ready",
+                "Decision Tree Classification in Python",
+                "Decision Tree Classification in R"
+            ]
+        },
+        {
+            "sectionName": "Random Forest Classification",
+            "unitNames": [
+                "Random Forest Classification Intuition",
+                "Make sure you have your Machine Learning A-Z folder ready",
+                "Random Forest Classification in Python",
+                "Random Forest Classification in R"
+            ]
+        },
+        {
+            "sectionName": "Classification Model Selection in Python",
+            "unitNames": [
+                "Make sure you have this Model Selection folder ready",
+                "THE ULTIMATE DEMO OF THE POWERFUL CLASSIFICATION CODE TEMPLATES IN ACTION!"
+            ]
+        },
+        {
+            "sectionName": "Evaluating Classification Models Performance",
+            "unitNames": [
+                "False Positives & False Negatives",
+                "Confusion Matrix",
+                "Accuracy Paradox",
+                "CAP Curve",
+                "CAP Curve Analysis",
+                "Conclusion of Part 3 - Classification"
+            ]
+        },
+        {
+            "sectionName": "-------------------- Part 4: Clustering --------------------",
+            "unitNames": [
+                "Welcome to Part 4 - Clustering"
+            ]
+        },
+        {
+            "sectionName": "K-Means Clustering",
+            "unitNames": [
+                "K-Means Clustering Intuition",
+                "K-Means Random Initialization Trap",
+                "K-Means Selecting The Number Of Clusters",
+                "Make sure you have your Machine Learning A-Z folder ready",
+                "K-Means Clustering in Python - Step 1",
+                "K-Means Clustering in Python - Step 2",
+                "K-Means Clustering in Python - Step 3",
+                "K-Means Clustering in Python - Step 4",
+                "K-Means Clustering in Python - Step 5",
+                "K-Means Clustering in R"
+            ]
+        },
+        {
+            "sectionName": "Hierarchical Clustering",
+            "unitNames": [
+                "K-Means Clustering",
+                "Hierarchical Clustering Intuition",
+                "Hierarchical Clustering How Dendrograms Work",
+                "Hierarchical Clustering Using Dendrograms",
+                "Make sure you have your Machine Learning A-Z folder ready",
+                "Hierarchical Clustering in Python - Step 1",
+                "Hierarchical Clustering in Python - Step 2",
+                "Hierarchical Clustering in Python - Step 3",
+                "Hierarchical Clustering in R - Step 1",
+                "Hierarchical Clustering in R - Step 2",
+                "Hierarchical Clustering in R - Step 3",
+                "Hierarchical Clustering in R - Step 4",
+                "Hierarchical Clustering in R - Step 5",
+                "Hierarchical Clustering",
+                "Conclusion of Part 4 - Clustering"
+            ]
+        },
+        {
+            "sectionName": "-------------------- Part 5: Association Rule Learning --------------------",
+            "unitNames": [
+                "Welcome to Part 5 - Association Rule Learning"
+            ]
+        },
+        {
+            "sectionName": "Apriori",
+            "unitNames": [
+                "Apriori Intuition",
+                "Make sure you have your Machine Learning A-Z folder ready",
+                "Apriori in Python - Step 1",
+                "Apriori in Python - Step 2",
+                "Apriori in Python - Step 3",
+                "Apriori in Python - Step 4",
+                "Apriori in R - Step 1",
+                "Apriori in R - Step 2",
+                "Apriori in R - Step 3"
+            ]
+        },
+        {
+            "sectionName": "Eclat",
+            "unitNames": [
+                "Eclat Intuition",
+                "Make sure you have your Machine Learning A-Z folder ready",
+                "Eclat in Python",
+                "Eclat in R"
+            ]
+        },
+        {
+            "sectionName": "-------------------- Part 6: Reinforcement Learning --------------------",
+            "unitNames": [
+                "Welcome to Part 6 - Reinforcement Learning"
+            ]
+        },
+        {
+            "sectionName": "Upper Confidence Bound (UCB)",
+            "unitNames": [
+                "The Multi-Armed Bandit Problem",
+                "Upper Confidence Bound (UCB) Intuition",
+                "Make sure you have your Machine Learning A-Z folder ready",
+                "Upper Confidence Bound in Python - Step 1",
+                "Upper Confidence Bound in Python - Step 2",
+                "Upper Confidence Bound in Python - Step 3",
+                "Upper Confidence Bound in Python - Step 4",
+                "Upper Confidence Bound in Python - Step 5",
+                "Upper Confidence Bound in Python - Step 6",
+                "Upper Confidence Bound in Python - Step 7",
+                "Upper Confidence Bound in R - Step 1",
+                "Upper Confidence Bound in R - Step 2",
+                "Upper Confidence Bound in R - Step 3",
+                "Upper Confidence Bound in R - Step 4"
+            ]
+        },
+        {
+            "sectionName": "Thompson Sampling",
+            "unitNames": [
+                "Thompson Sampling Intuition",
+                "Algorithm Comparison: UCB vs Thompson Sampling",
+                "Make sure you have your Machine Learning A-Z folder ready",
+                "Thompson Sampling in Python - Step 1",
+                "Thompson Sampling in Python - Step 2",
+                "Thompson Sampling in Python - Step 3",
+                "Thompson Sampling in Python - Step 4",
+                "Additional Resource for this Section",
+                "Thompson Sampling in R - Step 1",
+                "Thompson Sampling in R - Step 2"
+            ]
+        },
+        {
+            "sectionName": "-------------------- Part 7: Natural Language Processing --------------------",
+            "unitNames": [
+                "Welcome to Part 7 - Natural Language Processing",
+                "NLP Intuition",
+                "Types of Natural Language Processing",
+                "Classical vs Deep Learning Models",
+                "Bag-Of-Words Model",
+                "Make sure you have your Machine Learning A-Z folder ready",
+                "Natural Language Processing in Python - Step 1",
+                "Natural Language Processing in Python - Step 2",
+                "Natural Language Processing in Python - Step 3",
+                "Natural Language Processing in Python - Step 4",
+                "Natural Language Processing in Python - Step 5",
+                "Natural Language Processing in Python - Step 6",
+                "Natural Language Processing in Python - BONUS",
+                "Homework Challenge",
+                "Natural Language Processing in R - Step 1",
+                "Natural Language Processing in R - Step 2",
+                "Natural Language Processing in R - Step 3",
+                "Natural Language Processing in R - Step 4",
+                "Natural Language Processing in R - Step 5",
+                "Natural Language Processing in R - Step 6",
+                "Natural Language Processing in R - Step 7",
+                "Natural Language Processing in R - Step 8",
+                "Natural Language Processing in R - Step 9",
+                "Natural Language Processing in R - Step 10",
+                "Homework Challenge",
+                "BONUS: NLP BERT"
+            ]
+        },
+        {
+            "sectionName": "-------------------- Part 8: Deep Learning --------------------",
+            "unitNames": [
+                "Welcome to Part 8 - Deep Learning",
+                "What is Deep Learning?"
+            ]
+        },
+        {
+            "sectionName": "Artificial Neural Networks",
+            "unitNames": [
+                "Plan of attack",
+                "The Neuron",
+                "The Activation Function",
+                "How do Neural Networks work?",
+                "How do Neural Networks learn?",
+                "Gradient Descent",
+                "Stochastic Gradient Descent",
+                "Backpropagation",
+                "Business Problem Description",
+                "Make sure you have your Machine Learning A-Z folder ready",
+                "ANN in Python - Step 1",
+                "Check out our free course on ANN for Regression",
+                "ANN in Python - Step 2",
+                "ANN in Python - Step 3",
+                "ANN in Python - Step 4",
+                "ANN in Python - Step 5",
+                "ANN in R - Step 1",
+                "ANN in R - Step 2",
+                "ANN in R - Step 3",
+                "ANN in R - Step 4 (Last step)",
+                "Deep Learning BONUS #1",
+                "BONUS: ANN Case Study"
+            ]
+        },
+        {
+            "sectionName": "Convolutional Neural Networks",
+            "unitNames": [
+                "Plan of attack",
+                "What are convolutional neural networks?",
+                "Step 1 - Convolution Operation",
+                "Step 1(b) - ReLU Layer",
+                "Step 2 - Pooling",
+                "Step 3 - Flattening",
+                "Step 4 - Full Connection",
+                "Summary",
+                "Softmax & Cross-Entropy",
+                "Make sure you have your dataset ready",
+                "CNN in Python - Step 1",
+                "CNN in Python - Step 2",
+                "CNN in Python - Step 3",
+                "CNN in Python - Step 4",
+                "CNN in Python - Step 5",
+                "CNN in Python - FINAL DEMO!",
+                "Deep Learning BONUS #2"
+            ]
+        },
+        {
+            "sectionName": "-------------------- Part 9: Dimensionality Reduction --------------------",
+            "unitNames": [
+                "Welcome to Part 9 - Dimensionality Reduction"
+            ]
+        },
+        {
+            "sectionName": "Principal Component Analysis (PCA)",
+            "unitNames": [
+                "Principal Component Analysis (PCA) Intuition",
+                "Make sure you have your Machine Learning A-Z folder ready",
+                "PCA in Python - Step 1",
+                "PCA in Python - Step 2",
+                "PCA in R - Step 1",
+                "PCA in R - Step 2",
+                "PCA in R - Step 3"
+            ]
+        },
+        {
+            "sectionName": "Linear Discriminant Analysis (LDA)",
+            "unitNames": [
+                "Linear Discriminant Analysis (LDA) Intuition",
+                "Make sure you have your Machine Learning A-Z folder ready",
+                "LDA in Python",
+                "LDA in R"
+            ]
+        },
+        {
+            "sectionName": "Kernel PCA",
+            "unitNames": [
+                "Make sure you have your Machine Learning A-Z folder ready",
+                "Kernel PCA in Python",
+                "Kernel PCA in R"
+            ]
+        },
+        {
+            "sectionName": "-------------------- Part 10: Model Selection & Boosting --------------------",
+            "unitNames": [
+                "Welcome to Part 10 - Model Selection & Boosting"
+            ]
+        },
+        {
+            "sectionName": "Model Selection",
+            "unitNames": [
+                "Make sure you have your Machine Learning A-Z folder ready",
+                "k-Fold Cross Validation in Python",
+                "Grid Search in Python",
+                "k-Fold Cross Validation in R",
+                "Grid Search in R"
+            ]
+        },
+        {
+            "sectionName": "XGBoost",
+            "unitNames": [
+                "Make sure you have your Machine Learning A-Z folder ready",
+                "XGBoost in Python",
+                "Model Selection and Boosting BONUS",
+                "XGBoost in R",
+                "THANK YOU Bonus Video"
+            ]
+        },
+        {
+            "sectionName": "Bonus Lectures",
+            "unitNames": [
+                "***YOUR SPECIAL BONUS***"
+            ]
+        }
+    ]
 }

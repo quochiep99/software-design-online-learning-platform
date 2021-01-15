@@ -6,7 +6,7 @@
     "course": {
         "title": "Machine Learning, Data Science and Deep Learning with Python",
         "subtitle": "Complete hands-on machine learning tutorial with data science, Tensorflow, artificial intelligence, and neural networks",
-        "descriptions":  "",
+        "descriptions": [],
         "reviews": [],
         "students": [],
         "image1xURL": "https://img-a.udemycdn.com/course/240x135/671576_a272_4.jpg",
@@ -15,12 +15,24 @@
         "discountPrice": 11.99,
         "originalPrice": 129.99,
         "numViews": 0,
-        "curriculum": {}
+        "curriculum": []
     },
     "reviews": [
         {
-            "body": "Frank Kane is an amazing guy. He made this whole thing look a lot easier. Ethics of Deep Learning session shows his commitment to a better world. Keep going!",
+            "body": "This course provides a fairly extensive overview of machine learning techniques. The information about neural networks is also very good, but not as extensive as the ML material - but that is due to the nature of neural netwoks/deep learning. Overall, this is a great course for people with wanting to learn about machine/deep learning and who have little to no prior exposure. By the end of the course, one should have a decent grasp of various methods employed in machine learning, and should also know where/what to look for further learning. Frank gives a good lecture and provides excellent insight as one might expect from a person with his experience in the field. One point of note: if you are not familiar with Python, you may struggle a bit when following along with the examples. If you are familiar with Python, then the examples are very clear and easy to understand.",
+            "rating": 4
+        },
+        {
+            "body": "This is a perfect course for a broad introduction to the field of deep learning. I would recommend taking the course and using it as a reference/refresh tool.",
             "rating": 5
+        },
+        {
+            "body": "I'm a data munger in the industry looking to expand my horizons. This course is actually paid for and included in our learning resources at work. It is a lot of work if you want to do it right, but worth it. I recommend it.",
+            "rating": 5
+        },
+        {
+            "body": "Good practical examples. The FinalAssesment Exercise was really a good one to assemble all the learning in one project.",
+            "rating": 3.5
         },
         {
             "body": "Great general overview of everything you should know. Taking additional courses focusing on more detailed manner would be necessary afterwards.",
@@ -31,126 +43,114 @@
             "rating": 5
         },
         {
-            "body": "It was a good course, learnt a lot of topics, but need more practicals. Thank you so much!",
-            "rating": 3.5
-        },
-        {
-            "body": "The course was amazing, and the simplistic way of teaching a topic that is such an enigma even for veterans of the Computer Science world was simply mindblowing. Props to the tutor.",
-            "rating": 5
-        },
-        {
-            "body": "Great course, recommended. Quickly get's you tinkering and accomplishing small tasks.\n\nComing from an engineering background, I felt I had to do a bit more digging using supplemental material to understand the more 'magic' sections (e.g. SVM), but no big deal as those are details that can be delayed for later once one has a broad overview of the field. Also don't worry too much about not getting the math.\n\nEnjoyed how the final project brought together a lot of the concepts.\n\nI'm now at a good place to solidify a lot of the concepts using practice projects.",
-            "rating": 5
-        },
-        {
             "body": "I can't appreciate enough Frank Kane's work on designing this amazing course. I am really now well-familiar (not an expert) with the concepts we are implementing in the world of Data Science, Machine Learning, and Deep Learning.\n\nI enrolled myself as a novice in this course with a goal to build up the basics of this amazing field of data. I can confidently say I successfully achieved my goals, however there is a way ahead to learn more.\n\nI highly recommend this course to everyone who is interested and curious to explore what Machine Learning is.\n\nAgain! Thank you so much Frank. I am looking forward to get enrolled on other related course unders your instruction. I enjoyed the course throughout and learned a lot.",
             "rating": 4
         },
         {
-            "body": "This course provides a great breadth of coverage on data science concepts, including peripheral topics seldom covered elsewhere (e.g. hyperparameter tuning, ethics and handling missing data). In terms of suggestions for improving the course further, here are a couple of areas for suggested inclusion:\n\n- model explainability for scenarios where dimensionality reduction is utilised (e.g. PCA) or emergent behaviour is observed (e.g. deep learning). This is because explaining how a model arrived at a particular prediction is a critical topic for gaining business confidence from a product owner/business stakeholder.\n\n- when multiple models are feasible to address a business problem, which considerations determine model selection (unless the recommendation is to try all feasible models and use the model that provides the best results, similar to the final project's approach).\n\n- model drift, the factors that cause it, and how to address it (e.g. model retraining)\n\nAs a suggestion for an advanced follow-up course, it'd be great to be able to explore the underlying mathematical theory of the machine/deep learning algorithms explored in this course. This is something I haven't yet seen elsewhere on Udemy, except for regression models.\n\nA separate more Deep Learning course would also be beneficial for exploring topics such as how different gradient descent optimisation algorithms work and considerations for when each kind of algorithm should be used.",
+            "body": "I think some learning questions or even easy programming exercises would be good to get a feeling about the level of what should be expected to take away from this course. What is expected to know after this course? Just high level or really doing all these fancy stuff?",
             "rating": 5
         },
         {
-            "body": "Ottimo punto di partenza per entrare nel mondo del ML. Le lezioni di Frank sono davvero ben fatte. Il corso è impegnativo e affronta tantissimi argomenti. La mia lezione preferita è la \"105. The Ethics of Deep Learning\". I miei complimenti!",
+            "body": "Frank Kane is an amazing guy. He made this whole thing look a lot easier. Ethics of Deep Learning session shows his commitment to a better world. Keep going!",
             "rating": 5
         },
         {
-            "body": "In general what I expected from a course, but I missed some important parts regarding hands-on feature engineering and hyper-parameter tuning. Overall a good course I'd say!",
+            "body": "The course can be better improved if we can have more explanation on the codes and more exercises perhaps. I really like how the final exercise works. Hopefully we can have it in the earlier parts of the course. Nonetheless explanation of topics is very clear and easy to understand.",
+            "rating": 3.5
+        },
+        {
+            "body": "Good introduction how to use ML Algorithms.\n\nI liked the Jupyter Notebooks a lot to play around.\n\nHowever, I have one criticism: Not every wording coming from Mathematics is just fancy and you want to show how smart you are. And most of the Maths used for the algorithms is not really hard. Although I see that it goes beyond the course. That's why I give \"only\" 4 stars. Maybe you could add some notes on the maths behind.\n\nBest,\n\nPhilipp",
             "rating": 4
         },
         {
-            "body": "the course gives a holistic overview of the field which is quite commendable.I'd recommend this course to a friend without a second thought.",
-            "rating": 5
-        },
-        {
-            "body": "Great intro course. Covers a broad array of ML approaches. Seems to be targeted for beginners - answers how to apply ML but not why and where.",
+            "body": "This is a very interesting course. It goes through many different useful techniques used nowadays for data analysis, machine learning and deep learning.\n\nWithout digging too much into theoretical aspects, it provides many practical examples in python.",
             "rating": 4.5
         }
     ],
     "students": [
         {
-            "name": "217439 - Nidhal M Mansoor",
-            "email": "217439-nidhalmmansoor@gmail.com",
-            "password": "217439-nidhalmmansoor",
+            "name": "Ryan Green",
+            "email": "ryangreen@gmail.com",
+            "password": "ryangreen",
             "role": "s",
-"isConfirmed": true
+            "isConfirmed": true
+        },
+        {
+            "name": "Gordon Tibbitts",
+            "email": "gordontibbitts@gmail.com",
+            "password": "gordontibbitts",
+            "role": "s",
+            "isConfirmed": true
+        },
+        {
+            "name": "Curtis O'Neal",
+            "email": "curtiso'neal@gmail.com",
+            "password": "curtiso'neal",
+            "role": "s",
+            "isConfirmed": true
+        },
+        {
+            "name": "Daksha Rajesh Tulshikar",
+            "email": "daksharajeshtulshikar@gmail.com",
+            "password": "daksharajeshtulshikar",
+            "role": "s",
+            "isConfirmed": true
         },
         {
             "name": "Kaan Yiğitsoy",
             "email": "kaanyiğitsoy@gmail.com",
             "password": "kaanyiğitsoy",
             "role": "s",
-"isConfirmed": true
+            "isConfirmed": true
         },
         {
             "name": "Sergei Akopov",
             "email": "sergeiakopov@gmail.com",
             "password": "sergeiakopov",
             "role": "s",
-"isConfirmed": true
-        },
-        {
-            "name": "Shruti G",
-            "email": "shrutig@gmail.com",
-            "password": "shrutig",
-            "role": "s",
-"isConfirmed": true
-        },
-        {
-            "name": "Kanishk Jha",
-            "email": "kanishkjha@gmail.com",
-            "password": "kanishkjha",
-            "role": "s",
-"isConfirmed": true
-        },
-        {
-            "name": "Kenny Rachuonyo",
-            "email": "kennyrachuonyo@gmail.com",
-            "password": "kennyrachuonyo",
-            "role": "s",
-"isConfirmed": true
+            "isConfirmed": true
         },
         {
             "name": "Siddharth Sharma",
             "email": "siddharthsharma@gmail.com",
             "password": "siddharthsharma",
             "role": "s",
-"isConfirmed": true
+            "isConfirmed": true
         },
         {
-            "name": "James Johnson",
-            "email": "jamesjohnson@gmail.com",
-            "password": "jamesjohnson",
+            "name": "Thomas Gwerder",
+            "email": "thomasgwerder@gmail.com",
+            "password": "thomasgwerder",
             "role": "s",
-"isConfirmed": true
+            "isConfirmed": true
         },
         {
-            "name": "Paolo Buccigrossi",
-            "email": "paolobuccigrossi@gmail.com",
-            "password": "paolobuccigrossi",
+            "name": "217439 - Nidhal M Mansoor",
+            "email": "217439-nidhalmmansoor@gmail.com",
+            "password": "217439-nidhalmmansoor",
             "role": "s",
-"isConfirmed": true
+            "isConfirmed": true
         },
         {
-            "name": "Marvin Gießing",
-            "email": "marvingießing@gmail.com",
-            "password": "marvingießing",
+            "name": "Darwin Mirasol",
+            "email": "darwinmirasol@gmail.com",
+            "password": "darwinmirasol",
             "role": "s",
-"isConfirmed": true
+            "isConfirmed": true
         },
         {
-            "name": "Keith Martin",
-            "email": "keithmartin@gmail.com",
-            "password": "keithmartin",
+            "name": "Philipp Donner",
+            "email": "philippdonner@gmail.com",
+            "password": "philippdonner",
             "role": "s",
-"isConfirmed": true
+            "isConfirmed": true
         },
         {
-            "name": "Boris B",
-            "email": "borisb@gmail.com",
-            "password": "borisb",
+            "name": "Valerio Setti",
+            "email": "valeriosetti@gmail.com",
+            "password": "valeriosetti",
             "role": "s",
-"isConfirmed": true
+            "isConfirmed": true
         }
     ],
     "instructor": {
@@ -158,7 +158,180 @@
         "email": "sundogeducationbyfrankkane@gmail.com",
         "password": "sundogeducationbyfrankkane",
         "role": "i",
-"isConfirmed": true,
-        "briefIntroduction": "<p>Sundog Education's mission is to make highly valuable career skills in <strong>big data, data science, and machine learning</strong> accessible to everyone in the world. Our consortium of expert instructors shares our knowledge in these emerging fields with you, at prices anyone can afford.&nbsp;</p><p>Sundog Education is led by Frank Kane and owned by Frank's company, Sundog Software LLC.&nbsp;Frank spent 9 years at <strong>Amazon</strong> and <strong>IMDb</strong>, developing and managing the technology that automatically delivers product and movie recommendations to hundreds of millions of customers, all the time. Frank holds <strong>17 issued patents</strong> in the fields of <strong>distributed computing</strong>, <strong>data mining</strong>, and <strong>machine learning</strong>. In 2012, Frank left to start his own successful company, Sundog Software, which focuses on virtual reality environment technology, and teaching others about big data analysis.</p><p><strong>Due to our volume of students we are unable to respond to private messages; please post your questions within the Q&amp;A of your course. Thanks for understanding.</strong></p>"
-    }
+        "briefIntroduction": "<p>Sundog Education's mission is to make highly valuable career skills in <strong>big data, data science, and machine learning</strong> accessible to everyone in the world. Our consortium of expert instructors shares our knowledge in these emerging fields with you, at prices anyone can afford.&nbsp;</p><p>Sundog Education is led by Frank Kane and owned by Frank's company, Sundog Software LLC.&nbsp;Frank spent 9 years at <strong>Amazon</strong> and <strong>IMDb</strong>, developing and managing the technology that automatically delivers product and movie recommendations to hundreds of millions of customers, all the time. Frank holds <strong>17 issued patents</strong> in the fields of <strong>distributed computing</strong>, <strong>data mining</strong>, and <strong>machine learning</strong>. In 2012, Frank left to start his own successful company, Sundog Software, which focuses on virtual reality environment technology, and teaching others about big data analysis.</p><p><strong>Due to our volume of students we are unable to respond to private messages; please post your questions within the Q&amp;A of your course. Thanks for understanding.</strong></p>",
+        "isConfirmed": true
+    },
+    "curriculum": [
+        {
+            "sectionName": "Getting Started",
+            "unitNames": [
+                "Introduction",
+                "Udemy 101: Getting the Most From This Course",
+                "Installation: Getting Started",
+                "[Activity] WINDOWS: Installing and Using Anaconda & Course Materials",
+                "[Activity] MAC: Installing and Using Anaconda  & Course Materials",
+                "[Activity] LINUX: Installing and Using Anaconda  & Course Materials",
+                "Python Basics, Part 1 [Optional]",
+                "[Activity] Python Basics, Part 2 [Optional]",
+                "[Activity] Python Basics, Part 3 [Optional]",
+                "[Activity] Python Basics, Part 4 [Optional]",
+                "Introducing the Pandas Library [Optional]"
+            ]
+        },
+        {
+            "sectionName": "Statistics and Probability Refresher, and Python Practice",
+            "unitNames": [
+                "Types of Data (Numerical, Categorical, Ordinal)",
+                "Mean, Median, Mode",
+                "[Activity] Using mean, median, and mode in Python",
+                "[Activity] Variation and Standard Deviation",
+                "Probability Density Function; Probability Mass Function",
+                "Common Data Distributions (Normal, Binomial, Poisson, etc)",
+                "[Activity] Percentiles and Moments",
+                "[Activity] A Crash Course in matplotlib",
+                "[Activity] Advanced Visualization with Seaborn",
+                "[Activity] Covariance and Correlation",
+                "[Exercise] Conditional Probability",
+                "Exercise Solution: Conditional Probability of Purchase by Age",
+                "Bayes' Theorem"
+            ]
+        },
+        {
+            "sectionName": "Predictive Models",
+            "unitNames": [
+                "[Activity] Linear Regression",
+                "[Activity] Polynomial Regression",
+                "[Activity] Multiple Regression, and Predicting Car Prices",
+                "Multi-Level Models"
+            ]
+        },
+        {
+            "sectionName": "Machine Learning with Python",
+            "unitNames": [
+                "Supervised vs. Unsupervised Learning, and Train/Test",
+                "[Activity] Using Train/Test to Prevent Overfitting a Polynomial Regression",
+                "Bayesian Methods: Concepts",
+                "[Activity] Implementing a Spam Classifier with  Naive Bayes",
+                "K-Means Clustering",
+                "[Activity] Clustering people based on income and age",
+                "Measuring Entropy",
+                "[Activity] WINDOWS: Installing Graphviz",
+                "[Activity] MAC: Installing Graphviz",
+                "[Activity] LINUX: Installing Graphviz",
+                "Decision Trees: Concepts",
+                "[Activity] Decision Trees: Predicting Hiring Decisions",
+                "Ensemble Learning",
+                "[Activity] XGBoost",
+                "Support Vector Machines (SVM) Overview",
+                "[Activity] Using SVM to cluster people using scikit-learn"
+            ]
+        },
+        {
+            "sectionName": "Recommender Systems",
+            "unitNames": [
+                "User-Based Collaborative Filtering",
+                "Item-Based Collaborative Filtering",
+                "[Activity] Finding Movie Similarities using Cosine Similarity",
+                "[Activity] Improving the Results of Movie Similarities",
+                "[Activity] Making Movie Recommendations with Item-Based Collaborative Filtering",
+                "[Exercise] Improve the recommender's results"
+            ]
+        },
+        {
+            "sectionName": "More Data Mining and Machine Learning Techniques",
+            "unitNames": [
+                "K-Nearest-Neighbors: Concepts",
+                "[Activity] Using KNN to predict a rating for a movie",
+                "Dimensionality Reduction; Principal Component Analysis (PCA)",
+                "[Activity] PCA Example with the Iris data set",
+                "Data Warehousing Overview: ETL and ELT",
+                "Reinforcement Learning",
+                "[Activity] Reinforcement Learning & Q-Learning with Gym",
+                "Understanding a Confusion Matrix",
+                "Measuring Classifiers (Precision, Recall, F1, ROC, AUC)"
+            ]
+        },
+        {
+            "sectionName": "Dealing with Real-World Data",
+            "unitNames": [
+                "Bias/Variance Tradeoff",
+                "[Activity] K-Fold Cross-Validation to avoid overfitting",
+                "Data Cleaning and Normalization",
+                "[Activity] Cleaning web log data",
+                "Normalizing numerical data",
+                "[Activity] Detecting outliers",
+                "Feature Engineering and the Curse of Dimensionality",
+                "Imputation Techniques for Missing Data",
+                "Handling Unbalanced Data: Oversampling, Undersampling, and SMOTE",
+                "Binning, Transforming, Encoding,  Scaling, and Shuffling"
+            ]
+        },
+        {
+            "sectionName": "Apache Spark: Machine Learning on Big Data",
+            "unitNames": [
+                "Warning about Java 11 and Spark 3!",
+                "Spark installation notes for MacOS and Linux users",
+                "[Activity] Installing Spark - Part 1",
+                "[Activity] Installing Spark - Part 2",
+                "Spark Introduction",
+                "Spark and the Resilient Distributed Dataset (RDD)",
+                "Introducing MLLib",
+                "Introduction to Decision Trees in Spark",
+                "[Activity] K-Means Clustering in Spark",
+                "TF / IDF",
+                "[Activity] Searching Wikipedia with Spark",
+                "[Activity] Using the Spark 2.0 DataFrame API for MLLib"
+            ]
+        },
+        {
+            "sectionName": "Experimental Design / ML in the Real World",
+            "unitNames": [
+                "Deploying Models to Real-Time Systems",
+                "A/B Testing Concepts",
+                "T-Tests and P-Values",
+                "[Activity] Hands-on With T-Tests",
+                "Determining How Long to Run an Experiment",
+                "A/B Test Gotchas"
+            ]
+        },
+        {
+            "sectionName": "Deep Learning and Neural Networks",
+            "unitNames": [
+                "Deep Learning Pre-Requisites",
+                "The History of Artificial Neural Networks",
+                "[Activity] Deep Learning in the Tensorflow Playground",
+                "Deep Learning Details",
+                "Introducing Tensorflow",
+                "Important note about Tensorflow 2",
+                "[Activity] Using Tensorflow, Part 1",
+                "[Activity] Using Tensorflow, Part 2",
+                "[Activity] Introducing Keras",
+                "[Activity] Using Keras to Predict Political Affiliations",
+                "Convolutional Neural Networks (CNN's)",
+                "[Activity] Using CNN's for handwriting recognition",
+                "Recurrent Neural Networks (RNN's)",
+                "[Activity] Using a RNN for sentiment analysis",
+                "[Activity] Transfer Learning",
+                "Tuning Neural Networks: Learning Rate and Batch Size Hyperparameters",
+                "Deep Learning Regularization with Dropout and Early Stopping",
+                "The Ethics of Deep Learning",
+                "Learning More about Deep Learning"
+            ]
+        },
+        {
+            "sectionName": "Final Project",
+            "unitNames": [
+                "Your final project assignment: Mammogram Classification",
+                "Final project review"
+            ]
+        },
+        {
+            "sectionName": "You made it!",
+            "unitNames": [
+                "More to Explore",
+                "Don't Forget to Leave a Rating!",
+                "Bonus Lecture: More courses to explore!"
+            ]
+        }
+    ]
 }

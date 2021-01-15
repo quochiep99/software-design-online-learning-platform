@@ -6,18 +6,30 @@
     "course": {
         "title": "Data Science: Natural Language Processing (NLP) in Python",
         "subtitle": "Applications: decrypting ciphers, spam detection, sentiment analysis, article spinners, and latent semantic analysis.",
-        "descriptions":  "",
+        "descriptions": [],
         "reviews": [],
         "students": [],
-        "image1xURL": "https://img-b.udemycdn.com/course/240x135/753140_f3f3_2.jpg",
-        "image2xURL": "https://img-b.udemycdn.com/course/480x270/753140_f3f3_2.jpg",
-        "image3xURL": "https://img-b.udemycdn.com/course/750x422/753140_f3f3_2.jpg",
+        "image1xURL": "https://img-a.udemycdn.com/course/240x135/753140_f3f3_2.jpg",
+        "image2xURL": "https://img-a.udemycdn.com/course/480x270/753140_f3f3_2.jpg",
+        "image3xURL": "https://img-a.udemycdn.com/course/750x422/753140_f3f3_2.jpg",
         "discountPrice": 11.99,
         "originalPrice": 129.99,
         "numViews": 0,
-        "curriculum": {}
+        "curriculum": []
     },
     "reviews": [
+        {
+            "body": "Love this style. You can feel that this guy comes from a place of real understanding and doesn't just list what's in the docs.",
+            "rating": 5
+        },
+        {
+            "body": "This course will take you from a complete beginner in NLP to an advance level quickly. You will get lots of real world examples to work through, everything can be practically applied to real-time. Now that I have finished the whole course, I have more confidence in this field.",
+            "rating": 5
+        },
+        {
+            "body": "loved this course. The lazy programmer is not only very knowledgeable but also witty and a little sarcastic (which I love haha). Thanks man!",
+            "rating": 5
+        },
         {
             "body": "Got to learn new libraries and there functionality. Presenter has made the course interactive by sharing the codes which we can try apply after learning it.",
             "rating": 4
@@ -27,16 +39,8 @@
             "rating": 4
         },
         {
-            "body": "The course is really well explained and detailed with many examples but I would like to see more use cases",
-            "rating": 5
-        },
-        {
-            "body": "Simply amazing. Great foundational course to NLP. Just make sure you follow his instruction and try coding yourself",
-            "rating": 5
-        },
-        {
-            "body": "The instructor has a deep understanding of the audience. He has designed each section well, and with a very practical application. I had a very good time with this course. Thanks a lot for teaching me NLP.",
-            "rating": 5
+            "body": "Course has become a bit old as some methods used in lectures have deprecated.",
+            "rating": 3.5
         },
         {
             "body": "This is a nice course and it brings up grounded approaches and good practices.\n\nWhat it lacks is depth and practical usage.\n\nFor the first, as an example you can easily get multiple times into notation that neural networks of course are better in all parameters than what is being studied here, but you go ahead study it yourself or purchase one more course from the author ))). Sometimes it is even funny\n\nAs for the practical usage, it is nice to put hands on deep learning libraries interface, but it would be much nicer to really build couple of applications that perform the real world action. To start with some model, to improve results by changing model and/or approach, to achieve really good scores and make something working. Here you basically make some that works normal at most, stop at the model selection level and get recommendation to improve it somehow yourself. Ok, not problem. But maybe there should be some benchmarking from author? Maybe exercises shall not be at the beginning, like now \"Code everything yourself after theoretical part, you shall do that\", but after practical part, like \"Now your got your hands on code, so make it better in this and this way and we see later how you performed\"\n\nAlso, it is annoying when source code is updated, but video is not. So when you try to code with author you almost always run into simple errors just because a lot of stuff has changed since than, I mean the sintax. So, the options are to spend time checking libraries' docs to fix the error or to look the source code, which is not nice.",
@@ -51,134 +55,130 @@
             "rating": 3.5
         },
         {
-            "body": "It would be great to include more in depths of sentiment analysis, example the aspect based sentiment analysis\n\nI love all the tips given",
-            "rating": 3.5
-        },
-        {
-            "body": "The content for the course was a good intro to what NLP is and what kind of problems you can solve with NLP, but the lectures are very dry. So it will help to be very self-motivated to learn from this class.",
-            "rating": 3
-        },
-        {
-            "body": "The sequence of lectures built nicely on one another. Each section started with a basic intuition followed by theory explanation and code implementation with Python. The coding solidified concepts and help with learning and capturing the lessons. The course makes a complex topic look simple and easy!",
+            "body": "The course is really well explained and detailed with many examples but I would like to see more use cases",
             "rating": 5
         },
         {
-            "body": "The worst course I ve taken in the last 2 years. The explanations are very poor, almost no coding, but a looot of talking. No logic in the structure of the course and in the material itself, jumping from difficult topics to first-to-learn ones. It looks like the author wants to make happy everybody: newbies and experts, but in the end it is not suitable for either of them.",
-            "rating": 2
+            "body": "Simply amazing. Great foundational course to NLP. Just make sure you follow his instruction and try coding yourself",
+            "rating": 5
+        },
+        {
+            "body": "The instructor has a deep understanding of the audience. He has designed each section well, and with a very practical application. I had a very good time with this course. Thanks a lot for teaching me NLP.",
+            "rating": 5
         }
     ],
     "students": [
+        {
+            "name": "Patricia Piolon",
+            "email": "patriciapiolon@gmail.com",
+            "password": "patriciapiolon",
+            "role": "s",
+            "isConfirmed": true
+        },
+        {
+            "name": "Aayush Dubey",
+            "email": "aayushdubey@gmail.com",
+            "password": "aayushdubey",
+            "role": "s",
+            "isConfirmed": true
+        },
+        {
+            "name": "Jody-Ann Jones",
+            "email": "jody-annjones@gmail.com",
+            "password": "jody-annjones",
+            "role": "s",
+            "isConfirmed": true
+        },
         {
             "name": "shruchin b",
             "email": "shruchinb@gmail.com",
             "password": "shruchinb",
             "role": "s",
-"isConfirmed": true
+            "isConfirmed": true
         },
         {
             "name": "Neelkanth Mehta",
             "email": "neelkanthmehta@gmail.com",
             "password": "neelkanthmehta",
             "role": "s",
-"isConfirmed": true
+            "isConfirmed": true
         },
         {
-            "name": "Matias Romo",
-            "email": "matiasromo@gmail.com",
-            "password": "matiasromo",
+            "name": "Amit Maindola",
+            "email": "amitmaindola@gmail.com",
+            "password": "amitmaindola",
             "role": "s",
-"isConfirmed": true
+            "isConfirmed": true
         },
         {
-            "name": "Bowen Chen",
-            "email": "bowenchen@gmail.com",
-            "password": "bowenchen",
+            "name": "Lazy Programmer Inc.",
+            "email": "lazyprogrammerinc.@gmail.com",
+            "password": "lazyprogrammerinc.",
             "role": "s",
-"isConfirmed": true
-        },
-        {
-            "name": "Edward Yim",
-            "email": "edwardyim@gmail.com",
-            "password": "edwardyim",
-            "role": "s",
-"isConfirmed": true
+            "isConfirmed": true
         },
         {
             "name": "Viktor Semenov",
             "email": "viktorsemenov@gmail.com",
             "password": "viktorsemenov",
             "role": "s",
-"isConfirmed": true
+            "isConfirmed": true
         },
         {
             "name": "Lazy Programmer Inc.",
             "email": "lazyprogrammerinc.@gmail.com",
             "password": "lazyprogrammerinc.",
             "role": "s",
-"isConfirmed": true
+            "isConfirmed": true
         },
         {
             "name": "Kumud Raj",
             "email": "kumudraj@gmail.com",
             "password": "kumudraj",
             "role": "s",
-"isConfirmed": true
+            "isConfirmed": true
         },
         {
             "name": "Lazy Programmer Inc.",
             "email": "lazyprogrammerinc.@gmail.com",
             "password": "lazyprogrammerinc.",
             "role": "s",
-"isConfirmed": true
+            "isConfirmed": true
         },
         {
             "name": "Suryasatriya Trihandaru",
             "email": "suryasatriyatrihandaru@gmail.com",
             "password": "suryasatriyatrihandaru",
             "role": "s",
-"isConfirmed": true
+            "isConfirmed": true
         },
         {
             "name": "Lazy Programmer Inc.",
             "email": "lazyprogrammerinc.@gmail.com",
             "password": "lazyprogrammerinc.",
             "role": "s",
-"isConfirmed": true
+            "isConfirmed": true
         },
         {
-            "name": "Ng Gim Pei",
-            "email": "nggimpei@gmail.com",
-            "password": "nggimpei",
+            "name": "Matias Romo",
+            "email": "matiasromo@gmail.com",
+            "password": "matiasromo",
             "role": "s",
-"isConfirmed": true
+            "isConfirmed": true
         },
         {
-            "name": "Ian Lim",
-            "email": "ianlim@gmail.com",
-            "password": "ianlim",
+            "name": "Bowen Chen",
+            "email": "bowenchen@gmail.com",
+            "password": "bowenchen",
             "role": "s",
-"isConfirmed": true
+            "isConfirmed": true
         },
         {
-            "name": "Aashish Jha",
-            "email": "aashishjha@gmail.com",
-            "password": "aashishjha",
+            "name": "Edward Yim",
+            "email": "edwardyim@gmail.com",
+            "password": "edwardyim",
             "role": "s",
-"isConfirmed": true
-        },
-        {
-            "name": "Marina Pliusnina",
-            "email": "marinapliusnina@gmail.com",
-            "password": "marinapliusnina",
-            "role": "s",
-"isConfirmed": true
-        },
-        {
-            "name": "Lazy Programmer Inc.",
-            "email": "lazyprogrammerinc.@gmail.com",
-            "password": "lazyprogrammerinc.",
-            "role": "s",
-"isConfirmed": true
+            "isConfirmed": true
         }
     ],
     "instructor": {
@@ -186,7 +186,155 @@
         "email": "lazyprogrammerinc.@gmail.com",
         "password": "lazyprogrammerinc.",
         "role": "i",
-"isConfirmed": true,
-        "briefIntroduction": "<p>Today, I spend most of my time as an artificial intelligence and machine learning engineer with a focus on deep learning, although I have also been known as a data scientist, big data engineer, and full stack software engineer.</p><p>I received my masters degree in computer engineering with a specialization in machine learning and pattern recognition.</p><p>Experience includes&nbsp;online advertising and digital media as both a data scientist (optimizing click and conversion rates)&nbsp;and big data engineer (building data processing pipelines). Some big data technologies I frequently use are Hadoop,&nbsp;Pig, Hive,&nbsp;MapReduce, and Spark.</p><p>I've created deep&nbsp;learning models to predict click-through rate and user behavior, as well as for image and signal processing and modeling text.</p><p>My work in recommendation systems has applied Reinforcement Learning and Collaborative Filtering, and we&nbsp;validated the results using A/B testing.</p><p>I have taught undergraduate and graduate students in data science, statistics, machine learning, algorithms, calculus, computer graphics, and physics for students attending universities such as Columbia University, NYU, Hunter College, and The New School.&nbsp;</p><p>Multiple businesses have benefitted from my web programming expertise. I do all the backend (server), frontend (HTML/JS/CSS), and operations/deployment work. Some of the technologies I've used are: Python, Ruby/Rails, PHP, Bootstrap, jQuery (Javascript), Backbone, and Angular. For storage/databases I've used MySQL, Postgres, Redis, MongoDB, and more.</p>"
-    }
+        "briefIntroduction": "<p>Today, I spend most of my time as an artificial intelligence and machine learning engineer with a focus on deep learning, although I have also been known as a data scientist, big data engineer, and full stack software engineer.</p><p>I received my masters degree in computer engineering with a specialization in machine learning and pattern recognition.</p><p>Experience includes&nbsp;online advertising and digital media as both a data scientist (optimizing click and conversion rates)&nbsp;and big data engineer (building data processing pipelines). Some big data technologies I frequently use are Hadoop,&nbsp;Pig, Hive,&nbsp;MapReduce, and Spark.</p><p>I've created deep&nbsp;learning models to predict click-through rate and user behavior, as well as for image and signal processing and modeling text.</p><p>My work in recommendation systems has applied Reinforcement Learning and Collaborative Filtering, and we&nbsp;validated the results using A/B testing.</p><p>I have taught undergraduate and graduate students in data science, statistics, machine learning, algorithms, calculus, computer graphics, and physics for students attending universities such as Columbia University, NYU, Hunter College, and The New School.&nbsp;</p><p>Multiple businesses have benefitted from my web programming expertise. I do all the backend (server), frontend (HTML/JS/CSS), and operations/deployment work. Some of the technologies I've used are: Python, Ruby/Rails, PHP, Bootstrap, jQuery (Javascript), Backbone, and Angular. For storage/databases I've used MySQL, Postgres, Redis, MongoDB, and more.</p>",
+        "isConfirmed": true
+    },
+    "curriculum": [
+        {
+            "sectionName": "Natural Language Processing - What is it used for?",
+            "unitNames": [
+                "Introduction and Outline",
+                "Why Learn NLP?",
+                "The Central Message of this Course (Big Picture Perspective)"
+            ]
+        },
+        {
+            "sectionName": "Course Preparation",
+            "unitNames": [
+                "Anyone Can Succeed in this Course",
+                "Where to get the code and data",
+                "How to Open Files for Windows Users"
+            ]
+        },
+        {
+            "sectionName": "Machine Learning Basics Review",
+            "unitNames": [
+                "Machine Learning: Section Introduction",
+                "What is Classification?",
+                "Classification in Code",
+                "What is Regression?",
+                "Regression in Code",
+                "What is a Feature Vector?",
+                "Machine Learning is Nothing but Geometry",
+                "All Data is the Same",
+                "Comparing Different Machine Learning Models",
+                "Machine Learning and Deep Learning: Future Topics",
+                "Section Summary"
+            ]
+        },
+        {
+            "sectionName": "Decrypting Ciphers",
+            "unitNames": [
+                "Section Introduction",
+                "Ciphers",
+                "Language Models",
+                "Genetic Algorithms",
+                "Code Preparation",
+                "Link to Cipher Notebook",
+                "Code pt 1",
+                "Code pt 2",
+                "Code pt 3",
+                "Code pt 4",
+                "Code pt 5",
+                "Code pt 6",
+                "Section Conclusion"
+            ]
+        },
+        {
+            "sectionName": "Build your own spam detector",
+            "unitNames": [
+                "Build your own spam detector - description of data",
+                "Build your own spam detector using Naive Bayes and AdaBoost - the code",
+                "Key Takeaway from Spam Detection Exercise",
+                "Naive Bayes Concepts",
+                "AdaBoost Concepts",
+                "Other types of features",
+                "Spam Detection FAQ (Remedial #1)",
+                "What is a Vector? (Remedial #2)",
+                "SMS Spam Example",
+                "SMS Spam in Code",
+                "Suggestion Box"
+            ]
+        },
+        {
+            "sectionName": "Build your own sentiment analyzer",
+            "unitNames": [
+                "Description of Sentiment Analyzer",
+                "Logistic Regression Review",
+                "Preprocessing: Tokenization",
+                "Preprocessing: Tokens to Vectors",
+                "Sentiment Analysis in Python using Logistic Regression",
+                "Sentiment Analysis Extension",
+                "How to Improve Sentiment Analysis & FAQ"
+            ]
+        },
+        {
+            "sectionName": "NLTK Exploration",
+            "unitNames": [
+                "NLTK Exploration: POS Tagging",
+                "NLTK Exploration: Stemming and Lemmatization",
+                "NLTK Exploration: Named Entity Recognition",
+                "Want more NLTK?"
+            ]
+        },
+        {
+            "sectionName": "Latent Semantic Analysis",
+            "unitNames": [
+                "Latent Semantic Analysis - What does it do?",
+                "SVD - The underlying math behind LSA",
+                "Latent Semantic Analysis in Python",
+                "What is Latent Semantic Analysis Used For?",
+                "Extending LSA"
+            ]
+        },
+        {
+            "sectionName": "Write your own article spinner",
+            "unitNames": [
+                "Article Spinning Introduction and Markov Models",
+                "Trigram Model",
+                "More about Language Models",
+                "Precode Exercises",
+                "Writing an article spinner in Python",
+                "Article Spinner Extension Exercises"
+            ]
+        },
+        {
+            "sectionName": "How to learn more about NLP",
+            "unitNames": [
+                "What we didn't talk about"
+            ]
+        },
+        {
+            "sectionName": "Setting Up Your Environment (FAQ by Student Request)",
+            "unitNames": [
+                "Windows-Focused Environment Setup 2018",
+                "How to install Numpy, Scipy, Matplotlib, Pandas, IPython, Theano, and TensorFlow"
+            ]
+        },
+        {
+            "sectionName": "Extra Help With Python Coding for Beginners (FAQ by Student Request)",
+            "unitNames": [
+                "How to Code by Yourself (part 1)",
+                "How to Code by Yourself (part 2)",
+                "Proof that using Jupyter Notebook is the same as not using it",
+                "Python 2 vs Python 3"
+            ]
+        },
+        {
+            "sectionName": "Effective Learning Strategies for Machine Learning (FAQ by Student Request)",
+            "unitNames": [
+                "How to Succeed in this Course (Long Version)",
+                "Is this for Beginners or Experts? Academic or Practical? Fast or slow-paced?",
+                "Machine Learning and AI Prerequisite Roadmap (pt 1)",
+                "Machine Learning and AI Prerequisite Roadmap (pt 2)"
+            ]
+        },
+        {
+            "sectionName": "Appendix / FAQ Finale",
+            "unitNames": [
+                "What is the Appendix?",
+                "BONUS: Where to get discount coupons and FREE deep learning material"
+            ]
+        }
+    ]
 }

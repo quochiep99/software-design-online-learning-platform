@@ -6,151 +6,151 @@
     "course": {
         "title": "Introduction to Machine Learning for Data Science",
         "subtitle": "A primer on Machine Learning for Data Science. Revealed for everyday people, by the Backyard Data Scientist.",
-        "descriptions":  "",
+        "descriptions": [],
         "reviews": [],
         "students": [],
-        "image1xURL": "https://img-a.udemycdn.com/course/240x135/971154_6799_2.jpg",
-        "image2xURL": "https://img-a.udemycdn.com/course/480x270/971154_6799_2.jpg",
-        "image3xURL": "https://img-a.udemycdn.com/course/750x422/971154_6799_2.jpg",
+        "image1xURL": "https://img-b.udemycdn.com/course/240x135/971154_6799_2.jpg",
+        "image2xURL": "https://img-b.udemycdn.com/course/480x270/971154_6799_2.jpg",
+        "image3xURL": "https://img-b.udemycdn.com/course/750x422/971154_6799_2.jpg",
         "discountPrice": 11.99,
         "originalPrice": 129.99,
         "numViews": 0,
-        "curriculum": {}
+        "curriculum": []
     },
     "reviews": [
         {
-            "body": "Not a bad introduction but because it's too lengthy and with no programming background, majority of the videos were not easy to understand",
-            "rating": 3
-        },
-        {
-            "body": "Hi David, Thank You for the wonderful course. Helps understands the basics and relation between Data Science,ML and AI. Nice examples and also a bit complicated algorithms for non-tech people. However the overall content and examples are really good. Thank you once again :)",
+            "body": "Great lecture for beginners! This course definitely gives a way for me to start something with machine learning.",
             "rating": 5
         },
         {
-            "body": "Good course, but for me it was too theoretical. It's hard to reproduce examples. Recently I've completed Power BI course on Udemy and it was clearer and easier from practical point of view.",
+            "body": "Quite difficult to follow without step-by-step examples. The Python crash course has too much technicla jargons.",
+            "rating": 3.5
+        },
+        {
+            "body": "Overall a comprehensive course. The bonus material is an act of love, but may be a little too much for the newbies. Could be better positioned as an intermediate level for those who are keen to start getting their hands into coding. Otherwise very good coverage of the topic from a Computer Science post-grad point of view. A great refresher to catch up on the progress in the field in general.",
+            "rating": 5
+        },
+        {
+            "body": "There are may tools out there and here you present a chain or pipeline which is valuable for me to assist. Thank you very much for making learning material ! ps. cant install anaconda on my business laptop ... but that's more of my problem to work around",
+            "rating": 4.5
+        },
+        {
+            "body": "This course really enforced key data science definitions and applications. I wished the bonus section was included separately, as I was not interested in the practical component at the moment.",
             "rating": 4
         },
         {
-            "body": "Well designed and very informative course. The bonus sections were quite helpful in better understanding of ML as examples are considered and explained nicely.",
-            "rating": 5
+            "body": "Pretty good content - some of the examples at the end were a little fast to absorb but that was expected based on his intro. The models at the end are interesting but for an intro course, I wish there had been a bit more explanation about the models being used and less about plugging them into the notebook. Overall an average course but not what I expected.",
+            "rating": 3
         },
         {
-            "body": "Nice courseware and presenter with wide coverage from basic to advanced. However towards the end of the course, it ran into quite technical which was interesting though but thats' when it turned out to be faster. Appreciate all the knowledge, practical experience and painful efforts put together to build such an interesting courseware...Good luck",
+            "body": "Some basic fundamental in programming will ease in the understanding the content especially the bonus course and reap higher better return from the overall course",
+            "rating": 3.5
+        },
+        {
+            "body": "Hi - This isn't a complaint as such, and I don't usually even bother entering comments. But the section where it recommends watch it in 1080p - High Def. Maybe be more aware that other parts of the world don't have the same internet availability as US or UK. Here, in SA - we don't have fibre and internet floating around free for everyone to use, we have to pay a reasonable amount for data - so I am not going to use a chunk of it up watching an online course in HD. Like I say, the course is fine - just thought I would mention. Thanks",
+            "rating": 4
+        },
+        {
+            "body": "Hi David,\n\nat the beginning it was very understanding.\n\nI am very well understood, because I really have no idea, but have already researched a lot before.\n\nSince my master's thesis is about Python, I need and want to learn it.\n\nAt the beginning it was very understandable, but at the end there was little structure and the information actually understandable but at the same time very confusing.\n\nThanks anyway, hope the feedback helps you.",
+            "rating": 3
+        },
+        {
+            "body": "Give a basic understanding and example of how machine learning goes. Would say it's pretty decent for someone who has no knowledge about machine learning before but would like to gain some insight.",
+            "rating": 4.5
+        },
+        {
+            "body": "Introduction to Machine Learning for Data Science was just that. I got the history and the crux of it. As for the bonus course, I really didn't need that much information since I don't program.",
             "rating": 4
         },
         {
             "body": "The presentations are kinda short on animation. Its a lot of talking over one picture, change picture then more talking. Not good for learning.",
             "rating": 2.5
-        },
-        {
-            "body": "It was not easy for someone without python (or programming) background to catch up with the bonus course. The lecture seem to focus on showing examples of how to use the programme for analysis rather than teaching python.",
-            "rating": 4
-        },
-        {
-            "body": "actually i thought of something in mind, but its different then, i just looking for a machine learning basics. this more than that. thank you. i learned something. thank you for answering my question too.",
-            "rating": 3.5
-        },
-        {
-            "body": "Yes, it was a good match to get better insights on ML and Data Science and their inter relationships. The course covered all aspects holistically. Plus the hands-on session in the end was really very helpful to visualize its applicability. The only minor feedback is on the trainer \"tone\" and \"style\" of explanation. Although I got used to it in later part of the course, initially it was sounding like background voice from disney movie. It would be better to keep the tone and style of speech delivery a bit more professional (may be I am being too picky here!). Overall, a THUMBS-UP!",
-            "rating": 4.5
-        },
-        {
-            "body": "The challenging part of the course is the deep dive into ML in Section 12 and 13 making it hard to catch up in what was being presented.",
-            "rating": 3
-        },
-        {
-            "body": "All theory and no real learning. These things are learnt when you practically do assignments/projects while studying.",
-            "rating": 1
-        },
-        {
-            "body": "A very good course. Very informative that take you through the different aspects of data science and its Techniques, Tools in details. I really thank David for this course it turned out to be a best kick off course to understand the data science.",
-            "rating": 5
         }
     ],
     "students": [
         {
-            "name": "CAI WEIDE",
-            "email": "caiweide@gmail.com",
-            "password": "caiweide",
+            "name": "Jansi Rani Vethakkan",
+            "email": "jansiranivethakkan@gmail.com",
+            "password": "jansiranivethakkan",
             "role": "s",
-"isConfirmed": true
+            "isConfirmed": true
         },
         {
-            "name": "Smruti Damushte",
-            "email": "smrutidamushte@gmail.com",
-            "password": "smrutidamushte",
+            "name": "YEE DER SIANG",
+            "email": "yeedersiang@gmail.com",
+            "password": "yeedersiang",
             "role": "s",
-"isConfirmed": true
+            "isConfirmed": true
         },
         {
-            "name": "Palina Karpovich",
-            "email": "palinakarpovich@gmail.com",
-            "password": "palinakarpovich",
+            "name": "TAN LIEW HUI",
+            "email": "tanliewhui@gmail.com",
+            "password": "tanliewhui",
             "role": "s",
-"isConfirmed": true
+            "isConfirmed": true
         },
         {
-            "name": "Smita Verma",
-            "email": "smitaverma@gmail.com",
-            "password": "smitaverma",
+            "name": "Benz G Nydegger",
+            "email": "benzgnydegger@gmail.com",
+            "password": "benzgnydegger",
             "role": "s",
-"isConfirmed": true
+            "isConfirmed": true
         },
         {
-            "name": "Venkatasivaram Surampudy",
-            "email": "venkatasivaramsurampudy@gmail.com",
-            "password": "venkatasivaramsurampudy",
+            "name": "Faye Deleon",
+            "email": "fayedeleon@gmail.com",
+            "password": "fayedeleon",
             "role": "s",
-"isConfirmed": true
+            "isConfirmed": true
+        },
+        {
+            "name": "Christopher Poje",
+            "email": "christopherpoje@gmail.com",
+            "password": "christopherpoje",
+            "role": "s",
+            "isConfirmed": true
+        },
+        {
+            "name": "ANDREW YEO",
+            "email": "andrewyeo@gmail.com",
+            "password": "andrewyeo",
+            "role": "s",
+            "isConfirmed": true
+        },
+        {
+            "name": "Graeme Tennent",
+            "email": "graemetennent@gmail.com",
+            "password": "graemetennent",
+            "role": "s",
+            "isConfirmed": true
+        },
+        {
+            "name": "Fatima Yilmaz",
+            "email": "fatimayilmaz@gmail.com",
+            "password": "fatimayilmaz",
+            "role": "s",
+            "isConfirmed": true
+        },
+        {
+            "name": "Alex TA Yin",
+            "email": "alextayin@gmail.com",
+            "password": "alextayin",
+            "role": "s",
+            "isConfirmed": true
+        },
+        {
+            "name": "Carl Griggs",
+            "email": "carlgriggs@gmail.com",
+            "password": "carlgriggs",
+            "role": "s",
+            "isConfirmed": true
         },
         {
             "name": "NG CHONG HERNG",
             "email": "ngchongherng@gmail.com",
             "password": "ngchongherng",
             "role": "s",
-"isConfirmed": true
-        },
-        {
-            "name": "ANG HIAP SENG",
-            "email": "anghiapseng@gmail.com",
-            "password": "anghiapseng",
-            "role": "s",
-"isConfirmed": true
-        },
-        {
-            "name": "Mahalakshmi M",
-            "email": "mahalakshmim@gmail.com",
-            "password": "mahalakshmim",
-            "role": "s",
-"isConfirmed": true
-        },
-        {
-            "name": "Mohammed Siraj",
-            "email": "mohammedsiraj@gmail.com",
-            "password": "mohammedsiraj",
-            "role": "s",
-"isConfirmed": true
-        },
-        {
-            "name": "LIM YONG HUI, RAYMOND",
-            "email": "limyonghui,raymond@gmail.com",
-            "password": "limyonghui,raymond",
-            "role": "s",
-"isConfirmed": true
-        },
-        {
-            "name": "Animesh Singhal",
-            "email": "animeshsinghal@gmail.com",
-            "password": "animeshsinghal",
-            "role": "s",
-"isConfirmed": true
-        },
-        {
-            "name": "Shreeraj Nair",
-            "email": "shreerajnair@gmail.com",
-            "password": "shreerajnair",
-            "role": "s",
-"isConfirmed": true
+            "isConfirmed": true
         }
     ],
     "instructor": {
@@ -158,7 +158,144 @@
         "email": "davidvalentine@gmail.com",
         "password": "davidvalentine",
         "role": "i",
-"isConfirmed": true,
-        "briefIntroduction": "<p>Mr. David Valentine is an decorated Enterprise Architect with over&nbsp;seventeen years of experience in enterprise computing environments.&nbsp; He currently works for the Province of Manitoba, in Canada where he is a responsible for the architecture of the Server and Mainframe compute environment.&nbsp; </p>\n<p>Mr. Valentine has a passion for Data Science, Computer Science, Machine Learning and Data Science.&nbsp; As the \"Backyard Data Scientist\", he bring his experience and ability to simplify challenging technical topics to Data Science.&nbsp; He's delighted to offer the world his first course on the Udemy platform, \"Machine Learning for Data Science\"</p>"
-    }
+        "briefIntroduction": "<p>Mr. David Valentine is an decorated Enterprise Architect with over&nbsp;seventeen years of experience in enterprise computing environments.&nbsp; He currently works for the Province of Manitoba, in Canada where he is a responsible for the architecture of the Server and Mainframe compute environment.&nbsp; </p>\n<p>Mr. Valentine has a passion for Data Science, Computer Science, Machine Learning and Data Science.&nbsp; As the \"Backyard Data Scientist\", he bring his experience and ability to simplify challenging technical topics to Data Science.&nbsp; He's delighted to offer the world his first course on the Udemy platform, \"Machine Learning for Data Science\"</p>",
+        "isConfirmed": true
+    },
+    "curriculum": [
+        {
+            "sectionName": "Introduction",
+            "unitNames": [
+                "Course Promotion Video",
+                "A special message for hard of hearing and ESL students",
+                "Thank you for investing in this Course!",
+                "Course Overview",
+                "Secret sauce inside!: How to get the most out of this course.",
+                "Course Links Reference Guide and Lecture Resources",
+                "Course Survey"
+            ]
+        },
+        {
+            "sectionName": "Core Concepts",
+            "unitNames": [
+                "Core Concepts Overview",
+                "Computer Science - the `Train Wreck' Definition",
+                "What's Data / \"I can see data everywhere!\"",
+                "Structured vs Unstructured Data",
+                "Structured and Unstructured Data",
+                "Computer Science - Definition Revisited &  The Greatest \"lie\" ever SOLD....",
+                "What's big data?",
+                "Big Data - Quiz",
+                "What is Artificial Intelligence (AI)",
+                "What is Machine Learning? - Part 1 - The ideas",
+                "What is Machine Learning? - Part 2 - An Example",
+                "What is data science?",
+                "Recap & How do these relate to each other?"
+            ]
+        },
+        {
+            "sectionName": "Impacts, Importance and examples",
+            "unitNames": [
+                "Impacts, Importance and examples - Overview",
+                "Why is this important now?",
+                "Computers exploding! - The explosive growth of computer power explained.",
+                "What problems does Machine Learning Solve?",
+                "Where it's transforming our lives"
+            ]
+        },
+        {
+            "sectionName": "The Machine Learning Process",
+            "unitNames": [
+                "The Machine Learning Process - Overview",
+                "5 Step Machine Learning Process Overview",
+                "1 - Asking the right question",
+                "2 - Identifying, obtaining, and preparing the right data",
+                "3 - Identifying and applying a ML Algorithm",
+                "4 - Evaluating the performance of the model and adjusting",
+                "5 - Using and presenting the model",
+                "Machine Learning - Process"
+            ]
+        },
+        {
+            "sectionName": "How to apply Machine Learning for Data Science",
+            "unitNames": [
+                "How to apply Machine Learning for  Data Science - Overview",
+                "Where to begin your journey",
+                "Common platforms and tools for Data Science",
+                "Data Science using - R",
+                "Data Science using - Python",
+                "Data Science using SQL",
+                "Data Science using Excel",
+                "Data Science using RapidMiner",
+                "Cautionary Tales"
+            ]
+        },
+        {
+            "sectionName": "Conclusion",
+            "unitNames": [
+                "All done!  What's next?"
+            ]
+        },
+        {
+            "sectionName": "Section 1 -Bonus course - Machine Learning in Python and Jupyter for Beginners",
+            "unitNames": [
+                "Introduction and Anaconda Installation",
+                "What will we cover!",
+                "Introduction and Setup"
+            ]
+        },
+        {
+            "sectionName": "Section 2 -Bonus course - Machine Learning in Python and Jupyter for Beginners",
+            "unitNames": [
+                "Crash course in Python - Beginning concepts",
+                "Crash course in Python - Strings, Slices and Lists!",
+                "Crash course in Python - Expressions, Operators, Conditions and Loops",
+                "Crash course in Python - Functions, Scope, Dictionaries and more!"
+            ]
+        },
+        {
+            "sectionName": "Section 3 - Bonus course - Machine Learning in Python and Jupyter for Beginners",
+            "unitNames": [
+                "Hands on Running Python"
+            ]
+        },
+        {
+            "sectionName": "Section 4 - Bonus course - Machine Learning in Python and Jupyter for Beginners",
+            "unitNames": [
+                "Foundations of Machine Learning and Data Science - Definitions and concepts.",
+                "Foundations of Machine Learning and Data Science - Machine Learning Workflow",
+                "Foundations of Machine Learning and Data Science - Algorithms, concepts and more"
+            ]
+        },
+        {
+            "sectionName": "Section 5 -Bonus course - Machine Learning in Python and Jupyter for Beginners",
+            "unitNames": [
+                "Introducing the essential modules for Machine Learning, and NumPy Basics",
+                "Pandas and Matplotlib",
+                "Analysis using Pandas, plotting in Matplotlib, intro to SciPy and Scikit-learn"
+            ]
+        },
+        {
+            "sectionName": "Section 6 - Bonus course - Machine Learning in Python and Jupyter for Beginners",
+            "unitNames": [
+                "A Titanic Example - Getting our start.",
+                "A Titanic Example - Understanding the data set.",
+                "A Titanic Example - Understanding the data set in regards to survival",
+                "A Titanic Example - Preparing the right data and applying a basic algorithm",
+                "A Titanic Example - Applying regression algorithms.",
+                "A Titanic Example - Applying Decision Trees (example of overfit and underfit)"
+            ]
+        },
+        {
+            "sectionName": "Section 7 -Bonus course - Machine Learning in Python and Jupyter for Beginners",
+            "unitNames": [
+                "Conclusions - for our Titanic Example, important concepts and where to go next!"
+            ]
+        },
+        {
+            "sectionName": "Bonus Content",
+            "unitNames": [
+                "Bonus Article - The startling breakthrough in Machine Learning from 2016."
+            ]
+        }
+    ]
 }

@@ -6,7 +6,7 @@
     "course": {
         "title": "Data Science and Machine Learning Bootcamp with R",
         "subtitle": "Learn how to use the R programming language for data science and machine learning and data visualization!",
-        "descriptions":  "",
+        "descriptions": [],
         "reviews": [],
         "students": [],
         "image1xURL": "https://img-a.udemycdn.com/course/240x135/821726_8071.jpg",
@@ -15,142 +15,142 @@
         "discountPrice": 11.99,
         "originalPrice": 129.99,
         "numViews": 0,
-        "curriculum": {}
+        "curriculum": []
     },
     "reviews": [
         {
+            "body": "This class was what I was hoping it would be. Good balance between lectures and homework/projects. I submitted a question and I got an answer super quick.",
+            "rating": 5
+        },
+        {
+            "body": "The course is very well designed from Beginners to Professionals who want to refresh their knowledge DS & ML using R. The instructor has made the topics very easy to understand, however if you are beginner you will need to do lot of reading the ISLR book to get in the depth of ML.\n\nThe projects at end of each section are both fun and challenging.\n\nOverall the course is very good and would definitely recommend to anyone who wants to clear concepts in Data Science using R.",
+            "rating": 5
+        },
+        {
+            "body": "Jose Portilla classes are all wonderful! He explains the subject step by step in an interesting and clear way. He makes it easy to learn. 'Data Science and Machine Learning Bootcamp with R' guides you on how to analysis data and do beautiful graphics using statistical models. In addition it provides direction for further learning.",
+            "rating": 5
+        },
+        {
             "body": "Really enjoyed this style of teaching. The notes included were step by step directions on how to write the scripts. Would definitely recommend this class for beginners and I would take another course from him as well.",
             "rating": 4.5
-        },
-        {
-            "body": "By far the best course available on Udemy on R programming. A true gem for beginners. It has been a great leaning experience for me. The course starts with absolute basics and builds your skill gradually. All the way from Data Structures, Visualizations to advance Machine Learning concepts. It also has exercises and projects to test your newly acquired knowledge. Thank you Jose, for such an awesome course. Highly Recommended!!",
-            "rating": 5
-        },
-        {
-            "body": "So far so good everything has been simple and straight forward.\n\nLots to remember but getting the hang of it. Have too :) .\n\nGood examples being used.",
-            "rating": 5
-        },
-        {
-            "body": "It was a little hard because previous concepts were not repeated in the following lectures to cement knowledge. You really have to make sure you understand all the information before moving on.",
-            "rating": 4
-        },
-        {
-            "body": "Extremely useful as an introduction to machine learning !\n\nThe focus is geared towards getting hands on understanding of using the algorithms ! It definitely gets you kick started onto the journey of data science .",
-            "rating": 5
         },
         {
             "body": "Full analytic and good course for someone who has no knowledge of machine learning. The instructor was excellent!",
             "rating": 4.5
         },
         {
-            "body": "The first half is brilliant where the programming related to R is given a good amount of weight. The second half is more of brief theory and code templates.What I felt was that more importance to model interpretation needs to be given. Since I have a background of statistics, I could comprehend it to a certain extent. But for a newbie this course will take a good amount of time and effort",
+            "body": "It's good, but jumps from very simple concepts to very advanced concepts rather quickly. Good if one has a solid background in statistics.",
             "rating": 3
         },
         {
-            "body": "The projects for machine learning are too long and somehow distracting from the key points that must be learned. In the regression part, there is some introduction of using methods to better understand the data set, however, those are not really part of the machine learning and could have been provided separately.",
-            "rating": 4.5
-        },
-        {
-            "body": "Frankly speaking, I loved the course. The way of delivery/ contents/ references were all quite informative. The best thing about the course was that it is so designed that even a person without having prior knowledge of any programming language or high level statistics could easily understand everything.",
-            "rating": 4.5
-        },
-        {
-            "body": "Jose is AMAZING!!!! He breaks everything down clearly. He makes what we are learning relevant! Give the appropriate practice and solutions. I can understand everything he says!!! He should take some of these college professors' jobs!!!",
+            "body": "By far the best course available on Udemy on R programming. A true gem for beginners. It has been a great leaning experience for me. The course starts with absolute basics and builds your skill gradually. All the way from Data Structures, Visualizations to advance Machine Learning concepts. It also has exercises and projects to test your newly acquired knowledge. Thank you Jose, for such an awesome course. Highly Recommended!!",
             "rating": 5
         },
         {
-            "body": "Very good teaching skills and greatly selected examples and exercises. I suggest it for beginners",
+            "body": "This course was super helpful! The lectures are well put together, and the projects are great to cement material.",
+            "rating": 5
+        },
+        {
+            "body": "It is a wonderful and quite comprehensive course. I like the way tutor teaches. Content is brilliant. It's awesome.",
+            "rating": 5
+        },
+        {
+            "body": "Excellent course with great content. Also, the lectures are engaging and projects are really good too!",
+            "rating": 5
+        },
+        {
+            "body": "Amazing Course\n\nGot good hands-on experience on R and gained good knowledge on Machine Learning",
             "rating": 4.5
         },
         {
-            "body": "This is a good course. The pace is about right. The notes and lectures cover the topics well. The notes should be updated, though, as they contain a few mistakes, mostly grammatical mistakes.",
+            "body": "A good introduction to the functions available in R for ML and Neural Nets, definitely has given me the foundations to use R in anger!",
             "rating": 5
         }
     ],
     "students": [
         {
+            "name": "Russell Tinsley",
+            "email": "russelltinsley@gmail.com",
+            "password": "russelltinsley",
+            "role": "s",
+            "isConfirmed": true
+        },
+        {
+            "name": "Prasad Aher",
+            "email": "prasadaher@gmail.com",
+            "password": "prasadaher",
+            "role": "s",
+            "isConfirmed": true
+        },
+        {
+            "name": "Monica D. Matos",
+            "email": "monicad.matos@gmail.com",
+            "password": "monicad.matos",
+            "role": "s",
+            "isConfirmed": true
+        },
+        {
             "name": "Jonathan Gonzalez",
             "email": "jonathangonzalez@gmail.com",
             "password": "jonathangonzalez",
             "role": "s",
-"isConfirmed": true
-        },
-        {
-            "name": "Avijit Das",
-            "email": "avijitdas@gmail.com",
-            "password": "avijitdas",
-            "role": "s",
-"isConfirmed": true
-        },
-        {
-            "name": "Simon Chan Tack",
-            "email": "simonchantack@gmail.com",
-            "password": "simonchantack",
-            "role": "s",
-"isConfirmed": true
-        },
-        {
-            "name": "Lekha Pillarisetti",
-            "email": "lekhapillarisetti@gmail.com",
-            "password": "lekhapillarisetti",
-            "role": "s",
-"isConfirmed": true
-        },
-        {
-            "name": "Harsh Edirisinghe",
-            "email": "harshedirisinghe@gmail.com",
-            "password": "harshedirisinghe",
-            "role": "s",
-"isConfirmed": true
+            "isConfirmed": true
         },
         {
             "name": "Evangelia Gkropa",
             "email": "evangeliagkropa@gmail.com",
             "password": "evangeliagkropa",
             "role": "s",
-"isConfirmed": true
+            "isConfirmed": true
         },
         {
-            "name": "Shobhit",
-            "email": "shobhit@gmail.com",
-            "password": "shobhit",
+            "name": "Sean Spencer",
+            "email": "seanspencer@gmail.com",
+            "password": "seanspencer",
             "role": "s",
-"isConfirmed": true
+            "isConfirmed": true
         },
         {
-            "name": "Arman Lamei",
-            "email": "armanlamei@gmail.com",
-            "password": "armanlamei",
+            "name": "Avijit Das",
+            "email": "avijitdas@gmail.com",
+            "password": "avijitdas",
             "role": "s",
-"isConfirmed": true
+            "isConfirmed": true
         },
         {
-            "name": "Vikash Kumar Soni",
-            "email": "vikashkumarsoni@gmail.com",
-            "password": "vikashkumarsoni",
+            "name": "Andrew Travis",
+            "email": "andrewtravis@gmail.com",
+            "password": "andrewtravis",
             "role": "s",
-"isConfirmed": true
+            "isConfirmed": true
         },
         {
-            "name": "Paula Junior",
-            "email": "paulajunior@gmail.com",
-            "password": "paulajunior",
+            "name": "Aakash Goyal",
+            "email": "aakashgoyal@gmail.com",
+            "password": "aakashgoyal",
             "role": "s",
-"isConfirmed": true
+            "isConfirmed": true
         },
         {
-            "name": "Ioannis Panetas",
-            "email": "ioannispanetas@gmail.com",
-            "password": "ioannispanetas",
+            "name": "Saiesh Singh Hansbhaday",
+            "email": "saieshsinghhansbhaday@gmail.com",
+            "password": "saieshsinghhansbhaday",
             "role": "s",
-"isConfirmed": true
+            "isConfirmed": true
         },
         {
-            "name": "Joseph Mueller",
-            "email": "josephmueller@gmail.com",
-            "password": "josephmueller",
+            "name": "Sanjay C",
+            "email": "sanjayc@gmail.com",
+            "password": "sanjayc",
             "role": "s",
-"isConfirmed": true
+            "isConfirmed": true
+        },
+        {
+            "name": "Edward Grant",
+            "email": "edwardgrant@gmail.com",
+            "password": "edwardgrant",
+            "role": "s",
+            "isConfirmed": true
         }
     ],
     "instructor": {
@@ -158,7 +158,313 @@
         "email": "joseportilla@gmail.com",
         "password": "joseportilla",
         "role": "i",
-"isConfirmed": true,
-        "briefIntroduction": "<p>&nbsp; Jose Marcial Portilla has a BS and MS in Mechanical Engineering from Santa Clara University and&nbsp;years of&nbsp;experience as a professional instructor and trainer for Data Science and programming. He has publications and patents in various fields such as microfluidics,&nbsp;materials science, and data science technologies. Over the course of his career he has developed a skill set in analyzing data and he hopes to use his experience in teaching and data science to help other people learn the power of programming the&nbsp;ability to analyze data, as well as present the data in clear and beautiful visualizations. Currently he works as the Head of Data Science for Pierian Data Inc.&nbsp;and provides in-person data science and python programming training courses to employees working at top companies, including General Electric, Cigna, The New York Times, Credit Suisse, McKinsey and many more.&nbsp;Feel free to contact him on LinkedIn for more information on in-person training sessions or group training sessions in Las Vegas, NV.</p>"
-    }
+        "briefIntroduction": "<p>&nbsp; Jose Marcial Portilla has a BS and MS in Mechanical Engineering from Santa Clara University and&nbsp;years of&nbsp;experience as a professional instructor and trainer for Data Science and programming. He has publications and patents in various fields such as microfluidics,&nbsp;materials science, and data science technologies. Over the course of his career he has developed a skill set in analyzing data and he hopes to use his experience in teaching and data science to help other people learn the power of programming the&nbsp;ability to analyze data, as well as present the data in clear and beautiful visualizations. Currently he works as the Head of Data Science for Pierian Data Inc.&nbsp;and provides in-person data science and python programming training courses to employees working at top companies, including General Electric, Cigna, The New York Times, Credit Suisse, McKinsey and many more.&nbsp;Feel free to contact him on LinkedIn for more information on in-person training sessions or group training sessions in Las Vegas, NV.</p>",
+        "isConfirmed": true
+    },
+    "curriculum": [
+        {
+            "sectionName": "Course Introduction",
+            "unitNames": [
+                "Introduction to Course",
+                "Course Curriculum",
+                "What is Data Science?",
+                "Course FAQ"
+            ]
+        },
+        {
+            "sectionName": "Course Best Practices",
+            "unitNames": [
+                "How to Get Help in the Course!",
+                "Welcome to the Course.",
+                "Installation and Set-Up"
+            ]
+        },
+        {
+            "sectionName": "Windows Installation Set-Up",
+            "unitNames": [
+                "Windows Installation Procedure"
+            ]
+        },
+        {
+            "sectionName": "Mac OS Installation Set-Up",
+            "unitNames": [
+                "Mac OS Installation Procedure"
+            ]
+        },
+        {
+            "sectionName": "Linux Installation",
+            "unitNames": [
+                "Linux/Unbuntu Installation Procedure"
+            ]
+        },
+        {
+            "sectionName": "Development Environment Overview",
+            "unitNames": [
+                "Development Environment Overview",
+                "Course Notes",
+                "Guide to RStudio"
+            ]
+        },
+        {
+            "sectionName": "Introduction to R Basics",
+            "unitNames": [
+                "Introduction to R Basics",
+                "Arithmetic in R",
+                "Variables",
+                "R Basic Data Types",
+                "Vector Basics",
+                "Vector Operations",
+                "Comparison Operators",
+                "Vector Indexing and Slicing",
+                "Getting Help with R and RStudio",
+                "R Basics Training Exercise",
+                "R Basics Training Exercise - Solutions Walkthrough"
+            ]
+        },
+        {
+            "sectionName": "R Matrices",
+            "unitNames": [
+                "Introduction to R Matrices",
+                "Creating a Matrix",
+                "Matrix Arithmetic",
+                "Matrix Operations",
+                "Matrix Selection and Indexing",
+                "Factor and Categorical Matrices",
+                "Matrix Training Exercise",
+                "Matrix Training Exercises - Solutions Walkthrough"
+            ]
+        },
+        {
+            "sectionName": "R Data Frames",
+            "unitNames": [
+                "Introduction to R Data Frames",
+                "Data Frame Basics",
+                "Data Frame Indexing and Selection",
+                "Overview of Data Frame Operations - Part 1",
+                "Overview of Data Frame Operations - Part 2",
+                "Data Frame Training Exercise",
+                "Data Frame Training Exercises - Solutions Walkthrough"
+            ]
+        },
+        {
+            "sectionName": "R Lists",
+            "unitNames": [
+                "List Basics"
+            ]
+        },
+        {
+            "sectionName": "Data Input and Output with R",
+            "unitNames": [
+                "Introduction to Data Input and Output with R",
+                "CSV Files with R",
+                "Note on R with Excel Download",
+                "Excel Files with R",
+                "SQL with R",
+                "Web Scraping with R"
+            ]
+        },
+        {
+            "sectionName": "R Programming Basics",
+            "unitNames": [
+                "Introduction to Programming Basics",
+                "Logical Operators",
+                "if, else, and else if Statements",
+                "Conditional Statements Training Exercise",
+                "Conditional Statements Training Exercise - Solutions Walkthrough",
+                "While Loops",
+                "For Loops",
+                "Functions",
+                "Functions Training Exercise",
+                "Functions Training Exercise - Solutions"
+            ]
+        },
+        {
+            "sectionName": "Advanced R Programming",
+            "unitNames": [
+                "Introduction to Advanced R Programming",
+                "Built-in R Features",
+                "Apply",
+                "Math Functions with R",
+                "Regular Expressions",
+                "Dates and Timestamps"
+            ]
+        },
+        {
+            "sectionName": "Data Manipulation with R",
+            "unitNames": [
+                "Data Manipulation Overview",
+                "Guide to Using Dplyr",
+                "Guide to Using Dplyr - Part 2",
+                "Pipe Operator",
+                "Quick note on Dpylr exercise",
+                "Dplyr Training Exercise",
+                "Dplyr Training Exercise - Solutions Walkthrough",
+                "Guide to Using Tidyr"
+            ]
+        },
+        {
+            "sectionName": "Data Visualization with R",
+            "unitNames": [
+                "Overview of ggplot2",
+                "Histograms",
+                "Scatterplots",
+                "Barplots",
+                "Boxplots",
+                "2 Variable Plotting",
+                "Coordinates and Faceting",
+                "Themes",
+                "ggplot2 Exercises",
+                "ggplot2 Exercise Solutions"
+            ]
+        },
+        {
+            "sectionName": "Data Visualization Project",
+            "unitNames": [
+                "Data Visualization Project",
+                "Data Visualization Project - Solutions Walkthrough - Part 1",
+                "Data Visualization Project Solutions Walkthrough - Part 2"
+            ]
+        },
+        {
+            "sectionName": "Interactive Visualizations with Plotly",
+            "unitNames": [
+                "Overview of Plotly and Interactive Visualizations",
+                "Resources for Plotly and ggplot2"
+            ]
+        },
+        {
+            "sectionName": "Capstone Data Project",
+            "unitNames": [
+                "Introduction to Capstone Project",
+                "Capstone Project Solutions Walkthrough"
+            ]
+        },
+        {
+            "sectionName": "Introduction to Machine Learning with R",
+            "unitNames": [
+                "ISLR PDF",
+                "Introduction to Machine Learning"
+            ]
+        },
+        {
+            "sectionName": "Machine Learning with R - Linear Regression",
+            "unitNames": [
+                "Introduction to Linear Regression",
+                "Linear Regression with R - Part 1",
+                "Linear Regression with R - Part 2",
+                "Linear Regression with R - Part 3"
+            ]
+        },
+        {
+            "sectionName": "Machine Learning Project - Linear Regression",
+            "unitNames": [
+                "Introduction to Linear Regression Project",
+                "ML - Linear Regression Project - Solutions Part 1",
+                "ML - Linear Regression Project - Solutions Part 2"
+            ]
+        },
+        {
+            "sectionName": "Machine Learning with R - Logistic Regression",
+            "unitNames": [
+                "Introduction to Logistic Regression",
+                "Logistic Regression with R - Part 1",
+                "Logistic Regression with R - Part 2"
+            ]
+        },
+        {
+            "sectionName": "Machine Learning Project - Logistic Regression",
+            "unitNames": [
+                "Introduction to Logistic Regression Project",
+                "Logistic Regression Project Solutions  - Part 1",
+                "Logistic Regression Project Solutions - Part 2",
+                "Logistic Regression Project - Solutions Part 3"
+            ]
+        },
+        {
+            "sectionName": "Machine Learning with R - K Nearest Neighbors",
+            "unitNames": [
+                "Introduction to K Nearest Neighbors",
+                "K Nearest Neighbors with R"
+            ]
+        },
+        {
+            "sectionName": "Machine Learning Project - K Nearest Neighbors",
+            "unitNames": [
+                "Introduction K Nearest Neighbors Project",
+                "K Nearest Neighbors Project Solutions"
+            ]
+        },
+        {
+            "sectionName": "Machine Learning with R - Decision Trees and Random Forests",
+            "unitNames": [
+                "Introduction to Tree Methods",
+                "Decision Trees and Random Forests with R"
+            ]
+        },
+        {
+            "sectionName": "Machine Learning Project - Decision Trees and Random Forests",
+            "unitNames": [
+                "Introduction to Decision Trees and Random Forests Project",
+                "Tree Methods Project Solutions - Part 1",
+                "Tree Methods Project Solutions - Part 2"
+            ]
+        },
+        {
+            "sectionName": "Machine Learning with R - Support Vector Machines",
+            "unitNames": [
+                "Introduction to Support Vector Machines",
+                "Support Vector Machines with R"
+            ]
+        },
+        {
+            "sectionName": "Machine Learning Project - Support Vector Machines",
+            "unitNames": [
+                "Introduction to SVM Project",
+                "Support Vector Machines Project - Solutions Part 1",
+                "Support Vector Machines Project - Solutions Part 2"
+            ]
+        },
+        {
+            "sectionName": "Machine Learning with R - K-means Clustering",
+            "unitNames": [
+                "Introduction to K-Means Clustering",
+                "K Means Clustering with R"
+            ]
+        },
+        {
+            "sectionName": "Machine Learning Project - K-means Clustering",
+            "unitNames": [
+                "Introduction to K Means Clustering Project",
+                "K Means Clustering Project - Solutions Walkthrough"
+            ]
+        },
+        {
+            "sectionName": "Machine Learning with R - Natural Language Processing",
+            "unitNames": [
+                "Introduction to Natural Language Processing",
+                "Natural Language Processing with R - Part 1",
+                "Natural Language Processing with R - Part 2"
+            ]
+        },
+        {
+            "sectionName": "Machine Learning with R - Neural Nets",
+            "unitNames": [
+                "Introduction to Neural Nets",
+                "Neural Nets with R"
+            ]
+        },
+        {
+            "sectionName": "Machine Learning Project - Neural Nets",
+            "unitNames": [
+                "Introduction to Neural Nets Project",
+                "Neural Nets Project - Solutions"
+            ]
+        },
+        {
+            "sectionName": "Bonus Section",
+            "unitNames": [
+                "Bonus Lecture:"
+            ]
+        }
+    ]
 }
