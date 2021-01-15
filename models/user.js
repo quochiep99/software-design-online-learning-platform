@@ -46,6 +46,9 @@ const UserSchema = new Schema({
         }
     ],
 
+    // To track the status 'completed' or 'not completed' of the enrolled course
+    enrolledCoursesStatus: [],
+
     // Track student's course progress
     progress: [],
     // for instructors

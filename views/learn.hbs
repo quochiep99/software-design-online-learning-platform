@@ -41,6 +41,7 @@
             <button type="button" class="btn-close" data-bs-dismiss="alert" aria-label="Close"></button>
         </div>
         {{/if}}
+        {{#unless isPreviewMode}}
         <div class="row justify-content-end">
             <div class="col-sm-4">
                 <div class="alert alert-info" role="alert">
@@ -48,6 +49,7 @@
                 </div>
             </div>
         </div>
+        {{/unless}}
         <div class="row">
             <div class="col-sm-8">
                 <video id="player" playsinline controls

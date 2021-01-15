@@ -152,3 +152,22 @@ if (document.querySelector("#reviewRatings")) {
     })
 }
 
+// Track, toggle course status
+document.querySelectorAll(".enrolledCourseStatus").forEach(e => {
+    e.addEventListener("click", () => {
+        const courseId = e.id;
+        $.post("/my-courses/status",
+            {
+                courseId: courseId
+            },
+            (data, status) => {
+                if (status === "success") {
+                    e.children[0].textContent = "Completed"
+                    e.children[0].style.color = "#fff";
+                    e.children[0].style.background = "#662d91";
+                }
+
+            }
+        )
+    })
+})

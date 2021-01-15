@@ -105,7 +105,7 @@ router.get("/register", (req, res) => {
     res.render("register", { layout: false });
 })
 router.post("/ajax-register", async (req, res) => {
-    const user = await User.findOne({ email:req.body.email });
+    const user = await User.findOne({ email: req.body.email });
     if (user) {
         res.send("This email already exists !");
     } else {
@@ -349,6 +349,28 @@ router.get("/my-courses/learning", middleware.ensureAuthenticated, async (req, r
 
 })
 
+router.post("/my-courses/status", middleware.ensureAuthenticated, async (req, res) => {
+    const courseId = req.body.courseId;
+    const user = req.user;
+    const e = {};
+    var alreadyExist = false;
+    // Check if the course that we want to mark as completed already exists in the list    
+    for (var i = 0; i < user.enrolledCoursesStatus.length; i++) {
+        if (courseId in user.enrolledCoursesStatus[i]) {
+            user.enrolledCoursesStatus[i][courseId] = "complete";
+            alreadyExist = true;
+            break;
+        }
+    }
+    // if not then we add it
+    if (!alreadyExist) {
+        e[courseId] = "completed";
+        user.enrolledCoursesStatus.push(e);
+    }
+    await user.save();
+    res.send("success");
+})
+
 // wishlisted courses
 router.get("/my-courses/wishlist", middleware.ensureAuthenticated, async (req, res) => {
     try {
@@ -410,8 +432,8 @@ router.get("/profile", middleware.ensureAuthenticated, (req, res) => {
 })
 
 router.post("/profile/basic-information", middleware.ensureAuthenticated, async (req, res) => {
-    if (await User.findOne({email: req.body.email})) {
-        req.flash("error_msg","This email already exists !");
+    if (await User.findOne({ email: req.body.email })) {
+        req.flash("error_msg", "This email already exists !");
         return res.redirect("/profile");
     }
     const name = req.body.name;
@@ -448,7 +470,7 @@ router.post("/profile/account-security", middleware.ensureAuthenticated, async (
             if (newPassword === currentPassword) {
                 req.flash("error_msg", "You are entering old password. Please enter another one !");
                 return res.redirect("/profile");
-            } else if (newPassword === confirmedPassword) {                
+            } else if (newPassword === confirmedPassword) {
                 const salt = await bcrypt.genSalt(10);
                 const newHashedPassword = await bcrypt.hash(newPassword, salt);
                 user.password = newHashedPassword;

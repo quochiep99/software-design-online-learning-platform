@@ -13,12 +13,12 @@
             <li>
                 <div class="switch-field">
 
-                    <input type="radio" id="allCourses" name="listing_filter" value="allCourses" {{#if isAllCoursesChosen}}
-                        checked {{/if}} onclick="window.location.href='/my-courses/learning'">
+                    <input type="radio" id="allCourses" name="listing_filter" value="allCourses" {{#if
+                        isAllCoursesChosen}} checked {{/if}} onclick="window.location.href='/my-courses/learning'">
                     <label for="allCourses">All courses</label>
 
-                    <input type="radio" id="wishList" name="listing_filter" value="wishList" {{#if isWishListChosen}} checked
-                        {{/if}} onclick="window.location.href='/my-courses/wishlist'">
+                    <input type="radio" id="wishList" name="listing_filter" value="wishList" {{#if isWishListChosen}}
+                        checked {{/if}} onclick="window.location.href='/my-courses/wishlist'">
                     <label for="wishList">WishList</label>
 
                 </div>
@@ -76,7 +76,7 @@
                 <ul>
                     <!-- <li><i class="icon_clock_alt"></i> 1h 30min</li> -->
                     <li><i class="far fa-eye"></i> {{this.numViews}}</li>
-                    <li><a href="#">Enroll now</a></li>
+                    <li id="{{this._id}}" class="enrolledCourseStatus"><a>Mark as completed</a></li>
                 </ul>
             </div>
         </div>
