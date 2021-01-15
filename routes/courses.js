@@ -186,7 +186,8 @@ router.get("/:id/learn/", middleware.ensureAuthenticated, middleware.checkEnroll
     res.render("learn", {
         layout: false,
         course: course,
-        isPreviewMode: false
+        isPreviewMode: false,
+        curriculum: course.curriculum
     })
     // res.redirect("/");
 });

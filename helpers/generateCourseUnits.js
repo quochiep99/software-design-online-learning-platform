@@ -26,7 +26,7 @@ module.exports = (course, curriculum, currentLessonName, isPreviewMode) => {
                 const lessonName = curriculum[i].unitNames[j];
                 str += `                        
                     <a href="#" class="list-group-item list-group-item-action">                
-                    <input type="checkbox" class="form-check-input" id="exampleCheck1">${lessonName}</a>
+                    <input type="checkbox" class="form-check-input" id="exampleCheck1">&ensp;${lessonName}</a>
                     `
             }
             str += `
@@ -75,13 +75,13 @@ module.exports = (course, curriculum, currentLessonName, isPreviewMode) => {
                 str += `                        
                 <a href="/it/${course.field.name}/courses/${course._id}/learn/${lessonName}" class="list-group-item list-group-item-action list-group-item-success">                
                 <input type="checkbox" class="form-check-input" id="exampleCheck1" name="${lessonName}" ${isChecked}>
-                ${lessonName}</a>
+                &ensp;${lessonName}</a>
                 `
             } else {
                 str += `                        
                 <a href="/it/${course.field.name}/courses/${course._id}/learn/${lessonName}" class="list-group-item list-group-item-action">                
                 <input type="checkbox" class="form-check-input" id="exampleCheck1" name="${lessonName}" ${isChecked}>
-                ${lessonName}</a>
+                &ensp;${lessonName}</a>
                 `
             }
         }
