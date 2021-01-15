@@ -6,151 +6,151 @@
     "course": {
         "title": "React - The Complete Guide (incl Hooks, React Router, Redux)",
         "subtitle": "Dive in and learn React.js from scratch! Learn Reactjs, Hooks, Redux, React Routing, Animations, Next.js and way more!",
-        "descriptions":  "",
+        "descriptions": [],
         "reviews": [],
         "students": [],
-        "image1xURL": "https://img-a.udemycdn.com/course/240x135/1362070_b9a1_2.jpg",
-        "image2xURL": "https://img-a.udemycdn.com/course/480x270/1362070_b9a1_2.jpg",
-        "image3xURL": "https://img-a.udemycdn.com/course/750x422/1362070_b9a1_2.jpg",
+        "image1xURL": "https://img-b.udemycdn.com/course/240x135/1362070_b9a1_2.jpg",
+        "image2xURL": "https://img-b.udemycdn.com/course/480x270/1362070_b9a1_2.jpg",
+        "image3xURL": "https://img-b.udemycdn.com/course/750x422/1362070_b9a1_2.jpg",
         "discountPrice": 11.99,
         "originalPrice": 129.99,
         "numViews": 0,
-        "curriculum": {}
+        "curriculum": []
     },
     "reviews": [
+        {
+            "body": "This was a really intense great course! It was fully packed with knowledge with lots of ways to achieve things, so I feel really prepared to take on my own first project!\n\nAt stages I thought I got lost (especially Section 7), but when I repeatedly watched some videos/concepts it became clear. In section 7 I was close to giving up, but then I read a comment that it would all become much clearer towards the end of the course, so that I shouldn't worry too much if I don't get it immediately. This helped me a lot! Thanks for whoever commented this advice! It was actually true. So, I watched the videos, but didn't care to understand everything in detail and it was true, it all made much more sense later in the course.\n\nI especially liked the way Max taught some concepts first in a separate project and then using it on the Burger Builder project which definitely enhanced the comprehension of the concepts.\n\nMax has a really good feeling for where the potential difficulties are and recaps those points a lot which makes it stick even better.\n\nThanks a lot for this! Now it's time for me to practice.",
+            "rating": 5
+        },
+        {
+            "body": "It is a great match for me! The instructor is really clear and gave the complete knowledge required.",
+            "rating": 4.5
+        },
+        {
+            "body": "Loved this course, super comprehensive! I appreciate expanding on the \"Why\" behind a lot of the concepts explored here. The thorough understanding helps a ton. Thanks Max and team!",
+            "rating": 5
+        },
+        {
+            "body": "This was the best React course out there , what I mean here as it is so comprehensive and designed properly !! it is 10/10 also the teacher assistance they are very good they answer all the questions. Thank you all for this amazing course 100% I will use it as reference all the time :) :)",
+            "rating": 5
+        },
+        {
+            "body": "This is overall a great course I only wish that there were more exercises so we could practice\n\nmore instead of just following Max the instructor.\n\nAlso, sometimes while writing code, Max tends to write really fast and it can be difficult to stay with him\n\nand not miss some things he writes, which in return results in error/s that I then need to search for like 15-20 minutes until I find what's missing or is incorrect.\n\nOther than that, like I said, it's a great course that I will definitely recommend in the future :)",
+            "rating": 4.5
+        },
+        {
+            "body": "Sometimes it's hard to understand, because I'm completely new to the world of web app and React. If I may suggest please add more examination in your course so we will try to practice more. Overall it's really nice course.\n\nI still need to learn and practice more but this course really help me from zero understanding to the world of web app and React to know so much more about it.\n\nThanks for the course.",
+            "rating": 5
+        },
+        {
+            "body": "Max is indeed a very enthusiastic instructor and you get the feeling that he does his best to convey every aspect of the course to its very last detail to his students.\n\nThe course is really a must for everyone trying to get behind the world of React. After finishing this course you will have a valuable asset as reference for every React project.\n\nNice job Max, keep up the good work.",
+            "rating": 5
+        },
+        {
+            "body": "I completed this course and typed every line of code with Max to understand the concept of React. I would say, if you do it like me, you will be a pro after doing this course without gain new knowledge of REACT. This is a crazy course, Max put all his knowledge in and just to compary to other courses, its in my opinion the best course on React in video format, thats ever been created!",
+            "rating": 5
+        },
+        {
+            "body": "Course starts to be overwhelming after redux. Until there i was able to keep good focus while doing it in practise.",
+            "rating": 4.5
+        },
         {
             "body": "This is a third course I've taken from Max and again amazing. Everything is explained in depth and clear. Through out a course we build interesting project where implement all concepts that are explained in theory.",
             "rating": 5
         },
         {
-            "body": "Seriously this course is next level, i ve seen several instructors structuring and styling there codes. but not like max. i often uses this course as my \"notes\" if i forgetting some. but overall this course really covers react very very deep that could makes you an expert in react",
+            "body": "Max is an amazing teacher especially how he reemphasises concepts and answers questions ahead of time makes it really easy to grasp all the classes. Thanks for putting up this course.",
             "rating": 5
         },
         {
-            "body": "This course was great to supplement the coding boot camp I went to! Starts off with the basics but it gets pretty advanced in a hurry.",
-            "rating": 5
-        },
-        {
-            "body": "It was great. Occasionally got overly complicated and seemed to show a way to do things that weren't the simplest, most logical way. But great overall.",
-            "rating": 4.5
-        },
-        {
-            "body": "An excellent resource for anyone who is looking for a complete education in React. The lectures are accessible to anyone at any level of JavaScript knowledge, but most importantly the practice projects functional and deploy-able. Excellent!",
-            "rating": 5
-        },
-        {
-            "body": "Very very thorough course! Appreciate the ongoing updates and extra bonus courses to help on my development journey!",
-            "rating": 4.5
-        },
-        {
-            "body": "Special thanks to Max for putting together such a amazing Project .I just finished the course and the info I have learned is valuable. I like the way Max teaches, the exercises, the introduction to each subject . I can imagine the experience required to put together a course like this. Thanks Max for providing extra data to the course because enhance our knowledge. It took me three months to finish but it was great to dedicate all the time. Thanks for responding to my questions the next day. The best course ever.",
-            "rating": 5
-        },
-        {
-            "body": "This course is very good and plus the comprehensive information Max taught us through this course he also taught us a valuable vanilla javaScript data structure skills that really made the difference for me in my work.\n\nOnly two things that bothered me one of them is the design used for his applications, as they are not like a real world applications; however, the information expressed on the course main application and the other mini applications are enough to qualify me to build and work on React applications.\n\nthe other and the important significant one is that there is no section for typeScript, I still expect soon a section for developing react with typeScript.",
-            "rating": 4.5
-        },
-        {
-            "body": "The course is really amazing. I would say, a must for every developer out there, seeking to learn React, in the most fundamental manner possible!",
-            "rating": 5
-        },
-        {
-            "body": "Absolutely loved the course and the way Max teaches all the best practices along with telling other possibilities. It is definitely a must take course for those who truly want to master core React concepts and then build up on that.",
-            "rating": 5
-        },
-        {
-            "body": "Lots of great content, unfortunately there's almost TOO much distracting bonus content, making the course much harder to get through the core concepts. Also heavy use of class based components and only hooks used at the end, making a lot of the content out of date. That being said, if you get through it all, you will learn a ton about React.",
-            "rating": 4
-        },
-        {
-            "body": "I finished whole course right now and want to notice that it is one of the most beneficial courses you can meet when u are seeking for React course. If you see see this course, there is no need to go for any other alternatives. Feel free to join.\n\nNote: Only problem is there is huge amount of useful information and it can be difficult to place them all in your brain. You can be practise time by time to feel how great it is.\n\nThank you, Max, for this great journey :)",
+            "body": "Tremendous thanks to Max, i love the way he teach, everything in the world of React are covered and well explained. Thanks to his course I successfully transitioned to a full stack developper from civil engineering. Last time, i've even dreamed of Max that i invited him to my home and i prepare for him the best traditional food of my home town :) ??",
             "rating": 5
         }
     ],
     "students": [
         {
+            "name": "Kirsten",
+            "email": "kirsten@gmail.com",
+            "password": "kirsten",
+            "role": "s",
+            "isConfirmed": true
+        },
+        {
+            "name": "Navya Velugubantla",
+            "email": "navyavelugubantla@gmail.com",
+            "password": "navyavelugubantla",
+            "role": "s",
+            "isConfirmed": true
+        },
+        {
+            "name": "Anwana Ntofon",
+            "email": "anwanantofon@gmail.com",
+            "password": "anwanantofon",
+            "role": "s",
+            "isConfirmed": true
+        },
+        {
+            "name": "Ady Arabiat",
+            "email": "adyarabiat@gmail.com",
+            "password": "adyarabiat",
+            "role": "s",
+            "isConfirmed": true
+        },
+        {
+            "name": "Ori Ko",
+            "email": "oriko@gmail.com",
+            "password": "oriko",
+            "role": "s",
+            "isConfirmed": true
+        },
+        {
+            "name": "Aries Harijanto",
+            "email": "ariesharijanto@gmail.com",
+            "password": "ariesharijanto",
+            "role": "s",
+            "isConfirmed": true
+        },
+        {
+            "name": "Sam Alias",
+            "email": "samalias@gmail.com",
+            "password": "samalias",
+            "role": "s",
+            "isConfirmed": true
+        },
+        {
+            "name": "David Kempf",
+            "email": "davidkempf@gmail.com",
+            "password": "davidkempf",
+            "role": "s",
+            "isConfirmed": true
+        },
+        {
+            "name": "Dragan Novkovic",
+            "email": "dragannovkovic@gmail.com",
+            "password": "dragannovkovic",
+            "role": "s",
+            "isConfirmed": true
+        },
+        {
             "name": "Yulia Lantzberg",
             "email": "yulialantzberg@gmail.com",
             "password": "yulialantzberg",
             "role": "s",
-"isConfirmed": true
+            "isConfirmed": true
         },
         {
-            "name": "Fachreza Ghifary",
-            "email": "fachrezaghifary@gmail.com",
-            "password": "fachrezaghifary",
+            "name": "Pedro Cunha",
+            "email": "pedrocunha@gmail.com",
+            "password": "pedrocunha",
             "role": "s",
-"isConfirmed": true
+            "isConfirmed": true
         },
         {
-            "name": "Michael Newman",
-            "email": "michaelnewman@gmail.com",
-            "password": "michaelnewman",
+            "name": "Yiliyasi Aboduaini",
+            "email": "yiliyasiaboduaini@gmail.com",
+            "password": "yiliyasiaboduaini",
             "role": "s",
-"isConfirmed": true
-        },
-        {
-            "name": "Rob Arbittier",
-            "email": "robarbittier@gmail.com",
-            "password": "robarbittier",
-            "role": "s",
-"isConfirmed": true
-        },
-        {
-            "name": "Luis Neira",
-            "email": "luisneira@gmail.com",
-            "password": "luisneira",
-            "role": "s",
-"isConfirmed": true
-        },
-        {
-            "name": "David N Tran",
-            "email": "davidntran@gmail.com",
-            "password": "davidntran",
-            "role": "s",
-"isConfirmed": true
-        },
-        {
-            "name": "Edward Garcia",
-            "email": "edwardgarcia@gmail.com",
-            "password": "edwardgarcia",
-            "role": "s",
-"isConfirmed": true
-        },
-        {
-            "name": "mohammed youssef",
-            "email": "mohammedyoussef@gmail.com",
-            "password": "mohammedyoussef",
-            "role": "s",
-"isConfirmed": true
-        },
-        {
-            "name": "Elemento 24",
-            "email": "elemento24@gmail.com",
-            "password": "elemento24",
-            "role": "s",
-"isConfirmed": true
-        },
-        {
-            "name": "Syed Muhammad Zaeem Hasan Kazmi",
-            "email": "syedmuhammadzaeemhasankazmi@gmail.com",
-            "password": "syedmuhammadzaeemhasankazmi",
-            "role": "s",
-"isConfirmed": true
-        },
-        {
-            "name": "Charles",
-            "email": "charles@gmail.com",
-            "password": "charles",
-            "role": "s",
-"isConfirmed": true
-        },
-        {
-            "name": "Emin İsrafilzadə",
-            "email": "emini̇srafilzadə@gmail.com",
-            "password": "emini̇srafilzadə",
-            "role": "s",
-"isConfirmed": true
+            "isConfirmed": true
         }
     ],
     "instructor": {
@@ -158,7 +158,656 @@
         "email": "academindbymaximilianschwarzmüller@gmail.com",
         "password": "academindbymaximilianschwarzmüller",
         "role": "i",
-"isConfirmed": true,
-        "briefIntroduction": "<p>Bundling the courses and know how of successful instructors, Academind strives to deliver high quality online education.&nbsp;</p>\n\n<p>Online Education, Real-Life Success - that's what Academind stands for. Learn topics like web development, data analyses and more in a fun and engaging way.</p>\n\n\n\n\n\n\n\n<p>Currently, you can find courses published by Maximilian Schwarzmüller and Manuel Lorenz, more instructors to come!</p>\n\n\n\n\n\n\n\n<p>Keep learning!</p>"
-    }
+        "briefIntroduction": "<p>Bundling the courses and know how of successful instructors, Academind strives to deliver high quality online education.&nbsp;</p>\n\n<p>Online Education, Real-Life Success - that's what Academind stands for. Learn topics like web development, data analyses and more in a fun and engaging way.</p>\n\n\n\n\n\n\n\n<p>Currently, you can find courses published by Maximilian Schwarzmüller and Manuel Lorenz, more instructors to come!</p>\n\n\n\n\n\n\n\n<p>Keep learning!</p>",
+        "isConfirmed": true
+    },
+    "curriculum": [
+        {
+            "sectionName": "Getting Started",
+            "unitNames": [
+                "Introduction",
+                "What is React?",
+                "Join our Online Learning Community",
+                "Real-World SPAs & React Web Apps",
+                "Writing our First React Code",
+                "Why Should we Choose React?",
+                "React Alternatives",
+                "Understanding Single Page Applications and Multi Page Applications",
+                "Course Outline",
+                "How to get the Most out of This Course",
+                "Useful Resources & Links"
+            ]
+        },
+        {
+            "sectionName": "Refreshing Next Generation JavaScript (Optional)",
+            "unitNames": [
+                "Module Introduction",
+                "Understanding \"let\" and \"const\"",
+                "Arrow Functions",
+                "Exports and Imports",
+                "Understanding Classes",
+                "Classes, Properties and Methods",
+                "The Spread & Rest Operator",
+                "Destructuring",
+                "Reference and Primitive Types Refresher",
+                "Refreshing Array Functions",
+                "Wrap Up",
+                "Next-Gen JavaScript - Summary",
+                "JS Array Functions"
+            ]
+        },
+        {
+            "sectionName": "Understanding the Base Features & Syntax",
+            "unitNames": [
+                "Module Introduction",
+                "The Build Workflow",
+                "Using Create React App",
+                "Understanding the Folder Structure",
+                "Understanding Component Basics",
+                "Understanding JSX",
+                "JSX Restrictions",
+                "Creating a Functional Component",
+                "Components & JSX Cheat Sheet",
+                "Working with Components & Re-Using Them",
+                "Outputting Dynamic Content",
+                "Working with Props",
+                "Understanding the \"children\" Prop",
+                "Understanding & Using State",
+                "Props & State",
+                "Handling Events with Methods",
+                "To Which Events Can You Listen?",
+                "Manipulating the State",
+                "Function Components Naming",
+                "Using the useState() Hook for State Manipulation",
+                "Stateless vs Stateful Components",
+                "Passing Method References Between Components",
+                "Adding Two Way Binding",
+                "Adding Styling with Stylesheets",
+                "Working with Inline Styles",
+                "Time to Practice - The Base Syntax",
+                "[OPTIONAL] Assignment Solution",
+                "Useful Resources & Links"
+            ]
+        },
+        {
+            "sectionName": "Working with Lists and Conditionals",
+            "unitNames": [
+                "Module Introduction",
+                "Rendering Content Conditionally",
+                "Handling Dynamic Content \"The JavaScript Way\"",
+                "Outputting Lists (Intro)",
+                "Outputting Lists",
+                "Lists & State",
+                "Updating State Immutably",
+                "Lists & Keys",
+                "Flexible Lists",
+                "Wrap Up",
+                "Time to Practice - Lists & Conditionals",
+                "[OPTIONAL] Assignment Solution",
+                "Useful Resources & Links"
+            ]
+        },
+        {
+            "sectionName": "Styling React Components & Elements",
+            "unitNames": [
+                "Module Introduction",
+                "Outlining the Problem Set",
+                "Setting Styles Dynamically",
+                "Setting Class Names Dynamically",
+                "Adding and Using Radium",
+                "Using Radium for Media Queries",
+                "Introducing Styled Components",
+                "More on Styled Components",
+                "Styled Components & Dynamic Styles",
+                "Working with CSS Modules",
+                "CSS Modules & Media Queries",
+                "More on CSS Modules",
+                "Useful Resources & Links"
+            ]
+        },
+        {
+            "sectionName": "Debugging React Apps",
+            "unitNames": [
+                "Module Introduction",
+                "Understanding Error Messages",
+                "Finding Logical Errors by using Dev Tools & Sourcemaps",
+                "Working with the React Developer Tools",
+                "Using Error Boundaries (React 16+)",
+                "Wrap Up",
+                "Useful Resources & Links"
+            ]
+        },
+        {
+            "sectionName": "Diving Deeper into Components & React Internals",
+            "unitNames": [
+                "Module Introduction",
+                "A Better Project Structure",
+                "Splitting an App Into Components",
+                "Comparing Stateless and Stateful Components",
+                "Class-based vs Functional Components",
+                "class Component Lifecycle Overview",
+                "Component Creation Lifecycle in Action",
+                "Component Update Lifecycle (for props Changes)",
+                "Component Update Lifecycle (for state Changes)",
+                "Using useEffect() in Functional Components",
+                "Controlling the useEffect() Behavior",
+                "Cleaning up with Lifecycle Hooks & useEffect()",
+                "Cleanup Work with useEffect() - Example",
+                "Using shouldComponentUpdate for Optimization",
+                "Optimizing Functional Components with React.memo()",
+                "When should you optimize?",
+                "PureComponents instead of shouldComponentUpdate",
+                "How React Updates the DOM",
+                "Rendering Adjacent JSX Elements",
+                "Windows Users Must Read",
+                "Using React.Fragment",
+                "Higher Order Components (HOC) - Introduction",
+                "Another Form of HOCs",
+                "Passing Unknown Props",
+                "Setting State Correctly",
+                "Using PropTypes",
+                "Using Refs",
+                "Refs with React Hooks",
+                "Understanding Prop Chain Problems",
+                "Using the Context API",
+                "contextType & useContext()",
+                "Wrap Up",
+                "Useful Resources & Links"
+            ]
+        },
+        {
+            "sectionName": "A Real App: The Burger Builder (Basic Version)",
+            "unitNames": [
+                "About React Hooks",
+                "Module Introduction",
+                "Planning an App in React - Core Steps",
+                "Planning our App - Layout and Component Tree",
+                "Planning the State",
+                "MUST READ: Enabling CSS Modules",
+                "Setting up the Project",
+                "Creating a Layout Component",
+                "Starting Implementation of The Burger Builder Container",
+                "Adding a Dynamic Ingredient Component",
+                "Adding Prop Type Validation",
+                "Starting the Burger Component",
+                "Outputting Burger Ingredients Dynamically",
+                "Calculating the Ingredient Sum Dynamically",
+                "Adding the Build Control Component",
+                "Outputting Multiple Build Controls",
+                "Connecting State to Build Controls",
+                "Removing Ingredients Safely",
+                "Displaying and Updating the Burger Price",
+                "Adding the Order Button",
+                "Creating the Order Summary Modal",
+                "Showing & Hiding the Modal (with Animation!)",
+                "Implementing the Backdrop Component",
+                "Adding a Custom Button Component",
+                "Implementing the Button Component",
+                "Adding the Price to the Order Summary",
+                "Adding a Toolbar",
+                "Using a Logo in our Application",
+                "Adding Reusable Navigation Items",
+                "Creating a Responsive Sidedrawer",
+                "Working on Responsive Adjustments",
+                "More about Responsive Adjustments",
+                "Reusing the Backdrop",
+                "Adding a Sidedrawer Toggle Button",
+                "Adding a Hamburger Icon",
+                "Improving the App - Introduction",
+                "Prop Type Validation",
+                "Improving Performance",
+                "Using Component Lifecycle Methods",
+                "Changing the Folder Structure",
+                "Wrap Up",
+                "Useful Resources & Links"
+            ]
+        },
+        {
+            "sectionName": "Reaching out to the Web (Http / Ajax)",
+            "unitNames": [
+                "Module Introduction",
+                "Understanding Http Requests in React",
+                "Understanding our Project and Introducing Axios",
+                "Creating a Http Request to GET Data",
+                "Rendering Fetched Data to the Screen",
+                "Transforming Data",
+                "Making a Post Selectable",
+                "Fetching Data on Update (without Creating Infinite Loops)",
+                "POSTing Data to the Server",
+                "Sending a DELETE Request",
+                "Fixing a Bug",
+                "Handling Errors Locally",
+                "Adding Interceptors to Execute Code Globally",
+                "Removing Interceptors",
+                "Setting a Default Global Configuration for Axios",
+                "Creating and Using Axios Instances",
+                "Wrap Up",
+                "Useful Resources & Links"
+            ]
+        },
+        {
+            "sectionName": "Burger Builder Project: Accessing a Server",
+            "unitNames": [
+                "Module Introduction",
+                "Firebase & The Right Database",
+                "Creating the Firebase Project",
+                "Creating the Axios Instance",
+                "Sending a POST Request",
+                "Displaying a Spinner while Sending a Request",
+                "Handling Errors",
+                "Retrieving Data from the Backend",
+                "Removing Old Interceptors",
+                "Useful Resources & Links"
+            ]
+        },
+        {
+            "sectionName": "Multi-Page-Feeling in a Single-Page-App: Routing",
+            "unitNames": [
+                "Module Introduction",
+                "Routing and SPAs",
+                "Setting Up Links",
+                "Setting Up the Router Package",
+                "react-router vs react-router-dom",
+                "Preparing the Project For Routing",
+                "Setting Up and Rendering Routes",
+                "Rendering Components for Routes",
+                "Switching Between Pages",
+                "Using Links to Switch Pages",
+                "Using Routing-Related Props",
+                "The \"withRouter\" HOC & Route Props",
+                "Absolute vs Relative Paths",
+                "Absolute vs Relative Paths (Article)",
+                "Styling the Active Route",
+                "Passing Route Parameters",
+                "Extracting Route Parameters",
+                "Parsing Query Parameters & the Fragment",
+                "Using Switch to Load a Single Route",
+                "Navigating Programmatically",
+                "Additional Information Regarding Active Links",
+                "Understanding Nested Routes",
+                "Creating Dynamic Nested Routes",
+                "Redirecting Requests",
+                "Conditional Redirects",
+                "Using the History Prop to Redirect (Replace)",
+                "Working with Guards",
+                "Handling the 404 Case (Unknown Routes)",
+                "Loading Routes Lazily",
+                "Lazy Loading with React Suspense (16.6)",
+                "Routing and Server Deployment",
+                "Time to Practice - Routing",
+                "Wrap Up",
+                "Useful Resources & Links"
+            ]
+        },
+        {
+            "sectionName": "Adding Routing to our Burger Project",
+            "unitNames": [
+                "Module Introduction",
+                "Building the Checkout Container",
+                "Setting Up Routing & Routes",
+                "Navigating to the Checkout Page",
+                "Navigating Back & To Next Page",
+                "Passing Ingredients via Query Params",
+                "Navigating to the Contact Data Component",
+                "Order Submission & Passing Data Between Pages",
+                "Adding an Orders Page",
+                "Implementing Navigation Links",
+                "Fetching Orders",
+                "Outputting the Orders",
+                "Wrap Up",
+                "Useful Resources & Links"
+            ]
+        },
+        {
+            "sectionName": "Forms and Form Validation",
+            "unitNames": [
+                "Module Introduction",
+                "Analyzing the App",
+                "Creating a Custom Dynamic Input Component",
+                "Setting Up a JS Config for the Form",
+                "Dynamically Create Inputs based on JS Config",
+                "Adding a Dropdown Component",
+                "Handling User Input",
+                "Handling Form Submission",
+                "Adding Custom Form Validation",
+                "Fixing a Common Validation Gotcha",
+                "Adding Validation Feedback",
+                "Improving Visual Feedback",
+                "Showing Error Messages",
+                "Handling Overall Form Validity",
+                "Working on an Error",
+                "Fixing a Bug",
+                "Useful Resources & Links"
+            ]
+        },
+        {
+            "sectionName": "Redux",
+            "unitNames": [
+                "Module Introduction",
+                "Understanding State",
+                "The Complexity of Managing State",
+                "Understanding the Redux Flow",
+                "Setting Up Reducer and Store",
+                "Dispatching Actions",
+                "Adding Subscriptions",
+                "Connecting React to Redux",
+                "Connecting the Store to React",
+                "Dispatching Actions from within the Component",
+                "Time to Practice - Dispatching Actions",
+                "Passing and Retrieving Data with Action",
+                "Switch-Case in the Reducer",
+                "Updating State Immutably",
+                "Updating Arrays Immutably",
+                "Immutable Update Patterns",
+                "Outsourcing Action Types",
+                "Combining Multiple Reducers",
+                "Understanding State Types",
+                "Time to Practice - Redux Basics",
+                "[OPTIONAL] Assignment Solution",
+                "Combining Local UI State and Redux",
+                "Wrap Up",
+                "Useful Resources & Links"
+            ]
+        },
+        {
+            "sectionName": "Adding Redux to our Project",
+            "unitNames": [
+                "Module Introduction",
+                "Installing Redux and React Redux",
+                "Basic Redux Setup",
+                "Finishing the Reducer for Ingredients",
+                "Connecting the Burger Builder Container to our Store",
+                "Working on the Total Price Calculation",
+                "Redux & UI State",
+                "Adjusting Checkout and Contact Data",
+                "Wrap Up",
+                "Useful Resources & Links"
+            ]
+        },
+        {
+            "sectionName": "Redux Advanced",
+            "unitNames": [
+                "Module Introduction",
+                "Adding  Middleware",
+                "Using the Redux Devtools",
+                "Executing Asynchronous Code - Introduction",
+                "Introducing Action Creators",
+                "Action Creators & Async Code",
+                "Handling Asynchronous Code",
+                "Restructuring Actions",
+                "Where to Put Data Transforming Logic?",
+                "Using Action Creators and Get State",
+                "Using Utility Functions",
+                "A Leaner Switch Case Statement",
+                "An Alternative Folder Structure",
+                "Diving Much Deeper",
+                "Wrap Up",
+                "Useful Resources & Links"
+            ]
+        },
+        {
+            "sectionName": "Redux Advanced: Burger Project",
+            "unitNames": [
+                "Module Introduction",
+                "Installing the Redux Devtools",
+                "Preparing the Folder Structure",
+                "Creating Action Creators",
+                "Executing Asynchronous Code",
+                "Fetching Ingredients Asynchronously",
+                "Initializing Ingredients in the BurgerBuilder",
+                "Changing the Order of our Ingredients Manually",
+                "Adding Order Actions",
+                "Connecting Contact Data Container & Actions",
+                "The Order Reducer",
+                "Working on Order Actions",
+                "Redirect to Improve UX",
+                "Combining Reducers",
+                "Handling Purchases & Updating the UI",
+                "Resetting the Price after Purchases",
+                "Fetching Orders (via Redux)",
+                "Checking our Implemented Functionalities",
+                "Refactoring Reducers",
+                "Refactoring Reducers Continued",
+                "Wrap Up",
+                "Useful Resources & Links"
+            ]
+        },
+        {
+            "sectionName": "Adding Authentication to our Burger Project",
+            "unitNames": [
+                "Module Introduction",
+                "Understanding Authentication in Single Page Applications",
+                "Required App Adjustments",
+                "Adding an Auth Form",
+                "Adding Actions",
+                "Getting a Token from the Backend",
+                "Adding Sign-In",
+                "Storing the Token",
+                "Adding a Spinner",
+                "Logging Users Out",
+                "Accessing Protected Resources",
+                "Updating the UI Depending on Auth State",
+                "Adding a Logout Link",
+                "Forwarding Unauthenticated Users",
+                "Redirecting the User to the Checkout Page",
+                "Persistent Auth State with localStorage",
+                "Fixing Connect + Routing Errors",
+                "Ensuring App Security",
+                "Guarding Routes",
+                "Displaying User Specific Orders",
+                "Wrap Up",
+                "Useful Resources & Links"
+            ]
+        },
+        {
+            "sectionName": "Improving our Burger Project",
+            "unitNames": [
+                "Module Introduction",
+                "Fixing the Redirect to the Frontpage",
+                "Using updateObject in the Entire App",
+                "Sharing the Validation Method",
+                "Using Environment Variables",
+                "Removing console.log()s",
+                "Adding Lazy Loading",
+                "Wrap Up",
+                "Useful Resources & Links"
+            ]
+        },
+        {
+            "sectionName": "Testing",
+            "unitNames": [
+                "Module Introduction",
+                "What is Testing?",
+                "Required Testing Tools",
+                "What To Test?",
+                "Writing our First Test",
+                "Testing Components Continued",
+                "Jest and Enzyme Documentations",
+                "Testing Components Correctly",
+                "Testing Containers",
+                "How to Test Redux",
+                "Wrap Up",
+                "Useful Resources & Links"
+            ]
+        },
+        {
+            "sectionName": "Deploying the App to the Web",
+            "unitNames": [
+                "Module Introduction",
+                "Deployment Steps",
+                "Building the Project",
+                "Example: Deploying on Firebase",
+                "Wrap Up",
+                "Useful Resources & Links"
+            ]
+        },
+        {
+            "sectionName": "Bonus: Working with Webpack",
+            "unitNames": [
+                "Module Introduction",
+                "DON'T SKIP: Webpack Versions",
+                "Introducing Webpack",
+                "How Webpack works",
+                "Basic Workflow Requirements",
+                "Project & npm Setup",
+                "Creating a Basic Folder & File Structure",
+                "Creating the Basic React Application",
+                "Installing Production Dependencies",
+                "Setting Up the Basic Webpack Config",
+                "Adding File Rules & Babel",
+                "Loading CSS Files",
+                "Loading Images & Injecting into HTML Page",
+                "Production Workflow & Wrap Up",
+                "Adding babel-polyfill",
+                "Useful Resources & Links"
+            ]
+        },
+        {
+            "sectionName": "Bonus: Next.js",
+            "unitNames": [
+                "Module Introduction",
+                "Understanding Server Side Rendering",
+                "Setting Up a Project",
+                "Understanding the Basics",
+                "Next.js & Components & Pages",
+                "Styling our App in Next.js",
+                "Handling (404) Errors",
+                "A Special Lifecycle Hook",
+                "Deploying our App",
+                "Useful Resources & Links"
+            ]
+        },
+        {
+            "sectionName": "Bonus: Animations in React Apps",
+            "unitNames": [
+                "Module Introduction",
+                "Preparing the Demo Project",
+                "Using CSS Transitions",
+                "Using CSS Animations",
+                "CSS  Transition & Animations Limitations",
+                "Using ReactTransitionGroup",
+                "Using the Transition Component",
+                "Wrapping the Transition Component",
+                "Animation Timings",
+                "Transition Events",
+                "The CSSTransition Component",
+                "Customizing CSS Classnames",
+                "Animating Lists",
+                "Alternative Animation Packages",
+                "Wrap Up",
+                "Useful Resources & Links"
+            ]
+        },
+        {
+            "sectionName": "Bonus: A Brief Introduction to Redux Saga",
+            "unitNames": [
+                "Module Introduction",
+                "Installing Redux Saga",
+                "Creating our First Saga",
+                "Hooking the Saga Up (to the Store and Actions)",
+                "Moving Logic from the Action Creator to a Saga",
+                "Moving More Logic Into Sagas",
+                "Handling Authentication with a Saga",
+                "Handling Auto-Sign-In with a Saga",
+                "Moving the BurgerBuilder Side Effects into a Saga",
+                "Moving the Orders Side Effects into Sagas",
+                "Why Sagas can be Helpful",
+                "Diving Deeper into Sagas",
+                "Useful Resources & Links"
+            ]
+        },
+        {
+            "sectionName": "React Hooks",
+            "unitNames": [
+                "Introduction",
+                "What are \"React Hooks\"?",
+                "The Starting Project",
+                "Getting Started with useState()",
+                "More on useState() & State Updating",
+                "Array Destructuring",
+                "Multiple States",
+                "Rules of Hooks",
+                "Passing State Data Across Components",
+                "Time to Practice: Hooks Basics",
+                "Sending Http Requests",
+                "useEffect() & Loading Data",
+                "Understanding useEffect() Dependencies",
+                "More on useEffect()",
+                "What's useCallback()?",
+                "Working with Refs & useRef()",
+                "Cleaning Up with useEffect()",
+                "Deleting Ingredients",
+                "Loading Errors & State Batching",
+                "More on State Batching & State Updates",
+                "Understanding useReducer()",
+                "Using useReducer() for the Http State",
+                "Working with useContext()",
+                "Performance Optimizations with useMemo()",
+                "Getting Started with Custom Hooks",
+                "Sharing Data Between Custom Hooks & Components",
+                "Using the Custom Hook",
+                "Wrap Up"
+            ]
+        },
+        {
+            "sectionName": "Using Hooks in the Burger Builder",
+            "unitNames": [
+                "Introduction",
+                "Converting <App>",
+                "Routing with React.lazy()",
+                "Converting the Layout Component",
+                "Converting withErrorHandler HOC",
+                "Adjusting the Order & Checkout Containers",
+                "Add Hooks to ContactData",
+                "Converting the BurgerBuilder Container",
+                "Adjusting Auth & Logout Components",
+                "Using React.memo() & More!",
+                "Adding a Custom Error Handling Hook",
+                "Setting the right useEffect() Dependencies",
+                "Working with useSelector() and useDispatch()",
+                "Wrap Up",
+                "Useful Resources & Links"
+            ]
+        },
+        {
+            "sectionName": "Bonus: Replacing Redux with React Hooks",
+            "unitNames": [
+                "Module Introduction",
+                "Starting Project & Why You Would Replace Redux",
+                "Alternative: Using the Context API",
+                "Toggling Favorites with the Context API",
+                "Context API Summary (and why NOT to use it instead of Redux)",
+                "Getting Started with a Custom Hook as a Store",
+                "Finishing the Store Hook",
+                "Creating a Concrete Store",
+                "Using the Custom Store",
+                "Custom Hook Store Summary",
+                "Optimizing the Custom Hook Store",
+                "Bonus: Managing Multiple State Slices with the Custom Store Hook",
+                "Wrap Up",
+                "Useful Resources & Links"
+            ]
+        },
+        {
+            "sectionName": "Bonus: Building the Burger CSS",
+            "unitNames": [
+                "Building the Burger CSS Code"
+            ]
+        },
+        {
+            "sectionName": "Next Steps and Course Roundup",
+            "unitNames": [
+                "Module Introduction",
+                "React Rocks! Where to find more Examples",
+                "More Inspiration: Real-World Projects Built with React",
+                "Static React Apps with Gatsby.js",
+                "Introducing React Native",
+                "Component Libraries (Example: Material UI)",
+                "Smaller Apps with Preact",
+                "Comparing React with Preact",
+                "Congratulations",
+                "Bonus: More Content!"
+            ]
+        }
+    ]
 }

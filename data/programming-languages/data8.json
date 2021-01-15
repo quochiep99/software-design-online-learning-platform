@@ -6,7 +6,7 @@
     "course": {
         "title": "The Python Mega Course: Build 10 Real World Applications",
         "subtitle": "A complete practical Python course for both beginners & intermediates! Master Python 3 by making 10 amazing Python apps.",
-        "descriptions":  "",
+        "descriptions": [],
         "reviews": [],
         "students": [],
         "image1xURL": "https://img-a.udemycdn.com/course/240x135/692188_9da7_15.jpg",
@@ -15,27 +15,35 @@
         "discountPrice": 11.99,
         "originalPrice": 129.99,
         "numViews": 0,
-        "curriculum": {}
+        "curriculum": []
     },
     "reviews": [
         {
-            "body": "Course spent too much time on basics - like python basics, tkinter basics, flask basics, etc. - resulting on less time for conceptually explaining things like OO python, tkinter approach to UI, flask approach to web ui, etc.",
-            "rating": 3.5
-        },
-        {
-            "body": "I have accomplished my course and enjoyed every lecture. The 10 Real World Applications were all immensely satisfying! (I enjoyed the 6th application the most utmost) I urge you to attempt this course if you are studying Python as a beginner or intermediate. Ardit Sulce is a transcendent instructor and appreciations and thankfulness for developing this course! Also acknowledgements to the community and teaching assistant(David) for the amazing support and assistance! What an ascent!",
+            "body": "I have learnt a lot of things from this course. This course is different because I got to learn a lot of things which are related to real life development of applications. The applications were fun to do and also challenging. It was really an unique experience to finish this course. I am really thankful to Sir for teaching us so many amazing things.",
             "rating": 5
         },
         {
-            "body": "Overall you get the grasp of Python. However, lots of outdated content, some programs don't work, instructor switches to different application in the middle of the course, some questions remain unanswered while various explanations are not very clear.\n\nWhen instructor makes mistakes, he doesn't even bother to reupload the clean video, instead add notes, in some instances there were over 2 notes and additional comments added. Such a mess.\n\nThis course is a good introduction to Python but be aware of unclear explanations, program not installing and ultimately there will be errors in your code and YOU WILL HAVE TO SOLVE THEM on your own.!",
-            "rating": 3
+            "body": "This is a great course with a lot of exercises and practical project. Also the approach Ardit took with showing that errors and crashes is something typical for the programming process and the students should learn how to work through the errors is really great.\n\nThe final project was not complex, the only thing I stuck upon was about how to put the table\n\ninto HTML page. It was not obvious for me, that I can simply create an empty placeholder in the HTML\n\npage and then fill-it in upon rendering the page. I tried to create a new HTML-page and embed it or use\n\nthe jinja template but it had not worked. Also Ardit added the check-ups if the uploaded file is indeed of csv type and content, while I simply checked if file contains the address column.\n\nI really loved the course.\n\nThe only thing I can suggest for the course improvement is to add even more exercises or another project for self-practice.\n\nMany thanks Ardit!",
+            "rating": 5
+        },
+        {
+            "body": "This is a good entry level python course, which will give the students some concepts how to build simple apps. Due to the length of the course, some topics did not go into the details. the lecturer may want to improve the courses by ensuring the apps can be implemented across all the operating systems, locally or online. Overall this is a great course for beginners.",
+            "rating": 4.5
+        },
+        {
+            "body": "Course spent too much time on basics - like python basics, tkinter basics, flask basics, etc. - resulting on less time for conceptually explaining things like OO python, tkinter approach to UI, flask approach to web ui, etc.",
+            "rating": 3.5
         },
         {
             "body": "-Zufrieden-\n\nEs gibt an einigen Stellen Verbesserungspotential, aber im Großen und Ganzen wird einem Wissen vermittelt, welches der Kursbeschreibung entspricht.",
             "rating": 4
         },
         {
-            "body": "I finished the course and here is my thought.\n\nI would say this course goes beyond my expectation. There is some part more interesting to me than the others.\n\nHowever, it's very nice to learn and see what Python can do. All modules in this course help building your python skill as a programmer.\n\nThe apps that we made are proper in term of complexity, difficulty, and time limit. This course really get your hands dirty. It's a real learning by practicing course and not simply syntax learning.\n\nI also like instructor's manner. He is quite funny and easy to listen to. You will see many errors happening here and there in this course. Personally, I think it's not a bad thing because you see how to fix it (or google) and be familiar with the exceptions which is part of programming job..fixing bugs or try out solutions.\n\nLast but not the least is Q&A support, I would say it's second to none. Course Assistant is super supportive and respond in short time. He does pay attention to help and give advices to students.\n\nThank you Ardit for such a big amazing course and David for your kind support to students.\n\nI look forward for The Python Mega Course: Season2!",
+            "body": "I have accomplished my course and enjoyed every lecture. The 10 Real World Applications were all immensely satisfying! (I enjoyed the 6th application the most utmost) I urge you to attempt this course if you are studying Python as a beginner or intermediate. Ardit Sulce is a transcendent instructor and appreciations and thankfulness for developing this course! Also acknowledgements to the community and teaching assistant(David) for the amazing support and assistance! What an ascent!",
+            "rating": 5
+        },
+        {
+            "body": "I never thought I had got a nice and interesting experience learning python so far, but with this course and the tutor, it's been a remarkable experience. Thanks.",
             "rating": 5
         },
         {
@@ -43,163 +51,162 @@
             "rating": 5
         },
         {
-            "body": "The course covers a wide variety of information. While some parts of the videos may be outdated due to time, solutions can be easily found in the Q&A.",
-            "rating": 4.5
-        },
-        {
-            "body": "If u are someone who is curious about how the websites and applications on your device works and how to build them...this course is highly recommended for u. From Hello World to building ur own applications this is a very interesting journey.If u are already familiar with basic concept of any programing language that would be beneficial for u coz i feel the basics section could be more elaborated.\n\np.s-writing this review after completing the course.",
-            "rating": 4
-        },
-        {
-            "body": "course is really really excellent and helped me a lot in better understanding of python and its real world application.Thankyou so much for this wonderfull course Mr.Ardict",
+            "body": "My very first python course and I learned a lot and had no trouble following along. Here and there it could have been maybe a bit more organzied, but overall Ardit did a very good job showing a lot of different topics in an understandable and fun way.\n\nThanks!",
             "rating": 5
+        },
+        {
+            "body": "The lectures are well-explained, introduces useful and easy-to-grasp concepts. So far so good.\n\nI hope I'll be able to cope with the tutorials being ahead of me. :)",
+            "rating": 5
+        },
+        {
+            "body": "I really liked the practicality of this course - being able to test and troubleshoot things really help with the learning experience.",
+            "rating": 4.5
         },
         {
             "body": "This is the best python course. I liked it very much as well as i have learned so much about python.",
             "rating": 5
-        },
-        {
-            "body": "I really enjoyed this course. Every video was sectioned nice and short. Enough to make sure you get whatever was presented. I upped my skill by 200% doing this course.\n\nWell done Ardit!",
-            "rating": 5
-        },
-        {
-            "body": "A very good course with a very good and pedagogic instructor.\n\nThe connection to Real World Applications is very valueable.",
-            "rating": 4.5
         }
     ],
     "students": [
+        {
+            "name": "Abir Bhattacharya",
+            "email": "abirbhattacharya@gmail.com",
+            "password": "abirbhattacharya",
+            "role": "s",
+            "isConfirmed": true
+        },
+        {
+            "name": "Andrii Shulga",
+            "email": "andriishulga@gmail.com",
+            "password": "andriishulga",
+            "role": "s",
+            "isConfirmed": true
+        },
+        {
+            "name": "Eric Li",
+            "email": "ericli@gmail.com",
+            "password": "ericli",
+            "role": "s",
+            "isConfirmed": true
+        },
+        {
+            "name": "Ardit Sulce",
+            "email": "arditsulce@gmail.com",
+            "password": "arditsulce",
+            "role": "s",
+            "isConfirmed": true
+        },
         {
             "name": "Mustafa Vadnagarwala",
             "email": "mustafavadnagarwala@gmail.com",
             "password": "mustafavadnagarwala",
             "role": "s",
-"isConfirmed": true
+            "isConfirmed": true
         },
         {
             "name": "Ardit Sulce",
             "email": "arditsulce@gmail.com",
             "password": "arditsulce",
             "role": "s",
-"isConfirmed": true
-        },
-        {
-            "name": "Kevin Hanslo",
-            "email": "kevinhanslo@gmail.com",
-            "password": "kevinhanslo",
-            "role": "s",
-"isConfirmed": true
-        },
-        {
-            "name": "Ardit Sulce",
-            "email": "arditsulce@gmail.com",
-            "password": "arditsulce",
-            "role": "s",
-"isConfirmed": true
-        },
-        {
-            "name": "Edgar Tomic",
-            "email": "edgartomic@gmail.com",
-            "password": "edgartomic",
-            "role": "s",
-"isConfirmed": true
+            "isConfirmed": true
         },
         {
             "name": "W. S.",
             "email": "w.s.@gmail.com",
             "password": "w.s.",
             "role": "s",
-"isConfirmed": true
+            "isConfirmed": true
         },
         {
             "name": "Ardit Sulce",
             "email": "arditsulce@gmail.com",
             "password": "arditsulce",
             "role": "s",
-"isConfirmed": true
+            "isConfirmed": true
         },
         {
-            "name": "Minna",
-            "email": "minna@gmail.com",
-            "password": "minna",
+            "name": "Kevin Hanslo",
+            "email": "kevinhanslo@gmail.com",
+            "password": "kevinhanslo",
             "role": "s",
-"isConfirmed": true
+            "isConfirmed": true
         },
         {
             "name": "Ardit Sulce",
             "email": "arditsulce@gmail.com",
             "password": "arditsulce",
             "role": "s",
-"isConfirmed": true
+            "isConfirmed": true
+        },
+        {
+            "name": "Amosuro Rahmon Olaitan",
+            "email": "amosurorahmonolaitan@gmail.com",
+            "password": "amosurorahmonolaitan",
+            "role": "s",
+            "isConfirmed": true
+        },
+        {
+            "name": "Ardit Sulce",
+            "email": "arditsulce@gmail.com",
+            "password": "arditsulce",
+            "role": "s",
+            "isConfirmed": true
         },
         {
             "name": "Phil Parkin",
             "email": "philparkin@gmail.com",
             "password": "philparkin",
             "role": "s",
-"isConfirmed": true
+            "isConfirmed": true
         },
         {
             "name": "Ardit Sulce",
             "email": "arditsulce@gmail.com",
             "password": "arditsulce",
             "role": "s",
-"isConfirmed": true
+            "isConfirmed": true
         },
         {
-            "name": "Jonathan Ressler",
-            "email": "jonathanressler@gmail.com",
-            "password": "jonathanressler",
+            "name": "Roland Grupe",
+            "email": "rolandgrupe@gmail.com",
+            "password": "rolandgrupe",
             "role": "s",
-"isConfirmed": true
+            "isConfirmed": true
         },
         {
-            "name": "Navdeep Gupta",
-            "email": "navdeepgupta@gmail.com",
-            "password": "navdeepgupta",
+            "name": "Ardit Sulce",
+            "email": "arditsulce@gmail.com",
+            "password": "arditsulce",
             "role": "s",
-"isConfirmed": true
+            "isConfirmed": true
         },
         {
-            "name": "Sasikumar Sivaraman",
-            "email": "sasikumarsivaraman@gmail.com",
-            "password": "sasikumarsivaraman",
+            "name": "Viktor Csango",
+            "email": "viktorcsango@gmail.com",
+            "password": "viktorcsango",
             "role": "s",
-"isConfirmed": true
+            "isConfirmed": true
+        },
+        {
+            "name": "Morne Lippiatt",
+            "email": "mornelippiatt@gmail.com",
+            "password": "mornelippiatt",
+            "role": "s",
+            "isConfirmed": true
         },
         {
             "name": "Vasamsette Shanmukha Raju",
             "email": "vasamsetteshanmukharaju@gmail.com",
             "password": "vasamsetteshanmukharaju",
             "role": "s",
-"isConfirmed": true
+            "isConfirmed": true
         },
         {
             "name": "Ardit Sulce",
             "email": "arditsulce@gmail.com",
             "password": "arditsulce",
             "role": "s",
-"isConfirmed": true
-        },
-        {
-            "name": "Cobus Opperman",
-            "email": "cobusopperman@gmail.com",
-            "password": "cobusopperman",
-            "role": "s",
-"isConfirmed": true
-        },
-        {
-            "name": "Ardit Sulce",
-            "email": "arditsulce@gmail.com",
-            "password": "arditsulce",
-            "role": "s",
-"isConfirmed": true
-        },
-        {
-            "name": "Anders Viklund",
-            "email": "andersviklund@gmail.com",
-            "password": "andersviklund",
-            "role": "s",
-"isConfirmed": true
+            "isConfirmed": true
         }
     ],
     "instructor": {
@@ -207,7 +214,537 @@
         "email": "arditsulce@gmail.com",
         "password": "arditsulce",
         "role": "i",
-"isConfirmed": true,
-        "briefIntroduction": "<p>Hi, I am Ardit! I am a Python programmer and a Python teacher. I have worked with companies from many countries both as an employee and as self-employed. I have used Python as a data science tool and a language to develop both desktop and web applications. Some of the projects I have worked on have been using Python together with the Center for Conservation Geography to map and understand the Australian ecosystems, process drone land images with the Swiss in-Terra, and performing data mining to gain business insights with the Australian Rapid Intelligence.</p><p><br></p><p>I will teach you how you can use Python, just like I do. I take care to explain the programming concepts assuming my students don't have a computer science background. Indeed, you don't need a computer science degree to become a programmer. </p><p>I was graduated with a Master of Science in Geospatial Technologies from the University of Muenster in Germany. I am also the founder and author of PythonHow, a Python learning resource designed particularly for people with no previous programming experience. Try out one of my courses, and you will be on for an exciting ride.</p>"
-    }
+        "briefIntroduction": "<p>Hi, I am Ardit! I am a Python programmer and teacher. I have worked with companies from many countries both as an employee and self-employed. I have used Python as a data science tool and a language to develop both desktop and web applications. I have been using Python with the Center for Conservation Geography to map and understand Australian ecosystems, process drone land images with the Swiss in-Terra, and perform data mining to gain business insights with the Australian Rapid Intelligence.</p><p>I will teach you how you can use Python, just like I do. I take care to explain the programming concepts assuming my students do not have a computer science background. Indeed, you do not need a computer science degree to become a programmer.</p><p>I graduated with a Master of Science in Geospatial Technologies from the University of Muenster in Germany. I am also the Founder and Author of PythonHow, a Python learning resource designed particularly for people with no previous programming experience. Try out one of my courses, and you will be in for an exciting ride.</p>",
+        "isConfirmed": true
+    },
+    "curriculum": [
+        {
+            "sectionName": "Introduction",
+            "unitNames": [
+                "What to Expect from the Course",
+                "What Not to Expect from the Course",
+                "Preview of the 10 Apps",
+                "How to Contact Me",
+                "The Tools You Need",
+                "Installing Python 3 and the IDE (Windows, Mac, and Linux)",
+                "Important - Please Do Not Skip",
+                "Check Your Current Skills"
+            ]
+        },
+        {
+            "sectionName": "The Basics: Small Program",
+            "unitNames": [
+                "Your First Python Code",
+                "Your First Python Program",
+                "FAQs",
+                "Summary"
+            ]
+        },
+        {
+            "sectionName": "The Basics: Data Types",
+            "unitNames": [
+                "Variables",
+                "Your First Python Exercise (E)",
+                "Assign Multiple Values and Print (E)",
+                "Simple Types: Integers, Strings, and Floats",
+                "Create Integers, Strings, and Floats (E)",
+                "Sum Up Numbers (E)",
+                "List Types",
+                "Ranges",
+                "Create List (E)",
+                "Create Complex List (E)",
+                "Type Attributes",
+                "Did You Know?",
+                "How to Find Out What Code You Need",
+                "Bonus: Steps of Learning Python",
+                "Calculate Maximum (E)",
+                "Count Values (E)",
+                "Modify String (E)",
+                "Dictionary Types",
+                "Did You Know?",
+                "Create Dictionary (E)",
+                "Tuple Types",
+                "Create Tuple (E)",
+                "Create Complex Dictionary (E)",
+                "How to Use Datatypes in the Real World?",
+                "Did You Know?",
+                "Summary: Integers, Floats, Lists, Dictionaries, Tuples, dir, help"
+            ]
+        },
+        {
+            "sectionName": "The Basics: Operations with Data Types",
+            "unitNames": [
+                "Python Shell and Terminal Tip",
+                "List Reminder",
+                "More Operations with Lists",
+                "Append Item to List (E)",
+                "Remove Item from List (E)",
+                "Remove Three Items From List (E)",
+                "Accessing List Items",
+                "Access Item (E)",
+                "Access Items (E)",
+                "Access and Append (E)",
+                "Accessing List Slices",
+                "Accessing Items and Slices with Negative Indexes",
+                "Accessing Characters and Slices in Strings",
+                "Accessing and Slicing Lists and Strings",
+                "Slicing a List, 2nd to 4th (E)",
+                "Slicing a List, First Three (E)",
+                "Slicing a List, Last Three (E)",
+                "Dictionary Reminder",
+                "Accessing Items in Dictionaries",
+                "Tip: Converting Between Datatypes",
+                "Summary: Positive/Negative Indexes, Slicing"
+            ]
+        },
+        {
+            "sectionName": "The Basics: Functions and Conditionals",
+            "unitNames": [
+                "Creating Your Own Functions",
+                "Lengther (E)",
+                "Square Area (E)",
+                "Volume Converter (E)",
+                "Print or Return?",
+                "Intro to Conditionals",
+                "If Conditional Example",
+                "Bonus Code: Using \"and\" and \"or\" in a Conditional",
+                "Conditional Explained Line by Line",
+                "Conditionals Quiz",
+                "More on Conditionals",
+                "Password Controller (E)",
+                "Warm or Cold (E)",
+                "Elif Conditionals",
+                "White Space",
+                "Hot, Warm, Cold (E)",
+                "Summary: Functions and Conditionals"
+            ]
+        },
+        {
+            "sectionName": "The Basics: Processing User Input",
+            "unitNames": [
+                "User Input",
+                "String Formatting",
+                "String Formatting with Multiple Variables",
+                "String Formatting (E)",
+                "String Formatting and Uppercase (E)",
+                "Summary: Processing User Input"
+            ]
+        },
+        {
+            "sectionName": "The Basics: Loops",
+            "unitNames": [
+                "For Loops: How and Why",
+                "Loop Over Colors (E)",
+                "Loop Over Big Colors (E)",
+                "Loop Over Integer Colors (E)",
+                "Loop Over Int and Big Colors (E)",
+                "For Loop Over a Function",
+                "Did You Know?",
+                "Looping Through a Dictionary",
+                "Bonus Code: Dictionary Loop and String Formatting",
+                "Loop Over Dictionary and Format (E)",
+                "Loop Over Dictionary and Replace (E)",
+                "While Loops: How and Why",
+                "While Loop Example with User Input",
+                "While Loops",
+                "While Loops with Break and Continue",
+                "Summary: Loops"
+            ]
+        },
+        {
+            "sectionName": "Putting the Pieces Together: Building a Program",
+            "unitNames": [
+                "Problem Statement",
+                "Approaching the Problem",
+                "Building the Maker Function",
+                "Constructing the Loop",
+                "Making the Output User-Friendly"
+            ]
+        },
+        {
+            "sectionName": "List Comprehensions",
+            "unitNames": [
+                "Simple List Comprehension",
+                "List Comprehension with If Conditional",
+                "Only Numbers (E)",
+                "Only Positive Numbers (E)",
+                "List Comprehension with If-Else Conditional",
+                "Zeros Instead (E)",
+                "Convert and Sum Up (E)",
+                "Summary: List Comprehensions"
+            ]
+        },
+        {
+            "sectionName": "More on Functions",
+            "unitNames": [
+                "Functions with Multiple Arguments",
+                "Did You Know?",
+                "Function with Multiple Parameters (E)",
+                "Default and Non-default Parameters and Keyword and Non-keyword Arguments",
+                "Functions with an Arbitrary Number of Non-keyword Arguments",
+                "Average Function (E)",
+                "Indefinite Number of Strings Processed (E)",
+                "Functions with an Arbitrary Number of Keyword Arguments",
+                "Indefinite Number of Keyword Arguments (E)",
+                "Summary: More on Functions"
+            ]
+        },
+        {
+            "sectionName": "File Processing",
+            "unitNames": [
+                "The Concept of Processing Files in Python",
+                "Reading Text From a File",
+                "Read Text From File and Print (E)",
+                "File Cursor",
+                "Closing a File",
+                "Opening Files Using \"with\"",
+                "Different Filepaths",
+                "Writing Text to a File",
+                "Reading and Processing Text (E)",
+                "File Processing Inside Function (E)",
+                "Write Snail (E)",
+                "Write First 90 (E)",
+                "Appending Text to an Existing File",
+                "Read and Append (E)",
+                "Copy n-times (E)",
+                "Summary: File Processing"
+            ]
+        },
+        {
+            "sectionName": "Imported Modules",
+            "unitNames": [
+                "Builtin Modules",
+                "Standard Python Modules",
+                "Third-Party Modules",
+                "Third-Party Module Example",
+                "Summary: Imported Modules"
+            ]
+        },
+        {
+            "sectionName": "Application 1: English Thesaurus",
+            "unitNames": [
+                "Note",
+                "Interactive English Dictionary - How The Output Will Look Like",
+                "Know Your Dataset",
+                "Loading JSON Data",
+                "Returning the Definition of a Word",
+                "Non-Existing Words",
+                "Letter Case",
+                "Similarity Ratio Between Two Words",
+                "Best Matches out of a List of Words",
+                "Recommending the Best Match",
+                "Confirmation from the User",
+                "Optimizing the Final Output",
+                "Version 1.1 (E)",
+                "Version 1.1: Code",
+                "Version 1.2 (E)",
+                "Version 1.2: Code"
+            ]
+        },
+        {
+            "sectionName": "Project Exercise with Python and MySQL: Interactive English Dictionary",
+            "unitNames": [
+                "Intro to the App",
+                "Making the App",
+                "More SQL Statements"
+            ]
+        },
+        {
+            "sectionName": "Working with CSV, JSON, and Excel Files",
+            "unitNames": [
+                "What is Pandas?",
+                "Installing Pandas",
+                "Getting Started with Pandas",
+                "Getting Started with Jupyter Notebooks",
+                "Loading CSV Files",
+                "Exercise: Loading JSON Files",
+                "Solution",
+                "Note on Loading Excel Files",
+                "Loading Excel Files",
+                "Loading TXT Files",
+                "Set Header Row",
+                "Set Column Names",
+                "Set Index Column",
+                "Indexing and Slicing",
+                "Deleting Columns and Rows",
+                "Updating and Adding new Columns and Rows",
+                "Note on Nominatim",
+                "Example: Geocoding Addresses with Pandas and Geopy"
+            ]
+        },
+        {
+            "sectionName": "Numerical and Scientific Computing with Python and Numpy",
+            "unitNames": [
+                "What is Numpy?",
+                "Installing OpenCV",
+                "Convert Images to Numpy Arrays",
+                "Indexing, Slicing, and Iterating Numpy Arrays",
+                "Stacking and Splitting Numpy Arrays"
+            ]
+        },
+        {
+            "sectionName": "Application 2: Volcano & Population Web Map",
+            "unitNames": [
+                "Web Map - How The Output Will Look Like",
+                "The Basemap",
+                "Note",
+                "Adding Points",
+                "Adding Multiple Points",
+                "Adding Points from Files",
+                "Popup Windows on Map",
+                "HTML on Popups",
+                "Color Points",
+                "Add and Style Points (Practice)",
+                "Tip: Add and Style Points",
+                "Solution",
+                "GeoJson Data",
+                "Adding a GeoJson Polygon Layer",
+                "Choropleth Map",
+                "Layer Control Panel"
+            ]
+        },
+        {
+            "sectionName": "Fixing Programming Errors",
+            "unitNames": [
+                "Syntax Errors",
+                "Runtime Errors",
+                "Errors",
+                "How to Fix Difficult Errors",
+                "Good Programming Questions",
+                "Error Handling"
+            ]
+        },
+        {
+            "sectionName": "Application 3: Personal Website with Python",
+            "unitNames": [
+                "Personal Website - How The Output Will Look Like",
+                "Your First Website",
+                "HTML Templates",
+                "Navigation Menu",
+                "Note on Browser Caching",
+                "CSS Styling",
+                "Creating a Python Virtual Environment",
+                "How to Install Git",
+                "Deploying the Website to a Live Server",
+                "Maintaining the Live Website",
+                "Troubleshooting",
+                "Congratulations!"
+            ]
+        },
+        {
+            "sectionName": "Graphical User Interfaces with Tkinter",
+            "unitNames": [
+                "Introduction to Tkinter",
+                "Setting up a GUI with Widgets",
+                "Connecting GUI Widgets with Callback Functions",
+                "Create a Multi-widget GUI (Practice)",
+                "Solution"
+            ]
+        },
+        {
+            "sectionName": "Interacting with Databases",
+            "unitNames": [
+                "Introduction to \"Python with Databases\"",
+                "Connecting and Inserting Data to SQLite via Python",
+                "Selecting, Inserting, Deleting, and Updating SQLite Records",
+                "Introduction to PostgreSQL Psycopg2",
+                "Selecting, Inserting, Deleting, and Updating PostgreSQL Records",
+                "Querying data from a MySQL database"
+            ]
+        },
+        {
+            "sectionName": "Application 4: Bookshop Database App",
+            "unitNames": [
+                "Desktop Database App - How The Output Will Look Like",
+                "User Interface Design",
+                "Frontend Interface",
+                "Backend",
+                "Connecting the Frontend to the Backend, Part 1",
+                "Connecting the Frontend to the Backend, Part 2",
+                "Fixing the Bug (Practice)",
+                "Solution",
+                "Creating a Standalone Executable Version of the Program"
+            ]
+        },
+        {
+            "sectionName": "Object Oriented Programming",
+            "unitNames": [
+                "Object Oriented Programming Explained",
+                "Turning this Application into OOP Style, Part 1",
+                "Turning this Application into OOP Style, Part 2",
+                "Creating a Bank Account Object",
+                "Inheritance",
+                "OOP Glossary",
+                "GUI in OOP Design (Practice)",
+                "Solution"
+            ]
+        },
+        {
+            "sectionName": "Application 5: Feel-Good Mobile App",
+            "unitNames": [
+                "Mobile App - How the Output Will Look Like",
+                "Installing the Library",
+                "Creating  a \"Login Page\" (Frontend)",
+                "Creating a \"Sign Up Page\" (Frontend) for New Users",
+                "Getting User Input",
+                "Implementing the \"Sign Up Page\" (Backend)",
+                "Creating a \"Sign Up Success Page\" (Frontend)",
+                "Switching Pages",
+                "Implementing the \"Login Page\" (Backend)",
+                "Displaying Text to the User",
+                "Styiling the Login Page",
+                "Styling the Sign Up Page",
+                "Making a Dynamic Hover Button",
+                "Making a Scrollable Area"
+            ]
+        },
+        {
+            "sectionName": "Making an APK for Android",
+            "unitNames": [
+                "Note",
+                "Preparing the Environment for Deploying the App to and Android Phone",
+                "Creating an APK file for Android",
+                "Installing the APK file on Android",
+                "Deploying to iOS"
+            ]
+        },
+        {
+            "sectionName": "Python for Image and Video Processing with OpenCV",
+            "unitNames": [
+                "Introduction",
+                "Installing the Library",
+                "Loading, Displaying, Resizing, and Writing Images",
+                "Batch Image Resizing (Practice)",
+                "Solution",
+                "Solution with Explanations",
+                "Face Detection",
+                "Capturing Video"
+            ]
+        },
+        {
+            "sectionName": "Application 6:  Build a Webcam Motion Detector",
+            "unitNames": [
+                "Webcam Motion Detector - How The Output Will Look Like",
+                "Detecting Webcam Objects",
+                "Capturing Motion Time"
+            ]
+        },
+        {
+            "sectionName": "Interactive Data Visualization with Bokeh",
+            "unitNames": [
+                "Introduction to Bokeh",
+                "Installing Bokeh",
+                "Your First Bokeh Plot",
+                "Plotting Triangles and Circle Glyphs (Practice)",
+                "Solution",
+                "Using Bokeh with Pandas",
+                "Plotting Education Data (Practice)",
+                "Solution",
+                "Note on Loading Excel Files",
+                "Plot Properties",
+                "Plotting Weather Data (Practice)",
+                "Solution",
+                "Visual Attributes",
+                "Time-series Plots",
+                "More Visualization Examples with Bokeh",
+                "Plotting Time Intervals of the Motion Detector",
+                "Hover Tool Implementation"
+            ]
+        },
+        {
+            "sectionName": "Webscraping with Python Beautiful Soup",
+            "unitNames": [
+                "Section Introduction",
+                "The Concept Behind Webscraping",
+                "Request Headers",
+                "Webscraping Example"
+            ]
+        },
+        {
+            "sectionName": "Application 7: Real Estate Webscraper",
+            "unitNames": [
+                "Scraped Website Data -  How The Output Will Look Like",
+                "Request Headers",
+                "Loading the Webpage in Python",
+                "Extracting \"div\" Tags",
+                "Extracting Addresses and Property Details",
+                "Extracting Elements without Unique Identifiers",
+                "Saving the Extracted Data in CSV Files",
+                "Crawling Through Webpages"
+            ]
+        },
+        {
+            "sectionName": "Application 8: Interactive Data Dashboard",
+            "unitNames": [
+                "Web-based Financial Graph - How The Output Will Look Like",
+                "Downloading Datasets with Python",
+                "Stock Market Data",
+                "Stock Market Data Candlestick Charts",
+                "Candlestick Charts with Bokeh Quadrants",
+                "Candlestick Charts  with Bokeh Rectangles",
+                "Candlestick Segments",
+                "Stylizing the Chart",
+                "The Concept Behind Embedding Bokeh Charts in a Flask Webpage",
+                "Note",
+                "Embedding the Bokeh Chart in a Webpage",
+                "Deploying the Chart Website to a Live Server"
+            ]
+        },
+        {
+            "sectionName": "Application 9: Database Web App",
+            "unitNames": [
+                "Data Collector Web App - How The Output Will Look Like",
+                "PostGreSQL Database Web App with Flask: Steps",
+                "Frontend: HTML Part",
+                "Frontend: CSS Part",
+                "Backend: Getting User Input",
+                "Backend: The PostGreSQL Database Model",
+                "Backend: Storing User Data to the Database",
+                "Backend: Emailing Database Values Back to the User",
+                "Backend: Sending Statistics to Users",
+                "Deploying the Web Application to a Live Server",
+                "Bonus Lecture: Implementing Download and Upload in your Web App"
+            ]
+        },
+        {
+            "sectionName": "Application 10:  (Project) Geocoder Web App",
+            "unitNames": [
+                "Student Project - How The Output Should Look Like",
+                "Solution, Part 1",
+                "Solution, Part 2",
+                "End of the Course"
+            ]
+        },
+        {
+            "sectionName": "Legacy Exercises",
+            "unitNames": [
+                "Variables (Practice)",
+                "Get Variable Value (Practice)",
+                "Math Operators (Practice)",
+                "Simple Sum (Practice)",
+                "Lists (Practice)",
+                "Indexing (Practice)",
+                "Slicing (Practice)",
+                "More on Indexing (Practice)",
+                "More on Slicing (Practice)",
+                "List Indexing (Practice)",
+                "Append to List (Practice)",
+                "Remove from List (Practice)",
+                "Append from List to List (Practice)",
+                "Concatenate List Items (Practice)",
+                "Create Dictionary (Practice)",
+                "Create Function (Practice)",
+                "Exponential Function (Practice)",
+                "Sum up Function (Practice)",
+                "Function Output (Practice)",
+                "Function with Default Parameters (Practice)"
+            ]
+        },
+        {
+            "sectionName": "Offers for my Other Python Courses",
+            "unitNames": [
+                "Bonus Lecture"
+            ]
+        }
+    ]
 }

@@ -6,7 +6,7 @@
     "course": {
         "title": "The Python Bible™ | Everything You Need to Program in Python",
         "subtitle": "Build 11 Projects and go from Beginner to Pro in Python with the World's Most Fun Project-Based Python Course!",
-        "descriptions":  "",
+        "descriptions": [],
         "reviews": [],
         "students": [],
         "image1xURL": "https://img-a.udemycdn.com/course/240x135/903378_f32d_7.jpg",
@@ -15,9 +15,21 @@
         "discountPrice": 11.99,
         "originalPrice": 129.99,
         "numViews": 0,
-        "curriculum": {}
+        "curriculum": []
     },
     "reviews": [
+        {
+            "body": "I would recommend this course for one who has absolutely no idea about programming like me. This course is amazing.",
+            "rating": 5
+        },
+        {
+            "body": "This course is very good. The teacher makes it simple, clear and easy to understand all the concepts. I really recommend it to Python beginners who want to leverage their skills.",
+            "rating": 4.5
+        },
+        {
+            "body": "A good course worth going through a couple of times. There are a few concepts that I needed to find additional resources for (e.g. list comprehension) because they weren't explained beyond the definition. It would be really helpful to sometimes give multiple examples of when to use different functions/methods beyond what we used in the projects. Otherwise, the projects were great.",
+            "rating": 4
+        },
         {
             "body": "I was absolute beginner when I started this course. Ziyad is a great teacher. He explained things clearly and very easy to understand. If you want to learn Python, don't hesitate. Choose this course. You will not regret.",
             "rating": 5
@@ -27,11 +39,7 @@
             "rating": 5
         },
         {
-            "body": "It's a very enjoyable course. Ziyad is a born teacher! Explanations are great. I will practice hard! Thanks Ziyad!\n\n*the thing that I gave not full 5 stars is about the course description. It must be introduction to python, not beginner to Pro.\n\nbut still, thank you! More blessings to come! ;)",
-            "rating": 4.5
-        },
-        {
-            "body": "Great course. The very last project really helped clarify classes for me. Doing a recap on classes brought it all together.\n\nThis is the second course of yours that I have taken. Kudos to me for making another great choice and thank you to you! I learned a lot. Perhaps you can do a Ruby programming course?",
+            "body": "Ziyad's energy keeps you focused and makes this course a fun hands-on, beginner-friendly course! I think a few more quizzes in the later sections would be a nice future addition, if there are any further updates. Overall, a short and sweet, enjoyable course with a great high-level view of the concepts, with quizzes and projects along the way!",
             "rating": 5
         },
         {
@@ -39,202 +47,194 @@
             "rating": 5
         },
         {
+            "body": "First of all it was a perfect course! The best thing I liked was the projects in the course",
+            "rating": 5
+        },
+        {
+            "body": "Tremendous efforts from the instructor. Many thanks for such an organized and beautiful course for #print(\"all the beautiful people of the world!\")",
+            "rating": 5
+        },
+        {
             "body": "I enjoyed the class very much and I learned a lot. But thought the last two sections went by very fast. I would of like to see more test and exercises in these sections to get a better grasp of the concepts.",
             "rating": 4
         },
         {
-            "body": "Very easy to understand with little to know confusion to what the teacher is meaning. Level is consistent throughout and there are no sudden jumps in difficulty.",
-            "rating": 5
-        },
-        {
-            "body": "Thanks for the wonderful course, it really helped me to understand lot of topics such as methods and function in a very easy manner. Expecting the nodejs and any full stack development course like this from you. Thanks again for your time and efforts towards this course.",
-            "rating": 5
-        },
-        {
-            "body": "Quick to the point. Moving at a brisk pace from topic to topic. Not bogged down by details of a complex concept. Still am able to grasp main importance of concepts. Wish there were more short exercises so to get feedback to solidify concepts and build confidence moving to the next topic. Well worth the investment.",
+            "body": "This course is a very good jump off point in learning Python. The course is very instructive and engaging. The instructor is very clear on his explanation and very engaging.",
             "rating": 4.5
         },
         {
-            "body": "The course lift off with a good combination of lecture and pop quiz or coding challenge. But in midway, the quiz or coding challenge become scarcer.",
-            "rating": 3.5
-        },
-        {
-            "body": "It was a good course for beginner like myself. It started off very well and it was easy to follow but I felt that it was at the later stage (Eg: Functions and OOP). Looking forward to more content in the future. Till then I will continue practicing! Cheers!",
-            "rating": 3.5
-        },
-        {
-            "body": "Really good course, interesting, serious and quite funny. I think I have a good base of Python now.\n\nMaybe, just missing some graphical programming courses, but in its content, top.",
-            "rating": 5
+            "body": "It was the perfect course for me as it wasn't very long and I had next to zero experience in programming before I joined. I took this course because I had just recently grown an interest in computer programming and was looking to gain some knowledge and experience to see whether I would like to take a course at my university. The Instructor is a little too fast to keep up with at times but overall I have taken in a lot of knowledge and come away with some valuable experience, thank you very much!",
+            "rating": 4
         }
     ],
     "students": [
         {
-            "name": "Nahoko Ramirez Mendez",
-            "email": "nahokoramirezmendez@gmail.com",
-            "password": "nahokoramirezmendez",
+            "name": "Kummarin Paiboon",
+            "email": "kummarinpaiboon@gmail.com",
+            "password": "kummarinpaiboon",
             "role": "s",
-"isConfirmed": true
+            "isConfirmed": true
         },
         {
             "name": "Internet of Things Academy",
             "email": "internetofthingsacademy@gmail.com",
             "password": "internetofthingsacademy",
             "role": "s",
-"isConfirmed": true
+            "isConfirmed": true
+        },
+        {
+            "name": "Marc-Alder Delma",
+            "email": "marc-alderdelma@gmail.com",
+            "password": "marc-alderdelma",
+            "role": "s",
+            "isConfirmed": true
+        },
+        {
+            "name": "Internet of Things Academy",
+            "email": "internetofthingsacademy@gmail.com",
+            "password": "internetofthingsacademy",
+            "role": "s",
+            "isConfirmed": true
+        },
+        {
+            "name": "KB Donovan",
+            "email": "kbdonovan@gmail.com",
+            "password": "kbdonovan",
+            "role": "s",
+            "isConfirmed": true
+        },
+        {
+            "name": "Internet of Things Academy",
+            "email": "internetofthingsacademy@gmail.com",
+            "password": "internetofthingsacademy",
+            "role": "s",
+            "isConfirmed": true
+        },
+        {
+            "name": "Nahoko Ramirez Sato",
+            "email": "nahokoramirezsato@gmail.com",
+            "password": "nahokoramirezsato",
+            "role": "s",
+            "isConfirmed": true
+        },
+        {
+            "name": "Internet of Things Academy",
+            "email": "internetofthingsacademy@gmail.com",
+            "password": "internetofthingsacademy",
+            "role": "s",
+            "isConfirmed": true
         },
         {
             "name": "Stephanie Harrison",
             "email": "stephanieharrison@gmail.com",
             "password": "stephanieharrison",
             "role": "s",
-"isConfirmed": true
+            "isConfirmed": true
         },
         {
             "name": "Internet of Things Academy",
             "email": "internetofthingsacademy@gmail.com",
             "password": "internetofthingsacademy",
             "role": "s",
-"isConfirmed": true
+            "isConfirmed": true
         },
         {
-            "name": "Ralph Dequina",
-            "email": "ralphdequina@gmail.com",
-            "password": "ralphdequina",
+            "name": "Ellie Lyoo",
+            "email": "ellielyoo@gmail.com",
+            "password": "ellielyoo",
             "role": "s",
-"isConfirmed": true
-        },
-        {
-            "name": "Internet of Things Academy",
-            "email": "internetofthingsacademy@gmail.com",
-            "password": "internetofthingsacademy",
-            "role": "s",
-"isConfirmed": true
-        },
-        {
-            "name": "Brian Van",
-            "email": "brianvan@gmail.com",
-            "password": "brianvan",
-            "role": "s",
-"isConfirmed": true
+            "isConfirmed": true
         },
         {
             "name": "Internet of Things Academy",
             "email": "internetofthingsacademy@gmail.com",
             "password": "internetofthingsacademy",
             "role": "s",
-"isConfirmed": true
+            "isConfirmed": true
         },
         {
             "name": "Confucius_The_Great Confucius_The_Great",
             "email": "confucius_the_greatconfucius_the_great@gmail.com",
             "password": "confucius_the_greatconfucius_the_great",
             "role": "s",
-"isConfirmed": true
+            "isConfirmed": true
         },
         {
             "name": "Internet of Things Academy",
             "email": "internetofthingsacademy@gmail.com",
             "password": "internetofthingsacademy",
             "role": "s",
-"isConfirmed": true
+            "isConfirmed": true
+        },
+        {
+            "name": "Deva Prakash",
+            "email": "devaprakash@gmail.com",
+            "password": "devaprakash",
+            "role": "s",
+            "isConfirmed": true
+        },
+        {
+            "name": "Internet of Things Academy",
+            "email": "internetofthingsacademy@gmail.com",
+            "password": "internetofthingsacademy",
+            "role": "s",
+            "isConfirmed": true
+        },
+        {
+            "name": "Achintya Jain",
+            "email": "achintyajain@gmail.com",
+            "password": "achintyajain",
+            "role": "s",
+            "isConfirmed": true
+        },
+        {
+            "name": "Internet of Things Academy",
+            "email": "internetofthingsacademy@gmail.com",
+            "password": "internetofthingsacademy",
+            "role": "s",
+            "isConfirmed": true
         },
         {
             "name": "Roxanne Khan",
             "email": "roxannekhan@gmail.com",
             "password": "roxannekhan",
             "role": "s",
-"isConfirmed": true
+            "isConfirmed": true
         },
         {
             "name": "Internet of Things Academy",
             "email": "internetofthingsacademy@gmail.com",
             "password": "internetofthingsacademy",
             "role": "s",
-"isConfirmed": true
+            "isConfirmed": true
         },
         {
-            "name": "Leon Chan",
-            "email": "leonchan@gmail.com",
-            "password": "leonchan",
+            "name": "Raul Andaya",
+            "email": "raulandaya@gmail.com",
+            "password": "raulandaya",
             "role": "s",
-"isConfirmed": true
-        },
-        {
-            "name": "Internet of Things Academy",
-            "email": "internetofthingsacademy@gmail.com",
-            "password": "internetofthingsacademy",
-            "role": "s",
-"isConfirmed": true
-        },
-        {
-            "name": "Ravichandran k",
-            "email": "ravichandrank@gmail.com",
-            "password": "ravichandrank",
-            "role": "s",
-"isConfirmed": true
+            "isConfirmed": true
         },
         {
             "name": "Internet of Things Academy",
             "email": "internetofthingsacademy@gmail.com",
             "password": "internetofthingsacademy",
             "role": "s",
-"isConfirmed": true
+            "isConfirmed": true
         },
         {
-            "name": "Mark Kai",
-            "email": "markkai@gmail.com",
-            "password": "markkai",
+            "name": "Patrick Rains",
+            "email": "patrickrains@gmail.com",
+            "password": "patrickrains",
             "role": "s",
-"isConfirmed": true
-        },
-        {
-            "name": "Internet of Things Academy",
-            "email": "internetofthingsacademy@gmail.com",
-            "password": "internetofthingsacademy",
-            "role": "s",
-"isConfirmed": true
-        },
-        {
-            "name": "Azzuddin Rizal Ramli",
-            "email": "azzuddinrizalramli@gmail.com",
-            "password": "azzuddinrizalramli",
-            "role": "s",
-"isConfirmed": true
+            "isConfirmed": true
         },
         {
             "name": "Internet of Things Academy",
             "email": "internetofthingsacademy@gmail.com",
             "password": "internetofthingsacademy",
             "role": "s",
-"isConfirmed": true
-        },
-        {
-            "name": "Muhammad Amzar Bin Ahmad",
-            "email": "muhammadamzarbinahmad@gmail.com",
-            "password": "muhammadamzarbinahmad",
-            "role": "s",
-"isConfirmed": true
-        },
-        {
-            "name": "Internet of Things Academy",
-            "email": "internetofthingsacademy@gmail.com",
-            "password": "internetofthingsacademy",
-            "role": "s",
-"isConfirmed": true
-        },
-        {
-            "name": "Christian Bicca",
-            "email": "christianbicca@gmail.com",
-            "password": "christianbicca",
-            "role": "s",
-"isConfirmed": true
-        },
-        {
-            "name": "Internet of Things Academy",
-            "email": "internetofthingsacademy@gmail.com",
-            "password": "internetofthingsacademy",
-            "role": "s",
-"isConfirmed": true
+            "isConfirmed": true
         }
     ],
     "instructor": {
@@ -242,7 +242,154 @@
         "email": "ziyadyehia@gmail.com",
         "password": "ziyadyehia",
         "role": "i",
-"isConfirmed": true,
-        "briefIntroduction": "<p>Hi there, I'm Ziyad! I&nbsp;am a Udemy Instructor with over 150,000 students&nbsp;and I specialize in getting beginner level students up and running with Python and Linux&nbsp;with my&nbsp;highly effective project-based approach.&nbsp;</p><p>I previously taught computing to students at a&nbsp;UK-based international college and now put my full efforts into providing an&nbsp;outstanding learning experience to&nbsp;students around the world on Udemy.</p><p>I am best known for my&nbsp;results-driven teaching as well as&nbsp;my clear, energetic&nbsp;delivery. If you like to learn things quickly and thoroughly and like to have loads of&nbsp;fun on the way, then I&nbsp;cannot wait to work with you and help you to achieve your goals!</p>"
-    }
+        "briefIntroduction": "<p>Hi there, I'm Ziyad! I&nbsp;am a Udemy Instructor with over 150,000 students&nbsp;and I specialize in getting beginner level students up and running with Python and Linux&nbsp;with my&nbsp;highly effective project-based approach.&nbsp;</p><p>I previously taught computing to students at a&nbsp;UK-based international college and now put my full efforts into providing an&nbsp;outstanding learning experience to&nbsp;students around the world on Udemy.</p><p>I am best known for my&nbsp;results-driven teaching as well as&nbsp;my clear, energetic&nbsp;delivery. If you like to learn things quickly and thoroughly and like to have loads of&nbsp;fun on the way, then I&nbsp;cannot wait to work with you and help you to achieve your goals!</p>",
+        "isConfirmed": true
+    },
+    "curriculum": [
+        {
+            "sectionName": "Course Introduction",
+            "unitNames": [
+                "Course Structure"
+            ]
+        },
+        {
+            "sectionName": "Installing Python, Getting Started & A Top Secret Tip!",
+            "unitNames": [
+                "Installing Python on Windows",
+                "Installing Python on Mac",
+                "Installing Python on Linux",
+                "Meeting IDLE | Take a tour of the Python Interactive Developer Environment (IDE)",
+                "The Secret of Top Programmers...",
+                "A Quick Note"
+            ]
+        },
+        {
+            "sectionName": "Simple Little Boxes - Variables in Python",
+            "unitNames": [
+                "Section Overview",
+                "What is a variable?",
+                "Updating our Script",
+                "Variables Quiz",
+                "Creating Variables",
+                "Section Review"
+            ]
+        },
+        {
+            "sectionName": "The 123s - Numbers in Python",
+            "unitNames": [
+                "Section Overview",
+                "Basic Arithmetic, Floats and Modulo",
+                "Ordering Operations using (Brackets!)",
+                "PROJECT 1: Crafting a Health Potion - Part 1",
+                "PROJECT 1: Crafting a Health Potion - Part 2",
+                "Fun with the Python math Module (Optional)",
+                "Section Review",
+                "Python numbers quiz",
+                "Basic Algebra Coding Challenge",
+                "Overwriting Variables"
+            ]
+        },
+        {
+            "sectionName": "The ABCs - How to use Strings to handle text in Python",
+            "unitNames": [
+                "Section Overview",
+                "Hello World!",
+                "Hello World!",
+                "Fixing Broken Strings",
+                "PROJECT 2: Hello You! - Part 1 - Project Overview",
+                "PROJECT 2: Hello You! - Part 2 - Collecting Data",
+                "PROJECT 2: Hello You! - Part 3 - String Formatting",
+                "How old are you?",
+                "Tell us about yourself!",
+                "Cool String Methods - Part 1",
+                "Cool String Methods - Part 2",
+                "PROJECT 3: Email Slicer - Part 1 - What are Slices?",
+                "PROJECT 3: Email Slicer - Part 2 - Automated Slices",
+                "Slices Quiz",
+                "Slicer Exercise",
+                "PROJECT 3: Email Slicer - Part 3 - Making the Slicer!",
+                "Section Review"
+            ]
+        },
+        {
+            "sectionName": "If This, then That: Logic and Conditional Flow in Python",
+            "unitNames": [
+                "Section Overview",
+                "Booleans & Comparison Operators",
+                "Comparison Operators Quiz",
+                "if Statements",
+                "If Statements Challenge",
+                "Python Logical Operators - Part 1 - not + and",
+                "Python Logical Operators - Part 2 - or operator",
+                "Logical Operators Quiz",
+                "Section Review"
+            ]
+        },
+        {
+            "sectionName": "Hold This For Me: Python Datastructures",
+            "unitNames": [
+                "Section Overview",
+                "What are Lists?",
+                "PROJECT 4 - Travis the Ridiculous Security System - Part 1",
+                "PROJECT 4 - Travis the Ridiculous Security System - Part 2",
+                "PROJECT 4 - Travis the Ridiculous Security System - Part 3",
+                "More ways to add items to lists",
+                "Tuples",
+                "Dictionaries Part 1 - What are Dictionaries?",
+                "Dictionaries Part 2 - Build a Rough and Ready Database!",
+                "PROJECT 5 - Cinema Simulator!",
+                "Section Review"
+            ]
+        },
+        {
+            "sectionName": "Going Loopy - Loops In Python",
+            "unitNames": [
+                "Section Overview",
+                "While Loops",
+                "PROJECT 6: Baby Conversation Simulator",
+                "For Loops - Part 1",
+                "For Loops - Part 2",
+                "List Comprehensions",
+                "PROJECT 7 - Pig Latin Translator - Part 1",
+                "PROJECT  7 - Pig Latin Translator - Part 2",
+                "Section Review"
+            ]
+        },
+        {
+            "sectionName": "Getting Funky - Functions in Python",
+            "unitNames": [
+                "Section Overview",
+                "What are Functions?",
+                "Function Creation Challenge",
+                "Variable Scope - Part 1",
+                "Variable Scope - Part 2",
+                "Keyword Arguments and Default Parameters",
+                "Packing & Unpacking using *args and **kwargs",
+                "PROJECT 8 - Tic Tac Toe Game! - Part 1",
+                "PROJECT 8 - Tic Tac Toe Game! - Part 2",
+                "Section Review"
+            ]
+        },
+        {
+            "sectionName": "OOPs! - Object Oriented Programming (OOP) in Python",
+            "unitNames": [
+                "Section Overview",
+                "Objects and Classes: What are they?",
+                "PROJECT 9 - Make your own Coin! - Part 1",
+                "PROJECT 9 - Make your own Coin! - Part 2",
+                "PROJECT 10 - Make all the coins!! - Part 1",
+                "PROJECT 10 - Make all the coins!! - Part 2",
+                "PROJECT 11 - Make Your Own Bank!",
+                "Section Review"
+            ]
+        },
+        {
+            "sectionName": "So, What's Next? + Resources",
+            "unitNames": [
+                "All Course Source Code",
+                "Goodbye you beautiful people!",
+                "What do you want to learn next?"
+            ]
+        }
+    ]
 }

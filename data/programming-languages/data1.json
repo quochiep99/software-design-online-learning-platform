@@ -4,26 +4,38 @@
         "courses": []
     },
     "course": {
-        "title": "2020 Complete Python Bootcamp From Zero to Hero in Python",
+        "title": "2021 Complete Python Bootcamp From Zero to Hero in Python",
         "subtitle": "Learn Python like a Professional Start from the basics and go all the way to creating your own applications and games",
-        "descriptions":  "",
+        "descriptions": [],
         "reviews": [],
         "students": [],
-        "image1xURL": "https://img-b.udemycdn.com/course/240x135/567828_67d0.jpg",
-        "image2xURL": "https://img-b.udemycdn.com/course/480x270/567828_67d0.jpg",
-        "image3xURL": "https://img-b.udemycdn.com/course/750x422/567828_67d0.jpg",
+        "image1xURL": "https://img-a.udemycdn.com/course/240x135/567828_67d0.jpg",
+        "image2xURL": "https://img-a.udemycdn.com/course/480x270/567828_67d0.jpg",
+        "image3xURL": "https://img-a.udemycdn.com/course/750x422/567828_67d0.jpg",
         "discountPrice": 11.99,
         "originalPrice": 129.99,
         "numViews": 0,
-        "curriculum": {}
+        "curriculum": []
     },
     "reviews": [
+        {
+            "body": "I am a complete beginner and I must say I love the course Jose actually went from very basic right up to advance topics, One thing which i would like to ask Jose to improve is Final Capstone Project section, Instead of letting us choose from if there is one provided with the solution that would be great",
+            "rating": 4
+        },
+        {
+            "body": "Thank you for offering this course.. It should be really useful for the students.. And one more thing, please add some interview/placement related topic.. which is more impotent.. otherwise the course is good...",
+            "rating": 4
+        },
+        {
+            "body": "Huge amount of great material in this course. Reason for undertaking the course is I needed to develop some Python skills to tackle my Masters dissertation which I will be starting soon.",
+            "rating": 5
+        },
         {
             "body": "This course is fantastic! I learned so much so far, and I knew nothing about any programming languages. Thanks Jose!!",
             "rating": 5
         },
         {
-            "body": "The words 'Thank you' don't even begin to express my gratitude for the experience that I've had just by attending your online course. You have been an excellent teacher. And because of your liveliness, care and understanding you have undoubtedly made python a really interesting that once seemed sort of boring for me. I am really grateful to you and now have a liking towards python.",
+            "body": "I enjoyed learning at my pace. I am glad that I could grow my skills as a new programmer!",
             "rating": 5
         },
         {
@@ -31,126 +43,114 @@
             "rating": 5
         },
         {
-            "body": "I learned a lot in this course, however, towards the middle of the course, it feels a bit rushed. It took a long time to wrap my head around functions and classes before being able to complete the Milestone projects. Had to go through various external sources before coming back to this course.",
+            "body": "The explanation was crisp and clear and the slides used in the lectures were good. I believe its a pretty good course to start learning python.",
+            "rating": 4.5
+        },
+        {
+            "body": "Awesome course. I have only good things to say about this course. All topics are well explained. The notes are clear and exercises are very practical. Thank you.",
+            "rating": 5
+        },
+        {
+            "body": "Great course! Me being a software engineer on other technologies, this course provides the tools to get you started with Python. I would love if the course included an additional session to explore a Python IDE (e.g. PyCharm), but other than that the course is great and I highly recommend it as a starting point for Python.",
+            "rating": 5
+        },
+        {
+            "body": "The course is amazing and all the explanations are on point!",
+            "rating": 5
+        },
+        {
+            "body": "I started with C language. But I always felt that coding is not my cup of tea.\n\nBut this course entirely shattered my views on coding. This course is definitely what would I suggest to my peers or juniors to begin to code.",
             "rating": 4
         },
         {
-            "body": "A Great course for someone who wants to get started with Python.\n\nThe exercises and challenges really helped and forced me to apply what was taught in each section.\n\nThe puzzlers in between also helped keep things interesting from time to time",
-            "rating": 4.5
-        },
-        {
-            "body": "I enjoyed learning at my pace. I am glad that I could grow my skills as a new programmer!",
-            "rating": 5
-        },
-        {
-            "body": "Amazing course specially for someone who has no idea about Python. This course starts from very basic and slowly goes into advanced topics in a very detailed manner. There are lot of hands-on exercises to assess your learning and real-world projects to apply your knowledge. Thanks for this course.",
-            "rating": 5
-        },
-        {
-            "body": "The teacher not just teaches you Python with clarity and interest, but also teaches: how to explore further, search for a solution to a problem etc etc. Loved taking the course",
-            "rating": 5
-        },
-        {
-            "body": "Great course! I would highly recommend it if you are new to Python or coming from a different programming background. This is my first Udemy class and I very happy with it.",
-            "rating": 5
-        },
-        {
-            "body": "Awesome Instructions and very clear explenations. Lots of examples and also nice to listen to. I just bought a few other courses from him too!",
-            "rating": 5
-        },
-        {
-            "body": "Very good content that was broken down and explained incredibly clearly. Exercises are also quite challenging, which allows you to really grow and improve your skills. Definitely would recommend.",
-            "rating": 4.5
-        },
-        {
-            "body": "This is Amazing course ... I love this course .. Thank you so much Joes ..",
-            "rating": 5
+            "body": "The course covers all the very basics of Python 3, plus some useful functionalities of it when Python is used with Jupyter. Also, the course touches some external libraries, after passing which, ideas of practical implementation of your Python skills may start occur in your mind.\n\nHowever, I found these following cons of the course:\n\n- It really touches ONLY language, i.e. not Computer Science itself. You most likely start to understand how the language works but without real fundamentals behind it.\n\n- Especially OOP part, it does won't teach you how you should THINK in order to code in OOP paradigm. For me, that was critical. And because of this I dropped this course multiple times. Only after A LOT of googling, I started to comprehend this paradigm.\n\n- Sometimes, I caught the feeling that I was just following what Jose doing. In some parts, this course won't teach you, but just gives you 'mechanical' exercises passing which you don't think too much.\n\n- Taking into the account aforementioned, you MUST google a lot and READ documentations a lot in order to grab deep understanding of programming (not Python itself).\n\nDespite so large 'cons' lists, I really recommend this course. It brings real value for its price. And with a good motivation it may push you to learn programming further.\n\nThanks, Jose, for the course. It was a real pleasure following it. You did a great job! :)",
+            "rating": 3.5
         }
     ],
     "students": [
+        {
+            "name": "Sikander Ali Haroon",
+            "email": "sikanderaliharoon@gmail.com",
+            "password": "sikanderaliharoon",
+            "role": "s",
+            "isConfirmed": true
+        },
+        {
+            "name": "Vijay S",
+            "email": "vijays@gmail.com",
+            "password": "vijays",
+            "role": "s",
+            "isConfirmed": true
+        },
+        {
+            "name": "George Hannan",
+            "email": "georgehannan@gmail.com",
+            "password": "georgehannan",
+            "role": "s",
+            "isConfirmed": true
+        },
         {
             "name": "Debora Durek",
             "email": "deboradurek@gmail.com",
             "password": "deboradurek",
             "role": "s",
-"isConfirmed": true
-        },
-        {
-            "name": "MOHAMMED HARES SHAIKH",
-            "email": "mohammedharesshaikh@gmail.com",
-            "password": "mohammedharesshaikh",
-            "role": "s",
-"isConfirmed": true
-        },
-        {
-            "name": "Flavio Liviero",
-            "email": "flavioliviero@gmail.com",
-            "password": "flavioliviero",
-            "role": "s",
-"isConfirmed": true
-        },
-        {
-            "name": "Giri Ram A/L Sreeramlu",
-            "email": "girirama/lsreeramlu@gmail.com",
-            "password": "girirama/lsreeramlu",
-            "role": "s",
-"isConfirmed": true
-        },
-        {
-            "name": "Akhil Krishnakumar",
-            "email": "akhilkrishnakumar@gmail.com",
-            "password": "akhilkrishnakumar",
-            "role": "s",
-"isConfirmed": true
+            "isConfirmed": true
         },
         {
             "name": "Robert Thompson",
             "email": "robertthompson@gmail.com",
             "password": "robertthompson",
             "role": "s",
-"isConfirmed": true
+            "isConfirmed": true
         },
         {
-            "name": "Pratik Mahajan",
-            "email": "pratikmahajan@gmail.com",
-            "password": "pratikmahajan",
+            "name": "Flavio Liviero",
+            "email": "flavioliviero@gmail.com",
+            "password": "flavioliviero",
             "role": "s",
-"isConfirmed": true
+            "isConfirmed": true
         },
         {
-            "name": "Abdul Basit Dost",
-            "email": "abdulbasitdost@gmail.com",
-            "password": "abdulbasitdost",
+            "name": "Shubham Agarwal",
+            "email": "shubhamagarwal@gmail.com",
+            "password": "shubhamagarwal",
             "role": "s",
-"isConfirmed": true
+            "isConfirmed": true
         },
         {
-            "name": "Md Mamunur Rahman",
-            "email": "mdmamunurrahman@gmail.com",
-            "password": "mdmamunurrahman",
+            "name": "Diego Angarita",
+            "email": "diegoangarita@gmail.com",
+            "password": "diegoangarita",
             "role": "s",
-"isConfirmed": true
+            "isConfirmed": true
         },
         {
-            "name": "Dennis Münchehofe",
-            "email": "dennismünchehofe@gmail.com",
-            "password": "dennismünchehofe",
+            "name": "Kostas Skenteris",
+            "email": "kostasskenteris@gmail.com",
+            "password": "kostasskenteris",
             "role": "s",
-"isConfirmed": true
+            "isConfirmed": true
         },
         {
-            "name": "Kieran Arul",
-            "email": "kieranarul@gmail.com",
-            "password": "kieranarul",
+            "name": "Sameer Varpe",
+            "email": "sameervarpe@gmail.com",
+            "password": "sameervarpe",
             "role": "s",
-"isConfirmed": true
+            "isConfirmed": true
         },
         {
-            "name": "Pradeepakumara K R",
-            "email": "pradeepakumarakr@gmail.com",
-            "password": "pradeepakumarakr",
+            "name": "Abinesh D",
+            "email": "abineshd@gmail.com",
+            "password": "abineshd",
             "role": "s",
-"isConfirmed": true
+            "isConfirmed": true
+        },
+        {
+            "name": "German Borisevich",
+            "email": "germanborisevich@gmail.com",
+            "password": "germanborisevich",
+            "role": "s",
+            "isConfirmed": true
         }
     ],
     "instructor": {
@@ -158,7 +158,306 @@
         "email": "joseportilla@gmail.com",
         "password": "joseportilla",
         "role": "i",
-"isConfirmed": true,
-        "briefIntroduction": "<p>&nbsp; Jose Marcial Portilla has a BS and MS in Mechanical Engineering from Santa Clara University and&nbsp;years of&nbsp;experience as a professional instructor and trainer for Data Science and programming. He has publications and patents in various fields such as microfluidics,&nbsp;materials science, and data science technologies. Over the course of his career he has developed a skill set in analyzing data and he hopes to use his experience in teaching and data science to help other people learn the power of programming the&nbsp;ability to analyze data, as well as present the data in clear and beautiful visualizations. Currently he works as the Head of Data Science for Pierian Data Inc.&nbsp;and provides in-person data science and python programming training courses to employees working at top companies, including General Electric, Cigna, The New York Times, Credit Suisse, McKinsey and many more.&nbsp;Feel free to contact him on LinkedIn for more information on in-person training sessions or group training sessions in Las Vegas, NV.</p>"
-    }
+        "briefIntroduction": "<p>&nbsp; Jose Marcial Portilla has a BS and MS in Mechanical Engineering from Santa Clara University and&nbsp;years of&nbsp;experience as a professional instructor and trainer for Data Science and programming. He has publications and patents in various fields such as microfluidics,&nbsp;materials science, and data science technologies. Over the course of his career he has developed a skill set in analyzing data and he hopes to use his experience in teaching and data science to help other people learn the power of programming the&nbsp;ability to analyze data, as well as present the data in clear and beautiful visualizations. Currently he works as the Head of Data Science for Pierian Data Inc.&nbsp;and provides in-person data science and python programming training courses to employees working at top companies, including General Electric, Cigna, The New York Times, Credit Suisse, McKinsey and many more.&nbsp;Feel free to contact him on LinkedIn for more information on in-person training sessions or group training sessions in Las Vegas, NV.</p>",
+        "isConfirmed": true
+    },
+    "curriculum": [
+        {
+            "sectionName": "Course Overview",
+            "unitNames": [
+                "Auto-Welcome Message",
+                "Course Introduction",
+                "Course Curriculum Overview",
+                "Why Python?",
+                "Course FAQs"
+            ]
+        },
+        {
+            "sectionName": "Python Setup",
+            "unitNames": [
+                "Command Line Basics",
+                "Installing Python (Step by Step)",
+                "Running Python Code",
+                "Getting the Notebooks and the Course Material",
+                "Git and Github Overview (Optional)"
+            ]
+        },
+        {
+            "sectionName": "Python Object and Data Structure Basics",
+            "unitNames": [
+                "Introduction to Python Data Types",
+                "Python Numbers",
+                "Numbers: Simple Arithmetic",
+                "Numbers - FAQ",
+                "Numbers Quiz",
+                "Variable Assignments",
+                "Introduction to Strings",
+                "Quick Print Check",
+                "Indexing and Slicing with Strings",
+                "String Indexing",
+                "String Slicing",
+                "String Properties and Methods",
+                "Strings -FAQ",
+                "Strings Quiz",
+                "Print Formatting with Strings",
+                "Print Formatting FAQs",
+                "Print Formatting",
+                "Lists in Python",
+                "Lists",
+                "Lists - FAQ",
+                "Lists Quiz",
+                "Dictionaries in Python",
+                "Dictionaries",
+                "Dictionaries - FAQ",
+                "Dictionaries Quiz",
+                "Tuples with Python",
+                "Tuples Quiz",
+                "Sets in Python",
+                "Sets",
+                "Booleans in Python",
+                "Sets and Booleans Quiz",
+                "I/O with Basic Files in Python",
+                "File I/O",
+                "Resources for More Basic Practice",
+                "Python Objects and Data Structures Assessment Test Overview",
+                "Python Objects and Data Structures Assessment Test Solutions"
+            ]
+        },
+        {
+            "sectionName": "Python Comparison Operators",
+            "unitNames": [
+                "Comparison Operators in Python",
+                "Chaining Comparison Operators in Python with Logical Operators",
+                "Comparison Operators Quiz"
+            ]
+        },
+        {
+            "sectionName": "Python Statements",
+            "unitNames": [
+                "If Elif and Else Statements in Python",
+                "For Loops in Python",
+                "While Loops in Python",
+                "Useful Operators in Python",
+                "List Comprehensions in Python",
+                "Python Statements Test Overview",
+                "Python Statements Test Solutions"
+            ]
+        },
+        {
+            "sectionName": "Methods and Functions",
+            "unitNames": [
+                "Methods and the Python Documentation",
+                "Introduction to Functions",
+                "def Keyword",
+                "Basics of Python Functions",
+                "Logic with Python Functions",
+                "Tuple Unpacking with Python Functions",
+                "Interactions between Python Functions",
+                "Overview of Quick Function Exercises #1-10",
+                "Quick Check on Solutions Link",
+                "Functions #1: print Hello World",
+                "Functions #2: print Hello Name",
+                "Functions #3 - simple Boolean",
+                "Functions #4 - using Booleans",
+                "Functions #5: simple math",
+                "Functions #6: is even",
+                "Functions #7: is greater",
+                "*args and **kwargs in Python",
+                "Functions #8: *args",
+                "Functions #9: pick evens",
+                "Functions #10: skyline",
+                "Function Practice Exercises - Overview",
+                "Function Practice Exercises - Solutions",
+                "Function Practice - Solutions Level One",
+                "Function Practice - Solutions Level Two",
+                "Function Exercise Solutions - Challenge Problem",
+                "Lambda Expressions, Map, and Filter Functions",
+                "Nested Statements and Scope",
+                "Methods and Functions Homework Overview",
+                "Methods and Functions Homework - Solutions"
+            ]
+        },
+        {
+            "sectionName": "Milestone Project - 1",
+            "unitNames": [
+                "Introduction to Warm Up Project Exercises",
+                "Displaying Information",
+                "Accepting User Input",
+                "Validating User Input",
+                "Simple User Interaction",
+                "First Python Milestone Project Overview",
+                "Milestone Project Help",
+                "Solution Overview for MileStone Project 1 - Part One",
+                "Solution Overview for MileStone Project 1 - Part Two"
+            ]
+        },
+        {
+            "sectionName": "Object Oriented Programming",
+            "unitNames": [
+                "Object Oriented Programming - Introduction",
+                "Object Oriented Programming - Attributes and Class Keyword",
+                "Object Oriented Programming - Class Object Attributes and Methods",
+                "Object Oriented Programming - Inheritance and Polymorphism",
+                "Object Oriented Programming - Special (Magic/Dunder) Methods",
+                "Object Oriented Programming - Homework",
+                "Object Oriented Programming - Homework Solutions",
+                "Object Oriented Programming - Challenge Overview",
+                "Object Oriented Programming - Challenge Solution"
+            ]
+        },
+        {
+            "sectionName": "Modules and Packages",
+            "unitNames": [
+                "Pip Install and PyPi",
+                "Modules and Packages",
+                "__name__ and \"__main__\""
+            ]
+        },
+        {
+            "sectionName": "Errors and Exceptions Handling",
+            "unitNames": [
+                "Errors and Exception Handling",
+                "Errors and Exceptions Homework",
+                "Errors and Exception Homework - Solutions",
+                "Update for Pylint Users",
+                "Pylint Overview",
+                "Running tests with the Unittest Library"
+            ]
+        },
+        {
+            "sectionName": "Milestone Project - 2",
+            "unitNames": [
+                "Introduction to Milestone Project 2 Section Warmup",
+                "Card Class",
+                "Deck Class",
+                "Player Class",
+                "Game Logic - Part One",
+                "Game Logic - Part Two",
+                "Game Logic - Part Three",
+                "Milestone Project 2 Overview",
+                "Solution Walkthrough - Card and Deck classes",
+                "Solution Walkthrough - Hand and Chip Classes",
+                "Solution Walkthrough - Functions for Game Play",
+                "Solutions Walkthrough - Final Gameplay Script"
+            ]
+        },
+        {
+            "sectionName": "Python Decorators",
+            "unitNames": [
+                "Decorators with Python Overview",
+                "Decorators Homework"
+            ]
+        },
+        {
+            "sectionName": "Python Generators",
+            "unitNames": [
+                "Generators with Python",
+                "Generators Homework Overview",
+                "Generators Homework Solutions"
+            ]
+        },
+        {
+            "sectionName": "Advanced Python Modules",
+            "unitNames": [
+                "Introduction to Advanced Python Modules",
+                "Python Collections Module",
+                "Opening and Reading Files and Folders (Python OS Module)",
+                "Python Datetime Module",
+                "Python Math and Random Modules",
+                "Python Debugger",
+                "Python Regular Expressions Part One",
+                "Python Regular Expressions Part Two",
+                "Python Regular Expressions Part Three",
+                "Timing Your Python Code",
+                "Zipping and Unzipping files with Python",
+                "Advanced Python Module Puzzle - Overview",
+                "Advanced Python Module Puzzle - Solution"
+            ]
+        },
+        {
+            "sectionName": "Web Scraping with Python",
+            "unitNames": [
+                "Introduction to Web Scraping",
+                "Setting Up Web Scraping Libraries",
+                "Python Web Scraping - Grabbing a Title",
+                "Python Web Scraping - Grabbing a Class",
+                "Python Web Scraping - Grabbing an Image",
+                "Python Web Scraping - Book Examples Part One",
+                "Python Web Scraping - Book Examples Part Two",
+                "Python Web Scraping - Exercise Overview",
+                "Python Web Scraping - Exercise Solutions"
+            ]
+        },
+        {
+            "sectionName": "Working with Images with Python",
+            "unitNames": [
+                "Introduction to Images with Python",
+                "Working with Images with Python",
+                "Python Image Exercises - Overview",
+                "Python Image Exercises - Solution"
+            ]
+        },
+        {
+            "sectionName": "Working with PDFs and Spreadsheet CSV Files",
+            "unitNames": [
+                "Introduction to PDFs and Spreadsheets with Python",
+                "Working with CSV Files in Python",
+                "Working with PDF Files in Python",
+                "PDFs and Spreadsheets Python Puzzle Exercise",
+                "PDFs and Spreadsheets Python Puzzle Exercise - Solutions"
+            ]
+        },
+        {
+            "sectionName": "Emails with Python",
+            "unitNames": [
+                "Introduction to Emails with Python",
+                "Sending Emails with Python",
+                "Receiving Emails with Python"
+            ]
+        },
+        {
+            "sectionName": "Final Capstone Python Project",
+            "unitNames": [
+                "Final Capstone Project"
+            ]
+        },
+        {
+            "sectionName": "Advanced Python Objects and Data Structures",
+            "unitNames": [
+                "Advanced Numbers",
+                "Advanced Strings",
+                "Advanced Sets",
+                "Advanced Dictionaries",
+                "Advanced Lists",
+                "Advanced Python Objects Assessment Test",
+                "Advanced Python Objects Test - Solutions"
+            ]
+        },
+        {
+            "sectionName": "Bonus Material - Introduction to GUIs",
+            "unitNames": [
+                "Introduction to GUIs",
+                "Quick note about ipywidgets",
+                "Interact Functionality with GUIs",
+                "GUI Widget Basics",
+                "List of Possible Widgets",
+                "Widget Styling and Layouts",
+                "Example of what a Widget can do!"
+            ]
+        },
+        {
+            "sectionName": "APPENDIX: OLDER PYTHON 2 MATERIAL",
+            "unitNames": [
+                "Objects and Data Structures Assessment - Solutions",
+                "Comparison Operators",
+                "Chained Comparison Operators"
+            ]
+        },
+        {
+            "sectionName": "BONUS SECTION: THANK YOU!",
+            "unitNames": [
+                "BONUS LECTURE"
+            ]
+        }
+    ]
 }

@@ -6,7 +6,7 @@
     "course": {
         "title": "Complete Python Developer in 2021: Zero to Mastery",
         "subtitle": "How to become a Python 3 Developer and get hired! Build 12+ projects, learn Web Development, Machine Learning + more!",
-        "descriptions":  "",
+        "descriptions": [],
         "reviews": [],
         "students": [],
         "image1xURL": "https://img-a.udemycdn.com/course/240x135/2473048_8255_5.jpg",
@@ -15,35 +15,39 @@
         "discountPrice": 11.99,
         "originalPrice": 129.99,
         "numViews": 0,
-        "curriculum": {}
+        "curriculum": []
     },
     "reviews": [
         {
+            "body": "Actually I'm a guy not from computer science background, in this course I really learnt more about how to become a Developer, how should we work everything, I also learnt some of the new things in python as well. Thank You Andrei Neagoie.",
+            "rating": 5
+        },
+        {
+            "body": "It was actually very good. I am very much confident. But not able to clear interviews in Python. Still looking for a job. Not working since last 2 years.\n\nAny help will be highly appreciated.",
+            "rating": 4.5
+        },
+        {
             "body": "The course is amazing! I definitely learned a lot, going over all basic and not so basic concepts in Python programming, including Data Science and Machine Learning (the most exciting part for me), among other interesting and useful subjects. All the famous and most popular libraries, IDEs, and Flask framework, are included in the course. The course also leads you to an amazing and supportive Discord community, where you can discuss your code, share your progress, find help and coding buddies. They have also Github community, where you can work with others or on your own on open source projects and maybe share these contributions on your resume. I'll be coming back to this course to complete the 100 Python exercises.\n\nThanks very much Andrei for this course! You're saying it's important for you to provide value to others and to the world. I think that you've definitely achieved that via your courses and community! It's a great benefit for the world to have you existing! :)\n\nAlso, special thanks to the teaching assistant William, who was all the time with me throughout my journey with this course and always helped me out, whenever I was stuck with difficult, or silly situations, and took the time to clarify for me concepts, which I had troubles with at first!\n\nI can't really describe all the amazing features of this course in such a review, but there are many more. Keep up the good work, guys!",
             "rating": 5
-        },
-        {
-            "body": "Overall the course was excellent with a huge amount of content. I enjoyed listening to Andrei and he always explains things in a clear way. I am certainly not employable yet after this one course but it has introduced my to the Python language and also I now know which career path I wish to take.\n\nHighly recommended if this is your first step with Python. The course is great value for money",
-            "rating": 4.5
-        },
-        {
-            "body": "Me ha ayudado a ampliar conocimientos y conocer muchas herramientas para continuar aprendiendo siempre desde una vision a largo alcance. Haciendo un simil este curso en lugar de darme un pez para comer me ha dado una caña y las instrucciones de como manejarme para aprender a pescar. Enhorabuena a todo el equipo.",
-            "rating": 5
-        },
-        {
-            "body": "It was a long course. Lots of stuff learned from here. Some topics give me little bit headache. But overall I loved this course. Hard work pays off. Looking forward to taking more courses.",
-            "rating": 4.5
         },
         {
             "body": "After a couple of solid weeks, I can now say that I completed this amazing course from Andrei, and I would like to say a massive thank you for Andrei for creating this! Previously, I have gone with other developers who taught python and I got lost and didn't enjoy it, and when I came across Andrei - everything got easier and things started to make sense.\n\nThis course, not only teaches the solid foundation but also moves onto the advanced concepts (which my previous courses never went into) but also goes into projects - which are amazing, and I think that's where this course goes beyond from the others.\n\nI have liked Andrei's teaching style a lot and I have brought his Machine Learning Course and his web development course which I start very soon. Thank you for such an amazing course Andrei.",
             "rating": 5
         },
         {
-            "body": "course was awesome, through out the course I had a lot of fun exercises. Explanations were clear and was able to understand all the concepts easily. This course did not only teach me python and stopped there but also gave an idea on the career paths I could choose and also taught basics on each and every career paths built on python. Andrei sir really did a great job, Thank You very much for sharing me your knowledge sir.",
+            "body": "Thank you @Andrei, I have become a fan of yours teaching style.\n\nWe hardly have any instructor who helped in such a way, with an active community group for programmers, exposure to live projects, coding challenges and blog posts.\n\nIt really helps me to bridge the missing gap in Python. Hope to meet you soon in your other courses.",
             "rating": 5
         },
         {
-            "body": "Hello ZTM !!! Thank you very much for preparing this course. It serves as a basis for me to continue with others of this type. I would like to know if there is any application development course for android mobile phones. In particular, to use SS7 data (signaling 7). It is an area that I like and I hope to be able to work on it. I also like the blockchain. I think its importance will grow in the future. I am on the DISCORD platform so we will keep in touch.",
+            "body": "It was completely or somewhat a new field for me and the way you explained fundamentals is impressive for a somewhat beginner like me. I just started to learn these computer languages and hoping this learning momentum in the coming years.",
+            "rating": 5
+        },
+        {
+            "body": "Andrei's absolutely amazing. All of his courses are very in-depth and tell you exactly how everything works. If you're trying to learn Python, this course is the only course you should be considering",
+            "rating": 5
+        },
+        {
+            "body": "I want to thank Andrei Neagoie for making such an amazing course. I really enjoyed the course and learned lot through it.\n\nAfter searching a lot of online resources I can say ZTM Academy is the best.",
             "rating": 5
         },
         {
@@ -51,106 +55,102 @@
             "rating": 5
         },
         {
-            "body": "Can't believe that I have completed the entire course! It was exhausting but at the same time, rewarding as well. Andrei is a fantastic instructor, one who is easy to follow along and has a pragmatic approach towards getting into development career. I'm excited to join his other course that I would be starting soon :)",
+            "body": "I got really engaged into programming. Thank you",
             "rating": 5
         },
         {
-            "body": "Hell Andrei! Thank You for the wonderful course. I highly enjoyed it! This is the best course on the Udemy site about Python programming language. The course should be improved: 1) REST API Development is way too brief and not as detailed as the Web Dev course. 2) The course did not show how to create python application with online sql database 3) Data Science and Machine learning sections are too brief. Please expand Machine Learning and cover more concepts. 4) Please add Pytest(under Automation Testing section), Python with nonsql database, Python GUI programming(basics), Python Concurrency and Threads, Python linear and non-linear data structures, Python for Parallel and distributed computing, Python Stream Processing. The course rating is 4 b/c nothing is said about how to do python app with sql database and rest api should be discussed in much more detail. The overall Python course is very good - above average.",
-            "rating": 4
+            "body": "Really good course! Andrei made learning so easy. Everything was explained in a way that I really understood what was going on. I can recommend this course for everyone who is thinking about taking a Python beginner course.",
+            "rating": 4.5
         },
         {
-            "body": "I work as a solutions developer in an IT firm with 2 yrs exp. I am not much of an easily-convinced person, but its safe to say that Andrei is the best instructor till now that I have come across on the internet..and mind that I have taken a lot of online courses from various sources!! Its not very common to expect Lehman-level teaching, right from basics, to accommodate both pro-to newbie students with zero coding/computing background, from a senior dev turned instructor. The best part is that he shares his way of thinking and working around with syntaxes and topics etc, and how to figure out solutions from internet and what should be the approach. Personally, I find this part one of the most overwhelming while developing stuff. Now, about the course-- The course syllabus is quite comprehensive, including well-explained Dev env setup videos and tools. Both Andrei and his videos literally walk through every bit of setting up env, along with discussing bits which may be encountered in case of other versions/OS/softwares. The course content is well-distributed into sections, with well-timed videos of short durations, which ends before it starts to go over the top of the head! William, the teaching assistant was quite helpful too, in promptly answering all queries wherever one gets stuck, in very less time. Finally, it was a great course to start learning Python and go on to specialize in it. I had some experience with learning web-dev online earlier but left it midway because it was too vast and was getting too much to understand and master. Now with this course having done, I feel much more interested and confident in taking a web-development or Front-end dev course. Thanks Andrei...looking forward to more of your courses !!!!",
-            "rating": 5
-        },
-        {
-            "body": "This is a comprehensive Python course, with detailed instructions on setting up and using lots of supporting applications, introduces libraries in multiple business areas and has links to huge wealth of extra online resources. Then of course there's Andrei Neagoie himself, who's teaching technic, work and study ethic and healthy adventurous life is inspiring.",
+            "body": "Me ha ayudado a ampliar conocimientos y conocer muchas herramientas para continuar aprendiendo siempre desde una vision a largo alcance. Haciendo un simil este curso en lugar de darme un pez para comer me ha dado una caña y las instrucciones de como manejarme para aprender a pescar. Enhorabuena a todo el equipo.",
             "rating": 5
         }
     ],
     "students": [
         {
+            "name": "NAGARAJ PANDIYAN C",
+            "email": "nagarajpandiyanc@gmail.com",
+            "password": "nagarajpandiyanc",
+            "role": "s",
+            "isConfirmed": true
+        },
+        {
+            "name": "Ankur Bhalla",
+            "email": "ankurbhalla@gmail.com",
+            "password": "ankurbhalla",
+            "role": "s",
+            "isConfirmed": true
+        },
+        {
             "name": "Nikolay Tonev",
             "email": "nikolaytonev@gmail.com",
             "password": "nikolaytonev",
             "role": "s",
-"isConfirmed": true
-        },
-        {
-            "name": "Keith Price",
-            "email": "keithprice@gmail.com",
-            "password": "keithprice",
-            "role": "s",
-"isConfirmed": true
-        },
-        {
-            "name": "Ramiro González Gutiérrez",
-            "email": "ramirogonzálezgutiérrez@gmail.com",
-            "password": "ramirogonzálezgutiérrez",
-            "role": "s",
-"isConfirmed": true
-        },
-        {
-            "name": "Faizul Islam",
-            "email": "faizulislam@gmail.com",
-            "password": "faizulislam",
-            "role": "s",
-"isConfirmed": true
+            "isConfirmed": true
         },
         {
             "name": "Isaac Bowyer",
             "email": "isaacbowyer@gmail.com",
             "password": "isaacbowyer",
             "role": "s",
-"isConfirmed": true
+            "isConfirmed": true
         },
         {
-            "name": "vikram c.n.",
-            "email": "vikramc.n.@gmail.com",
-            "password": "vikramc.n.",
+            "name": "Abhiraj Das",
+            "email": "abhirajdas@gmail.com",
+            "password": "abhirajdas",
             "role": "s",
-"isConfirmed": true
+            "isConfirmed": true
         },
         {
-            "name": "Osvaldo Ayala",
-            "email": "osvaldoayala@gmail.com",
-            "password": "osvaldoayala",
+            "name": "Surjeet Kumar",
+            "email": "surjeetkumar@gmail.com",
+            "password": "surjeetkumar",
             "role": "s",
-"isConfirmed": true
+            "isConfirmed": true
+        },
+        {
+            "name": "Jones David",
+            "email": "jonesdavid@gmail.com",
+            "password": "jonesdavid",
+            "role": "s",
+            "isConfirmed": true
+        },
+        {
+            "name": "Vaibhav Sachdeva",
+            "email": "vaibhavsachdeva@gmail.com",
+            "password": "vaibhavsachdeva",
+            "role": "s",
+            "isConfirmed": true
         },
         {
             "name": "Ravi Bhandari",
             "email": "ravibhandari@gmail.com",
             "password": "ravibhandari",
             "role": "s",
-"isConfirmed": true
+            "isConfirmed": true
         },
         {
-            "name": "Sanket",
-            "email": "sanket@gmail.com",
-            "password": "sanket",
+            "name": "Victor Escobar",
+            "email": "victorescobar@gmail.com",
+            "password": "victorescobar",
             "role": "s",
-"isConfirmed": true
+            "isConfirmed": true
         },
         {
-            "name": "Dmitri Kozlov",
-            "email": "dmitrikozlov@gmail.com",
-            "password": "dmitrikozlov",
+            "name": "Joonas Kordelin",
+            "email": "joonaskordelin@gmail.com",
+            "password": "joonaskordelin",
             "role": "s",
-"isConfirmed": true
+            "isConfirmed": true
         },
         {
-            "name": "Debashree Tripathy",
-            "email": "debashreetripathy@gmail.com",
-            "password": "debashreetripathy",
+            "name": "Ramiro González Gutiérrez",
+            "email": "ramirogonzálezgutiérrez@gmail.com",
+            "password": "ramirogonzálezgutiérrez",
             "role": "s",
-"isConfirmed": true
-        },
-        {
-            "name": "John Doyle",
-            "email": "johndoyle@gmail.com",
-            "password": "johndoyle",
-            "role": "s",
-"isConfirmed": true
+            "isConfirmed": true
         }
     ],
     "instructor": {
@@ -158,7 +158,461 @@
         "email": "andreineagoie@gmail.com",
         "password": "andreineagoie",
         "role": "i",
-"isConfirmed": true,
-        "briefIntroduction": "<p>Andrei is the instructor of the <strong>highest rated Development courses on Udemy as well as&nbsp;one of the fastest&nbsp;growing.&nbsp;</strong>His graduates have&nbsp;moved&nbsp;on to work for&nbsp;some of the biggest tech&nbsp;companies around the world like Apple, Google, Tesla, Amazon, JP Morgan, IBM, UNIQLO etc...&nbsp;He&nbsp;has&nbsp;been working as a senior software developer in&nbsp;Silicon Valley and Toronto for many years,&nbsp;and&nbsp;is now taking all that he has learned,&nbsp;to teach&nbsp;programming skills and&nbsp;to help you&nbsp;discover the amazing career opportunities that being a developer allows in&nbsp;life.&nbsp;</p><p>Having been&nbsp;a self taught programmer,&nbsp;he understands that there is an&nbsp;overwhelming number of online courses, tutorials and books&nbsp;that are overly verbose and inadequate at teaching proper skills.&nbsp;Most people feel paralyzed and don't know where to start when learning a complex subject matter, or even worse, most people don't have $20,000 to spend on a coding bootcamp.&nbsp;<strong>Programming skills should be affordable and open to all. An education material&nbsp;should teach real life skills that are current and&nbsp;they should not waste a student's valuable time.</strong>&nbsp;\n\nHaving learned important&nbsp;lessons from working for Fortune 500 companies, tech startups, to even&nbsp;founding his own business, he is now dedicating 100% of his time to&nbsp;teaching others valuable&nbsp;software development skills&nbsp;in order to take control of their life and work in an exciting industry with infinite possibilities.&nbsp;</p><p>Andrei promises you that there are no other courses out there as comprehensive and as well explained.&nbsp;<strong>He believes that in order to learn anything of value, you need to start with the foundation and develop the roots of the tree. Only from there will you be able to learn concepts and specific skills(leaves) that connect to the foundation. Learning becomes exponential when structured in this way.</strong>&nbsp;</p><p>Taking his experience in educational psychology and coding, Andrei's courses will take you on an understanding of complex subjects that you never thought would be possible.&nbsp;&nbsp;\n</p><p><strong>See you inside the courses!</strong></p><p><br></p>"
-    }
+        "briefIntroduction": "<p>Andrei is the instructor of the <strong>highest rated Development courses on Udemy as well as&nbsp;one of the fastest&nbsp;growing.&nbsp;</strong>His graduates have&nbsp;moved&nbsp;on to work for&nbsp;some of the biggest tech&nbsp;companies around the world like Apple, Google, Tesla, Amazon, JP Morgan, IBM, UNIQLO etc...&nbsp;He&nbsp;has&nbsp;been working as a senior software developer in&nbsp;Silicon Valley and Toronto for many years,&nbsp;and&nbsp;is now taking all that he has learned,&nbsp;to teach&nbsp;programming skills and&nbsp;to help you&nbsp;discover the amazing career opportunities that being a developer allows in&nbsp;life.&nbsp;</p><p>Having been&nbsp;a self taught programmer,&nbsp;he understands that there is an&nbsp;overwhelming number of online courses, tutorials and books&nbsp;that are overly verbose and inadequate at teaching proper skills.&nbsp;Most people feel paralyzed and don't know where to start when learning a complex subject matter, or even worse, most people don't have $20,000 to spend on a coding bootcamp.&nbsp;<strong>Programming skills should be affordable and open to all. An education material&nbsp;should teach real life skills that are current and&nbsp;they should not waste a student's valuable time.</strong>&nbsp;\n\nHaving learned important&nbsp;lessons from working for Fortune 500 companies, tech startups, to even&nbsp;founding his own business, he is now dedicating 100% of his time to&nbsp;teaching others valuable&nbsp;software development skills&nbsp;in order to take control of their life and work in an exciting industry with infinite possibilities.&nbsp;</p><p>Andrei promises you that there are no other courses out there as comprehensive and as well explained.&nbsp;<strong>He believes that in order to learn anything of value, you need to start with the foundation and develop the roots of the tree. Only from there will you be able to learn concepts and specific skills(leaves) that connect to the foundation. Learning becomes exponential when structured in this way.</strong>&nbsp;</p><p>Taking his experience in educational psychology and coding, Andrei's courses will take you on an understanding of complex subjects that you never thought would be possible.&nbsp;&nbsp;\n</p><p><strong>See you inside the courses!</strong></p><p><br></p>",
+        "isConfirmed": true
+    },
+    "curriculum": [
+        {
+            "sectionName": "Introduction",
+            "unitNames": [
+                "Course Outline",
+                "Join Our Online Classroom!",
+                "Exercise: Meet The Community"
+            ]
+        },
+        {
+            "sectionName": "Python Introduction",
+            "unitNames": [
+                "What Is A Programming Language",
+                "Python Interpreter",
+                "How To Run Python Code",
+                "Note: Jumping To Developer Environment",
+                "Our First Python Program",
+                "Latest Version Of Python",
+                "Python 2 vs Python 3",
+                "Why So Many Languages?",
+                "Exercise: How Does Python Work?",
+                "ZTM Python Cheat Sheet",
+                "Python Developer Monthly",
+                "Endorsements On LinkedIN"
+            ]
+        },
+        {
+            "sectionName": "Python Basics",
+            "unitNames": [
+                "Learning Python",
+                "Python Data Types",
+                "How To Succeed",
+                "Numbers",
+                "Math Functions",
+                "DEVELOPER FUNDAMENTALS: I",
+                "Operator Precedence",
+                "Exercise: Operator Precedence",
+                "Optional: bin() and complex",
+                "Variables",
+                "Expressions vs Statements",
+                "Augmented Assignment Operator",
+                "Strings",
+                "String Concatenation",
+                "Type Conversion",
+                "Escape Sequences",
+                "Formatted Strings",
+                "String Indexes",
+                "Immutability",
+                "Built-In Functions + Methods",
+                "Booleans",
+                "Exercise: Type Conversion",
+                "DEVELOPER FUNDAMENTALS: II",
+                "Exercise: Password Checker",
+                "Lists",
+                "List Slicing",
+                "Matrix",
+                "List Methods",
+                "List Methods 2",
+                "List Methods 3",
+                "Common List Patterns",
+                "List Unpacking",
+                "None",
+                "Dictionaries",
+                "DEVELOPER FUNDAMENTALS: III",
+                "Dictionary Keys",
+                "Dictionary Methods",
+                "Dictionary Methods 2",
+                "Tuples",
+                "Tuples 2",
+                "Sets",
+                "Sets 2"
+            ]
+        },
+        {
+            "sectionName": "Python Basics II",
+            "unitNames": [
+                "Breaking The Flow",
+                "Conditional Logic",
+                "Indentation In Python",
+                "Truthy vs Falsey",
+                "Ternary Operator",
+                "Short Circuiting",
+                "Logical Operators",
+                "Exercise: Logical Operators",
+                "is vs ==",
+                "For Loops",
+                "Iterables",
+                "Exercise: Tricky Counter",
+                "range()",
+                "enumerate()",
+                "While Loops",
+                "While Loops 2",
+                "break, continue, pass",
+                "Our First GUI",
+                "DEVELOPER FUNDAMENTALS: IV",
+                "Exercise: Find Duplicates",
+                "Functions",
+                "Parameters and Arguments",
+                "Default Parameters and Keyword Arguments",
+                "return",
+                "Exercise: Tesla",
+                "Methods vs Functions",
+                "Docstrings",
+                "Clean Code",
+                "*args and **kwargs",
+                "Exercise: Functions",
+                "Walrus Operator",
+                "Scope",
+                "Scope Rules",
+                "global Keyword",
+                "nonlocal Keyword",
+                "Why Do We Need Scope?",
+                "Python Exam: Testing Your Understanding"
+            ]
+        },
+        {
+            "sectionName": "Developer Environment",
+            "unitNames": [
+                "MAC - Python Install",
+                "WINDOWS - Python Install",
+                "WINDOWS - Get Terminal",
+                "LINUX - Python Install",
+                "Python Developer Tools",
+                "Sublime Text",
+                "Resources: Customizing Sublime Text 3",
+                "Quick Note: Upcoming Video",
+                "Optional: Terminal Commands",
+                "iTerm Setup",
+                "Using the Command Line/Terminal",
+                "Visual Studio Code",
+                "PyCharm",
+                "Code Formatting - PEP 8",
+                "Quick Note: Jupyter Notebooks",
+                "Jupyter Notebooks",
+                "Section Review"
+            ]
+        },
+        {
+            "sectionName": "Advanced Python: Object Oriented Programming",
+            "unitNames": [
+                "Note on Upcoming Sections",
+                "What Is OOP?",
+                "What is OOP? Part 2",
+                "Creating Our Own Objects",
+                "Attributes and Methods",
+                "__init__",
+                "Exercise: Cats Everywhere",
+                "@classmethod and @staticmethod",
+                "Reviewing What We Know So Far",
+                "DEVELOPER FUNDAMENTALS: V",
+                "Encapsulation",
+                "Abstraction",
+                "Private vs Public Variables",
+                "Inheritance",
+                "Inheritance 2",
+                "Polymorphism",
+                "Exercise: Pets Everywhere",
+                "super()",
+                "Object Introspection",
+                "Dunder Methods",
+                "Exercise: Extending List",
+                "Multiple Inheritance",
+                "MRO - Method Resolution Order"
+            ]
+        },
+        {
+            "sectionName": "Advanced Python: Functional Programming",
+            "unitNames": [
+                "Functional Programming",
+                "What Is Functional Programming?",
+                "Pure Functions",
+                "map()",
+                "filter()",
+                "zip()",
+                "reduce()",
+                "Exercises: map, filter, zip, reduce",
+                "Lambda Expressions",
+                "Exercise: Lambda Expressions",
+                "List Comprehensions",
+                "Set and Dictionary Comprehension",
+                "Exercise: Comprehensions",
+                "We Still Have More To Go!"
+            ]
+        },
+        {
+            "sectionName": "Advanced Python: Decorators",
+            "unitNames": [
+                "Decorators",
+                "Higher Order Functions",
+                "Decorators 2",
+                "Decorators 3",
+                "Why Do We Need Decorators?",
+                "Exercise: @authenticated"
+            ]
+        },
+        {
+            "sectionName": "Advanced Python: Error Handling",
+            "unitNames": [
+                "Errors in Python",
+                "Error Handling",
+                "Error Handling 2",
+                "Exercises: Error Handling",
+                "Error Handling 3"
+            ]
+        },
+        {
+            "sectionName": "Advanced Python: Generators",
+            "unitNames": [
+                "Generators",
+                "Generators 2",
+                "Generators Performance",
+                "Under The Hood Of Generators",
+                "Exercise: Fibonacci Numbers",
+                "Python Exam: Testing Your Understanding",
+                "100 Python Exercises"
+            ]
+        },
+        {
+            "sectionName": "Modules In Python",
+            "unitNames": [
+                "Modules In Python",
+                "Packages In Python",
+                "Different Ways To Import",
+                "__name__",
+                "Python Built-in Modules",
+                "Python Built-in Modules 2",
+                "Exercise: Guessing Game",
+                "Python Package Index",
+                "pip install",
+                "Virtual Environments",
+                "Useful Modules",
+                "Interesting Tidbit: Python Dictionaries",
+                "Useful Modules 2",
+                "DEVELOPER FUNDAMENTALS: VI"
+            ]
+        },
+        {
+            "sectionName": "Debugging In Python",
+            "unitNames": [
+                "How To Debug Code"
+            ]
+        },
+        {
+            "sectionName": "File I/O",
+            "unitNames": [
+                "Working With Files In Python",
+                "Read, Write, Append",
+                "File Paths",
+                "File IO Errors",
+                "Exercise: Translator"
+            ]
+        },
+        {
+            "sectionName": "Regular Expressions",
+            "unitNames": [
+                "Regular Expressions",
+                "Regular Expressions 2",
+                "Exercises: Interactive RegEx",
+                "Regular Expressions 3",
+                "Exercise: Password Validation",
+                "Exercise: Password Validation 2"
+            ]
+        },
+        {
+            "sectionName": "Testing In Python",
+            "unitNames": [
+                "Testing Introduction",
+                "Unittest",
+                "Writing Unit Tests",
+                "Writing Unit Tests 2",
+                "Exercise: Testing"
+            ]
+        },
+        {
+            "sectionName": "Career Of A Python Developer",
+            "unitNames": [
+                "Python Careers",
+                "Endorsements On LinkedIn",
+                "Quick Note: Upcoming Video",
+                "What If I Don't Have Enough Experience?",
+                "Learning Guideline",
+                "Now What??"
+            ]
+        },
+        {
+            "sectionName": "Scripting with Python",
+            "unitNames": [
+                "Section Overview",
+                "What Is Image Processing?",
+                "DEVELOPER FUNDAMENTALS: VII",
+                "Images With Python",
+                "Images With Python 2",
+                "Images With Python 3",
+                "Exercise: JPG to PNG Pokedex Converter",
+                "Quick Note: Github",
+                "Solution: JPG to PNG Pokedex Converter",
+                "OpenCV",
+                "PDFs With Python",
+                "Exercise: PDF Merger",
+                "Exercise: Watermarker",
+                "Solution: Watermarker",
+                "Sending Emails With Python",
+                "Quick Note: Google Security Updates",
+                "Sending Emails With Python 2",
+                "Sending Emails With Python 3",
+                "Password Checker Project",
+                "How Hackers Work",
+                "Password API",
+                "Quick Note: Upcoming Video",
+                "Optional: Hash Function",
+                "Password Checker",
+                "Password Checker 2",
+                "Password Checker 3",
+                "Password Checker 4",
+                "Quick Note: Twitter API Approval",
+                "Twitter API",
+                "Our First Twitter Bot",
+                "Our First Twitter Bot 2",
+                "Our First Twitter Bot 3",
+                "Our First Twitter Bot 4",
+                "SMS With Python",
+                "SMS With Python 2",
+                "SMS With Python 3"
+            ]
+        },
+        {
+            "sectionName": "Scraping Data with Python",
+            "unitNames": [
+                "Web Scraping Introduction",
+                "Web Scraping and APIs",
+                "How Googlebot Works",
+                "Our Hacker News Project",
+                "Requesting Data",
+                "BeautifulSoup Basics",
+                "BeautifulSoup Selectors",
+                "Hacker News Project",
+                "Hacker News Project 2",
+                "Hacker News Project 3",
+                "Solution: Hacker News Project 3",
+                "What To Do Next With Scraping?"
+            ]
+        },
+        {
+            "sectionName": "Web Development with Python",
+            "unitNames": [
+                "Section Overview",
+                "How Websites Work",
+                "How Websites Work 2",
+                "Building Our First Server",
+                "Setting Up Flask",
+                "Building A Flask Server",
+                "Flask Templates",
+                "Flask Static Files",
+                "Favicon",
+                "Templating Engine",
+                "URL Parameters",
+                "MIME Types",
+                "Building A Portfolio",
+                "FREE HTML Templates",
+                "Building A Portfolio 2",
+                "Building A Portfolio 3",
+                "Building A Portfolio 4",
+                "HTML Forms",
+                "Building A Portfolio 5",
+                "Building A Portfolio 6",
+                "Building A Portfolio 7",
+                "Quick Fix: newline",
+                "Quick Note About Databases",
+                "Upcoming Video",
+                "Optional: How Databases Work",
+                "Building A Portfolio 8",
+                "Building A Portfolio 9",
+                "Bonus Exercise: Customize Your Portfolio"
+            ]
+        },
+        {
+            "sectionName": "Automation/Testing",
+            "unitNames": [
+                "Section Overview",
+                "Selenium Introduction",
+                "Selenium Basics",
+                "Selenium Basics 2",
+                "Selenium Basics 3"
+            ]
+        },
+        {
+            "sectionName": "Machine Learning + Data Science",
+            "unitNames": [
+                "Section Overview",
+                "AI/Machine Learning/Data Science",
+                "How Machine Learning Works",
+                "History Of Data",
+                "Types of Machine Learning",
+                "Machine Learning 101",
+                "Tools In Machine Learning",
+                "Data Science 1",
+                "Data Science 2",
+                "Data Science 3",
+                "Machine Learning 1",
+                "Machine Learning 2",
+                "Optional: K Nearest Neighbour",
+                "Machine Learning 3",
+                "Machine Learning 4",
+                "Machine Learning 5",
+                "Machine Learning 6",
+                "Exercise: ReallySmartBrain",
+                "My Favourite Machine Learning Resource"
+            ]
+        },
+        {
+            "sectionName": "Where To Go From Here?",
+            "unitNames": [
+                "Become An Alumni",
+                "Thank You",
+                "Contribute To The Cheat Sheet!"
+            ]
+        },
+        {
+            "sectionName": "Bonus: Extra Bits",
+            "unitNames": [
+                "Quick Note: Upcoming Videos",
+                "CWD: Git + Github",
+                "Github Update: Master --> Main",
+                "CWD: Git + Github 2",
+                "Contributing To Open Source",
+                "Contributing To Open Source 2",
+                "Exercise: Contribute To Open Source",
+                "Coding Challenges",
+                "Quick Note: Upcoming Videos",
+                "JTS: Learn to Learn",
+                "JTS: Start With Why",
+                "Quick Note: Next Video",
+                "My Terminal Setup",
+                "My Terminal Setup 2",
+                "AMA - 1,000 Students!!",
+                "AMA - 100,000 Students!!"
+            ]
+        },
+        {
+            "sectionName": "Bonus: HTML Forms",
+            "unitNames": [
+                "Quick Note: Upcoming Videos",
+                "HTML Forms",
+                "HTML Forms 2",
+                "Submitting A Form"
+            ]
+        },
+        {
+            "sectionName": "BONUS SECTION",
+            "unitNames": [
+                "Bonus Lecture"
+            ]
+        }
+    ]
 }

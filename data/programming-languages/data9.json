@@ -6,25 +6,29 @@
     "course": {
         "title": "C# Basics for Beginners: Learn C# Fundamentals by Coding",
         "subtitle": "Master C# fundamentals in 6 hours - The most popular course with 50,000+ students, packed with tips and exercises!",
-        "descriptions":  "",
+        "descriptions": [],
         "reviews": [],
         "students": [],
-        "image1xURL": "https://img-a.udemycdn.com/course/240x135/382002_5d4a.jpg",
-        "image2xURL": "https://img-a.udemycdn.com/course/480x270/382002_5d4a.jpg",
-        "image3xURL": "https://img-a.udemycdn.com/course/750x422/382002_5d4a.jpg",
+        "image1xURL": "https://img-b.udemycdn.com/course/240x135/382002_5d4a.jpg",
+        "image2xURL": "https://img-b.udemycdn.com/course/480x270/382002_5d4a.jpg",
+        "image3xURL": "https://img-b.udemycdn.com/course/750x422/382002_5d4a.jpg",
         "discountPrice": 15.99,
         "originalPrice": 174.99,
         "numViews": 0,
-        "curriculum": {}
+        "curriculum": []
     },
     "reviews": [
         {
-            "body": "This course was extremely useful. However, there were some terms which were not explained which was a bit confusing when they were used later on. Also, for some of the challenges, they required use to use code which would be explained later in the course, not at present time. I found myself saying “I didn’t know that I could have done that” often. I had no choice but to look at the solutions in order to find the answer.",
-            "rating": 4.5
+            "body": "Enjoyed the calm and reassuring teaching style by Mosh.\n\nThe content has given me confidence. Thank you",
+            "rating": 5
         },
         {
-            "body": "Beginner's course is flawless. Highly recommend it to anyone. However I wish I could say the same for the Intermediate Class.",
+            "body": "this course was very interesting to watch and learn new things and the exercises help me a lot yo improving my coding.\n\n,thank you sir",
             "rating": 5
+        },
+        {
+            "body": "This course was extremely useful. However, there were some terms which were not explained which was a bit confusing when they were used later on. Also, for some of the challenges, they required use to use code which would be explained later in the course, not at present time. I found myself saying “I didn’t know that I could have done that” often. I had no choice but to look at the solutions in order to find the answer.",
+            "rating": 4.5
         },
         {
             "body": "The course included homework assignments which allowed me to practice what I've learned. I also found it useful that Mosh encourages his students to grow and actively learn both individually and as a part of a community. One thing that I would suggest is to maybe have more homework assignments.",
@@ -35,122 +39,118 @@
             "rating": 5
         },
         {
-            "body": "This course was great!! I just finished a coding bootcamp that covered C# and ASP.NET Core as one of it's stacks and am at my first job. This course has been a great refresher and I have learned a lot of things that I did not learn in the bootcamp. I will continue on to the intermediate course. Thanks Mosh!!",
+            "body": "some concepts are unclear, beginner without any knowledge of programming find some concepts difficult to understand. but it was good course.",
+            "rating": 3
+        },
+        {
+            "body": "Some necessary and complex parts are skipped so fast. Instead of more detailed examples, just fast coding. It would be nice to see all the examples with different types instead of only integer or string.",
+            "rating": 2
+        },
+        {
+            "body": "The whole course is fine and he gives good explanation on many things, the only bad thing is that he keeps insisting on using resharper and I can say 30% of the time is talking about resharper. Sometimes, if you are complete beginner in c# you get defocused on the topic with this resharper talks. Everything else is nice in this course",
+            "rating": 3.5
+        },
+        {
+            "body": "Beginner's course is flawless. Highly recommend it to anyone. However I wish I could say the same for the Intermediate Class.",
             "rating": 5
         },
         {
-            "body": "some concepts are unclear, beginner without any knowledge of programming find some concepts difficult to understand. but it was good course.",
-            "rating": 3
+            "body": "It's a great course that really sticks to what you need to be productive. It omits much of the 'filler' you usually get with beginner courses, which is why the course length is kept low. If you need to get going with C#/.NET quickly, and you have very little spare time, this is the perfect course.\n\nI dropped half a star for Mosh's liberal use of 'var', even Microsoft themselves recommend against using it so casually. Debate on this is almost religious, and it appears experienced programmers have their preferences, but I think to teach the practice to beginners is a mistake.\n\nOtherwise, its a superb course, and I've bought the next two parts on that basis.",
+            "rating": 4.5
         },
         {
             "body": "The is just a remarkable course. I should have taken this one first before the intermediate course. I have learned so much in this basic course, which I consider to be a higher level than I expected, and it is much higher that a basic course. It has definitely given me the confidence I need to return to the intermediate level.",
             "rating": 5
         },
         {
-            "body": "this is my first in course in whole my life even in programming , in this course mosh sir was teaching us very good , thank you sir teaching me CSharp , and my age is 13",
-            "rating": 5
-        },
-        {
-            "body": "Really just the Basics, so as far as that it's really good! Although in 2020 it might be a bit outdated at some parts... very Microsoft Windows oriented at times (need to help yourself on a Mac most times) and even on windows, where there are are old references. The Teaching Assistants do try to give every question an answer to keep the course up to date.\n\nSo a bit cautious about but still excited for the Intermediate and Advanced parts of the course-series to give a full picture.\n\nThank you Mosh!",
-            "rating": 3.5
-        },
-        {
-            "body": "A really quality course which not only teaches you a lot of new things, also makes you feel your own development!",
-            "rating": 5
-        },
-        {
-            "body": "It was a good course for the beginners to programming like myself, but the lecture non primitive type could be more detailed specially classes ,and exercises could have been more of help if they were explained later.\n\nOverall a good course...",
-            "rating": 4
-        },
-        {
-            "body": "This was a great introduction into coding. Very in depth on the fundamentals which is great to see the inner workings before building.",
+            "body": "This course is really fantastic - and most importantly, gets you writing your own code quickly through the set exercises.",
             "rating": 5
         }
     ],
     "students": [
         {
+            "name": "Jason Bench",
+            "email": "jasonbench@gmail.com",
+            "password": "jasonbench",
+            "role": "s",
+            "isConfirmed": true
+        },
+        {
+            "name": "Vedant Pawar",
+            "email": "vedantpawar@gmail.com",
+            "password": "vedantpawar",
+            "role": "s",
+            "isConfirmed": true
+        },
+        {
             "name": "Jean-Paul Ismael",
             "email": "jean-paulismael@gmail.com",
             "password": "jean-paulismael",
             "role": "s",
-"isConfirmed": true
-        },
-        {
-            "name": "Raymond Kim",
-            "email": "raymondkim@gmail.com",
-            "password": "raymondkim",
-            "role": "s",
-"isConfirmed": true
+            "isConfirmed": true
         },
         {
             "name": "Lachezar Georgiev",
             "email": "lachezargeorgiev@gmail.com",
             "password": "lachezargeorgiev",
             "role": "s",
-"isConfirmed": true
+            "isConfirmed": true
         },
         {
             "name": "Doug Gilbert",
             "email": "douggilbert@gmail.com",
             "password": "douggilbert",
             "role": "s",
-"isConfirmed": true
-        },
-        {
-            "name": "EggHead Team",
-            "email": "eggheadteam@gmail.com",
-            "password": "eggheadteam",
-            "role": "s",
-"isConfirmed": true
+            "isConfirmed": true
         },
         {
             "name": "kiran kumar",
             "email": "kirankumar@gmail.com",
             "password": "kirankumar",
             "role": "s",
-"isConfirmed": true
+            "isConfirmed": true
+        },
+        {
+            "name": "Kemal Günel",
+            "email": "kemalgünel@gmail.com",
+            "password": "kemalgünel",
+            "role": "s",
+            "isConfirmed": true
+        },
+        {
+            "name": "Nikola Stevkovski",
+            "email": "nikolastevkovski@gmail.com",
+            "password": "nikolastevkovski",
+            "role": "s",
+            "isConfirmed": true
+        },
+        {
+            "name": "Raymond Kim",
+            "email": "raymondkim@gmail.com",
+            "password": "raymondkim",
+            "role": "s",
+            "isConfirmed": true
+        },
+        {
+            "name": "Dan Chambers",
+            "email": "danchambers@gmail.com",
+            "password": "danchambers",
+            "role": "s",
+            "isConfirmed": true
         },
         {
             "name": "Jerome Hyacinth",
             "email": "jeromehyacinth@gmail.com",
             "password": "jeromehyacinth",
             "role": "s",
-"isConfirmed": true
+            "isConfirmed": true
         },
         {
-            "name": "Mukhtar Zotder",
-            "email": "mukhtarzotder@gmail.com",
-            "password": "mukhtarzotder",
+            "name": "Toby Rice",
+            "email": "tobyrice@gmail.com",
+            "password": "tobyrice",
             "role": "s",
-"isConfirmed": true
-        },
-        {
-            "name": "Csongor Nagy",
-            "email": "csongornagy@gmail.com",
-            "password": "csongornagy",
-            "role": "s",
-"isConfirmed": true
-        },
-        {
-            "name": "Ahmed SARIMEŞE",
-            "email": "ahmedsarimeşe@gmail.com",
-            "password": "ahmedsarimeşe",
-            "role": "s",
-"isConfirmed": true
-        },
-        {
-            "name": "Babur Zaman Khan Mughal",
-            "email": "baburzamankhanmughal@gmail.com",
-            "password": "baburzamankhanmughal",
-            "role": "s",
-"isConfirmed": true
-        },
-        {
-            "name": "Fernando Huamancaja",
-            "email": "fernandohuamancaja@gmail.com",
-            "password": "fernandohuamancaja",
-            "role": "s",
-"isConfirmed": true
+            "isConfirmed": true
         }
     ],
     "instructor": {
@@ -158,7 +158,160 @@
         "email": "moshhamedani@gmail.com",
         "password": "moshhamedani",
         "role": "i",
-"isConfirmed": true,
-        "briefIntroduction": "<p>Hi!&nbsp;My name is Mosh (Moshfegh)&nbsp;Hamedani! I'm a passionate software engineer with two decades of experience and I've taught over 3 million people who to code or how to become professional software engineers through my YouTube channel and online courses. </p><p>My goal is to make software engineering fun and accessible to everyone. That's why my courses are simple, pragmatic and free of BS. </p>"
-    }
+        "briefIntroduction": "<p>Hi!&nbsp;My name is Mosh (Moshfegh)&nbsp;Hamedani! I'm a passionate software engineer with two decades of experience and I've taught over 3 million people who to code or how to become professional software engineers through my YouTube channel and online courses. </p><p>My goal is to make software engineering fun and accessible to everyone. That's why my courses are simple, pragmatic and free of BS. </p>",
+        "isConfirmed": true
+    },
+    "curriculum": [
+        {
+            "sectionName": "Introduction",
+            "unitNames": [
+                "What is this Course",
+                "About Me",
+                "A Note on Taking this Course",
+                "Asking Questions",
+                "Before You Get Started"
+            ]
+        },
+        {
+            "sectionName": "Introduction to C# and .NET Framework",
+            "unitNames": [
+                "Introduction",
+                "C# vs .NET",
+                "What is CLR?",
+                "Architecture of .NET Applications",
+                "Getting Visual Studio",
+                "Our First C# Application",
+                "What is ReSharper?",
+                "Fundamentals of C# and .NET",
+                "Summary"
+            ]
+        },
+        {
+            "sectionName": "Primitive Types and Expressions",
+            "unitNames": [
+                "Introduction",
+                "Variables and Constants",
+                "Overflowing",
+                "Scope",
+                "Demo: Variables and Constants",
+                "Type Conversion",
+                "Demo: Type Conversion",
+                "Operators",
+                "What are Logical Operations?",
+                "Demo: Operators",
+                "Comments",
+                "Primitive Types and Expressions",
+                "Summary"
+            ]
+        },
+        {
+            "sectionName": "Non-Primitive Types",
+            "unitNames": [
+                "Introduction",
+                "Classes",
+                "Demo: Classes",
+                "Structs",
+                "Arrays",
+                "Demo: Arrays",
+                "Strings",
+                "Demo: Strings",
+                "Enums",
+                "Demo: Enums",
+                "Reference Types and Value Types",
+                "Demo: Reference Types and Value Types",
+                "Demo: Reference Types and Value Types",
+                "Non-primitive Types",
+                "Summary"
+            ]
+        },
+        {
+            "sectionName": "Control Flow",
+            "unitNames": [
+                "Introduction",
+                "Conditional Statements",
+                "Demo: If/Else and Switch/Case",
+                "Exercises",
+                "Iteration Statements",
+                "Demo: For Loops",
+                "Demo: Foreach Loops",
+                "Demo: While Loops",
+                "Random Class",
+                "Control Flow",
+                "Exercises",
+                "Summary"
+            ]
+        },
+        {
+            "sectionName": "Arrays and Lists",
+            "unitNames": [
+                "Introduction",
+                "Arrays",
+                "Demo: Arrays",
+                "Lists",
+                "Demo: Lists",
+                "Exercises",
+                "Arrays and Lists",
+                "Summary"
+            ]
+        },
+        {
+            "sectionName": "Working with Dates",
+            "unitNames": [
+                "Introduction",
+                "DateTime",
+                "TimeSpan",
+                "Dates and Times Quiz",
+                "Summary"
+            ]
+        },
+        {
+            "sectionName": "Working with Text",
+            "unitNames": [
+                "Introduction",
+                "String",
+                "Demo: String",
+                "Live Coding: Summarising Text",
+                "StringBuilder",
+                "Demo: StringBuilder",
+                "Working with Text",
+                "Exercises",
+                "Procedural Programming",
+                "Summary"
+            ]
+        },
+        {
+            "sectionName": "Working with Files",
+            "unitNames": [
+                "Introduction",
+                "System.IO Namespace",
+                "Demo: File and FileInfo",
+                "Demo: Directory and DirectoryInfo",
+                "Demo: Path",
+                "Exercises",
+                "Working with Files",
+                "Summary"
+            ]
+        },
+        {
+            "sectionName": "Debugging Applications",
+            "unitNames": [
+                "Introduction",
+                "Debugging Tools in Visual Studio",
+                "Removing Side Effects",
+                "Defensive Programming",
+                "Call Stack Window",
+                "Locals and Autos Windows",
+                "Debugging Applications",
+                "Summary"
+            ]
+        },
+        {
+            "sectionName": "What's Next?",
+            "unitNames": [
+                "What's Next?",
+                "Final Words",
+                "Get My Other Courses with a Discount"
+            ]
+        }
+    ]
 }

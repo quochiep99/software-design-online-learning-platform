@@ -6,7 +6,7 @@
     "course": {
         "title": "The Complete Node.js Developer Course (3rd Edition)",
         "subtitle": "Learn Node.js by building real-world applications with Node, Express, MongoDB, Jest, and more!",
-        "descriptions":  "",
+        "descriptions": [],
         "reviews": [],
         "students": [],
         "image1xURL": "https://img-a.udemycdn.com/course/240x135/922484_52a1_8.jpg",
@@ -15,19 +15,19 @@
         "discountPrice": 11.99,
         "originalPrice": 84.99,
         "numViews": 0,
-        "curriculum": {}
+        "curriculum": []
     },
     "reviews": [
         {
-            "body": "This was by far the best course I've taken at Udemy so far. Andrew really knows how to teach, and I love his coding style. Most importantly, he provides challenges on most videos, really forcing you to learn the material. This, in addition to his clear and concise teaching is what really sets his course apart from all the other really good teachers on Udemy. Furthermore he covers all the essentials in his course material. I really can't find much to complain about in this course.",
+            "body": "I got a deep insight into the tecnology having a lot of fun. His explanations are detailed and at a good pace. So interesting that it has become short!",
             "rating": 5
         },
         {
-            "body": "Awesome teaching skillls , explained thoroughly each concept. I would recommend anyone to go and take this course , this course has almost everything that you will need to know about Nodejs .",
+            "body": "You get so much from this course. The teaching is excellent and the Q&A section is really responsive. Totally worth investing for your NodeJS learning.\n\nThe important improvement I really suggest and request is to add the Front-End side of the Task App in order to complete the app given most of the learners I believe in beginner to intermediate level. For learners, this addition would make their learning much more fulfilled and it is a quite important skill being able to connect Back-End to the Front-End and making it a whole app.\n\nThis course is quite a journey. Thank you Andrew and Adam for making this course for us.",
             "rating": 5
         },
         {
-            "body": "Taking this class was fantastic. Andrew's explanation were so easy to understand, and I like how Andrew's teaching style.\n\nThank you for the knowledge!",
+            "body": "Yes it was a good match for me.",
             "rating": 5
         },
         {
@@ -35,11 +35,23 @@
             "rating": 4.5
         },
         {
-            "body": "One of the best Udemy courses I've taken. I love Andrew's teaching style. He thoroughly explains every concept without ever leaving you lost. He is concise and to the point with his explanation and moves on with the lessons. There's plenty of mini challenges in the course to test your knowledge and keep you engaged. In the end I learned a ton and very happy! Andrew has a true gift for teaching. So thank you so much for teaching me node.js! Onward to learning graphQL with Andrew again!",
+            "body": "This was by far the best course I've taken at Udemy so far. Andrew really knows how to teach, and I love his coding style. Most importantly, he provides challenges on most videos, really forcing you to learn the material. This, in addition to his clear and concise teaching is what really sets his course apart from all the other really good teachers on Udemy. Furthermore he covers all the essentials in his course material. I really can't find much to complain about in this course.",
             "rating": 5
         },
         {
-            "body": "The reason I only gave 4 stars and not 5 is because there was no \"play environment\" where code could be written for exercises - and instead, I had to download the project again and again along with all the installs of libraries and all the mess that it entails...",
+            "body": "Taking this class was fantastic. Andrew's explanation were so easy to understand, and I like how Andrew's teaching style.\n\nThank you for the knowledge!",
+            "rating": 5
+        },
+        {
+            "body": "Pros:\n\n1. Great explanations\n\n2. Not too fast\n\n3. Fantastic value\n\nCons:\n\n1. Pace could get too slow\n\nFantastic value for the course and I definitely recommend it 5/5 stars",
+            "rating": 5
+        },
+        {
+            "body": "This is hands down the best Nodejs course on Udemy. It covers everything. It has helped me jump directly into Mern stack projects tutorials on Udemy. It is best for beginners as well as experience programmers. I have taken various courses on Udemy and there is no one better than Andrew when simplifying difficult concepts. Excellent course and awesome instructor!!",
+            "rating": 5
+        },
+        {
+            "body": "Edit Jan 2nd 2020:\n\nI have now completed 100% of this course.\n\nRating stays intact. Super course. I think Andrew should also get the credit for me completing this course 100%. I think this is the only course where I've wacthed and rewatched every single minute.\n\nAndrew sets a wonderful pace for the course. The challenge format really keeps the course engaging. You can't sit back and get bored as there is a challenge just around the corner.\n\nHe sets the expectations well at the beginning of the course. I think we keep hearing about someone learned webdev in 2 months and became a developer. Maybe someone did. But that is not my reality. It took me a long time to complete this course. But, you've got to find your own pace. It could take you one month or six months. You've got to learn at your own pace to be able to absorb the content.\n\nIt's not just about getting through the content. The key is absorbing the material and being able to apply it.\n\n------\n\nEarlier review when I was about 80% through the course:\n\nI have a lot to say about this course and just wanted to write my review as soon as possible so that anyone out there looking for an excellent teacher to teach you nodejs can stop their search right now and get started.\n\nAndrew deserves the Oscar for Udemy courses :) This is by far the best course I've taken on Udemy.\n\nHere are just some reasons you should take this course:\n\n1. The content is super updated. Seriously - every single video is relevant and everything that Andrew teaches works. No frustration and no figuring out stuff on your own.\n\n2. Challenge format. This is one of the simplest things that instructors can do to boost learning, but Andrew is the one to implement it very well. You cannot go too far in this course without getting your hands dirty and actually learning the material.\n\n3. Questions are answered. Given that this is one of the best selling courses on node on Udemy Andrew answers questions. I was having an issue in section 15 out of 18 sections and it would have been terrible to not get an answer at this point. But, Andrew came in and answered my question and my problem was solved this morning.\n\nI have a couple of suggestions to make your learning in this course better:\n\n1. Watch the videos at your own pace. Don't rush through the course. There were topics that were a little complex where I had to watch the video 2-3 times. Promises, async await, callback pattern. These are different from other programming languages.\n\n2. Don't be afraid to go back and rewatch videos.\n\n3. Take some time off and investigate things on your own. Maybe from some online resource to increase your learning.\n\nBut, the main thing is to stop your search for an excellent node course and jump in right now. That is why I wanted to leave this review here because I was in your spot just a month or so ago. And now I have this reference that i intend to keep coming back to.\n\nThank you Andrew for your hard work and wonderful teaching.\n\nRegards,\n\nTJ.",
             "rating": 5
         },
         {
@@ -47,110 +59,98 @@
             "rating": 4.5
         },
         {
-            "body": "After completion, of the course, I'm putting this review, Explanation is very neat and clean of this course.\n\nI'm glad that I've upgraded my skills, Thanks Andrew for your contribution.",
+            "body": "Andrew is an amazing instructor and Adam was a great TA to see in the Q&A section. This course finally made the backend really click with me, being a frontend developer. I love all the challenges Andrew has along the way to really make sure you're coding something. Fantastic course and will probably do another one from him soon!",
             "rating": 5
         },
         {
-            "body": "One to best tutorial to get started in backend. Very good explanation and best for beginner those who want to learn nodejs.",
-            "rating": 5
-        },
-        {
-            "body": "The teacher is very involved, makes constant updates and is very knowledgable. I really recommend this course. It explains every concept in detail and allows the student to practice what has been seen in class without any overwhelming proyects or homeworks. Thank you for the course!",
-            "rating": 5
-        },
-        {
-            "body": "Great teacher, helped me learning node from scratch. I still have a long way to go to git gud but this course sets the foundation for the whole plethora of topics and helps you stand on your shaky 2 feet when tackling future projects. Definitely recommend this course to anyone who's getting started with nodejs.\n\nThank you Andrew",
-            "rating": 5
-        },
-        {
-            "body": "This was a very good experience. Very well explained like why this should be like that and how things could have been done in a different way. Good job, Andrew! Keep up the good work!",
+            "body": "The course is very well organized. Andrew explains things well, shows you how to do it, then gives challenges for you to do to set up a similar functionality, then goes over that too. The course not only covered node, but he gave good reviews of other things like Postman.",
             "rating": 5
         }
     ],
     "students": [
         {
-            "name": "Mike",
-            "email": "mike@gmail.com",
-            "password": "mike",
+            "name": "Xavier",
+            "email": "xavier@gmail.com",
+            "password": "xavier",
             "role": "s",
-"isConfirmed": true
+            "isConfirmed": true
         },
         {
-            "name": "Ankit Dubey",
-            "email": "ankitdubey@gmail.com",
-            "password": "ankitdubey",
+            "name": "Agus Marsono",
+            "email": "agusmarsono@gmail.com",
+            "password": "agusmarsono",
             "role": "s",
-"isConfirmed": true
+            "isConfirmed": true
         },
         {
-            "name": "Rendi Rinaldi",
-            "email": "rendirinaldi@gmail.com",
-            "password": "rendirinaldi",
+            "name": "Ikechukwu Okanu",
+            "email": "ikechukwuokanu@gmail.com",
+            "password": "ikechukwuokanu",
             "role": "s",
-"isConfirmed": true
+            "isConfirmed": true
         },
         {
             "name": "Akshit Dhir",
             "email": "akshitdhir@gmail.com",
             "password": "akshitdhir",
             "role": "s",
-"isConfirmed": true
+            "isConfirmed": true
         },
         {
-            "name": "Nga La",
-            "email": "ngala@gmail.com",
-            "password": "ngala",
+            "name": "Mike",
+            "email": "mike@gmail.com",
+            "password": "mike",
             "role": "s",
-"isConfirmed": true
+            "isConfirmed": true
         },
         {
-            "name": "Student104",
-            "email": "student104@gmail.com",
-            "password": "student104",
+            "name": "Rendi Rinaldi",
+            "email": "rendirinaldi@gmail.com",
+            "password": "rendirinaldi",
             "role": "s",
-"isConfirmed": true
+            "isConfirmed": true
+        },
+        {
+            "name": "J P",
+            "email": "jp@gmail.com",
+            "password": "jp",
+            "role": "s",
+            "isConfirmed": true
+        },
+        {
+            "name": "Sulav Khadka",
+            "email": "sulavkhadka@gmail.com",
+            "password": "sulavkhadka",
+            "role": "s",
+            "isConfirmed": true
+        },
+        {
+            "name": "TJ Khara",
+            "email": "tjkhara@gmail.com",
+            "password": "tjkhara",
+            "role": "s",
+            "isConfirmed": true
         },
         {
             "name": "Renan Truppel",
             "email": "renantruppel@gmail.com",
             "password": "renantruppel",
             "role": "s",
-"isConfirmed": true
+            "isConfirmed": true
         },
         {
-            "name": "Ranjan Kumar Rai",
-            "email": "ranjankumarrai@gmail.com",
-            "password": "ranjankumarrai",
+            "name": "Christian Garza",
+            "email": "christiangarza@gmail.com",
+            "password": "christiangarza",
             "role": "s",
-"isConfirmed": true
+            "isConfirmed": true
         },
         {
-            "name": "Devanshu Rana",
-            "email": "devanshurana@gmail.com",
-            "password": "devanshurana",
+            "name": "Aaron",
+            "email": "aaron@gmail.com",
+            "password": "aaron",
             "role": "s",
-"isConfirmed": true
-        },
-        {
-            "name": "Daniel Vela Jarquin",
-            "email": "danielvelajarquin@gmail.com",
-            "password": "danielvelajarquin",
-            "role": "s",
-"isConfirmed": true
-        },
-        {
-            "name": "Antonio Vitas",
-            "email": "antoniovitas@gmail.com",
-            "password": "antoniovitas",
-            "role": "s",
-"isConfirmed": true
-        },
-        {
-            "name": "Stefanita Rusu",
-            "email": "stefanitarusu@gmail.com",
-            "password": "stefanitarusu",
-            "role": "s",
-"isConfirmed": true
+            "isConfirmed": true
         }
     ],
     "instructor": {
@@ -158,7 +158,276 @@
         "email": "andrewmead@gmail.com",
         "password": "andrewmead",
         "role": "i",
-"isConfirmed": true,
-        "briefIntroduction": "<p>I'm Andrew, a full-stack developer living in beautiful Philadelphia!</p>\n<p>I launched my first Udemy course in 2014 and had a blast teaching and helping others.&nbsp;<strong class=\"redactor-inline-converted\">Since then, I've launched 3 courses with over 110,000 students and over 18,000&nbsp;5-star reviews</strong><strong>.</strong></p>\n<p><strong></strong>I currently teach JavaScript, React, and Node.</p>\n<p>Before I ever heard about Udemy or thought about teaching, I created a web app development company. I've helped companies of all sizes launch production web applications to their customers. I've had the honor of working with awesome companies like Siemens, Mixergy, and Parkloco.</p>\n<p>I have a Computer Science degree from Temple University, and I've been programming for just over a decade.&nbsp;I love creating, programming, launching, learning,&nbsp;teaching, and biking.</p>\n<p>I can't wait to see you inside one of my courses!</p>"
-    }
+        "briefIntroduction": "<p>I'm Andrew, a full-stack developer living in beautiful Philadelphia!</p>\n<p>I launched my first Udemy course in 2014 and had a blast teaching and helping others.&nbsp;<strong class=\"redactor-inline-converted\">Since then, I've launched 3 courses with over 110,000 students and over 18,000&nbsp;5-star reviews</strong><strong>.</strong></p>\n<p><strong></strong>I currently teach JavaScript, React, and Node.</p>\n<p>Before I ever heard about Udemy or thought about teaching, I created a web app development company. I've helped companies of all sizes launch production web applications to their customers. I've had the honor of working with awesome companies like Siemens, Mixergy, and Parkloco.</p>\n<p>I have a Computer Science degree from Temple University, and I've been programming for just over a decade.&nbsp;I love creating, programming, launching, learning,&nbsp;teaching, and biking.</p>\n<p>I can't wait to see you inside one of my courses!</p>",
+        "isConfirmed": true
+    },
+    "curriculum": [
+        {
+            "sectionName": "Welcome",
+            "unitNames": [
+                "Welcome to the Class!",
+                "Grab the PDF Guide"
+            ]
+        },
+        {
+            "sectionName": "Installing and Exploring Node.js",
+            "unitNames": [
+                "Section Intro: Installing and Exploring Node.js",
+                "Installing Node.js and Visual Studio Code",
+                "What is Node.js?",
+                "Why Should I Use Node.js?",
+                "Your First Node.js Script"
+            ]
+        },
+        {
+            "sectionName": "Node.js Module System (Notes App)",
+            "unitNames": [
+                "Section Intro: Node.js Module System",
+                "Importing Node.js Core Modules",
+                "Importing Your Own Files",
+                "Importing npm Modules",
+                "Printing in Color",
+                "Global npm Modules and nodemon"
+            ]
+        },
+        {
+            "sectionName": "File System and Command Line Args (Notes App)",
+            "unitNames": [
+                "Section Intro: File System and Command Line Args",
+                "Getting Input from Users",
+                "Argument Parsing with Yargs: Part I",
+                "Argument Parsing with Yargs: Part II",
+                "Storing Data with JSON",
+                "Adding a Note",
+                "Removing a Note",
+                "ES6 Aside: Arrow Functions",
+                "Refactoring to Use Arrow Functions",
+                "Listing Notes",
+                "Reading a Note"
+            ]
+        },
+        {
+            "sectionName": "Debugging Node.js (Notes Apps)",
+            "unitNames": [
+                "Section Intro: Debugging Node.js",
+                "Debugging Node.js",
+                "Error Messages"
+            ]
+        },
+        {
+            "sectionName": "Asynchronous Node.js (Weather App)",
+            "unitNames": [
+                "Section Intro: Asynchronous Node.js",
+                "Asynchronous Basics",
+                "Call Stack, Callback Queue, and Event Loop",
+                "Making HTTP Requests",
+                "Customizing HTTP Requests",
+                "An HTTP Request Challenge",
+                "Handling Errors",
+                "The Callback Function",
+                "Callback Abstraction",
+                "Callback Abstraction Challenge",
+                "Callback Chaining",
+                "ES6 Aside: Object Property Shorthand and Destructuring",
+                "Destructuring and Property Shorthand Challenge",
+                "Bonus: HTTP Requests Without a Library"
+            ]
+        },
+        {
+            "sectionName": "Web Servers (Weather App)",
+            "unitNames": [
+                "Section Intro: Web Servers",
+                "Hello Express!",
+                "Serving up HTML and JSON",
+                "Serving up Static Assets",
+                "Serving up CSS, JS, Images, and More",
+                "Dynamic Pages with Templating",
+                "Customizing the Views Directory",
+                "Advanced Templating",
+                "404 Pages",
+                "Styling the Application: Part I",
+                "Styling the Application: Part II"
+            ]
+        },
+        {
+            "sectionName": "Accessing API from Browser  (Weather App)",
+            "unitNames": [
+                "Section Intro: Accessing API from Browser",
+                "The Query String",
+                "Building a JSON HTTP Endpoint",
+                "ES6 Aside: Default Function Parameters",
+                "Browser HTTP Requests with Fetch",
+                "Creating a Search Form",
+                "Wiring up the User Interface"
+            ]
+        },
+        {
+            "sectionName": "Application Deployment (Weather App)",
+            "unitNames": [
+                "Section Intro: Application Deployment",
+                "Joining Heroku and GitHub",
+                "Version Control with Git",
+                "Exploring Git",
+                "Integrating Git",
+                "Setting up SSH Keys",
+                "Pushing Code to GitHub",
+                "Deploying Node.js to Heroku",
+                "New Feature Deployment Workflow",
+                "Avoiding Global Modules"
+            ]
+        },
+        {
+            "sectionName": "MongoDB and Promises (Task App)",
+            "unitNames": [
+                "Section Intro: Databases and Advanced Asynchronous Development",
+                "MongoDB and NoSQL Databases",
+                "Installing MongoDB on macOS and Linux",
+                "Installing MongoDB on Windows",
+                "Installing Database GUI Viewer",
+                "Connecting and Inserting Documents",
+                "Inserting Documents",
+                "The ObjectID",
+                "Querying Documents",
+                "Promises",
+                "Updating Documents",
+                "Deleting Documents"
+            ]
+        },
+        {
+            "sectionName": "REST APIs and Mongoose (Task App)",
+            "unitNames": [
+                "Section Intro: REST APIs and Mongoose",
+                "Setting up Mongoose",
+                "Creating a Mongoose Model",
+                "Data Validation and Sanitization: Part I",
+                "Data Validation and Sanitization: Part II",
+                "Structuring a REST API",
+                "Installing Postman",
+                "Resource Creation Endpoints: Part I",
+                "Resource Creation Endpoints: Part II",
+                "Resource Reading Endpoints: Part I",
+                "Resource Reading Endpoints: Part II",
+                "Promise Chaining",
+                "Promise Chaining Challenge",
+                "Async/Await",
+                "Async/Await: Part II",
+                "Integrating Async/Await",
+                "Resource Updating Endpoints: Part I",
+                "Resource Updating Endpoints: Part II",
+                "Resource Deleting Endpoints",
+                "Separate Route Files"
+            ]
+        },
+        {
+            "sectionName": "API Authentication and Security (Task App)",
+            "unitNames": [
+                "Section Intro: API Authentication and Security",
+                "Securely Storing Passwords: Part I",
+                "Securely Storing Passwords: Part II",
+                "Logging in Users",
+                "JSON Web Tokens",
+                "Generating Authentication Tokens",
+                "Express Middleware",
+                "Accepting Authentication Tokens",
+                "Advanced Postman",
+                "Logging Out",
+                "Hiding Private Data",
+                "Authenticating User Endpoints",
+                "The User/Task Relationship",
+                "Authenticating Task Endpoints",
+                "Cascade Delete Tasks"
+            ]
+        },
+        {
+            "sectionName": "Sorting, Pagination, and Filtering (Task App)",
+            "unitNames": [
+                "Section Intro: Sorting, Pagination, and Filtering",
+                "Working with Timestamps",
+                "Filtering Data",
+                "Paginating Data",
+                "Sorting Data"
+            ]
+        },
+        {
+            "sectionName": "File Uploads (Task App)",
+            "unitNames": [
+                "Section Intro: File Uploads",
+                "Adding Support for File Uploads",
+                "Validating File Uploads",
+                "Validation Challenge",
+                "Handling Express Errors",
+                "Adding Images to User Profile",
+                "Serving up Files",
+                "Auto-Cropping and Image Formatting"
+            ]
+        },
+        {
+            "sectionName": "Sending Emails (Task App)",
+            "unitNames": [
+                "Section Intro: Sending Emails",
+                "Exploring SendGrid",
+                "Sending Welcome and Cancelation Emails",
+                "Environment Variables",
+                "Creating a Production MongoDB Database",
+                "Heroku Deployment"
+            ]
+        },
+        {
+            "sectionName": "Testing Node.js (Task App)",
+            "unitNames": [
+                "Section Intro: Testing Node.js",
+                "Jest Testing Framework",
+                "Writing Tests and Assertions",
+                "Writing Your Own Tests",
+                "Testing Asynchronous Code",
+                "Testing an Express Application: Part I",
+                "Testing an Express Application: Part II",
+                "Jest Setup and Teardown",
+                "Testing with Authentication",
+                "Advanced Assertions",
+                "Mocking Libraries",
+                "Wrapping up User Tests",
+                "Setup Task Test Suite",
+                "Testing with Task Data",
+                "Bonus: Extra Test Ideas"
+            ]
+        },
+        {
+            "sectionName": "Real-Time Web Applications with Socket.io (Chat App)",
+            "unitNames": [
+                "Section Intro: Real-Time Web Applications with Socket.io",
+                "Creating the Chat App Project",
+                "WebSockets",
+                "Getting Started with Socket.io",
+                "Socket.io Events",
+                "Socket.io Events Challenge",
+                "Broadcasting Events",
+                "Sharing Your Location",
+                "Event Acknowledgements",
+                "Form and Button States",
+                "Rendering Messages",
+                "Rendering Location Messages",
+                "Working with Time",
+                "Timestamps for Location Messages",
+                "Styling the Chat App",
+                "Join Page",
+                "Socket.io Rooms",
+                "Storing Users: Part I",
+                "Storing Users: Part II",
+                "Tracking Users Joining and Leaving",
+                "Sending Messages to Rooms",
+                "Rendering User List",
+                "Automatic Scrolling",
+                "Deploying the Chat Application"
+            ]
+        },
+        {
+            "sectionName": "Wrapping Up",
+            "unitNames": [
+                "Section Intro",
+                "New Feature Ideas",
+                "Bonus: What should I learn next?"
+            ]
+        }
+    ]
 }
