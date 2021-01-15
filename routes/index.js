@@ -349,26 +349,31 @@ router.get("/my-courses/learning", middleware.ensureAuthenticated, async (req, r
 
 })
 
-router.post("/my-courses/status", middleware.ensureAuthenticated, async (req, res) => {
+router.post("/my-courses/courseStatus", middleware.ensureAuthenticated, async (req, res) => {
     const courseId = req.body.courseId;
     const user = req.user;
     const e = {};
     var alreadyExist = false;
+    var courseStatus = false;
     // Check if the course that we want to mark as completed already exists in the list    
     for (var i = 0; i < user.enrolledCoursesStatus.length; i++) {
         if (courseId in user.enrolledCoursesStatus[i]) {
-            user.enrolledCoursesStatus[i][courseId] = "complete";
+            // already exists, toggle its status            
+            user.enrolledCoursesStatus[i][courseId] = !user.enrolledCoursesStatus[i][courseId];
+            courseStatus = user.enrolledCoursesStatus[i][courseId];
             alreadyExist = true;
             break;
         }
     }
     // if not then we add it
     if (!alreadyExist) {
-        e[courseId] = "completed";
+        e[courseId] = true;
+        courseStatus = true;
         user.enrolledCoursesStatus.push(e);
     }
+    user.markModified("enrolledCoursesStatus");
     await user.save();
-    res.send("success");
+    res.send(courseStatus);
 })
 
 // wishlisted courses

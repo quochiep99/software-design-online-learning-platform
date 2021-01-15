@@ -156,15 +156,19 @@ if (document.querySelector("#reviewRatings")) {
 document.querySelectorAll(".enrolledCourseStatus").forEach(e => {
     e.addEventListener("click", () => {
         const courseId = e.id;
-        $.post("/my-courses/status",
+        $.post("/my-courses/courseStatus",
             {
                 courseId: courseId
             },
             (data, status) => {
-                if (status === "success") {
+                if (data) {
                     e.children[0].textContent = "Completed"
                     e.children[0].style.color = "#fff";
                     e.children[0].style.background = "#662d91";
+                } else {
+                    e.children[0].textContent = "Mark as completed"
+                    e.children[0].style.color = "#662d91";
+                    e.children[0].style.background = "#fff";
                 }
 
             }
