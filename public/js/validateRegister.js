@@ -5,44 +5,54 @@ const password = document.getElementById('password');
 const rePassword = document.getElementById('re_password');
 
 signupForm.addEventListener('submit', e => {
-	e.preventDefault();	
-	checkInputs();
+	e.preventDefault();
+	if (checkInputs()) {
+		signupForm.submit();
+	}
 });
 
 function checkInputs() {
+	var isValidFormInput = true;
 	// trim to remove the whitespaces
 	const nameValue = fullName.value.trim();
 	const emailValue = email.value.trim();
 	const passwordValue = password.value.trim();
 	const rePasswordValue = rePassword.value.trim();
-	
-	if(nameValue === '') {
+
+	if (nameValue === '') {
 		setErrorFor(fullName, 'Full name cannot be blank');
+		isValidFormInput = false;
 	} else {
 		setSuccessFor(fullName);
 	}
-	
-	if(emailValue === '') {
+
+	if (emailValue === '') {
 		setErrorFor(email, 'Email cannot be blank');
+		isValidFormInput = false;
 	} else if (!isEmail(emailValue)) {
 		setErrorFor(email, 'Not a valid email');
+		isValidFormInput = false;
 	} else {
 		setSuccessFor(email);
 	}
-	
-	if(passwordValue === '') {
+
+	if (passwordValue === '') {
 		setErrorFor(password, 'Password cannot be blank');
+		isValidFormInput = false;
 	} else {
 		setSuccessFor(password);
 	}
-	
-	if(rePasswordValue === '') {
+
+	if (rePasswordValue === '') {
 		setErrorFor(rePassword, 'Confirmed password cannot be blank');
-	} else if(passwordValue !== rePasswordValue) {
+		isValidFormInput = false;
+	} else if (passwordValue !== rePasswordValue) {
 		setErrorFor(rePassword, 'Passwords do not match');
-	} else{
+		isValidFormInput = false;
+	} else {
 		setSuccessFor(rePassword);
 	}
+	return isValidFormInput
 }
 
 function setErrorFor(input, message) {
@@ -56,7 +66,7 @@ function setSuccessFor(input) {
 	const formGroup = input.parentElement;
 	formGroup.className = 'form-group success';
 }
-	
+
 function isEmail(email) {
 	return /^(([^<>()\[\]\\.,;:\s@"]+(\.[^<>()\[\]\\.,;:\s@"]+)*)|(".+"))@((\[[0-9]{1,3}\.[0-9]{1,3}\.[0-9]{1,3}\.[0-9]{1,3}])|(([a-zA-Z\-0-9]+\.)+[a-zA-Z]{2,}))$/.test(email);
 }

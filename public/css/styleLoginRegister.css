@@ -504,14 +504,14 @@ input[type=checkbox]:not(old):checked+label>span:before {
 } */
 
 .form-group {
-	margin-bottom: 10px;
-	padding-bottom: 20px;
-	position: relative;
+  margin-bottom: 10px;
+  padding-bottom: 20px;
+  position: relative;
 }
 
 .form-group label {
-	display: inline-block;
-	margin-bottom: 5px;
+  display: inline-block;
+  margin-bottom: 5px;
 }
 
 /* .form-group input {
@@ -525,16 +525,16 @@ input[type=checkbox]:not(old):checked+label>span:before {
 } */
 
 .form-group input:focus {
-	outline: 0;
-	border-color: #777;
+  outline: 0;
+  border-color: #777;
 }
 
 .form-group.success input {
-	border-color: #2ecc71;
+  border-color: #2ecc71;
 }
 
 .form-group.error input {
-	border-color: #e74c3c;
+  border-color: #e74c3c;
 }
 
 .form-group i {
@@ -545,37 +545,37 @@ input[type=checkbox]:not(old):checked+label>span:before {
 }
 
 .form-group.success i.fa-check-circle {
-	color: #2ecc71;
-	visibility: visible;
+  color: #2ecc71;
+  visibility: visible;
 }
 
 .form-group.error i.fa-exclamation-circle {
-	color: #e74c3c;
-	visibility: visible;
+  color: #e74c3c;
+  visibility: visible;
 }
 
 .form-group small {
-	color: #e74c3c;
-	position: absolute;
-	bottom: 0;
-	left: 0;
-	visibility: hidden;
+  color: #e74c3c;
+  position: absolute;
+  bottom: 0;
+  left: 0;
+  visibility: hidden;
 }
 
 .form-group.error small {
-	visibility: visible;
+  visibility: visible;
 }
 
 .form button {
-	background-color: #8e44ad;
-	border: 2px solid #8e44ad;
-	border-radius: 4px;
-	color: #fff;
-	display: block;
-	font-family: inherit;
-	font-size: 16px;
-	padding: 10px;
-	margin-top: 20px;
-	width: 100%;
+  background-color: #8e44ad;
+  border: 2px solid #8e44ad;
+  border-radius: 4px;
+  color: #fff;
+  display: block;
+  font-family: inherit;
+  font-size: 16px;
+  padding: 10px;
+  margin-top: 20px;
+  width: 100%;
 }
 
