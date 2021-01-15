@@ -410,6 +410,10 @@ router.get("/profile", middleware.ensureAuthenticated, (req, res) => {
 })
 
 router.post("/profile/basic-information", middleware.ensureAuthenticated, async (req, res) => {
+    if (await User.findOne({email: req.body.email})) {
+        req.flash("error_msg","This email already exists !");
+        return res.redirect("/profile");
+    }
     const name = req.body.name;
     const email = req.body.email;
     const isInstructor = req.user.role === "i" ? true : false;
@@ -444,7 +448,7 @@ router.post("/profile/account-security", middleware.ensureAuthenticated, async (
             if (newPassword === currentPassword) {
                 req.flash("error_msg", "You are entering old password. Please enter another one !");
                 return res.redirect("/profile");
-            } else if (newPassword === confirmedPassword) {
+            } else if (newPassword === confirmedPassword) {                
                 const salt = await bcrypt.genSalt(10);
                 const newHashedPassword = await bcrypt.hash(newPassword, salt);
                 user.password = newHashedPassword;
