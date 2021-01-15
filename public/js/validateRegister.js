@@ -7,7 +7,21 @@ const rePassword = document.getElementById('re_password');
 signupForm.addEventListener('submit', e => {
 	e.preventDefault();
 	if (checkInputs()) {
-		signupForm.submit();
+		$.ajax({
+			type: "POST",
+			url: '/ajax-register',
+			data: { email: email.value },
+			contentType: 'application/x-www-form-urlencoded; charset=UTF-8',
+			success: function (response) {				
+				console.log(response);
+				console.log(!!response);
+				if (response==="This email already exists !") {
+					setErrorFor(email, response);
+				} else if (response==="Email is available !"){
+					signupForm.submit();
+				}
+			}
+		});
 	}
 });
 

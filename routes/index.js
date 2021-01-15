@@ -104,6 +104,14 @@ router.get("/", async (req, res) => {
 router.get("/register", (req, res) => {
     res.render("register", { layout: false });
 })
+router.post("/ajax-register", async (req, res) => {
+    const user = await User.findOne({ email:req.body.email });
+    if (user) {
+        res.send("This email already exists !");
+    } else {
+        res.send("Email is available !");
+    }
+})
 router.post("/register", async (req, res) => {
     try {
         const { name, email, password, re_password } = req.body;
