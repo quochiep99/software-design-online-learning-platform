@@ -6,7 +6,7 @@
     "course": {
         "title": "Unreal Engine 4 Mastery: Create Multiplayer Games with C++",
         "subtitle": "Unleash the power of C++ and Blueprint to develop Multiplayer Games with AI in this Epic Games-approved course.",
-        "descriptions":  "",
+        "descriptions": [],
         "reviews": [],
         "students": [],
         "image1xURL": "https://img-a.udemycdn.com/course/240x135/1334868_f4f7_10.jpg",
@@ -15,142 +15,142 @@
         "discountPrice": 11.99,
         "originalPrice": 129.99,
         "numViews": 0,
-        "curriculum": {}
+        "curriculum": []
     },
     "reviews": [
         {
-            "body": "I learned a lot of new things about Unreal, the behaviour trees, EQS and such. I liked that there were actual projects being worked through from start to finish. Towards the later lessons, it sometimes seemed that the lecturer was a bit in a hurry. I was following along step-by-step and often the current line of code was finished and scrolled away before I could examine it. Fortunately it was always possible to rewind a little.\n\nOn one hand it was a bit annoying that the lector often the names of classes or blueprints after already creating them, on the other hand I understand that this is all part and parcel of game development. I also liked that there were actual errors on screen so that troubleshooting those could also be practiced.\n\nAltogether, I enjoyed the course very much!",
-            "rating": 4.5
+            "body": "Great course. goes by fast, a few bugs but all are easily solved in the comments of each lecture and are due to changes in unreal engine since the course was created. Tom is a great teacher. He's very fast and covers a ton of topics.",
+            "rating": 5
+        },
+        {
+            "body": "Excellent course, a lot of info very compacted and ready to serve. Very useful to people who wants to learn UE and only knows the basics like me.",
+            "rating": 5
+        },
+        {
+            "body": "Good course. Learned a decent amount about unreal and programming for unreal, but I would've liked to see more information for multiplayer functionality as this is labeled a \"Mastery\" course. Other than that some of the info was outdated and had to look into the Q&A for some fixes.",
+            "rating": 4
+        },
+        {
+            "body": "Pretty good but it's starting to get a little dated. I had to look up some new best practices but honestly anyone who had a little programing experience (as you would expect with someone choosing to use c++) could easily troubleshoot.",
+            "rating": 4
+        },
+        {
+            "body": "Great Course. I am still learning but this course definitely helped me in my journey to becoming a Game Developer. Highly recommend the course and hope Tom will create more content and courses in the future!",
+            "rating": 5
+        },
+        {
+            "body": "He basically just code without showing a roadmap of what he intends to code and explain the logic behind it. Also here and there I ran into problems with compiling, which I couldn't solve and couldn't find any solution online. Maybe this was working a while back but not anymore.",
+            "rating": 2
         },
         {
             "body": "Tom is really a good teacher, everything he taught in this course is quite helpful to understand Unreal Engine and i am glad that i took this course.",
             "rating": 5
         },
         {
-            "body": "Very good course. However the multiplayer/replication parts were not very well explained (imo). I learn better from figures and stuff but Tom focused more on coding and showed some examples here and there. So you will need to learn the concepts elsewhere if you need full understanding of how the unreal multiplayer networking works. Overall, a very good course. Would recommend to a friend!",
-            "rating": 4.5
-        },
-        {
-            "body": "An iIncredible course covering a wide range of topics and helps you build the fundamentals of two common videogame genres: Stealth and Shooter.\n\nHe covers each subject in-depth and gives plenty of practical examples and opportunities for you to improve and apply what you have learnt.\n\nBy the end of the course you'll have two functional prototypes that you can expand on or even combine into a single game.\n\nTom provides a clear briefing prior to each section and provides clear understanding and enthusiasm in the lessons.",
-            "rating": 5
-        },
-        {
-            "body": "It was great, it was summarize of my knowledge and beyond that as developer I also discover some great tool\n\nBut I expected some Sections about UI. Launch Server and Join Server",
-            "rating": 5
-        },
-        {
-            "body": "This is a great course for someone to learn how to make games with C++ and Unreal Engine. Tom is great at explaining things. I used version 4.24 and had to figure out somethings that have changed. The great part is you can check the Git repo and Tom has updated the code for 4.25 version.\n\nGreat course and I have learned so much. The EQS and advanced AI section was great.",
-            "rating": 5
+            "body": "Многие аспекты требуют раскрытого пояснения на примерах. Очень нахватает этого. Иногда автор мешает с++ и blueprints, хотя постоянно говорит, что это курс о c++.",
+            "rating": 4
         },
         {
             "body": "The information and overall learning experience was good. Easily 5 stars if it was updated to keep up with current Unreal Engine version (or at least not as old as 8 versions back). However, the content is out dated in many lectures. And there's loads potential bugs and errors. In fact in the last lecture He gets an error in the editor which he completely ignores and didn't even tell us what it was and how to fix it. In my case I use 4.26p with VS2019. I ended up with many errors on things like an Array error, or some classes don't even exist, warnings about debricated functions.. and few more. Luckily I know Blueprint so I tried to fix as much as I could but it would be great if the lecturer actually keeps this great course up to date.\n\nFinally, I really would have loved this course if the lecturer actually communicate with us and answer our questions.\n\nOverall, great course but be ready to fix a lot of problems yourself. So, rely too much on his methods as you'll find many things he does are outdated!",
             "rating": 3
         },
         {
+            "body": "An iIncredible course covering a wide range of topics and helps you build the fundamentals of two common videogame genres: Stealth and Shooter.\n\nHe covers each subject in-depth and gives plenty of practical examples and opportunities for you to improve and apply what you have learnt.\n\nBy the end of the course you'll have two functional prototypes that you can expand on or even combine into a single game.\n\nTom provides a clear briefing prior to each section and provides clear understanding and enthusiasm in the lessons.",
+            "rating": 5
+        },
+        {
             "body": "The instructor is very clear.\n\nIf you plan on using the most up to date engine, you will run into some issues. However, all of the QA's for each lecture have and up to date method.\n\nTom still replies to questions which is always a big help!",
             "rating": 5
         },
         {
-            "body": "Tom Looman is a great instructor because he explains all steps rather than simply expecting me to follow along. I actually understand what I’m doing so I can implement what I’ve learned in my own way on my projects in the future. He also replies to his questions section in a reasonable time frame. His course is very well done.",
+            "body": "This is a great course for someone to learn how to make games with C++ and Unreal Engine. Tom is great at explaining things. I used version 4.24 and had to figure out somethings that have changed. The great part is you can check the Git repo and Tom has updated the code for 4.25 version.\n\nGreat course and I have learned so much. The EQS and advanced AI section was great.",
             "rating": 5
-        },
-        {
-            "body": "It was exactly what I was looking for, it helped me train my C++, I learned a lot of UE4's C++ and gave me many useful tools to face different and varied problems and features.\n\nLast but not the least the teacher looks very experienced and keeps answering the questions and updating the resources to the course!",
-            "rating": 5
-        },
-        {
-            "body": "El curso es perfecto para comenzar a utilizar el engine y acabas haciendo varios minijuegos. Tambien te enseña a replicarlo por red pero aunque no te interese hacer un juego online recomiendo el curso porque te enseña primero a hacerlo en single player. El profesor, Tom Looman, explica todos los temas de forma super clara, le doy un 10!",
-            "rating": 5
-        },
-        {
-            "body": "Went a bit to quickly at times and felt like I was consitently pausing the video.\n\nWith little experience of UE4 so far I felt like the techniques he was using were not optimised or best practice and started to teach people bad practices like copy and pasting code.\n\nSome lectures just cut off immedietly and it seemed like he was in mid sentence.",
-            "rating": 3
         }
     ],
     "students": [
         {
-            "name": "Sander Liivandi",
-            "email": "sanderliivandi@gmail.com",
-            "password": "sanderliivandi",
+            "name": "Joren Winge",
+            "email": "jorenwinge@gmail.com",
+            "password": "jorenwinge",
             "role": "s",
-"isConfirmed": true
+            "isConfirmed": true
+        },
+        {
+            "name": "Toni Tellez",
+            "email": "tonitellez@gmail.com",
+            "password": "tonitellez",
+            "role": "s",
+            "isConfirmed": true
+        },
+        {
+            "name": "Christopher Munguia",
+            "email": "christophermunguia@gmail.com",
+            "password": "christophermunguia",
+            "role": "s",
+            "isConfirmed": true
+        },
+        {
+            "name": "TommyHanusa",
+            "email": "tommyhanusa@gmail.com",
+            "password": "tommyhanusa",
+            "role": "s",
+            "isConfirmed": true
+        },
+        {
+            "name": "Eric S.",
+            "email": "erics.@gmail.com",
+            "password": "erics.",
+            "role": "s",
+            "isConfirmed": true
+        },
+        {
+            "name": "David Barel",
+            "email": "davidbarel@gmail.com",
+            "password": "davidbarel",
+            "role": "s",
+            "isConfirmed": true
         },
         {
             "name": "Muhammad Asad",
             "email": "muhammadasad@gmail.com",
             "password": "muhammadasad",
             "role": "s",
-"isConfirmed": true
+            "isConfirmed": true
         },
         {
-            "name": "Harsh Jalutharia",
-            "email": "harshjalutharia@gmail.com",
-            "password": "harshjalutharia",
+            "name": "Митрохин Евгений",
+            "email": "митрохиневгений@gmail.com",
+            "password": "митрохиневгений",
             "role": "s",
-"isConfirmed": true
-        },
-        {
-            "name": "Kieran Latham",
-            "email": "kieranlatham@gmail.com",
-            "password": "kieranlatham",
-            "role": "s",
-"isConfirmed": true
-        },
-        {
-            "name": "Levan Phirtskhalava",
-            "email": "levanphirtskhalava@gmail.com",
-            "password": "levanphirtskhalava",
-            "role": "s",
-"isConfirmed": true
-        },
-        {
-            "name": "Chris Hall",
-            "email": "chrishall@gmail.com",
-            "password": "chrishall",
-            "role": "s",
-"isConfirmed": true
+            "isConfirmed": true
         },
         {
             "name": "Raed Abbas",
             "email": "raedabbas@gmail.com",
             "password": "raedabbas",
             "role": "s",
-"isConfirmed": true
+            "isConfirmed": true
+        },
+        {
+            "name": "Kieran Latham",
+            "email": "kieranlatham@gmail.com",
+            "password": "kieranlatham",
+            "role": "s",
+            "isConfirmed": true
         },
         {
             "name": "M I",
             "email": "mi@gmail.com",
             "password": "mi",
             "role": "s",
-"isConfirmed": true
+            "isConfirmed": true
         },
         {
-            "name": "Drew",
-            "email": "drew@gmail.com",
-            "password": "drew",
+            "name": "Chris Hall",
+            "email": "chrishall@gmail.com",
+            "password": "chrishall",
             "role": "s",
-"isConfirmed": true
-        },
-        {
-            "name": "Davide Tucci",
-            "email": "davidetucci@gmail.com",
-            "password": "davidetucci",
-            "role": "s",
-"isConfirmed": true
-        },
-        {
-            "name": "Cristian Fernández Suárez",
-            "email": "cristianfernándezsuárez@gmail.com",
-            "password": "cristianfernándezsuárez",
-            "role": "s",
-"isConfirmed": true
-        },
-        {
-            "name": "Kieran Grist",
-            "email": "kierangrist@gmail.com",
-            "password": "kierangrist",
-            "role": "s",
-"isConfirmed": true
+            "isConfirmed": true
         }
     ],
     "instructor": {
@@ -158,7 +158,231 @@
         "email": "tomlooman@gmail.com",
         "password": "tomlooman",
         "role": "i",
-"isConfirmed": true,
-        "briefIntroduction": "<p>Hi, my name is Tom. I'm a game developer who has worked with Unreal Engine 4 since day 1, both as an indie developer and as an engineer at Epic Games, the creators of Unreal Engine 4! Over the years I <strong>created 70+ tutorials and samples</strong> for the Unreal Engine community!<br></p><p>Through my courses I hope to teach you some of what I learned over the years and help you get started building your very own games! I enjoy explaining concepts by going hands-on and showing by example. I’m passionate about taking seemingly difficult concepts and boiling them down into simple to follow guides. My goal is to make game development approachable to anyone who is willing to learn. </p><p>Besides teaching and writing about games, I work on games every day, which keeps me up-to-date on Unreal Engine 4, C++, and the game creation process. I learn new things every day, which I then apply to my courses. </p><p><strong>Join me on this game development adventure, and I hope to&nbsp;see you in one of my courses!</strong></p><p><br></p>"
-    }
+        "briefIntroduction": "<p>Hi, my name is Tom. I'm a game developer who has worked with Unreal Engine 4 since day 1, both as an indie developer and as an engineer at Epic Games, the creators of Unreal Engine 4! Over the years I <strong>created 70+ tutorials and samples</strong> for the Unreal Engine community!<br></p><p>Through my courses I hope to teach you some of what I learned over the years and help you get started building your very own games! I enjoy explaining concepts by going hands-on and showing by example. I’m passionate about taking seemingly difficult concepts and boiling them down into simple to follow guides. My goal is to make game development approachable to anyone who is willing to learn. </p><p>Besides teaching and writing about games, I work on games every day, which keeps me up-to-date on Unreal Engine 4, C++, and the game creation process. I learn new things every day, which I then apply to my courses. </p><p><strong>Join me on this game development adventure, and I hope to&nbsp;see you in one of my courses!</strong></p><p><br></p>",
+        "isConfirmed": true
+    },
+    "curriculum": [
+        {
+            "sectionName": "Introduction & Set Up",
+            "unitNames": [
+                "Welcome",
+                "Set Up",
+                "Setup Visual Studio 2017 or 2019",
+                "Setup Visual Assist",
+                "Get the most out of this course",
+                "Activity: Add Explosions to Template Project"
+            ]
+        },
+        {
+            "sectionName": "Stealth Game 1: Project Basics",
+            "unitNames": [
+                "Introduction",
+                "Setup Template Project",
+                "Create C++ Class",
+                "Setup ActorComponents",
+                "Setup Collision and Overlap Event",
+                "Pickup Objective Actor",
+                "Setup Objective UI with UMG",
+                "Challenge: Create a Black Hole",
+                "Bonus: Troubleshooting"
+            ]
+        },
+        {
+            "sectionName": "Stealth Game 2: GameMode Rules",
+            "unitNames": [
+                "Introduction",
+                "Create Extraction Zone",
+                "Polish Extraction Zone",
+                "Setup Mission End",
+                "Add Extraction Feedback",
+                "Setup Post-mission Camera",
+                "Challenge: Create a Launch Pad"
+            ]
+        },
+        {
+            "sectionName": "Stealth Game 3: AI Guards",
+            "unitNames": [
+                "Introduction",
+                "Create AI Guard Class",
+                "Setup Sight Sense",
+                "Setup Hearing Sense",
+                "Add Noise making to Projectile",
+                "Setup Guard Distraction",
+                "Add game-over trigger when spotted",
+                "Add 3D UI state above Guard",
+                "Challenge: Setup AI Guard Patrol"
+            ]
+        },
+        {
+            "sectionName": "Stealth Game 4: Multiplayer Support",
+            "unitNames": [
+                "Introduction",
+                "Prepare the Mission",
+                "Network the Projectile",
+                "Network Player View Pitch",
+                "Network the Objective Actor",
+                "Network the AI Guards",
+                "Network the Game State Part 1",
+                "Network the Game State Part 2",
+                "Network the Game State Part 3",
+                "Activity: Play with a friend!"
+            ]
+        },
+        {
+            "sectionName": "Coop Game 1: Introduction & Player Setup",
+            "unitNames": [
+                "Introduction",
+                "Create C++ Project",
+                "Create The Player Class",
+                "Add Movement Input",
+                "Add Mouse Look",
+                "Third Person Camera Part 1",
+                "Third Person Camera Part 2",
+                "Add Player Mesh",
+                "Add Crouch",
+                "Add Character Animations",
+                "Challenge: Setup Player Jump"
+            ]
+        },
+        {
+            "sectionName": "Coop Game 2: Weapon Basics",
+            "unitNames": [
+                "Introduction",
+                "Create Weapon Class",
+                "Import Weapon Mesh",
+                "Line Tracing Part 1",
+                "Line Tracing Part 2",
+                "Apply Damage to Actors",
+                "Create a Target Dummy",
+                "Add Muzzle and Impact Effects",
+                "Create Smoke Beam Effect",
+                "Add Simple Crosshair",
+                "Challenge: Create your own Grenade Launcher"
+            ]
+        },
+        {
+            "sectionName": "Coop Game 3: Weapon Extras",
+            "unitNames": [
+                "Introduction",
+                "Add Aiming Down Sights",
+                "Create Debug Console Variables",
+                "Polish Weapon Code",
+                "Shake Camera While Firing",
+                "Setup Custom Surface Types",
+                "Add Multiple Hit Effect Types",
+                "Add Custom Collision Channel",
+                "Apply Headshot Bonus Damage",
+                "Setup Automatic Fire",
+                "Activity: Design and code your own weapon feature"
+            ]
+        },
+        {
+            "sectionName": "Coop Game 4: Hitpoints and Death",
+            "unitNames": [
+                "Introduction",
+                "Create Health Component",
+                "Handle Damage Events",
+                "Add Custom Event",
+                "Add Death Animation",
+                "Create 'Gears of War'-style Health Indicator Material",
+                "Create Health Widget in UMG",
+                "Challenge: Create an Explosive Barrel"
+            ]
+        },
+        {
+            "sectionName": "Coop Game 5: Game Networking",
+            "unitNames": [
+                "Introduction",
+                "Play the Game in Multiplayer",
+                "Replicate Weapon Code Part 1",
+                "Replicate Weapon Code Part 2",
+                "Replicate Weapon Code Part 3",
+                "Replicate Weapon Code Part 4",
+                "Replicate Health & Death",
+                "Challenge: Replicate the Explosive Barrel"
+            ]
+        },
+        {
+            "sectionName": "Coop Game 6: Basic AI",
+            "unitNames": [
+                "Introduction",
+                "Setup AI Pawn and Navigation Mesh",
+                "Add Move-to Logic",
+                "Move Pawn Using Forces",
+                "Add TakeDamage Support",
+                "Pulse Material on TakeDamage",
+                "Add Self-Destruct",
+                "Explode When Near Player",
+                "Setup Sound Effects Part 1",
+                "Setup Sound Effects Part 2",
+                "Setup Network Replication Part  1",
+                "Setup Network Replication Part  2",
+                "Challenge: Increase AI Damage when near other bots"
+            ]
+        },
+        {
+            "sectionName": "Coop Game 7: Power-ups",
+            "unitNames": [
+                "Introduction",
+                "Create the Pickup Class",
+                "Create the Power-up Class",
+                "Activity: Brainstorm Cool Power-up Ideas",
+                "Create Power-up \"SuperSpeed\"",
+                "Add Power-ups to PickupActor",
+                "Finish the \"SuperSpeed\" Power-up",
+                "Create 'Health Regeneration' Power-up",
+                "Polish the Power-ups",
+                "Replicate Power-ups for Multiplayer Part 1",
+                "Update Power-ups with base class",
+                "Replicate Power-ups for Multiplayer Part 2",
+                "Activity: Build Your Power-up Idea!"
+            ]
+        },
+        {
+            "sectionName": "Coop Game 8: GameMode Setup",
+            "unitNames": [
+                "Introduction",
+                "Create GameMode Class",
+                "Setup The Environment Query System",
+                "Spawn AI using EQS",
+                "Add Wave Based Spawning",
+                "Complete the Wave Logic",
+                "Create Game Over state",
+                "Add WaveStates",
+                "Replicate WaveState to all players",
+                "Add Score for Kills",
+                "Optional: Use BSP-Tools for Level Blockouts",
+                "Activity: Create your own level",
+                "Setup Level For Gameplay",
+                "Respawn Dead Players"
+            ]
+        },
+        {
+            "sectionName": "Coop Game 9: Advanced AI",
+            "unitNames": [
+                "Introduction",
+                "Setup AI Class and Behavior Tree",
+                "Setup Movement using EQS Queries",
+                "Create Custom Behavior Tree Decorator",
+                "Finish the AI Movement",
+                "Add Sight Perception",
+                "Move To nearest player using EQS",
+                "Setup AI Weapon Fire",
+                "Add Bullet Spread to Weapon",
+                "Add Advanced AI to Wave Spawns",
+                "Setup Teams and Friendly Fire",
+                "Improve Target Selection",
+                "Bonus: Polish the Tracker Bot",
+                "Challenge: Make AI Flee to Cover when Low Health"
+            ]
+        },
+        {
+            "sectionName": "Course Conclusion",
+            "unitNames": [
+                "Conclusion",
+                "Package & Play your game!",
+                "Your Next Steps!"
+            ]
+        }
+    ]
 }

@@ -6,7 +6,7 @@
     "course": {
         "title": "Blender Character Creator v2.0 for Video Games Design",
         "subtitle": "Model Video Game Characters. Use The Sculpt Tool To Shape, Add Texture, Rig & Animate Video Game Characters",
-        "descriptions":  "",
+        "descriptions": [],
         "reviews": [],
         "students": [],
         "image1xURL": "https://img-a.udemycdn.com/course/240x135/1356020_2c30_4.jpg",
@@ -15,15 +15,19 @@
         "discountPrice": 11.99,
         "originalPrice": 129.99,
         "numViews": 0,
-        "curriculum": {}
+        "curriculum": []
     },
     "reviews": [
         {
-            "body": "I do not know if I will ever be able praise this course enough. I have been drawing characters for video games for as long as I can remember. This game has helped me achieve my childhood dream of creating my first video game character. I have dabbled in Blender for years but felt I lacked the right guidance to see a character design through. Not only was the curriculum well thought out, but the encouragement from these instructors was phenomenal. The small exercises thrown in were a terrific touch and really gave the student an opportunity to explore their own method for modeling/sculpting before following the technique of a skilled mentor. Thank you for helping me to fulfill a long sought after goal!",
+            "body": "The course is for beginners and it is really well made. The best thing about it is that it covers every aspect of creation.\n\nA couple of notes: it covers how to add animations to a character (But it doesn't cover how to animate it yourself); it shows how to do retopology (But it doesn't go into the details of doing it the proper way).\n\nRegarding the notes, animation and retopology would be courses on their own. But you'll leave this course knowing about them.\n\nI highly recommend the course. In fact, I also bought it for my sister as a gift.",
             "rating": 5
         },
         {
-            "body": "This is a good course that can recommend to everyone, I was not just a a beginner but I learned a lot of my mistakes and doubts through this. Thank you for the great tutorial.",
+            "body": "Huge fan of Grant Abbitt. I've been following his videos for a little while now. When I saw that he was part of the revamp of this course, I nearly lost my nerd-loving mind! Keep up the good work Game Dev. You guys rock!!",
+            "rating": 5
+        },
+        {
+            "body": "Grant is one of the best teachers on this site. I kept trying to pick up Blender but could not learn it until this course taught by Grant. The way he constantly says the keyboard shortcuts as he is doing his work helped me tremendously to remember them.",
             "rating": 5
         },
         {
@@ -31,11 +35,23 @@
             "rating": 4.5
         },
         {
-            "body": "Overall I really enjoyed the course! For me it was a literal game changer when it comes to sculpting and modelling. Grant Abbitt did an amazing job highlighting the important aspects of each step. He's really confident in his skills and knows the ins and outs of Blender 2.8 and above very well. The instructions were very clear and comprehensive, entertaining and really enjoyable overall! The only minor nitpicks I have are related to the retopology and animation section of this course. These sections are very basic and only brushed upon. Grant gives a pretty good overview of what needs to be done but for the sake of the overall course these (very complicated sections) are stripped down to a bare minimum. (which in my opinion is totally understandable considering the sheer volume of information and experience needed to nail retopology and animation). The other nitpick I have is, that some (only a few!) videos were a little bit fast, but the great thing about the video content is that you can rewind whenever you need to. Really liked the course! I would highly recommend to take this course if you have a little experience with 3D Modelling software and want to up your skills quite a bit. I'd love to take courses, instructed by Grant Abbitt on the topics of retopology and animation in the future!",
+            "body": "Very detailed and insightful course. I learned a lot from it. And finally I could create something that looks like a convincing character.\n\nA little short though on animations part. But there are plenty of lectures in the archived version of the course, so it's okay.",
             "rating": 5
         },
         {
-            "body": "Besides the topic of the course, which is explained in reasonable detail and in a very easy to understand manner, I learned a lot of useful tips on using Blender and on keeping the modelling workflow efficient.\n\nI definitely recommend this to anyone interested in 3d rigging and animation",
+            "body": "Well, what I love about this course is how Grant teaches. He is a humble person and you can see he has a passion for what he is doing and teaching others.\n\nIn this course, I'm learning how to better understand Blender and his functions (Shader Nodes, Modifiers, etc..), and plus you will have new ideas on how to create a character for your own projects.\n\nI'm a newbie on this stuff about game dev. and game design but I'm very interested to get a job related to this, in the future.",
+            "rating": 5
+        },
+        {
+            "body": "Really enjoyed the course and given me the confidence to make my own characters. Definitely recommend it to anyone considering character creation.",
+            "rating": 5
+        },
+        {
+            "body": "I really liked the course, I will gladly take another course in the future of GameDevTv. Very good explanations, time allows you to follow the videos well, very well all the stages of the project. The instructor gives good tips to get the job done faster",
+            "rating": 5
+        },
+        {
+            "body": "Created some great looking models in no time. Everything you need to know. Straight to the point. No faff. Amazing!\n\nFinally I have just finished this course. There are a lot of videos to watch and concepts to understand, but Grant is a great teacher. The pace gets a bit quick toward the end and I missed a few points that cost me time later, having to go back and review videos to find out where I went wrong. Everything made sense in the end though. A create overview of the workflow required to create your own animated game assets or simply 3D models if that's your bag.",
             "rating": 5
         },
         {
@@ -43,184 +59,182 @@
             "rating": 2.5
         },
         {
-            "body": "EDIT: The course was great and totally worth the money, but a complete demonstration of the manual retopo process would have been awesome!",
-            "rating": 4
-        },
-        {
-            "body": "There's a serious wealth of information here, very cleverly structured and presented. I've taken a few courses on Udemy (and in person), and this has been easily one the most engaging and rewarding ones.\n\nI decided to take this course to get re-familiarized with Blender after a few years pause, so the pacing was very good for me. I suspect a complete beginner might find the course a bit overwhelming. But if you take it slow - maybe redoing some lessons and taking a break between sections to try what you learned, you can seriously level up on your modeling skills.",
+            "body": "I do not know if I will ever be able praise this course enough. I have been drawing characters for video games for as long as I can remember. This game has helped me achieve my childhood dream of creating my first video game character. I have dabbled in Blender for years but felt I lacked the right guidance to see a character design through. Not only was the curriculum well thought out, but the encouragement from these instructors was phenomenal. The small exercises thrown in were a terrific touch and really gave the student an opportunity to explore their own method for modeling/sculpting before following the technique of a skilled mentor. Thank you for helping me to fulfill a long sought after goal!",
             "rating": 5
         },
         {
-            "body": "Increible, sencillamente increible lo que uno comienza con un par de cubos y acaba teniendo su primer NPC que funciona en Unity. El profesor tambien es muy bueno y me ha gustado como ha llevado el curso adelante.\n\nSe llevaran el 5 si meten mas contenido ya que espero, que no dejen aqui el curso y nos enseñen tecnicas mas avanzadas de diseño de caracteres.\n\nGracias por vuestro tiempo, ha sido un placer.",
-            "rating": 4.5
-        },
-        {
-            "body": "I already knew that Rick was a Legend but after this course I can now add Grant Abbitt to the List of Legends. Grant is honestly the most talented teacher I have ever encountered in any subject, I can't praise Grant enough - the guy is quickly becoming a hero of mine! I would strongly recommend doing this course for a fairly comprehensive grounding in blender and then supplement it with Grants Youtube channel which is an unbelievably good resource. I think I have completed 4 GameDevTV courses now and they have all been fantastic quality - big fans of the whole team. Only complaint is that the course did lack Ricks usual humour - please bring back more of Ricks jokes, thanks.",
-            "rating": 5
-        },
-        {
-            "body": "I love it. It is easy to understand.",
-            "rating": 5
-        },
-        {
-            "body": "I loved the way of creating the character, it give a path and we can really create our personal character. And overall I enjoyed to know what to do to bring it to unity without losing quality with a low poly character. I expected a bit more with the animation part but I really enjoyed the course and I will create an other character following it again to be sure to assimilate everything.",
+            "body": "I was quite disheartened when I realized that Michael Bridges wasn't teaching this course. He did an absolutely fantastic job for the GameDev.TV Beginner Blender course. At first, I was a bit unsure about Grant's instruction (I'll get to why), but, I must admit that I ended up learning quite a lot, from him, and have really grown fond of him, towards the end of this course. He does a really great job during the sculpting section of the course and I'm extremely happy with how my skills and knowledge have advanced, thanks to him and the GameDev.TV team.\n\nNow, my one major bone to pick... Please, please, PLEASE be better about encouraging good (and proper!) practices--like naming your objects and applying your transforms whenever scaling/rotating in Object Mode. Without naming objects, it can be a bit hard to follow along; and applying transforms would really cut down on a lot of problems that arise. At a point, Grant states naming objects (or not) as \"the difference between artists and game devs\". That's a bit insulting. The reality is that it's the difference between an amateur and a professional. I don't think ANYONE in the industry would be happy to have to deal with a model with parts called: Cube.001, Plane.004. So, please set a better example for students and follow good practices. It's really not that hard and really doesn't take that much extra time.\n\nSorry for the TLDR rant, but even teachers need a teaching, from time to time.",
             "rating": 5
         }
     ],
     "students": [
         {
-            "name": "Max Krueger",
-            "email": "maxkrueger@gmail.com",
-            "password": "maxkrueger",
+            "name": "Said Abugattas Abusada",
+            "email": "saidabugattasabusada@gmail.com",
+            "password": "saidabugattasabusada",
             "role": "s",
-"isConfirmed": true
+            "isConfirmed": true
         },
         {
             "name": "GameDev.tv Team",
             "email": "gamedev.tvteam@gmail.com",
             "password": "gamedev.tvteam",
             "role": "s",
-"isConfirmed": true
+            "isConfirmed": true
         },
         {
-            "name": "Nuwan Prabodh",
-            "email": "nuwanprabodh@gmail.com",
-            "password": "nuwanprabodh",
+            "name": "Daniel O'Connor",
+            "email": "danielo'connor@gmail.com",
+            "password": "danielo'connor",
             "role": "s",
-"isConfirmed": true
+            "isConfirmed": true
         },
         {
             "name": "GameDev.tv Team",
             "email": "gamedev.tvteam@gmail.com",
             "password": "gamedev.tvteam",
             "role": "s",
-"isConfirmed": true
+            "isConfirmed": true
+        },
+        {
+            "name": "Jeremy Smith",
+            "email": "jeremysmith@gmail.com",
+            "password": "jeremysmith",
+            "role": "s",
+            "isConfirmed": true
+        },
+        {
+            "name": "GameDev.tv Team",
+            "email": "gamedev.tvteam@gmail.com",
+            "password": "gamedev.tvteam",
+            "role": "s",
+            "isConfirmed": true
         },
         {
             "name": "Kinofrost S",
             "email": "kinofrosts@gmail.com",
             "password": "kinofrosts",
             "role": "s",
-"isConfirmed": true
+            "isConfirmed": true
         },
         {
             "name": "GameDev.tv Team",
             "email": "gamedev.tvteam@gmail.com",
             "password": "gamedev.tvteam",
             "role": "s",
-"isConfirmed": true
+            "isConfirmed": true
         },
         {
-            "name": "Dominik Göbel",
-            "email": "dominikgöbel@gmail.com",
-            "password": "dominikgöbel",
+            "name": "Alex Schrefer",
+            "email": "alexschrefer@gmail.com",
+            "password": "alexschrefer",
             "role": "s",
-"isConfirmed": true
-        },
-        {
-            "name": "Alberto Scaccianoce",
-            "email": "albertoscaccianoce@gmail.com",
-            "password": "albertoscaccianoce",
-            "role": "s",
-"isConfirmed": true
+            "isConfirmed": true
         },
         {
             "name": "GameDev.tv Team",
             "email": "gamedev.tvteam@gmail.com",
             "password": "gamedev.tvteam",
             "role": "s",
-"isConfirmed": true
+            "isConfirmed": true
+        },
+        {
+            "name": "David Negron",
+            "email": "davidnegron@gmail.com",
+            "password": "davidnegron",
+            "role": "s",
+            "isConfirmed": true
+        },
+        {
+            "name": "GameDev.tv Team",
+            "email": "gamedev.tvteam@gmail.com",
+            "password": "gamedev.tvteam",
+            "role": "s",
+            "isConfirmed": true
+        },
+        {
+            "name": "Christopher Stott",
+            "email": "christopherstott@gmail.com",
+            "password": "christopherstott",
+            "role": "s",
+            "isConfirmed": true
+        },
+        {
+            "name": "GameDev.tv Team",
+            "email": "gamedev.tvteam@gmail.com",
+            "password": "gamedev.tvteam",
+            "role": "s",
+            "isConfirmed": true
+        },
+        {
+            "name": "Rodrigo Emmanuel Figueroa Rojas",
+            "email": "rodrigoemmanuelfigueroarojas@gmail.com",
+            "password": "rodrigoemmanuelfigueroarojas",
+            "role": "s",
+            "isConfirmed": true
+        },
+        {
+            "name": "GameDev.tv Team",
+            "email": "gamedev.tvteam@gmail.com",
+            "password": "gamedev.tvteam",
+            "role": "s",
+            "isConfirmed": true
+        },
+        {
+            "name": "Christopher Shaw",
+            "email": "christophershaw@gmail.com",
+            "password": "christophershaw",
+            "role": "s",
+            "isConfirmed": true
+        },
+        {
+            "name": "GameDev.tv Team",
+            "email": "gamedev.tvteam@gmail.com",
+            "password": "gamedev.tvteam",
+            "role": "s",
+            "isConfirmed": true
         },
         {
             "name": "Gabriel Korniejew",
             "email": "gabrielkorniejew@gmail.com",
             "password": "gabrielkorniejew",
             "role": "s",
-"isConfirmed": true
+            "isConfirmed": true
         },
         {
             "name": "Grant Abbitt",
             "email": "grantabbitt@gmail.com",
             "password": "grantabbitt",
             "role": "s",
-"isConfirmed": true
+            "isConfirmed": true
         },
         {
-            "name": "Mohammed Mosa Mir",
-            "email": "mohammedmosamir@gmail.com",
-            "password": "mohammedmosamir",
+            "name": "Max Krueger",
+            "email": "maxkrueger@gmail.com",
+            "password": "maxkrueger",
             "role": "s",
-"isConfirmed": true
-        },
-        {
-            "name": "GameDev.tv Team",
-            "email": "gamedev.tvteam@gmail.com",
-            "password": "gamedev.tvteam",
-            "role": "s",
-"isConfirmed": true
-        },
-        {
-            "name": "Juhani Kumara",
-            "email": "juhanikumara@gmail.com",
-            "password": "juhanikumara",
-            "role": "s",
-"isConfirmed": true
+            "isConfirmed": true
         },
         {
             "name": "GameDev.tv Team",
             "email": "gamedev.tvteam@gmail.com",
             "password": "gamedev.tvteam",
             "role": "s",
-"isConfirmed": true
+            "isConfirmed": true
         },
         {
-            "name": "Eduardo Hernandez Ricciarelli",
-            "email": "eduardohernandezricciarelli@gmail.com",
-            "password": "eduardohernandezricciarelli",
+            "name": "Joshua Jacobs",
+            "email": "joshuajacobs@gmail.com",
+            "password": "joshuajacobs",
             "role": "s",
-"isConfirmed": true
-        },
-        {
-            "name": "Samuel Walter",
-            "email": "samuelwalter@gmail.com",
-            "password": "samuelwalter",
-            "role": "s",
-"isConfirmed": true
+            "isConfirmed": true
         },
         {
             "name": "GameDev.tv Team",
             "email": "gamedev.tvteam@gmail.com",
             "password": "gamedev.tvteam",
             "role": "s",
-"isConfirmed": true
-        },
-        {
-            "name": "Birhanu Worku",
-            "email": "birhanuworku@gmail.com",
-            "password": "birhanuworku",
-            "role": "s",
-"isConfirmed": true
-        },
-        {
-            "name": "GameDev.tv Team",
-            "email": "gamedev.tvteam@gmail.com",
-            "password": "gamedev.tvteam",
-            "role": "s",
-"isConfirmed": true
-        },
-        {
-            "name": "Vinko Roditi",
-            "email": "vinkoroditi@gmail.com",
-            "password": "vinkoroditi",
-            "role": "s",
-"isConfirmed": true
-        },
-        {
-            "name": "GameDev.tv Team",
-            "email": "gamedev.tvteam@gmail.com",
-            "password": "gamedev.tvteam",
-            "role": "s",
-"isConfirmed": true
+            "isConfirmed": true
         }
     ],
     "instructor": {
@@ -228,7 +242,185 @@
         "email": "gamedev.tvteam@gmail.com",
         "password": "gamedev.tvteam",
         "role": "i",
-"isConfirmed": true,
-        "briefIntroduction": "<p>GameDev&nbsp;tv was created to help anyone learn how to <strong>develop, design and sell indie games</strong>. &nbsp;We have some of the best-selling and highest rating game development courses on Udemy. </p><p>We have more than 600,000 students, and our aim is to make and maintain&nbsp;high quality courses that are <strong>engaging and entertaining</strong> for them.</p><p>GameDev&nbsp;tv offers comprehensive courses on&nbsp;<strong>Unity, Blender, Unreal, coding in C#, C++</strong> and more. &nbsp;Looking to learn about a topic that we don't cover?&nbsp;Get plugged into our communities of amazing developers on Facebook (nearly 20k), in our own TA-curated Community (17k views/day), and our student chat group (10k live at any one time).</p>"
-    }
+        "briefIntroduction": "<p>GameDev&nbsp;tv was created to help anyone learn how to <strong>develop, design and sell indie games</strong>. &nbsp;We have some of the best-selling and highest rating game development courses on Udemy. </p><p>We have more than 600,000 students, and our aim is to make and maintain&nbsp;high quality courses that are <strong>engaging and entertaining</strong> for them.</p><p>GameDev&nbsp;tv offers comprehensive courses on&nbsp;<strong>Unity, Blender, Unreal, coding in C#, C++</strong> and more. &nbsp;Looking to learn about a topic that we don't cover?&nbsp;Get plugged into our communities of amazing developers on Facebook (nearly 20k), in our own TA-curated Community (17k views/day), and our student chat group (10k live at any one time).</p>",
+        "isConfirmed": true
+    },
+    "curriculum": [
+        {
+            "sectionName": "Introduction & Setup",
+            "unitNames": [
+                "Welcome To The Course",
+                "Download & Install Blender",
+                "Blender Interface Introduction",
+                "Introduction To Edit Mode",
+                "Using Loop Cuts",
+                "Mirror Modifier",
+                "Extrude",
+                "Shader Editor",
+                "Community & Resources"
+            ]
+        },
+        {
+            "sectionName": "Mech Master",
+            "unitNames": [
+                "Section Intro - Mech Masters",
+                "Creating the Cockpit",
+                "Creating the Body",
+                "Creating the Legs",
+                "Creating Weapons",
+                "Posing the Mech",
+                "Smooth & Flat Shading",
+                "Adding Materials",
+                "Camera & Background",
+                "Rotating camera",
+                "How to Render and Save Images in Blender 3D (Rendering the Mech)",
+                "Instructor Hangout - Mech Masters"
+            ]
+        },
+        {
+            "sectionName": "Modular Vehicles",
+            "unitNames": [
+                "Section Intro - Modular Vehicles",
+                "Intro to Modules",
+                "Building the Base",
+                "Building the Vehicle top",
+                "Building the Wheels",
+                "Creating Car Bases",
+                "Tank Tracks",
+                "Creating the Tank Base",
+                "Making the tank top",
+                "Rocket Launcher Top",
+                "Making the Triple Gun Top",
+                "Making the Laser Cannon Top",
+                "The Tripod Base",
+                "Texturing the Vehicles",
+                "Instructor Hangout - Modular Vehicles"
+            ]
+        },
+        {
+            "sectionName": "Blocking Out",
+            "unitNames": [
+                "Section Intro - Blocking Out",
+                "Reference & Background Images",
+                "How to Insert Background images into Blender 3D",
+                "Blocking out the shape",
+                "Subdivision Surface Modifier",
+                "Sculpting the Blocks",
+                "Dyntopo Sculpting",
+                "Dyntopo Sculpting - Body 1",
+                "Dyntopo Sculpting Body 2",
+                "Sculpting the Head",
+                "Combining Objects",
+                "Instructor Hangout#1"
+            ]
+        },
+        {
+            "sectionName": "Detailed Sculpting",
+            "unitNames": [
+                "Section Intro - Detailed Sculpting",
+                "Mid Level Details - Body",
+                "Mid Level Details - Head",
+                "Mid Level Details - Horns",
+                "Using Alphas",
+                "Fine Details",
+                "Clothing & Armour - Belt",
+                "Clothing & Armour - Loin Cloth",
+                "Clothing & Armour - Buckle",
+                "Clothing & Armour - Shackle",
+                "Clothing & Armour - Sculpting 1",
+                "Clothing & Armour - Sculpting 2",
+                "Instructor Hangout - Detailed Sculpting"
+            ]
+        },
+        {
+            "sectionName": "Retopology",
+            "unitNames": [
+                "Section Intro - Retopology",
+                "Understanding Retopology",
+                "Manual Retopology Demonstration",
+                "Automatic Retopology",
+                "Automatic Retopology 2",
+                "Automatic Retopology 3 - Tidy Up",
+                "Retopology - Small Items",
+                "Retopology - Decimate",
+                "Instructor Hangout - Retopology"
+            ]
+        },
+        {
+            "sectionName": "UV Unwrapping",
+            "unitNames": [
+                "Section Intro - Unwrapping",
+                "Understanding UV Unwrapping",
+                "Marking Seams",
+                "Marking Seams 2",
+                "Unwrapping The Body",
+                "Repair Stretching Problems",
+                "Unwrapping All Objects Together",
+                "Instructor Hangout - Unwrapping"
+            ]
+        },
+        {
+            "sectionName": "Baking",
+            "unitNames": [
+                "Section Intro - Baking",
+                "Understanding baking & PBR",
+                "Baking the orcs body",
+                "Baking the orcs body - cavity",
+                "Baking the horns & teeth 1",
+                "Baking the teeth & horns 2",
+                "Baking multiresolution objects",
+                "Instructor Hangout - Baking"
+            ]
+        },
+        {
+            "sectionName": "Painting",
+            "unitNames": [
+                "Section Intro - Painting",
+                "Blocking out colours",
+                "Orc Body Painting Basics",
+                "Different Stroke Methods",
+                "Metallic maps",
+                "Painting with stencils",
+                "Painting With Blend Brushes",
+                "Painting The Metal",
+                "Painting the Horns &Teeth",
+                "Painting the roughness map",
+                "Painting the roughness map small items",
+                "Other blend brushes",
+                "Painting The Eyes"
+            ]
+        },
+        {
+            "sectionName": "Animation",
+            "unitNames": [
+                "Section Intro - Animation",
+                "The Basics Of Keyframes",
+                "Rendering Animations",
+                "Understanding Armatures (Bones)",
+                "Animating A Snake",
+                "File Organisation",
+                "Basic Human Rig",
+                "Parenting the Basic Rig",
+                "The Rigify Rig",
+                "Blender to Mixamo",
+                "Weight Painting",
+                "Exporting the Character",
+                "Exporting the Textures",
+                "Import Blender To Unity",
+                "Unity Animator Controller"
+            ]
+        },
+        {
+            "sectionName": "Updates and Important Messages",
+            "unitNames": [
+                "Coupon For Original Course Content"
+            ]
+        },
+        {
+            "sectionName": "Continuing Your GameDev Journey",
+            "unitNames": [
+                "Bonus Lecture - Our Other Courses"
+            ]
+        }
+    ]
 }

@@ -6,7 +6,7 @@
     "course": {
         "title": "Unreal Engine 4: How to Develop Your First Two Games",
         "subtitle": "Epic Games-Approved: learn the Unreal Editor, master the gameplay framework, and use Blueprint to program without coding",
-        "descriptions":  "",
+        "descriptions": [],
         "reviews": [],
         "students": [],
         "image1xURL": "https://img-a.udemycdn.com/course/240x135/1035484_22c9.jpg",
@@ -15,19 +15,23 @@
         "discountPrice": 11.99,
         "originalPrice": 129.99,
         "numViews": 0,
-        "curriculum": {}
+        "curriculum": []
     },
     "reviews": [
         {
-            "body": "Teaches almost everything you need to know in order to get started on a game of your own. Explains well each section, and most of the code still runs in the UE 4.17.2.",
+            "body": "An excellent course, explained really well! The difficulty increases gradually, and Chris really knows the best practices, compared to other instructors of Unreal Engine, where they just get the job done, but in a more messy way. Amazing course!",
             "rating": 5
         },
         {
-            "body": "I very much enjoyed the course. The course is exactly as advertised. You are going to build a couple of games and learn the basics of the engine in a follow-along setting. I would have liked more explaining as to why we are doing what we are doing but again, the scope of the class was to follow along and build the games. I would definitely buy a foundations course from this instructor. Thank you for the great journey. I've been searching for years for a hobby or something to enjoy and be interested in, and I believe this course gave that to me. I enjoy making worlds!",
+            "body": "Really good course to start learning Unreal Engine 4. Covers all aspects of Unreal Engine, from blueprints, to level design to User Interface and animations.",
+            "rating": 4
+        },
+        {
+            "body": "Christopher Murphy presented this course in a clear an concise manner and the course provided me with a lot of good tips, tricks and ideas for my own projects.",
             "rating": 5
         },
         {
-            "body": "this was a very well taught Unreal Engine Course. You may find it a little fast at first but go over the videos twice or thrice if you have to, as the teacher really knows what he's doing and HOW he is doing it is a great take away. i find myself coming back to this course alot when working on my own projects as there is a lot of information in it that applies to real world stuff. the particles set up section and the architectural visualization part in the beginning in particular is hard to find in any other course.\n\nI recommend it highly to any aspiring unreal engine developer.\n\nThank you Chris for a great course.",
+            "body": "Thanks to the course, I became self-employed and financially independent as a video game developer. The course is great!",
             "rating": 5
         },
         {
@@ -35,11 +39,23 @@
             "rating": 4.5
         },
         {
-            "body": "This course was a fantastic visual introduction to Unreal Engine 4. It answered a lot of the questions I had about visual design and programming in the engine. I often slowed the videos down to 0.75 speed to make it easier to follow the instructions. When there were errors in the videos, usually caused by updates to the Unreal Engine that changed functionality, the instructor was active in the Q&A section and helpful. I really enjoyed this course!",
-            "rating": 4.5
+            "body": "The teaching style was very quick at times and I was hoping for a little more explanation as to why some sequence of events worked. If someone with no previous knowledge of Unreal tried this course I think they would give up quite easily. It would have been more helpful if after each sequence of functions explain from start to finish why it worked. Still learned lots about particle systems and blueprints just slow it down a little.",
+            "rating": 3
+        },
+        {
+            "body": "Speech of the instructor is a bit fast and Blurprints needs to be very well explained from the scratch so that even absolute beginners like me can easily understand. But I like the content covered in this course so far after being through with 50% of the course. May be a separate blueprint course for absolute beginners by the same instructor can help in easy understanding.",
+            "rating": 3
         },
         {
             "body": "Great to build real functioning products, but would have liked it more if time was taken to explain more as to \"why\" things are the way they are. Also, I understand that Epic Games has a very \"strict\" game style that they expect you to follow with Unreal. If you don't follow it, Unreal will be a real pain. It would have been great if this class went into the expected structure of a game Unreal is build for and some of the programming semantics. This would have helped guide the reasoning behind certain choices and also editor workflows.",
+            "rating": 3.5
+        },
+        {
+            "body": "Some parts of the course the full detail was not shown and caused some errors but other than that it was very helpful.",
+            "rating": 4.5
+        },
+        {
+            "body": "This was a good course but I found it to be lacking. I really liked the instructor, his delivery, and how he didn't tend to go too slowly (though he would often go way too fast) but the course didn't teach quite as much as I would have liked. Many corners were cut and I don't feel this course was as valuable as other beginner courses. It also uses an outdated version of the editor and the instructor never updated the lectures with any kind of information to compensate. He's also not very active when it comes to answering student's questions. Still, study is study and it's worth having as part of self learning UE4 curricula.",
             "rating": 3.5
         },
         {
@@ -47,110 +63,94 @@
             "rating": 4
         },
         {
-            "body": "Some parts of the course the full detail was not shown and caused some errors but other than that it was very helpful.",
-            "rating": 4.5
-        },
-        {
-            "body": "He covers a lot of ground. I actually completed the entire course which is rare for me. I believe this course helped address (to some degree) both by known unknowns and unknown unknowns.\n\nUE4 is massive, but I feel ready to really dig into my own projects. I believe I have enough of a vocabulary now to find answers to my own questions and quickly apply it to my projects w/o watching 5 YouTube videos first :-)\n\nI recommend this course for beginners. However, like others have commented on this course, there are many instances where I felt like certain topics were glossed over. That's really, really frustrating for a noob.\n\nAnother thing that was a bit frustrating was when he would start inserting BP nodes, and I'm thinking \"where are we going with this\"? I know Chris knows where he's going but as a learner, I like to know where I'm being led.\n\nOverall a good course. Good job.",
-            "rating": 3.5
-        },
-        {
-            "body": "I have to admit that the consistency error in chapter 25 did throw me off and it might not have or did contribute to me not finding my error faster. It got frustrated sure and i posted on the Q&A board with all my blueprints in maybe a pissy way however i got the help i need in good time. The rest of the coarse has been great so far. I have no problem following along and have been inspired in the process. All in all this has been the way to go for me instead simply You tubing. The reason being that i never so far have not gotten 35 minutes into a tutorial and had the instructor tell me that he has created this whole other asset in another tutorial that we should just know how to make to complete the tutorial. From the very beginning you create every asset that you will use in the project besides Meshes which are provided. I would recommend this to anyone who is not afraid of work and knowing how the sausage is made.\n\nBe healthy and have fun!",
+            "body": "Needs Blueprint images attached for reference and checking, possibly with breakdown documentation.",
             "rating": 4
-        },
-        {
-            "body": "This was a good course and takes you through quite a bit. Compliments well some of the other intro courses I've been taking. I took this course when it was already 3 years old and the Unreal Engine has changed a bit since that time. Some of the lessons won't seem to track with what your UE editor looks like. BE SURE TO CHECK THE COMMENTS that accompany each lesson in the event you seem lost. In most cases a more recent update is in there and will save you much hair-pulling. In the later lessons the instructor moves fairly quickly around parts of the UI. If you're having trouble keeping up along the way I recommend watching the lesson straight through and then going back through it to work along with it.",
-            "rating": 4.5
-        },
-        {
-            "body": "Chris is great at explaining and goes at a really good pace.\n\nIt is also good that he replies to the questions regarding bugs since that helped me out quite a bit.",
-            "rating": 5
         }
     ],
     "students": [
         {
-            "name": "Kristian Ekdahl",
-            "email": "kristianekdahl@gmail.com",
-            "password": "kristianekdahl",
+            "name": "George Balasis",
+            "email": "georgebalasis@gmail.com",
+            "password": "georgebalasis",
             "role": "s",
-"isConfirmed": true
+            "isConfirmed": true
         },
         {
-            "name": "Zachary Wauer",
-            "email": "zacharywauer@gmail.com",
-            "password": "zacharywauer",
+            "name": "Simon Duchaine",
+            "email": "simonduchaine@gmail.com",
+            "password": "simonduchaine",
             "role": "s",
-"isConfirmed": true
+            "isConfirmed": true
         },
         {
-            "name": "Tony Mbatia",
-            "email": "tonymbatia@gmail.com",
-            "password": "tonymbatia",
+            "name": "Richard Pettitt",
+            "email": "richardpettitt@gmail.com",
+            "password": "richardpettitt",
             "role": "s",
-"isConfirmed": true
+            "isConfirmed": true
+        },
+        {
+            "name": "Jari K",
+            "email": "jarik@gmail.com",
+            "password": "jarik",
+            "role": "s",
+            "isConfirmed": true
         },
         {
             "name": "Ameesh Dave",
             "email": "ameeshdave@gmail.com",
             "password": "ameeshdave",
             "role": "s",
-"isConfirmed": true
+            "isConfirmed": true
         },
         {
-            "name": "Cullen Douglas",
-            "email": "cullendouglas@gmail.com",
-            "password": "cullendouglas",
+            "name": "Alex Lawrence",
+            "email": "alexlawrence@gmail.com",
+            "password": "alexlawrence",
             "role": "s",
-"isConfirmed": true
+            "isConfirmed": true
+        },
+        {
+            "name": "Ankit Dighe",
+            "email": "ankitdighe@gmail.com",
+            "password": "ankitdighe",
+            "role": "s",
+            "isConfirmed": true
         },
         {
             "name": "Microbob µ",
             "email": "microbobµ@gmail.com",
             "password": "microbobµ",
             "role": "s",
-"isConfirmed": true
+            "isConfirmed": true
+        },
+        {
+            "name": "Aaryan Khairha",
+            "email": "aaryankhairha@gmail.com",
+            "password": "aaryankhairha",
+            "role": "s",
+            "isConfirmed": true
+        },
+        {
+            "name": "Kyle Burton",
+            "email": "kyleburton@gmail.com",
+            "password": "kyleburton",
+            "role": "s",
+            "isConfirmed": true
         },
         {
             "name": "Nikola",
             "email": "nikola@gmail.com",
             "password": "nikola",
             "role": "s",
-"isConfirmed": true
+            "isConfirmed": true
         },
         {
-            "name": "Aaryan UE4",
-            "email": "aaryanue4@gmail.com",
-            "password": "aaryanue4",
+            "name": "Marc Shephard",
+            "email": "marcshephard@gmail.com",
+            "password": "marcshephard",
             "role": "s",
-"isConfirmed": true
-        },
-        {
-            "name": "T J",
-            "email": "tj@gmail.com",
-            "password": "tj",
-            "role": "s",
-"isConfirmed": true
-        },
-        {
-            "name": "Daniel Wasserott",
-            "email": "danielwasserott@gmail.com",
-            "password": "danielwasserott",
-            "role": "s",
-"isConfirmed": true
-        },
-        {
-            "name": "John Kammer",
-            "email": "johnkammer@gmail.com",
-            "password": "johnkammer",
-            "role": "s",
-"isConfirmed": true
-        },
-        {
-            "name": "Enzo Rodriguez",
-            "email": "enzorodriguez@gmail.com",
-            "password": "enzorodriguez",
-            "role": "s",
-"isConfirmed": true
+            "isConfirmed": true
         }
     ],
     "instructor": {
@@ -158,7 +158,109 @@
         "email": "christophermurphy@gmail.com",
         "password": "christophermurphy",
         "role": "i",
-"isConfirmed": true,
-        "briefIntroduction": "<p>Chris Murphy is an Evangelist for Epic Games and founder of Pub Games, an independent Australian game developer, with game development credits across PC, Vive, Oculus, PS4, iOS and Android. Chris has over 10 years of experience with Unreal Engine, a Bachelor of Computer Science and a Bachelor of Multimedia, culminating in a broad skillset across a range of game development disciplines. Chris’ role as Evangelist for Epic Games is to help independent game developers build successful games with Unreal Engine 4 through support, training and education.</p>"
-    }
+        "briefIntroduction": "<p>Chris Murphy is an Evangelist for Epic Games and founder of Pub Games, an independent Australian game developer, with game development credits across PC, Vive, Oculus, PS4, iOS and Android. Chris has over 10 years of experience with Unreal Engine, a Bachelor of Computer Science and a Bachelor of Multimedia, culminating in a broad skillset across a range of game development disciplines. Chris’ role as Evangelist for Epic Games is to help independent game developers build successful games with Unreal Engine 4 through support, training and education.</p>",
+        "isConfirmed": true
+    },
+    "curriculum": [
+        {
+            "sectionName": "Arch Viz - Getting to know the editor basics",
+            "unitNames": [
+                "Introduction",
+                "Toolset Overview and using the Geometry Tools",
+                "Static Meshes and Materials",
+                "Creating A Basic Room",
+                "Detailing The Room",
+                "Lighting an Environment (Part A)",
+                "Lighting an Environment (Part B)",
+                "Post Processing (Part A)",
+                "Post Processing (Part B)",
+                "Using Sequencer to Make Videos",
+                "Finishing Touches (Part A)",
+                "Finishing Touches (Part B)"
+            ]
+        },
+        {
+            "sectionName": "Developing a game of Pinball",
+            "unitNames": [
+                "Pinball - Introduction to Blueprint",
+                "Using Traces",
+                "Pinball - Overlaps",
+                "Pinball - Lights",
+                "Pinball - Flippers",
+                "Pinball - User Interaction & Player Controllers",
+                "Pinball - Plunger",
+                "Pinball - Spawning and Delegates",
+                "Pinball - Gamemode",
+                "Pinball - UI",
+                "Pinball - Developing a Scoring System (Part A)",
+                "Pinball - Developing a Scoring System (Part B)",
+                "Pinball - Entering and Displaying High Scores",
+                "Pinball - Developing a Main Menu",
+                "Pinball - Working with Splines",
+                "Pinball - Child Actors (Part A)",
+                "Pinball - Child Actors (Part B)",
+                "Pinball - Event Dispatchers",
+                "Pinball - Morph Targets",
+                "Pinball - Adding Music and Sound",
+                "Pinball - Dynamic Audio Components",
+                "Pinball - Physics Interactions",
+                "Pinball - Force Direction Volumes",
+                "Pinball - Adding Tilt",
+                "Pinball - Final Touches Part 1",
+                "Pinball - Adding Decals (Part 1)",
+                "Pinball - Adding Decals (Part 2)",
+                "Pinball - UI Animations and Final Touches",
+                "Pinball - Custom Fonts",
+                "Pinball - Final Touches Part 2",
+                "Pinball - Particle Effect Finalisation"
+            ]
+        },
+        {
+            "sectionName": "Developing a Survival Game",
+            "unitNames": [
+                "Survival Game - Introduction",
+                "Landscapes - Creating a landscape",
+                "Landscapes - Sculpting tools",
+                "Landscapes - Painting tools",
+                "Landscapes - Advanced landscape painting",
+                "Landscapes - Material distance blending",
+                "Landscapes - Creating landscape materials",
+                "Landscapes - Material Tessellation",
+                "Landscapes - Grass tool",
+                "Landscapes - Foliage tool",
+                "Survival Game - Building our base landscape",
+                "Adding Assets -  Basic layout",
+                "Adding Assets - Castle interior",
+                "Adding Assets - Castle walls (Part A)",
+                "Adding Assets - Castle walls (Part B)",
+                "Adding Assets - Castle exterior",
+                "Adding Assets - Accelerated completion",
+                "Survival Game - Lighting and Post Processing",
+                "Survival Game - Setting up a simple character AI",
+                "Survival Game - Setting up a character mesh",
+                "Survival Game - Character animation",
+                "Survival Game - Setting up animation states",
+                "Survival Game - Initial player setup",
+                "Survival Game - Player movement input",
+                "Survival Game - Simple attack animations",
+                "Survival Game - Combo attack animations",
+                "Survival Game - Adding weaponry",
+                "Survival Game - Dealing damage",
+                "Survival Game - AI Agression",
+                "Survival Game - Hit reactions",
+                "Survival Game - Magic effects",
+                "Survival Game - Magic projectile",
+                "Survival Game - Basic magic attack",
+                "Survival Game - Magic attack polish",
+                "Survival Game - Basic game logic",
+                "Survival Game - Spawning enemies",
+                "Survival Game - Creating new enemy types",
+                "Survival Game - Adding health bars",
+                "Survival Game - Pickups",
+                "Survival Game - Wave notifications",
+                "Survival Game - Death cameras",
+                "Survival Game - Packaging your build"
+            ]
+        }
+    ]
 }

@@ -6,151 +6,151 @@
     "course": {
         "title": "Learn To Create An RPG Game In Unity",
         "subtitle": "Game development made easy. Learn C# using Unity and create your very own classic RPG!",
-        "descriptions":  "",
+        "descriptions": [],
         "reviews": [],
         "students": [],
-        "image1xURL": "https://img-a.udemycdn.com/course/240x135/1974404_c458.jpg",
-        "image2xURL": "https://img-a.udemycdn.com/course/480x270/1974404_c458.jpg",
-        "image3xURL": "https://img-a.udemycdn.com/course/750x422/1974404_c458.jpg",
+        "image1xURL": "https://img-b.udemycdn.com/course/240x135/1974404_c458.jpg",
+        "image2xURL": "https://img-b.udemycdn.com/course/480x270/1974404_c458.jpg",
+        "image3xURL": "https://img-b.udemycdn.com/course/750x422/1974404_c458.jpg",
         "discountPrice": 11.99,
         "originalPrice": 129.99,
         "numViews": 0,
-        "curriculum": {}
+        "curriculum": []
     },
     "reviews": [
         {
-            "body": "Great course, is a very good introduction to the RPG gaming development, all the basics and even some advanced stuff. Is all there to start working in your own project.\n\n////\n\nGran curso, una buena introducción al desarrollo de juegos RPG, desde lo básico hasta algunas cosas realmente complejas y un poco más avanzadas. Deja todo planteado para continuar y crear tu propio proyecto.",
+            "body": "This was a very good starting course for making an RPG, but it did leave me wanting more. James is a very good instructor and rather than feel scripted walks through creation with us at a very nice pacing.",
+            "rating": 4.5
+        },
+        {
+            "body": "James is such an amazing teacher! The way he explained things were easy to follow and fun to watch. The community is super inclusive and will help you if you have any troubles. I'm nervous to start on my own, but as James said, this RPG course gives you all the tool you need to start one. So if you're new, definitely check out this course! Thank you James!",
             "rating": 5
+        },
+        {
+            "body": "I thought this was the only way to learn how to make an RPG as a beginner in unity.\n\nBy the end of it, I was able to learn how to make a basic game in unity. Thanks to this course, I will be able to read and understand other sample files and more.\n\nThank you very much!",
+            "rating": 5
+        },
+        {
+            "body": "I'm a beginner to Unity and Coding as a whole. I finished one other 2D Unity C# course prior to this one: The contrast of that instructor's performance, organisational skills, speech skills along with practical efficient simplistic but clean code is literally night and day when compared to this instructor James Doyle.\n\nJames will demonstrate: Bad habits, awkward pauses during most lectures. I sincerely feel bad for anybody with a decent headset as you'll experience a lot of loud swallowing, drinking pauses and at times confusion from the instructors own lectures as he inputs certain code, to then revisit that code and stare in silence at why something isn't working...\n\nSorry James, I liked a minimal amount of the content that's available in your course, but unfortunately for readers you'll want to adapt your own code and maybe use his lectures as a way to creatively map out for yourself how to approach something like an RPG for the future.\n\nThere's far too many bugs in the end prototype and he doesn't even fix them, instead it was up to various students to come up with ways to fix the spaghetti code.\n\nResearch shows James is literally pumping out new content that rehashes similar code, I read his other Udemy course reviews and it becomes apparent quickly that he is in this for the world wide accessible gullible students that will charge over 100$ for a course he demonstrates almost identically with other prototypes on his youtube account.\n\n1/5",
+            "rating": 1
         },
         {
             "body": "A fun course to take to learn the fundamentals of making a classic RPG. There are a few issues, but half of developing is finding out solutions to problems, and most issues (only about 3 main issues with the built game) are fixed in the Q&A section.",
             "rating": 4
         },
         {
-            "body": "Great work, I'll be honest. I don't remember most of this, but at least I'll have a reference and general concepts in the back of my mind as I work on more stuff!",
-            "rating": 5
-        },
-        {
-            "body": "The course is for you if you want a very barebones RPG construct.\n\nMany systems are easy to expand upon, but others not as much, because of the way it was designed.\n\nYou should realize that this is more an instruction, than a course that teaches you how to code.\n\nBut it starts very basic and the very foundation of programming could be learned here.",
-            "rating": 2
-        },
-        {
-            "body": "There were good parts and there were bad parts. Overall the fundamentals to make a complete RPG game has been laid out and you get to learn a handful of knowledge and skill.\n\nOn the other hand, a lot of the more advance parts weren't explained properly and some codes are not very expandable (high dependency on other class) if you want to make changes or add new feature of your own which meant you have to refactor your code in order to add new feature.\n\nThat said, this is still a very good course that gives you the groundwork to make your own RPG game for both beginner and intermediate.",
-            "rating": 3.5
-        },
-        {
             "body": "This course was a great way to build my beginner knowledge of c# programming as well as game development. There were a few obstacles, but it gave me satisfaction when I figured it out.",
             "rating": 5
         },
         {
-            "body": "The best course about RPG games. I like how we actually build a complete RPG game and not a bunch of incomplete/partial RPG games like in other tutorials. In the end, you will be able to build your own \"basic\" RPG game without a problem. All you need is to learn some pixel art, if you want to create your own assets that is :D",
+            "body": "Overall, it is good information on creating an RPG Classic Game - it is fairly 'watch me code and copy this', but the course is for beginners - so that's to be expected and I think the instructor is excited about what he teaches.",
+            "rating": 3.5
+        },
+        {
+            "body": "Pour moi qui n'avait que des connaissances très limitées en programmation (en apprenant sur YouTube à mon rythme) je trouve les explications claires et j'apprends progressivement la syntaxe C# efficacement. Ca donne franchement envi de travailler d'avantage avec Unity, je ne me lasse pas du cours. Vraiment merci et bravo au formateur. C'est rare pour moi d'avoir eu un prof qui donne plaisir à la matière, et qui prend le temps de penser aux problèmes qu'on pourrait rencontrer en tant que débutants et de nous aider à les résoudre.\n\nLes moins : Ca fait 2 fois que je recommence le cours, et ce parce que je n'ai eu de réponses à mes questions (Je try HARD !). Certains utilisateurs ont pris gentillement le temps de m'aider, de bonne volonté, mais au final les solutions proposées par ceux-ci se sont souvent avérées être des béquilles qui ont provoqués d'autres conflis plus tard dans le code. J'aurai donc aimé avoir plus d'assistance de la part du formateur.\n\nJe n'ai pas non plus compris comment consulter les remarques faites par les autres utilisateurs sur la vidéos (à certains moment il est signalé dans la barre d'avancement de la vidéo que certains ont mis des notes ?).\n\nJe suis tout de même très satisfait par le cours.",
             "rating": 5
         },
         {
-            "body": "This course was EXACTLY what I was looking for. Unlike most tutorials have come across this course covers every step from start to finish without over complicating things. Explanations were clear, precise, and easy to follow.",
+            "body": "Great course, is a very good introduction to the RPG gaming development, all the basics and even some advanced stuff. Is all there to start working in your own project.\n\n////\n\nGran curso, una buena introducción al desarrollo de juegos RPG, desde lo básico hasta algunas cosas realmente complejas y un poco más avanzadas. Deja todo planteado para continuar y crear tu propio proyecto.",
             "rating": 5
         },
         {
-            "body": "The classes are well explained but when you get stuck in one part, you can no longer do anything until someone else does. What bothers me is the programming part and I've never been able to learn it and the main problems are from that, I can't do anything. I was not able to finish the course because the code doesn't work for some people.",
-            "rating": 4
+            "body": "A good set of basics for creating the systems in a standard JRPG.\n\nAs always with Unity courses be aware of the version differences and what problems they will cause you if possible.",
+            "rating": 5
         },
         {
-            "body": "I enjoyed this course, it was informative and I felt like things were explained fairly well. Whenever I got stuck I was able to find my answer in the Q&A section with a little digging.",
+            "body": "Great work, I'll be honest. I don't remember most of this, but at least I'll have a reference and general concepts in the back of my mind as I work on more stuff!",
+            "rating": 5
+        },
+        {
+            "body": "This is a really good course.\n\nIt's the second course that I completed by James Doyle.\n\nI really like his courses.",
             "rating": 4.5
-        },
-        {
-            "body": "El profesor casi no responde las preguntas, dependes de otros estudiantes para avanzar, hay varios errores que se van arreglando sobre la marcha y debería ser editados o hacerlos nuevamente para no confundir a los alumnos, faltó mas profundidad en muchos temas. Pero para empezar a tener algo básico no está tan mal",
-            "rating": 3
-        },
-        {
-            "body": "I'm intermediate with Unity, so my experience with the course was very mixed. At the start of the course, the instructor tended to spend quite a lot of time explaining the very basics of the Unity and C#, so I just had to speed through those hoping I didn't miss anything important. In contrast, when it came to the more advanced sections of the course, he didn't spend enough time explaining the code, I ended up just copying what he did without understanding (the absolute WORST thing you can do when following a tutorial). It would've helped to have some sort of diagram or something to explain the mechanics and functions in a visual manner.\n\nAdditionally, I may not be the wiser, but I get the feeling that some of the methods the instructor uses are good coding practice, like using strings as identifiers, and there were many areas that I think could be taught with more efficient techniques (e.g. why not use Scriptable objects for the likes of the BattleMoves, BattleTypes, or even the CharacterStats?)\n\nBy far the worst part of the course was Section 105, where he leaves the students up to quite a difficult challenge. This would've been alright, if it weren't for the fact that he didn't provide a video with a solution (I know you can download the completed project at the end, but that doesn't really help explain the code). I just had to skip it so I could complete the course without wasting time.\n\nOverall, I did in fact learn a small handful of skills from this course that could help me make my own RPG, but I'm going to have to do a whole lot of tweaking to the code from here for it to be more flexible to my own ideas.",
-            "rating": 2.5
         }
     ],
     "students": [
         {
-            "name": "Mauricio Portillo",
-            "email": "mauricioportillo@gmail.com",
-            "password": "mauricioportillo",
+            "name": "Lakkrim R",
+            "email": "lakkrimr@gmail.com",
+            "password": "lakkrimr",
             "role": "s",
-"isConfirmed": true
+            "isConfirmed": true
+        },
+        {
+            "name": "Hecyna Lieu",
+            "email": "hecynalieu@gmail.com",
+            "password": "hecynalieu",
+            "role": "s",
+            "isConfirmed": true
+        },
+        {
+            "name": "Aiai",
+            "email": "aiai@gmail.com",
+            "password": "aiai",
+            "role": "s",
+            "isConfirmed": true
+        },
+        {
+            "name": "Brandon Richards",
+            "email": "brandonrichards@gmail.com",
+            "password": "brandonrichards",
+            "role": "s",
+            "isConfirmed": true
         },
         {
             "name": "Ryan Porter",
             "email": "ryanporter@gmail.com",
             "password": "ryanporter",
             "role": "s",
-"isConfirmed": true
-        },
-        {
-            "name": "Axel Rodriguez",
-            "email": "axelrodriguez@gmail.com",
-            "password": "axelrodriguez",
-            "role": "s",
-"isConfirmed": true
-        },
-        {
-            "name": "Jan Schmidtke",
-            "email": "janschmidtke@gmail.com",
-            "password": "janschmidtke",
-            "role": "s",
-"isConfirmed": true
-        },
-        {
-            "name": "Jeremy Toh Hong Hing",
-            "email": "jeremytohhonghing@gmail.com",
-            "password": "jeremytohhonghing",
-            "role": "s",
-"isConfirmed": true
+            "isConfirmed": true
         },
         {
             "name": "Chris Lewandowski",
             "email": "chrislewandowski@gmail.com",
             "password": "chrislewandowski",
             "role": "s",
-"isConfirmed": true
+            "isConfirmed": true
         },
         {
-            "name": "Noureddine Saidana",
-            "email": "noureddinesaidana@gmail.com",
-            "password": "noureddinesaidana",
+            "name": "Christopher Norman",
+            "email": "christophernorman@gmail.com",
+            "password": "christophernorman",
             "role": "s",
-"isConfirmed": true
+            "isConfirmed": true
         },
         {
-            "name": "Rich H",
-            "email": "richh@gmail.com",
-            "password": "richh",
+            "name": "Maxime PANCERA",
+            "email": "maximepancera@gmail.com",
+            "password": "maximepancera",
             "role": "s",
-"isConfirmed": true
+            "isConfirmed": true
         },
         {
-            "name": "Allen B. Herrera",
-            "email": "allenb.herrera@gmail.com",
-            "password": "allenb.herrera",
+            "name": "Mauricio Portillo",
+            "email": "mauricioportillo@gmail.com",
+            "password": "mauricioportillo",
             "role": "s",
-"isConfirmed": true
+            "isConfirmed": true
         },
         {
-            "name": "Juan Molinar",
-            "email": "juanmolinar@gmail.com",
-            "password": "juanmolinar",
+            "name": "Neil Martin",
+            "email": "neilmartin@gmail.com",
+            "password": "neilmartin",
             "role": "s",
-"isConfirmed": true
+            "isConfirmed": true
         },
         {
-            "name": "Hernan Sagastume",
-            "email": "hernansagastume@gmail.com",
-            "password": "hernansagastume",
+            "name": "Axel Rodriguez",
+            "email": "axelrodriguez@gmail.com",
+            "password": "axelrodriguez",
             "role": "s",
-"isConfirmed": true
+            "isConfirmed": true
         },
         {
-            "name": "Amin Khan",
-            "email": "aminkhan@gmail.com",
-            "password": "aminkhan",
+            "name": "Philip Saenz",
+            "email": "philipsaenz@gmail.com",
+            "password": "philipsaenz",
             "role": "s",
-"isConfirmed": true
+            "isConfirmed": true
         }
     ],
     "instructor": {
@@ -158,7 +158,216 @@
         "email": "jamesdoyle@gmail.com",
         "password": "jamesdoyle",
         "role": "i",
-"isConfirmed": true,
-        "briefIntroduction": "<p>Hi, I'm James. I have helped thousands of people learn how to develop their own games in Unity, and whether you're a first-time developer, or need to refresh your skills, I can help you learn to make the games you want to make.</p><p>With a bachelors degree in Computer Science and a background working in independent game development, I have been helping others to create their own games and release them on multiple platforms.</p><p>I believe in helping you learn by teaching code in context, so rather than having to memorize a bunch of stuff you've never seen before, you learn how each coding concept can be applied to real working problems in your games.</p><p><strong>I can't wait to help you learn all about making your own games and how to make them a success.</strong></p><p>So why not start learning to make games with me now?</p><p>See you soon!</p><p>James</p>"
-    }
+        "briefIntroduction": "<p>Hi, I'm James. I have helped thousands of people learn how to develop their own games in Unity, and whether you're a first-time developer, or need to refresh your skills, I can help you learn to make the games you want to make.</p><p>With a bachelors degree in Computer Science and a background working in independent game development, I have been helping others to create their own games and release them on multiple platforms.</p><p>I believe in helping you learn by teaching code in context, so rather than having to memorize a bunch of stuff you've never seen before, you learn how each coding concept can be applied to real working problems in your games.</p><p><strong>I can't wait to help you learn all about making your own games and how to make them a success.</strong></p><p>So why not start learning to make games with me now?</p><p>See you soon!</p><p>James</p>",
+        "isConfirmed": true
+    },
+    "curriculum": [
+        {
+            "sectionName": "Introduction",
+            "unitNames": [
+                "Introduction",
+                "Course Assets"
+            ]
+        },
+        {
+            "sectionName": "Basics",
+            "unitNames": [
+                "Setting up Unity",
+                "Quick Guide to Unity Layout",
+                "Importing images & setting to correct values"
+            ]
+        },
+        {
+            "sectionName": "The Player",
+            "unitNames": [
+                "Chopping up player spritesheet",
+                "Sorting Layers & Orders",
+                "Giving Player Physics",
+                "Creating a Script & understanding variables",
+                "Moving the Player through scripting",
+                "Animating the Player",
+                "Setting up the Player Movement Animations",
+                "Facing the right direction",
+                "Walking into objects & preventing spinning"
+            ]
+        },
+        {
+            "sectionName": "Switching Scenes",
+            "unitNames": [
+                "Switching Scenes",
+                "Preventing duplicate players",
+                "Starting at the correct point",
+                "Combining Area changers",
+                "Making sure the player is always in scene"
+            ]
+        },
+        {
+            "sectionName": "Camera & Maps",
+            "unitNames": [
+                "Controlling the camera",
+                "Creating a Tileset",
+                "Creating a Tile Map",
+                "CHALLENGE - Create a simple town area",
+                "Keeping Camera inside the map",
+                "Hiding the map edges",
+                "Keeping the Player inside the map",
+                "Adding Screen Between scenes",
+                "Fading in & out",
+                "Calling the Fade",
+                "Loading Essential Objects"
+            ]
+        },
+        {
+            "sectionName": "Dialog System",
+            "unitNames": [
+                "Laying out Dialog Box",
+                "Creating Dialog Manager & Reading Text",
+                "Reading multiple Lines",
+                "Activating & switching lines",
+                "Stopping the player moving",
+                "Showing names of characters",
+                "Hiding Name-bar for signs"
+            ]
+        },
+        {
+            "sectionName": "Levelling Up",
+            "unitNames": [
+                "Player Stats",
+                "Adding a Levelling System",
+                "Testing Levelling",
+                "Gaining stats on Level up",
+                "Creating a Game Manager"
+            ]
+        },
+        {
+            "sectionName": "In-Game Menu",
+            "unitNames": [
+                "Laying Out the menu",
+                "Laying Out Character Info",
+                "Opening & Closing the menu",
+                "Stop Player Movement",
+                "Setting up Stat references",
+                "Updating the Stats",
+                "Navigating the Menu",
+                "CHALLENGE - Layout the Stats Window",
+                "Opening the Stats Window",
+                "Filling out the Status information"
+            ]
+        },
+        {
+            "sectionName": "Inventory",
+            "unitNames": [
+                "Making Items",
+                "Layout Item Window",
+                "Storing our Inventory & Getting Item Details",
+                "Showing the Items in menu",
+                "Sorting Items & removing spaces",
+                "Selecting Items",
+                "Add & Remove Items",
+                "Using Discard Button",
+                "Selecting Character To Use Item",
+                "Using Items",
+                "Picking Up Items"
+            ]
+        },
+        {
+            "sectionName": "Money & Shops",
+            "unitNames": [
+                "CHALLENGE - Create shop scene using inner tileset",
+                "Getting Gold",
+                "Creating the Shop Menu",
+                "Creating a Shopkeeper",
+                "Showing Items to Buy & Sell",
+                "Selecting Items to Buy & Sell",
+                "Buying & Selling"
+            ]
+        },
+        {
+            "sectionName": "Quest Tracking",
+            "unitNames": [
+                "Making Quests",
+                "Checking & Marking Quests",
+                "Activating objects for Quests",
+                "Completing Quests",
+                "Activating Quests",
+                "Activating Quests after Dialogue"
+            ]
+        },
+        {
+            "sectionName": "Saving",
+            "unitNames": [
+                "Saving & Loading Quest Data",
+                "Saving the Game",
+                "Loading the Game"
+            ]
+        },
+        {
+            "sectionName": "Audio",
+            "unitNames": [
+                "Adding Audio",
+                "Playing Audio",
+                "CHALLENGE - Make AudioManager be loaded in with essentials Loader"
+            ]
+        },
+        {
+            "sectionName": "Main Menu",
+            "unitNames": [
+                "Laying out the Main Menu",
+                "Creating Main Menu script",
+                "Loading the game"
+            ]
+        },
+        {
+            "sectionName": "Battle System",
+            "unitNames": [
+                "CHALLENGE - create dungeon scene",
+                "Laying out the battle Scene",
+                "Creating Battle Characters",
+                "Starting the battle",
+                "Loading in players & enemies",
+                "Making Turns",
+                "Making Enemies Attack",
+                "Creating Attack Effects",
+                "Selecting Attacks",
+                "Calculating Damage",
+                "Showing which enemy is attacking",
+                "Showing Damage Amounts",
+                "Updating Battle Stats",
+                "Handling Dead Battlers",
+                "Player Attacking",
+                "Choosing Targets",
+                "Player Magic",
+                "Showing Not Enough Magic",
+                "Fleeing from Battle",
+                "CHALLENGE - Using items",
+                "Showing Dead players",
+                "Enemy death",
+                "Ending the battle in victory",
+                "Ending the battle in Game Over",
+                "Opening Battle Rewards Screen",
+                "Giving Battle Rewards",
+                "Starting Random Battles"
+            ]
+        },
+        {
+            "sectionName": "Boss Battles",
+            "unitNames": [
+                "Boss Battle",
+                "Completing Quests after Boss Battle"
+            ]
+        },
+        {
+            "sectionName": "Finishing The Game",
+            "unitNames": [
+                "FINAL CHALLENGE -Make gameplay loop",
+                "Building The Game"
+            ]
+        },
+        {
+            "sectionName": "BONUS: COMPLETE PROJECT FILES (for reference)",
+            "unitNames": [
+                "Complete Project Files (for reference)"
+            ]
+        }
+    ]
 }

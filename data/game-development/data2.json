@@ -6,214 +6,200 @@
     "course": {
         "title": "Unreal Engine C++ Developer: Learn C++ and Make Video Games",
         "subtitle": "Created in collaboration with Epic Games. Learn C++ from basics while making your first 4 video games in Unreal",
-        "descriptions":  "",
+        "descriptions": [],
         "reviews": [],
         "students": [],
-        "image1xURL": "https://img-b.udemycdn.com/course/240x135/657932_c7e0_3.jpg",
-        "image2xURL": "https://img-b.udemycdn.com/course/480x270/657932_c7e0_3.jpg",
-        "image3xURL": "https://img-b.udemycdn.com/course/750x422/657932_c7e0_3.jpg",
+        "image1xURL": "https://img-a.udemycdn.com/course/240x135/657932_c7e0_4.jpg",
+        "image2xURL": "https://img-a.udemycdn.com/course/480x270/657932_c7e0_4.jpg",
+        "image3xURL": "https://img-a.udemycdn.com/course/750x422/657932_c7e0_4.jpg",
         "discountPrice": 11.99,
         "originalPrice": 129.99,
         "numViews": 0,
-        "curriculum": {}
+        "curriculum": []
     },
     "reviews": [
         {
-            "body": "Fantastic course. The updates have really improved the quality of the course significantly. The final section in particular is truly incredible work and leaves you with a piece of work you can feel proud of. The middle sections(section 4 and 5 in particular) could use some work, but as they are actively being updated to improve their shortcomings I'm sure this course will only become closer and closer to perfect with time.",
+            "body": "Great course, i enjoyed each section. A big advantage of this couse is that you start practicing right away, by creating 5 different games. Thank you!",
+            "rating": 5
+        },
+        {
+            "body": "review is splitted into 3 sections:\n\nfirst part: really slow but unreal concepts are being passed in engaging and it's well explained.\n\n2nd part:\n\nsome parts were ok but widget part was seriously horrible just repeat blindly w/o understanding which really pissed me off. his heavy english accent, you can extrapolate useful info there but seriously it's like that person didn't know what was going on in the lectures beforehand and assumed we're blueprint wizards right away....\n\n3rd part - if it was only that instructor i'd give a better rating.\n\nexcellent explains everything and actually that project is cool!",
             "rating": 4
+        },
+        {
+            "body": "The courses were great and super fun. Sam's course at the end was my favorite going in depth and making a really cool game. Very happy with this course. Some basic C++ will help anyone that is doing this class.",
+            "rating": 5
+        },
+        {
+            "body": "Wonderful beginner course. There are a few things that were in the archived material that I miss going into this one; however, this course gives enough foundation to fill in the blanks. The one thing that is really missing for someone just starting is the foundations of C++. I have taken C++ separately and still find that moving into UE4 with C++ some of the later concepts about casting are - I can do it but I stumble and don;t understand why or how it works when it works.",
+            "rating": 4.5
         },
         {
             "body": "One of the better Unreal courses by far! I bought this course when it originally released. I never completed it before (nothing to do with the quality of the first iteration, I was really enjoying the content, just had school and work tearing me apart and I fell off) but recently I started coding again and took the semester off so I decided to go back through it. I already knew my way around Unreal a little bit before starting, but I take every chance I get to try and learn more, and you guys managed to teach me more.\n\nI've made it through a few other courses before and they're never really informative (\"Alright, this is how you do this, this, and this. Give this thing a value of 5.f. Now call ThisFunctionYouWouldHaveNeverBeenAbleToFigureOut, make sure to include its header 'YadaYada/GoodLuckWhenYoureOnyourOwn.h'. Okay, great. Let me show you something else now.\") You guys really did a great job actually teaching instead of showing how to just copy code. I really love that there's almost always a challenge in each lecture, and that's honestly the thing that no one else seems to do. Now I'm super excited to meet back up with Michael to do his Blender course that I bought years ago as well. Cheers, guys!",
             "rating": 5
         },
         {
+            "body": "Fantastic course. The updates have really improved the quality of the course significantly. The final section in particular is truly incredible work and leaves you with a piece of work you can feel proud of. The middle sections(section 4 and 5 in particular) could use some work, but as they are actively being updated to improve their shortcomings I'm sure this course will only become closer and closer to perfect with time.",
+            "rating": 4
+        },
+        {
             "body": "The course has taught me every basics of the Engine and its features as well as programming in C++.\n\nEdit: As mentioned before I'm very sad that I didn't have to see Ben teaching in the updated version of the course. He was the one who explained to me all the basic things that I was struggling with. After that I went through the whole updated course, but because Ben has taught me everything I needed to understand the concept of the Engine I had no problem to do all the challenges by myself. Also shout out to Sam Pattuzzi for also good presentations.",
             "rating": 4.5
         },
         {
-            "body": "I needed some information to understand how to start with Unreal Engine and this course was very useful for this.",
-            "rating": 5
+            "body": "The course is amazing, the only downside is the Toon Tanks section which needs more work in my opinion. The instructor teaches way too fast which causes a lot of frustration in new students.",
+            "rating": 4.5
         },
         {
-            "body": "It's a well-done course for beginners, it's rich, fun, and not exhaustive like school academic courses.\n\nI hope u guys consider making intermediate level courses which can help people who had the experience in this course to begin Game development can upgrade their experiences even more.",
-            "rating": 5
-        },
-        {
-            "body": "Overall a good course. It can be fast paced sometimes and some topics can and should be explained more. I almost gave up during toon tanks. The skill level seems to jump too much in between that and the section before it.",
+            "body": "A very solid course that introduces the student to the basic UE4 game engine concepts. The only thing that would make it better is a one more advanced section at the end of the course. Besides that, if you're a beginner and would like to learn the basics of UE4 - this is the course for you!",
             "rating": 4
         },
         {
-            "body": "Offers fantastic coverage of the Unreal Engine and its version of C++. The tutors are very good at pacing and explaining everything they are doing to ensure you do not miss something, or fail to understand why things work the way they do. There is a lot to take in and remember, but they offer consistent challenges every video to get you to practice what you have learnt. These things are often applied again at later stages as refreshers. I highly recommend this course for both beginners and intermediates. I look forward to trying their other courses! :)",
-            "rating": 5
+            "body": "So I came to this course as a newbie, wanted to start learning C++ and Making Games (it's written in the title) so I was really excited.\n\nThe first section is for very basic things to C++ and it's good, if you at least saw some code before (no matter what prog. language it was) otherwise it's a little bit challenging to come into it, but that's fine, nobody tells that it should be easy.\n\nBut after the first section troubles start appearing one by one.\n\nFirst of all there is not enough information given about C++, and all the mechanics that a person really should understand to make anything that's going on on the screen, and personally I didn't get enough explanations. I watched some of the video 3+ times and it didn't work. But that's fine, I just bought another pure C++ course in order to understand.\n\n- You really need to do this, learn C++ somewhere else. If you reckon to learn C++ here at this course, forget it, you need another one.\n\nFrom that problem goes another one, when you don't understand what's going on you start skipping all those challenges, because you cannot manage them simply because there were not enough knowledge given.\n\nThe section with the dungeon, where the main mechanic we're working on for sure is interesting, but it's explained too long for the things that could be explained much faster and easier, as it was in other courses I took.\n\nThen we move to the section with Toon Tank which was just awful. At least because we came here to learn C++ and not Blueprints, the half of all that was done there, was done in blueprints, which are not introduced so well in this course. So I made a pause after that section, Cause I was skipping the challenges and started just copying and it's not a good studying process. So until this moment I haven't learnt anything essential.\n\nThen I took a break, learn C++ separately and took another Unreal Engine 4 course not related to this one. And came back to finish this one, I had only Simple Shooter section left.\n\nAnd Simple Shooter is the only reason I put 2 stars here, and not 1.\n\nSo the only really cool section in this course is Simple Shooter.\n\nWhich you can NOT go through if you are not familliar with C++, and Unreal Engine already. So I managed all the challenges in this section and in general it's fine and interesting to go through.\n\nSo if you're considering to buy this course and think that you'll achieve both C++ and Unreal Engine, and it can give you a good start, no it won't.\n\nAs a conclusion: This course starts well, but then you face struggling and frustrate a lot.\n\nYou cannot go through it, if don't have additional knowledge.\n\nThe only reason to buy it is as addition to some other more consistent and substantive courses you might learn.",
+            "rating": 2
         },
         {
-            "body": "Great course, having originally purchased this just shy of two years ago, it's been updated since then with many improvements and better explanations being provided.",
-            "rating": 5
+            "body": "This was a very interesting course. I've learned a lot of things during this time. The ToonTanks section needs a complete rework. I was just following the instructor blindly without knowing why was he doing it that way. It was really frustrating to complete that section.",
+            "rating": 4
         },
         {
-            "body": "Section 5: Toon Tanks, did it for me.\n\nI wanted to rate this course higher. I wanted to believe that this course was as good as the rating suggest - unfortunately it is not, not now at least.\n\nIf you want to watch someone code a Toon Tanks game and copy along, buy this course. If you want to actually learn to use Unreal Engine and learn C++, look elsewhere.\n\nBut wait, the old content is good. This course has been updated a lot. What's also been updated are the instructors. After finding the archived versions of this course I realised that the quality of the course is getting worse. Ben is a fantastic instructor and I naturally gravitated to him. He takes the pain-staking time of explaining things, preparing diagrams, workflows, etc. The pacing is spot on and content is beautifully crafted. Don't expect that now in Section 5.\n\nIt is a real shame. If you can pick this course up cheap, maybe give it a try, but use the old content if you can.\n\nIt pain's me to leave a negative review like this, it really does. But I hope that this can be seen as constructive criticism and will help move the course into a better state.\n\n#bringbackben",
-            "rating": 1
-        },
-        {
-            "body": "The second to last section of this course is NOT beginner friendly as the instructor just kind of throwing terminologies and new concepts at you, but the contents are still valid. It would be the best to watch the last section before the second last section if you never worked with C++ before as the last section is more detailed and slower paced. Also, just personally speaking, I think Sam's and Mikey's voices are great as a instructor: energetic and ethusiastic, the other instructor's voice & tone kind of making me sleepy throughout his lectures..\n\nOverall the course is good introductary course, if the aforementioned section could be improved, this can be a 5 star course.",
+            "body": "I had this course years ago but since i'm a Unity guy i couldn't complete it. But my current work requires Unreal and i needed to find a decent Unreal course which provides C++ foundations of Unreal Engine. There are really a small number of C++ courses on the web. Unreal documentation and the community just don't exist at all. So, this course provides a great detail on that matter. This course can be accepted as a beginner friendly but Unreal IS NOT a begginer friendly engine. So, i strongly recommend everyone to practice basic understanding of a simpler game engine (like Unity or Godot) before starting with Unreal. Unreal may seems easier with all the blueprint stuff but it isn't.\n\nThe toon tank section was the greatest part of the course i don't know why everyone is so upset about it. It was the only part where i feel like i was doing some coding. The TPS was also great. The behaviour tree sections are gold. Because it is not easy to find a C++ implementation on those topics. But TPS felt rushed towards the end. Bulls & Cows is terrible i'm sorry but it is. I'm also a teacher and i believe you can find a more interesting topic than that. I just watched it to get my certificate. Building escape can be reduced to 2 hours at most. I like the pacing of the toon tanks section. I never wanted to start the arhieved course since it is 60 hours long so, the revision is nearly perfect in my opinion. Just replace the bull&cow game with something else that game is not interesting at all.\n\nThanks everyone who contributed in creation of this course. We love you.",
             "rating": 4.5
-        },
-        {
-            "body": "Overall excellent course. I am an experienced c/c++ programmer that was looking to expand my skill set into Unreal Engine and I enjoyed the course.\n\nI would say my only disappointment was in the last part of the updated escape game module. The video is a sped up version of the level being built. I would have liked to see a bit more of what went into the design of that level since it was more intricate than the basic room used to teach everything else in the module.",
-            "rating": 4.5
-        },
-        {
-            "body": "Really makes you listen. Very well organizational teaching, good audio quality. Like a tutorial with an Oscar. The fourth and fifth sections however felt rushed and the instructors aren't as professional, skipping important instructions, not speaking of what they're doing as they're doing them and such.",
-            "rating": 3.5
         }
     ],
     "students": [
         {
-            "name": "Jason Williams",
-            "email": "jasonwilliams@gmail.com",
-            "password": "jasonwilliams",
+            "name": "Julia Racovscaia",
+            "email": "juliaracovscaia@gmail.com",
+            "password": "juliaracovscaia",
             "role": "s",
-"isConfirmed": true
+            "isConfirmed": true
+        },
+        {
+            "name": "GameDev.tv Team",
+            "email": "gamedev.tvteam@gmail.com",
+            "password": "gamedev.tvteam",
+            "role": "s",
+            "isConfirmed": true
+        },
+        {
+            "name": "LiorAlafi Al",
+            "email": "lioralafial@gmail.com",
+            "password": "lioralafial",
+            "role": "s",
+            "isConfirmed": true
+        },
+        {
+            "name": "Gordon Chow",
+            "email": "gordonchow@gmail.com",
+            "password": "gordonchow",
+            "role": "s",
+            "isConfirmed": true
+        },
+        {
+            "name": "GameDev.tv Team",
+            "email": "gamedev.tvteam@gmail.com",
+            "password": "gamedev.tvteam",
+            "role": "s",
+            "isConfirmed": true
+        },
+        {
+            "name": "Bryce Marshall",
+            "email": "brycemarshall@gmail.com",
+            "password": "brycemarshall",
+            "role": "s",
+            "isConfirmed": true
         },
         {
             "name": "Shaine Kruel",
             "email": "shainekruel@gmail.com",
             "password": "shainekruel",
             "role": "s",
-"isConfirmed": true
+            "isConfirmed": true
         },
         {
             "name": "GameDev.tv Team",
             "email": "gamedev.tvteam@gmail.com",
             "password": "gamedev.tvteam",
             "role": "s",
-"isConfirmed": true
+            "isConfirmed": true
+        },
+        {
+            "name": "Jason Williams",
+            "email": "jasonwilliams@gmail.com",
+            "password": "jasonwilliams",
+            "role": "s",
+            "isConfirmed": true
+        },
+        {
+            "name": "GameDev.tv Team",
+            "email": "gamedev.tvteam@gmail.com",
+            "password": "gamedev.tvteam",
+            "role": "s",
+            "isConfirmed": true
         },
         {
             "name": "Pavel Dinh",
             "email": "paveldinh@gmail.com",
             "password": "paveldinh",
             "role": "s",
-"isConfirmed": true
+            "isConfirmed": true
+        },
+        {
+            "name": "Omkar Joshi",
+            "email": "omkarjoshi@gmail.com",
+            "password": "omkarjoshi",
+            "role": "s",
+            "isConfirmed": true
         },
         {
             "name": "GameDev.tv Team",
             "email": "gamedev.tvteam@gmail.com",
             "password": "gamedev.tvteam",
             "role": "s",
-"isConfirmed": true
+            "isConfirmed": true
         },
         {
-            "name": "Ettore Di Boscio",
-            "email": "ettorediboscio@gmail.com",
-            "password": "ettorediboscio",
+            "name": "Jakub Kasprzak",
+            "email": "jakubkasprzak@gmail.com",
+            "password": "jakubkasprzak",
             "role": "s",
-"isConfirmed": true
-        },
-        {
-            "name": "GameDev.tv Team",
-            "email": "gamedev.tvteam@gmail.com",
-            "password": "gamedev.tvteam",
-            "role": "s",
-"isConfirmed": true
-        },
-        {
-            "name": "Zaid Khalifeh",
-            "email": "zaidkhalifeh@gmail.com",
-            "password": "zaidkhalifeh",
-            "role": "s",
-"isConfirmed": true
+            "isConfirmed": true
         },
         {
             "name": "GameDev.tv Team",
             "email": "gamedev.tvteam@gmail.com",
             "password": "gamedev.tvteam",
             "role": "s",
-"isConfirmed": true
+            "isConfirmed": true
         },
         {
-            "name": "Frank N",
-            "email": "frankn@gmail.com",
-            "password": "frankn",
+            "name": "Ruslan Kornis",
+            "email": "ruslankornis@gmail.com",
+            "password": "ruslankornis",
             "role": "s",
-"isConfirmed": true
-        },
-        {
-            "name": "GameDev.tv Team",
-            "email": "gamedev.tvteam@gmail.com",
-            "password": "gamedev.tvteam",
-            "role": "s",
-"isConfirmed": true
-        },
-        {
-            "name": "Samuel Peace",
-            "email": "samuelpeace@gmail.com",
-            "password": "samuelpeace",
-            "role": "s",
-"isConfirmed": true
-        },
-        {
-            "name": "GameDev.tv Team",
-            "email": "gamedev.tvteam@gmail.com",
-            "password": "gamedev.tvteam",
-            "role": "s",
-"isConfirmed": true
-        },
-        {
-            "name": "Peter Smith",
-            "email": "petersmith@gmail.com",
-            "password": "petersmith",
-            "role": "s",
-"isConfirmed": true
-        },
-        {
-            "name": "GameDev.tv Team",
-            "email": "gamedev.tvteam@gmail.com",
-            "password": "gamedev.tvteam",
-            "role": "s",
-"isConfirmed": true
-        },
-        {
-            "name": "Tom Blackburn",
-            "email": "tomblackburn@gmail.com",
-            "password": "tomblackburn",
-            "role": "s",
-"isConfirmed": true
+            "isConfirmed": true
         },
         {
             "name": "Sam Pattuzzi",
             "email": "sampattuzzi@gmail.com",
             "password": "sampattuzzi",
             "role": "s",
-"isConfirmed": true
+            "isConfirmed": true
         },
         {
-            "name": "Ray Yu",
-            "email": "rayyu@gmail.com",
-            "password": "rayyu",
+            "name": "Parth Shah",
+            "email": "parthshah@gmail.com",
+            "password": "parthshah",
             "role": "s",
-"isConfirmed": true
+            "isConfirmed": true
         },
         {
-            "name": "William Jensen",
-            "email": "williamjensen@gmail.com",
-            "password": "williamjensen",
+            "name": "Ozan Can ACAR",
+            "email": "ozancanacar@gmail.com",
+            "password": "ozancanacar",
             "role": "s",
-"isConfirmed": true
-        },
-        {
-            "name": "GameDev.tv Team",
-            "email": "gamedev.tvteam@gmail.com",
-            "password": "gamedev.tvteam",
-            "role": "s",
-"isConfirmed": true
-        },
-        {
-            "name": "Ege Dai",
-            "email": "egedai@gmail.com",
-            "password": "egedai",
-            "role": "s",
-"isConfirmed": true
+            "isConfirmed": true
         }
     ],
     "instructor": {
@@ -221,7 +207,280 @@
         "email": "bentristem@gmail.com",
         "password": "bentristem",
         "role": "i",
-"isConfirmed": true,
-        "briefIntroduction": "<p>Hi, I'm Ben. I have a degree in computing from Imperial College London, and a physics diploma from the Open University.&nbsp; </p><p>I started working for myself at the age of 15, and never looked back. I explored careers as varied as being a commercial pilot, stunt-man, rock climbing instructor, and more. None of these provided a continued challenge, and stable income in the same way technology does.&nbsp; </p><p>After building and selling a home computer support business, I became an angel investor and business mentor here in Cambridge UK. I fell in love with teaching game development through one of my investments, and I now spend all of my time sharing my passion with people like you.&nbsp; </p><p>I can't wait to help you experience the fulfilment, and financial freedom, that having a deep understanding of technology brings.&nbsp; </p><p>So why not start learning to make games with me and my team now? </p><p>See you soon!&nbsp; </p><p>Ben</p>"
-    }
+        "briefIntroduction": "<p>Hi, I'm Ben. I have a degree in computing from Imperial College London, and a physics diploma from the Open University.&nbsp; </p><p>I started working for myself at the age of 15, and never looked back. I explored careers as varied as being a commercial pilot, stunt-man, rock climbing instructor, and more. None of these provided a continued challenge, and stable income in the same way technology does.&nbsp; </p><p>After building and selling a home computer support business, I became an angel investor and business mentor here in Cambridge UK. I fell in love with teaching game development through one of my investments, and I now spend all of my time sharing my passion with people like you.&nbsp; </p><p>I can't wait to help you experience the fulfilment, and financial freedom, that having a deep understanding of technology brings.&nbsp; </p><p>So why not start learning to make games with me and my team now? </p><p>See you soon!&nbsp; </p><p>Ben</p>",
+        "isConfirmed": true
+    },
+    "curriculum": [
+        {
+            "sectionName": "Introduction and Setup",
+            "unitNames": [
+                "Where To Find Lecture Resources",
+                "Meet The GameDev.tv Community",
+                "Compilers & VS Community",
+                "Install Prerequisites On MacOS",
+                "Build Unreal From Source (Linux)",
+                "Antivirus Warnings",
+                "Install Unreal Engine 4.22",
+                "Also Install Visual Studio Code",
+                "Want to Focus on Blueprint?",
+                "Section Wrap-up"
+            ]
+        },
+        {
+            "sectionName": "Triple X - Write Pure C++",
+            "unitNames": [
+                "Introducing Triple X & Gavin",
+                "Triple X Game Design Doc",
+                "The Structure Of C++ By Example",
+                "Your First Program",
+                "Saving Files",
+                "A note about red underlines",
+                "Hello, World!",
+                "Variables",
+                "const & Assigning Values",
+                "Statements & Comments",
+                "Triple X Mid-section Quiz",
+                "MSVC Compilation Warnings [Windows Only]",
+                "Naming & Self Documenting Code",
+                "Getting User Input",
+                "Using if and else in C++",
+                "Functions",
+                "Returning Data From Functions",
+                "Triple X Mid-section Quiz",
+                "Function Parameters",
+                "Comparing Values",
+                "Generating Random Number Ranges",
+                "Triple X End Of Section Quiz"
+            ]
+        },
+        {
+            "sectionName": "Bulls & Cows",
+            "unitNames": [
+                "Hi I'm Mike",
+                "Introduction To Bull Cow Game",
+                "Non-English characters",
+                "Importing Bull Cow Game",
+                "Terminal Actor: Non-English Characters Unsupported",
+                "The Game Module X Could Not Be Loaded",
+                "Helping Us Help You",
+                "A Look Around Unreal",
+                "Controlling The Viewport",
+                "Editing Actors In Our Level",
+                "Adding Actors To The Level",
+                "Editing the Landscape",
+                "Mid-section Quiz",
+                "Setting Up VS Code In Unreal",
+                "4.26 VSCode Intellisense Bug",
+                "4.26 VSCode Intellisense Fix Reference",
+                "Actors And Components",
+                "Using The In Game Terminal",
+                "Unreal's Types - FString",
+                "The TEXT Macro",
+                "Mid-section Quiz",
+                "Bull Cow Basic Game Loop",
+                "Accessing Player Input",
+                "Coding The Basic Game Loop",
+                "Member Variables",
+                "Solving Slow Compile Times",
+                "The Full Game Loop",
+                "Pseudo Code",
+                "Mid-section Quiz",
+                "Creating Our First Function",
+                "Finding And Replacing In VS Code",
+                "The C++ Dot Operator",
+                "Formatting FStrings",
+                "Booleans",
+                "Pre vs Post Increment / Decrement",
+                "Parameters And Arguments",
+                "Early Returns",
+                "Mid-section Quiz",
+                "Structure Of An FString",
+                "Const Member Functions",
+                "Looping In C++",
+                "Checking Characters Part 1",
+                "Checking Characters Part 2",
+                "TArray Of Hidden Words",
+                "Loading Words At Runtime",
+                "Advanced Cursor Usage In VSCode",
+                "TArray Functions .Num()",
+                "Logical Operators",
+                "TArray Functions Adding And Removing",
+                "Range-Based For Loop",
+                "Mid-section Quiz",
+                "A Quick Look At Memory",
+                "Introduction To References",
+                "Random And The UE4 Docs",
+                "Out Of The Frying Pan",
+                "Loading Words With A Predicate",
+                "Out Parameters",
+                "Break Out Of A Loop",
+                "Structs",
+                "Bull Cow Extra Credit",
+                "Bull Cow Wrap Up"
+            ]
+        },
+        {
+            "sectionName": "Building Escape",
+            "unitNames": [
+                "Welcome To Building Escape",
+                "Building Escape End Goal",
+                "Setting Up The Building Escape Project",
+                "Pointer Primer",
+                "Unreal’s Classes and Components",
+                "Deleting A Class",
+                "Mid-section Quiz",
+                "Logging To The Output Log",
+                "Project Settings: Default Startup Level",
+                "Accessing An Object’s Name",
+                "Getting An Actor’s Transform",
+                "Mid-section Quiz",
+                "Importing Custom Meshes",
+                "Using BSP For Basic Building Blocks",
+                "BSP Challenge",
+                "Basic Lighting",
+                "Mid-section Quiz",
+                "Transforming Material Textures",
+                "Rotating An Actor With Code",
+                "Object Collision",
+                "Using Linear Interpolation",
+                "Mid-section Quiz",
+                "Relative Vs Absolute",
+                "Indentation",
+                "Exposing Parameters To The Editor",
+                "Assets Naming Conventions",
+                "Framerate Independent Using DeltaTime",
+                "Trigger Volumes",
+                "Using Collision Volumes",
+                "Mid-section Quiz",
+                "Protecting From A Null Pointer",
+                "Getting The Player To Open The Door",
+                "Getting The Door To Close",
+                "Using GetTimeSeconds()",
+                "Designer Friendly Components",
+                "Grabbing System Overview",
+                "Modifying The Default Pawn Actor",
+                "Inherit Game Mode Blueprint",
+                "Getting Player Viewpoint",
+                "Using DrawDebugLine",
+                "Line Tracing AKA Ray-Casting",
+                "Mid-section Quiz",
+                "LineTraceSingleByObjectType()",
+                "Using FindComponentByClass()",
+                "Introducing Input Binding",
+                "Accessors & Memory Layout",
+                "Reducing Code in “Hot Loops”",
+                "Using Physics Handles",
+                "Refactoring Rules",
+                "Iteration Through Valid Actors",
+                "Pointer Protection Process?",
+                "SFX & Audio Clips",
+                "Building Escape Final Challenge",
+                "Building Escape Wrap Up"
+            ]
+        },
+        {
+            "sectionName": "Toon Tanks",
+            "unitNames": [
+                "Prepare For Faster Content",
+                "Section Intro - Toon Tanks",
+                "Project Intro",
+                "Pawn Class Creation",
+                "Creating Components",
+                "Deriving Blueprint Classes",
+                "Access Modifiers",
+                "Creating Child C++ Classes",
+                "Pawn Movement Input",
+                "Exposing Variables",
+                "Pawn Turret",
+                "Find Distance Between",
+                "Virtual Functions",
+                "Calling Override Functions",
+                "Creating Actor Classes",
+                "Spawning Actors",
+                "Using Dynamic Delegates",
+                "Creating GameMode classes",
+                "Creating a Health Component",
+                "Adding Health Functionality",
+                "GameMode - ActorDied",
+                "Creating Widget Blueprints",
+                "End Game Widget",
+                "GameMode Blueprint",
+                "Debugging our Health Component",
+                "Player Controllers",
+                "PawnTank Destruction",
+                "Spawning Particles",
+                "Particle Components",
+                "Playing Sound Effects",
+                "Creating Camera Shake",
+                "Implementing Camera Shake",
+                "Wrap-up And Challenges"
+            ]
+        },
+        {
+            "sectionName": "Simple Shooter",
+            "unitNames": [
+                "Section Intro: Simple Shooter",
+                "Project Setup",
+                "Pawns vs Characters in C++",
+                "Character Movement Functions",
+                "Controller Aiming",
+                "Third Person Camera Spring Arm",
+                "Skeletal Animations 101",
+                "Editing Collision Meshes",
+                "Animation Blueprints 101",
+                "2D Blend Spaces",
+                "Connecting Animation To Gameplay",
+                "Inverse Transforming Vectors",
+                "Calculating Animation Speeds",
+                "Gun Actors",
+                "Spawning Actors At Runtime",
+                "Attaching To Meshes Via Sockets",
+                "Shooting Architecture",
+                "Spawning Particle Effects",
+                "Player View Point",
+                "Line Tracing By Channel",
+                "Impact Effects",
+                "Dealing Damage To Actors",
+                "Virtual Methods In C++",
+                "Overriding TakeDamage",
+                "Blending Animations By Booleans",
+                "Blueprint Pure Nodes",
+                "Create and Setup an AI controller",
+                "AI Aiming",
+                "Nav Mesh And AI Movement",
+                "Checking AI Line Of Sight",
+                "BehaviorTrees And Blackboards",
+                "Setting Blackboard Keys In C++",
+                "Behavior Tree Tasks And Sequences",
+                "BT Decorators And Selectors",
+                "Custom BTTasks In C++",
+                "Executing BTTasks",
+                "BTTasks That Use The Pawn",
+                "BTServices In C++",
+                "Ignoring Actors In Line Traces",
+                "Ending The Game",
+                "Setting Timers In C++",
+                "Displaying A Lose Screen",
+                "Iterating Over Actors",
+                "Calculating The Win Condition",
+                "Refactoring PullTrigger",
+                "Weapon Sound Effects",
+                "Randomized Sound Cues",
+                "Sound Spatialization",
+                "Crosshairs and HUDs",
+                "Health Bars",
+                "AimOffsets",
+                "Animation State Machines",
+                "Complex State Machines",
+                "Wrap-up And Challenges"
+            ]
+        },
+        {
+            "sectionName": "Continuing Your GameDev Journey",
+            "unitNames": [
+                "Coupon For Original Course Content",
+                "Bonus Lecture - Our Other Courses"
+            ]
+        }
+    ]
 }

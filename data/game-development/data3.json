@@ -6,20 +6,20 @@
     "course": {
         "title": "Complete C# Unity Game Developer 3D",
         "subtitle": "Design & Develop Video Games. Learn C# in Unity Engine. Code Your first 3D Unity games for web, Mac & PC.",
-        "descriptions":  "",
+        "descriptions": [],
         "reviews": [],
         "students": [],
-        "image1xURL": "https://img-b.udemycdn.com/course/240x135/1178124_76bb_9.jpg",
-        "image2xURL": "https://img-b.udemycdn.com/course/480x270/1178124_76bb_9.jpg",
-        "image3xURL": "https://img-b.udemycdn.com/course/750x422/1178124_76bb_9.jpg",
+        "image1xURL": "https://img-a.udemycdn.com/course/240x135/1178124_76bb_10.jpg",
+        "image2xURL": "https://img-a.udemycdn.com/course/480x270/1178124_76bb_10.jpg",
+        "image3xURL": "https://img-a.udemycdn.com/course/750x422/1178124_76bb_10.jpg",
         "discountPrice": 11.99,
         "originalPrice": 129.99,
         "numViews": 0,
-        "curriculum": {}
+        "curriculum": []
     },
     "reviews": [
         {
-            "body": "This course is excellent for beginners, giving a strong foundation in programming but makes sure to implement other useful skills and game design tactics",
+            "body": "An amazing introduction to coding for beginners.\n\nWell structured, friendly, and an overall good experience for anyone looking to learn how to make 3D video games using C#",
             "rating": 5
         },
         {
@@ -31,27 +31,27 @@
             "rating": 4.5
         },
         {
-            "body": "I would like to see a few sections updated, but overall this was an excellent course to get started using Unity and C#.",
-            "rating": 4
-        },
-        {
-            "body": "Великолепный огромный курс, в котором кажется, что тебя ведут за ручку, но, при этом, заставляют все запоминать, отрабатывать на практике. Потрясающе)",
-            "rating": 5
-        },
-        {
-            "body": "Great Course!\n\nI can tell I'll be reviewing material from time to time.\n\nWhile I continue on journey as is invaluable.",
-            "rating": 5
-        },
-        {
             "body": "Ben and Rick are just 2 lovable tutors. No lecture felt boring especially with the Rick's lecture where Rick lets his quirkiness shine and introduces humor into the lectures at times. The instructor hangout is a really really cool feature where they pause and interact to answer the most pertinent questions.\n\nJust an awesome feeling throughout.",
             "rating": 5
         },
         {
-            "body": "This is has been my first look into coding, and unity.\n\nAbove any expectation i could have had! i have learned so much is such a short time frame. this will be the base on witch i will make great and amazing products",
+            "body": "This course actually has better and different content making you learn new things rather than other teachers which repeat the same things like every other course.",
             "rating": 5
         },
         {
-            "body": "It's a great match for me. Just learning C# and Unity and you guys combined them both in one lesson that's so awesome. I like how you guys start from scratch assuming i know nothing. Not all teachers do this. Thanks a lot! God Bless! EDIT: Finished the course and it was awesome! Highly recommend it! Audio was good could clearly hear the instructors. Content was nice progression even tho i wanted to skip ahead to the first person shooter section. Instructors give challenges and quizzes which helped me learn a lot and most times i enjoyed them. Most assets are provided for free which is a huge plus and if they weren't provided they were easy to find for free on the asset store. The only problem i had in the course is not the instructors fault but Unitys. They changed the Post-Processing and ProGrid tools in the newer version of Unity so it was harder to find and harder to install properly. With that being said i was able to complete this course with Unity 2019.4.1 and later upgraded to Unity 2019.4.4 and was able to follow along nicely! Thanks again Ben and Rick!",
+            "body": "This course is excellent for beginners, giving a strong foundation in programming but makes sure to implement other useful skills and game design tactics",
+            "rating": 5
+        },
+        {
+            "body": "Great course with great instructors. I recommend this course to anyone wanting to learn Unity 3d. I will definitely get more courses by these instructors.",
+            "rating": 5
+        },
+        {
+            "body": "With so so much to understand when it comes to Game Development, this course does a great job to not only introduce you to many of the parts that have to come together to make a game but also share some knowledge and tips on game theory, 3D modelling, sound design, math, QA, game design and much more.\n\nThe lessons are easy to follow and you can tell the instructors are not new to this as they do a great job teaching. It also appears the lessons are constantly being updated and even certain mistakes or oversights that might have been done are touched upon and corrected.\n\nThere's also quite an active community in the Q&A section, making you feel that you're kind of part of a class and not on this journey alone. In this section, you can see some of the most frequent questions and even some extra tips and pieces of code from your fellow coders.\n\nThis has been a brilliant journey. The first time you press a button and your character does something on the screen, or the first time you manage to complete one of the many code challenges, you will feel so rewarded that it will serve as an incentive to push yourself forward and challenge yourself even more. Both Ben and Rick actively challenge us to try and do things before they show us how to do them and try to give us the both the tools and (more importantly) the mindset that is needed to be successfull in this type of work.\n\nHighly recommend it. I already got more courses from them and I'm excited to see what comes next!",
+            "rating": 5
+        },
+        {
+            "body": "Found this course really useful for expanding my knowledge of C# and Unity. The two presenters have different approaches and compliment each other. Both bring a lot to the course. Learned important things about myself too. Ben's programming angle is easier for me because I'm more interested in the technical side of game development. Rick's design focus is more challenging for me because it's a blank canvas: I can spend as long as I want polishing assets etc. I'm weakest in design and that's where I need more help going forward, if I want my games to be as professional as I can make them.",
             "rating": 5
         },
         {
@@ -59,161 +59,182 @@
             "rating": 5
         },
         {
-            "body": "This course was a good introduction into Unity and C#. I went in with a very very minimal experience in C# and left feeling confident in the concepts covered in this course. I also feel confident looking into the Unity Scripting manuals, scripting questions on stackoverflow and other forums, and understanding the problems and peoples proposed solutions.\n\nThe instructors, Ben and Rick, did a very good job of breaking unity and C# into digestible pieces and implementing the spiral syllabus! Big thank you to you two!",
+            "body": "Thanks you so much guys. This course was bloody brilliant!\n\nI've gone from having zero experience coding, literally not knowing what a variable is, to understanding methods, IF and Switch, how to link up components in the UNITY editor, collisions, triggers, terrains, scaling and movement principles, Math.f even a bit of coroutines (which took me a while, but thanks to your spiral approach, and Rick putting it on right at the end, I've now got down to a tee).\n\nI'm now able to go off grid and create my own scripts in a way I really didn't think was possible when we first started back in Terminal Hacker.\n\nAnd on top of the coding, this course has given me a great foundation in how to use Unity, and I feel right at home.\n\nCan't recommend it enough.\n\nAnd I just want to say a big sincere thank you to Ben and Rick for showing me the way.",
             "rating": 5
         },
         {
-            "body": "Thanks you so much guys. This course was bloody brilliant!\n\nI've gone from having zero experience coding, literally not knowing what a variable is, to understanding methods, IF and Switch, how to link up components in the UNITY editor, collisions, triggers, terrains, scaling and movement principles, Math.f even a bit of coroutines (which took me a while, but thanks to your spiral approach, and Rick putting it on right at the end, I've now got down to a tee).\n\nI'm now able to go off grid and create my own scripts in a way I really didn't think was possible when we first started back in Terminal Hacker.\n\nAnd on top of the coding, this course has given me a great foundation in how to use Unity, and I feel right at home.\n\nCan't recommend it enough.\n\nAnd I just want to say a big sincere thank you to Ben and Rick for showing me the way.",
+            "body": "Absolutely amazing course, I would definitely recommend it to anyone interested in 3D game design. We created some really interesting games. :)",
             "rating": 5
         }
     ],
     "students": [
         {
-            "name": "Mason Beale",
-            "email": "masonbeale@gmail.com",
-            "password": "masonbeale",
+            "name": "Jonah Whitson",
+            "email": "jonahwhitson@gmail.com",
+            "password": "jonahwhitson",
             "role": "s",
-"isConfirmed": true
+            "isConfirmed": true
         },
         {
             "name": "GameDev.tv Team",
             "email": "gamedev.tvteam@gmail.com",
             "password": "gamedev.tvteam",
             "role": "s",
-"isConfirmed": true
+            "isConfirmed": true
         },
         {
             "name": "Cindy Dalrymple",
             "email": "cindydalrymple@gmail.com",
             "password": "cindydalrymple",
             "role": "s",
-"isConfirmed": true
+            "isConfirmed": true
         },
         {
             "name": "GameDev.tv Team",
             "email": "gamedev.tvteam@gmail.com",
             "password": "gamedev.tvteam",
             "role": "s",
-"isConfirmed": true
+            "isConfirmed": true
         },
         {
             "name": "Dyston Madsen",
             "email": "dystonmadsen@gmail.com",
             "password": "dystonmadsen",
             "role": "s",
-"isConfirmed": true
+            "isConfirmed": true
         },
         {
             "name": "GameDev.tv Team",
             "email": "gamedev.tvteam@gmail.com",
             "password": "gamedev.tvteam",
             "role": "s",
-"isConfirmed": true
-        },
-        {
-            "name": "Stephen Piegan",
-            "email": "stephenpiegan@gmail.com",
-            "password": "stephenpiegan",
-            "role": "s",
-"isConfirmed": true
-        },
-        {
-            "name": "Харитонов Евгений",
-            "email": "харитоновевгений@gmail.com",
-            "password": "харитоновевгений",
-            "role": "s",
-"isConfirmed": true
-        },
-        {
-            "name": "J. R.",
-            "email": "j.r.@gmail.com",
-            "password": "j.r.",
-            "role": "s",
-"isConfirmed": true
-        },
-        {
-            "name": "GameDev.tv Team",
-            "email": "gamedev.tvteam@gmail.com",
-            "password": "gamedev.tvteam",
-            "role": "s",
-"isConfirmed": true
+            "isConfirmed": true
         },
         {
             "name": "Ritvik Upadhyay",
             "email": "ritvikupadhyay@gmail.com",
             "password": "ritvikupadhyay",
             "role": "s",
-"isConfirmed": true
+            "isConfirmed": true
         },
         {
             "name": "GameDev.tv Team",
             "email": "gamedev.tvteam@gmail.com",
             "password": "gamedev.tvteam",
             "role": "s",
-"isConfirmed": true
+            "isConfirmed": true
         },
         {
-            "name": "Logan Taylor",
-            "email": "logantaylor@gmail.com",
-            "password": "logantaylor",
+            "name": "Himanshu",
+            "email": "himanshu@gmail.com",
+            "password": "himanshu",
             "role": "s",
-"isConfirmed": true
-        },
-        {
-            "name": "GameDev.tv Team",
-            "email": "gamedev.tvteam@gmail.com",
-            "password": "gamedev.tvteam",
-            "role": "s",
-"isConfirmed": true
-        },
-        {
-            "name": "John Murphy",
-            "email": "johnmurphy@gmail.com",
-            "password": "johnmurphy",
-            "role": "s",
-"isConfirmed": true
+            "isConfirmed": true
         },
         {
             "name": "GameDev.tv Team",
             "email": "gamedev.tvteam@gmail.com",
             "password": "gamedev.tvteam",
             "role": "s",
-"isConfirmed": true
+            "isConfirmed": true
+        },
+        {
+            "name": "Mason Beale",
+            "email": "masonbeale@gmail.com",
+            "password": "masonbeale",
+            "role": "s",
+            "isConfirmed": true
+        },
+        {
+            "name": "GameDev.tv Team",
+            "email": "gamedev.tvteam@gmail.com",
+            "password": "gamedev.tvteam",
+            "role": "s",
+            "isConfirmed": true
+        },
+        {
+            "name": "Tony Caseboldt",
+            "email": "tonycaseboldt@gmail.com",
+            "password": "tonycaseboldt",
+            "role": "s",
+            "isConfirmed": true
+        },
+        {
+            "name": "GameDev.tv Team",
+            "email": "gamedev.tvteam@gmail.com",
+            "password": "gamedev.tvteam",
+            "role": "s",
+            "isConfirmed": true
+        },
+        {
+            "name": "reap sow",
+            "email": "reapsow@gmail.com",
+            "password": "reapsow",
+            "role": "s",
+            "isConfirmed": true
+        },
+        {
+            "name": "GameDev.tv Team",
+            "email": "gamedev.tvteam@gmail.com",
+            "password": "gamedev.tvteam",
+            "role": "s",
+            "isConfirmed": true
+        },
+        {
+            "name": "Alan Martin",
+            "email": "alanmartin@gmail.com",
+            "password": "alanmartin",
+            "role": "s",
+            "isConfirmed": true
+        },
+        {
+            "name": "GameDev.tv Team",
+            "email": "gamedev.tvteam@gmail.com",
+            "password": "gamedev.tvteam",
+            "role": "s",
+            "isConfirmed": true
         },
         {
             "name": "asdf fdsa",
             "email": "asdffdsa@gmail.com",
             "password": "asdffdsa",
             "role": "s",
-"isConfirmed": true
+            "isConfirmed": true
         },
         {
             "name": "GameDev.tv Team",
             "email": "gamedev.tvteam@gmail.com",
             "password": "gamedev.tvteam",
             "role": "s",
-"isConfirmed": true
-        },
-        {
-            "name": "Matt Campbell",
-            "email": "mattcampbell@gmail.com",
-            "password": "mattcampbell",
-            "role": "s",
-"isConfirmed": true
-        },
-        {
-            "name": "GameDev.tv Team",
-            "email": "gamedev.tvteam@gmail.com",
-            "password": "gamedev.tvteam",
-            "role": "s",
-"isConfirmed": true
+            "isConfirmed": true
         },
         {
             "name": "Alex",
             "email": "alex@gmail.com",
             "password": "alex",
             "role": "s",
-"isConfirmed": true
+            "isConfirmed": true
+        },
+        {
+            "name": "GameDev.tv Team",
+            "email": "gamedev.tvteam@gmail.com",
+            "password": "gamedev.tvteam",
+            "role": "s",
+            "isConfirmed": true
+        },
+        {
+            "name": "Christopher Stott",
+            "email": "christopherstott@gmail.com",
+            "password": "christopherstott",
+            "role": "s",
+            "isConfirmed": true
+        },
+        {
+            "name": "GameDev.tv Team",
+            "email": "gamedev.tvteam@gmail.com",
+            "password": "gamedev.tvteam",
+            "role": "s",
+            "isConfirmed": true
         }
     ],
     "instructor": {
@@ -221,7 +242,281 @@
         "email": "bentristem@gmail.com",
         "password": "bentristem",
         "role": "i",
-"isConfirmed": true,
-        "briefIntroduction": "<p>Hi, I'm Ben. I have a degree in computing from Imperial College London, and a physics diploma from the Open University.&nbsp; </p><p>I started working for myself at the age of 15, and never looked back. I explored careers as varied as being a commercial pilot, stunt-man, rock climbing instructor, and more. None of these provided a continued challenge, and stable income in the same way technology does.&nbsp; </p><p>After building and selling a home computer support business, I became an angel investor and business mentor here in Cambridge UK. I fell in love with teaching game development through one of my investments, and I now spend all of my time sharing my passion with people like you.&nbsp; </p><p>I can't wait to help you experience the fulfilment, and financial freedom, that having a deep understanding of technology brings.&nbsp; </p><p>So why not start learning to make games with me and my team now? </p><p>See you soon!&nbsp; </p><p>Ben</p>"
-    }
+        "briefIntroduction": "<p>Hi, I'm Ben. I have a degree in computing from Imperial College London, and a physics diploma from the Open University.&nbsp; </p><p>I started working for myself at the age of 15, and never looked back. I explored careers as varied as being a commercial pilot, stunt-man, rock climbing instructor, and more. None of these provided a continued challenge, and stable income in the same way technology does.&nbsp; </p><p>After building and selling a home computer support business, I became an angel investor and business mentor here in Cambridge UK. I fell in love with teaching game development through one of my investments, and I now spend all of my time sharing my passion with people like you.&nbsp; </p><p>I can't wait to help you experience the fulfilment, and financial freedom, that having a deep understanding of technology brings.&nbsp; </p><p>So why not start learning to make games with me and my team now? </p><p>See you soon!&nbsp; </p><p>Ben</p>",
+        "isConfirmed": true
+    },
+    "curriculum": [
+        {
+            "sectionName": "First Steps - Getting Set Up",
+            "unitNames": [
+                "Why You Should Buy This Course",
+                "Get Unity & Visual Studio Downloading",
+                "How To Use This Course",
+                "Introducing Unity",
+                "The Wonder Of Prefabs",
+                "Introducing Visual Studio",
+                "Fixing Visual Studio Problems",
+                "Check Your Understanding 1.1",
+                "Instructor Hangout 1.1",
+                "Section 1 Conclusion"
+            ]
+        },
+        {
+            "sectionName": "Terminal Hacker - Basic C#",
+            "unitNames": [
+                "Welcome To Section 2",
+                "Terminal Hacker Game Design",
+                "Import WM2000 Terminal Asset",
+                "Using Our Terminal.WriteLine()",
+                "Your First Function",
+                "Introducing Variables",
+                "Functions With Variable Parameters",
+                "Messages Are Special Functions",
+                "C# Operators & Expressions",
+                "Conditional Program Flow Using if",
+                "Check Your Understanding 2.1",
+                "Instructor Hangout 2.1",
+                "We’re About To Pick-Up Pace",
+                "Member Variables To Hold State",
+                "Enumerating Our Game States",
+                "Refactoring Our Code",
+                "Your First Solo",
+                "Arrays Of Variables",
+                "switch vs if",
+                "Introducing Random Behaviour",
+                "Creating A Win Screen",
+                "Section 2 Integration Challenge",
+                "Instructor Hangout 2.2",
+                "Check Your Understanding 2.2",
+                "Share Online & Play Test",
+                "Feedback & Bug Fixes",
+                "Section 2 Wrap-Up"
+            ]
+        },
+        {
+            "sectionName": "Project Boost - Basic Unity",
+            "unitNames": [
+                "Welcome To Section 3",
+                "Project Boost Game Design",
+                "Onion Design",
+                "SourceTree Differences on Mac",
+                "Introducing Version Control",
+                "Add Unity .gitignore Easily",
+                "The Origin Of Our World",
+                "Placeholder Art From Primitives",
+                "Basic Input Binding",
+                "Physics and Rigidbodies",
+                "Coordinate System Handedness",
+                "Using Time.deltaTime",
+                "Check Your Understanding 3.1",
+                "Instructor Hangout 3.1",
+                "Adding A Touch Of Audio",
+                "Resolving Movement Bugs",
+                "Using SerializeField vs public",
+                "Tagging Game Objects As Friendly",
+                "Basic Level Design",
+                "Design Levers And Tuning",
+                "Making A Second Level",
+                "Prefabs In Detail",
+                "Level Loading & Scene Management",
+                "Invoke() As A Coroutine Warm-up",
+                "Check Your Understanding 3.2",
+                "Instructor Hangout 3.2",
+                "Playing Multiple Audio Clips",
+                "Introducing Particle Effects",
+                "Moving Platform Pattern",
+                "Mathf.Sin() For Movement Cycles",
+                "Protecting Against NaN",
+                "Organise Your Assets",
+                "Light Your Scene",
+                "Nested Prefab Joy",
+                "Make Game Moments",
+                "Debug Keys & Builds",
+                "Check Your Understanding 3.3",
+                "Instructor Hangout 3.3",
+                "Looping Through Levels",
+                "Sharing With Teaser Video",
+                "Spit & Polish",
+                "Section 3 Wrap-Up"
+            ]
+        },
+        {
+            "sectionName": "Argon Assault - Rails Shooter",
+            "unitNames": [
+                "Welcome To Section 4",
+                "Argon Assault Game Design",
+                "Update Unity & Create Project",
+                "Create Terrain",
+                "Terrain & Later Unity Versions",
+                "Texture The Terrain",
+                "Add A Skybox",
+                "Add Player Ship",
+                "Setup A Splash Screen",
+                "Playing Music Between Scenes",
+                "Unity’s Waypoint Utility Scripts",
+                "Check Your Understanding 4.1",
+                "Instructor Hangout 4.1",
+                "Using Cross Platform Input",
+                "Input Sensitivity & Gravity",
+                "Mathf.Clamp() To Restrict Movement",
+                "Understanding Roll, Pitch & Yaw",
+                "How To Set Local Rotation",
+                "Rotate Ship With Position & Throw",
+                "Time To Tweak And Tune",
+                "Create Bullet Particles",
+                "Explosion Particles & SFX",
+                "Dodge And Shoot",
+                "Check Your Understanding 4.2",
+                "Instructor Hangout 4.2",
+                "Project Tidying Checklist",
+                "Triggers & Collisions In Unity",
+                "SendMessage() Between Components",
+                "Enable A Gameobject From C#",
+                "Singleton Pattern Without Statics",
+                "Detecting Particle Collisions",
+                "Making Scripts Add Components",
+                "Instantiating At Runtime",
+                "Add Simple Score UI",
+                "A ScoreBoard Class",
+                "Check Your Understanding 4.3",
+                "Instructor Hangout 4.3",
+                "Introducing Encapsulation",
+                "Back-pedalling With Version Control",
+                "Iterating With foreach",
+                "Enemy Health System",
+                "Level Design Beat Chart",
+                "Level Design Iteration",
+                "Introduction To Unity Timeline",
+                "Unity Timeline For Player Path",
+                "Unity Timeline Enemy Waves",
+                "Adding Flavour With Timeline",
+                "Stop Particle Emission In C#",
+                "Visual Polish",
+                "Check Your Understanding 4.4",
+                "Section 4 Wrap-Up"
+            ]
+        },
+        {
+            "sectionName": "Realm Rush - Tower Defence",
+            "unitNames": [
+                "Welcome To Section 5",
+                "Realm Rush Game Design",
+                "Limitations Of Unity Pathfinding",
+                "Z-Fighting And Quads",
+                "[ExecuteInEditMode] Attribute",
+                "Using Text Mesh For Labels",
+                "C-Sharp Lists For Custom Path",
+                "Introducing Coroutines",
+                "Types Of Pathfinding",
+                "The Path Ahead",
+                "Instance Variables And Constants",
+                "The Dictionary Data Structure",
+                "Check Your Understanding 5.1",
+                "Finding Game Objects By Name",
+                "Explore Thy Neighbour",
+                "Breadth First Search Algorithm",
+                "Introducing C# Queues",
+                "Running Manual Tests",
+                "A Breadcrumb Trail",
+                "Reversing A List",
+                "Adding Production Assets",
+                "Tower LookAt Enemy",
+                "MagicaVoxel Bonus Content",
+                "Check Your Understanding 5.2",
+                "Another Solo Challenge",
+                "Make Tower Shoot",
+                "Enemy HitPoints",
+                "Check For Distance",
+                "Subtleties Of Spawning",
+                "Revise Coroutines & Much More",
+                "Target Closest Enemy",
+                "Detecting Mouse In 3D",
+                "Conditional Instantiation",
+                "Check Your Understanding 5.3",
+                "Bloom’s Taxonomy",
+                "Particles & Algorithm Improvements",
+                "Circular Or Ring Buffers",
+                "Implementing A Ring Buffer",
+                "Revising C# Queues",
+                "How To Destroy Particles",
+                "Complete Game Loop",
+                "Health For Base",
+                "Display Health & Score",
+                "Unity Post Processing Stack",
+                "Hook Up SFX",
+                "PlayClipAtPoint() For SFX",
+                "Tune Your Game Moment",
+                "Check Your Understanding 5.4",
+                "Section 5 Wrap Up"
+            ]
+        },
+        {
+            "sectionName": "Zombie Runner - First Person Shooter",
+            "unitNames": [
+                "Welcome To Zombie Runner",
+                "Zombie Runner Game Design",
+                "Adding First Person Controller",
+                "Make A Prototyping Sandbox",
+                "Using NavMeshAgent For AI",
+                "Getting Stuck & Jittering",
+                "Enemy AI - Chase Range",
+                "Quiz - Zombie Runner #1",
+                "Using OnDrawGizmosSelected()",
+                "Enemy AI - Attack If Provoked",
+                "Give That Player A Gun",
+                "Introduction To Raycasting",
+                "Enemy Health & Damage",
+                "Implement A Muzzle Flash",
+                "Creating Shooting Hit Effect",
+                "Introduction To Animator Controller",
+                "Creating A Simple Animation",
+                "Animator Transition Conditions",
+                "Quiz - Zombie Runner #2",
+                "Trigger Animation In Code",
+                "Use Animation Events",
+                "Create Player Health Class",
+                "Rotate To Face Target",
+                "Game Over User Interface",
+                "Create A Death Handler",
+                "Using BroadcastMessage",
+                "Early Gameplay Loop",
+                "Weapon System Overview",
+                "Weapon Zoom - Field Of View",
+                "Quiz - Zombie Runner #3",
+                "Weapon Zoom - Mouse Sensitivity",
+                "Basic Ammo Functionality",
+                "Multiple Weapon Types",
+                "Weapon Differentiation",
+                "Set Active Weapon",
+                "Player Input To Select Weapon",
+                "Public Enum & Private Class",
+                "Different Weapon Different Ammo",
+                "Quick Bug Fix Challenge",
+                "Ammo Pickup - Part 1",
+                "Ammo Pickup - Part 2",
+                "Quiz - Zombie Runner #4",
+                "Let's Add A Zombie",
+                "Quick Zombie Attack Challenge",
+                "Flex Your Level Design Muscles",
+                "Add Terrain & Trees",
+                "ProBuilder For Making Props",
+                "ProBuilder To Make Rooms",
+                "ProBuilder To Make Levels",
+                "Adding Textures With ProBuilder",
+                "We Need Some Lights",
+                "Create A FlashLight",
+                "Create A Battery Pickup",
+                "Quiz - Zombie Runner #5",
+                "Display Current Ammo UI",
+                "Damage Received UI",
+                "Props & Polish"
+            ]
+        },
+        {
+            "sectionName": "Bonus Section",
+            "unitNames": [
+                "BONUS LECTURE: Our Other Courses"
+            ]
+        }
+    ]
 }
