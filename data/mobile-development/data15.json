@@ -6,7 +6,7 @@
     "course": {
         "title": "The Complete Android Kotlin Developer Course",
         "subtitle": "Learn how to build 17 online games, and apps for Android Q, like Pokémon , twitter,Tic Tac Toe, and notepad using Kotlin",
-        "descriptions":  "",
+        "descriptions": [],
         "reviews": [],
         "students": [],
         "image1xURL": "https://img-b.udemycdn.com/course/240x135/1207960_a8af_2.jpg",
@@ -15,9 +15,13 @@
         "discountPrice": 11.99,
         "originalPrice": 129.99,
         "numViews": 0,
-        "curriculum": {}
+        "curriculum": []
     },
     "reviews": [
+        {
+            "body": "not have all concepts of kotlin its like just basic kotlin not all feature covered in this course its useless for kotlin learner.",
+            "rating": 1
+        },
         {
             "body": "Overall nice experience to learn for first timer. Its quite easy to understand and straightforward information.",
             "rating": 4.5
@@ -35,122 +39,118 @@
             "rating": 3
         },
         {
-            "body": "very nice tutorial",
-            "rating": 5
+            "body": "I should have asked for a refund of the course long back but I completed more than half & they aren't allowing me a refund now.\n\nProblems with the course:\n\n- Bad English. Just see the app names in course description. Could have well made a course in Arabic like his youtube channel if he's not comfortable in English.\n\n- Hasn't put much effort in editing the videos. Bad audio. Some videos have so low audio that I had to depend on the half correct subtitles.\n\n- Can't make good UI or even write good code. Can't even explain why he's doing things the way he is. To be honest, I'm not sure how he got to work in Google & Microsoft or maybe those are plain lies like is claim of having MILLIONS of users on his apps.\n\n- Just goes around problems instead of fixing them or even explaining them. Not sure if this bad teaching or just lack of knowledge. I think it is the later.\n\n- He has earned millions by making poor courses like these thanks to his guardian's money which got him into USA & also thanks to his mentors(mostly from his background who helped him blindly) in Rochester Institute of Technology who gave him more than a helping hand. I indeed did research about him everywhere & came to these conclusions.\n\nIf you're reading this, you're lucky I faced this fraud & not you. Don't waste your money on this course.",
+            "rating": 1
         },
         {
             "body": "Its a good course..but language of speaker is not that fluent some words are not clearly understand ,it should be have a better fluenter so that listener can easily understand..",
             "rating": 4.5
         },
         {
-            "body": "This is more a course about how to do android app in the worst possible way.\n\n- The code is horrible. The author creates methods and attributes as needed, without following any order structure.\n\n- Kotlin? Half. Use kotlin to program and it works. But it constantly uses expressions that it shouldn't use. For example, he uses the second constructor instead of the main one, he is constantly using !! to avoid checking nulls, he doesn't use data classes either ... it's one after another\n\n- Some apps don't even finish them, because they get so confusing that even he doesn't seem to know how to go on. Like the TicTacToe example.\n\n- Many applications do not work, for example the alarm. Or anyone that involves using external services (weather application, Maps application ...)\n\n- He does not answer questions or have someone to answer them. Basically you have access to these videos and code, but nothing else.\n\nI am disappointed with the course.",
-            "rating": 1
-        },
-        {
-            "body": "can't hear the audio well and really hard to understand basic fundamental concepts. not very good but one of the only few Kotlin courses out there ..",
-            "rating": 1
+            "body": "code écrit n'importe comment, aucun respect des conventions de nommage et indentation\n\nL'avantage du cours c'est qu'on apprend bien les erreurs communes tellement il en fait, et on apprend aussi a debugger.\n\nLe code est fait sans réflechir, il copie colle des pavés de lignes plutot que faire un code intelligent et pratique.\n\nA propos du code en lui-même, la plupart du code écrit est du java. J'avais déja des bonnes notions de Kotlin avant de commencer le cours et je vois plein de fois ou le code pourrait être bien plus pratique en Kotlin plutot qu'en Java\n\n(renseignez vous sur les constructeurs en Kotlin et les listes. Rien que ça, ça sera tellement mieux que ce qui est montré dans le cours)\n\nLe plus gros défaut du cours a mes yeux c'est que le cours n'est pas préparé. Le \"professeur\" code sans savoir ce qu'il va faire, il se retrouve donc confronté a beaucoup de bug qu'il résoud juste en prenant la première solution proposée par Android Studio.\n\nCela provoque l'effet désagréable de regarder le cours sans savoir si ce qu'il dit est vrai et fonctionnel. Un nombre de fois incalculable le code écrit est remplacé pour une raison X ou Y.\n\nEt quand il ne trouve pas la solution, il met en pause la vidéo pour aller nous sortir une solution sorti de nul part.\n\nPour les exercices, les seuls exercices que vous aurez sont 3 questions basiques en début de cours du genre 1+1 = ? mais quand on rentre dans le vif du sujet, le contenu du cours nous laisse juste spectateur.\n\nPour résumer, ce cours n'est pas un tutoriel mais une présentation d'applications faite par un développeur lambda.\n\nJe pense que le tuto peut servir pour des gens qui veulent approfondir leurs connaissances mais n'apprenez surtout pas Kotlin avec ce tuto, votre code fonctionnera mais vous vous ferez virer de vos boulots avec un code pareil.",
+            "rating": 2
         },
         {
             "body": "+ Instructor's English language : very bad\n\n+ Kotlin explanation from section 1 to 11 : good\n\n+ Android projects implementation from section 12 to 31 : very bad\n\n+ Overall : very bad",
             "rating": 1
         },
         {
-            "body": "This would have been a good match, however the course had technical issues, with poor application of the Kotlin language, especially an overzealous use of the not null assertion operator (!!), which defeats the point of Kotlin's null safety.\n\nThe explanations were not clear in some parts, I replied to 9 questions in the course, 7 of which were to help out other confused students (I also was compelled to re-write some of the applications).\n\nRegarding section 29 and 30:\n\n29 was in effect a duplicate of 24, and both sections (29 and 30) dealt with technologies, outside the remit of this course! This is an Android + Kotlin course, yet, PHP, node.js and C# development was involved, when Kotlin could have been used instead.",
-            "rating": 2.5
+            "body": "This is more a course about how to do android app in the worst possible way.\n\n- The code is horrible. The author creates methods and attributes as needed, without following any order structure.\n\n- Kotlin? Half. Use kotlin to program and it works. But it constantly uses expressions that it shouldn't use. For example, he uses the second constructor instead of the main one, he is constantly using !! to avoid checking nulls, he doesn't use data classes either ... it's one after another\n\n- Some apps don't even finish them, because they get so confusing that even he doesn't seem to know how to go on. Like the TicTacToe example.\n\n- Many applications do not work, for example the alarm. Or anyone that involves using external services (weather application, Maps application ...)\n\n- He does not answer questions or have someone to answer them. Basically you have access to these videos and code, but nothing else.\n\nI am disappointed with the course.",
+            "rating": 1
         },
         {
-            "body": "If you you enjoy debugging ugly chunks of code, look for resources by yourself... trying to understand poorly taken English. This is your course. Kotlin and SDK are so poorly used i am embarrassed. When it comes to PHP and MySQL, steps are skipped. Most of the concepts are poorly and some wrongly explained.",
-            "rating": 1.5
+            "body": "It was a good section ,as an android application developer to study and upgrade to kotlin this course is helpful.",
+            "rating": 4
         },
         {
-            "body": "Der Kurs gibt eine gute Einführung in Kotlin und welche Möglichkeiten Android-Studio zur App-Programmierung bietet. Es fehlt aber eine grundlegende Einführung in die GUI-Programmierung.\n\nDer Kurs leidet manchmal unter Sound-Problemen (verzerrt) und unscharfen Bildern. Für nicht Englisch-Muttersprachler ist das Englisch manchmal schwierig zu verstehen, da die Aussprache von der normalen abweicht z.B. string - cittering, empty - empeti.",
-            "rating": 3.5
+            "body": "Should add Lifecycle of android. You may be covering Kotlin but basic android is a must part",
+            "rating": 4
         }
     ],
     "students": [
+        {
+            "name": "Vishal Halani",
+            "email": "vishalhalani@gmail.com",
+            "password": "vishalhalani",
+            "role": "s",
+            "isConfirmed": true
+        },
         {
             "name": "Muhammad Hazeeq",
             "email": "muhammadhazeeq@gmail.com",
             "password": "muhammadhazeeq",
             "role": "s",
-"isConfirmed": true
+            "isConfirmed": true
         },
         {
             "name": "Ausdakorn Khantee",
             "email": "ausdakornkhantee@gmail.com",
             "password": "ausdakornkhantee",
             "role": "s",
-"isConfirmed": true
+            "isConfirmed": true
         },
         {
             "name": "Aman Raj",
             "email": "amanraj@gmail.com",
             "password": "amanraj",
             "role": "s",
-"isConfirmed": true
+            "isConfirmed": true
         },
         {
             "name": "Gloria Gonzales",
             "email": "gloriagonzales@gmail.com",
             "password": "gloriagonzales",
             "role": "s",
-"isConfirmed": true
+            "isConfirmed": true
         },
         {
-            "name": "issa Katuga",
-            "email": "issakatuga@gmail.com",
-            "password": "issakatuga",
+            "name": "Aritra Khan",
+            "email": "aritrakhan@gmail.com",
+            "password": "aritrakhan",
             "role": "s",
-"isConfirmed": true
+            "isConfirmed": true
         },
         {
             "name": "Sneha C R",
             "email": "snehacr@gmail.com",
             "password": "snehacr",
             "role": "s",
-"isConfirmed": true
+            "isConfirmed": true
         },
         {
-            "name": "José María Egea Canales",
-            "email": "josémaríaegeacanales@gmail.com",
-            "password": "josémaríaegeacanales",
+            "name": "AmauryDELANNOY",
+            "email": "amaurydelannoy@gmail.com",
+            "password": "amaurydelannoy",
             "role": "s",
-"isConfirmed": true
-        },
-        {
-            "name": "Nala Alan",
-            "email": "nalaalan@gmail.com",
-            "password": "nalaalan",
-            "role": "s",
-"isConfirmed": true
+            "isConfirmed": true
         },
         {
             "name": "Michael Magdy",
             "email": "michaelmagdy@gmail.com",
             "password": "michaelmagdy",
             "role": "s",
-"isConfirmed": true
+            "isConfirmed": true
         },
         {
-            "name": "Philip Wainwright",
-            "email": "philipwainwright@gmail.com",
-            "password": "philipwainwright",
+            "name": "José María Egea Canales",
+            "email": "josémaríaegeacanales@gmail.com",
+            "password": "josémaríaegeacanales",
             "role": "s",
-"isConfirmed": true
+            "isConfirmed": true
         },
         {
-            "name": "Manea Valentin Cornel",
-            "email": "maneavalentincornel@gmail.com",
-            "password": "maneavalentincornel",
+            "name": "Ahamed Nazim ch",
+            "email": "ahamednazimch@gmail.com",
+            "password": "ahamednazimch",
             "role": "s",
-"isConfirmed": true
+            "isConfirmed": true
         },
         {
-            "name": "Wolfram Hildebrandt",
-            "email": "wolframhildebrandt@gmail.com",
-            "password": "wolframhildebrandt",
+            "name": "Hemant",
+            "email": "hemant@gmail.com",
+            "password": "hemant",
             "role": "s",
-"isConfirmed": true
+            "isConfirmed": true
         }
     ],
     "instructor": {
@@ -158,7 +158,374 @@
         "email": "husseinalrubaye@gmail.com",
         "password": "husseinalrubaye",
         "role": "i",
-"isConfirmed": true,
-        "briefIntroduction": "<p> I am a Senior Software Engineer at Microsoft<strong>. </strong>I have Ph.D. &amp; Master in&nbsp;Software Engineering from Rochester Institute of Technology in USA. I've helped hundreds of thousands of students learn to code and change their lives by becoming a developer.&nbsp; I&nbsp;have&nbsp;apps in Google Play, Microsoft Store, and &nbsp;Apple Store<strong> </strong>there are more than <strong>million users </strong>who are using my apps. Also, I have many tutorials on YouTube( <strong>500k+ subscribes</strong>). Because of my contribution to teaching programming,&nbsp;I got<strong>&nbsp;Microsoft Most Valuable Professional (17) </strong>. Also, I teach at <strong>Udacity, Udemy, SkillShare, StackSkills, and a local university. </strong>For more see my website</p>"
-    }
+        "briefIntroduction": "<p> I am a Senior Software Engineer at Microsoft<strong>. </strong>I have Ph.D. &amp; Master in&nbsp;Software Engineering from Rochester Institute of Technology in USA. I've helped hundreds of thousands of students learn to code and change their lives by becoming a developer.&nbsp; I&nbsp;have&nbsp;apps in Google Play, Microsoft Store, and &nbsp;Apple Store<strong> </strong>there are more than <strong>million users </strong>who are using my apps. Also, I have many tutorials on YouTube( <strong>500k+ subscribes</strong>). Because of my contribution to teaching programming,&nbsp;I got<strong>&nbsp;Microsoft Most Valuable Professional (17) </strong>. Also, I teach at <strong>Udacity, Udemy, SkillShare, StackSkills, and a local university. </strong>For more see my website</p>",
+        "isConfirmed": true
+    },
+    "curriculum": [
+        {
+            "sectionName": "Introduction and Resources",
+            "unitNames": [
+                "Introduction",
+                "Course guidelines",
+                "Exercise files"
+            ]
+        },
+        {
+            "sectionName": "Setup the environment",
+            "unitNames": [
+                "Install Java JDK",
+                "Install IntelliJ IDEA"
+            ]
+        },
+        {
+            "sectionName": "Build First Kotlin App",
+            "unitNames": [
+                "Run first App",
+                "Data Types: Define Variables",
+                "Input data - ReadLine",
+                "Comments",
+                "swap two numbers",
+                "Solve Swap HomeWork"
+            ]
+        },
+        {
+            "sectionName": "Operations and Priorities",
+            "unitNames": [
+                "Math operations.",
+                "swap two numbers without using a temporary variable",
+                "Priorites",
+                "Increment and Decrement",
+                "What is the Output",
+                "App || Find my age",
+                "Debug your Code step by step"
+            ]
+        },
+        {
+            "sectionName": "Decision Making",
+            "unitNames": [
+                "Logic statement",
+                "Simple IF",
+                "IF- Else",
+                "When",
+                "Nested IF",
+                "Expression If and When.",
+                "Is number even or odd ?"
+            ]
+        },
+        {
+            "sectionName": "Loop Control",
+            "unitNames": [
+                "Simple For Loop",
+                "While and Do-While Loop",
+                "Nested Loops and Condition",
+                "Returns and Jumps",
+                "Find list of even numbers"
+            ]
+        },
+        {
+            "sectionName": "Data Structures (Collections)",
+            "unitNames": [
+                "Definitions and Wrappers",
+                "One-Dimension Array structure",
+                "One-Dimension Array implementation",
+                "String",
+                "ArrayList",
+                "LinkedList",
+                "HashMap",
+                "Improve code quality",
+                "mutable vs Immutable"
+            ]
+        },
+        {
+            "sectionName": "Functions",
+            "unitNames": [
+                "Simple Function",
+                "Function Overload",
+                "Polymorphism",
+                "Global and Local Variables",
+                "Lamda"
+            ]
+        },
+        {
+            "sectionName": "Object Oriented Programming",
+            "unitNames": [
+                "What is OOP",
+                "Simple Class",
+                "constructor",
+                "Inheritance",
+                "Visibility Modifiers",
+                "Overriding",
+                "super and this",
+                "Extensions",
+                "Data Class",
+                "interface",
+                "Delegation",
+                "Casting",
+                "Abstract",
+                "Enum",
+                "Generic",
+                "Packages",
+                "Inner and Nested Class",
+                "Lazy and Singleton design pattern",
+                "Comparable || Sort array of Objects"
+            ]
+        },
+        {
+            "sectionName": "Storage||Files",
+            "unitNames": [
+                "Exceptions: Try-Catch",
+                "File Write",
+                "File Read"
+            ]
+        },
+        {
+            "sectionName": "Multi Threading",
+            "unitNames": [
+                "Multi Threading Concept",
+                "Multi Threading example"
+            ]
+        },
+        {
+            "sectionName": "Android Startup",
+            "unitNames": [
+                "Install Android Studio",
+                "Build Your First Android App"
+            ]
+        },
+        {
+            "sectionName": "Find my age App",
+            "unitNames": [
+                "Find my age Preview",
+                "Layout design with constraint layout",
+                "Implement App code",
+                "Debug and Find Errors"
+            ]
+        },
+        {
+            "sectionName": "Complete Tic Tac toy game",
+            "unitNames": [
+                "Tic Tac Toy overview",
+                "Layout desgin with TableLayout",
+                "Buttons call event",
+                "Find winner",
+                "Play with device",
+                "Multi Level Game"
+            ]
+        },
+        {
+            "sectionName": "Calculator app",
+            "unitNames": [
+                "calculator preview",
+                "layout design",
+                "Add colors to app",
+                "fix Design issue",
+                "Number Click.",
+                "Add math operations",
+                "margin buttons",
+                "Percent and Clean",
+                "Supporting Multiple Screens"
+            ]
+        },
+        {
+            "sectionName": "Pockemon game in Android",
+            "unitNames": [
+                "Pockemon game overview",
+                "Setting the project and use Google Map API",
+                "Add marker with image on Map",
+                "Request on run time permission",
+                "Show player location on the map",
+                "Place Pockemons on the map",
+                "Catch Pockemon"
+            ]
+        },
+        {
+            "sectionName": "Zoo App",
+            "unitNames": [
+                "Zoo App preview",
+                "ListView layout design",
+                "Load listView with Data",
+                "Load different views in ListView",
+                "ListView events",
+                "Add or Remove item to listView",
+                "Support Different image size"
+            ]
+        },
+        {
+            "sectionName": "Restaurant menu",
+            "unitNames": [
+                "Restaurant menu preview",
+                "Design GridView Layout",
+                "Load gridView with list of foods",
+                "Show Food details"
+            ]
+        },
+        {
+            "sectionName": "Web services|| Find City Sunrise time App",
+            "unitNames": [
+                "Sunrise App preview",
+                "HTTP calls",
+                "Json and XML",
+                "City Sunrise App || UI  layout design",
+                "City Sunrise App|| HTTP calls and JSON read",
+                "Add nice Shape and rectangle for layout"
+            ]
+        },
+        {
+            "sectionName": "Sqlite database|| My Notes App",
+            "unitNames": [
+                "My notes app overview",
+                "Design notes  ListView",
+                "List dummy  notes  use ListView",
+                "Design Add notes  layout",
+                "use Menu bar and Intent",
+                "Styles",
+                "Add notes to Sqlite database",
+                "list notes from Sqlite database",
+                "delete notes from Sqlite database",
+                "update notes in Sqlite database",
+                "Support different languages and change app icon",
+                "The Activity Lifecycle"
+            ]
+        },
+        {
+            "sectionName": "Android P Updates",
+            "unitNames": [
+                "Implement navigation with the Navigation Architecture Component"
+            ]
+        },
+        {
+            "sectionName": "introduction To firebase",
+            "unitNames": [
+                "What is Firebase and Connect to Firebase",
+                "Firebase Authentication"
+            ]
+        },
+        {
+            "sectionName": "Firebase|| Online Tic tac toy game",
+            "unitNames": [
+                "Online game game overview",
+                "Connect to firebase and FirebaseAnalytics",
+                "Login Page desgin",
+                "FirebaseAuth With email and password",
+                "Add player info In firebase Database",
+                "play Game layout Design",
+                "Send Game Play request",
+                "Accept game inviation",
+                "Play game live",
+                "Notification to play game",
+                "Notification Channels"
+            ]
+        },
+        {
+            "sectionName": "Firebase || Twitter and Facebook App",
+            "unitNames": [
+                "Twitter app overview",
+                "Desgin login layout.",
+                "Load image from Phone",
+                "upload images to firebase",
+                "Tweets layout design",
+                "Add post",
+                "Load posts",
+                "Show post user info",
+                "Show loading now",
+                "Show Ads between feeds",
+                "Firebase Cloud Messaging"
+            ]
+        },
+        {
+            "sectionName": "Media Player  for play online and Local songs App",
+            "unitNames": [
+                "Media Player overview",
+                "Media player layout desgin",
+                "List songs",
+                "Play songs from  online URL",
+                "Play songs from Phone storage"
+            ]
+        },
+        {
+            "sectionName": "Complete Alarm app",
+            "unitNames": [
+                "Complete Alarm app overview",
+                "Android Studio Updates",
+                "Layout desgin",
+                "Fragments",
+                "Broadcast Receiver and Service concept",
+                "Broadcast Receiver and Set alarm time",
+                "SharedPreferences and start app with OS",
+                "Show Notification"
+            ]
+        },
+        {
+            "sectionName": "Sensors Apps",
+            "unitNames": [
+                "Light sensor|| Run music when light goes to off in room",
+                "Accelerometer sensor|| Nimbuzz vibrate when phone is shake"
+            ]
+        },
+        {
+            "sectionName": "Firebase || Find my phone App",
+            "unitNames": [
+                "Find my Phone Preview",
+                "User login with phone number",
+                "menus  for Contact and main activity",
+                "dummy Contact List data",
+                "Pick Contacts from phone",
+                "Save my trackers in Shared Ref",
+                "Firebase signIn Anonymously",
+                "Save user info Firebase",
+                "Save my trackers in Realtime- database",
+                "People Who I Find Dummy Data",
+                "People Who I Find Firebase Data",
+                "Load user's contacts",
+                "Send phone location to the server",
+                "Find missing phone location",
+                "Services Vs Broadcast receiver Updates",
+                "Service || Run App in background",
+                "Run App with OS",
+                "TODO"
+            ]
+        },
+        {
+            "sectionName": "Twitter App using MySql and PHP web service",
+            "unitNames": [
+                "What we Will Build",
+                "Build MYSQL Database schema",
+                "Build MYSQL database",
+                "PHP  Web service and MYSQL || Register",
+                "Connect to Firebase adn Add Assets",
+                "Design Login and Register Pages",
+                "signInAnonymously",
+                "Select image from device and upload it to firebase",
+                "Register User",
+                "Disable button",
+                "PHP  Web service and MYSQL || Login",
+                "User Login",
+                "Save user Data in Phone",
+                "PHP  Web service and MYSQL || Add Post",
+                "Desgin Layout for list post",
+                "Add tweets",
+                "PHP  Web service and MYSQL || List Post",
+                "List posts",
+                "One person posts",
+                "PHP  Web service and MYSQL || follow- un follow",
+                "PHP  Web service and MYSQL || Is following",
+                "HW  ."
+            ]
+        },
+        {
+            "sectionName": "Build Web Services  with Node.js and C#",
+            "unitNames": [
+                "Node.js  Web service and MYSQL",
+                "C#  Web service and SQL Server"
+            ]
+        },
+        {
+            "sectionName": "Publish App to Store",
+            "unitNames": [
+                "Publish App to Store",
+                "Convert app to source code",
+                "Avoid Convert app to source code"
+            ]
+        }
+    ]
 }

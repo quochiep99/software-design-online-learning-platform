@@ -4,161 +4,331 @@
         "courses": []
     },
     "course": {
-        "title": "Android Java Masterclass - Become an App Developer",
-        "subtitle": "Improve your career options by learning Android app Development. Master Android Studio and build your first app today",
-        "descriptions":  "",
+        "title": "Xamarin Forms: Build Native Cross-platform Apps with C#",
+        "subtitle": "Learn to build native mobile apps for Android, iOS and Windows using your existing C# skills",
+        "descriptions": [],
         "reviews": [],
         "students": [],
-        "image1xURL": "https://img-a.udemycdn.com/course/240x135/919872_ed54_6.jpg",
-        "image2xURL": "https://img-a.udemycdn.com/course/480x270/919872_ed54_6.jpg",
-        "image3xURL": "https://img-a.udemycdn.com/course/750x422/919872_ed54_6.jpg",
+        "image1xURL": "https://img-a.udemycdn.com/course/240x135/951684_9c1a_2.jpg",
+        "image2xURL": "https://img-a.udemycdn.com/course/480x270/951684_9c1a_2.jpg",
+        "image3xURL": "https://img-a.udemycdn.com/course/750x422/951684_9c1a_2.jpg",
         "discountPrice": 11.99,
-        "originalPrice": 99.99,
+        "originalPrice": 129.99,
         "numViews": 0,
-        "curriculum": {}
+        "curriculum": []
     },
     "reviews": [
         {
-            "body": "Many thanks for a very interesting course. One really learns a lot. Unfortunately, a few things are no longer up to date - but this has the advantage that you get more involved with the topic. From my point of view 2 aspects are not well solved. The TaskTimer app is very complex. It would have been better to teach some concepts in smaller projects. Furthermore, the TaskTimer App was not programmed completely. The chapter for settings is missing. Nevertheless, anyone who wants to learn programming should take a look at this course. Some programming experience would be helpful.",
-            "rating": 4
+            "body": "Good course to start with. Have explanation with coding examples, basic course to understand and start with Xamarin. Please note, this course is not up to dated, but still can be used by freshers.",
+            "rating": 3.5
         },
         {
-            "body": "It was a very good course for beginners who want to start learning android programming the right way. I learned a lot specially the fundamentals of building an android app.\n\nThere were some lectures that are a little bit outdated but if you research them online, you can find a workaround on it. The instructors are also responsive if you have any questions so there's no reason not to ask them. Thank you Tim and Jean for this very good course!",
+            "body": "Its been amazing to go through this course, I started as beginner and with help of this course, I got to know a lot of basic stuff and it shows improvement in my development",
             "rating": 5
         },
         {
-            "body": "Great course, I've learned a ton, and while I've not built my own apps yet (...having just finished the course), I'm already using the info Tim has provided to be a better programmer.",
-            "rating": 5
-        },
-        {
-            "body": "It was really awesome! Topics were explained really good. I like the the tips the he gave in the courses.\n\nOne suggestion, it would have been really good if it was told like what we are going to achieve in each lesson before the lesson start with some examples.\n\nThank you!",
+            "body": "I learned something new skills on xamarin.Forms; which is not available in youtube or google.... Explanation was Amazing,\n\nThanks for sharing Knowledge...\n\nCould you please provide your Git hub id...i do follow",
             "rating": 4.5
         },
         {
-            "body": "The course is really good! But with \"but\"s.\n\n+ The content of this course is VERY big, valuable, lots of useful techniques, unobvious approaches, Android lifehacks and design tricks.\n\n+ Jean-Paul usually replies questions very fast and this is a great support!\n\n+ Tim speaks on video with optimal speed: many lecturers speek too slow and make course too long, not in this case. This means, more information is packed in these 60 hours of lectures.\n\n- MANY times I was like, \"what`s going on?\" because the explanation style is: \"coding on screen, telling what the code does\". This is master class, yes, not a definitive course of lectures, but more visual material (e.g. illustrating how different parts of Android ecosystem work) would be of great help. Tables with app structure helped a lot, but there are just a few of them.\n\n- Course has a cliffhanger \"we will make app settings in the next video\" and there`s no next video, it is the end of the course. (as of 31.07.2020). I hope it will be finished.\n\nConclusion: I would recommend this course to any person who is gonna be Android developer, though not as a first, \"introduction\" course.",
-            "rating": 4
-        },
-        {
-            "body": "Unfortunately, in 2020 this course is completely outdated and in fact it teaches to do things in a wrong, unnecessarily complicated way.\n\nOn top of that, if anyone thinks seriously about Android development then Kotlin is the language to go for.\n\nI loved Tim's Java Masterclass course, in my opinion he is a great teacher, but unless there is a new course, like from scratch new, with JETPACK, MVVM, Android Studio 4.0+ features I would discourage anyone from buying the courses (both Java and Kotlin).",
-            "rating": 1
-        },
-        {
-            "body": "Fantastic course!\n\nI have followed quite a few classes on Udemy for Android Developpement and this is, by far the best in my opinion. It is better maintained than some courses that were created more recently. If you are not sure about getting this course because of the Android constant updates, don't hesitate! The teachers are very responsive and the entire Learn Programming Academy keeps working to this day to bring new content to its courses.",
+            "body": "i've really appreciated the efficient teaching method of Mosh. Thx You.",
             "rating": 5
         },
         {
-            "body": "One of the Best Course for the People, Who are Really Interested in Android app Development, Special Thanks to Sir Tim Buchalka and the rest of Supporting Instructors and really appreciate their work...",
+            "body": "Like all mosh courses very effective, with best practices and without larges theorical and unused samples. The samples are Good to start. The only disadvantage is a bit outdated",
+            "rating": 4.5
+        },
+        {
+            "body": "This course goes through the most important behaviours of Xamarin framework. You are also going to get informations about the MVVM=>automated testing. These skills you can improve in his other courses. He has a great English level, he is easy to understand. Some technics mentioned here is old (e. g. OnPlatform), but on Google you will find a new solution in a few seconds. If you want to learn Xamarin development, this course is a great point where to start.",
             "rating": 5
         },
         {
-            "body": "After the course I understood the main concepts while making and APP. Understanding the Content Provider and Adapter classes are still little difficult for me. However the other concepts are OK. Looking forward to learning, creating Apps with Kotlin. Since I do not know Kotlin, I will most probably take up the begineer level course.",
+            "body": "Good course, well paced with lots of ground covered. Needs a bit of updating as a few areas are no longer applicable, hence the 4, rather than 5 stars.",
             "rating": 4
         },
         {
-            "body": "He has very knowledge and experience in the programming life. Therefore, When he explain some codes or write code, he tells us very briefly and we can pick up quickly. Of course, Lots of libraries is old and it causes to get errors while program is running. But if you write codes by typing, you can't get any error. I think this course doesn't include things about gaming coding but (I think) if you want to get a job as Android Developer, it is very useful course to reach your goal.Just have a problem that we need to code \"Setting\" menu in last lecture but he finished this course and There is no make sense to creating \"Duration\" column in Durations Report menu. Because we just get random duration and Making counter for duration and notifying to user would be nice. Everything else is good. Thanks for everything Tim...",
+            "body": "I think this course fulfils its goals since after completing it I feel confident in creating an app I had in mind for a long time.\n\nIn my rating, I have decided to drop one star since the course is quite old and some of the content is in a need of updating. The next thing is that even tho Mosh talked a lot about \"clean coding\", I find the code far away from being clean, but I guess having it as clean as it could be was not the original aim of this course.",
             "rating": 4
         },
         {
-            "body": "99% informative and easy to understand so far. Tim is an excellent instructor and JP is excellent with support. Some things seems like they might not be the most current practices (i.e. Google seems to recommend NavContainerHost instead of FrameLayout and Nav Graphs for fragment usage?) but I imagine it's near impossible to update courses at the rate that Android are updating content. I have been contacted by two recruiters now too after doing this course so hopefully I can secure a position from this. Cheers fellas.",
-            "rating": 4.5
+            "body": "The course is of good quality to get you going. It has to be noted that Xamarin has advanced since the making of this course, so some workarounds are not necessary and who knows, there are other things added to Xamarin in the mean time that should be added in this course too.\n\nOn some topics I would have liked some more in depth material, but since the course covers the basics, it is easier to google for solutions.",
+            "rating": 3.5
         },
         {
-            "body": "The course has taught me almost all the basics of Android Development, which I greatly appreciate. One thing I wish the course had was a section about the current technologies and libraries being used on the market, for ex. Android Room, LiveData, ViewModel, Dagger, and that sort of stuff. Then again, I do understand that this is a course mainly targeted towards beginners, so it might be great to put the andvanced libraries I've mentioned into an Intermedia Course maybe.",
-            "rating": 4.5
+            "body": "If the course material was up to date the rating would be better. The instructor was great and the exercises were helpful, but like I said the course needs to be updated.",
+            "rating": 3
+        },
+        {
+            "body": "Good course, was not too happy about some of the exercises... Had a lot of extra pieces that were not explained well. Also did not like how images were explained that much. We are told to do embedded images but were not shown later on, even in solutions.",
+            "rating": 4
+        },
+        {
+            "body": "This is a good course but some examples made for IOS don't work so well for Android. Some topics like persistence data, file storage, didn't have a good explanation. I have no regrets about this course, but I did the EntityFramework course from Mosh and I liked more than this. Points to improve this course are, better Android examples, more exercises, examples about peripherals, Storage Data and customize screens.",
+            "rating": 3.5
         }
     ],
     "students": [
         {
-            "name": "Sergius Ermisch",
-            "email": "sergiusermisch@gmail.com",
-            "password": "sergiusermisch",
+            "name": "Praveen Rawat",
+            "email": "praveenrawat@gmail.com",
+            "password": "praveenrawat",
             "role": "s",
-"isConfirmed": true
+            "isConfirmed": true
         },
         {
-            "name": "Jonathan Cabujat",
-            "email": "jonathancabujat@gmail.com",
-            "password": "jonathancabujat",
+            "name": "Devubha Manek",
+            "email": "devubhamanek@gmail.com",
+            "password": "devubhamanek",
             "role": "s",
-"isConfirmed": true
+            "isConfirmed": true
         },
         {
-            "name": "Sean Smith",
-            "email": "seansmith@gmail.com",
-            "password": "seansmith",
+            "name": "Anil K",
+            "email": "anilk@gmail.com",
+            "password": "anilk",
             "role": "s",
-"isConfirmed": true
+            "isConfirmed": true
         },
         {
-            "name": "Biju S r",
-            "email": "bijusr@gmail.com",
-            "password": "bijusr",
+            "name": "Leonardo Pivetti",
+            "email": "leonardopivetti@gmail.com",
+            "password": "leonardopivetti",
             "role": "s",
-"isConfirmed": true
+            "isConfirmed": true
         },
         {
-            "name": "Pavel Khvostikov",
-            "email": "pavelkhvostikov@gmail.com",
-            "password": "pavelkhvostikov",
+            "name": "Abigail",
+            "email": "abigail@gmail.com",
+            "password": "abigail",
             "role": "s",
-"isConfirmed": true
+            "isConfirmed": true
         },
         {
-            "name": "Tomasz Kaleniak",
-            "email": "tomaszkaleniak@gmail.com",
-            "password": "tomaszkaleniak",
+            "name": "Ondřej Man",
+            "email": "ondřejman@gmail.com",
+            "password": "ondřejman",
             "role": "s",
-"isConfirmed": true
+            "isConfirmed": true
         },
         {
-            "name": "Raphael Baron",
-            "email": "raphaelbaron@gmail.com",
-            "password": "raphaelbaron",
+            "name": "Richard Nelson-Boden",
+            "email": "richardnelson-boden@gmail.com",
+            "password": "richardnelson-boden",
             "role": "s",
-"isConfirmed": true
+            "isConfirmed": true
         },
         {
-            "name": "Harsha Vardhan K",
-            "email": "harshavardhank@gmail.com",
-            "password": "harshavardhank",
+            "name": "Matthew Seeker",
+            "email": "matthewseeker@gmail.com",
+            "password": "matthewseeker",
             "role": "s",
-"isConfirmed": true
+            "isConfirmed": true
         },
         {
-            "name": "Sudhir Venugopal",
-            "email": "sudhirvenugopal@gmail.com",
-            "password": "sudhirvenugopal",
+            "name": "Joost",
+            "email": "joost@gmail.com",
+            "password": "joost",
             "role": "s",
-"isConfirmed": true
+            "isConfirmed": true
         },
         {
-            "name": "Mümtaz TAŞDELEN",
-            "email": "mümtaztaşdelen@gmail.com",
-            "password": "mümtaztaşdelen",
+            "name": "Jordan Walker",
+            "email": "jordanwalker@gmail.com",
+            "password": "jordanwalker",
             "role": "s",
-"isConfirmed": true
+            "isConfirmed": true
         },
         {
-            "name": "Daniel Hill",
-            "email": "danielhill@gmail.com",
-            "password": "danielhill",
+            "name": "KaRon Scott",
+            "email": "karonscott@gmail.com",
+            "password": "karonscott",
             "role": "s",
-"isConfirmed": true
+            "isConfirmed": true
         },
         {
-            "name": "Fırat Yıldız",
-            "email": "fıratyıldız@gmail.com",
-            "password": "fıratyıldız",
+            "name": "Paulo Augusto Sovienski",
+            "email": "pauloaugustosovienski@gmail.com",
+            "password": "pauloaugustosovienski",
             "role": "s",
-"isConfirmed": true
+            "isConfirmed": true
         }
     ],
     "instructor": {
-        "name": "Tim Buchalka",
-        "email": "timbuchalka@gmail.com",
-        "password": "timbuchalka",
+        "name": "Mosh Hamedani",
+        "email": "moshhamedani@gmail.com",
+        "password": "moshhamedani",
         "role": "i",
-"isConfirmed": true,
-        "briefIntroduction": "<p>Tim's been a professional software developer for over 35 years.&nbsp; During his career, he has worked for major companies such as Fujitsu, Mitsubishi, and Saab.<br><br>His video courses are used to train developers in major companies such as Mercedes-Benz, Paypal, VW, Pitney Bowes, IBM, and T-Mobile just to name a few (via the Udemy for Business program).<br><br>What makes Tim unique is his professional programming career - many instructors have never programmed professionally, let alone had a distinguished professional development career like Tim.<br><br>Tim has trained over 847,000 students how to program, way more than a typical IT&nbsp;Professor at a college does in a lifetime.<br><br>In fact, Tim's courses are often purchased by students struggling to get through college programming courses.</p><p>\"I am learning a lot about Java very quickly. I wish my college courses worked this way, they drag the same amount of material out over months.\" - Thomas Neal<br><br>\"I love this guy. I'm in school for java right now at a local college and I bought this course hoping it would help clarify the fuzzy areas of my coursework. There's no comparison. Every time I get lost in my textbook, I watch a couple more of these videos and I'm right back on track. He explains everything so perfectly. It sinks right in.\" - Kristen Andreani<br><br>\"Tim is a great instructor, I have more courses from him and all are great. This one really helped me with my understanding of Java from the very beginnings. In fact, I was able to find a job as Java developer with the knowledge gained from this course, so I basically owe Mr. Buchalka my career\" - Daniel KubÃ¡nyi<br><br>Tim's mission is simple:&nbsp; to make a difference in your life by helping you to become a software developer. &nbsp;Tim does that through his Java, Python, C#, Spring Framework, and Android development courses.</p><p>When Tim started programming over thirty-five years ago, there was no online&nbsp;video training. &nbsp;</p><p>There was no \"easy\" way to learn. &nbsp;The Internet, in its current form, didn't exist, and as a result, Tim&nbsp;couldn't \"Google\" for help, or watch videos on Youtube.</p><p>After learning the hard way, Tim&nbsp;was determined to become the best teacher he could, and to make his training&nbsp;as painless as possible, so that you, or anyone else with the desire to&nbsp;become a software developer, could become one.</p><p>In between doing that, Tim&nbsp;spent the best part of those years as a professional software developer writing applications in Java and a variety of other languages. &nbsp;In addition, he spent many years with J2EE&nbsp;(as it was then known), now known as Java Enterprise Edition (JEE), designing and developing enterprise applications.</p><p>Tim is&nbsp;relatively unique, in that<strong>&nbsp;he is&nbsp;a professional, experienced software developer </strong>who also has <strong>exceptional teaching skills</strong>. &nbsp;<br><br>Many instructors have no work experience in the field. &nbsp;Make sure the person you trust with your education is a real expert with substantial previous professional experience.<br></p><p><strong>The bottom line for you is, when taking any of Tim's&nbsp;courses, is that&nbsp;you will learn the right way to do things from an expert, in the shortest possible amount of time.</strong></p><p>Tim's Java, Android, and Python courses, here on Udemy are of the highest quality as reviewed by his students. &nbsp;<strong> Ten's of thousands of students, just like you,&nbsp;have taken his&nbsp;classes,</strong> <strong>thousands have left glowing reviews,</strong> and many&nbsp;have gone on to full-time jobs, or consulting/freelancing opportunities after completing one of his&nbsp;courses.</p><p>Tim&nbsp;recently placed in the top ten Udemy instructors as voted for by his students and&nbsp;Udemy themselves. &nbsp;</p><p><strong>What does all of this mean for you?</strong></p><p>You can have full confidence that Tim's courses are of exceptional quality, and that he<strong>&nbsp;can teach you to become a software developer</strong> if you have the desire to become one.</p><p>Are you ready to start? &nbsp;You can get started today. &nbsp;No previous experience is necessary.</p><p>In 2020, video training is the quickest way to learn, and with Tim's experience and training, it is possible for you to become a software developer. &nbsp;You can do this.</p><p>Why not start today? &nbsp;Click one of his&nbsp;courses below, and watch his&nbsp;introductory video, to find out more about who he is&nbsp;and what he&nbsp;can offer you.</p>"
-    }
+        "briefIntroduction": "<p>Hi!&nbsp;My name is Mosh (Moshfegh)&nbsp;Hamedani! I'm a passionate software engineer with two decades of experience and I've taught over 3 million people who to code or how to become professional software engineers through my YouTube channel and online courses. </p><p>My goal is to make software engineering fun and accessible to everyone. That's why my courses are simple, pragmatic and free of BS. </p>",
+        "isConfirmed": true
+    },
+    "curriculum": [
+        {
+            "sectionName": "Getting Started",
+            "unitNames": [
+                "Introduction",
+                "What is Xamarin Forms?",
+                "Setting Up the Development Environment",
+                "Creating a Xamarin Forms App Using Visual Studio",
+                "Creating a Xamarin Forms App Using Xamarin Studio",
+                "Your First Xamarin Forms App",
+                "How Xamarin Works",
+                "Xamarin Forms Quiz",
+                "Course Structure",
+                "Asking Questions"
+            ]
+        },
+        {
+            "sectionName": "XAML Essentials",
+            "unitNames": [
+                "Introduction",
+                "XAML vs Code",
+                "Content Property",
+                "Accessing Elements in Code-behind",
+                "Data Binding",
+                "Binding Context",
+                "Dealing with Device Differences",
+                "Property Element Syntax",
+                "XAML Compilation",
+                "Cheat Sheet",
+                "Exercise"
+            ]
+        },
+        {
+            "sectionName": "Layouts",
+            "unitNames": [
+                "Introduction",
+                "Stack Layout in XAML",
+                "Stack Layout in Code",
+                "Stack Layout Exercise",
+                "Grid in XAML",
+                "Grid in Code",
+                "Grid Exercise",
+                "Absolute Layout in XAML",
+                "Absolute Layout in Code",
+                "Absolute Layout Exercise",
+                "Relative Layout in XAML",
+                "Relative Layout in Code",
+                "Relative Layout Exercise"
+            ]
+        },
+        {
+            "sectionName": "Images",
+            "unitNames": [
+                "Introduction",
+                "Image Sources",
+                "Downloaded Images",
+                "Aspects",
+                "Activity Indicator",
+                "Embedded Images",
+                "Embedded Images in XAML",
+                "Platform-specific Images",
+                "Application Icons",
+                "Rounded Images",
+                "Dealing with Sizes",
+                "Cheat Sheet",
+                "Exercise - Photo Gallery"
+            ]
+        },
+        {
+            "sectionName": "Lists",
+            "unitNames": [
+                "Introduction",
+                "Populating a Basic List",
+                "Cell Appearance",
+                "Custom Cells",
+                "Grouping Items",
+                "Handling Selections",
+                "Context Actions",
+                "Pull to Refresh",
+                "Search Bar",
+                "Cheat Sheet",
+                "Exercise - Airbnb's Recent Searches"
+            ]
+        },
+        {
+            "sectionName": "Navigation",
+            "unitNames": [
+                "Introduction",
+                "Hierarchical Navigation",
+                "Modal Pages",
+                "A Simple Master Detail",
+                "Master Detail Page",
+                "Tabbed Page",
+                "Carousel Page",
+                "Displaying Popups",
+                "Toolbar Items",
+                "Cheat Sheet",
+                "Exercise - InstagramApp"
+            ]
+        },
+        {
+            "sectionName": "Forms and Setting Pages",
+            "unitNames": [
+                "Introduction",
+                "Switch",
+                "Slider",
+                "Stepper",
+                "Entry and Editor",
+                "Picker",
+                "Date and Time Picker",
+                "Table View",
+                "Custom Cells",
+                "Bindable Properties",
+                "Picker with Navigation",
+                "Cheat Sheet",
+                "Exercise - ContactBook App"
+            ]
+        },
+        {
+            "sectionName": "Data Access",
+            "unitNames": [
+                "Introduction",
+                "Overview",
+                "Application Properties",
+                "A Cleaner Implementation",
+                "File System",
+                "PCLStorage",
+                "Setting Up SQLite",
+                "Using SQLite",
+                "INotifyPropertyChanged Interface",
+                "Consuming RESTful Services",
+                "Cheat Sheet",
+                "Exercise - ContactBook with SQLite",
+                "Exercise - Netflix Roulette App"
+            ]
+        },
+        {
+            "sectionName": "Model-View-ViewModel Architectural Pattern",
+            "unitNames": [
+                "Introduction",
+                "What is MVVM?",
+                "Code-behind and Testability",
+                "Extracting a View Model",
+                "BaseViewModel",
+                "Domain vs View Model",
+                "Dealing with Xamarin Dependencies",
+                "ICommand Interface",
+                "Command with a Parameter",
+                "Clean Coding",
+                "Exercise",
+                "Unit Testing ViewModels"
+            ]
+        },
+        {
+            "sectionName": "Beyond the Basics",
+            "unitNames": [
+                "Introduction",
+                "Resource Dictionary",
+                "Dynamic Resources",
+                "Styles",
+                "Exercise - Styles",
+                "Messaging Center",
+                "Exercise - ContactBook with MessagingCenter",
+                "Managing Events",
+                "Cheat Sheet",
+                "Accessing Common Device Functionality",
+                "Coupon to My Other Courses"
+            ]
+        }
+    ]
 }

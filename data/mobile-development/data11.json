@@ -6,7 +6,7 @@
     "course": {
         "title": "The Complete iOS 10 & Swift 3 Developer Course",
         "subtitle": "Learn iOS App Development by building 21 iOS apps using Swift 3 & Xcode 8. Includes free web hosting, assets & ebook.",
-        "descriptions":  "",
+        "descriptions": [],
         "reviews": [],
         "students": [],
         "image1xURL": "https://img-a.udemycdn.com/course/240x135/895786_7b4b_2.jpg",
@@ -15,9 +15,17 @@
         "discountPrice": 12.99,
         "originalPrice": 139.99,
         "numViews": 0,
-        "curriculum": {}
+        "curriculum": []
     },
     "reviews": [
+        {
+            "body": "the graphics and video editing are great",
+            "rating": 5
+        },
+        {
+            "body": "Great match !",
+            "rating": 4
+        },
         {
             "body": "So much fun, easy to understand and really inspiring with the real examples",
             "rating": 5
@@ -27,24 +35,12 @@
             "rating": 5
         },
         {
-            "body": "arouiche\nRating: 4.5 out of 5\n10 months ago\n\nGood explanations and examples to practice. Would be nice if you explain some of the errors that xcode gives.",
-            "rating": 4.5
-        },
-        {
-            "body": "I have started working on developing the app that I had in mind for a while now, and this course has definitely helped me setup the initial steps for it. It is definitely worth it! thank you Rob!",
-            "rating": 5
+            "body": "I would say generally it was pretty good, but I would prefer maybe like an in - Xcode tutorial of some sorts but it's pretty good for my standards",
+            "rating": 3
         },
         {
             "body": "They have not updated the Xcode programm, so the filenames of the files in the \"hello World\" start project in video \"8. Navigating The Xcode interface\" It's not the same names as in the newest version of Xcode. So i got really confussed now and i still trying to figure it out what files he have in the video look like the new files with different names. But otherwise, he explains it good",
             "rating": 2.5
-        },
-        {
-            "body": "Great match !",
-            "rating": 4
-        },
-        {
-            "body": "The presenter is very clear, energetic, and to the point. Love this course!",
-            "rating": 5
         },
         {
             "body": "Does not match xCode which makes it very hard to follow",
@@ -55,102 +51,106 @@
             "rating": 5
         },
         {
-            "body": "I'm just starting to learn coding so I am excited to learn more.",
-            "rating": 3.5
+            "body": "arouiche\nRating: 4.5 out of 5\n11 months ago\n\nGood explanations and examples to practice. Would be nice if you explain some of the errors that xcode gives.",
+            "rating": 4.5
         },
         {
-            "body": "this is outdated in parts and not everything ties up with the demo - would be great if there were mini updates like they do in Onemonth",
-            "rating": 3
+            "body": "Everything is explained in a clear and simple way. Furthermore, I'm italian and it's a bit difficult for me to understand everything, but he speaks clearly and slowly and I can go on.",
+            "rating": 5
         },
         {
-            "body": "Outdated material",
-            "rating": 1
+            "body": "The course is awesome! If one really want to learn programming for iPhone, then the one should take this course! Rob, thank you for your great effort you invested in this course! Rob is great teacher - you build new knowledge based on learned one and the course shows how to learn from errors which are normal in programming - Rob solves naturally produced errors and from this we can profit a lot!\n\nBest Regards and Big Thanks, Rob!",
+            "rating": 5
+        },
+        {
+            "body": "The content is pretty good and the method as well, however to earn a higher rating for me would need to skip unnecessary tweaking of the layout all the time which would speed up my learning\n\nupdate of rating: I realise I have been to harse, I learned so much!",
+            "rating": 4
         }
     ],
     "students": [
         {
-            "name": "Ylvaholgersson Holgersson",
-            "email": "ylvaholgerssonholgersson@gmail.com",
-            "password": "ylvaholgerssonholgersson",
+            "name": "Nawal",
+            "email": "nawal@gmail.com",
+            "password": "nawal",
             "role": "s",
-"isConfirmed": true
-        },
-        {
-            "name": "Giuseppe Diciolla",
-            "email": "giuseppediciolla@gmail.com",
-            "password": "giuseppediciolla",
-            "role": "s",
-"isConfirmed": true
-        },
-        {
-            "name": "Santiago Darouiche",
-            "email": "santiagodarouiche@gmail.com",
-            "password": "santiagodarouiche",
-            "role": "s",
-"isConfirmed": true
-        },
-        {
-            "name": "Nouha Nouman",
-            "email": "nouhanouman@gmail.com",
-            "password": "nouhanouman",
-            "role": "s",
-"isConfirmed": true
-        },
-        {
-            "name": "Adam wahab",
-            "email": "adamwahab@gmail.com",
-            "password": "adamwahab",
-            "role": "s",
-"isConfirmed": true
+            "isConfirmed": true
         },
         {
             "name": "German Peruyero",
             "email": "germanperuyero@gmail.com",
             "password": "germanperuyero",
             "role": "s",
-"isConfirmed": true
+            "isConfirmed": true
         },
         {
-            "name": "Peter Sigurdson",
-            "email": "petersigurdson@gmail.com",
-            "password": "petersigurdson",
+            "name": "Ylvaholgersson Holgersson",
+            "email": "ylvaholgerssonholgersson@gmail.com",
+            "password": "ylvaholgerssonholgersson",
             "role": "s",
-"isConfirmed": true
+            "isConfirmed": true
+        },
+        {
+            "name": "Giuseppe Diciolla",
+            "email": "giuseppediciolla@gmail.com",
+            "password": "giuseppediciolla",
+            "role": "s",
+            "isConfirmed": true
+        },
+        {
+            "name": "Prasant Potuluri",
+            "email": "prasantpotuluri@gmail.com",
+            "password": "prasantpotuluri",
+            "role": "s",
+            "isConfirmed": true
+        },
+        {
+            "name": "Adam wahab",
+            "email": "adamwahab@gmail.com",
+            "password": "adamwahab",
+            "role": "s",
+            "isConfirmed": true
         },
         {
             "name": "Ira Somach",
             "email": "irasomach@gmail.com",
             "password": "irasomach",
             "role": "s",
-"isConfirmed": true
+            "isConfirmed": true
         },
         {
             "name": "Mohammad Qasimi",
             "email": "mohammadqasimi@gmail.com",
             "password": "mohammadqasimi",
             "role": "s",
-"isConfirmed": true
+            "isConfirmed": true
         },
         {
-            "name": "Horacio R",
-            "email": "horacior@gmail.com",
-            "password": "horacior",
+            "name": "Santiago Darouiche",
+            "email": "santiagodarouiche@gmail.com",
+            "password": "santiagodarouiche",
             "role": "s",
-"isConfirmed": true
+            "isConfirmed": true
         },
         {
-            "name": "Jack Alack",
-            "email": "jackalack@gmail.com",
-            "password": "jackalack",
+            "name": "Daniela",
+            "email": "daniela@gmail.com",
+            "password": "daniela",
             "role": "s",
-"isConfirmed": true
+            "isConfirmed": true
         },
         {
-            "name": "Lamine Gueye",
-            "email": "laminegueye@gmail.com",
-            "password": "laminegueye",
+            "name": "Leonard Lopatic",
+            "email": "leonardlopatic@gmail.com",
+            "password": "leonardlopatic",
             "role": "s",
-"isConfirmed": true
+            "isConfirmed": true
+        },
+        {
+            "name": "Hedzer Kingma",
+            "email": "hedzerkingma@gmail.com",
+            "password": "hedzerkingma",
+            "role": "s",
+            "isConfirmed": true
         }
     ],
     "instructor": {
@@ -158,7 +158,322 @@
         "email": "robpercival@gmail.com",
         "password": "robpercival",
         "role": "i",
-"isConfirmed": true,
-        "briefIntroduction": "<p> Hi! I'm Rob. I have a degree in Mathematics from Cambridge University and you might call me a bit of coding geek. </p>\n<p> After building websites for friends and family for fun, I soon learned that web development was a very lucrative career choice. I gave up my successful (and sometimes stressful) job as a teacher to work part time and today, couldn't be happier. </p>\n<p> I'm passionate about teaching kids to code, so every summer I run Code School in the beautiful city of Cambridge. I also run the popular web hosting and design service, Eco Web Hosting which leaves me free to share my secrets with people like you. </p>\n<p> <strong>You wouldn't believe the freedom that being a web developer offers.</strong> Sign up and find out for yourself why so many people are taking and recommending this course. I genuinely believe it's the best on the market and if you don't agree, I'll happily refund your money. </p>\n<p> Sign up to my courses and join me in this amazing adventure today. </p>"
-    }
+        "briefIntroduction": "<p> Hi! I'm Rob. I have a degree in Mathematics from Cambridge University and you might call me a bit of coding geek. </p>\n<p> After building websites for friends and family for fun, I soon learned that web development was a very lucrative career choice. I gave up my successful (and sometimes stressful) job as a teacher to work part time and today, couldn't be happier. </p>\n<p> I'm passionate about teaching kids to code, so every summer I run Code School in the beautiful city of Cambridge. I also run the popular web hosting and design service, Eco Web Hosting which leaves me free to share my secrets with people like you. </p>\n<p> <strong>You wouldn't believe the freedom that being a web developer offers.</strong> Sign up and find out for yourself why so many people are taking and recommending this course. I genuinely believe it's the best on the market and if you don't agree, I'll happily refund your money. </p>\n<p> Sign up to my courses and join me in this amazing adventure today. </p>",
+        "isConfirmed": true
+    },
+    "curriculum": [
+        {
+            "sectionName": "Introduction",
+            "unitNames": [
+                "Introduction"
+            ]
+        },
+        {
+            "sectionName": "Introduction & Getting Started",
+            "unitNames": [
+                "How To Get The Free Stuff",
+                "Frequently Asked Questions",
+                "How To Ask Great Questions"
+            ]
+        },
+        {
+            "sectionName": "Getting Started With Xcode 8 and Swift 3",
+            "unitNames": [
+                "Introduction",
+                "Xcode Versions - Please Read",
+                "Downloading & Installing Xcode 8",
+                "Navigating The Xcode Interface",
+                "Navigating The Xcode Interface (Xcode Files)",
+                "Adding Labels To Your Apps",
+                "Adding Labels To Your Apps (Xcode Files)",
+                "Text Fields & Buttons",
+                "Text Fields & Buttons (Xcode Files)",
+                "Running Some Code",
+                "Running Some Code (Xcode Files)",
+                "Interacting With Buttons",
+                "Interacting With Buttons (Xcode File)",
+                "Adding Images To Your Apps",
+                "Adding Images To Your Apps (Xcode Files)",
+                "Your First App - Cat Years",
+                "Your First App - Cat Years (Xcode Files)",
+                "Introducing Xcode 8 and Swift 3 Quiz"
+            ]
+        },
+        {
+            "sectionName": "Swift 3 Deep Dive (Using Playgrounds)",
+            "unitNames": [
+                "Introduction",
+                "Swift Playgrounds",
+                "Swift Playgrounds (Xcode Files)",
+                "Introducing Variables",
+                "Introducing Variables (Xcode Files)",
+                "Arrays & Dictionaries",
+                "Arrays & Dictionaries (Xcode Files)",
+                "If Statements",
+                "If Statements (Xcode Files)",
+                "Game - How Many Fingers",
+                "Game - How Many Fingers (Xcode Files)",
+                "While Loops",
+                "While Loops (Xcode Files)",
+                "For Loops",
+                "For Loops (Xcode Files)",
+                "Classes & Objects",
+                "Classes & Objects (Xcode Files)",
+                "Optionals Masterclass",
+                "Optionals Masterclass (Xcode Files)",
+                "Auto Layout",
+                "Auto Layout (Xcode Files)",
+                "App - Is It Prime? Part I",
+                "App - Is It Prime? Part I (Xcode Files)",
+                "App - Is It Prime? Part II",
+                "App - Is It Prime? Part 2 (Xcode Files)",
+                "Swift 3 Deep Dive (Using Playgrounds) - Quiz",
+                "CCA Swift Level 1"
+            ]
+        },
+        {
+            "sectionName": "Advanced iOS Features: Timers, Tables, Permanent Storage & Web Content",
+            "unitNames": [
+                "Introduction",
+                "Navigation Bars",
+                "Navigation Bars (Xcode Files)",
+                "App - EggTimer",
+                "App - Egg Timer (Xcode Files)",
+                "Table Views",
+                "Table Views (Xcode Files)",
+                "Times Tables App",
+                "Times Tables App (Xcode Files)",
+                "Storing Data Permanently",
+                "Storing Data Permantly (Xcode Files)",
+                "Multiple View Controllers",
+                "Multiple View Controllers (Xcode Files)",
+                "Controlling the Keyboard",
+                "Controlling the Keyboard (Xcode Files)",
+                "App - To Do List",
+                "App - To Do List (Xcode Files)",
+                "Downloading Web Content",
+                "Downloading Web Content (Xcode Files)",
+                "Manipulating Strings",
+                "Manipulating Strings (Xcode Files)",
+                "App - What's The Weather",
+                "App - What's The Weather (Xcode Files)",
+                "Advanced iOS Features: Timers, Tables, Permanent Storage & Web Content - Quiz"
+            ]
+        },
+        {
+            "sectionName": "Advanced iOS Features II: Animation, Games, Maps & Geolocation, Audio",
+            "unitNames": [
+                "Introduction",
+                "Animations Part I",
+                "Animations Part I (Xcode Files)",
+                "Animations Part II",
+                "Animations Part II (Xcode Files)",
+                "Game - Tic Tac Toe",
+                "Game - Tic Tac Toe (Xcode Files)",
+                "Integrating Maps Into Your Apps",
+                "Integrating Maps Into Your Apps (Xcode Files)",
+                "Adding User Annotations To Maps",
+                "Adding User Annotations To Maps (Xcode Files)",
+                "Finding A User's Location",
+                "Finding A User's Location (Xcode Files)",
+                "App - Location Aware",
+                "App - Location Aware (Xcode Files)",
+                "Advanced Segues",
+                "Advanced Segues (Xcode Files)",
+                "App - Memorable Places",
+                "App - Memorable Places (Xcode Files)",
+                "Working With Audio",
+                "Working With Audio (Xcode Files)",
+                "App - Back To Bach",
+                "App - Back To Bach (Xcode Files)",
+                "Swipes & Shakes",
+                "Swipes & Shakes (Xcode Files)",
+                "App - Sound Shaker",
+                "App - Sound Shaker (Xcode Files)",
+                "Advanced iOS Features II: Animation, Games, Maps & Geolocation, Audio",
+                "CCA Swift Level 2"
+            ]
+        },
+        {
+            "sectionName": "Core Data, Advanced Web Content, Json Data & Webviews",
+            "unitNames": [
+                "Introduction",
+                "Introducing Core Data",
+                "Introducing Core Data (Xcode Files)",
+                "Advanced Core Data",
+                "Advanced Core Data (Xcode Files)",
+                "Downloading Images From The Web",
+                "Downloading Images From The Web (Xcode Files)",
+                "APIs & JSON Data",
+                "APIs & JSON Data (Xcode Files)",
+                "Blog Reader",
+                "Blog Reader (Xcode Files)",
+                "Core Data, Advanced Web Content, Json Data & Webviews - Quiz"
+            ]
+        },
+        {
+            "sectionName": "Instagram Clone",
+            "unitNames": [
+                "Introduction",
+                "Parse Server & AWS",
+                "Retreiving & Updating Data",
+                "Retrieving & Updating Data (Xcode Files)",
+                "Accessing The Camera Roll",
+                "Accessing The Camera Roll (Xcode Files)",
+                "Spinners & Alerts",
+                "Spinners & Alerts (Xcode Files)",
+                "Login & Signup",
+                "Login & Signup (Xcode Files)",
+                "The User Table",
+                "The User Table (Xcode Files)",
+                "Pull To Refresh",
+                "Pull To Refresh (Xcode Files)",
+                "Posting Images",
+                "Posting Images (Xcode Files)",
+                "Viewing Users' Feeds",
+                "Viewing Users' Feeds (Xcode Files)",
+                "Instagram Clone - Quiz"
+            ]
+        },
+        {
+            "sectionName": "Tinder Clone",
+            "unitNames": [
+                "Introduction",
+                "Introduction To Tinder",
+                "Update To Parse Server Setup Process",
+                "Setting Up Parse Server",
+                "Setting Up Parse Server (Xcode Files)",
+                "Changing The App ID",
+                "Changing App ID (Xcode Files)",
+                "Dragging Objects",
+                "Dragging Objects (Xcode File)",
+                "Login & Signup",
+                "Login & Signup - (Xcode - Files)",
+                "Adding User Details",
+                "Adding User Details (Xcode Files)",
+                "Adding Users",
+                "Adding Users (Xcode Files)",
+                "Swiping Users",
+                "Swiping Users (Xcode Files)",
+                "Location And Matches",
+                "Location & Matches (Xcode Files)"
+            ]
+        },
+        {
+            "sectionName": "Games and Spritekit",
+            "unitNames": [
+                "Introduction",
+                "Hello World With Sprite Kit",
+                "Hello World With SpriteKit (Xcode Files)",
+                "Adding & Animating Sprites",
+                "Adding & Animating Sprites (Xcode Files)",
+                "Animating The Background",
+                "Animating The Background (Xcode Files)",
+                "Controlling The Bird",
+                "Controlling The Bird (Xcode Files)",
+                "Spawning Pipes",
+                "Spawning Pipes (Xcode Files)",
+                "Detecting Collisions",
+                "Detecting Collisions (Xcode Files)",
+                "Scoring & Game Controls",
+                "Scoring & Game Controls (Xcode Files)"
+            ]
+        },
+        {
+            "sectionName": "Uber Clone",
+            "unitNames": [
+                "Introduction",
+                "Introduction To Uber",
+                "Update To Parse Server Setup Process",
+                "Setting Up Parse Server",
+                "Setting Up A Parse Server (Xcode Files)",
+                "Login & Signup",
+                "Login & Signup (Xcode Files)",
+                "The Rider View Controller",
+                "The Rider View Controller (Xcode Files)",
+                "The Driver View Controller",
+                "The Driver View Controller (Xcode Files)",
+                "Sharing The Driver's Location With The Rider",
+                "Sharing The Driver's Location With The Rider (Xcode Files)"
+            ]
+        },
+        {
+            "sectionName": "Submitting Your App To The App Store",
+            "unitNames": [
+                "Introduction",
+                "App Icons & Launch Images",
+                "Running Your App On Your Own Device",
+                "Submitting To The AppStore"
+            ]
+        },
+        {
+            "sectionName": "Creating A Website For Your App",
+            "unitNames": [
+                "Introduction",
+                "Setup Your Marketing Website",
+                "Installing The Appz Theme"
+            ]
+        },
+        {
+            "sectionName": "Extras: iOS Special Features",
+            "unitNames": [
+                "Introduction",
+                "Custom Keyboards",
+                "Custom Keyboards (Xcode Files)",
+                "Using Cocoa Pods",
+                "Using Cocoa Pods (Xcode Files)",
+                "App Analytics",
+                "App Analytics (Xcode Files)",
+                "Integrating Ads With Google AdMob",
+                "Integrating Ads With Google AdMob (Xcode Files)",
+                "Peek & Pop",
+                "Peek & Pop (Xcode Files)",
+                "Quick Actions",
+                "Quick Actions (Xcode Files)",
+                "Version Control",
+                "Version Control (Xcode Files)",
+                "TouchID",
+                "Touch ID (Xcode Files)",
+                "In App Purchases",
+                "In App Purchases (Xcode Files)",
+                "Build An Ad Blocker",
+                "Facebook Login",
+                "Facebook Login (Xcode Files)"
+            ]
+        },
+        {
+            "sectionName": "Where Do You Go From Here?",
+            "unitNames": [
+                "This is not the end!"
+            ]
+        },
+        {
+            "sectionName": "iOS 10 Special Features",
+            "unitNames": [
+                "Introduction",
+                "iMessage Sticker Packs",
+                "iMessageStickerPacks (XCode Files)",
+                "iMessage Apps",
+                "iMessage Apps (Xcode Files)",
+                "Working With Siri Kit",
+                "Working With Siri Kit (Xcode Files)",
+                "Speech Recognition",
+                "Speech Recognition (Xcode Files)"
+            ]
+        },
+        {
+            "sectionName": "Snapchat Clone",
+            "unitNames": [
+                "Introduction",
+                "Introduction To Snapchat",
+                "Update To Parse Server Setup Process",
+                "Signup & User List",
+                "Signup & User List (Xcode Files)",
+                "Sending An Image",
+                "Sending An Image (Xcode Files)",
+                "Receiving An Image",
+                "Receiving An Image (Xcode Files)"
+            ]
+        }
+    ]
 }

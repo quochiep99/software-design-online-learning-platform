@@ -4,26 +4,26 @@
         "courses": []
     },
     "course": {
-        "title": "Flutter & Dart - The Complete Guide [2020 Edition]",
+        "title": "Flutter & Dart - The Complete Guide [2021 Edition]",
         "subtitle": "A Complete Guide to the Flutter SDK & Flutter Framework for building native iOS and Android apps",
-        "descriptions":  "",
+        "descriptions": [],
         "reviews": [],
         "students": [],
-        "image1xURL": "https://img-a.udemycdn.com/course/240x135/1708340_7108_4.jpg",
-        "image2xURL": "https://img-a.udemycdn.com/course/480x270/1708340_7108_4.jpg",
-        "image3xURL": "https://img-a.udemycdn.com/course/750x422/1708340_7108_4.jpg",
+        "image1xURL": "https://img-b.udemycdn.com/course/240x135/1708340_7108_5.jpg",
+        "image2xURL": "https://img-b.udemycdn.com/course/480x270/1708340_7108_5.jpg",
+        "image3xURL": "https://img-b.udemycdn.com/course/750x422/1708340_7108_5.jpg",
         "discountPrice": 11.99,
         "originalPrice": 129.99,
         "numViews": 0,
-        "curriculum": {}
+        "curriculum": []
     },
     "reviews": [
         {
-            "body": "This is a perfect flutter course. I took this course last year and it is the only course I have taken on flutter. I got an offer as a flutter developer last month. Max is a perfect teacher. I always go back to his courses whenever I want to learn or refresh my memory.",
+            "body": "The explanation was very clear, although some were just need couple times to be understood. But overall I liked it",
             "rating": 5
         },
         {
-            "body": "Excellent course. There were one of two moments I felt the didactic wasn't clear enough, but these were really an exception. Overall, a great course. Highly recommended! Thank you, Maximillian Schwartzmuller!",
+            "body": "This is a perfect flutter course. I took this course last year and it is the only course I have taken on flutter. I got an offer as a flutter developer last month. Max is a perfect teacher. I always go back to his courses whenever I want to learn or refresh my memory.",
             "rating": 5
         },
         {
@@ -31,126 +31,126 @@
             "rating": 4.5
         },
         {
-            "body": "Very in depth course covering a lot of concepts. the instructor takes time time to go into details and offers great explanations.",
+            "body": "Max is perfect instructor. This is an amazing course. I am a web developer but with the help of this course i have already build two product ready apps. Max just keep on producing these awesome contents.",
             "rating": 5
         },
         {
-            "body": "i also take other flutter course which give me good flutter understanding but this course is more advance in nature according to me some more effort could be given to clear basic thing like in Map , List and there function which are base for any flutter project but overall it is good course\n\nso THANK YOU SIR for this awesome course",
-            "rating": 4.5
-        },
-        {
-            "body": "Firstly Max is expert and he is always updating the course so i don't have to worry if there is something new and i don't know about it, plus Max always shows us an alternative ways so we can be more into the flutter and dart language.\n\nSecondly sometimes Max speaks too fast when he should say it as slow as he can so we can get what he means in the same time we can understand it .\n\nBut Overall the course is unique :)",
+            "body": "It's an outstanding course for skilled software developers interested in learning flutter, dart, some basics of Firebase and how to integrate with Firebase.",
             "rating": 5
         },
         {
-            "body": "Overall course is good and gives complete overview of the flutter app development. This course will give heads up to start app development on your own.",
+            "body": "This was my first course of App Development, and thanks to Max & his team, and their amazing skills, that I was able to learn both Flutter and Dart, to a great extent, smoothly. I can be 100% sure that there can't be a better Flutter Course than this one, at this point in time. Would be coming back soon. Hungry for more....",
             "rating": 5
         },
         {
-            "body": "I have taken a few different courses on Flutter now, but I have to say that Max has gone above and beyond. His recent updates have made it an excellent resource and the best course overall for learning Flutter. Be prepared to be challenged, but if you work through the course you will be quite knowledgable by the time you are done.",
+            "body": "Ottimo corso, molto valido, contiene tutte le informazioni necessarie per iniziare a creare applicazioni con flutter, davvero esauriente, inoltre è possibile usarlo come referenza nel caso in cui si voglia rivedere qualche concetto o implementazione del codice.",
             "rating": 5
         },
         {
-            "body": "It' s a good course content however i would suggest you incorporate lesson challenges at each interval instead of just coding all along. It helps challenge we the students",
+            "body": "With the help of these course I start development of application in just 7 days only, Now I am going to live my two application Thanks for such a nice",
             "rating": 5
         },
         {
-            "body": "It was really good as I had little knowledge of Java but still, I learnt a lot. I would have loved you to include editing and category in expense planner, and one to one chat in chat app",
-            "rating": 4.5
-        },
-        {
-            "body": "Fantastic course! The videos were incredibly in-depth and covered a breadth of topics that are enough to make one feel confident building their own apps. The only suggestion I would make is to include a short module on automated testing.",
+            "body": "This is an excellent course and gives you everything you need to start writing your own flutter applications. During the class you develop several application with provide knowledge that you can apply in real life.",
             "rating": 5
         },
         {
-            "body": "Well, I am a pharmacist and i am taking this course because i am interested in this field. The instructor is highly professional in delivering this kind of knowledge. I strongly recommend this course to anyone who wants to be professional at developing mobile apps.",
+            "body": "its an amazing course! I can't believe how quickly i went from knowing nothing to building pro apps with max's course. Definitely recommend this to anyone.",
+            "rating": 5
+        },
+        {
+            "body": "This course has a perfect expression, everything is well designed. Every subject is taught when its time comes, and the teacher is better understood because it goes through on the application. Great Tutorial. I was prejudiced at first, but now I love this course.",
+            "rating": 5
+        },
+        {
+            "body": "Thanks for taking us through the beautiful world of app development! I have really enjoyed the course thus far! Not only is the course example driven, he provides with multiple approaches for the same task. He also teaches us how to learn from the docs, which is just amazing! Thanks, Max!",
             "rating": 5
         }
     ],
     "students": [
         {
+            "name": "Novi Lawati",
+            "email": "novilawati@gmail.com",
+            "password": "novilawati",
+            "role": "s",
+            "isConfirmed": true
+        },
+        {
             "name": "Evi Coach",
             "email": "evicoach@gmail.com",
             "password": "evicoach",
             "role": "s",
-"isConfirmed": true
-        },
-        {
-            "name": "Bruno Abreu",
-            "email": "brunoabreu@gmail.com",
-            "password": "brunoabreu",
-            "role": "s",
-"isConfirmed": true
+            "isConfirmed": true
         },
         {
             "name": "Mano Vikram",
             "email": "manovikram@gmail.com",
             "password": "manovikram",
             "role": "s",
-"isConfirmed": true
+            "isConfirmed": true
         },
         {
-            "name": "Byron Kimani",
-            "email": "byronkimani@gmail.com",
-            "password": "byronkimani",
+            "name": "Bilal Rabbi",
+            "email": "bilalrabbi@gmail.com",
+            "password": "bilalrabbi",
             "role": "s",
-"isConfirmed": true
+            "isConfirmed": true
         },
         {
-            "name": "Sudhanshu",
-            "email": "sudhanshu@gmail.com",
-            "password": "sudhanshu",
+            "name": "Nick Cipriano",
+            "email": "nickcipriano@gmail.com",
+            "password": "nickcipriano",
             "role": "s",
-"isConfirmed": true
+            "isConfirmed": true
         },
         {
-            "name": "Ahmed Amin",
-            "email": "ahmedamin@gmail.com",
-            "password": "ahmedamin",
+            "name": "Elemento 24",
+            "email": "elemento24@gmail.com",
+            "password": "elemento24",
             "role": "s",
-"isConfirmed": true
+            "isConfirmed": true
         },
         {
-            "name": "Prasad P",
-            "email": "prasadp@gmail.com",
-            "password": "prasadp",
+            "name": "Antonio Chiuchiolo",
+            "email": "antoniochiuchiolo@gmail.com",
+            "password": "antoniochiuchiolo",
             "role": "s",
-"isConfirmed": true
+            "isConfirmed": true
         },
         {
-            "name": "John Martens",
-            "email": "johnmartens@gmail.com",
-            "password": "johnmartens",
+            "name": "Praveen Kumar",
+            "email": "praveenkumar@gmail.com",
+            "password": "praveenkumar",
             "role": "s",
-"isConfirmed": true
+            "isConfirmed": true
         },
         {
-            "name": "Emamezi",
-            "email": "emamezi@gmail.com",
-            "password": "emamezi",
+            "name": "Blas Vinas",
+            "email": "blasvinas@gmail.com",
+            "password": "blasvinas",
             "role": "s",
-"isConfirmed": true
+            "isConfirmed": true
         },
         {
-            "name": "Praveen Gupta",
-            "email": "praveengupta@gmail.com",
-            "password": "praveengupta",
+            "name": "Rimsha Rehman",
+            "email": "rimsharehman@gmail.com",
+            "password": "rimsharehman",
             "role": "s",
-"isConfirmed": true
+            "isConfirmed": true
         },
         {
-            "name": "Charbel Antouny",
-            "email": "charbelantouny@gmail.com",
-            "password": "charbelantouny",
+            "name": "Jehat armanç deniz",
+            "email": "jehatarmançdeniz@gmail.com",
+            "password": "jehatarmançdeniz",
             "role": "s",
-"isConfirmed": true
+            "isConfirmed": true
         },
         {
-            "name": "Ahmed",
-            "email": "ahmed@gmail.com",
-            "password": "ahmed",
+            "name": "Kranthi Sedamaki",
+            "email": "kranthisedamaki@gmail.com",
+            "password": "kranthisedamaki",
             "role": "s",
-"isConfirmed": true
+            "isConfirmed": true
         }
     ],
     "instructor": {
@@ -158,7 +158,490 @@
         "email": "academindbymaximilianschwarzmüller@gmail.com",
         "password": "academindbymaximilianschwarzmüller",
         "role": "i",
-"isConfirmed": true,
-        "briefIntroduction": "<p>Bundling the courses and know how of successful instructors, Academind strives to deliver high quality online education.&nbsp;</p>\n\n<p>Online Education, Real-Life Success - that's what Academind stands for. Learn topics like web development, data analyses and more in a fun and engaging way.</p>\n\n\n\n\n\n\n\n<p>Currently, you can find courses published by Maximilian Schwarzmüller and Manuel Lorenz, more instructors to come!</p>\n\n\n\n\n\n\n\n<p>Keep learning!</p>"
-    }
+        "briefIntroduction": "<p>Bundling the courses and know how of successful instructors, Academind strives to deliver high quality online education.&nbsp;</p>\n\n<p>Online Education, Real-Life Success - that's what Academind stands for. Learn topics like web development, data analyses and more in a fun and engaging way.</p>\n\n\n\n\n\n\n\n<p>Currently, you can find courses published by Maximilian Schwarzmüller and Manuel Lorenz, more instructors to come!</p>\n\n\n\n\n\n\n\n<p>Keep learning!</p>",
+        "isConfirmed": true
+    },
+    "curriculum": [
+        {
+            "sectionName": "Introduction",
+            "unitNames": [
+                "Introduction",
+                "What is Flutter?",
+                "Join our Online Learning Community",
+                "Understanding the Flutter Architecture",
+                "How Flutter & Dart Code Gets Compiled To Native Apps",
+                "Understanding Flutter Versions",
+                "Flutter macOS Setup",
+                "macOS Development Environment",
+                "Android Licenses & XMLSchema Error",
+                "Flutter Windows Setup",
+                "Windows Development Environment",
+                "Flutter & Material Design",
+                "Flutter Alternatives",
+                "Course Outline",
+                "How To Get The Most Out Of The Course",
+                "Useful Resources & Links"
+            ]
+        },
+        {
+            "sectionName": "Flutter Basics [QUIZ APP]",
+            "unitNames": [
+                "Module Introduction",
+                "Creating a New Project",
+                "An Overview of the Generated Files & Folders",
+                "More on Git (Version Control System)",
+                "Analyzing the Default App",
+                "Dart Basics",
+                "More Dart Basics",
+                "Dart Basics - Summary",
+                "Dart Fundamentals",
+                "Building an App From Scratch",
+                "Running the App on an Emulator",
+                "Class Constructors & Named Arguments",
+                "First Summary & Additional Syntax",
+                "Flutter App Basics",
+                "Building a Widget Tree",
+                "Visible (Input / Output) & Invisible (Layout / Control) Widgets",
+                "Adding Layout Widgets",
+                "Widget Basics",
+                "Connecting Functions & Buttons",
+                "Anonymous Functions",
+                "Updating Widget Data (Or: Using StatelessWidget Incorrectly)",
+                "[DART DEEP DIVE] Understanding Lists",
+                "Updating Correctly with Stateful Widgets",
+                "Stateful & Stateless Widgets",
+                "A Brief Look Under The Hood",
+                "Using Private Properties",
+                "Creating a New, Custom Widget",
+                "First Styling & Layouting Steps",
+                "Enums & Multiple Constructors",
+                "Official Docs & The Widget Catalog",
+                "Passing Callback Functions Around",
+                "Introducing Maps",
+                "Mapping Lists to Widgets",
+                "final vs const",
+                "Advanced Flutter & Dart Basics",
+                "Introducing \"if\" Statements",
+                "[DART DEEP DIVE] More on \"if\" Statements",
+                "[DART DEEP DIVE] The \"null\" Value",
+                "Outputting Widgets Conditionally",
+                "Splitting the App Into Widgets",
+                "Calculating a Total Score",
+                "Getters & \"else-if\"",
+                "Resetting the Quiz",
+                "Time to Practice: Flutter Basics",
+                "Wrap Up",
+                "Module Resources"
+            ]
+        },
+        {
+            "sectionName": "Running Apps on Different Devices & Debugging Apps",
+            "unitNames": [
+                "Module Introduction",
+                "Running the App on a Real Android Device",
+                "Running the App on an iOS Emulator",
+                "Running the App on a Real iOS Device",
+                "Working with the Emulators / Using the Emulators",
+                "Understanding Error Messages & Fixing Errors",
+                "Using the Debugger",
+                "Getting Started with the Dart DevTools",
+                "Understanding the Repaint Rainbow",
+                "Wrapping up the Dart DevTools",
+                "Useful Resources & Links"
+            ]
+        },
+        {
+            "sectionName": "Widgets, Styling, Adding Logic - Building a Real App [PERSONAL EXPENSES APP]",
+            "unitNames": [
+                "Module Introduction",
+                "An Overview of the Core Flutter Widgets",
+                "Planning the App",
+                "Combining Widgets",
+                "Understanding Column Alignment",
+                "Columns & Rows",
+                "Not a Widget: Adding a Transaction Model & Transaction Data",
+                "Mapping Data Into Widgets",
+                "Building a Custom List Item",
+                "Styling a Container",
+                "Styling Text",
+                "More Styling!",
+                "Styling Time!",
+                "Containers vs Columns vs Rows",
+                "Using String Interpolation",
+                "Installing External Packages & Formatting Dates",
+                "DateFormat Patterns",
+                "Adding Text Input Widgets (TextField)",
+                "Fetching User Input",
+                "Splitting the App Into Widgets",
+                "Connecting Widgets & Managing Data / State",
+                "Adding User Transactions to the List",
+                "Making the List Scrollable!",
+                "Working with ListViews",
+                "Lists, Scrolling & Text Input",
+                "Further Input & Output Styling and Configuration",
+                "Adding AppBar Buttons & Floating Action Buttons",
+                "Showing a Modal Bottom Sheet",
+                "Improving & Styling the Modal Bottom Sheet",
+                "Configuring & Using Themes",
+                "Custom Fonts & Working with Text Themes",
+                "Theming",
+                "Adding Images to the App",
+                "Planning the Chart Widget",
+                "Looping Through Lists",
+                "More on \"for\" Loops",
+                "Deriving Recent Transactions",
+                "Creating Bars for our Chart",
+                "Populating the Chart with Values",
+                "Finishing the Chart Bars",
+                "Flexible & Expanded: Deep Dive",
+                "Adding a ListTile Widget",
+                "Improving the Overall Chart",
+                "Widgets & Configuring Widgets - Summary / Overview",
+                "Getting Started with Date Selection",
+                "Showing a DatePicker",
+                "Adding Transactions with a Date",
+                "Deleting Transactions & Using IconButtons",
+                "Final Polishing!",
+                "Wrap Up",
+                "Useful Resources & Links"
+            ]
+        },
+        {
+            "sectionName": "Responsive & Adaptive User Interfaces and Apps",
+            "unitNames": [
+                "Module Introduction",
+                "What does \"Responsive\" and \"Adaptive\" Mean?",
+                "Examples: Where we could improve the App!",
+                "Calculating Sizes Dynamically",
+                "Working with the \"textScaleFactor\"",
+                "Using the LayoutBuilder Widget",
+                "Responsiveness",
+                "Controlling the Device Orientation",
+                "Rendering Alternative Landscape Content - 1",
+                "Finishing Landscape Mode",
+                "Showing Different Content Based on Device Orientation",
+                "Respecting the Softkeyboard Insets",
+                "Using the Device Size in Conditions",
+                "Managing the MediaQuery Object",
+                "Checking the Device Platform",
+                "Using Cupertino (iOS) Widgets",
+                "Using the SafeArea",
+                "More Cupertino Styles",
+                "Using Cupertino Buttons",
+                "Creating Custom Adaptive Widgets",
+                "Adaptive Widgets",
+                "Wrap Up",
+                "Useful Resources & Links"
+            ]
+        },
+        {
+            "sectionName": "Widget & Flutter Internals - Deep Dive",
+            "unitNames": [
+                "Module Introduction",
+                "The Problem At Hand",
+                "Widget Tree & Element Tree - What, Why and How?",
+                "How Flutter Rebuilds & Repaints the Screen",
+                "How Flutter Executes build()",
+                "Using \"const\" Widgets & Constructors",
+                "Widgets, Elements, build()",
+                "Writing Good Code",
+                "Extracting Widgets",
+                "Using Builder Methods",
+                "Time to Practice: Builder Methods",
+                "Understanding the Widget Lifecycle",
+                "Calling super.initState() etc.",
+                "Understanding the App Lifecycle",
+                "Understanding Context",
+                "A Problem with Lists & Stateful Widgets",
+                "Understanding the Problem Root",
+                "Using Keys",
+                "Keys, Lists, Stateful Widgets",
+                "Wrap Up",
+                "Useful Resources & Links"
+            ]
+        },
+        {
+            "sectionName": "Navigation & Multiple Screens [MEALS APP]",
+            "unitNames": [
+                "Module Introduction",
+                "Planning the App",
+                "Starting With The App - Adding Base Data",
+                "Creating a Grid & Working with Linear Gradients",
+                "Registering a Screen as the Main Screen",
+                "Styling & Theming",
+                "Navigating to a New Page",
+                "Passing Data via the Constructor",
+                "Using Named Routes & Passing Data With Named Routes",
+                "Screens & Navigation",
+                "Diving Deeper into Named Routes",
+                "Adding a Meal Model & Data",
+                "Selecting Meals for a Chosen Category",
+                "Displaying Recipe Items & Using Network Images",
+                "Finishing the Meal List Item",
+                "Navigating to the Meal Detail Page",
+                "onGenerateRoute & onUnknownRoute",
+                "More Navigation!",
+                "Finishing the Meal Detail Page",
+                "Adding a TabBar to the Appbar",
+                "Adding a Bottom TabBar",
+                "Adding a Custom Drawer",
+                "Adding Links to the Drawer",
+                "Tabs & Drawers!",
+                "Replacing Pages (Instead of Pushing)",
+                "Popping Pages & Passing Data Back",
+                "Replacing, Popping & Data",
+                "Adding Filter Switches",
+                "Adding Filtering Logic",
+                "Adding a \"Mark as Favorite\" Feature",
+                "A Problem!",
+                "Wrap Up",
+                "Useful Resources & Links"
+            ]
+        },
+        {
+            "sectionName": "State Management [SHOP APP]",
+            "unitNames": [
+                "Module Introduction",
+                "Planning the App",
+                "Defining a Data Model",
+                "Working on the \"Products\" Grid & Item Widgets",
+                "Styling & Theming the App",
+                "Adding Navigation to the App",
+                "Why State Management? And what is \"State\" and \"State Management\"?",
+                "Understanding the \"Provider\" Package & Approach",
+                "Working with Providers & Listeners",
+                "[DART DEEP DIVE] Inheritance (\"extends\") vs Mixins (\"with\")",
+                "Providing non-Objects",
+                "Listening in Different Places & Ways",
+                "State, State Management & The Provider Package/ Approach",
+                "Using Nested Models & Providers",
+                "Exploring Alternative Provider Syntaxes",
+                "Using \"Consumer\" instead of \"Provider.of\"",
+                "Local State vs App-wide State",
+                "Adding Shopping Cart Data",
+                "More on State Management & The Provider Package",
+                "Working with Multiple Providers",
+                "Connecting the Cart Provider",
+                "Working on the Shopping Cart & Displaying a Total",
+                "Displaying a List of Cart Items",
+                "Making Cart Items Dismissible",
+                "Adding Product Detail Data",
+                "Providing an Orders Object",
+                "Adding Orders",
+                "Adding an Orders Screen",
+                "Using a Side Drawer",
+                "Making Orders Expandable & Stateful Widgets vs Providers",
+                "Wrap Up",
+                "Useful Resources & Links"
+            ]
+        },
+        {
+            "sectionName": "Working with User Input & Forms [SHOP APP]",
+            "unitNames": [
+                "Module Introduction",
+                "Snackbars & Undoing \"Add to Cart\" Actions",
+                "Showing Alert Dialogs",
+                "Adding a \"Manage Products\" Page",
+                "\"Edit Product\" Screen & A Problem",
+                "Using Forms & Working with Form Inputs",
+                "ListView or Column",
+                "Managing Form Input Focus",
+                "Multiline Inputs & Disposing Objects",
+                "Adding an Image Preview",
+                "Image Input & Image Preview",
+                "Submitting Forms",
+                "Validating User Input",
+                "Adding Validation to All Inputs",
+                "[OPTIONAL] Working with Regular Expressions",
+                "Saving New Products",
+                "Time to Update Products!",
+                "Allowing Users to Delete Products",
+                "Wrap Up",
+                "Useful Resources & Links"
+            ]
+        },
+        {
+            "sectionName": "Sending Http Requests [SHOP APP]",
+            "unitNames": [
+                "Module Introduction",
+                "On-Device vs Web Storage",
+                "How to Connect Flutter to a Database",
+                "Preparing Our Backend",
+                "How To Send Http Requests",
+                "Sending POST Requests",
+                "Working with Futures in Dart",
+                "[DART DEEP DIVE] Futures & Async Code",
+                "Http Requests & Futures",
+                "Showing a Loading Indicator",
+                "Handling Errors Gracefully",
+                "Working with \"async\" & \"await\"",
+                "Fetching Data, initState & \"of(context)\"",
+                "How to Transform Fetched Data",
+                "Implementing Pull-to-Refresh",
+                "Updating Data via PATCH Requests",
+                "Utilizing Optimistic Updating",
+                "Creating Custom Exceptions & More Error Handling",
+                "A Challenge For You!",
+                "Updating the \"Favorite\" Status Optimistically",
+                "Storing Orders in the Web",
+                "Fetching Orders & Fixing an Issue",
+                "Using the \"FutureBuilder\" Widget & Improving the Code",
+                "Wrap Up",
+                "Useful Resources & Links"
+            ]
+        },
+        {
+            "sectionName": "Adding User Authentication [SHOP APP]",
+            "unitNames": [
+                "Module Introduction",
+                "How Authentication Works",
+                "Prepare Backend",
+                "Adding the Auth Screen",
+                "Adding User Signup",
+                "Allowing Users to Log In",
+                "Handling Authentication Errors",
+                "Managing the Auth Token Locally (in the App)",
+                "Using the \"ProxyProvider\" and Attaching the Token to Outgoing Http Requests",
+                "Adding the Token to All Requests",
+                "Connecting the \"Favorite\" Status to Users",
+                "Attaching Products to Users & Filtering By Creator",
+                "Attaching Orders to Users",
+                "Adding a Logout Functionality",
+                "Automatically Logging Users Out (After Some Time)",
+                "Automatically Logging Users In",
+                "Wrap Up",
+                "Useful Resources & Links"
+            ]
+        },
+        {
+            "sectionName": "Adding Animations [SHOP APP]",
+            "unitNames": [
+                "Module Introduction",
+                "Animations From Scratch (Completely Manually Controlled)",
+                "Using the \"AnimatedBuilder\" Widget",
+                "Working with the \"AnimatedContainer\"",
+                "More Built-in Animation & Transition Widgets",
+                "Fading Loaded Images In (And Showing a Placeholder)",
+                "Adding a \"Hero\" Transition",
+                "Working with Slivers",
+                "Practice: Animating Order Boxes",
+                "A Fix for the Latest Version of Flutter",
+                "Implementing Custom Route Transitions",
+                "Wrap Up",
+                "Useful Resources & Links"
+            ]
+        },
+        {
+            "sectionName": "Using Native Device Features (Camera, Maps, Location, ...) [GREAT PLACES APP]",
+            "unitNames": [
+                "Module Introduction",
+                "Planning the App",
+                "PlaceList & Place Provider Setup",
+                "Adding the \"Add Place\" Screen & An Image Input",
+                "Using Image Picker & The Device Camera",
+                "Storing the Image on the Filesystem (on the Device)",
+                "Managing Data & Images via the Provider Package",
+                "Handling Errors",
+                "Testing on Real Devices",
+                "Preparing SQLite",
+                "Storing & Fetching Data with SQLite",
+                "Adding a Location Input & The \"location\" Package",
+                "Fetching the User Coordinates",
+                "Displaying a Static Map Snapshot",
+                "Rendering a Dynamic Map (via Google Maps)",
+                "Allowing Users to Pick a Location on the Map",
+                "Storing the Location in SQLite",
+                "Adding a \"Place Detail\" Screen & Opening the Map in \"readonly\" Mode",
+                "Wrap Up",
+                "Useful Resources & Links"
+            ]
+        },
+        {
+            "sectionName": "Firebase, Image Upload, Push Notifications - Building a Chat App",
+            "unitNames": [
+                "Module Introduction",
+                "What is Firebase?",
+                "Creating a New App",
+                "Getting Started with Firebase",
+                "Important: Flutter Firebase Versions",
+                "Getting Started with Flutter & the Firebase SDK",
+                "Adding \"GoogleServices-Info.plist\" correctly to iOS",
+                "Rendering Stream Data with StreamBuilder",
+                "Adding Data",
+                "A Basic Authentication Screen",
+                "Adding an App Theme",
+                "Creating an Authentication Form",
+                "Connecting Auth Form & Auth Screen",
+                "Adding the firebase_auth Package",
+                "Implementing Authentication",
+                "Storing Extra User Data",
+                "Finishing Authentication & Logout",
+                "Adding Firebase Security Rules",
+                "Listening to Chat Messages",
+                "Sending & Ordering Chat Messages",
+                "Creating a Basic Chat Bubble Widget",
+                "Improving the Chat Bubbles",
+                "Testing on Multiple Devices",
+                "Displaying User Names",
+                "ImagePicker: Latest Version",
+                "Adding an Image Picker",
+                "Preparing File Upload & Validating Images",
+                "Uploading Images",
+                "Improving Image Upload",
+                "Running on a Real iOS Device",
+                "Displaying User Images",
+                "How Push Notifications Work",
+                "An Introduction to Firebase Cloud Messaging",
+                "Android & Push Notifications",
+                "iOS & Push Notifications",
+                "Handling Push Notifications",
+                "Getting Started with Firebase Cloud Functions",
+                "MUST READ: Firebase Cloud Functions & Billing",
+                "Setting a Firestore Trigger",
+                "Sending Automated Push Notifications",
+                "Polishing & Wrap Up",
+                "Updating to the latest Firebase Package Versions",
+                "Module Resources"
+            ]
+        },
+        {
+            "sectionName": "Running Native Swift, ObjectiveC, Java or Kotlin Code",
+            "unitNames": [
+                "Module Introduction",
+                "Using a Proper Project Setup",
+                "Sending a Method Call from Flutter",
+                "Running Android Code",
+                "Running iOS Code",
+                "Wrap Up",
+                "Useful Resources & Links"
+            ]
+        },
+        {
+            "sectionName": "Publishing to the App Stores",
+            "unitNames": [
+                "Module Introduction",
+                "Preparing the Code",
+                "Preparing the App Configuration",
+                "Preparing Third-Party Services",
+                "Adding Icons & Splash Screens",
+                "Publishing Android Apps",
+                "Publishing iOS Apps",
+                "Useful Resources & Links"
+            ]
+        },
+        {
+            "sectionName": "Roundup & Next Steps",
+            "unitNames": [
+                "You did it!",
+                "Your Next Steps (To Become an Awesome Developer!)",
+                "How to Plan & Develop Successful Apps"
+            ]
+        },
+        {
+            "sectionName": "Roundup",
+            "unitNames": [
+                "Bonus: More Content!"
+            ]
+        }
+    ]
 }

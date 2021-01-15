@@ -4,161 +4,433 @@
         "courses": []
     },
     "course": {
-        "title": "The Complete Android & Java Developer Course - Build 21 Apps",
-        "subtitle": "Learn Android Development, Java & Android Studio from Scratch in 5 Weeks. Build a Diary App & more",
-        "descriptions":  "",
+        "title": "iOS 9 and Swift 2: From Beginner to Paid Professional™",
+        "subtitle": "The BEST online iOS 9 Swift 2 course online. Lets learn iOS 9 & Swift 2",
+        "descriptions": [],
         "reviews": [],
         "students": [],
-        "image1xURL": "https://img-a.udemycdn.com/course/240x135/360920_681f_21.jpg",
-        "image2xURL": "https://img-a.udemycdn.com/course/480x270/360920_681f_21.jpg",
-        "image3xURL": "https://img-a.udemycdn.com/course/750x422/360920_681f_21.jpg",
+        "image1xURL": "https://img-a.udemycdn.com/course/240x135/555100_bdbe_5.jpg",
+        "image2xURL": "https://img-a.udemycdn.com/course/480x270/555100_bdbe_5.jpg",
+        "image3xURL": "https://img-a.udemycdn.com/course/750x422/555100_bdbe_5.jpg",
         "discountPrice": 11.99,
-        "originalPrice": 129.99,
+        "originalPrice": 44.99,
         "numViews": 0,
-        "curriculum": {}
+        "curriculum": []
     },
     "reviews": [
         {
-            "body": "Good for basics, But i feel that as we started to develop advance things, it wasn't very helpful.",
-            "rating": 3
-        },
-        {
-            "body": "I like the way you are teaching . It is a long complete journey , i learnt deeply and uses by knowledge to add additional features in the app.Looking forward to learn further courses with you.\n\nThank You Paulo for an amazing experience.",
+            "body": "Great intro, thanks!",
             "rating": 4.5
         },
         {
-            "body": "This course made me easy to get enough skills, I developed my confidence .",
+            "body": "Hands down the best course i've taken part in to date. The content Mark has put together is not only useful for a future career in iOS development but the way in which Mark is able to explain complicated situations to someone who has no idea about this field is the best part. Making complex scenarios so easy to understand is a skill Mark has mastered. I haven't completed the course yet and have already signed up for more.\n\nHighly recommended",
+            "rating": 5
+        },
+        {
+            "body": "I've learned a great deal more from this course vs other iOS 9 & Swift courses. As with anything you need to put in the time and effort. Mark is an excellent teacher, very engaging and helpful. If you're committed to learn iOS & Swift, this course is a must buy!",
+            "rating": 5
+        },
+        {
+            "body": "I have tried a few other iOS Development courses, but truthfully, they don't come anywhere close to good as this one. Mark is a very experienced developer, and a great teacher as well. This course will not only teach you all of the technical know how that you need to know, but it will also teach you how to design apps to make them more attractive to users. From all that I have learned so far, it is safe to say that this course will give you a great start in an iOS Development career either working for yourself, an already established company, or whatever you choose to do with the knowledge learned in this course.",
+            "rating": 5
+        },
+        {
+            "body": "Practical no-nonsense instruction, yet fun and non-scripted. As real as it gets!",
+            "rating": 5
+        },
+        {
+            "body": "I really think Mark Price nails it, with an happy and exiting attitude, creating various apps, to really give some useful examples.\n\nYou will go, as a beginner, easily into this course - of course with different pace depending on who You are.\n\nI'm happy I found this course.",
+            "rating": 5
+        },
+        {
+            "body": "The best course that is taken, Mark is a very good teacher and easy to understand..\n\nThanks Mark..",
+            "rating": 5
+        },
+        {
+            "body": "Entertaining lecture, learning tons of stuff from him. although you need to constantly pause the videos to look up stuff as he doesn't explain everything exactly.",
             "rating": 4.5
         },
         {
-            "body": "Excellent course! I really like how Paulo teaches!\n\nVery well put together, nicely chained.\n\nI learned a lot from the many examples.\n\nI am Hungarian and the first language is not English, but I speak very well, I understand every word!\n\nI will take my next course because from then on I will only develop in your teaching!\n\nThank you Paulo!",
+            "body": "Mark knows how to teach you iOS and Swift programming as it would be used in real-world scenarios, and makes it fun to learn how! My favorite course I've ever taken on Udemy!",
             "rating": 5
         },
         {
-            "body": "It was Wonderful. The teaching is excellent\n\nWould recommend this course to others.",
+            "body": "I actually found Mark's course after frustration with, frankly the sheer ugliness of the UI elements used in another iOS course. Also there was a complete lack of modularity/design patterns/best practices in the other course.\n\nBy contrast, Mark pays special attention to the user interface/design/typography but NOT at a sacrifice to teaching you to create compelling apps with efficient, robust code underneath. In app after app, all building on each other in a very clear gradient of expanding scope/difficulty, both UI and code are explained in detail and with clarity. Mark's enthusiasm is infectious, there were times, even though I love Swift/iOS dev, I was just feeling a bit overwhelmed, and within 5 minutes of feeling the enthusiasm and excitement from Mark, I was back in the zone. Mark also covers, (and heretofore, mysterious to me), essentials, such as UIStackview, terminal, Git, GitHub, Cocoapods, third party frameworks such as Alamofire and Firebase all with just the right amount of depth to extract the essence of what you need to know but always a keen focus on the practical.\n\nHe has an *invaluable* section on career prep, and it's a refreshingly NO-BS, candid, and motivational discussion on the topic. He also walks you through what appears to be the rather byzantine (painful?) process of submitting your app to the app store, and doesn't just glaze over stuff. He realizes that even things that can appear simple when they're explained can be much more complicated when you're actually alone and doing by yourself.\n\nEach app project Mark walks you through from start to finish, with no editing. You see him choose assets, install 3rd party tools, fuss around with autolayout, debug when necessary. Therefore you see the *process* itself which can involve trial and error and that there is no illusion that the creative/dev process is some tidy straight line.\n\nDid I mention there is a section on Photoshop (again dev essentials focused) as well? Mark also continues to add new content to the course based directly on feedback he receives from his students.\n\nMy only critique, would be that a side lesson on Swift closures/(blocks) would be of great benefit if one were added. This is such a key area to understand in the later apps, and a sidebar lesson, especially explained in Mark's unique style would be fantastic towards shoring up a concept that is often confusing. It would also be cool to have a section on freelancing in the career dev area. However in the sum total of the course, those are minor concerns and are more than overshadowed by the quality of the course as a whole.\n\nMark teaches from the perspective of what's practical with a clear goal on making you self-sufficient, and not relying on a designer, or leaving you scratching your head as to WHY he chose a certain layout, or a certain approach to the code. At the same time, you'll be having a LOT of fun along the way. I really can't say enough positive things about this course. My thanks to Mark Price for creating it.",
             "rating": 5
         },
         {
-            "body": "It's a brilliant course. Paulo repeats techniques in a way that we can practice well. A very comprehensive course.\n\nI didn't follow the Java part as I already new it, however I skipped through it, and it's well organised.\n\nI also skipped the Parse sections as it seems the app clone facilities are not more on the Parse website.",
+            "body": "Great course. I do have some points of critic. Sometimes in the course some parts are going really fast. I was confused with the required, convenience initializers in first place but I figured out with some help on devslopes. All in all this course is great, really great. Valuable and solid information is provided by mark and I think if you really want to master ios this course can help you reallly good with it. I say gogoogogog mark and I am looking forward for the advanced ios course. Thank you so much <3\n\nUpdated:\n\nThis course was amazing and I already did some other courses of mark too. iOS 10 is the course I am taking right now and currently I am developing my new app called: ActiveRest. It uses algorithm and gives the user smarts tips in powerlifting. Mark stay tuned to review this amazing app! :D",
             "rating": 5
         },
         {
-            "body": "If tutors of such courses can put some efforts to dig deep into the 'whys' behind the code they write, that is, provide the breakdown of such big chunks of code, it will become a bit more easier to understand why and how things work the way they do.\n\nHowever, the course was fun and pretty useful!",
-            "rating": 3.5
-        },
-        {
-            "body": "Very good course, It helps you to understand a lot of Android environment, unfortunately the android system has change and you must re-make some codes to work now days, besides that its a very good course that opens you the doors to be an android developer.",
-            "rating": 3.5
-        },
-        {
-            "body": "So far so good. All is going well, I have learnt a lot. I am excited at how much I've learnt and looking forward to building my project and bringing my other app ideas to life.",
-            "rating": 5
-        },
-        {
-            "body": "Take much time and can't answer my question. I already drop a question in QandA box",
-            "rating": 1.5
-        },
-        {
-            "body": "I'm new to Android, the class really helped me understanding basics and explore it myself. Loved step-by-step process and explaining them. The tips are very useful. It is really a complete course to develop an application.\n\nThanks for putting together this wonderful course.",
-            "rating": 5
-        },
-        {
-            "body": "this course is amazing, i am very new to programming and all the stuff but he taught very well , dont know about next lectures but till now i understood everything, i have completed half of the course in last 7 months as i am a working person so i dont get much time. i want to make my own apps, i hope one day i will do it :)",
-            "rating": 5
+            "body": "A great course and a wonderful teacher. Thanks Mark Sir. It's been a wonderful experience learning from you. I just wanted to know more about basics of Swift and Objective C and how to read OBJC apis so I encountered small issues while building my own app. Apart from that everything is wonderful.",
+            "rating": 4.5
         }
     ],
     "students": [
         {
-            "name": "Kiran Baldaniya",
-            "email": "kiranbaldaniya@gmail.com",
-            "password": "kiranbaldaniya",
+            "name": "Tyler Cinnamon",
+            "email": "tylercinnamon@gmail.com",
+            "password": "tylercinnamon",
             "role": "s",
-"isConfirmed": true
+            "isConfirmed": true
         },
         {
-            "name": "Matheas T",
-            "email": "matheast@gmail.com",
-            "password": "matheast",
+            "name": "Bryce Sandilands",
+            "email": "brycesandilands@gmail.com",
+            "password": "brycesandilands",
             "role": "s",
-"isConfirmed": true
+            "isConfirmed": true
         },
         {
-            "name": "Ehtesham Ansari",
-            "email": "ehteshamansari@gmail.com",
-            "password": "ehteshamansari",
+            "name": "Jeremy Taylor",
+            "email": "jeremytaylor@gmail.com",
+            "password": "jeremytaylor",
             "role": "s",
-"isConfirmed": true
+            "isConfirmed": true
         },
         {
-            "name": "Laszlo Kapronczay",
-            "email": "laszlokapronczay@gmail.com",
-            "password": "laszlokapronczay",
+            "name": "Jake Aust",
+            "email": "jakeaust@gmail.com",
+            "password": "jakeaust",
             "role": "s",
-"isConfirmed": true
+            "isConfirmed": true
         },
         {
-            "name": "Dhyan Gowda",
-            "email": "dhyangowda@gmail.com",
-            "password": "dhyangowda",
+            "name": "Joseph Lau",
+            "email": "josephlau@gmail.com",
+            "password": "josephlau",
             "role": "s",
-"isConfirmed": true
+            "isConfirmed": true
         },
         {
-            "name": "Javed Ahsan",
-            "email": "javedahsan@gmail.com",
-            "password": "javedahsan",
+            "name": "Martin Lindal Hansen",
+            "email": "martinlindalhansen@gmail.com",
+            "password": "martinlindalhansen",
             "role": "s",
-"isConfirmed": true
+            "isConfirmed": true
         },
         {
-            "name": "Aditya Mehta",
-            "email": "adityamehta@gmail.com",
-            "password": "adityamehta",
+            "name": "Juan Luis R",
+            "email": "juanluisr@gmail.com",
+            "password": "juanluisr",
             "role": "s",
-"isConfirmed": true
+            "isConfirmed": true
         },
         {
-            "name": "Isaak Alejandro Haas Aldape",
-            "email": "isaakalejandrohaasaldape@gmail.com",
-            "password": "isaakalejandrohaasaldape",
+            "name": "Andrew Ng",
+            "email": "andrewng@gmail.com",
+            "password": "andrewng",
             "role": "s",
-"isConfirmed": true
+            "isConfirmed": true
         },
         {
-            "name": "Osebi Adams",
-            "email": "osebiadams@gmail.com",
-            "password": "osebiadams",
+            "name": "Bill Marr",
+            "email": "billmarr@gmail.com",
+            "password": "billmarr",
             "role": "s",
-"isConfirmed": true
+            "isConfirmed": true
         },
         {
-            "name": "Atulya Agrawal",
-            "email": "atulyaagrawal@gmail.com",
-            "password": "atulyaagrawal",
+            "name": "Kevin Murphy",
+            "email": "kevinmurphy@gmail.com",
+            "password": "kevinmurphy",
             "role": "s",
-"isConfirmed": true
+            "isConfirmed": true
         },
         {
-            "name": "Sudhakar Kalwa",
-            "email": "sudhakarkalwa@gmail.com",
-            "password": "sudhakarkalwa",
+            "name": "Kevin Vugts",
+            "email": "kevinvugts@gmail.com",
+            "password": "kevinvugts",
             "role": "s",
-"isConfirmed": true
+            "isConfirmed": true
         },
         {
-            "name": "Juned Shaikh",
-            "email": "junedshaikh@gmail.com",
-            "password": "junedshaikh",
+            "name": "Neel Nishant",
+            "email": "neelnishant@gmail.com",
+            "password": "neelnishant",
             "role": "s",
-"isConfirmed": true
+            "isConfirmed": true
         }
     ],
     "instructor": {
-        "name": "Paulo Dichone | Android, Java, Flutter Developer and Teacher",
-        "email": "paulodichone|android,java,flutterdeveloperandteacher@gmail.com",
-        "password": "paulodichone|android,java,flutterdeveloperandteacher",
+        "name": "Mark Wahlbeck",
+        "email": "markwahlbeck@gmail.com",
+        "password": "markwahlbeck",
         "role": "i",
-"isConfirmed": true,
-        "briefIntroduction": "<p>Hi, I'm Paulo. </p><p>I&nbsp;am passionate about teaching people Android, Java, and Flutter development.&nbsp; I have taught over<strong> 100,000 students in 175 countries worldwide.</strong></p><p>I have a degree in Computer Science from Whitworth University, and I love programming and teaching.</p><p> I have extensive experience in Mobile App Development (Android and iOS) and Web Development.&nbsp; </p><p>I am also the founder of Build Apps With Paulo, where students are equipped with tools they need to become well-rounded developers - <strong>developers who have soft and technical skills.</strong></p><p> Showing students how to make amazing applications/software is a gratifying experience for me.&nbsp; That's why I have been teaching online for the past 5 years.</p><p><strong><em>My goal is to make you a great developer, no matter your experience.&nbsp; </em></strong>I enjoy spending time with my growing family, playing the guitar, mandolin, and traveling in my spare time. </p><p>I look forward to helping you become the best developer you can be.&nbsp; </p><p> If you are new to <strong>Android development</strong> and my courses, I suggest you start with my most comprehensive Android course: </p><p><strong>&nbsp; 1.</strong> <strong>The Comprehensive 2020 Android Development Masterclass - </strong>You'll learn everything you'll need to know to get started with Android Development - no experience required!</p><p>Next:</p><p>&nbsp; <strong>2. The Complete Intermediate Android Masterclass - </strong>You'll learn intermediate Android topics such as Workmanager API, ROOM Database, and working in the background in Android.</p><p><br></p><p>Cross-platform Development courses &amp; Web-related (Build iOS and Android Mobile Apps):</p><p><strong> 3. Flutter &amp; Dart - The Complete Flutter App Development Course - </strong>Learn the Dart Programming language and build iOS and Android Apps with a single codebase.</p><p> <strong>4. AngularDart - Build Dynamic Web Apps with Angular &amp; Dart </strong>- Unleash the power of one of the most used web development framework Angular, and Dart, to build dynamic web apps.</p><p> <strong>5. TornadoFX - Build JavaFX Applications With Kotlin </strong>- Leverage the modern programming language, Kotlin, and JavaFX libraries to build stunning desktop apps</p><p><br></p><p>Purely Java-based courses:</p><p><strong>6. Java Masterclass - Beginner to Expert Guide - </strong>Want to learn Java from the ground up?&nbsp; Then this is the course you'll need.</p><p><strong>7. Java Design Patterns - The Complete Masterclass </strong>- Learn how to build solid software using well-tested, proven Design Patterns.</p><p><br></p><p>I look forward to seeing you in my courses.</p><p><br></p>"
-    }
+        "briefIntroduction": "<p>I am a veteran mobile developer having built over 57 mobile apps for iOS and Android, and I've also build multiple Unity 3D games, including Call of Duty Ghosts mobile.&nbsp;</p><p>I also spend most of my days now as a professional engineering instructor&nbsp; - changing the lives of students throughout the world - helping them make amazing salaries as engineers.</p><p>My passion is helping people reveal hidden talents and guide them into the world of startups and programming. I currently am teaching iOS 10, Apple TV &amp; tvOS, React &amp; Flux web development, Objective-C, Swift 3, Android, Javascript, Node, and Java. I also teach Unity 3D game development.</p>",
+        "isConfirmed": true
+    },
+    "curriculum": [
+        {
+            "sectionName": "Installation, Setup, Git, and Your First App",
+            "unitNames": [
+                "Student Success Story",
+                "How to Run Mac on a PC",
+                "DO NOT SKIP THIS VIDEO",
+                "Apple Developer Account & Xcode Installation",
+                "Increase & decrease Xcode font size dynamically",
+                "Intro to iOS 9 App",
+                "iOS 9 App: Your First App!",
+                "Student Orientation - Things you NEED to know",
+                "Learning Resources - Train Your Brain!",
+                "Intro to Swift 2",
+                "Swift 2 Variables & Constants",
+                "Swift 2 Comments & Semi-Colons",
+                "Swift 2 Numbers & Type Safety",
+                "Exercise - Building an iOS App on Your Own",
+                "Exercise - Variable Operations",
+                "Terminal Basics",
+                "Version Control",
+                "Git Basics",
+                "Working With Github",
+                "Exercise - Pushing Your Project to Github",
+                "Quiz 01"
+            ]
+        },
+        {
+            "sectionName": "Moving Forward with Swift and iOS",
+            "unitNames": [
+                "Warmup",
+                "Swift 2 Conditionals (if / else) Part 1",
+                "Swift 2 Conditionals ( && || ) Part 2",
+                "Swift 2 Functions",
+                "Exercise - Functions",
+                "iOS 9: Auto Layout Basics",
+                "iOS 9: Auto Layout (Digging Deeper)",
+                "Exercise - Auto Layout",
+                "Intro to iOS 9 App",
+                "iOS 9 App: Tapper",
+                "Exercise - Multiples App",
+                "Quiz 02"
+            ]
+        },
+        {
+            "sectionName": "Progressing With iOS: Arrays, Loops, Audio, & an Awesome App",
+            "unitNames": [
+                "Warmup",
+                "Swift 2 Arrays",
+                "Swift 2 Loops",
+                "Swift 2.2 Loops Update",
+                "Exercise - Arrays & Loops",
+                "iOS 9: Intro to Stack View",
+                "Exercise - Stack Views",
+                "Intro to iOS 9 App",
+                "iOS 9 App: Retro Calculator Part 1",
+                "iOS 9 App: Retro Calculator Part 2",
+                "Exercise - Enhancing our Calculator",
+                "Quiz 03"
+            ]
+        },
+        {
+            "sectionName": "Being a Better Coder: OOP, Dictionaries, & Proper Programming",
+            "unitNames": [
+                "Warmup - BooYa",
+                "Swift 2 Dictionaries",
+                "Intro Object-Oriented Programming & Classes",
+                "Inheritance",
+                "Polymorphism",
+                "Swift 2 Optionals Part 1",
+                "Intro to iOS 9 App",
+                "iOS 9 App: Building a Simple APP With OOP",
+                "Exercise - Build an App Using OOP",
+                "Intro to iOS 9 App",
+                "iOS 9 App: My Little Monster Part 1",
+                "iOS 9 App: My Little Monster Part 2",
+                "iOS 9 App: My Little Monster Part 3",
+                "iOS 9 App: My Little Monster Part 4",
+                "Exercise - Enhancing Your Gigapet"
+            ]
+        },
+        {
+            "sectionName": "Finishing Foundational Swift & Mastering Basic iOS",
+            "unitNames": [
+                "Model View Controller (MVC)",
+                "UIViewController",
+                "Size Classes Part (Different Layouts for Screen Sizes)",
+                "Exercise - Size Classes",
+                "UITabBarController",
+                "Storyboard Segues",
+                "App: Building a No-Storyboard App (XIBs)",
+                "Exercise - No Storyboards",
+                "Subclassing Views (Custom UIView)",
+                "Intro to App",
+                "App: Favorite Place",
+                "Exercise - Your Own Favorite Place"
+            ]
+        },
+        {
+            "sectionName": "Tables & Data",
+            "unitNames": [
+                "Swift 2 Enums",
+                "Swift 2 Extensions",
+                "UITableViewController",
+                "WKWebView",
+                "App: Ugly Stuff - Custom TableView and Custom Cells",
+                "NSUserDefaults",
+                "UINavigationController",
+                "App: The Walking Dead (UIScrollView)",
+                "Intro to App",
+                "App: MyHood Part 1",
+                "App: MyHood Part 2",
+                "App: MyHood Part 3",
+                "Intro to App",
+                "App: Recipez Part 1 (Core Data)",
+                "App: Recipez Part 2 (Core Data)",
+                "Student Showcase",
+                "Exercise - Favorite Movies"
+            ]
+        },
+        {
+            "sectionName": "**NEW** Maps & GPS",
+            "unitNames": [
+                "DevCamp iOS 9 App: Creating the project",
+                "DevCamp iOS 9 App: Working with user location",
+                "DevCamp iOS 9 App: Zooming in on the map",
+                "DevCamp iOS 9 App: Annotations & Geocoding"
+            ]
+        },
+        {
+            "sectionName": "Web Requests",
+            "unitNames": [
+                "How Web Requests Work",
+                "Working with POSTMAN",
+                "Web Requests (NSURLSession)",
+                "**Important Update For Next Lecture**",
+                "Cocoapods",
+                "JSON"
+            ]
+        },
+        {
+            "sectionName": "Microsoft Cognitive Services: Facial Recognition",
+            "unitNames": [
+                "Intro to Cognitive Services",
+                "Signing Up & API Keys",
+                "Setting Up A Server With Images",
+                "Creating the UI",
+                "Implementing the Collection View",
+                "Downloading Images from the Server",
+                "Working with UIImagePicker",
+                "Understanding Microsoft Cognitive API Docs",
+                "Implementing the Microsoft Cognitive iOS SDK",
+                "Using the Microsoft Cognitive Face Detect API",
+                "Selecting the Image to Detect",
+                "Verifying Results with Microsoft Cognitive Face API",
+                "Missing Persons Exercise & Source Code"
+            ]
+        },
+        {
+            "sectionName": "Pokedex",
+            "unitNames": [
+                "Intro to App: Pokemon Pokedex",
+                "App: Pokedex Part 1 - Project Setup, Images, Data, Github",
+                "App: Pokedex Part 2 - Creating a Pokemon Class",
+                "App: Pokedex Part 3 - UICollectionView, Storyboard Layout",
+                "App: Pokedex Part 4 - Custom UICollectionViewCell",
+                "App: Pokedex Part 5 - UICollectionViewDelegate, Data Source, Flow Layout",
+                "App: Pokedex Part 6 - Parsing CSV Files",
+                "App: Pokedex Part 7 - Audio & Custom Font",
+                "App: Pokedex Part 8 - UISearchBar, Search Filtering",
+                "App: Pokedex Part 9 - Detail View Controller & Segue",
+                "App: Pokedex Part 10 - UIStackView & The Detail View Controller",
+                "App: Pokedex Part 11 - IBOutlets Detail View Controller, Updating Class",
+                "App: Pokedex Part 12 - The API, Github, Cocoapods, Alamofire",
+                "App: Pokedex Part 13 - Downloading & Parsing Data",
+                "App: Pokedex Part 14 - Completing the App",
+                "Exercise - Weather App",
+                "Weather App Solution"
+            ]
+        },
+        {
+            "sectionName": "Building a Social Network With Firebase",
+            "unitNames": [
+                "Intro to App",
+                "App: Showcase Part 1 - Firebase Overview",
+                "App: Showcase Part 2 - Firebase Auth Config",
+                "App: Showcase Part 3 - Login User Interface",
+                "App: Showcase Part 4 - Facebook Login",
+                "App: Showcase Part 5 - Email/Password Login",
+                "App: Showcase Part 6 - Post TableViewCell UI",
+                "App: Showcase Part 7 - How Firebase Works",
+                "App: Showcase Part 8 - Creating Firebase Users",
+                "App: Showcase Part 9 - Syncing Data From Firebase",
+                "App: Showcase Part 10 - Parsing Firebase Data",
+                "App: Showcase Part 11 - Display Data - Image Caching/Downloading",
+                "App: Showcase Part 12 - Make Post UI",
+                "**IMPORTANT UPDATE FOR IMAGE SHACK**",
+                "App: Showcase Part 13 - Uploading Images to Server",
+                "App: Showcase Part 14 - Saving Posts to Firebase",
+                "App: Showcase Part 15 - Like Feature (Firebase Relationships)",
+                "Firebase 2 Showcase App Tutorial",
+                "Exercise - Expanding Your Social Network App"
+            ]
+        },
+        {
+            "sectionName": "App Design",
+            "unitNames": [
+                "Creating an App Icon",
+                "Creating another app icon in Photoshop",
+                "Working with @1x @2x & @3x images"
+            ]
+        },
+        {
+            "sectionName": "Submitting to the App Store",
+            "unitNames": [
+                "Paid Apple Developer Account",
+                "Development Certificates",
+                "Development Profiles",
+                "Creating App Store Screenshots",
+                "Submitting your App!!",
+                "Exercise - Submit Your App To The App Store!!!!"
+            ]
+        },
+        {
+            "sectionName": "Debugging & Solving Crashes",
+            "unitNames": [
+                "Debugging a screen that isn't showing data"
+            ]
+        },
+        {
+            "sectionName": "Hot Topics & Updates",
+            "unitNames": [
+                "Xcode 7.3 & Swift 2.2 Important Updates",
+                "iOS 9 3D Touch App Shortcuts",
+                "Swift & Objective-C in the same project"
+            ]
+        },
+        {
+            "sectionName": "Career Preparation",
+            "unitNames": [
+                "Mastering LinkedIn",
+                "Resumes for Programmers",
+                "Working With Recruiters",
+                "iOS 9 Interview Questions"
+            ]
+        },
+        {
+            "sectionName": "BONUS: Devslopes Live Web Series",
+            "unitNames": [
+                "Intro to Web Series",
+                "01 - Project Kickoff",
+                "02 - Week 1 Standup - Design Review",
+                "03 - Firebase iOS Setup",
+                "04 - Firebase iOS Setup Part 2",
+                "05 - Fixing a Merge Conflict",
+                "06 - Using SpriteKit & UIKit in the same project",
+                "07 - Sprint 1 Review",
+                "Sprint 2 Week 1 Review",
+                "Sprint 2 Review",
+                "Firebase Data Model (Super good stuff in here!)",
+                "Mark Does Code Review with Jack",
+                "Sprint 3 Week 1 - Best meetup yet!",
+                "Sprint 3 Review"
+            ]
+        },
+        {
+            "sectionName": "BONUS",
+            "unitNames": [
+                "What to do after this course"
+            ]
+        }
+    ]
 }

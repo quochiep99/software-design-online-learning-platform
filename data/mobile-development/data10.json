@@ -6,24 +6,28 @@
     "course": {
         "title": "Ionic - Build iOS, Android & Web Apps with Ionic & Angular",
         "subtitle": "Build Native iOS & Android as well as Progressive Web Apps with Angular, Capacitor and the Ionic Framework (Ionic 4+).",
-        "descriptions":  "",
+        "descriptions": [],
         "reviews": [],
         "students": [],
-        "image1xURL": "https://img-a.udemycdn.com/course/240x135/1070124_3a0f_4.jpg",
-        "image2xURL": "https://img-a.udemycdn.com/course/480x270/1070124_3a0f_4.jpg",
-        "image3xURL": "https://img-a.udemycdn.com/course/750x422/1070124_3a0f_4.jpg",
+        "image1xURL": "https://img-b.udemycdn.com/course/240x135/1070124_3a0f_4.jpg",
+        "image2xURL": "https://img-b.udemycdn.com/course/480x270/1070124_3a0f_4.jpg",
+        "image3xURL": "https://img-b.udemycdn.com/course/750x422/1070124_3a0f_4.jpg",
         "discountPrice": 11.99,
         "originalPrice": 129.99,
         "numViews": 0,
-        "curriculum": {}
+        "curriculum": []
     },
     "reviews": [
         {
-            "body": "Fantastic very detailed lesson! However, please create a tutorial that isn't heavily project based. An example would be how to retrieve from firebase part 1, how to update part2. I feel that for beginners like myself would be a little bit confusing at first with all the other codes that are part of the project. >:)",
+            "body": "This course includes what I was expecting and what I was trying to learn. Thanks Max!!",
+            "rating": 4
+        },
+        {
+            "body": "Max is the best teacher on this platform. I have now worked through his Typescript, Complete Angular and Ionic courses. I use Angular at work and these courses have made me better at my job and given me tools to work on personal projects.",
             "rating": 5
         },
         {
-            "body": "The instructor is vert knowledgeable on the subject. He breaks it down with ease for others to understand. Well planned to teach the subject plus gotchas and more then ionic.",
+            "body": "Course is amazing , I am going to repeat it after 150th lecture , I skipped the practicing at my local so going to do that on my own.",
             "rating": 5
         },
         {
@@ -31,126 +35,122 @@
             "rating": 5
         },
         {
-            "body": "I would love to see a lot more Native phone Plugins to be used. I would change my rating to 5 starts if there more focus on the Plugins.",
-            "rating": 4.5
+            "body": "Obviously, you have a lot of knowledge. When it comes to explaining something you do it in detail and understandable, but the problem with the course like others I've taken from you always happens the same, too much go forward and backward, why you don't take a topic and finish it completely, example when you first create the authentication page why you doesn't explain everything about this and DO NOT go to another page or topic (unless you need to, like if it is going to be injected another service or so) but there I GOT LOST, so difficult because of the large list of pages that were created at the beginning, is very difficult to locate some of them.\n\nSo if you're going to explain about offers, dedicate the module to just that, and not be in offer, then go to discover, then back to offer then go to login, I think you got my point.\n\nThanks",
+            "rating": 2
         },
         {
-            "body": "Course is amazing , I am going to repeat it after 150th lecture , I skipped the practicing at my local so going to do that on my own.",
-            "rating": 5
+            "body": "Instructor explains core framework easy to understand and he provided good sample include many assignments. I have appreciated him to share good experience and deep learning to student enrollment.",
+            "rating": 4
+        },
+        {
+            "body": "Course was very good, good explanations. The only improvement would be to give more exercises to the user during the different sections.",
+            "rating": 4.5
         },
         {
             "body": "In general the course is well done but, towards the end, it becomes very hasty, as if you had little time to illustrate the too many concepts needed to run a mini application like this; it becomes a simple \"write code\" very fast and explained even worse. Sin.",
             "rating": 3.5
         },
         {
-            "body": "An excellent course provided by Max!, explained complex concepts in a simple way, and developing it into a side by side course project, like a real time one, gives more confidence while learning the topics. Thank you so much Max!",
+            "body": "This courses is great as an intro to ionic but focuses too much on the angular aspect of the framework, not on the ionic features",
+            "rating": 4
+        },
+        {
+            "body": "The instructor is vert knowledgeable on the subject. He breaks it down with ease for others to understand. Well planned to teach the subject plus gotchas and more then ionic.",
             "rating": 5
         },
         {
-            "body": "This course is going very good and i'm having more interest to learn. I would like to thanks to the author, who making me more interest to move on.",
+            "body": "Absolutely amazing course, very complete, this is my second run-in with Maximillian, the first one being his Vue course, and he's outstanding.",
             "rating": 5
         },
         {
-            "body": "great course... most of the technics are explained in details.... some cannot follow because I don't have deep knowledge of Angular.",
-            "rating": 5
-        },
-        {
-            "body": "It is the only course I could find, where I have reached half-way through solving all the bugs and errors and understanding everything step by step.",
-            "rating": 5
-        },
-        {
-            "body": "Great course that covers most of what Ionic offers aswell as other technologies (i.e: Google maps...). I feel like having the necessary tools to build an entire app and deploy it on any device. Keep up the amazing work!",
-            "rating": 5
-        },
-        {
-            "body": "It was a very good course. I have learned and practiced everything you have taught and made it quite far. Thank you",
+            "body": "Fantastic very detailed lesson! However, please create a tutorial that isn't heavily project based. An example would be how to retrieve from firebase part 1, how to update part2. I feel that for beginners like myself would be a little bit confusing at first with all the other codes that are part of the project. >:)",
             "rating": 5
         }
     ],
     "students": [
         {
-            "name": "Tjandra Putra",
-            "email": "tjandraputra@gmail.com",
-            "password": "tjandraputra",
+            "name": "Pathik Vejani",
+            "email": "pathikvejani@gmail.com",
+            "password": "pathikvejani",
             "role": "s",
-"isConfirmed": true
+            "isConfirmed": true
         },
         {
-            "name": "Andrey Pearce",
-            "email": "andreypearce@gmail.com",
-            "password": "andreypearce",
+            "name": "Lance Marks",
+            "email": "lancemarks@gmail.com",
+            "password": "lancemarks",
             "role": "s",
-"isConfirmed": true
-        },
-        {
-            "name": "Thirupathi Dontharavena",
-            "email": "thirupathidontharavena@gmail.com",
-            "password": "thirupathidontharavena",
-            "role": "s",
-"isConfirmed": true
-        },
-        {
-            "name": "Ramin Khakzad",
-            "email": "raminkhakzad@gmail.com",
-            "password": "raminkhakzad",
-            "role": "s",
-"isConfirmed": true
+            "isConfirmed": true
         },
         {
             "name": "Ajay Kumar Singh",
             "email": "ajaykumarsingh@gmail.com",
             "password": "ajaykumarsingh",
             "role": "s",
-"isConfirmed": true
+            "isConfirmed": true
+        },
+        {
+            "name": "Thirupathi Dontharavena",
+            "email": "thirupathidontharavena@gmail.com",
+            "password": "thirupathidontharavena",
+            "role": "s",
+            "isConfirmed": true
+        },
+        {
+            "name": "Rafael Vazquez",
+            "email": "rafaelvazquez@gmail.com",
+            "password": "rafaelvazquez",
+            "role": "s",
+            "isConfirmed": true
+        },
+        {
+            "name": "Sopheap Im",
+            "email": "sopheapim@gmail.com",
+            "password": "sopheapim",
+            "role": "s",
+            "isConfirmed": true
+        },
+        {
+            "name": "Jacob Falzon",
+            "email": "jacobfalzon@gmail.com",
+            "password": "jacobfalzon",
+            "role": "s",
+            "isConfirmed": true
         },
         {
             "name": "Giacomo Maccanti",
             "email": "giacomomaccanti@gmail.com",
             "password": "giacomomaccanti",
             "role": "s",
-"isConfirmed": true
+            "isConfirmed": true
         },
         {
-            "name": "Alexander Immanuel D",
-            "email": "alexanderimmanueld@gmail.com",
-            "password": "alexanderimmanueld",
+            "name": "Julio Burgos",
+            "email": "julioburgos@gmail.com",
+            "password": "julioburgos",
             "role": "s",
-"isConfirmed": true
+            "isConfirmed": true
         },
         {
-            "name": "Jaikumar",
-            "email": "jaikumar@gmail.com",
-            "password": "jaikumar",
+            "name": "Andrey Pearce",
+            "email": "andreypearce@gmail.com",
+            "password": "andreypearce",
             "role": "s",
-"isConfirmed": true
+            "isConfirmed": true
         },
         {
-            "name": "Henry Tang",
-            "email": "henrytang@gmail.com",
-            "password": "henrytang",
+            "name": "Leo C",
+            "email": "leoc@gmail.com",
+            "password": "leoc",
             "role": "s",
-"isConfirmed": true
+            "isConfirmed": true
         },
         {
-            "name": "Kishan Chaudhary",
-            "email": "kishanchaudhary@gmail.com",
-            "password": "kishanchaudhary",
+            "name": "Tjandra Putra",
+            "email": "tjandraputra@gmail.com",
+            "password": "tjandraputra",
             "role": "s",
-"isConfirmed": true
-        },
-        {
-            "name": "Tristan",
-            "email": "tristan@gmail.com",
-            "password": "tristan",
-            "role": "s",
-"isConfirmed": true
-        },
-        {
-            "name": "Darren Madasekera",
-            "email": "darrenmadasekera@gmail.com",
-            "password": "darrenmadasekera",
-            "role": "s",
-"isConfirmed": true
+            "isConfirmed": true
         }
     ],
     "instructor": {
@@ -158,7 +158,387 @@
         "email": "maximilianschwarzmüller@gmail.com",
         "password": "maximilianschwarzmüller",
         "role": "i",
-"isConfirmed": true,
-        "briefIntroduction": "<p><strong>Experience as (Web) Developer</strong><br></p><p>Starting out at the age of 13 I never stopped learning new programming skills and languages. Early I started creating websites for friends and just for fun as well. Besides web development I also explored Python and other non-web-only&nbsp;languages.&nbsp;This passion has since lasted and lead to my decision of working as a freelance web developer and consultant. The success and fun I have in this job is immense and really keeps that passion burningly alive.</p><p>Starting web development on&nbsp;the backend (PHP with Laravel, NodeJS, Python) I also became more and more of a frontend developer using modern frameworks like React, Angular or VueJS 2 in a lot of projects. I&nbsp;love both worlds nowadays!</p><p>As a self-taught developer I had the chance to broaden my horizon by studying Business Administration where I hold a Master's degree. That enabled me to work in a major strategy consultancy as well as a bank. While learning, that I enjoy development more than these fields, the time in this sector greatly improved my overall experience and skills.</p><p><strong>Experience as Instructor</strong></p><p>As a self-taught professional I really know the hard parts and the difficult topics when learning new or improving on already-known languages. This background and experience enables me to focus on the most relevant key concepts and topics. My track record of many 5-star rated courses, more than 700,000 students on Udemy as well as a successful YouTube channel is the best proof for that.</p><p>Whether working as development instructor or teaching Business Administration I always received great feedback. The most rewarding experience is to see how people find new, better jobs, build awesome web applications, acquire amazing projects or simply enjoy their hobby with the help of my content.</p><p>Together with Manuel Lorenz, I founded Academind to offer the best possible learning experience to our more than 800,000 students.</p>"
-    }
+        "briefIntroduction": "<p><strong>Experience as (Web) Developer</strong><br></p><p>Starting out at the age of 13 I never stopped learning new programming skills and languages. Early I started creating websites for friends and just for fun as well. Besides web development I also explored Python and other non-web-only&nbsp;languages.&nbsp;This passion has since lasted and lead to my decision of working as a freelance web developer and consultant. The success and fun I have in this job is immense and really keeps that passion burningly alive.</p><p>Starting web development on&nbsp;the backend (PHP with Laravel, NodeJS, Python) I also became more and more of a frontend developer using modern frameworks like React, Angular or VueJS 2 in a lot of projects. I&nbsp;love both worlds nowadays!</p><p>As a self-taught developer I had the chance to broaden my horizon by studying Business Administration where I hold a Master's degree. That enabled me to work in a major strategy consultancy as well as a bank. While learning, that I enjoy development more than these fields, the time in this sector greatly improved my overall experience and skills.</p><p><strong>Experience as Instructor</strong></p><p>As a self-taught professional I really know the hard parts and the difficult topics when learning new or improving on already-known languages. This background and experience enables me to focus on the most relevant key concepts and topics. My track record of many 5-star rated courses, more than 700,000 students on Udemy as well as a successful YouTube channel is the best proof for that.</p><p>Whether working as development instructor or teaching Business Administration I always received great feedback. The most rewarding experience is to see how people find new, better jobs, build awesome web applications, acquire amazing projects or simply enjoy their hobby with the help of my content.</p><p>Together with Manuel Lorenz, I founded Academind to offer the best possible learning experience to our more than 800,000 students.</p>",
+        "isConfirmed": true
+    },
+    "curriculum": [
+        {
+            "sectionName": "Getting Started",
+            "unitNames": [
+                "Course Introduction",
+                "What Is Ionic?",
+                "Join our Online Learning Community",
+                "A Closer Look at the Ionic Platform",
+                "What is Angular?",
+                "Our First Ionic App!",
+                "The History of Ionic",
+                "Ionic 4+ vs Ionic 3",
+                "How to Build Native Mobile Apps with Ionic",
+                "Comparing Ionic to Alternatives",
+                "Course Outline",
+                "How To Get The Most Out Of The Course",
+                "The Course Source Code"
+            ]
+        },
+        {
+            "sectionName": "Angular Refresher",
+            "unitNames": [
+                "Module Introduction",
+                "What is Angular?",
+                "Angular SPAs & Ionic",
+                "Understanding Components",
+                "Installing Angular with the CLI",
+                "Installing the IDE",
+                "Understanding the Folder Structure",
+                "The App Component",
+                "Creating Our First Component",
+                "Cross Component Communication with Property Binding",
+                "Understanding Directives & String Interpolation",
+                "Handling User Input",
+                "Understanding Event Binding",
+                "Local References",
+                "Understanding Two-Way-Binding",
+                "Passing Data Around with Custom Events",
+                "Implementing Routing",
+                "Setting Up Services",
+                "Using Services with Dependency Injection",
+                "Working with Angular Lifecycle Hooks",
+                "Adding a Person with Services",
+                "Navigating between Components",
+                "Removing Items Upon a Click",
+                "\"Push\"ing Data Around with Subjects",
+                "More on RxJS & Observables",
+                "Sending Http Requests",
+                "Showing a Placeholder Whilst Waiting for a Response",
+                "Wrap Up",
+                "Useful Resources & Links"
+            ]
+        },
+        {
+            "sectionName": "Ionic Component Basics",
+            "unitNames": [
+                "Module Introduction",
+                "Core App Building Blocks",
+                "Under the Hood of Ionic Components",
+                "Setting Up a Non-Angular Ionic Project",
+                "Where to Learn all about Ionic Components",
+                "Using Basic Ionic Components",
+                "More Basic Components",
+                "Component Categories",
+                "Using the Ionic Grid",
+                "Adding Icons & Using Slots",
+                "Using CSS Utility Attributes",
+                "Using Ionic Elements like \"Normal\" HTML Elements",
+                "Validating User Input",
+                "Creating Ionic Elements Programmatically",
+                "Finishing Up the Base JavaScript Logic",
+                "Finalizing the Layout",
+                "Use the right Ionic Import",
+                "Using Controller Components",
+                "Practicing Ionic Components",
+                "Why Angular?",
+                "Useful Resources & Links"
+            ]
+        },
+        {
+            "sectionName": "Angular + Ionic",
+            "unitNames": [
+                "Module Introduction",
+                "Why Use Angular?",
+                "Creating a New Ionic Angular Project",
+                "Important: CSS Utility Attributes",
+                "Analyzing the Created Project",
+                "How Angular & Ionic Work Together",
+                "Important: Extra Routing Modules",
+                "Adding & Loading a New Page",
+                "Using Angular Features on Ionic Components",
+                "Setting Up Angular Routes",
+                "Managing State with Services",
+                "Extracting and Displaying Route Param Data",
+                "A Potential Bug (+ Fix)",
+                "Navigating Between Pages",
+                "Deleting a Recipe",
+                "There's a Bug!",
+                "Injecting Ionic Controllers",
+                "Angular Components vs Ionic Components",
+                "Wrap Up",
+                "Useful Resources & Links"
+            ]
+        },
+        {
+            "sectionName": "Building Native Apps with Capacitor",
+            "unitNames": [
+                "Module Introduction",
+                "General Information",
+                "Creating an Android App",
+                "Running the App on a Real Android Device",
+                "Creating an iOS App",
+                "Running the App on a Real iOS Device",
+                "Wrap Up",
+                "Useful Resources & Links"
+            ]
+        },
+        {
+            "sectionName": "Debugging",
+            "unitNames": [
+                "Module Introduction",
+                "Error Messages & console.log()",
+                "Using the Browser DevTools & Breakpoints",
+                "Using VS Code for Debugging",
+                "Debugging the UI & Performance",
+                "Debugging Android Apps",
+                "Debugging iOS Apps",
+                "Wrap Up",
+                "Useful Resources & Links"
+            ]
+        },
+        {
+            "sectionName": "Navigation & Routing in Ionic Apps",
+            "unitNames": [
+                "Module Introduction",
+                "How Routing Work In An Ionic + Angular App",
+                "Ionic Page Caching & Extra Lifecycle Hooks",
+                "Planning the Course Project",
+                "Creating Our App Pages",
+                "MUST READ: Ionic 5 and Routing / Lazy Loading",
+                "Adjusting Our Main Routing Configuration",
+                "Understanding Ionic Tabs",
+                "Adding Tabs to the App",
+                "Preparing Data & Services for the Project",
+                "Outputting \"Places\"",
+                "Adding Forward Navigation",
+                "Going Back with NavController",
+                "Practicing Ionic + Angular",
+                "Navigating via Toolbar Buttons",
+                "A Bug with Ionic",
+                "Extracting the ID of Loaded Places",
+                "More Practicing!",
+                "Optional: Assignment Solution Code",
+                "Adding a SideDrawer",
+                "Opening + Closing the SideDrawer",
+                "Adding Links & Switching Pages",
+                "Adding the Auth Service",
+                "Adding an Auth Guard",
+                "Opening a Modal",
+                "Closing the Modal & Passing Data",
+                "Wrap Up",
+                "Useful Resources & Links"
+            ]
+        },
+        {
+            "sectionName": "Ionic Components Overview",
+            "unitNames": [
+                "Module Introduction",
+                "Attributes & Slots",
+                "Ionic Grid Basics",
+                "Controlling Grid Column Sizes",
+                "Controlling Grid Alignment",
+                "Responsive Grid Sizing",
+                "Grid Summary",
+                "ion-list vs ion-grid",
+                "ion-label & ion-item",
+                "ion-text",
+                "Swipeable List Items",
+                "Swipeable Bookings",
+                "Understanding Virtual Scrolling",
+                "Implementing Virtual Scrolling",
+                "Virtual Scrolling Bugs",
+                "Adding Image Elements",
+                "Segmented Buttons",
+                "Adding a Spinner",
+                "Using the Loading Controller",
+                "Using the ActionSheet Controller",
+                "Wrap Up",
+                "Useful Resources & Links"
+            ]
+        },
+        {
+            "sectionName": "Styling & Theming Ionic Apps",
+            "unitNames": [
+                "Module Introduction",
+                "How Styling & Theming Works in Ionic Apps",
+                "Docs & Utility Attributes",
+                "Setting Global Theme Variables",
+                "Setting Global Styles",
+                "Setting All Colors at Once",
+                "Setting Platform-Specific Styles",
+                "Styling Core Components with Variables",
+                "Missing iOS Icons",
+                "Adding Custom CSS Rules",
+                "Component-specific CSS Variables",
+                "Wrap Up",
+                "Useful Resources & Links"
+            ]
+        },
+        {
+            "sectionName": "Handling User Input",
+            "unitNames": [
+                "Module Introduction",
+                "User Input Requirements",
+                "Setting Up a Form Template",
+                "Angular 8 & @ViewChild()",
+                "Adding a Template-driven Form",
+                "Handling Validation",
+                "Switching Between Auth Modes",
+                "Finishing the Auth Form",
+                "Starting Work on a New Offer Form",
+                "Finishing the Offer Form Template",
+                "Creating a Reactive Form",
+                "Syncing the Form to the Template",
+                "Finishing the New Offer Form",
+                "Edit Form Challenge",
+                "Adding the Edit Offer Form",
+                "Starting with the Booking Form",
+                "Working on the Book Place Template",
+                "Configuring the Date Controls",
+                "Avoid Errors",
+                "Validating & Submitting the Form",
+                "Wrap Up",
+                "Useful Resources & Links"
+            ]
+        },
+        {
+            "sectionName": "Managing State",
+            "unitNames": [
+                "Module Introduction",
+                "What is State?",
+                "Adding New Places",
+                "Using RxJS Subjects for State Management",
+                "Passing Data via Subjects & Subscriptions",
+                "UI State in Action",
+                "Updating Places",
+                "UI State with Bookable Places",
+                "Filtering & Navigation",
+                "Booking Places",
+                "Fixing a Bug",
+                "Canceling Bookings",
+                "Finishing Touches",
+                "Useful Resources & Links"
+            ]
+        },
+        {
+            "sectionName": "Sending Http Requests",
+            "unitNames": [
+                "Module Introduction",
+                "How To Connect to a Backend",
+                "Setting Up Firebase",
+                "Sending Data via Http",
+                "Using Response Data",
+                "Fetching & Displaying Data",
+                "Updating Places",
+                "Fetching Data in Multiple Places",
+                "Loading Data in a Single Place",
+                "Updating Places Correctly",
+                "Error Handling",
+                "Fetching Single Places",
+                "Adding a Booking",
+                "Fetching Bookings By User",
+                "Deleting Bookings",
+                "Wrap Up",
+                "Useful Resources & Links"
+            ]
+        },
+        {
+            "sectionName": "Adding Google Maps",
+            "unitNames": [
+                "Module Introduction",
+                "API Setup",
+                "Angular 8 & @ViewChild()",
+                "Adding a LocationPicker Component",
+                "Opening the Map Modal",
+                "Adding the Google Maps SDK",
+                "Rendering a Map",
+                "Picking Locations via a Click on the Map",
+                "Finding the Address for a Place",
+                "Fetching a Static Image URL",
+                "Displaying a Place Preview",
+                "Changing the Selection",
+                "Removing the Click Listener",
+                "Submitting the Location",
+                "Outputting Address & Map",
+                "Re-using the Maps Modal",
+                "Useful Resources & Links"
+            ]
+        },
+        {
+            "sectionName": "Using Native Device Features (Camera & Location)",
+            "unitNames": [
+                "Module Introduction",
+                "Understanding Capacitor & Cordova",
+                "Using the Docs",
+                "Using Capacitor Plugins",
+                "Getting the User Location",
+                "Testing the Location Feature",
+                "Angular 8 & @ViewChild()",
+                "Starting With the Image Picker",
+                "Taking Pictures",
+                "Avoid Distorted Pictures",
+                "Detecting the Platform Correctly",
+                "Adding a Filepicker Fallback",
+                "Getting the Picked Image",
+                "Converting the Image String to a File",
+                "Storing the Image in the Form",
+                "Capacitor v1 & PWA Elements",
+                "Using PWA Elements",
+                "Improving the ImagePicker Component",
+                "MUST READ: Firebase Cloud Functions Billing",
+                "Adding Server-side Image Uploading Code",
+                "Adding Image Upload",
+                "Wrap Up",
+                "Useful Resources & Links"
+            ]
+        },
+        {
+            "sectionName": "Adding Authentication",
+            "unitNames": [
+                "Module Introduction",
+                "How Authentication Works",
+                "Firebase API Key",
+                "Adding User Signup",
+                "Refactoring the Authentication Code",
+                "Adding User Login",
+                "Managing the User with a Subject",
+                "Storing the Token in Memory",
+                "Using the ID Observable Correctly",
+                "More userId Usage",
+                "Fixing the Subscription",
+                "Using the userId Everywhere",
+                "Storing Auth Data in Device Storag",
+                "Adding Autologin",
+                "Using Autologin",
+                "Adding a Reactive Logout System",
+                "Adding Autologout",
+                "Requiring the Auth Token on the Backend",
+                "Sending the Auth Token to the Backend",
+                "More Token Usage",
+                "Optional: Check Auth State When App Resumes",
+                "Wrap Up",
+                "Useful Resources & Links"
+            ]
+        },
+        {
+            "sectionName": "Publishing the Apps",
+            "unitNames": [
+                "Module Introduction",
+                "Preparing App Configs",
+                "Custom Icons & Splash Screens",
+                "Android Deployment",
+                "iOS Deployment",
+                "Web Development",
+                "Useful Resources & Links"
+            ]
+        },
+        {
+            "sectionName": "Roundup",
+            "unitNames": [
+                "Course Roundup"
+            ]
+        },
+        {
+            "sectionName": "Bonus Content",
+            "unitNames": [
+                "Bonus: More Content!"
+            ]
+        }
+    ]
 }

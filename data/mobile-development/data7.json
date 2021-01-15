@@ -4,9 +4,9 @@
         "courses": []
     },
     "course": {
-        "title": "React Native - The Practical Guide [2020 Edition]",
+        "title": "React Native - The Practical Guide [2021 Edition]",
         "subtitle": "Use React Native and your React knowledge to build native iOS and Android Apps - incl. Push Notifications, Hooks, Redux",
-        "descriptions":  "",
+        "descriptions": [],
         "reviews": [],
         "students": [],
         "image1xURL": "https://img-a.udemycdn.com/course/240x135/1436092_2024_4.jpg",
@@ -15,142 +15,142 @@
         "discountPrice": 11.99,
         "originalPrice": 129.99,
         "numViews": 0,
-        "curriculum": {}
+        "curriculum": []
     },
     "reviews": [
+        {
+            "body": "I greatly appreciate the fact that the course examples are real-world application. Max does a great job, which is why I purchase other videos that he has created.",
+            "rating": 5
+        },
+        {
+            "body": "I really enjoyed the way on explaining things. It's very clear and I've learned a lot. The only thing I regret is the missing part on the offline usage (cache + network) and a strong usage on maps. Apart from those missing pieces, the evaluation is really good.",
+            "rating": 4
+        },
+        {
+            "body": "It was very detailed and easy to follow. They have a great community. I strongly recommend this course. Thank you :)",
+            "rating": 5
+        },
         {
             "body": "Great course for React Native. Learned a lot and the instructor was great. Wish there was a section on working with SQL and bigger structured mobile apps.",
             "rating": 5
         },
         {
-            "body": "Maximilian Schwarzmüller, has been one of my favorite tutors online, through whom I have learned so many amazing things about programming. This course also keeps his standard so well.",
+            "body": "Excellent teaching! I feel confident about React Native after finishing the course. I can't wait to build my own apps and start job hunting!",
             "rating": 5
+        },
+        {
+            "body": "Its was amazing. I was a complete begginner in React and React Native, and when i finished this course, I already be able to create my own apps. Thanks for all!!",
+            "rating": 5
+        },
+        {
+            "body": "This instructor is amazing. Easy to follow and understand & the projects were fun to build. Highly recommended!",
+            "rating": 5
+        },
+        {
+            "body": "Max is great instructor over the udemy history just because of his explanation and tone of his voice. I took two courses and had a great experience. I always try to become like you. Thanks Maxx and keep it up",
+            "rating": 5
+        },
+        {
+            "body": "I like his lectures always.\n\nHowever, this lecture is too much focusing on the react-navigation v3 and v4. I get what he is trying to say, but I think for beginners it is more important to understand the up-to-date concepts and touch more on real examples like form validation using 3rd party libraries, and so forth. It makes it very confusing following the old stuff and updating it to the new. Now I have to run the concept of react-navigation v5. I like him all the time but hope to update this lecture in the short future.",
+            "rating": 3.5
         },
         {
             "body": "Absolutely amazing! I bought this because I wanted to start a company. And my God it was a huge learning curve but I couldn’t ask for a better teacher! Worth every penny",
             "rating": 5
         },
         {
-            "body": "This course is awesome even if you dont know english perfectly. The explanation and examples are so clear. Also I want to say that here you can find good community that covers any special issues that you can get during study process. Big thanks to Max. Great thanks to Academymind.",
-            "rating": 5
-        },
-        {
-            "body": "Detailed and as always highly professional course. I have learned a lot from it. and I did my first Native mobile app !!!",
-            "rating": 5
-        },
-        {
-            "body": "It’s a good course to kick start the react native learning by having fun developing some mobile applications and pushing them to apple and play stores. ‘Code and learn as you go with example apps’ is the approach that Max uses to teach us react native is quite intuitive.",
+            "body": "Overall very good, improvement could be to implement some more exercises ranging from easy to hard",
             "rating": 4.5
         },
         {
-            "body": "I wish to provide 5 star but this course doesn't cover all the API and components of React-Native. Flatlist is the component has been used entirely in this course instead might have applied all other Components at least one place. Also, widely using API is not covered in this course like SMS, audio and video recording and accessing device details through PHONE_STATE is missing. Important missing piece is React-Native CLI developing. This major concept is covered at single video where should have spent at least a section. I have learned most of the concepts of React-Native and will expect that above limitations will be added into course. Thank You Max.",
-            "rating": 3.5
-        },
-        {
-            "body": "The course is perfect! I learned all about react native and I recommend it to everyone! Thanks Max!",
-            "rating": 5
-        },
-        {
-            "body": "This was a great course for learning React Native. Thanks to Max for all his effort and energy in the course. I liked very much the idea of have many different small applications in the course, that helped me a lot in understanding the concepts, ideas, and tricks of React Native. I will use all the knowledge learned here very soon. See you in the next course that I will take. Thank you.",
-            "rating": 5
-        },
-        {
-            "body": "Exceptional course. Where stuff didn't work because syntax changed, the updates were there in the lecture or adjacent, and the explanations were great for all of the content. I also liked how the Shopping App was expanded out more and more throughout the course, because it was a nice way of teaching us new concepts, while allowing us hands-on experience in applying those new concepts to an app we already built.",
-            "rating": 5
-        },
-        {
-            "body": "Excellent Course and Excellent Teacher!!\n\nI really enjoyed learning React Native!\n\nThank you Maximilian for such a detailed and well explained course!!",
-            "rating": 5
-        },
-        {
-            "body": "In general, this course it alright to take if you are completely new to React Native.\n\nHowever instructor overcomplexing things a lot, most of the logic introduced in this course apps could be way more straight forward.\n\nFirebase were not correctly wired to the project, instructor decides to not follow docs recommendations and uses firebase in weird way, which leads to overcomplexity as well.\n\nThat spirit of doing things from rear to top are feels everywhere through the course, a lot of anti-logical approaches and sticks throwing in your own wheels.",
-            "rating": 3.5
+            "body": "Max's courses are always good, this is not the exception it's valuable the way he exposes different scenarios and his explanations are so clear, I learned a lot from this course.\n\nI don't rate this course as 5 stars since I think one important part is missing: testing, it's ok for small apps to skip testing but for educational purposes, it would be nice to learn how normally react-native devs test their apps I know this is no a testing course but testing our own code is must for a dev these days. Also, I think the course relays a lot on Expo tooling, at some point, it feels like an expo's course where you can run react code in a mobile device instead of a cross platform app, although it has a module dedicated to working outside expo's environment I feel it was kind of shallow.",
+            "rating": 4
         }
     ],
     "students": [
+        {
+            "name": "Dave Anderson",
+            "email": "daveanderson@gmail.com",
+            "password": "daveanderson",
+            "role": "s",
+            "isConfirmed": true
+        },
+        {
+            "name": "Studb25",
+            "email": "studb25@gmail.com",
+            "password": "studb25",
+            "role": "s",
+            "isConfirmed": true
+        },
+        {
+            "name": "Tamas Horvath",
+            "email": "tamashorvath@gmail.com",
+            "password": "tamashorvath",
+            "role": "s",
+            "isConfirmed": true
+        },
         {
             "name": "JM De Ocampo",
             "email": "jmdeocampo@gmail.com",
             "password": "jmdeocampo",
             "role": "s",
-"isConfirmed": true
+            "isConfirmed": true
         },
         {
-            "name": "Niloy Rudra",
-            "email": "niloyrudra@gmail.com",
-            "password": "niloyrudra",
+            "name": "Anqi Yang",
+            "email": "anqiyang@gmail.com",
+            "password": "anqiyang",
             "role": "s",
-"isConfirmed": true
+            "isConfirmed": true
+        },
+        {
+            "name": "Rodrigo Orlandini",
+            "email": "rodrigoorlandini@gmail.com",
+            "password": "rodrigoorlandini",
+            "role": "s",
+            "isConfirmed": true
+        },
+        {
+            "name": "Jul",
+            "email": "jul@gmail.com",
+            "password": "jul",
+            "role": "s",
+            "isConfirmed": true
+        },
+        {
+            "name": "Mohd Danish",
+            "email": "mohddanish@gmail.com",
+            "password": "mohddanish",
+            "role": "s",
+            "isConfirmed": true
+        },
+        {
+            "name": "Alan Son",
+            "email": "alanson@gmail.com",
+            "password": "alanson",
+            "role": "s",
+            "isConfirmed": true
         },
         {
             "name": "Jefferson Daniel",
             "email": "jeffersondaniel@gmail.com",
             "password": "jeffersondaniel",
             "role": "s",
-"isConfirmed": true
+            "isConfirmed": true
         },
         {
-            "name": "Farhad",
-            "email": "farhad@gmail.com",
-            "password": "farhad",
+            "name": "Rick Wiltvank",
+            "email": "rickwiltvank@gmail.com",
+            "password": "rickwiltvank",
             "role": "s",
-"isConfirmed": true
+            "isConfirmed": true
         },
         {
-            "name": "Rafal Lis",
-            "email": "rafallis@gmail.com",
-            "password": "rafallis",
+            "name": "Olman Mora Torres",
+            "email": "olmanmoratorres@gmail.com",
+            "password": "olmanmoratorres",
             "role": "s",
-"isConfirmed": true
-        },
-        {
-            "name": "Pratap Vamsi Guttikonda",
-            "email": "pratapvamsiguttikonda@gmail.com",
-            "password": "pratapvamsiguttikonda",
-            "role": "s",
-"isConfirmed": true
-        },
-        {
-            "name": "Rajeshkumar Govindaraj",
-            "email": "rajeshkumargovindaraj@gmail.com",
-            "password": "rajeshkumargovindaraj",
-            "role": "s",
-"isConfirmed": true
-        },
-        {
-            "name": "Obadia TURAHIRWA",
-            "email": "obadiaturahirwa@gmail.com",
-            "password": "obadiaturahirwa",
-            "role": "s",
-"isConfirmed": true
-        },
-        {
-            "name": "Diego Efraín Salazar Loría",
-            "email": "diegoefraínsalazarloría@gmail.com",
-            "password": "diegoefraínsalazarloría",
-            "role": "s",
-"isConfirmed": true
-        },
-        {
-            "name": "Tim Thompson",
-            "email": "timthompson@gmail.com",
-            "password": "timthompson",
-            "role": "s",
-"isConfirmed": true
-        },
-        {
-            "name": "Lia Brachio",
-            "email": "liabrachio@gmail.com",
-            "password": "liabrachio",
-            "role": "s",
-"isConfirmed": true
-        },
-        {
-            "name": "Artyom Nikolayev",
-            "email": "artyomnikolayev@gmail.com",
-            "password": "artyomnikolayev",
-            "role": "s",
-"isConfirmed": true
+            "isConfirmed": true
         }
     ],
     "instructor": {
@@ -158,7 +158,461 @@
         "email": "academindbymaximilianschwarzmüller@gmail.com",
         "password": "academindbymaximilianschwarzmüller",
         "role": "i",
-"isConfirmed": true,
-        "briefIntroduction": "<p>Bundling the courses and know how of successful instructors, Academind strives to deliver high quality online education.&nbsp;</p>\n\n<p>Online Education, Real-Life Success - that's what Academind stands for. Learn topics like web development, data analyses and more in a fun and engaging way.</p>\n\n\n\n\n\n\n\n<p>Currently, you can find courses published by Maximilian Schwarzmüller and Manuel Lorenz, more instructors to come!</p>\n\n\n\n\n\n\n\n<p>Keep learning!</p>"
-    }
+        "briefIntroduction": "<p>Bundling the courses and know how of successful instructors, Academind strives to deliver high quality online education.&nbsp;</p>\n\n<p>Online Education, Real-Life Success - that's what Academind stands for. Learn topics like web development, data analyses and more in a fun and engaging way.</p>\n\n\n\n\n\n\n\n<p>Currently, you can find courses published by Maximilian Schwarzmüller and Manuel Lorenz, more instructors to come!</p>\n\n\n\n\n\n\n\n<p>Keep learning!</p>",
+        "isConfirmed": true
+    },
+    "curriculum": [
+        {
+            "sectionName": "Getting Started",
+            "unitNames": [
+                "Welcome!",
+                "What is React Native?",
+                "Join our Online Learning Community",
+                "How React Native Works",
+                "Expo vs React Native CLI",
+                "Node.js Download",
+                "Creating Our First React Native App",
+                "Working on Our First App",
+                "React Native Apps Are Hard Work!",
+                "React Native Alternatives",
+                "Course Requirements",
+                "Course Requirement Refreshers",
+                "Running the App on an Android Emulator",
+                "Running the App on an iOS Simulator",
+                "Course Outline",
+                "How to get the Most out of This Course",
+                "Useful Resources & Links"
+            ]
+        },
+        {
+            "sectionName": "Diving into the Basics [COURSE GOALS APP]",
+            "unitNames": [
+                "Module Introduction",
+                "How to work with React Native Components",
+                "Setting Up A New Project",
+                "Planning the App",
+                "Working with Core Components",
+                "Getting Started with Styles",
+                "Flexbox & Layouts (Intro)",
+                "React Native Flexbox Deep Dive",
+                "Inline Styles & StyleSheet Objects",
+                "Components, Styles, Layouts",
+                "Working with State & Events",
+                "Outputting a List of Items",
+                "Styling List Items",
+                "Making it Scrollable with ScrollView!",
+                "A Better List: FlatList",
+                "More Components & Lists",
+                "Splitting the App Into Components",
+                "Passing Data Between Components",
+                "Working with Touchable Components",
+                "Deleting Items",
+                "Adding a Modal Overlay",
+                "More Flexbox Styling",
+                "Closing the Modal & Clearing Input",
+                "Finishing the Modal Styling",
+                "Wrap Up",
+                "Useful Resources & Links"
+            ]
+        },
+        {
+            "sectionName": "Debugging React Native Apps",
+            "unitNames": [
+                "Module Introduction",
+                "What To Debug & How To Debug?",
+                "Running the App on a Real Device & Debugging",
+                "Handling Error Messages",
+                "Understanding Code Flow with console.log()",
+                "Using the Remote Debugger & Breakpoints",
+                "Working with the Device DevTools Overlay",
+                "Debugging the UI & Using React Native Debugger",
+                "Wrap Up",
+                "Useful Resources & Links"
+            ]
+        },
+        {
+            "sectionName": "Components, Styling, Layouts - Building Real Apps [GUESS A NUMBER APP]",
+            "unitNames": [
+                "Module Introduction",
+                "Setup & App Planning",
+                "Adding a Custom Header Component",
+                "Adding a Screen Component",
+                "Working on the Layout",
+                "Styling a View as a \"Card\" Container (with Drop Shadows & Rounded Corners)",
+                "React Native Styling vs CSS Styling",
+                "Extracting a Card Component (Presentational Component)",
+                "Components & Styling",
+                "Color Theming with Constants",
+                "Configuring & Styling a TextInput",
+                "Cleaning User Input & Controlling the Soft Keyboard",
+                "Resetting & Confirming User Input",
+                "Configuring Components",
+                "Showing an Alert",
+                "Time to Finish the \"Confirmation Box\"",
+                "Adding Random Number Generation",
+                "Switching Between Multiple \"Screens\"",
+                "Adding Game Features: Hints & Validation",
+                "Checking the \"Win\" Condition with useEffect()",
+                "Finishing the Game Logic",
+                "Adding AppLoading",
+                "Adding Custom Fonts",
+                "Installing expo-font",
+                "A Synthetic Style \"Cascade\": Custom Wrapper Components & Global Styles",
+                "Adding Local Images",
+                "Styling Images",
+                "Working with Network (Web) Images",
+                "A Closer Look at the \"Text\" Component (and what you can do with it)",
+                "<View> vs <Text> - A Summary",
+                "Building a Custom Button Component",
+                "Adding Icons",
+                "Exploring UI Libraries",
+                "Managing Past Guesses as a List",
+                "Styling List Items & Lists",
+                "ScrollView & Flexbox (Yes, that works!)",
+                "Using FlatList Instead of ScrollView",
+                "Wrap Up",
+                "Useful Resources & Links"
+            ]
+        },
+        {
+            "sectionName": "Responsive & Adaptive User Interfaces and Apps",
+            "unitNames": [
+                "Module Introduction",
+                "Finding Improvement Opportunities",
+                "Working with More Flexible Styling Rules",
+                "Introducing the Dimensions API",
+                "Using Dimensions in \"if\" Checks",
+                "Calculating Sizes Dynamically",
+                "Problems with Different Device Orientations",
+                "Controlling Orientation & Using the KeyboardAvoidingView",
+                "Listening to Orientation Changes",
+                "Rendering Different Layouts",
+                "Fixing the GameOver Screen",
+                "Updating All Code to Update Dynamically",
+                "The Dimensions API & Responsive UIs",
+                "Expo's ScreenOrientation API",
+                "Introducing the Platform API",
+                "Working with Platform.select() and Platform in \"if\" Checks",
+                "Using Platform-specific Code Files",
+                "The Platform API",
+                "Using the SafeAreaView",
+                "Wrap Up",
+                "Useful Resources & Links"
+            ]
+        },
+        {
+            "sectionName": "Navigation with React Navigation [THE MEALS APP]",
+            "unitNames": [
+                "Module Introduction",
+                "Planning the App",
+                "Adding Screens",
+                "Adding AppLoading",
+                "Adding Fonts",
+                "React Navigation Docs",
+                "Installing React Navigation & Adding Navigation to the App",
+                "MUST READ: Installing Different Navigators",
+                "Creating a StackNavigator",
+                "React Navigation & Code Attachments",
+                "Navigating Between Screens",
+                "Alternative Navigation Syntax",
+                "Navigation Basics",
+                "Navigation to the \"Meal Details\" Screen",
+                "Pushing, Popping & Replacing",
+                "Outputting a Grid of Categories",
+                "Configuring the Header with Navigation Options",
+                "Passing & Reading Params Upon Navigation",
+                "Setting Dynamic Navigation Options",
+                "Default Navigation Options & Config",
+                "Navigation Params & Configuration",
+                "Grid Styling & Some Refactoring",
+                "Adding Meal Models & Data",
+                "Loading Meals for Categories",
+                "Rendering a Meals List",
+                "Passing Data to the Meal Detail Screen",
+                "Adding Header Buttons",
+                "Fixing the Shadows",
+                "Adding Tabs-based Navigation",
+                "Setting Icons and Configuring Tabs",
+                "navigationOptions inside of a Navigator",
+                "Adding MaterialBottomTabs",
+                "Adding a Favorites Stack",
+                "Adding a Menu Button & Drawer Navigation",
+                "Configuring the Drawer",
+                "More Navigation Config & Styling",
+                "Adding a DefaultText Component",
+                "Adding the MealDetail Screen Content",
+                "Time for the \"Filters\" Screen Content!",
+                "Passing Data Between Component & Navigation Options (Header)",
+                "[React Refresher] useEffect() & useCallback()",
+                "Wrap Up",
+                "Useful Resources & Links"
+            ]
+        },
+        {
+            "sectionName": "State Management & Redux",
+            "unitNames": [
+                "Module Introduction",
+                "What is State & What is Redux?",
+                "Redux & Store Setup",
+                "Selecting State Slices",
+                "Redux Data & Navigation Options",
+                "Dispatching Actions & Reducer Logic",
+                "Switching the Favorites Icon",
+                "Rendering a Fallback Text",
+                "Adding Filtering Logic",
+                "Dispatching Filter Actions",
+                "Debugging Redux in React Native Apps",
+                "Wrap Up",
+                "Useful Resources & Links"
+            ]
+        },
+        {
+            "sectionName": "Time to Practice - THE SHOP APP",
+            "unitNames": [
+                "Module Introduction",
+                "Planning the App",
+                "Creating the Basic Project Setup",
+                "The Products Overview Screen",
+                "Setting Up a Navigator",
+                "Styling the Product Items",
+                "Adding Touchable Components",
+                "Working on the Product Details Screen",
+                "Using Custom Fonts",
+                "Adding Items to the Cart",
+                "Implementing Header Buttons",
+                "Outputting Cart Items",
+                "Adding Logic to Delete Items",
+                "Adding Redux Logic for Orders",
+                "SideDrawer & The Orders Screen",
+                "Clearing the Cart",
+                "Styling Order Items",
+                "Making the \"Show Details\" Button Work",
+                "Building the \"User Products\" Screen",
+                "Reorganizing the ProductItem Component",
+                "Deleting Items",
+                "Adding Basic Editing & Navigation Logic",
+                "Handling User Input",
+                "Using Params to Submit User Input",
+                "Dispatching Actions for Creating & Updating",
+                "Time to Improve the App!",
+                "Wrap Up",
+                "Useful Resources & Links"
+            ]
+        },
+        {
+            "sectionName": "Handling User Input",
+            "unitNames": [
+                "Module Introduction",
+                "Configuring TextInputs",
+                "Adding Basic Validation",
+                "Getting Started with useReducer()",
+                "Finishing the Merged Form & Input Management",
+                "Moving Input Logic Into A Separate Component",
+                "Connecting Input Component & Form",
+                "Tweaking Styles & Handling the Soft Keyboard",
+                "Alternatives & Wrap Up",
+                "Useful Resources & Links"
+            ]
+        },
+        {
+            "sectionName": "Http Requests & Adding a Web Server + Database",
+            "unitNames": [
+                "Module Introduction",
+                "Setup & How To Send Requests",
+                "Installing Redux Thunk",
+                "Storing Products on a Server",
+                "Fetching Products from the Server",
+                "Displaying a Loading Spinner & Handling Errors",
+                "Setting Up a Navigation Listener",
+                "Updating & Deleting Products",
+                "Handling Additional Errors",
+                "Storing Orders",
+                "Displaying an ActivityIndicator",
+                "Fetching Stored Orders",
+                "Adding \"Pull to Refresh\"",
+                "Wrap Up",
+                "Useful Resources & Links"
+            ]
+        },
+        {
+            "sectionName": "User Authentication",
+            "unitNames": [
+                "Module Introduction",
+                "How Authentication Works",
+                "Implementing a Basic Login Screen",
+                "Adding User Signup",
+                "Logging Users In",
+                "Managing the Loading State & Errors",
+                "Using the Token",
+                "Mapping Orders to Users",
+                "Improved Mapping (Scoping)",
+                "Implementing \"Auto Login\"",
+                "Adding Logout",
+                "Implementing \"Auto Logout\"",
+                "Auto-Logout & Android (Warning)",
+                "Wrap Up",
+                "Useful Resources & Links"
+            ]
+        },
+        {
+            "sectionName": "Native Device Features (Camera, Maps, Location, SQLite, ...) [GREAT PLACES APP]",
+            "unitNames": [
+                "Module Introduction",
+                "Planning the App",
+                "Navigation Setup in Next Lecture",
+                "Screen & Navigation Setup",
+                "Getting Started with the Form",
+                "Redux & Adding Places",
+                "Outputting a List of Places",
+                "Accessing the Device Camera",
+                "Configuring the Camera Access",
+                "Using the Picked Image",
+                "Storing the Image on the Filesystem",
+                "Changed SQLite Import",
+                "Diving into SQLite for Permanent Data Storage",
+                "Storing Data in the Local Database",
+                "Fetching Data from the Local Database",
+                "Getting the User Location",
+                "Showing a Map Preview of the Location",
+                "More on Environment Variables",
+                "Displaying an Interactive Map",
+                "Adding a Marker",
+                "Making the Picked Location \"Saveable\"",
+                "Storing Picked Places",
+                "Updating the Location Screen When the Location Changes",
+                "Storing the Address",
+                "Displaying the \"Details\" Screen",
+                "Finishing the \"Map\" Screen",
+                "Running the App on iOS",
+                "Running the App on Android",
+                "Wrap Up",
+                "Useful Resources & Links"
+            ]
+        },
+        {
+            "sectionName": "Building Apps Without Expo",
+            "unitNames": [
+                "Module Introduction",
+                "Alternatives to Expo",
+                "Building Apps with Just the React Native CLI",
+                "Live Reload and RN CLI Apps",
+                "Important: Using React Native Image Picker",
+                "Adding Native Modules to Non-Expo Apps",
+                "Understanding Expo's \"Bare Workflow\"",
+                "Ejecting from Expo's \"Managed Workflow\"",
+                "When To Use Which?",
+                "Useful Resources & Links"
+            ]
+        },
+        {
+            "sectionName": "Publishing React Native Apps",
+            "unitNames": [
+                "Module Introduction",
+                "Deployment Steps",
+                "Configuring the App & Publishing",
+                "Configuring Icons & The Splash Screen",
+                "Working with Offline Asset Bundles",
+                "Using \"Over the Air Updates\" (OTA Updates)",
+                "Building the Apps for Deployment (iOS & Android)",
+                "Publishing iOS Apps without Expo",
+                "Publishing Android Apps without Expo",
+                "Configuring Android Apps",
+                "Useful Resources & Links"
+            ]
+        },
+        {
+            "sectionName": "Updating to React Navigation 5+",
+            "unitNames": [
+                "Module Introduction",
+                "What Changed?",
+                "Preparing the Project",
+                "More Information & Updating the Project Dependencies",
+                "Moving from the \"Registry-like\" to the \"Component-based\" Navigation Config",
+                "First Migration Steps",
+                "Converting More Stack Navigators to the New Config",
+                "Migrating the Drawer Navigation",
+                "Replacing the \"Switch\" Navigator & Auth Flow",
+                "Logout & Further Fixes/ Adjustments",
+                "Extracting Screen Params",
+                "Setting Screen Options Dynamically",
+                "Remaining Migration Steps & Roundup",
+                "A Summary Of All Important Changes",
+                "Useful Resources & Links"
+            ]
+        },
+        {
+            "sectionName": "Push Notifications",
+            "unitNames": [
+                "Module Introduction",
+                "Understanding Notifications",
+                "Sending Local Notifications",
+                "Getting Permissions",
+                "Controlling How Notifications Are Displayed",
+                "Reacting to Foreground Notifications",
+                "Reacting to Background Notifications",
+                "How Push Notifications Work",
+                "Expo & Push Notifications",
+                "Getting a Push Token",
+                "Sending Push Notifications",
+                "Using Expo's Push Server",
+                "More on Push Tokens",
+                "Adding Push Notifications to the Shop App (1/3)",
+                "Adding Push Notifications to the Shop App (2/3)",
+                "Adding Push Notifications to the Shop App (3/3)",
+                "Push Notifications in non-Expo Managed Apps",
+                "Module Resources"
+            ]
+        },
+        {
+            "sectionName": "Course Roundup & Next Steps",
+            "unitNames": [
+                "Roundup & Next Steps"
+            ]
+        },
+        {
+            "sectionName": "Bonus: JavaScript Refresher",
+            "unitNames": [
+                "Module Introduction",
+                "JavaScript - A Summary",
+                "Project Setup",
+                "Core Syntax Refresher",
+                "let & const",
+                "Arrow Functions",
+                "Objects: Properties & Methods",
+                "Arrays & Array Methods",
+                "Arrays, Objects & Reference Types",
+                "Spread Operator & Rest Parameters",
+                "Destructuring",
+                "Async Code & Promises",
+                "Wrap Up",
+                "Module Resources"
+            ]
+        },
+        {
+            "sectionName": "Bonus: React.js Refresher",
+            "unitNames": [
+                "Module Introduction",
+                "What is React",
+                "A Starting Project",
+                "Understanding JSX",
+                "Understanding Components",
+                "Working with Multiple Components",
+                "Working with Props",
+                "Rendering Lists of Data",
+                "Handling Events",
+                "Parent-Child Communication",
+                "Managing State",
+                "More on State",
+                "User Input & Two-Way Binding",
+                "Wrap Up",
+                "Module Resources"
+            ]
+        },
+        {
+            "sectionName": "Bonus",
+            "unitNames": [
+                "Bonus: More Content!"
+            ]
+        }
+    ]
 }

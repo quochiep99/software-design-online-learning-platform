@@ -4,54 +4,26 @@
         "courses": []
     },
     "course": {
-        "title": "The Complete 2020 Flutter Development Bootcamp with Dart",
+        "title": "The Complete 2021 Flutter Development Bootcamp with Dart",
         "subtitle": "Officially created in collaboration with the Google Flutter team.",
-        "descriptions":  "",
+        "descriptions": [],
         "reviews": [],
         "students": [],
-        "image1xURL": "https://img-a.udemycdn.com/course/240x135/2259120_305f_6.jpg",
-        "image2xURL": "https://img-a.udemycdn.com/course/480x270/2259120_305f_6.jpg",
-        "image3xURL": "https://img-a.udemycdn.com/course/750x422/2259120_305f_6.jpg",
+        "image1xURL": "https://img-b.udemycdn.com/course/240x135/2259120_305f_6.jpg",
+        "image2xURL": "https://img-b.udemycdn.com/course/480x270/2259120_305f_6.jpg",
+        "image3xURL": "https://img-b.udemycdn.com/course/750x422/2259120_305f_6.jpg",
         "discountPrice": 11.99,
         "originalPrice": 129.99,
         "numViews": 0,
-        "curriculum": {}
+        "curriculum": []
     },
     "reviews": [
         {
-            "body": "I would like to geniunely thank Dr. Angela for this course, she has really nailed this one. Just from finishing this course, I'm confident with my Flutter skills. I believe some familiarity with OOP would help you with this one though.",
-            "rating": 5
+            "body": "The Course is amazing ,and angela is great ,i am in love with animations that they used .they have to update this course for new students who join course .\n\nthanks for making course",
+            "rating": 4
         },
         {
-            "body": "This course felt simply amazing! The pacing was spot-on, and I felt the ramp in difficulty was never unfair. Angela does a great job of explaining complex systems and functions for those who are new to computer programming. The only issues I had with this course were with some of the provided app files being outdated, causing some functions to break.",
-            "rating": 4.5
-        },
-        {
-            "body": "I went into this course with zero app development skills, although I had 2 years of experience coding in other languages. It seemed daunting at first learning all the important concepts, but as time passed by I was able to get a hang of it thanks to Angela's unique way of explaining difficult concept. The course is rich in content and I'll advice anyone reading this and is still skeptical on if they should take the course or not to enroll.",
-            "rating": 4.5
-        },
-        {
-            "body": "learned everything that needs to start, before that course I wasn't familiar with Object-Oriented Programing languages but Angela thought me very well so it was a great journey before I was starting the course I thought I will complete it in one or two weeks but it took me two months to complete with constantly learning it was great experience Thank you Angela.",
-            "rating": 4.5
-        },
-        {
-            "body": "Ich war mit dem Kurs sehr zufrieden. Frau Yu versteht es großartig, komplizierte Sachverhalte einfach zu erklären. Möchte mich herzlich für Ihr Engagement bedanken.",
-            "rating": 5
-        },
-        {
-            "body": "I really enjoyed taking this course and have gained much knowledge. I think the simplicity of this course and the way you and the team designed it really work well to help students process the information and maintain it. Overall I had a lot of fun taking this course and I will definitely be taking more online courses from you. Thank you very much Dr. Angela Yu\n\nI RECOMMED THIS COURSE TO ANYONE WHO WANTS TO LEARN WHILE HAVING FUN!!!!!!!!!",
-            "rating": 5
-        },
-        {
-            "body": "This is the first Flutter course as well as the first Coding course and I don't have any experience in coding. Undoubtedly, Dr Angela has done a fantastic job. The analogies she chooses while explaining a new topic are very catchy. Her teaching speed is decent and challenges in between are helpful.\n\nThe best part is her interest in pushing students towards documentation and repetitively explaining topics when they are revisited is very helpful.\n\nBefore buying this course, I have subscribed for some other course on Udemy. No doubt it is good but I couldn't catch up with the tutor. But in this course, there is no such issue.\n\nI totally recommend this course to students with little or no coding experience.",
-            "rating": 5
-        },
-        {
-            "body": "The instructor has done a really good job by using amazing slides and animations to make sure the students understand well. There are challenges where the student will create apps on their own to use what they have learnt to revise the previous modules. Best instructor I have come across so far.",
-            "rating": 5
-        },
-        {
-            "body": "Fantastic mentor and very helpful to learn some topics like animations, providers, and some short cuts with this course. I can easily understand flutter due to Angela. Nice Bootcamp.",
+            "body": "Angela is an amazing instructor. She gives you analogies and clear explanations for every concept. You might find yourself stuck in some places, but after looking at what she did, you'll be like 'Oh...'. But, overall, this was an amazing course.",
             "rating": 5
         },
         {
@@ -59,98 +31,126 @@
             "rating": 5
         },
         {
-            "body": "The overall course was really enjoyable and perfect with Angela who is a very energetic and encouraging person! I really really enjoyed her everyday smile and passion into this course. Some things are outdated but the community is awesome for helping us finding the solution out.",
+            "body": "Amazing tutor. Highly recommend. Her voice is the main factor that made me complete this course. Although I don't know her Chinese name, her English name is quite apt. She is indeed an Angel in my life.",
             "rating": 5
         },
         {
-            "body": "Amazing tutor. Highly recommend. Her voice is the main factor that made me complete this course. Although I don't know her Chinese name, her English name is quite apt. She is indeed an Angel in my life.",
+            "body": "I would like to geniunely thank Dr. Angela for this course, she has really nailed this one. Just from finishing this course, I'm confident with my Flutter skills. I believe some familiarity with OOP would help you with this one though.",
+            "rating": 5
+        },
+        {
+            "body": "Angela is a great instructor. She knows that in a course like this, there would be moments of frustrations & low motivation. With the help of her short tips at the end of each module is really helpful in keep going.",
+            "rating": 5
+        },
+        {
+            "body": "It is a great course for any beginner who wants to learn app development. Angela as an instructor is a dream come true, she teaches in the best way possible.",
+            "rating": 5
+        },
+        {
+            "body": "learned everything that needs to start, before that course I wasn't familiar with Object-Oriented Programing languages but Angela thought me very well so it was a great journey before I was starting the course I thought I will complete it in one or two weeks but it took me two months to complete with constantly learning it was great experience Thank you Angela.",
+            "rating": 4.5
+        },
+        {
+            "body": "One of the best course for flutter Development in unity. Angela is a great teacher and I love how she keeps motivating you after each module. Thanks so much for this wonderful course!",
+            "rating": 5
+        },
+        {
+            "body": "Best course out there, explanation is excellent, now that I have completed, hoping to change career now, goodluck for me : )",
+            "rating": 5
+        },
+        {
+            "body": "What else is there to say .. One of the best courses for flutter on the internet, one of the top courses here on udemy. Grasping a new technology is a breeze these days with this kind of content available. Thanks for the amazing experience I had taking this course.",
+            "rating": 5
+        },
+        {
+            "body": "Taking this course was a really enlightening experience for my Mobile App Development career. Although there is very little support from the creator, I did get good support from community",
             "rating": 5
         }
     ],
     "students": [
         {
-            "name": "Çağrı Yorguner",
-            "email": "çağrıyorguner@gmail.com",
-            "password": "çağrıyorguner",
+            "name": "Kiran Patil",
+            "email": "kiranpatil@gmail.com",
+            "password": "kiranpatil",
             "role": "s",
-"isConfirmed": true
+            "isConfirmed": true
         },
         {
-            "name": "Scott Mullins",
-            "email": "scottmullins@gmail.com",
-            "password": "scottmullins",
+            "name": "Abhiram Bitla",
+            "email": "abhirambitla@gmail.com",
+            "password": "abhirambitla",
             "role": "s",
-"isConfirmed": true
-        },
-        {
-            "name": "Emmanuel Sule",
-            "email": "emmanuelsule@gmail.com",
-            "password": "emmanuelsule",
-            "role": "s",
-"isConfirmed": true
-        },
-        {
-            "name": "Abdul Wajid Thekiya",
-            "email": "abdulwajidthekiya@gmail.com",
-            "password": "abdulwajidthekiya",
-            "role": "s",
-"isConfirmed": true
-        },
-        {
-            "name": "Ernst Häuslschmid",
-            "email": "ernsthäuslschmid@gmail.com",
-            "password": "ernsthäuslschmid",
-            "role": "s",
-"isConfirmed": true
-        },
-        {
-            "name": "Nkuna N",
-            "email": "nkunan@gmail.com",
-            "password": "nkunan",
-            "role": "s",
-"isConfirmed": true
-        },
-        {
-            "name": "Mahesh Madala",
-            "email": "maheshmadala@gmail.com",
-            "password": "maheshmadala",
-            "role": "s",
-"isConfirmed": true
-        },
-        {
-            "name": "Binaya Magar",
-            "email": "binayamagar@gmail.com",
-            "password": "binayamagar",
-            "role": "s",
-"isConfirmed": true
-        },
-        {
-            "name": "Mirant",
-            "email": "mirant@gmail.com",
-            "password": "mirant",
-            "role": "s",
-"isConfirmed": true
+            "isConfirmed": true
         },
         {
             "name": "Eddy Roy Balummel",
             "email": "eddyroybalummel@gmail.com",
             "password": "eddyroybalummel",
             "role": "s",
-"isConfirmed": true
-        },
-        {
-            "name": "Hafid Boukensous",
-            "email": "hafidboukensous@gmail.com",
-            "password": "hafidboukensous",
-            "role": "s",
-"isConfirmed": true
+            "isConfirmed": true
         },
         {
             "name": "Saba",
             "email": "saba@gmail.com",
             "password": "saba",
             "role": "s",
-"isConfirmed": true
+            "isConfirmed": true
+        },
+        {
+            "name": "Çağrı Yorguner",
+            "email": "çağrıyorguner@gmail.com",
+            "password": "çağrıyorguner",
+            "role": "s",
+            "isConfirmed": true
+        },
+        {
+            "name": "Himanshu Dev Sharma",
+            "email": "himanshudevsharma@gmail.com",
+            "password": "himanshudevsharma",
+            "role": "s",
+            "isConfirmed": true
+        },
+        {
+            "name": "Ankit Shukla",
+            "email": "ankitshukla@gmail.com",
+            "password": "ankitshukla",
+            "role": "s",
+            "isConfirmed": true
+        },
+        {
+            "name": "Abdul Wajid Thekiya",
+            "email": "abdulwajidthekiya@gmail.com",
+            "password": "abdulwajidthekiya",
+            "role": "s",
+            "isConfirmed": true
+        },
+        {
+            "name": "Arthur Gerald Jorda",
+            "email": "arthurgeraldjorda@gmail.com",
+            "password": "arthurgeraldjorda",
+            "role": "s",
+            "isConfirmed": true
+        },
+        {
+            "name": "Abhishek Gokavarapu",
+            "email": "abhishekgokavarapu@gmail.com",
+            "password": "abhishekgokavarapu",
+            "role": "s",
+            "isConfirmed": true
+        },
+        {
+            "name": "Adam Ondrejkovič",
+            "email": "adamondrejkovič@gmail.com",
+            "password": "adamondrejkovič",
+            "role": "s",
+            "isConfirmed": true
+        },
+        {
+            "name": "Asif Imtiaz Ahmed",
+            "email": "asifimtiazahmed@gmail.com",
+            "password": "asifimtiazahmed",
+            "role": "s",
+            "isConfirmed": true
         }
     ],
     "instructor": {
@@ -158,7 +158,315 @@
         "email": "dr.angelayu@gmail.com",
         "password": "dr.angelayu",
         "role": "i",
-"isConfirmed": true,
-        "briefIntroduction": "<p>I'm Angela, I'm a developer with a passion for teaching. I'm the <strong>lead instructor</strong> at the London App Brewery, London's leading <strong>Programming Bootcamp</strong>. I've helped hundreds of thousands of students learn to code and change their lives by becoming a developer. I've been invited by companies such as Twitter, Facebook and Google to teach their employees.</p><p>My first foray into programming was when I was just 12 years old, wanting to build my own Space Invader game. Since then, I've made <strong>hundred of websites, apps and games</strong>. But most importantly, I realised that my <strong>greatest passion</strong> is teaching. </p><p>I spend most of my time researching how to make <strong>learning to code fun</strong> and make <strong>hard concepts easy to understand</strong>. I apply everything I discover into my bootcamp courses. In my courses, you'll find lots of geeky humour but also lots of <strong>explanations and animations</strong> to make sure everything is easy to understand. </p><p><strong>I'll be there for you every step of the way.</strong></p>"
-    }
+        "briefIntroduction": "<p>I'm Angela, I'm a developer with a passion for teaching. I'm the <strong>lead instructor</strong> at the London App Brewery, London's leading <strong>Programming Bootcamp</strong>. I've helped hundreds of thousands of students learn to code and change their lives by becoming a developer. I've been invited by companies such as Twitter, Facebook and Google to teach their employees.</p><p>My first foray into programming was when I was just 12 years old, wanting to build my own Space Invader game. Since then, I've made <strong>hundred of websites, apps and games</strong>. But most importantly, I realised that my <strong>greatest passion</strong> is teaching. </p><p>I spend most of my time researching how to make <strong>learning to code fun</strong> and make <strong>hard concepts easy to understand</strong>. I apply everything I discover into my bootcamp courses. In my courses, you'll find lots of geeky humour but also lots of <strong>explanations and animations</strong> to make sure everything is easy to understand. </p><p><strong>I'll be there for you every step of the way.</strong></p>",
+        "isConfirmed": true
+    },
+    "curriculum": [
+        {
+            "sectionName": "Introduction to Cross-Platform Development with Flutter and Dart",
+            "unitNames": [
+                "Introduction to the Course",
+                "Download the Course Syllabus",
+                "What is Flutter?",
+                "Why Flutter?",
+                "The Anatomy of a Flutter App",
+                "How to Watch the Course in High Definition",
+                "How to Get the Most Out of the Course",
+                "Join the Student Community"
+            ]
+        },
+        {
+            "sectionName": "Setup and Installation",
+            "unitNames": [
+                "Prerequisites for Flutter Development",
+                "Overview of the Process",
+                "Windows Setup Step 1 - Install the Flutter SDK",
+                "Windows Setup Step 2 - Install Android Studio",
+                "Windows Setup Step 3 - Install the Android Emulator",
+                "Windows Installation Troubleshooting",
+                "A Quick Note About macOS Catalina",
+                "Mac Setup Step 1 - Install the Flutter SDK",
+                "Mac Setup Step 2 - Install Android Studio",
+                "Mac Setup Step 3 - Install the Android Emulator",
+                "Mac Setup Step 4 - Install Xcode and Command Line Tools",
+                "Mac Setup Step 5 - Test the iOS Simulator",
+                "Mac Installation Troubleshooting",
+                "[Optional] Configure Android Studio for Flutter Development",
+                "[Optional] Guided Tour of Android Studio for Flutter Development"
+            ]
+        },
+        {
+            "sectionName": "I Am Rich - How to Create Flutter Apps From Scratch",
+            "unitNames": [
+                "Creating a New Flutter Project from Scratch",
+                "A quick note about Hot Reload",
+                "Scaffolding a Flutter App",
+                "Working with Assets in Flutter & the Pubspec file",
+                "How to Add App Icons to the iOS and Android Apps",
+                "How to Ace this Course"
+            ]
+        },
+        {
+            "sectionName": "Running Your App on a Physical Device",
+            "unitNames": [
+                "Deploying Your Flutter Apps to a Physical Device",
+                "Deploying Flutter Apps to an Android Phone",
+                "Deploying Flutter Apps to iPhones/iPads",
+                "Tip from Angela - Habit Building with the Calendar Trick"
+            ]
+        },
+        {
+            "sectionName": "I Am Poor - App Challenge",
+            "unitNames": [
+                "What are App Challenges?",
+                "The I Am Poor Challenge",
+                "Show Off Your Work!",
+                "Tip from Angela - Dealing with Distractions",
+                "Do You Want This?"
+            ]
+        },
+        {
+            "sectionName": "MiCard - How to Build Beautiful UIs with Flutter Widgets",
+            "unitNames": [
+                "MiCard - A Single Screen Personal Business Card App",
+                "Hot Reload and Hot Restart - Flutter Power Tools",
+                "How to Use Container Widgets",
+                "How to use Column & Row Widgets for Layout",
+                "Flutter Layouts Challenge",
+                "Tapping into Widget Properties",
+                "Incorporating Custom Fonts in Your Flutter App",
+                "Adding Material Icons with the Icon Widget",
+                "Flutter Card & ListTile Widgets",
+                "Download the Completed Project",
+                "Tip from Angela - Nothing Easy is Worth Doing!"
+            ]
+        },
+        {
+            "sectionName": "Dicee - Building Apps with State",
+            "unitNames": [
+                "Dicee - A Stateful Dice App",
+                "Using the Expanded Widget to Create Flexible Layouts",
+                "How to Use Intention Actions",
+                "Adding Gesture Detection with Flutter Button Widges",
+                "[Dart] Functions - Part 1",
+                "Making the Dice Image Change Reactively",
+                "[Dart] Variables",
+                "[Dart] Data Types",
+                "Stateful vs. Stateless Widgets - What's the Difference?",
+                "Randomising the Dice",
+                "Challenge 1 Solution",
+                "Challenge 2 Solution",
+                "Challenge 3 Solution",
+                "Download the Completed Project",
+                "Tip from Angela - How to Deal with Procrastination"
+            ]
+        },
+        {
+            "sectionName": "Boss Level Challenge 1 - Magic 8 Ball",
+            "unitNames": [
+                "Magic 8 Ball - A Decision Making App",
+                "Step 1 - Set Up The Project",
+                "Step 2 - Create a Stateless Widget",
+                "Step 3 - Create a Stateful Widget",
+                "Step 4 - Make it Interactive",
+                "Step 5 - Randomise it",
+                "Step 6 - Update the State",
+                "Customise It!",
+                "Tip from Angela - Building a Programming Habit"
+            ]
+        },
+        {
+            "sectionName": "Xylophone - Using Flutter and Dart Packages to Speed Up Development",
+            "unitNames": [
+                "Xylophone - A Simple Musical Instrument App",
+                "What are Flutter & Dart Packages?",
+                "How to Play Sound Across Platforms",
+                "How to Play Multiple Sounds",
+                "[Dart] Functions - Part 2",
+                "Updating the UI of Our App",
+                "[Dart] Functions - Part 3",
+                "[Dart] Functions Challenge",
+                "Refactoring Our App",
+                "[Dart] Arrow Functions",
+                "Customise It!",
+                "Download the Completed Project",
+                "Tip from Angela - The 20 Minute Method"
+            ]
+        },
+        {
+            "sectionName": "Quizzler -Modularising & Organising Flutter Code",
+            "unitNames": [
+                "Quizzler - A True/False Quiz App",
+                "Building a Score Keeper",
+                "[Dart] Lists",
+                "Displaying the Questions",
+                "Checking User Answers",
+                "[Dart] Conditionals - IF/ELSE",
+                "More Dart Programming Challenges",
+                "Creating a Question Class",
+                "[Dart] Classes and Objects",
+                "Abstraction in Action",
+                "Encapsulation in Action",
+                "Inheritance in Action",
+                "Polymorphism in Action",
+                "Adding Back the Score Keeper",
+                "Code Challenge",
+                "[Dart] Class Constructors",
+                "Download the Completed Project",
+                "Tip from Angela - Learning Before you Eat"
+            ]
+        },
+        {
+            "sectionName": "Boss Level Challenge 2 - Destini",
+            "unitNames": [
+                "Destini - A Choose Your Own Adventure Game",
+                "Set Up the Project",
+                "Familiarise Yourself with the Starting Project",
+                "Step 1 - Adding a Image as a Background",
+                "Solutions on GitHub",
+                "Step 2/3/4 - Create a New Story Class",
+                "Step 5/6/7 - Create the Story Brain",
+                "Display the Story in the App",
+                "Step 11/12/13/14 - Display the Choices in the App",
+                "Update the Story Based on User Choice",
+                "Step 21 - Use the Story Plan to Progress through the Story",
+                "Step 22/23/24 - Restart the Game When the User Reaches the End",
+                "Step 25 - Renaming and Refactoring Using Android Studio",
+                "Step 26/27/28 - Hiding Buttons",
+                "Download the Completed App!",
+                "Tip from Angela - Retrieval is How You Learn"
+            ]
+        },
+        {
+            "sectionName": "BMI Calculator - Building Flutter UI for Intermediates",
+            "unitNames": [
+                "BMI Calculator - A Beautiful Health App",
+                "How to Use Flutter Themes",
+                "How to Refactor Flutter Widgets",
+                "[Dart] Final vs. Const",
+                "Creating Custom Flutter Widgets",
+                "The GestureDetector Widget",
+                "[Dart] Enums",
+                "[Dart] Ternary Operator",
+                "[Dart] Functions as First Order Objects",
+                "The Flutter Slider Widget",
+                "Customising Widgets with Themes",
+                "Composition vs. Inheritance - Building Flutter Widgets From Scratch",
+                "Multi-Screen Apps Using Routes and Navigation",
+                "[Dart] Maps",
+                "Designing the Result Page",
+                "Adding the BMI Calculator Functionality",
+                "Download the Completed Project",
+                "Tip from Angela - Dealing with Lack of Progress"
+            ]
+        },
+        {
+            "sectionName": "Clima - Powering Your Flutter App with Live Web Data",
+            "unitNames": [
+                "Clima - A Modern Weather App",
+                "Getting Location Data From Across Platforms",
+                "[Dart] Futures, Async & Await",
+                "Stateful Widget Lifecycle Methods",
+                "[Dart] Exception Handling & Null Aware Operators",
+                "Async/Await Challenge",
+                "Application Programming Interfaces (APIs) Explained",
+                "Networking in Flutter Apps with the HTTP Package",
+                "JSON Parsing and Dynamic Types",
+                "Getting Actual Weather Data from the OpenWeatherMap API",
+                "Showing a Spinner While the User Waits",
+                "Passing Data to a State Object",
+                "Updating the Weather with the WeatherModel",
+                "Refactoring the Location Methods",
+                "Creating and Styling a TextField Widget for Text Entry",
+                "Passing Data Backwards Through the Navigation Stack",
+                "Download the Completed Project",
+                "Tip from Angela - Mixing Knowledge"
+            ]
+        },
+        {
+            "sectionName": "Boss Level Challenge 3 - Bitcoin Ticker",
+            "unitNames": [
+                "Bitcoin Ticker - A Simple Cryptocurrency Price Tracker",
+                "The Material DropdownButton Widget",
+                "[Dart] Loops",
+                "Building Widgets with Loops Solution",
+                "Introducing Cupertino Widgets",
+                "Building Platform Specific UI (iOS & Android)",
+                "Introduction to Boss Level Challenge 3",
+                "Level 1 - Bronze Medal",
+                "Level 2 - Silver Medal",
+                "Level 3 - Gold Medal",
+                "Check out the completed app!",
+                "Tip from Angela - Dealing with Frustration"
+            ]
+        },
+        {
+            "sectionName": "Flash Chat - Flutter x Firebase Cloud Firestore",
+            "unitNames": [
+                "Flash Chat - A Lightning Fast Messaging App",
+                "Named Routes Challenge",
+                "[Dart] Static Modifier",
+                "Refactor Routes with the Static Const",
+                "Flutter Hero Animations",
+                "Custom Flutter Animations with the Animation Controller",
+                "[Dart] Mixins",
+                "Prepackaged Flutter Animations",
+                "Code Refactoring Challenge",
+                "Creating a New Firebase Project",
+                "Potential Problems When Incorporating Firebase",
+                "Android Firebase Project Setup",
+                "iOS Firebase Project Setup",
+                "Firebase Flutter Packages Setup (iOS & Android)",
+                "Registering Users with Firebase using FirebaseAuth",
+                "Authenticating Users with FirebaseAuth",
+                "Showing a Spinner while the User Waits",
+                "Saving Data into Cloud Firestore",
+                "Listening for Data from Firebase using Streams",
+                "[Dart] Streams",
+                "Turning Streams into Widgets Using the StreamBuilder",
+                "The Flutter ListView",
+                "A Different UI for Different Senders",
+                "Cloud Firestore Authorisation and Security Rules",
+                "Download the Completed Project",
+                "Tip from Angela - Sleep is My Secret Weapon"
+            ]
+        },
+        {
+            "sectionName": "Flutter State Management",
+            "unitNames": [
+                "Todoey - Your very own To-Do List App",
+                "Designing the To-Do List App",
+                "The ListView Challenge",
+                "The BottomSheet Widget",
+                "Positioning the BottomSheet above the Keyboard",
+                "What is State and How do we Manage it?",
+                "How do Callbacks work in Dart?",
+                "The ListView Builder",
+                "Lifting State Up Challenge",
+                "Flutter App Architecture Patterns",
+                "Introducing the Provider Package",
+                "Using a Provider and a ChangeNotifier to Manage State",
+                "Adding New To-Do List Tasks",
+                "Checking off To-Do List Tasks",
+                "Deleting Tasks using the Provider Design Pattern",
+                "Download the Completed Project",
+                "Tip from Angela - How to Solidify Your Knowledge"
+            ]
+        },
+        {
+            "sectionName": "Next Steps",
+            "unitNames": [
+                "Join the #FlutterBrew Contest!",
+                "Keep Learning!",
+                "Publish Your Apps!",
+                "Tip from Angela - Review your goals!"
+            ]
+        },
+        {
+            "sectionName": "Bonus Section",
+            "unitNames": [
+                "Recording of our Live AMA (aka AAA - Ask Angela Anything)"
+            ]
+        }
+    ]
 }
