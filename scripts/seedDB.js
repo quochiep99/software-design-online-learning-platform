@@ -115,6 +115,7 @@ async function seedDB() {
                 "defaultCurriculum": data[i].curriculum
             }
             course.description = require("./description");
+            course.isComplete = true;
             course = await course.save();
             field = await field.save();
 
