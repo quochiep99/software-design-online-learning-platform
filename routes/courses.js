@@ -196,8 +196,10 @@ router.get("/:id/learn/:currentLessonName", middleware.ensureAuthenticated, midd
     const course = await Course.findById(req.params.id).
         populate("field");
     const progress = req.user.progress;
+    // First we find all the courses progress of user
+    // Next we find the progress of the course user is watching
     for (var i = 0; i < progress.length; i++) {
-        if (progress[i].name === course.title) {
+        if (progress[i].name && progress[i].name === course.title) {
             const curriculum = progress[i];
             for (var i = 0; i < curriculum.children.length; i++) {
                 for (var j = 0; j < curriculum.children[i].children.length; j++) {
@@ -214,8 +216,7 @@ router.get("/:id/learn/:currentLessonName", middleware.ensureAuthenticated, midd
                     }
                 }
             }
-        }
-        break;
+        }        
     }
     // error happens
     res.render("404");
