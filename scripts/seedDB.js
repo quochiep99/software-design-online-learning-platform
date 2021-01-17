@@ -151,15 +151,18 @@ async function seedDB() {
         course.discountPrice = course.discountPrice.toFixed(2);
 
         // random views
-        course.numViews = Math.floor(Math.random() * 1001)
+        course.numViews = Math.floor(Math.random() * 1001);
+
+        // createdAt updatedAt
         course.updatedAt = new Date();
         course.updatedAt.setDate(course.updatedAt.getDate() - Math.floor(Math.random() * 11 + 2));
+        course.createdAt = new Date(course.updatedAt);
         await course.save();
     }
     const fields = await Field.find({});
     for (const field of fields) {
         field.updatedAt = new Date();
-        field.updatedAt.setDate(field.updatedAt.getDate() - Math.floor(Math.random() * 11 + 2));
+        field.updatedAt.setDate(field.updatedAt.getDate() - Math.floor(Math.random() * 10 + 2));
         await field.save();
     }
 

@@ -349,7 +349,23 @@ router.get("/my-courses/learning", middleware.ensureAuthenticated, async (req, r
 
 })
 
+// Fetch course status, whether user has already watched the entire course
 router.post("/my-courses/courseStatus", middleware.ensureAuthenticated, async (req, res) => {
+    const courseId = req.body.courseId;
+    const user = req.user;
+
+    var courseStatus = false;
+    // find the courseid in the user.enrolledCoursesStatus and get its status
+    for (var i = 0; i < user.enrolledCoursesStatus.length; i++) {
+        if (courseId in user.enrolledCoursesStatus[i]) {
+            courseStatus = user.enrolledCoursesStatus[i][courseId];
+            break;
+        }
+    }
+    res.send(courseStatus);
+})
+
+router.post("/my-courses/updateCourseStatus", middleware.ensureAuthenticated, async (req, res) => {
     const courseId = req.body.courseId;
     const user = req.user;
     const e = {};
@@ -437,9 +453,11 @@ router.get("/profile", middleware.ensureAuthenticated, (req, res) => {
 })
 
 router.post("/profile/basic-information", middleware.ensureAuthenticated, async (req, res) => {
-    if (await User.findOne({ email: req.body.email })) {
-        req.flash("error_msg", "This email already exists !");
-        return res.redirect("/profile");
+    if (req.user.email !== req.body.email) {
+        if (await User.findOne({ email: req.body.email })) {
+            req.flash("error_msg", "This email already exists !");
+            return res.redirect("/profile");
+        }
     }
     const name = req.body.name;
     const email = req.body.email;
